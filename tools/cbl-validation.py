@@ -37,8 +37,6 @@ import os
 import re
 from enum import IntEnum
 from operator import itemgetter
-import comicvine_search
-from comicvine_search import ComicVineClient
 import xml.etree.ElementTree as ET
 from glob import glob
 from sys import argv
@@ -324,7 +322,7 @@ def findVolumeDetails(series,year, issueList):
 
                 for result in response: #Iterate through CV results
                     #If exact series name and year match
-                    if result.name == series and str(result.start_year) == year:
+                    if result.name.replace(",","") == series and str(result.start_year) == year:
                         #Add result to lists
                         series_matches.append(result)
                         curPublisher = result.publisher.name
