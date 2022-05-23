@@ -11,14 +11,18 @@ These lists are not created by me. Credit goes to the orginal authors. I'm just 
 # Contributing
 
 We are looking for people who want to assist in the efforts to make the best reading lists possible.
+Different ways to help include:
 
 ## Contributing code (Pull Requests)
 
 - Only make pull requests against the untrusted branch - never main!
 - Please explain your logic when submitting each PR. You're probably going to get some comments or questions from us, to ensure consistency and maintainability.
-- Each PR should come from its own feature branch not the untrusted branch in your fork, with a meaningful name (what is being added/fixed)
+- Each PR should come with a meaningful name (what is being added/fixed)
 - Make meaningful commits, squash them if necessary
 - Try to keep it to one feature/fix per pull request to keep things clean and easy to understand
 
 ## Suggesting improvements or changes
 - If you have any constructive feedback on the data structure, how reading lists are handled, or issues within the reading-lists themselves, please create an issue on Github which clearly explains your thoughts.
+
+## Creating tools 
+- If you have programming abilities there is always some small script that could be useful. Check the issues list for any potential ideas. 
