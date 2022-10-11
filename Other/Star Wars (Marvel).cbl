@@ -2,6 +2,72 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Star Wars (Marvel)</Name>
   <Books>
+    <Book Series="Star Wars: The High Republic" Number="1" Volume="2021" Year="2021">
+      <Id>e2973f6a-ad03-40d2-bb34-79c402f76f20</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="2" Volume="2021" Year="2021">
+      <Id>9758e411-d487-4bf5-8a7a-b37f798f1b0c</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="3" Volume="2021" Year="2021">
+      <Id>f86abee4-0726-4111-aa61-cd7ff5d4c8cc</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="4" Volume="2021" Year="2021">
+      <Id>4fcf6b98-0d23-4ef4-9484-f3cf66e12d2a</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="5" Volume="2021" Year="2021">
+      <Id>6201ee98-45c5-4321-994a-c64509a628b4</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="6" Volume="2021" Year="2021">
+      <Id>48f93b38-9a5f-43c3-b269-a389fa82ec6d</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="7" Volume="2021" Year="2021">
+      <Id>816da307-8328-4864-8406-7310048d845a</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="8" Volume="2021" Year="2021">
+      <Id>fe00aa1a-756e-42f1-94b1-e6c47726bc7e</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="9" Volume="2021" Year="2021">
+      <Id>b1869a98-0b85-40af-90b8-b91ea9c49914</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="10" Volume="2021" Year="2021">
+      <Id>688cf2fd-f01b-4014-a63b-df69cbfe07e6</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="11" Volume="2021" Year="2022">
+      <Id>f05d8c7a-944a-4b1b-b60b-d3fc2061694b</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="12" Volume="2021" Year="2022">
+      <Id>6c264662-a0e2-41d4-8f5d-d2419b9c48f9</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="13" Volume="2021" Year="2022">
+      <Id>0a46a287-a89e-4a97-817d-cab5bdd94197</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="14" Volume="2021" Year="2022">
+      <Id>a5b211a0-48e0-4b08-8674-ce331d2cb0b9</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic" Number="15" Volume="2021" Year="2022">
+      <Id>817e5de6-8843-4cb4-8b91-888f23959847</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic: Trail of Shadows" Number="1" Volume="2021" Year="2021">
+      <Id>3f45943c-837a-45c5-b4a2-308f28ba4244</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic: Trail of Shadows" Number="2" Volume="2021" Year="2022">
+      <Id>05991dca-dc90-4ccd-9154-74af4e64c284</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic: Trail of Shadows" Number="3" Volume="2021" Year="2022">
+      <Id>c40a7adf-9bb4-4d7c-a631-8c5c1f4b31c4</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic: Trail of Shadows" Number="4" Volume="2021" Year="2022">
+      <Id>f4428d6f-7fa5-43ba-a546-8c6e782d2b21</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic: Trail of Shadows" Number="5" Volume="2021" Year="2022">
+      <Id>fd051c49-2d80-4f38-ada1-e89585885c30</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic: Eye of the Storm" Number="1" Volume="2022" Year="2022">
+      <Id>3ee83c7e-8806-46b4-9c8e-6c628259b792</Id>
+    </Book>
+    <Book Series="Star Wars: The High Republic: Eye of the Storm" Number="2" Volume="2022" Year="2022">
+      <Id>e36b3408-0b05-4fe2-8f64-51c4ac2e0778</Id>
+    </Book>
     <Book Series="Star Wars: Age of the Republic - Qui-Gon Jin" Number="1" Volume="2018" Year="2019">
       <Id>e72e606c-e32b-4485-ab77-9c77fbdddc27</Id>
     </Book>
