@@ -1,0 +1,640 @@
+,SeriesName,SeriesStartYear,IssueNum,IssueType,CoverDate,Name,SeriesID,IssueID,CV Series Name,CV Series Year,CV Cover Image,CV Issue URL,Days Between Issues
+1,Spider-Woman,2020,9,Issue,2021-04-01,Comicvine,125812,828864,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-9/4000-828864/,30 days 00:00:00
+2,Spider-Woman,2020,10,Issue,2021-05-01,Comicvine,125812,838889,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-10/4000-838889/,30 days 00:00:00
+3,Union,2021,3,Issue,2021-04-01,Comicvine,132378,830034,The Union,2020, ,https://comicvine.gamespot.com/issue/4000-830034/,30 days 00:00:00
+4,Union,2021,4,Issue,2021-05-01,Comicvine,132378,840960,The Union,2020, ,https://comicvine.gamespot.com/issue/4000-840960/,61 days 00:00:00
+5,Union,2021,5,Issue,2021-07-01,Comicvine,132378,847517,The Union,2020, ,https://comicvine.gamespot.com/issue/4000-847517/,61 days 00:00:00
+6,Beta Ray Bill,2021,1,Issue,2021-05-01,Comicvine,135002,840951,Beta Ray Bill,2021, ,https://comicvine.gamespot.com/beta-ray-bill-1-argent-star-part-one-of-five/4000-840951/,31 days 00:00:00
+7,Beta Ray Bill,2021,2,Issue,2021-06-01,Comicvine,135002,846082,Beta Ray Bill,2021, ,https://comicvine.gamespot.com/beta-ray-bill-2-argent-star-part-two-of-five/4000-846082/,30 days 00:00:00
+8,Beta Ray Bill,2021,3,Issue,2021-07-01,Comicvine,135002,855602,Beta Ray Bill,2021, ,https://comicvine.gamespot.com/beta-ray-bill-3-argent-star-part-three-of-five/4000-855602/,31 days 00:00:00
+9,Beta Ray Bill,2021,4,Issue,2021-08-01,Comicvine,135002,866589,Beta Ray Bill,2021, ,https://comicvine.gamespot.com/beta-ray-bill-4-argent-star-part-four-of-five/4000-866589/,31 days 00:00:00
+10,Beta Ray Bill,2021,5,Issue,2021-09-01,Comicvine,135002,874546,Beta Ray Bill,2021, ,https://comicvine.gamespot.com/beta-ray-bill-5-argent-star-finale/4000-874546/,243 days 00:00:00
+11,Thor,2020,9,Issue,2021-01-01,Comicvine,123862,816469,Thor,2020, ,https://comicvine.gamespot.com/thor-9-prey-part-one-of-six/4000-816469/,31 days 00:00:00
+12,Thor,2020,10,Issue,2021-02-01,Comicvine,123862,820028,Thor,2020, ,https://comicvine.gamespot.com/thor-10-prey-part-two-of-six/4000-820028/,28 days 00:00:00
+13,Thor,2020,11,Issue,2021-03-01,Comicvine,123862,824034,Thor,2020, ,https://comicvine.gamespot.com/thor-11-prey-part-three-of-six/4000-824034/,31 days 00:00:00
+14,Thor,2020,12,Issue,2021-04-01,Comicvine,123862,828865,Thor,2020, ,https://comicvine.gamespot.com/thor-12-prey-part-four-of-six/4000-828865/,30 days 00:00:00
+15,Thor,2020,13,Issue,2021-05-01,Comicvine,123862,838890,Thor,2020, ,https://comicvine.gamespot.com/thor-13-prey-part-five-of-six/4000-838890/,31 days 00:00:00
+16,Thor,2020,14,Issue,2021-06-01,Comicvine,123862,842969,Thor,2020, ,https://comicvine.gamespot.com/thor-14-prey-finale/4000-842969/,31 days 00:00:00
+17,Black Cat,2020,4,Issue,2021-05-01,Comicvine,132631,840952,Black Cat,2020, ,https://comicvine.gamespot.com/black-cat-4-the-queen-cat-strikes/4000-840952/,365 days 00:00:00
+18,Spider-Man Noir,2020,1,Issue,2020-05-01,Comicvine,125476,739565,Spider-Man Noir,2020, ,https://comicvine.gamespot.com/spider-man-noir-1/4000-739565/,123 days 00:00:00
+19,Spider-Man Noir,2020,2,Issue,2020-09-01,Comicvine,125476,784413,Spider-Man Noir,2020, ,https://comicvine.gamespot.com/spider-man-noir-2/4000-784413/,30 days 00:00:00
+20,Spider-Man Noir,2020,3,Issue,2020-10-01,Comicvine,125476,796300,Spider-Man Noir,2020, ,https://comicvine.gamespot.com/spider-man-noir-3/4000-796300/,31 days 00:00:00
+21,Spider-Man Noir,2020,4,Issue,2020-11-01,Comicvine,125476,803648,Spider-Man Noir,2020, ,https://comicvine.gamespot.com/spider-man-noir-4/4000-803648/,30 days 00:00:00
+22,Spider-Man Noir,2020,5,Issue,2020-12-01,Comicvine,125476,814493,Spider-Man Noir,2020, ,https://comicvine.gamespot.com/spider-man-noir-5/4000-814493/,214 days 00:00:00
+23,Marvels Snapshot: Sub-Mariner,2020,1,Issue,2020-05-01,Comicvine,125680,740828,Sub-Mariner: Marvels Snapshots,2020, ,https://comicvine.gamespot.com/issue/4000-740828/,0 days 00:00:00
+24,Marvels Snapshot: Fantastic Four,2020,1,Issue,2020-05-01,Comicvine,126013,743438,Fantastic Four: Marvels Snapshots,2020, ,https://comicvine.gamespot.com/issue/4000-743438/,92 days 00:00:00
+25,Marvels Snapshot: Captain America,2020,1,Issue,2020-08-01,Comicvine,128102,769750,Captain America: Marvels Snapshots,2020, ,https://comicvine.gamespot.com/issue/4000-769750/,92 days 00:00:00
+26,Marvels Snapshot: X-Men,2020,1,Issue,2020-11-01,Comicvine,130397,799957,X-Men: Marvels Snapshots,2020, ,https://comicvine.gamespot.com/issue/4000-799957/,30 days 00:00:00
+27,Marvels Snapshot: Spider-Man,2020,1,Issue,2020-12-01,Comicvine,130981,807575,Spider-Man: Marvels Snapshots,2020, ,https://comicvine.gamespot.com/issue/4000-807575/,31 days 00:00:00
+28,Marvels Snapshot: Avengers,2021,1,Issue,2021-01-01,Comicvine,132128,819116,Avengers: Marvels Snapshots,2020, ,https://comicvine.gamespot.com/issue/4000-819116/,31 days 00:00:00
+29,Marvels Snapshot: Civil War,2021,1,Issue,2021-02-01,Comicvine,132374,820020,Civil War: Marvels Snapshots,2020, ,https://comicvine.gamespot.com/issue/4000-820020/,59 days 00:00:00
+30,Marvels Snapshot: Captain Marvel,2021,1,Issue,2021-04-01,Comicvine,134051,830025,Captain Marvel: Marvels Snapshots,2021, ,https://comicvine.gamespot.com/issue/4000-830025/,59 days 00:00:00
+31,M.O.D.O.K.: Head Games,2021,1,Issue,2021-02-01,Comicvine,132377,820025,M.O.D.O.K.: Head Games,2020, ,https://comicvine.gamespot.com/issue/4000-820025/,28 days 00:00:00
+32,M.O.D.O.K.: Head Games,2021,2,Issue,2021-03-01,Comicvine,132377,824030,M.O.D.O.K.: Head Games,2020, ,https://comicvine.gamespot.com/issue/4000-824030/,31 days 00:00:00
+33,M.O.D.O.K.: Head Games,2021,3,Issue,2021-04-01,Comicvine,132377,828859,M.O.D.O.K.: Head Games,2020, ,https://comicvine.gamespot.com/issue/4000-828859/,61 days 00:00:00
+34,M.O.D.O.K.: Head Games,2021,4,Issue,2021-06-01,Comicvine,132377,846086,M.O.D.O.K.: Head Games,2020, ,https://comicvine.gamespot.com/issue/4000-846086/,212 days 00:00:00
+35,Black Widow,2020,1,Issue,2020-11-01,Comicvine,130059,797239,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-1-the-ties-that-bind-part-1/4000-797239/,30 days 00:00:00
+36,Black Widow,2020,2,Issue,2020-12-01,Comicvine,130059,807567,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-2-the-ties-that-bind-part-2/4000-807567/,31 days 00:00:00
+37,Black Widow,2020,3,Issue,2021-01-01,Comicvine,130059,816464,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-3-the-ties-that-bind-part-3/4000-816464/,31 days 00:00:00
+38,Black Widow,2020,4,Issue,2021-02-01,Comicvine,130059,820018,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-4-the-ties-that-bind-part-4/4000-820018/,59 days 00:00:00
+39,Black Widow,2020,5,Issue,2021-04-01,Comicvine,130059,828849,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-5-the-ties-that-bind-finale/4000-828849/,61 days 00:00:00
+40,Black Widow,2020,6,Issue,2021-06-01,Comicvine,130059,846083,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-6-widows/4000-846083/,212 days 00:00:00
+41,Iron Man,2020,1,Issue,2020-11-01,Comicvine,130396,799952,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-1-rest-your-brains/4000-799952/,30 days 00:00:00
+42,Iron Man,2020,2,Issue,2020-12-01,Comicvine,130396,813283,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-2-gods-and-complexes/4000-813283/,31 days 00:00:00
+43,Iron Man,2020,3,Issue,2021-01-01,Comicvine,130396,817711,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-3-the-land-wherein-thou-art-a-stranger/4000-817711/,31 days 00:00:00
+44,Iron Man,2020,4,Issue,2021-02-01,Comicvine,130396,821496,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-4-the-man-with-the-golden-arms/4000-821496/,28 days 00:00:00
+45,Iron Man,2020,5,Issue,2021-03-01,Comicvine,130396,824027,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-5-bravest-of-the-argives/4000-824027/,31 days 00:00:00
+46,Iron Man,2020,6,Issue,2021-04-01,Comicvine,130396,828856,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-6-dreams-of-deicide/4000-828856/,90 days 00:00:00
+47,Taskmaster,2021,1,Issue,2021-01-01,Comicvine,131881,817716,Taskmaster,2020, ,https://comicvine.gamespot.com/issue/4000-817716/,31 days 00:00:00
+48,Taskmaster,2021,2,Issue,2021-02-01,Comicvine,131881,821502,Taskmaster,2020, ,https://comicvine.gamespot.com/issue/4000-821502/,59 days 00:00:00
+49,Taskmaster,2021,3,Issue,2021-04-01,Comicvine,131881,828198,Taskmaster,2020, ,https://comicvine.gamespot.com/issue/4000-828198/,30 days 00:00:00
+50,Taskmaster,2021,4,Issue,2021-05-01,Comicvine,131881,836305,Taskmaster,2020, ,https://comicvine.gamespot.com/issue/4000-836305/,0 days 00:00:00
+51,Taskmaster,2021,5,Issue,2021-05-01,Comicvine,131881,839799,Taskmaster,2020, ,https://comicvine.gamespot.com/issue/4000-839799/,30 days 00:00:00
+52,Amazing Spider-Man,2018,60,Issue,2021-04-01,Comicvine,112161,830021,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-60-no-exit/4000-830021/,30 days 00:00:00
+53,Amazing Spider-Man,2018,61,Issue,2021-05-01,Comicvine,112161,836297,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-61-lets-try-something-new/4000-836297/,0 days 00:00:00
+54,Amazing Spider-Man,2018,62,Issue,2021-05-01,Comicvine,112161,839788,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-62-wag-the-gog/4000-839788/,31 days 00:00:00
+55,Amazing Spider-Man,2018,63,Issue,2021-06-01,Comicvine,112161,842198,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-63-kings-ransom-part-one/4000-842198/,0 days 00:00:00
+56,Amazing Spider-Man,2018,64,Issue,2021-06-01,Comicvine,112161,844965,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-64-kings-ransom-part-two/4000-844965/,30 days 00:00:00
+57,Amazing Spider-Man,2018,65,Issue,2021-07-01,Comicvine,112161,847507,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-65-kings-ransom-part-three/4000-847507/,0 days 00:00:00
+58,Giant-Size Amazing Spider-Man: King’s Ransom,2021,1,Issue,2021-07-01,Comicvine,136022,848850,Giant-Size Amazing Spider-Man: King's Ransom,2021, ,https://comicvine.gamespot.com/giant-size-amazing-spider-man-kings-ransom-1-concl/4000-848850/,122 days 00:00:00
+59,Iron Fist: Heart of the Dragon,2021,1,Issue,2021-03-01,Comicvine,133355,825506,Iron Fist: Heart of the Dragon,2021, ,https://comicvine.gamespot.com/iron-fist-heart-of-the-dragon-1/4000-825506/,31 days 00:00:00
+60,Iron Fist: Heart of the Dragon,2021,2,Issue,2021-04-01,Comicvine,133355,828855,Iron Fist: Heart of the Dragon,2021, ,https://comicvine.gamespot.com/iron-fist-heart-of-the-dragon-2/4000-828855/,30 days 00:00:00
+61,Iron Fist: Heart of the Dragon,2021,3,Issue,2021-05-01,Comicvine,133355,838779,Iron Fist: Heart of the Dragon,2021, ,https://comicvine.gamespot.com/iron-fist-heart-of-the-dragon-3/4000-838779/,31 days 00:00:00
+62,Iron Fist: Heart of the Dragon,2021,4,Issue,2021-06-01,Comicvine,133355,842962,Iron Fist: Heart of the Dragon,2021, ,https://comicvine.gamespot.com/iron-fist-heart-of-the-dragon-4/4000-842962/,30 days 00:00:00
+63,Iron Fist: Heart of the Dragon,2021,5,Issue,2021-07-01,Comicvine,133355,847513,Iron Fist: Heart of the Dragon,2021, ,https://comicvine.gamespot.com/iron-fist-heart-of-the-dragon-5/4000-847513/,31 days 00:00:00
+64,Iron Fist: Heart of the Dragon,2021,6,Issue,2021-08-01,Comicvine,133355,857655,Iron Fist: Heart of the Dragon,2021, ,https://comicvine.gamespot.com/iron-fist-heart-of-the-dragon-6/4000-857655/,457 days 00:00:00
+65,Captain America,2018,20,Issue,2020-05-01,Comicvine,112027,742364,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-20-all-die-young-part-i/4000-742364/,153 days 00:00:00
+66,Captain America,2018,21,Issue,2020-10-01,Comicvine,112027,787345,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-21-all-die-young-part-ii/4000-787345/,0 days 00:00:00
+67,Captain America,2018,22,Issue,2020-10-01,Comicvine,112027,794932,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-22-all-die-young-part-iii/4000-794932/,31 days 00:00:00
+68,Captain America,2018,23,Issue,2020-11-01,Comicvine,112027,799945,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-23-all-die-young-part-iv/4000-799945/,30 days 00:00:00
+69,Captain America,2018,24,Issue,2020-12-01,Comicvine,112027,810725,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-24-all-die-young-part-v/4000-810725/,31 days 00:00:00
+70,Captain America,2018,25,Issue,2021-01-01,Comicvine,112027,819117,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-25-all-die-young-part-vi-the-promi/4000-819117/,31 days 00:00:00
+71,Captain America,2018,26,Issue,2021-02-01,Comicvine,112027,821492,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-26-all-die-young-part-vii/4000-821492/,59 days 00:00:00
+72,Captain America,2018,27,Issue,2021-04-01,Comicvine,112027,828851,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-27-all-die-young-part-viii/4000-828851/,30 days 00:00:00
+73,Captain America,2018,28,Issue,2021-05-01,Comicvine,112027,840953,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-28-all-die-young-part-ix/4000-840953/,61 days 00:00:00
+74,Captain America,2018,29,Issue,2021-07-01,Comicvine,112027,851304,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-29-all-die-young-part-x/4000-851304/,62 days 00:00:00
+75,Captain America,2018,30,Issue,2021-09-01,Comicvine,112027,868607,Captain America,2018, ,https://comicvine.gamespot.com/captain-america-30-all-die-young-conclusion/4000-868607/,184 days 00:00:00
+76,Chris Claremont: Anniversary Special,2021,1,Issue,2021-03-01,Comicvine,133194,824447,Chris Claremont Anniversary Special,2021, ,https://comicvine.gamespot.com/chris-claremont-anniversary-special-1/4000-824447/,61 days 00:00:00
+77,Thor & Loki: Double Trouble,2021,1,Issue,2021-05-01,Comicvine,134391,836306,Thor & Loki: Double Trouble,2021, ,https://comicvine.gamespot.com/thor-and-loki-double-trouble-1/4000-836306/,31 days 00:00:00
+78,Thor & Loki: Double Trouble,2021,2,Issue,2021-06-01,Comicvine,134391,842970,Thor & Loki: Double Trouble,2021, ,https://comicvine.gamespot.com/thor-and-loki-double-trouble-2/4000-842970/,30 days 00:00:00
+79,Thor & Loki: Double Trouble,2021,3,Issue,2021-07-01,Comicvine,134391,847516,Thor & Loki: Double Trouble,2021, ,https://comicvine.gamespot.com/thor-and-loki-double-trouble-3/4000-847516/,62 days 00:00:00
+80,Thor & Loki: Double Trouble,2021,4,Issue,2021-09-01,Comicvine,134391,868612,Thor & Loki: Double Trouble,2021, ,https://comicvine.gamespot.com/thor-and-loki-double-trouble-4/4000-868612/,274 days 00:00:00
+81,Runaways,2017,32,Issue,2020-12-01,Comicvine,104320,814490,Runaways,2017, ,https://comicvine.gamespot.com/runaways-32-come-away-with-me-pt-i/4000-814490/,121 days 00:00:00
+82,Runaways,2017,33,Issue,2021-04-01,Comicvine,104320,827529,Runaways,2017, ,https://comicvine.gamespot.com/runaways-33-come-away-with-me-pt-ii/4000-827529/,30 days 00:00:00
+83,Runaways,2017,34,Issue,2021-05-01,Comicvine,104320,832869,Runaways,2017, ,https://comicvine.gamespot.com/runaways-34-come-away-with-me-part-3/4000-832869/,31 days 00:00:00
+84,Runaways,2017,35,Issue,2021-06-01,Comicvine,104320,842207,Runaways,2017, ,https://comicvine.gamespot.com/runaways-35-come-away-with-me-pt-iv/4000-842207/,30 days 00:00:00
+85,Runaways,2017,36,Issue,2021-07-01,Comicvine,104320,851311,Runaways,2017, ,https://comicvine.gamespot.com/runaways-36-come-away-with-me-part-v/4000-851311/,62 days 00:00:00
+86,Runaways,2017,37,Issue,2021-09-01,Comicvine,104320,868611,Runaways,2017, ,https://comicvine.gamespot.com/runaways-37-come-away-with-me-part-6/4000-868611/,30 days 00:00:00
+87,Runaways,2017,38,Issue,2021-10-01,Comicvine,104320,878826,Runaways,2017, ,https://comicvine.gamespot.com/runaways-38-come-away-with-me-pt-vii/4000-878826/,273 days 00:00:00
+88,"Wolverine: Black, White & Blood",2021,1,Issue,2021-01-01,Comicvine,131734,816472,"Wolverine: Black, White & Blood",2020, ,https://comicvine.gamespot.com/issue/4000-816472/,31 days 00:00:00
+89,"Wolverine: Black, White & Blood",2021,2,Issue,2021-02-01,Comicvine,131734,821503,"Wolverine: Black, White & Blood",2020, ,https://comicvine.gamespot.com/issue/4000-821503/,59 days 00:00:00
+90,"Wolverine: Black, White & Blood",2021,3,Issue,2021-04-01,Comicvine,131734,828199,"Wolverine: Black, White & Blood",2020, ,https://comicvine.gamespot.com/issue/4000-828199/,30 days 00:00:00
+91,"Wolverine: Black, White & Blood",2021,4,Issue,2021-05-01,Comicvine,131734,836307,"Wolverine: Black, White & Blood",2020, ,https://comicvine.gamespot.com/issue/4000-836307/,0 days 00:00:00
+92,Captain America: Anniversary Tribute,2021,1,Issue,2021-05-01,Comicvine,134614,838587,Captain America Anniversary Tribute,2021, ,https://comicvine.gamespot.com/captain-america-anniversary-tribute-1/4000-838587/,0 days 00:00:00
+93,Non-Stop Spider-Man,2021,1,Issue,2021-05-01,Comicvine,134390,836303,Non-Stop Spider-Man,2021, ,https://comicvine.gamespot.com/non-stop-spider-man-1-chapter-one-big-brain-play/4000-836303/,31 days 00:00:00
+94,Non-Stop Spider-Man,2021,2,Issue,2021-06-01,Comicvine,134390,842966,Non-Stop Spider-Man,2021, ,https://comicvine.gamespot.com/non-stop-spider-man-2-big-brain-play-part-two/4000-842966/,61 days 00:00:00
+95,Non-Stop Spider-Man,2021,3,Issue,2021-08-01,Comicvine,134390,857657,Non-Stop Spider-Man,2021, ,https://comicvine.gamespot.com/non-stop-spider-man-3-big-brain-play-part-three/4000-857657/,212 days 00:00:00
+96,U.S.Agent,2021,1,Issue,2021-01-01,Comicvine,131732,816470,U.S.Agent,2020, ,https://comicvine.gamespot.com/issue/4000-816470/,31 days 00:00:00
+97,U.S.Agent,2021,2,Issue,2021-02-01,Comicvine,131732,822353,U.S.Agent,2020, ,https://comicvine.gamespot.com/issue/4000-822353/,59 days 00:00:00
+98,U.S.Agent,2021,3,Issue,2021-04-01,Comicvine,131732,830033,U.S.Agent,2020, ,https://comicvine.gamespot.com/issue/4000-830033/,30 days 00:00:00
+99,U.S.Agent,2021,4,Issue,2021-05-01,Comicvine,131732,840959,U.S.Agent,2020, ,https://comicvine.gamespot.com/issue/4000-840959/,31 days 00:00:00
+100,U.S.Agent,2021,5,Issue,2021-06-01,Comicvine,131732,846093,U.S.Agent,2020, ,https://comicvine.gamespot.com/issue/4000-846093/,92 days 00:00:00
+101,Eternals,2021,1,Issue,2021-03-01,Comicvine,133080,824024,Eternals,2021, ,https://comicvine.gamespot.com/eternals-1-only-death-is-eternal-part-1/4000-824024/,31 days 00:00:00
+102,Eternals,2021,2,Issue,2021-04-01,Comicvine,133080,828190,Eternals,2021, ,https://comicvine.gamespot.com/eternals-2-only-death-is-eternal-part-2/4000-828190/,30 days 00:00:00
+103,Eternals,2021,3,Issue,2021-05-01,Comicvine,133080,836301,Eternals,2021, ,https://comicvine.gamespot.com/eternals-3-only-death-is-eternal-part-3/4000-836301/,31 days 00:00:00
+104,Eternals,2021,4,Issue,2021-06-01,Comicvine,133080,844971,Eternals,2021, ,https://comicvine.gamespot.com/eternals-4-only-death-is-eternal-part-4/4000-844971/,61 days 00:00:00
+105,Eternals,2021,5,Issue,2021-08-01,Comicvine,133080,866594,Eternals,2021, ,https://comicvine.gamespot.com/eternals-5-only-death-is-eternal-part-5/4000-866594/,31 days 00:00:00
+106,Eternals,2021,6,Issue,2021-09-01,Comicvine,133080,874642,Eternals,2021, ,https://comicvine.gamespot.com/eternals-6-only-death-is-eternal-finale/4000-874642/,123 days 00:00:00
+107,Avengers: Curse of the Man-Thing,2021,1,Issue,2021-05-01,Comicvine,135000,840950,Avengers: Curse of the Man-Thing,2021, ,https://comicvine.gamespot.com/avengers-curse-of-the-man-thing-1/4000-840950/,31 days 00:00:00
+108,Spider-Man: Curse of the Man-Thing,2021,1,Issue,2021-06-01,Comicvine,135763,846092,Spider-Man: Curse of the Man-Thing,2021, ,https://comicvine.gamespot.com/spider-man-curse-of-the-man-thing-1/4000-846092/,30 days 00:00:00
+109,X-Men: Curse of the Man-Thing,2021,1,Issue,2021-07-01,Comicvine,135904,847518,X-Men: Curse of the Man-Thing,2021, ,https://comicvine.gamespot.com/x-men-curse-of-the-man-thing-1/4000-847518/,91 days 00:00:00
+110,Immortal Hulk,2018,43,Issue,2021-04-01,Comicvine,111425,827523,The Immortal Hulk,2018, ,https://comicvine.gamespot.com/the-immortal-hulk-43-were-the-good-guys/4000-827523/,30 days 00:00:00
+111,Immortal Hulk,2018,44,Issue,2021-05-01,Comicvine,111425,836302,The Immortal Hulk,2018, ,https://comicvine.gamespot.com/the-immortal-hulk-44-to-rule-in-hell/4000-836302/,31 days 00:00:00
+112,Immortal Hulk,2018,45,Issue,2021-06-01,Comicvine,111425,842203,The Immortal Hulk,2018, ,https://comicvine.gamespot.com/the-immortal-hulk-45-ready-or-not/4000-842203/,30 days 00:00:00
+113,Immortal Hulk,2018,46,Issue,2021-07-01,Comicvine,111425,847512,The Immortal Hulk,2018, ,https://comicvine.gamespot.com/the-immortal-hulk-46-you-and-me-against-the-world/4000-847512/,31 days 00:00:00
+114,Immortal Hulk,2018,47,Issue,2021-08-01,Comicvine,111425,857654,The Immortal Hulk,2018, ,https://comicvine.gamespot.com/the-immortal-hulk-47-chaotic-terrain/4000-857654/,92 days 00:00:00
+115,America Chavez: Made in the U.S.A.,2021,1,Issue,2021-05-01,Comicvine,134219,832858,America Chavez: Made In The USA,2021, ,https://comicvine.gamespot.com/america-chavez-made-in-the-usa-1/4000-832858/,31 days 00:00:00
+116,America Chavez: Made in the U.S.A.,2021,2,Issue,2021-06-01,Comicvine,134219,842199,America Chavez: Made In The USA,2021, ,https://comicvine.gamespot.com/america-chavez-made-in-the-usa-2/4000-842199/,30 days 00:00:00
+117,America Chavez: Made in the U.S.A.,2021,3,Issue,2021-07-01,Comicvine,134219,847508,America Chavez: Made In The USA,2021, ,https://comicvine.gamespot.com/america-chavez-made-in-the-usa-3/4000-847508/,62 days 00:00:00
+118,America Chavez: Made in the U.S.A.,2021,4,Issue,2021-09-01,Comicvine,134219,868605,America Chavez: Made In The USA,2021, ,https://comicvine.gamespot.com/america-chavez-made-in-the-usa-4/4000-868605/,30 days 00:00:00
+119,America Chavez: Made in the U.S.A.,2021,5,Issue,2021-10-01,Comicvine,134219,878794,America Chavez: Made In The USA,2021, ,https://comicvine.gamespot.com/america-chavez-made-in-the-usa-5/4000-878794/,183 days 00:00:00
+120,Guardians of the Galaxy,2020,11,Issue,2021-04-01,Comicvine,124447,828853,Guardians of the Galaxy,2020, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-11-here-we-make-our-stand/4000-828853/,30 days 00:00:00
+121,Guardians of the Galaxy,2020,12,Issue,2021-05-01,Comicvine,124447,839794,Guardians of the Galaxy,2020, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-12-the-time-of-mercy-is-pa/4000-839794/,31 days 00:00:00
+122,Guardians of the Galaxy,2020,13,Issue,2021-06-01,Comicvine,124447,842961,Guardians of the Galaxy,2020, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-13-were-super-heroes/4000-842961/,30 days 00:00:00
+123,Guardians of the Galaxy,2020,14,Issue,2021-07-01,Comicvine,124447,848851,Guardians of the Galaxy,2020, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-14-dooms-will-be-done/4000-848851/,31 days 00:00:00
+124,Guardians of the Galaxy,2020,15,Issue,2021-08-01,Comicvine,124447,863928,Guardians of the Galaxy,2020, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-15-hope-you-survive-the-ex/4000-863928/,92 days 00:00:00
+125,Deadpool Nerdy 30,2021,1,Issue,2021-05-01,Comicvine,134389,836300,Deadpool Nerdy 30,2021, ,https://comicvine.gamespot.com/deadpool-nerdy-30-1/4000-836300/,61 days 00:00:00
+126,Maestro: War & Pax,2021,1,Issue,2021-03-01,Comicvine,133356,825508,Maestro: War & Pax,2021, ,https://comicvine.gamespot.com/issue/4000-825508/,31 days 00:00:00
+127,Maestro: War & Pax,2021,2,Issue,2021-04-01,Comicvine,133356,830028,Maestro: War & Pax,2021, ,https://comicvine.gamespot.com/issue/4000-830028/,30 days 00:00:00
+128,Maestro: War & Pax,2021,3,Issue,2021-05-01,Comicvine,133356,839796,Maestro: War & Pax,2021, ,https://comicvine.gamespot.com/issue/4000-839796/,31 days 00:00:00
+129,Maestro: War & Pax,2021,4,Issue,2021-06-01,Comicvine,133356,842965,Maestro: War & Pax,2021, ,https://comicvine.gamespot.com/issue/4000-842965/,30 days 00:00:00
+130,Maestro: War & Pax,2021,5,Issue,2021-07-01,Comicvine,133356,855624,Maestro: War & Pax,2021, ,https://comicvine.gamespot.com/issue/4000-855624/,0 days 00:00:00
+131,Amazing Spider-Man,2018,66,Issue,2021-07-01,Comicvine,112161,851302,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-66-tangled-web/4000-851302/,31 days 00:00:00
+132,Amazing Spider-Man,2018,67,Issue,2021-08-01,Comicvine,112161,857649,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-67-chameleon-conspiracy-par/4000-857649/,0 days 00:00:00
+133,Amazing Spider-Man,2018,68,Issue,2021-08-01,Comicvine,112161,858874,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-68-chameleon-conspiracy-par/4000-858874/,0 days 00:00:00
+134,Amazing Spider-Man,2018,69,Issue,2021-08-01,Comicvine,112161,863924,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-69-chameleon-conspiracy-par/4000-863924/,0 days 00:00:00
+135,Giant-Size Amazing Spider-Man: The Chameleon Conspiracy,2021,1,Issue,2021-08-01,Comicvine,137255,866595,Giant-Size Amazing Spider-Man: Chameleon Conspiracy,2021, ,https://comicvine.gamespot.com/giant-size-amazing-spider-man-chameleon-conspiracy/4000-866595/,181 days 00:00:00
+136,Excalibur,2019,16,Issue,2021-02-01,Comicvine,122488,822348,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-16-they-keep-killing-braddocks/4000-822348/,0 days 00:00:00
+137,Hellions,2020,7,Issue,2021-02-01,Comicvine,126015,820023,Hellions,2020, ,https://comicvine.gamespot.com/hellions-7-whetstone/4000-820023/,28 days 00:00:00
+138,Hellions,2020,8,Issue,2021-03-01,Comicvine,126015,824026,Hellions,2020, ,https://comicvine.gamespot.com/hellions-8-the-grinning-neonate/4000-824026/,28 days 00:00:00
+139,X-Factor,2020,5,Issue,2021-02-01,Comicvine,129097,820030,X-Factor,2020, ,https://comicvine.gamespot.com/x-factor-5-suite-no-5-first-movement-finale-after-/4000-820030/,28 days 00:00:00
+140,Cable,2020,7,Issue,2021-03-01,Comicvine,125678,825505,Cable,2020, ,https://comicvine.gamespot.com/cable-7-gritty-days-in-the-city-of-brotherly-love/4000-825505/,31 days 00:00:00
+141,Cable,2020,8,Issue,2021-04-01,Comicvine,125678,828850,Cable,2020, ,https://comicvine.gamespot.com/cable-8-my-dinner-with-domino/4000-828850/,59 days 00:00:00
+142,X-Men,2019,16,Issue,2021-02-01,Comicvine,122077,823351,X-Men,2019, ,https://comicvine.gamespot.com/x-men-16-sworded-out/4000-823351/,0 days 00:00:00
+143,Marauders,2019,16,Issue,2021-02-01,Comicvine,122218,820747,Marauders,2019, ,https://comicvine.gamespot.com/marauders-16-consequences/4000-820747/,0 days 00:00:00
+144,New Mutants,2020,14,Issue,2021-02-01,Comicvine,122666,821499,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-821499/,28 days 00:00:00
+145,X-Factor,2020,6,Issue,2021-03-01,Comicvine,129097,824036,X-Factor,2020, ,https://comicvine.gamespot.com/x-factor-6-suite-no-6-scio-me-nihil-scire-second-m/4000-824036/,0 days 00:00:00
+146,New Mutants,2020,15,Issue,2021-03-01,Comicvine,122666,826560,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-826560/,0 days 00:00:00
+147,X-Men,2019,17,Issue,2021-03-01,Comicvine,122077,826566,X-Men,2019, ,https://comicvine.gamespot.com/x-men-17-empty-nest/4000-826566/,181 days 00:00:00
+148,Giant-Size X-Men: Magneto,2020,1,Issue,2020-09-01,Comicvine,128617,779007,Giant-Size X-Men: Magneto,2020, ,https://comicvine.gamespot.com/giant-size-x-men-magneto-1/4000-779007/,181 days 00:00:00
+149,Marauders,2019,17,Issue,2021-03-01,Comicvine,122218,824452,Marauders,2019, ,https://comicvine.gamespot.com/marauders-17-the-winds-of-change/4000-824452/,28 days 00:00:00
+150,Wolverine,2020,8,Issue,2021-02-01,Comicvine,125121,823350,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-8-the-past-aint-dead-prologue-war-storie/4000-823350/,89 days 00:00:00
+151,Cable,2020,9,Issue,2021-05-01,Comicvine,125678,839790,Cable,2020, ,https://comicvine.gamespot.com/cable-9-bargaining/4000-839790/,61 days 00:00:00
+152,Wolverine,2020,9,Issue,2021-03-01,Comicvine,125121,826565,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-9-bidding-war/4000-826565/,31 days 00:00:00
+153,Wolverine,2020,10,Issue,2021-04-01,Comicvine,125121,830035,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-10-mercenaries/4000-830035/,61 days 00:00:00
+154,Wolverine,2020,11,Issue,2021-06-01,Comicvine,125121,842971,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-11-a-confusion-of-monsters/4000-842971/,30 days 00:00:00
+155,Wolverine,2020,12,Issue,2021-07-01,Comicvine,125121,851314,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-12-penumbra/4000-851314/,242 days 00:00:00
+156,Juggernaut,2020,1,Issue,2020-11-01,Comicvine,130568,803645,Juggernaut,2020, ,https://comicvine.gamespot.com/juggernaut-1-picking-up-the-pieces/4000-803645/,30 days 00:00:00
+157,Juggernaut,2020,2,Issue,2020-12-01,Comicvine,130568,813284,Juggernaut,2020, ,https://comicvine.gamespot.com/juggernaut-2-how-green-is-my-valley/4000-813284/,31 days 00:00:00
+158,Juggernaut,2020,3,Issue,2021-01-01,Comicvine,130568,819120,Juggernaut,2020, ,https://comicvine.gamespot.com/juggernaut-3-stuck-in-the-past/4000-819120/,31 days 00:00:00
+159,Juggernaut,2020,4,Issue,2021-02-01,Comicvine,130568,820745,Juggernaut,2020, ,https://comicvine.gamespot.com/juggernaut-4-scalpel-to-the-soul/4000-820745/,28 days 00:00:00
+160,Juggernaut,2020,5,Issue,2021-03-01,Comicvine,130568,824028,Juggernaut,2020, ,https://comicvine.gamespot.com/juggernaut-5-a-new-beginning-except-not-with-the-n/4000-824028/,31 days 00:00:00
+161,X-Force,2020,17,Issue,2021-04-01,Comicvine,122668,828200,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-828200/,30 days 00:00:00
+162,X-Force,2020,18,Issue,2021-05-01,Comicvine,122668,838891,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-838891/,31 days 00:00:00
+163,X-Force,2020,19,Issue,2021-06-01,Comicvine,122668,844977,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-844977/,30 days 00:00:00
+164,Children of the Atom,2021,3,Issue,2021-07-01,Comicvine,134388,848848,Children of the Atom,2021, ,https://comicvine.gamespot.com/children-of-the-atom-3-unusual-dinner-guests/4000-848848/,91 days 00:00:00
+165,New Mutants,2020,16,Issue,2021-04-01,Comicvine,122666,830031,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-830031/,61 days 00:00:00
+166,New Mutants,2020,17,Issue,2021-06-01,Comicvine,122666,846089,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-846089/,61 days 00:00:00
+167,X-Men,2019,18,Issue,2021-04-01,Comicvine,122077,830036,X-Men,2019, ,https://comicvine.gamespot.com/x-men-18-inside-the-vault/4000-830036/,30 days 00:00:00
+168,X-Men,2019,19,Issue,2021-05-01,Comicvine,122077,840961,X-Men,2019, ,https://comicvine.gamespot.com/x-men-19-out-of-the-vault/4000-840961/,61 days 00:00:00
+169,New Mutants,2020,18,Issue,2021-07-01,Comicvine,122666,855632,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-855632/,122 days 00:00:00
+170,Excalibur,2019,17,Issue,2021-03-01,Comicvine,122488,826556,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-17-qeiii/4000-826556/,31 days 00:00:00
+171,Excalibur,2019,18,Issue,2021-04-01,Comicvine,122488,828191,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-18-mad-women/4000-828191/,30 days 00:00:00
+172,Excalibur,2019,19,Issue,2021-05-01,Comicvine,122488,839793,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-19-wild-violets/4000-839793/,31 days 00:00:00
+173,Excalibur,2019,20,Issue,2021-06-01,Comicvine,122488,842202,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-20-no-pity-from-your-friends/4000-842202/,30 days 00:00:00
+174,X-Men,2019,20,Issue,2021-07-01,Comicvine,122077,855634,X-Men,2019, ,https://comicvine.gamespot.com/x-men-20-lost-love/4000-855634/,91 days 00:00:00
+175,Hellions,2020,9,Issue,2021-04-01,Comicvine,126015,827522,Hellions,2020, ,https://comicvine.gamespot.com/hellions-9-funny-games-level-1/4000-827522/,30 days 00:00:00
+176,Hellions,2020,10,Issue,2021-05-01,Comicvine,126015,832862,Hellions,2020, ,https://comicvine.gamespot.com/hellions-10-funny-games-part-ii-hitbox/4000-832862/,61 days 00:00:00
+177,Hellions,2020,11,Issue,2021-07-01,Comicvine,126015,847510,Hellions,2020, ,https://comicvine.gamespot.com/hellions-11-funny-games-part-iii-kill-screen/4000-847510/,30 days 00:00:00
+178,Cable,2020,10,Issue,2021-06-01,Comicvine,125678,846084,Cable,2020, ,https://comicvine.gamespot.com/cable-10-depression/4000-846084/,61 days 00:00:00
+179,Cable,2020,11,Issue,2021-08-01,Comicvine,125678,866577,Cable,2020, ,https://comicvine.gamespot.com/cable-11-depression/4000-866577/,31 days 00:00:00
+180,Cable,2020,12,Issue,2021-09-01,Comicvine,125678,874521,Cable,2020, ,https://comicvine.gamespot.com/cable-12-shakespeare-in-the-zark/4000-874521/,31 days 00:00:00
+181,S.W.O.R.D.,2010,5,Issue,2021-08-01,Comicvine,141233,903335,S.W.O.R.D.,2021, ,https://comicvine.gamespot.com/issue/4000-903335/,122 days 00:00:00
+182,X-Factor,2020,7,Issue,2021-04-01,Comicvine,129097,827532,X-Factor,2020, ,https://comicvine.gamespot.com/x-factor-7-suite-no-7-scientia-vincere-tenebras/4000-827532/,30 days 00:00:00
+183,X-Factor,2020,8,Issue,2021-05-01,Comicvine,129097,836308,X-Factor,2020, ,https://comicvine.gamespot.com/x-factor-8-suite-no-8-scio-me-nihil-scire-tritone-/4000-836308/,61 days 00:00:00
+184,X-Factor,2020,9,Issue,2021-07-01,Comicvine,129097,848859,X-Factor,2020, ,https://comicvine.gamespot.com/x-factor-9-interlude-dj-marks-mixtape-of-mojoverse/4000-848859/,0 days 00:00:00
+185,X-Corp,2021,1,Issue,2021-07-01,Comicvine,136025,848858,X-Corp,2021, ,https://comicvine.gamespot.com/x-corp-1-simply-superior/4000-848858/,91 days 00:00:00
+186,Marauders,2019,18,Issue,2021-04-01,Comicvine,122218,828860,Marauders,2019, ,https://comicvine.gamespot.com/marauders-18-saving-face/4000-828860/,61 days 00:00:00
+187,Marauders,2019,19,Issue,2021-06-01,Comicvine,122218,842206,Marauders,2019, ,https://comicvine.gamespot.com/marauders-19-fire-and-ice/4000-842206/,61 days 00:00:00
+188,Children of the Atom,2021,4,Issue,2021-08-01,Comicvine,134388,858871,Children of the Atom,2021, ,https://comicvine.gamespot.com/children-of-the-atom-4-captured/4000-858871/,31 days 00:00:00
+189,Children of the Atom,2021,5,Issue,2021-09-01,Comicvine,134388,868608,Children of the Atom,2021, ,https://comicvine.gamespot.com/children-of-the-atom-5-reinforcements/4000-868608/,92 days 00:00:00
+190,Way of X,2021,1,Issue,2021-06-01,Comicvine,135583,844975,Way of X,2021, ,https://comicvine.gamespot.com/way-of-x-1-playing-make-believe/4000-844975/,30 days 00:00:00
+191,Way of X,2021,2,Issue,2021-07-01,Comicvine,135583,851313,Way of X,2021, ,https://comicvine.gamespot.com/way-of-x-2-let-us-prey/4000-851313/,0 days 00:00:00
+192,Marauders,2019,20,Issue,2021-07-01,Comicvine,122218,847514,Marauders,2019, ,https://comicvine.gamespot.com/marauders-20-windriders/4000-847514/,62 days 00:00:00
+193,Marauders,2019,22,Issue,2021-09-01,Comicvine,122218,872876,Marauders,2019, ,https://comicvine.gamespot.com/marauders-22-the-morning-after/4000-872876/,0 days 00:00:00
+194,Guardians of the Galaxy,2020,16,Issue,2021-09-01,Comicvine,124447,872882,Guardians of the Galaxy,2020, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-16-look-upon-me-and-know-f/4000-872882/,61 days 00:00:00
+195,S.W.O.R.D.,2021,7,Issue,2021-11-01,Comicvine,141233,903337,S.W.O.R.D.,2021, ,https://comicvine.gamespot.com/sword-7/4000-903337/,31 days 00:00:00
+196,Guardians of the Galaxy,2020,17,Issue,2021-10-01,Comicvine,124447,880922,Guardians of the Galaxy,2020, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-17-dormammu-is-in-control/4000-880922/,0 days 00:00:00
+197,Cable: Reloaded,2021,1,Issue,2021-10-01,Comicvine,138527,882047,Cable: Reloaded,2021, ,https://comicvine.gamespot.com/cable-reloaded-1-call-in-the-big-gun/4000-882047/,31 days 00:00:00
+198,Last Annihilation: Wiccan & Hulking,2021,1,Issue,2021-11-01,Comicvine,138659,882901,The Last Annihilation: Wiccan & Hulkling,2021, ,https://comicvine.gamespot.com/issue/4000-882901/,0 days 00:00:00
+199,Last Annihilation: Wakanda,2021,1,Issue,2021-11-01,Comicvine,138937,884897,The Last Annihilation: Wakanda,2021, ,https://comicvine.gamespot.com/the-last-annihilation-wakanda-1-orphans-of-empire/4000-884897/,0 days 00:00:00
+200,Guardians of the Galaxy,2020,18,Issue,2021-11-01,Comicvine,124447,885611,Guardians of the Galaxy,2020, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-18-then-its-us/4000-885611/,184 days 00:00:00
+201,Silk,2021,1,Issue,2021-05-01,Comicvine,135005,840957,Silk,2021, ,https://comicvine.gamespot.com/silk-1/4000-840957/,31 days 00:00:00
+202,Silk,2021,2,Issue,2021-06-01,Comicvine,135005,846091,Silk,2021, ,https://comicvine.gamespot.com/silk-2/4000-846091/,30 days 00:00:00
+203,Silk,2021,3,Issue,2021-07-01,Comicvine,135005,848855,Silk,2021, ,https://comicvine.gamespot.com/silk-3/4000-848855/,31 days 00:00:00
+204,Silk,2021,4,Issue,2021-08-01,Comicvine,135005,863932,Silk,2021, ,https://comicvine.gamespot.com/silk-4/4000-863932/,61 days 00:00:00
+205,Silk,2021,5,Issue,2021-10-01,Comicvine,135005,877067,Silk,2021, ,https://comicvine.gamespot.com/silk-5/4000-877067/,153 days 00:00:00
+206,Miles Morales: Spider-Man,2019,24,Issue,2021-05-01,Comicvine,115897,839797,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-839797/,31 days 00:00:00
+207,Miles Morales: Spider-Man,2019,25,Issue,2021-06-01,Comicvine,115897,846088,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-846088/,30 days 00:00:00
+208,Miles Morales: Spider-Man,2019,26,Issue,2021-07-01,Comicvine,115897,855630,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-855630/,31 days 00:00:00
+209,Miles Morales: Spider-Man,2019,27,Issue,2021-08-01,Comicvine,115897,861679,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-861679/,31 days 00:00:00
+210,Miles Morales: Spider-Man,2019,28,Issue,2021-09-01,Comicvine,115897,872883,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-872883/,30 days 00:00:00
+211,Miles Morales: Spider-Man,2019,29,Issue,2021-10-01,Comicvine,115897,878825,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-878825/,122 days 00:00:00
+212,Champions,2020,6,Issue,2021-06-01,Comicvine,130979,844970,Champions,2020, ,https://comicvine.gamespot.com/champions-6-killer-app-part-one/4000-844970/,30 days 00:00:00
+213,Champions,2020,7,Issue,2021-07-01,Comicvine,130979,851305,Champions,2020, ,https://comicvine.gamespot.com/champions-7-killer-app-part-two/4000-851305/,62 days 00:00:00
+214,Champions,2020,8,Issue,2021-09-01,Comicvine,130979,871604,Champions,2020, ,https://comicvine.gamespot.com/champions-8-killer-app-part-three/4000-871604/,61 days 00:00:00
+215,Champions,2020,9,Issue,2021-11-01,Comicvine,130979,884074,Champions,2020, ,https://comicvine.gamespot.com/champions-9-killer-app-part-four/4000-884074/,30 days 00:00:00
+216,Champions,2020,10,Issue,2021-12-01,Comicvine,130979,888645,Champions,2020, ,https://comicvine.gamespot.com/champions-10-killer-app-finale/4000-888645/,183 days 00:00:00
+217,Darkhawk: Heart of the Hawk,2021,1,Issue,2021-06-01,Comicvine,135390,842959,Darkhawk: Heart of the Hawk,2021, ,https://comicvine.gamespot.com/darkhawk-heart-of-the-hawk-1/4000-842959/,30 days 00:00:00
+218,Black Widow,2020,7,Issue,2021-07-01,Comicvine,130059,855609,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-7-i-am-the-black-widow-part-1-of-4/4000-855609/,31 days 00:00:00
+219,Black Widow,2020,8,Issue,2021-08-01,Comicvine,130059,866592,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-8-i-am-the-black-widow-part-2-of-4/4000-866592/,31 days 00:00:00
+220,Black Widow,2020,9,Issue,2021-09-01,Comicvine,130059,874565,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-9-i-am-the-black-widow-part-3-of-4/4000-874565/,30 days 00:00:00
+221,Black Widow,2020,10,Issue,2021-10-01,Comicvine,130059,882061,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-10-i-am-the-black-widow-part-4-of-4/4000-882061/,153 days 00:00:00
+222,Black Knight: Curse of the Ebony Blade,2021,1,Issue,2021-05-01,Comicvine,134613,838566,Black Knight: Curse of the Ebony Blade,2021, ,https://comicvine.gamespot.com/black-knight-curse-of-the-ebony-blade-1/4000-838566/,31 days 00:00:00
+223,Black Knight: Curse of the Ebony Blade,2021,2,Issue,2021-06-01,Comicvine,134613,844967,Black Knight: Curse of the Ebony Blade,2021, ,https://comicvine.gamespot.com/black-knight-curse-of-the-ebony-blade-2/4000-844967/,30 days 00:00:00
+224,Black Knight: Curse of the Ebony Blade,2021,3,Issue,2021-07-01,Comicvine,134613,851303,Black Knight: Curse of the Ebony Blade,2021, ,https://comicvine.gamespot.com/black-knight-curse-of-the-ebony-blade-3/4000-851303/,31 days 00:00:00
+225,Black Knight: Curse of the Ebony Blade,2021,4,Issue,2021-08-01,Comicvine,134613,866591,Black Knight: Curse of the Ebony Blade,2021, ,https://comicvine.gamespot.com/black-knight-curse-of-the-ebony-blade-4/4000-866591/,31 days 00:00:00
+226,Black Knight: Curse of the Ebony Blade,2021,5,Issue,2021-09-01,Comicvine,134613,874558,Black Knight: Curse of the Ebony Blade,2021, ,https://comicvine.gamespot.com/black-knight-curse-of-the-ebony-blade-5/4000-874558/,92 days 00:00:00
+227,Women of Marvel,2021,1,Issue,2021-06-01,Comicvine,135582,844976,Women of Marvel,2021, ,https://comicvine.gamespot.com/women-of-marvel-1/4000-844976/,61 days 00:00:00
+228,Strange Academy,2020,8,Issue,2021-04-01,Comicvine,125477,827530,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-8/4000-827530/,30 days 00:00:00
+229,Strange Academy,2020,9,Issue,2021-05-01,Comicvine,125477,836304,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-9/4000-836304/,61 days 00:00:00
+230,Strange Academy,2020,10,Issue,2021-07-01,Comicvine,125477,847515,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-10/4000-847515/,31 days 00:00:00
+231,Strange Academy,2020,11,Issue,2021-08-01,Comicvine,125477,858880,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-11/4000-858880/,61 days 00:00:00
+232,Strange Academy,2020,12,Issue,2021-10-01,Comicvine,125477,882078,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-12/4000-882078/,92 days 00:00:00
+233,Immortal Hulk: Time of Monsters,2021,1,Issue,2021-07-01,Comicvine,136142,851309,Immortal Hulk: Time of Monsters,2021, ,https://comicvine.gamespot.com/immortal-hulk-time-of-monsters-1-time-of-monsters-/4000-851309/,61 days 00:00:00
+234,"Carnage: Black, White & Blood",2021,1,Issue,2021-05-01,Comicvine,134780,839791,"Carnage: Black, White & Blood",2021, ,https://comicvine.gamespot.com/carnage-black-white-and-blood-1/4000-839791/,31 days 00:00:00
+235,"Carnage: Black, White & Blood",2021,2,Issue,2021-06-01,Comicvine,134780,844969,"Carnage: Black, White & Blood",2021, ,https://comicvine.gamespot.com/carnage-black-white-and-blood-2/4000-844969/,30 days 00:00:00
+236,"Carnage: Black, White & Blood",2021,3,Issue,2021-07-01,Comicvine,134780,847509,"Carnage: Black, White & Blood",2021, ,https://comicvine.gamespot.com/carnage-black-white-and-blood-3/4000-847509/,62 days 00:00:00
+237,"Carnage: Black, White & Blood",2021,4,Issue,2021-09-01,Comicvine,134780,871603,"Carnage: Black, White & Blood",2021, ,https://comicvine.gamespot.com/carnage-black-white-and-blood-4/4000-871603/,31 days 00:00:00
+238,Iron Man Vol. 6 Annual,2021,1,Issue,2021-08-01,Comicvine,136620,857656,Iron Man Annual,2021, ,https://comicvine.gamespot.com/issue/4000-857656/,0 days 00:00:00
+239,Captain America Vol. 9 Annual,2021,1,Issue,2021-08-01,Comicvine,136939,861645,Captain America Annual,2021, ,https://comicvine.gamespot.com/issue/4000-861645/,0 days 00:00:00
+240,Black Cat Vol. 2 Annual,2021,1,Issue,2021-08-01,Comicvine,137254,866590,Black Cat Annual,2021, ,https://comicvine.gamespot.com/issue/4000-866590/,1189 days 00:00:00
+241,Amazing Spider-Man Vol. 5 Annual,2018,42,Issue,2018-04-30,Comicvine,95808,660005,Amazing Spider-Man Annual,2016, ,https://comicvine.gamespot.com/issue/4000-660005/,1220 days 00:00:00
+242,Thor Vol. 6 Annual,2021,1,Issue,2021-09-01,Comicvine,137700,872888,Thor Annual,2021, ,https://comicvine.gamespot.com/issue/4000-872888/,30 days 00:00:00
+243,Guardians of the Galaxy Vol. 6 Annual,2021,1,Issue,2021-10-01,Comicvine,138051,877064,Guardians of the Galaxy Annual,2021, ,https://comicvine.gamespot.com/issue/4000-877064/,0 days 00:00:00
+244,Miles Morales: Spider-Man Annual,2021,1,Issue,2021-10-01,Comicvine,138346,880931,Miles Morales: Spider-Man Annual,2021, ,https://comicvine.gamespot.com/miles-morales-spider-man-annual-1-infinite-destini/4000-880931/,0 days 00:00:00
+245,Avengers Vol. 8 Annual,2021,1,Issue,2021-10-01,Comicvine,138528,882057,Avengers Annual,2021, ,https://comicvine.gamespot.com/issue/4000-882057/,122 days 00:00:00
+246,Black Cat,2020,5,Issue,2021-06-01,Comicvine,132631,842900,Black Cat,2020, ,https://comicvine.gamespot.com/black-cat-5-the-gilded-city-part-1/4000-842900/,30 days 00:00:00
+247,Black Cat,2020,6,Issue,2021-07-01,Comicvine,132631,848847,Black Cat,2020, ,https://comicvine.gamespot.com/black-cat-6-the-gilded-city-part-2/4000-848847/,31 days 00:00:00
+248,Black Cat,2020,7,Issue,2021-08-01,Comicvine,132631,857650,Black Cat,2020, ,https://comicvine.gamespot.com/black-cat-7-the-gilded-city-part-3/4000-857650/,31 days 00:00:00
+249,Black Cat,2020,8,Issue,2021-09-01,Comicvine,132631,874551,Black Cat,2020, ,https://comicvine.gamespot.com/black-cat-8-infinity-score-part-1/4000-874551/,30 days 00:00:00
+250,Black Cat,2020,9,Issue,2021-10-01,Comicvine,132631,880919,Black Cat,2020, ,https://comicvine.gamespot.com/black-cat-9-infinity-score-part-2/4000-880919/,31 days 00:00:00
+251,Black Cat,2020,10,Issue,2021-11-01,Comicvine,132631,886958,Black Cat,2020, ,https://comicvine.gamespot.com/black-cat-10-infinity-score-part-3/4000-886958/,92 days 00:00:00
+252,Giant-Size Black Cat: Infinity Score,2022,1,Issue,2022-02-01,Comicvine,140355,897333,Giant-Sized Black Cat: Infinity Score,2021, ,https://comicvine.gamespot.com/issue/4000-897333/,215 days 00:00:00
+253,Shang-Chi,2021,1,Issue,2021-07-01,Comicvine,136143,851312,Shang-Chi,2021, ,https://comicvine.gamespot.com/shang-chi-1-vs-the-marvel-universe-part-1/4000-851312/,31 days 00:00:00
+254,Shang-Chi,2021,2,Issue,2021-08-01,Comicvine,136143,866597,Shang-Chi,2021, ,https://comicvine.gamespot.com/shang-chi-2-vs-the-marvel-universe-part-2/4000-866597/,31 days 00:00:00
+255,Shang-Chi,2021,3,Issue,2021-09-01,Comicvine,136143,874726,Shang-Chi,2021, ,https://comicvine.gamespot.com/shang-chi-3-vs-the-marvel-universe-part-3/4000-874726/,61 days 00:00:00
+256,Shang-Chi,2021,4,Issue,2021-11-01,Comicvine,136143,884104,Shang-Chi,2021, ,https://comicvine.gamespot.com/shang-chi-4-vs-the-marvel-universe-part-4/4000-884104/,30 days 00:00:00
+257,Shang-Chi,2021,5,Issue,2021-12-01,Comicvine,136143,889481,Shang-Chi,2021, ,https://comicvine.gamespot.com/shang-chi-5-vs-the-marvel-universe-part-5/4000-889481/,31 days 00:00:00
+258,Shang-Chi,2021,6,Issue,2022-01-01,Comicvine,136143,894143,Shang-Chi,2021, ,https://comicvine.gamespot.com/shang-chi-6-vs-the-marvel-universe-finale/4000-894143/,214 days 00:00:00
+259,The Mighty Valkyries,2021,1,Issue,2021-06-01,Comicvine,135581,844972,The Mighty Valkyries,2021, ,https://comicvine.gamespot.com/the-mighty-valkyries-1/4000-844972/,30 days 00:00:00
+260,The Mighty Valkyries,2021,2,Issue,2021-07-01,Comicvine,135581,851310,The Mighty Valkyries,2021, ,https://comicvine.gamespot.com/the-mighty-valkyries-2/4000-851310/,31 days 00:00:00
+261,The Mighty Valkyries,2021,3,Issue,2021-08-01,Comicvine,135581,861678,The Mighty Valkyries,2021, ,https://comicvine.gamespot.com/the-mighty-valkyries-3/4000-861678/,31 days 00:00:00
+262,The Mighty Valkyries,2021,4,Issue,2021-09-01,Comicvine,135581,874700,The Mighty Valkyries,2021, ,https://comicvine.gamespot.com/the-mighty-valkyries-4/4000-874700/,61 days 00:00:00
+263,The Mighty Valkyries,2021,5,Issue,2021-11-01,Comicvine,135581,884898,The Mighty Valkyries,2021, ,https://comicvine.gamespot.com/the-mighty-valkyries-5/4000-884898/,184 days 00:00:00
+264,Demon Days: X-Men,2021,1,Issue,2021-05-01,Comicvine,134220,832861,Demon Days: X-Men,2021, ,https://comicvine.gamespot.com/demon-days-x-men-1/4000-832861/,92 days 00:00:00
+265,Demon Days: Mariko,2021,1,Issue,2021-08-01,Comicvine,136935,861638,Demon Days: Mariko,2021, ,https://comicvine.gamespot.com/demon-days-mariko-1-the-yashida-saga-part-one/4000-861638/,92 days 00:00:00
+266,Demon Days: Cursed Web,2021,1,Issue,2021-11-01,Comicvine,138657,882889,Demon Days: Cursed Web,2021, ,https://comicvine.gamespot.com/demon-days-cursed-web-1-the-yashida-saga-part-two/4000-882889/,92 days 00:00:00
+267,Demon Days: Rising Storm,2021,1,Issue,2022-02-01,Comicvine,140442,898365,Demon Days: Rising Storm,2021, ,https://comicvine.gamespot.com/demon-days-rising-storm-1-the-yashida-saga-part-th/4000-898365/,89 days 00:00:00
+268,Demon Days: Blood Feud,2022,1,Issue,2022-05-01,Comicvine,141991,912467,Demon Days: Blood Feud,2022, ,https://comicvine.gamespot.com/demon-days-blood-feud-1-the-yashida-saga-part-four/4000-912467/,334 days 00:00:00
+269,Spider-Woman,2020,11,Issue,2021-06-01,Comicvine,125812,844974,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-11/4000-844974/,30 days 00:00:00
+270,Spider-Woman,2020,12,Issue,2021-07-01,Comicvine,125812,848857,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-12/4000-848857/,62 days 00:00:00
+271,Spider-Woman,2020,13,Issue,2021-09-01,Comicvine,125812,871609,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-13/4000-871609/,30 days 00:00:00
+272,Spider-Woman,2020,14,Issue,2021-10-01,Comicvine,125812,880934,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-14/4000-880934/,31 days 00:00:00
+273,Spider-Woman,2020,15,Issue,2021-11-01,Comicvine,125812,884899,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-15/4000-884899/,30 days 00:00:00
+274,Spider-Woman,2020,16,Issue,2021-12-01,Comicvine,125812,891573,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-16/4000-891573/,122 days 00:00:00
+275,Marvel’s Voices: Pride,2021,1,Issue,2021-08-01,Comicvine,137050,863930,Marvel's Voices: Pride,2021, ,https://comicvine.gamespot.com/marvels-voices-pride-1/4000-863930/,92 days 00:00:00
+276,Daredevil,2019,28,Issue,2021-05-01,Comicvine,116964,836299,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-28-are-you-okay/4000-836299/,31 days 00:00:00
+277,Daredevil,2019,29,Issue,2021-06-01,Comicvine,116964,842958,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-29-doing-time-part-1/4000-842958/,30 days 00:00:00
+278,Daredevil,2019,30,Issue,2021-07-01,Comicvine,116964,851306,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-30-doing-time-part-2/4000-851306/,31 days 00:00:00
+279,Daredevil,2019,31,Issue,2021-08-01,Comicvine,116964,866593,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-31-lockdown-part-1/4000-866593/,31 days 00:00:00
+280,Daredevil,2019,32,Issue,2021-09-01,Comicvine,116964,874641,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-32-lockdown-part-2/4000-874641/,30 days 00:00:00
+281,Daredevil,2019,33,Issue,2021-10-01,Comicvine,116964,878797,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-33-lockdown-part-3/4000-878797/,31 days 00:00:00
+282,Daredevil,2019,34,Issue,2021-11-01,Comicvine,116964,884075,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-34-lockdown-part-4/4000-884075/,30 days 00:00:00
+283,Daredevil,2019,35,Issue,2021-12-01,Comicvine,116964,891570,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-35-lockdown-part-5/4000-891570/,62 days 00:00:00
+284,Daredevil,2019,36,Issue,2022-02-01,Comicvine,116964,896126,Daredevil,2019, ,https://comicvine.gamespot.com/daredevil-36-lockdown-part-6/4000-896126/,184 days 00:00:00
+285,Gamma Flight,2021,1,Issue,2021-08-01,Comicvine,137048,863927,Gamma Flight,2021, ,https://comicvine.gamespot.com/gamma-flight-1-someone-bigger/4000-863927/,31 days 00:00:00
+286,Gamma Flight,2021,2,Issue,2021-09-01,Comicvine,137048,872881,Gamma Flight,2021, ,https://comicvine.gamespot.com/gamma-flight-2-without-mercy/4000-872881/,30 days 00:00:00
+287,Gamma Flight,2021,3,Issue,2021-10-01,Comicvine,137048,880920,Gamma Flight,2021, ,https://comicvine.gamespot.com/gamma-flight-3-new-territory/4000-880920/,31 days 00:00:00
+288,Gamma Flight,2021,4,Issue,2021-11-01,Comicvine,137048,885610,Gamma Flight,2021, ,https://comicvine.gamespot.com/gamma-flight-4-unfinished-business/4000-885610/,30 days 00:00:00
+289,Gamma Flight,2021,5,Issue,2021-12-01,Comicvine,137048,889472,Gamma Flight,2021, ,https://comicvine.gamespot.com/gamma-flight-5-we-were-transformed/4000-889472/,214 days 00:00:00
+290,Captain Marvel,2019,27,Issue,2021-05-01,Comicvine,116365,838588,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-27-mistakes-were-made/4000-838588/,31 days 00:00:00
+291,Captain Marvel,2019,28,Issue,2021-06-01,Comicvine,116365,844968,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-28-strange-magic-part-1-of-3/4000-844968/,61 days 00:00:00
+292,Captain Marvel,2019,29,Issue,2021-08-01,Comicvine,116365,863925,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-29-strange-magic-part-2-of-3/4000-863925/,31 days 00:00:00
+293,Captain Marvel,2019,30,Issue,2021-09-01,Comicvine,116365,872879,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-30-strange-magic-finale-ripples/4000-872879/,30 days 00:00:00
+294,Captain Marvel,2019,31,Issue,2021-10-01,Comicvine,116365,878796,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-31-vacation-all-i-never-wanted/4000-878796/,92 days 00:00:00
+295,Reptil,2021,1,Issue,2021-07-01,Comicvine,136391,855633,Reptil,2021, ,https://comicvine.gamespot.com/reptil-1/4000-855633/,31 days 00:00:00
+296,Reptil,2021,2,Issue,2021-08-01,Comicvine,136391,863931,Reptil,2021, ,https://comicvine.gamespot.com/reptil-2/4000-863931/,31 days 00:00:00
+297,Reptil,2021,3,Issue,2021-09-01,Comicvine,136391,872886,Reptil,2021, ,https://comicvine.gamespot.com/reptil-3/4000-872886/,61 days 00:00:00
+298,Reptil,2021,4,Issue,2021-11-01,Comicvine,136391,885613,Reptil,2021, ,https://comicvine.gamespot.com/reptil-4/4000-885613/,61 days 00:00:00
+299,Extreme Carnage: Alpha,2021,1,Issue,2021-09-01,Comicvine,137403,868609,Extreme Carnage Alpha,2021, ,https://comicvine.gamespot.com/extreme-carnage-alpha-1/4000-868609/,0 days 00:00:00
+300,Extreme Carnage: Scream,2021,1,Issue,2021-09-01,Comicvine,137604,871605,Extreme Carnage: Scream,2021, ,https://comicvine.gamespot.com/extreme-carnage-scream-1/4000-871605/,0 days 00:00:00
+301,Extreme Carnage: Phage,2021,1,Issue,2021-09-01,Comicvine,137697,872880,Extreme Carnage: Phage,2021, ,https://comicvine.gamespot.com/extreme-carnage-phage-1/4000-872880/,30 days 00:00:00
+302,Extreme Carnage: Lasher,2021,1,Issue,2021-10-01,Comicvine,138050,877063,Extreme Carnage: Lasher,2021, ,https://comicvine.gamespot.com/extreme-carnage-lasher-1/4000-877063/,0 days 00:00:00
+303,Extreme Carnage: Riot,2021,1,Issue,2021-10-01,Comicvine,138530,882074,Extreme Carnage: Riot,2021, ,https://comicvine.gamespot.com/extreme-carnage-riot-1/4000-882074/,31 days 00:00:00
+304,Extreme Carnage: Toxin,2021,1,Issue,2021-11-01,Comicvine,138799,884101,Extreme Carnage: Toxin,2021, ,https://comicvine.gamespot.com/extreme-carnage-toxin-1/4000-884101/,0 days 00:00:00
+305,Extreme Carnage: Agony,2021,1,Issue,2021-11-01,Comicvine,138934,884848,Extreme Carnage: Agony,2021, ,https://comicvine.gamespot.com/extreme-carnage-agony-1/4000-884848/,0 days 00:00:00
+306,Extreme Carnage: Omega,2021,1,Issue,2021-11-01,Comicvine,139293,886972,Extreme Carnage Omega,2021, ,https://comicvine.gamespot.com/extreme-carnage-omega-1/4000-886972/,61 days 00:00:00
+307,Immortal Hulk,2018,48,Issue,2021-09-01,Comicvine,111425,868610,The Immortal Hulk,2018, ,https://comicvine.gamespot.com/the-immortal-hulk-48-hiding-places/4000-868610/,30 days 00:00:00
+308,Immortal Hulk,2018,49,Issue,2021-10-01,Comicvine,111425,877065,The Immortal Hulk,2018, ,https://comicvine.gamespot.com/the-immortal-hulk-49-all-ye-who-enter-here/4000-877065/,61 days 00:00:00
+309,Immortal Hulk,2018,50,Issue,2021-12-01,Comicvine,111425,889473,The Immortal Hulk,2018, ,https://comicvine.gamespot.com/the-immortal-hulk-50-of-hell-and-of-death/4000-889473/,153 days 00:00:00
+310,Fantastic Four: Life Story,2021,1,Issue,2021-07-01,Comicvine,136141,851307,Fantastic Four: Life Story,2021, ,https://comicvine.gamespot.com/fantastic-four-life-story-1-the-60s/4000-851307/,31 days 00:00:00
+311,Fantastic Four: Life Story,2021,2,Issue,2021-08-01,Comicvine,136141,863926,Fantastic Four: Life Story,2021, ,https://comicvine.gamespot.com/fantastic-four-life-story-2-the-70s/4000-863926/,61 days 00:00:00
+312,Fantastic Four: Life Story,2021,3,Issue,2021-10-01,Comicvine,136141,878824,Fantastic Four: Life Story,2021, ,https://comicvine.gamespot.com/fantastic-four-life-story-3-the-80s/4000-878824/,31 days 00:00:00
+313,Fantastic Four: Life Story,2021,4,Issue,2021-11-01,Comicvine,136141,884872,Fantastic Four: Life Story,2021, ,https://comicvine.gamespot.com/fantastic-four-life-story-4-the-90s/4000-884872/,92 days 00:00:00
+314,Fantastic Four: Life Story,2021,5,Issue,2022-02-01,Comicvine,136141,897330,Fantastic Four: Life Story,2021, ,https://comicvine.gamespot.com/fantastic-four-life-story-5-the-00s/4000-897330/,59 days 00:00:00
+315,Fantastic Four: Life Story,2021,6,Issue,2022-04-01,Comicvine,136141,905716,Fantastic Four: Life Story,2021, ,https://comicvine.gamespot.com/fantastic-four-life-story-6-the-10s/4000-905716/,304 days 00:00:00
+316,Marvels,2021,1,Issue,2021-06-01,Comicvine,135762,846087,The Marvels,2021, ,https://comicvine.gamespot.com/the-marvels-1-part-one-the-birth-of-madness/4000-846087/,30 days 00:00:00
+317,Marvels,2021,2,Issue,2021-07-01,Comicvine,135762,855627,The Marvels,2021, ,https://comicvine.gamespot.com/the-marvels-2-part-two-strands-and-patterns-stuff/4000-855627/,31 days 00:00:00
+318,Marvels,2021,3,Issue,2021-08-01,Comicvine,135762,866596,The Marvels,2021, ,https://comicvine.gamespot.com/the-marvels-3-part-three-the-monster-belt/4000-866596/,61 days 00:00:00
+319,Marvels,2021,4,Issue,2021-10-01,Comicvine,135762,880930,The Marvels,2021, ,https://comicvine.gamespot.com/the-marvels-4-part-four-ohios-fine/4000-880930/,31 days 00:00:00
+320,Marvels,2021,5,Issue,2021-11-01,Comicvine,135762,886973,The Marvels,2021, ,https://comicvine.gamespot.com/the-marvels-5-part-five-i-might-know-a-guy/4000-886973/,61 days 00:00:00
+321,Marvels,2021,6,Issue,2022-01-01,Comicvine,135762,896123,The Marvels,2021, ,https://comicvine.gamespot.com/the-marvels-6-part-six-reflections-in-a-lotus-gard/4000-896123/,122 days 00:00:00
+322,Amazing Fantasy,2021,1,Issue,2021-09-01,Comicvine,137880,874518,Amazing Fantasy,2021, ,https://comicvine.gamespot.com/amazing-fantasy-1-chapter-1-arrival/4000-874518/,30 days 00:00:00
+323,Amazing Fantasy,2021,2,Issue,2021-10-01,Comicvine,137880,882050,Amazing Fantasy,2021, ,https://comicvine.gamespot.com/amazing-fantasy-2-chapter-2-tribes/4000-882050/,31 days 00:00:00
+324,Amazing Fantasy,2021,3,Issue,2021-11-01,Comicvine,137880,886933,Amazing Fantasy,2021, ,https://comicvine.gamespot.com/amazing-fantasy-3-chapter-3-choices/4000-886933/,61 days 00:00:00
+325,Amazing Fantasy,2021,4,Issue,2022-01-01,Comicvine,137880,892243,Amazing Fantasy,2021, ,https://comicvine.gamespot.com/amazing-fantasy-4-chapter-4-enslaved/4000-892243/,31 days 00:00:00
+326,Amazing Fantasy,2021,5,Issue,2022-02-01,Comicvine,137880,897326,Amazing Fantasy,2021, ,https://comicvine.gamespot.com/amazing-fantasy-5-chapter-5-path-to-power/4000-897326/,153 days 00:00:00
+327,Amazing Spider-Man,2018,70,Issue,2021-09-01,Comicvine,112161,868603,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-70-prelude-to-sinister-war/4000-868603/,0 days 00:00:00
+328,Sinister War,2021,1,Issue,2021-09-01,Comicvine,137605,871607,Sinister War,2021, ,https://comicvine.gamespot.com/sinister-war-1-part-one/4000-871607/,0 days 00:00:00
+329,Amazing Spider-Man,2018,71,Issue,2021-09-01,Comicvine,112161,874540,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-71-sinister-war-part-1/4000-874540/,30 days 00:00:00
+330,Sinister War,2021,2,Issue,2021-10-01,Comicvine,137605,877068,Sinister War,2021, ,https://comicvine.gamespot.com/sinister-war-2-part-two/4000-877068/,0 days 00:00:00
+331,Sinister War,2021,3,Issue,2021-10-01,Comicvine,137605,880933,Sinister War,2021, ,https://comicvine.gamespot.com/sinister-war-3-part-three/4000-880933/,0 days 00:00:00
+332,Amazing Spider-Man,2018,72,Issue,2021-10-01,Comicvine,112161,882053,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-72-sinister-war-part-2/4000-882053/,31 days 00:00:00
+333,Sinister War,2021,4,Issue,2021-11-01,Comicvine,137605,882902,Sinister War,2021, ,https://comicvine.gamespot.com/sinister-war-4-conclusion/4000-882902/,0 days 00:00:00
+334,Amazing Spider-Man,2018,73,Issue,2021-11-01,Comicvine,112161,884071,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-73-sins-of-our-fathers/4000-884071/,0 days 00:00:00
+335,Amazing Spider-Man,2018,74,Issue,2021-11-01,Comicvine,112161,886944,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-74-what-cost-victory/4000-886944/,31 days 00:00:00
+336,Kang the Conqueror,2021,1,Issue,2021-10-01,Comicvine,138345,880929,Kang the Conqueror,2021, ,https://comicvine.gamespot.com/kang-the-conqueror-1-only-myself-left-to-conquer-p/4000-880929/,31 days 00:00:00
+337,Kang the Conqueror,2021,2,Issue,2021-11-01,Comicvine,138345,884877,Kang the Conqueror,2021, ,https://comicvine.gamespot.com/kang-the-conqueror-2-only-myself-left-to-conquer-p/4000-884877/,30 days 00:00:00
+338,Kang the Conqueror,2021,3,Issue,2021-12-01,Comicvine,138345,889475,Kang the Conqueror,2021, ,https://comicvine.gamespot.com/kang-the-conqueror-3-only-myself-left-to-conquer-p/4000-889475/,31 days 00:00:00
+339,Kang the Conqueror,2021,4,Issue,2022-01-01,Comicvine,138345,894366,Kang the Conqueror,2021, ,https://comicvine.gamespot.com/kang-the-conqueror-4-only-myself-left-to-conquer-p/4000-894366/,31 days 00:00:00
+340,Kang the Conqueror,2021,5,Issue,2022-02-01,Comicvine,138345,899165,Kang the Conqueror,2021, ,https://comicvine.gamespot.com/kang-the-conqueror-5-only-myself-left-to-conqueror/4000-899165/,123 days 00:00:00
+341,Defenders,2021,1,Issue,2021-10-01,Comicvine,138207,878798,Defenders,2021, ,https://comicvine.gamespot.com/defenders-1-eighth-cosmos-the-magician/4000-878798/,31 days 00:00:00
+342,Defenders,2021,2,Issue,2021-11-01,Comicvine,138207,884100,Defenders,2021, ,https://comicvine.gamespot.com/defenders-2-sixth-cosmos-judgment/4000-884100/,30 days 00:00:00
+343,Defenders,2021,3,Issue,2021-12-01,Comicvine,138207,888647,Defenders,2021, ,https://comicvine.gamespot.com/defenders-3-fifth-cosmos-the-high-priestess/4000-888647/,62 days 00:00:00
+344,Defenders,2021,4,Issue,2022-02-01,Comicvine,138207,898368,Defenders,2021, ,https://comicvine.gamespot.com/defenders-4-fourth-cosmos-the-lovers/4000-898368/,28 days 00:00:00
+345,Defenders,2021,5,Issue,2022-03-01,Comicvine,138207,903908,Defenders,2021, ,https://comicvine.gamespot.com/defenders-5-third-cosmos-the-hierophant/4000-903908/,181 days 00:00:00
+346,Symbiote Spider-Man: Crossroads,2021,1,Issue,2021-09-01,Comicvine,137889,874762,Symbiote Spider-Man: Crossroads,2021, ,https://comicvine.gamespot.com/symbiote-spider-man-crossroads-1/4000-874762/,30 days 00:00:00
+347,Symbiote Spider-Man: Crossroads,2021,2,Issue,2021-10-01,Comicvine,137889,882079,Symbiote Spider-Man: Crossroads,2021, ,https://comicvine.gamespot.com/symbiote-spider-man-crossroads-2/4000-882079/,31 days 00:00:00
+348,Symbiote Spider-Man: Crossroads,2021,3,Issue,2021-11-01,Comicvine,137889,885614,Symbiote Spider-Man: Crossroads,2021, ,https://comicvine.gamespot.com/symbiote-spider-man-crossroads-3/4000-885614/,30 days 00:00:00
+349,Symbiote Spider-Man: Crossroads,2021,4,Issue,2021-12-01,Comicvine,137889,889482,Symbiote Spider-Man: Crossroads,2021, ,https://comicvine.gamespot.com/symbiote-spider-man-crossroads-4/4000-889482/,31 days 00:00:00
+350,Symbiote Spider-Man: Crossroads,2021,5,Issue,2022-01-01,Comicvine,137889,895339,Symbiote Spider-Man: Crossroads,2021, ,https://comicvine.gamespot.com/symbiote-spider-man-crossroads-5/4000-895339/,214 days 00:00:00
+351,Fantastic Four,2018,31,Issue,2021-06-01,Comicvine,112685,846085,Fantastic Four,2018, ,https://comicvine.gamespot.com/fantastic-four-31-self-examinations/4000-846085/,30 days 00:00:00
+352,Fantastic Four,2018,32,Issue,2021-07-01,Comicvine,112685,848849,Fantastic Four,2018, ,https://comicvine.gamespot.com/fantastic-four-32-bride-of-doom-part-1-rules-of-en/4000-848849/,31 days 00:00:00
+353,Fantastic Four,2018,33,Issue,2021-08-01,Comicvine,112685,861675,Fantastic Four,2018, ,https://comicvine.gamespot.com/fantastic-four-33-bride-of-doom-part-2-royal-weddi/4000-861675/,31 days 00:00:00
+354,Fantastic Four,2018,34,Issue,2021-09-01,Comicvine,112685,874643,Fantastic Four,2018, ,https://comicvine.gamespot.com/fantastic-four-34-bride-of-doom-finale-chapter-the/4000-874643/,61 days 00:00:00
+355,Fantastic Four,2018,35,Issue,2021-11-01,Comicvine,112685,884863,Fantastic Four,2018, ,https://comicvine.gamespot.com/fantastic-four-35/4000-884863/,0 days 00:00:00
+356,Fantastic Four,2018,36,Issue,2021-11-01,Comicvine,112685,885609,Fantastic Four,2018, ,https://comicvine.gamespot.com/fantastic-four-36-flame-on/4000-885609/,30 days 00:00:00
+357,Fantastic Four,2018,37,Issue,2021-12-01,Comicvine,112685,890608,Fantastic Four,2018, ,https://comicvine.gamespot.com/fantastic-four-37-there-are-monsters-on-yancy-stre/4000-890608/,62 days 00:00:00
+358,Fantastic Four,2018,38,Issue,2022-02-01,Comicvine,112685,896134,Fantastic Four,2018, ,https://comicvine.gamespot.com/fantastic-four-38-family-crisis/4000-896134/,123 days 00:00:00
+359,Spider-Man: Life Story Annual,2021,1,Issue,2021-10-01,Comicvine,138532,882077,Spider-Man: Life Story Annual,2021, ,https://comicvine.gamespot.com/spider-man-life-story-annual-1/4000-882077/,0 days 00:00:00
+360,Marvel’s Voices: Identity,2021,1,Issue,2021-10-01,Comicvine,138531,882075,Marvel's Voices: Identity,2021, ,https://comicvine.gamespot.com/marvels-voices-identity-1/4000-882075/,122 days 00:00:00
+361,Savage Avengers,2019,20,Issue,2021-06-01,Comicvine,118663,846090,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-20-chapter-twenty-the-clothes-do-n/4000-846090/,61 days 00:00:00
+362,Savage Avengers,2019,21,Issue,2021-08-01,Comicvine,118663,857658,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-21-chapter-twenty-one-dream-warrio/4000-857658/,31 days 00:00:00
+363,Savage Avengers,2019,22,Issue,2021-09-01,Comicvine,118663,872887,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-22-chapter-twenty-two-a-waking-nig/4000-872887/,30 days 00:00:00
+364,Savage Avengers,2019,23,Issue,2021-10-01,Comicvine,118663,877066,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-23-chapter-twenty-three-house-call/4000-877066/,31 days 00:00:00
+365,Savage Avengers,2019,24,Issue,2021-11-01,Comicvine,118663,884103,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-24-chapter-twenty-four-the-defilem/4000-884103/,30 days 00:00:00
+366,Savage Avengers,2019,25,Issue,2021-12-01,Comicvine,118663,888649,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-25-chapter-twenty-five-the-defilem/4000-888649/,31 days 00:00:00
+367,Savage Avengers,2019,26,Issue,2022-01-01,Comicvine,118663,893911,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-26-chapter-twenty-six-the-defileme/4000-893911/,31 days 00:00:00
+368,Savage Avengers,2019,27,Issue,2022-02-01,Comicvine,118663,898362,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-27-chapter-twenty-seven-into-the-p/4000-898362/,28 days 00:00:00
+369,Savage Avengers,2019,28,Issue,2022-03-01,Comicvine,118663,902703,Savage Avengers,2019, ,https://comicvine.gamespot.com/savage-avengers-28-chapter-twenty-eight-coda/4000-902703/,151 days 00:00:00
+370,Non-Stop Spider-Man,2021,4,Issue,2021-10-01,Comicvine,134390,882076,Non-Stop Spider-Man,2021, ,https://comicvine.gamespot.com/non-stop-spider-man-4-the-secret-lives-of-savages/4000-882076/,31 days 00:00:00
+371,Non-Stop Spider-Man,2021,5,Issue,2021-11-01,Comicvine,134390,886975,Non-Stop Spider-Man,2021, ,https://comicvine.gamespot.com/non-stop-spider-man-5-the-secret-lives-of-savages-/4000-886975/,31 days 00:00:00
+372,Spirits of Vengeance: Spirit Rider,2021,1,Issue,2021-10-01,Comicvine,138052,877069,Spirits of Vengeance: Spirit Rider,2021, ,https://comicvine.gamespot.com/spirits-of-vengeance-spirit-rider-1/4000-877069/,61 days 00:00:00
+373,United States of Captain America,2021,1,Issue,2021-08-01,Comicvine,137256,866598,The United States of Captain America,2021, ,https://comicvine.gamespot.com/the-united-states-of-captain-america-1-you-brought/4000-866598/,31 days 00:00:00
+374,United States of Captain America,2021,2,Issue,2021-09-01,Comicvine,137256,874763,The United States of Captain America,2021, ,https://comicvine.gamespot.com/the-united-states-of-captain-america-2-i-see-thing/4000-874763/,30 days 00:00:00
+375,United States of Captain America,2021,3,Issue,2021-10-01,Comicvine,137256,882081,The United States of Captain America,2021, ,https://comicvine.gamespot.com/the-united-states-of-captain-america-3-lookin-for-/4000-882081/,31 days 00:00:00
+376,United States of Captain America,2021,4,Issue,2021-11-01,Comicvine,137256,885615,The United States of Captain America,2021, ,https://comicvine.gamespot.com/the-united-states-of-captain-america-4-i-hate-it-w/4000-885615/,30 days 00:00:00
+377,United States of Captain America,2021,5,Issue,2021-12-01,Comicvine,137256,890615,The United States of Captain America,2021, ,https://comicvine.gamespot.com/the-united-states-of-captain-america-5-oh-captains/4000-890615/,122 days 00:00:00
+378,W.E.B. of Spider-Man,2021,1,Issue,2021-08-01,Comicvine,136800,858801,W.E.B. of Spider-Man,2021, ,https://comicvine.gamespot.com/web-of-spider-man-1/4000-858801/,0 days 00:00:00
+379,W.E.B. of Spider-Man,2021,2,Issue,2021-08-01,Comicvine,136800,863933,W.E.B. of Spider-Man,2021, ,https://comicvine.gamespot.com/web-of-spider-man-2/4000-863933/,61 days 00:00:00
+380,W.E.B. of Spider-Man,2021,3,Issue,2021-10-01,Comicvine,136800,877070,W.E.B. of Spider-Man,2021, ,https://comicvine.gamespot.com/web-of-spider-man-3/4000-877070/,31 days 00:00:00
+381,W.E.B. of Spider-Man,2021,4,Issue,2021-11-01,Comicvine,136800,882903,W.E.B. of Spider-Man,2021, ,https://comicvine.gamespot.com/web-of-spider-man-4/4000-882903/,0 days 00:00:00
+382,W.E.B. of Spider-Man,2021,5,Issue,2021-11-01,Comicvine,136800,884900,W.E.B. of Spider-Man,2021, ,https://comicvine.gamespot.com/web-of-spider-man-5/4000-884900/,61 days 00:00:00
+383,Avengers,2018,46,Issue,2021-09-01,Comicvine,110496,868606,Avengers,2018, ,https://comicvine.gamespot.com/avengers-46-world-war-she-hulk-part-one-the-taking/4000-868606/,30 days 00:00:00
+384,Avengers,2018,47,Issue,2021-10-01,Comicvine,110496,877061,Avengers,2018, ,https://comicvine.gamespot.com/avengers-47-world-war-she-hulk-part-two-the-winter/4000-877061/,31 days 00:00:00
+385,Avengers,2018,48,Issue,2021-11-01,Comicvine,110496,882898,Avengers,2018, ,https://comicvine.gamespot.com/avengers-48-world-war-she-hulk-part-three-power-in/4000-882898/,30 days 00:00:00
+386,Avengers,2018,49,Issue,2021-12-01,Comicvine,110496,889468,Avengers,2018, ,https://comicvine.gamespot.com/avengers-49-world-war-she-hulk-part-four-the-bomb-/4000-889468/,91 days 00:00:00
+387,Thor,2020,15,Issue,2021-09-01,Comicvine,123862,871610,Thor,2020, ,https://comicvine.gamespot.com/thor-15-revelations-part-one-of-three/4000-871610/,30 days 00:00:00
+388,Thor,2020,16,Issue,2021-10-01,Comicvine,123862,882080,Thor,2020, ,https://comicvine.gamespot.com/thor-16-revelations-part-two-of-three/4000-882080/,31 days 00:00:00
+389,Thor,2020,17,Issue,2021-11-01,Comicvine,123862,886976,Thor,2020, ,https://comicvine.gamespot.com/thor-17-revelations-finale/4000-886976/,30 days 00:00:00
+390,Thor,2020,18,Issue,2021-12-01,Comicvine,123862,890614,Thor,2020, ,https://comicvine.gamespot.com/thor-18-master-of-whispers/4000-890614/,61 days 00:00:00
+391,Winter Guard,2021,1,Issue,2021-10-01,Comicvine,138533,882082,Winter Guard,2021, ,https://comicvine.gamespot.com/winter-guard-1/4000-882082/,31 days 00:00:00
+392,Winter Guard,2021,2,Issue,2021-11-01,Comicvine,138533,886977,Winter Guard,2021, ,https://comicvine.gamespot.com/winter-guard-2/4000-886977/,61 days 00:00:00
+393,Winter Guard,2021,3,Issue,2022-01-01,Comicvine,138533,892247,Winter Guard,2021, ,https://comicvine.gamespot.com/winter-guard-3/4000-892247/,31 days 00:00:00
+394,Winter Guard,2021,4,Issue,2022-02-01,Comicvine,138533,896096,Winter Guard,2021, ,https://comicvine.gamespot.com/winter-guard-4/4000-896096/,245 days 00:00:00
+395,Spider-Man: Spider’s Shadow,2021,1,Issue,2021-06-01,Comicvine,135391,842968,Spider-Man: The Spider's Shadow,2021, ,https://comicvine.gamespot.com/spider-man-the-spiders-shadow-1/4000-842968/,30 days 00:00:00
+396,Spider-Man: Spider’s Shadow,2021,2,Issue,2021-07-01,Comicvine,135391,848856,Spider-Man: The Spider's Shadow,2021, ,https://comicvine.gamespot.com/spider-man-the-spiders-shadow-2/4000-848856/,31 days 00:00:00
+397,Spider-Man: Spider’s Shadow,2021,3,Issue,2021-08-01,Comicvine,135391,858879,Spider-Man: The Spider's Shadow,2021, ,https://comicvine.gamespot.com/spider-man-the-spiders-shadow-3/4000-858879/,31 days 00:00:00
+398,Spider-Man: Spider’s Shadow,2021,4,Issue,2021-09-01,Comicvine,135391,871608,Spider-Man: The Spider's Shadow,2021, ,https://comicvine.gamespot.com/spider-man-the-spiders-shadow-4/4000-871608/,30 days 00:00:00
+399,Spider-Man: Spider’s Shadow,2021,5,Issue,2021-10-01,Comicvine,135391,878827,Spider-Man: The Spider's Shadow,2021, ,https://comicvine.gamespot.com/spider-man-the-spiders-shadow-5/4000-878827/,31 days 00:00:00
+400,Darkhold: Alpha,2021,1,Issue,2021-11-01,Comicvine,139292,886962,Darkhold Alpha,2021, ,https://comicvine.gamespot.com/darkhold-alpha-1/4000-886962/,30 days 00:00:00
+401,Darkhold: Iron Man,2021,1,Issue,2021-12-01,Comicvine,139564,889470,The Darkhold: Iron Man,2021, ,https://comicvine.gamespot.com/the-darkhold-iron-man-1-tales-of-suspense/4000-889470/,0 days 00:00:00
+402,Darkhold: Blade,2021,1,Issue,2021-12-01,Comicvine,139835,891571,The Darkhold: Blade,2021, ,https://comicvine.gamespot.com/the-darkhold-blade-1-the-last-drop/4000-891571/,31 days 00:00:00
+403,Darkhold: Wasp,2022,1,Issue,2022-01-01,Comicvine,140090,894141,The Darkhold: Wasp,2021, ,https://comicvine.gamespot.com/issue/4000-894141/,31 days 00:00:00
+404,Darkhold: Black Bolt,2022,1,Issue,2022-02-01,Comicvine,140277,896092,The Darkhold: Black Bolt,2022, ,https://comicvine.gamespot.com/the-darkhold-black-bolt-1-the-memory-trap/4000-896092/,0 days 00:00:00
+405,Darkhold: Spider-Man,2022,1,Issue,2022-02-01,Comicvine,140534,899180,The Darkhold: Spider-Man,2021, ,https://comicvine.gamespot.com/issue/4000-899180/,28 days 00:00:00
+406,Darkhold: Omega,2022,1,Issue,2022-03-01,Comicvine,140788,901413,The Darkhold Omega,2022, ,https://comicvine.gamespot.com/the-darkhold-omega-1/4000-901413/,151 days 00:00:00
+407,Darkhawk,2021,1,Issue,2021-10-01,Comicvine,138529,882072,Darkhawk,2021, ,https://comicvine.gamespot.com/darkhawk-1/4000-882072/,31 days 00:00:00
+408,Darkhawk,2021,2,Issue,2021-11-01,Comicvine,138529,886959,Darkhawk,2021, ,https://comicvine.gamespot.com/darkhawk-2/4000-886959/,61 days 00:00:00
+409,Darkhawk,2021,3,Issue,2022-01-01,Comicvine,138529,892244,Darkhawk,2021, ,https://comicvine.gamespot.com/darkhawk-3/4000-892244/,31 days 00:00:00
+410,Darkhawk,2021,4,Issue,2022-02-01,Comicvine,138529,896093,Darkhawk,2021, ,https://comicvine.gamespot.com/darkhawk-4/4000-896093/,28 days 00:00:00
+411,Darkhawk,2021,5,Issue,2022-03-01,Comicvine,138529,902680,Darkhawk,2021, ,https://comicvine.gamespot.com/darkhawk-5/4000-902680/,120 days 00:00:00
+412,Miles Morales: Spider-Man,2019,30,Issue,2021-11-01,Comicvine,115897,886974,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-886974/,30 days 00:00:00
+413,Miles Morales: Spider-Man,2019,31,Issue,2021-12-01,Comicvine,115897,889480,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-889480/,31 days 00:00:00
+414,Miles Morales: Spider-Man,2019,32,Issue,2022-01-01,Comicvine,115897,893941,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-893941/,31 days 00:00:00
+415,Eternals: Forever,2021,1,Issue,2021-12-01,Comicvine,139565,889471,Eternals Forever,2021, ,https://comicvine.gamespot.com/eternals-forever-1-the-enemy-within/4000-889471/,61 days 00:00:00
+416,Avengers: Tech-On,2021,1,Issue,2021-10-01,Comicvine,138206,878795,Avengers: Tech-On,2021, ,https://comicvine.gamespot.com/avengers-tech-on-1/4000-878795/,31 days 00:00:00
+417,Avengers: Tech-On,2021,2,Issue,2021-11-01,Comicvine,138206,884073,Avengers: Tech-On,2021, ,https://comicvine.gamespot.com/avengers-tech-on-2/4000-884073/,30 days 00:00:00
+418,Avengers: Tech-On,2021,3,Issue,2021-12-01,Comicvine,138206,888643,Avengers: Tech-On,2021, ,https://comicvine.gamespot.com/avengers-tech-on-3/4000-888643/,31 days 00:00:00
+419,Avengers: Tech-On,2021,4,Issue,2022-01-01,Comicvine,138206,894107,Avengers: Tech-On,2021, ,https://comicvine.gamespot.com/avengers-tech-on-4/4000-894107/,31 days 00:00:00
+420,Avengers: Tech-On,2021,5,Issue,2022-02-01,Comicvine,138206,899199,Avengers: Tech-On,2021, ,https://comicvine.gamespot.com/avengers-tech-on-5/4000-899199/,59 days 00:00:00
+421,Avengers: Tech-On,2021,6,Issue,2022-04-01,Comicvine,138206,905705,Avengers: Tech-On,2021, ,https://comicvine.gamespot.com/avengers-tech-on-6/4000-905705/,182 days 00:00:00
+422,"Deadpool: Black, White, and Blood",2021,1,Issue,2021-10-01,Comicvine,138049,877062,"Deadpool: Black, White & Blood",2021, ,https://comicvine.gamespot.com/deadpool-black-white-and-blood-1/4000-877062/,31 days 00:00:00
+423,"Deadpool: Black, White, and Blood",2021,2,Issue,2021-11-01,Comicvine,138049,884086,"Deadpool: Black, White & Blood",2021, ,https://comicvine.gamespot.com/deadpool-black-white-and-blood-2/4000-884086/,30 days 00:00:00
+424,"Deadpool: Black, White, and Blood",2021,3,Issue,2021-12-01,Comicvine,138049,888635,"Deadpool: Black, White & Blood",2021, ,https://comicvine.gamespot.com/deadpool-black-white-and-blood-3/4000-888635/,31 days 00:00:00
+425,"Deadpool: Black, White, and Blood",2021,4,Issue,2022-01-01,Comicvine,138049,894105,"Deadpool: Black, White & Blood",2021, ,https://comicvine.gamespot.com/deadpool-black-white-and-blood-4/4000-894105/,61 days 00:00:00
+426,Eternals: Thanos Rises,2021,1,Issue,2021-11-01,Comicvine,138933,884847,Eternals: Thanos Rises,2021, ,https://comicvine.gamespot.com/eternals-thanos-rises-1-sins-of-the-sons/4000-884847/,30 days 00:00:00
+427,Eternals: Celestia,2021,1,Issue,2021-12-01,Comicvine,139433,888648,Eternals: Celestia,2021, ,https://comicvine.gamespot.com/eternals-celestia-1-a-pilgrims-complete-lack-of-pr/4000-888648/,31 days 00:00:00
+428,Eternals,2021,7,Issue,2022-01-01,Comicvine,133080,893978,Eternals,2021, ,https://comicvine.gamespot.com/eternals-7-hail-thanos-part-1/4000-893978/,31 days 00:00:00
+429,Eternals,2021,8,Issue,2022-02-01,Comicvine,133080,898358,Eternals,2021, ,https://comicvine.gamespot.com/eternals-8-hail-thanos-part-2/4000-898358/,28 days 00:00:00
+430,Eternals,2021,9,Issue,2022-03-01,Comicvine,133080,903911,Eternals,2021, ,https://comicvine.gamespot.com/eternals-9-hail-thanos-part-3/4000-903911/,61 days 00:00:00
+431,Eternals: The Heretic,2022,1,Issue,2022-05-01,Comicvine,141918,911319,Eternals: The Heretic,2022, ,https://comicvine.gamespot.com/eternals-the-heretic-1-thanos-grandfather/4000-911319/,181 days 00:00:00
+432,Ka-Zar: Lord of the Savage Land,2021,1,Issue,2021-11-01,Comicvine,138800,884102,Ka-Zar: Lord of the Savage Land,2021, ,https://comicvine.gamespot.com/ka-zar-lord-of-the-savage-land-1/4000-884102/,30 days 00:00:00
+433,Ka-Zar: Lord of the Savage Land,2021,2,Issue,2021-12-01,Comicvine,138800,889479,Ka-Zar: Lord of the Savage Land,2021, ,https://comicvine.gamespot.com/ka-zar-lord-of-the-savage-land-2/4000-889479/,31 days 00:00:00
+434,Ka-Zar: Lord of the Savage Land,2021,3,Issue,2022-01-01,Comicvine,138800,894368,Ka-Zar: Lord of the Savage Land,2021, ,https://comicvine.gamespot.com/ka-zar-lord-of-the-savage-land-3/4000-894368/,31 days 00:00:00
+435,Ka-Zar: Lord of the Savage Land,2021,4,Issue,2022-02-01,Comicvine,138800,898355,Ka-Zar: Lord of the Savage Land,2021, ,https://comicvine.gamespot.com/ka-zar-lord-of-the-savage-land-4/4000-898355/,59 days 00:00:00
+436,Ka-Zar: Lord of the Savage Land,2021,5,Issue,2022-04-01,Comicvine,138800,905747,Ka-Zar: Lord of the Savage Land,2021, ,https://comicvine.gamespot.com/ka-zar-lord-of-the-savage-land-5/4000-905747/,212 days 00:00:00
+437,X-Men,2021,1,Issue,2021-09-01,Comicvine,137402,868602,X-Men,2021, ,https://comicvine.gamespot.com/x-men-1-fearless-chapter-one-in-threes/4000-868602/,0 days 00:00:00
+438,New Mutants,2020,20,Issue,2021-09-01,Comicvine,122666,872877,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-872877/,61 days 00:00:00
+439,New Mutants,2020,21,Issue,2021-11-01,Comicvine,122666,882897,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-882897/,30 days 00:00:00
+440,New Mutants,2020,22,Issue,2021-12-01,Comicvine,122666,888638,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-888638/,62 days 00:00:00
+441,New Mutants,2020,23,Issue,2022-02-01,Comicvine,122666,896124,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-896124/,123 days 00:00:00
+442,X-Men: The Trial of Magneto,2021,1,Issue,2021-10-01,Comicvine,138343,880915,X-Men: The Trial of Magneto,2021, ,https://comicvine.gamespot.com/x-men-the-trial-of-magneto-1-dial-m-for-wanda/4000-880915/,0 days 00:00:00
+443,Marauders,2019,23,Issue,2021-10-01,Comicvine,122218,880901,Marauders,2019, ,https://comicvine.gamespot.com/marauders-23-time-for-tempo/4000-880901/,30 days 00:00:00
+444,Wolverine,2020,14,Issue,2021-09-01,Comicvine,125121,874523,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-14-the-unusual-suspects/4000-874523/,30 days 00:00:00
+445,Wolverine,2020,15,Issue,2021-10-01,Comicvine,125121,882049,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-15-deceiver/4000-882049/,31 days 00:00:00
+446,Wolverine,2020,16,Issue,2021-11-01,Comicvine,125121,886940,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-16-ill-gotten-gains/4000-886940/,0 days 00:00:00
+447,X-Men: The Trial of Magneto,2021,2,Issue,2021-11-01,Comicvine,138343,884830,X-Men: The Trial of Magneto,2021, ,https://comicvine.gamespot.com/x-men-the-trial-of-magneto-2-welcome-to-krakoa/4000-884830/,30 days 00:00:00
+448,X-Men: The Trial of Magneto,2021,3,Issue,2021-12-01,Comicvine,138343,890603,X-Men: The Trial of Magneto,2021, ,https://comicvine.gamespot.com/x-men-the-trial-of-magneto-3-schrodingers-corpse/4000-890603/,62 days 00:00:00
+449,X-Men: The Trial of Magneto,2021,4,Issue,2022-02-01,Comicvine,138343,896094,X-Men: The Trial of Magneto,2021, ,https://comicvine.gamespot.com/x-men-the-trial-of-magneto-4-verdigris/4000-896094/,92 days 00:00:00
+450,Inferno,2021,1,Issue,2021-11-01,Comicvine,139289,886937,Inferno,2021, ,https://comicvine.gamespot.com/inferno-1/4000-886937/,61 days 00:00:00
+451,Hellions,2020,13,Issue,2021-09-01,Comicvine,126015,868599,Hellions,2020, ,https://comicvine.gamespot.com/hellions-13-dont-look-back-part-i-weary-travelers/4000-868599/,30 days 00:00:00
+452,Hellions,2020,14,Issue,2021-10-01,Comicvine,126015,877059,Hellions,2020, ,https://comicvine.gamespot.com/hellions-14-dont-look-back-part-ii-the-judgment-of/4000-877059/,31 days 00:00:00
+453,Hellions,2020,15,Issue,2021-11-01,Comicvine,126015,882896,Hellions,2020, ,https://comicvine.gamespot.com/hellions-15-dont-look-back-part-iii-fire-and-brims/4000-882896/,30 days 00:00:00
+454,Hellions,2020,16,Issue,2021-12-01,Comicvine,126015,888637,Hellions,2020, ,https://comicvine.gamespot.com/hellions-16-come-hurt-with-us/4000-888637/,47 days 00:00:00
+455,S.W.O.R.D.,2021,8,Issue,2022-01-17,Comicvine,141233,903338,S.W.O.R.D.,2021, ,https://comicvine.gamespot.com/sword-8/4000-903338/,16 days 00:00:00
+456,Hellions,2020,17,Issue,2022-01-01,Comicvine,126015,893934,Hellions,2020, ,https://comicvine.gamespot.com/hellions-17-trauma-response/4000-893934/,31 days 00:00:00
+457,Hellions,2020,18,Issue,2022-02-01,Comicvine,126015,897328,Hellions,2020, ,https://comicvine.gamespot.com/hellions-18-the-losing-end/4000-897328/,0 days 00:00:00
+458,X-Men: The Trial of Magneto,2021,5,Issue,2022-02-01,Comicvine,138343,899168,X-Men: The Trial of Magneto,2021, ,https://comicvine.gamespot.com/x-men-the-trial-of-magneto-5-to-catch-a-toad/4000-899168/,59 days 00:00:00
+459,New Mutants,2020,24,Issue,2022-04-01,Comicvine,122666,906634,New Mutants,2019, ,https://comicvine.gamespot.com/issue/4000-906634/,182 days 00:00:00
+460,X-Men,2021,2,Issue,2021-10-01,Comicvine,137402,877060,X-Men,2021, ,https://comicvine.gamespot.com/x-men-2-fearless-chapter-two-catching-the-wave/4000-877060/,30 days 00:00:00
+461,Excalibur,2019,22,Issue,2021-09-01,Comicvine,122488,871563,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-22-treasure-of-britain/4000-871563/,61 days 00:00:00
+462,Excalibur,2019,23,Issue,2021-11-01,Comicvine,122488,884068,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-23-in-the-service-of-lord-doom/4000-884068/,30 days 00:00:00
+463,Excalibur,2019,24,Issue,2021-12-01,Comicvine,122488,888636,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-24-by-the-pleasure-of-the-court/4000-888636/,31 days 00:00:00
+464,Excalibur,2019,25,Issue,2022-01-01,Comicvine,122488,893974,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-25-come-fate-into-the-list/4000-893974/,31 days 00:00:00
+465,Excalibur,2019,26,Issue,2022-02-01,Comicvine,122488,898357,Excalibur,2019, ,https://comicvine.gamespot.com/excalibur-26-the-fantasy-is-over/4000-898357/,153 days 00:00:00
+466,Way of X,2021,4,Issue,2021-09-01,Comicvine,135583,871569,Way of X,2021, ,https://comicvine.gamespot.com/way-of-x-4-heirs-and-graces/4000-871569/,30 days 00:00:00
+467,Way of X,2021,5,Issue,2021-10-01,Comicvine,135583,880912,Way of X,2021, ,https://comicvine.gamespot.com/way-of-x-5-the-fall/4000-880912/,31 days 00:00:00
+468,X-Men: Onslaught Revelation,2021,1,Issue,2021-11-01,Comicvine,139124,885606,X-Men: The Onslaught Revelation,2021, ,https://comicvine.gamespot.com/x-men-onslaught-revelation-1-altarpiece-alterpeace/4000-885606/,0 days 00:00:00
+469,Marauders,2019,24,Issue,2021-11-01,Comicvine,122218,884828,Marauders,2019, ,https://comicvine.gamespot.com/marauders-24-date-night/4000-884828/,30 days 00:00:00
+470,Marauders,2019,25,Issue,2021-12-01,Comicvine,122218,891563,Marauders,2019, ,https://comicvine.gamespot.com/marauders-25-night-of-the-comet/4000-891563/,30 days 00:00:00
+471,X-Men,2021,3,Issue,2021-11-01,Comicvine,137402,885604,X-Men,2021, ,https://comicvine.gamespot.com/x-men-3-fearless-chapter-three-problematic-fan/4000-885604/,61 days 00:00:00
+472,X-Corp,2021,3,Issue,2021-09-01,Comicvine,136025,871578,X-Corp,2021, ,https://comicvine.gamespot.com/x-corp-3-the-madrox-workflow-multiple-sabotage/4000-871578/,30 days 00:00:00
+473,X-Corp,2021,4,Issue,2021-10-01,Comicvine,136025,880913,X-Corp,2021, ,https://comicvine.gamespot.com/x-corp-4-a-carrot-on-a-stick/4000-880913/,31 days 00:00:00
+474,X-Corp,2021,5,Issue,2021-11-01,Comicvine,136025,885603,X-Corp,2021, ,https://comicvine.gamespot.com/x-corp-5-closing-costs/4000-885603/,92 days 00:00:00
+475,S.W.O.R.D.,2021,9,Issue,2022-02-01,Comicvine,141233,917408,S.W.O.R.D.,2021, ,https://comicvine.gamespot.com/sword-9/4000-917408/,28 days 00:00:00
+476,S.W.O.R.D.,2021,10,Issue,2022-03-01,Comicvine,141233,917409,S.W.O.R.D.,2021, ,https://comicvine.gamespot.com/sword-10/4000-917409/,48 days 00:00:00
+477,S.W.O.R.D.,2021,11,Issue,2022-04-18,Comicvine,141233,917410,S.W.O.R.D.,2021, ,https://comicvine.gamespot.com/sword-11/4000-917410/,17 days 00:00:00
+478,Secret X-Men,2022,1,Issue,2022-04-01,Comicvine,141588,906626,The Secret X-Men,2022, ,https://comicvine.gamespot.com/the-secret-x-men-1/4000-906626/,121 days 00:00:00
+479,X-Men,2021,4,Issue,2021-12-01,Comicvine,137402,889466,X-Men,2021, ,https://comicvine.gamespot.com/x-men-4-fearless-chapter-four-nightmare-on-86th-st/4000-889466/,31 days 00:00:00
+480,X-Men,2021,5,Issue,2022-01-01,Comicvine,137402,895353,X-Men,2021, ,https://comicvine.gamespot.com/x-men-5-fearless-chapter-five-dont-piss-off-polari/4000-895353/,31 days 00:00:00
+481,Marauders,2019,26,Issue,2022-02-01,Comicvine,122218,896131,Marauders,2019, ,https://comicvine.gamespot.com/marauders-26-many-happy-returns/4000-896131/,0 days 00:00:00
+482,X-Men,2021,6,Issue,2022-02-01,Comicvine,137402,901350,X-Men,2021, ,https://comicvine.gamespot.com/x-men-6-whatever-happened-to-captain-krakoa/4000-901350/,28 days 00:00:00
+483,X-Men,2021,7,Issue,2022-03-01,Comicvine,137402,904779,X-Men,2021, ,https://comicvine.gamespot.com/x-men-7-the-secret-origin-of-captain-krakoa/4000-904779/,31 days 00:00:00
+484,X-Men,2021,8,Issue,2022-04-01,Comicvine,137402,907432,X-Men,2021, ,https://comicvine.gamespot.com/x-men-8-the-buffet-is-undefeated/4000-907432/,212 days 00:00:00
+485,Moon Knight,2021,1,Issue,2021-09-01,Comicvine,137698,872884,Moon Knight,2021, ,https://comicvine.gamespot.com/moon-knight-1-the-mission/4000-872884/,30 days 00:00:00
+486,Moon Knight,2021,2,Issue,2021-10-01,Comicvine,137698,880932,Moon Knight,2021, ,https://comicvine.gamespot.com/moon-knight-2-strings/4000-880932/,31 days 00:00:00
+487,Moon Knight,2021,3,Issue,2021-11-01,Comicvine,137698,885612,Moon Knight,2021, ,https://comicvine.gamespot.com/moon-knight-3-two-fisted/4000-885612/,30 days 00:00:00
+488,Moon Knight,2021,4,Issue,2021-12-01,Comicvine,137698,891572,Moon Knight,2021, ,https://comicvine.gamespot.com/moon-knight-4-blackmail/4000-891572/,31 days 00:00:00
+489,Moon Knight,2021,5,Issue,2022-01-01,Comicvine,137698,894147,Moon Knight,2021, ,https://comicvine.gamespot.com/moon-knight-5-horoscope/4000-894147/,31 days 00:00:00
+490,Moon Knight,2021,6,Issue,2022-02-01,Comicvine,137698,899175,Moon Knight,2021, ,https://comicvine.gamespot.com/moon-knight-6-horoscope-part-two/4000-899175/,92 days 00:00:00
+491,Dark Ages,2021,1,Issue,2021-11-01,Comicvine,138658,882900,Dark Ages,2021, ,https://comicvine.gamespot.com/dark-ages-1/4000-882900/,30 days 00:00:00
+492,Dark Ages,2021,2,Issue,2021-12-01,Comicvine,138658,888646,Dark Ages,2021, ,https://comicvine.gamespot.com/dark-ages-2/4000-888646/,31 days 00:00:00
+493,Dark Ages,2021,3,Issue,2022-01-01,Comicvine,138658,894140,Dark Ages,2021, ,https://comicvine.gamespot.com/dark-ages-3/4000-894140/,59 days 00:00:00
+494,Dark Ages,2021,4,Issue,2022-03-01,Comicvine,138658,902679,Dark Ages,2021, ,https://comicvine.gamespot.com/dark-ages-4/4000-902679/,31 days 00:00:00
+495,Dark Ages,2021,5,Issue,2022-04-01,Comicvine,138658,908677,Dark Ages,2021, ,https://comicvine.gamespot.com/dark-ages-5/4000-908677/,30 days 00:00:00
+496,Dark Ages,2021,6,Issue,2022-05-01,Comicvine,138658,913166,Dark Ages,2021, ,https://comicvine.gamespot.com/dark-ages-6/4000-913166/,212 days 00:00:00
+497,FCBD 2021: Spider-Man/Venom,2021,1,Issue,2021-10-01,Comicvine,138341,880889,Free Comic Book Day 2021: Spider-Man/Venom,2021, ,https://comicvine.gamespot.com/issue/4000-880889/,61 days 00:00:00
+498,Amazing Spider-Man,2018,75,Issue,2021-12-01,Comicvine,112161,888642,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-75-beyond-chapter-one/4000-888642/,0 days 00:00:00
+499,Amazing Spider-Man,2018,76,Issue,2021-12-01,Comicvine,112161,889467,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-76-beyond-chapter-two/4000-889467/,0 days 00:00:00
+500,Amazing Spider-Man,2018,77,Issue,2021-12-01,Comicvine,112161,891568,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-77-beyond-chapter-three/4000-891568/,31 days 00:00:00
+501,Amazing Spider-Man,2018,78,Issue,2022-01-01,Comicvine,112161,893909,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-78-beyond-chapter-four/4000-893909/,0 days 00:00:00
+502,Amazing Spider-Man,2018,78.BEY,Issue,2022-01-01,Comicvine,112161,894132,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-78bey/4000-894132/,0 days 00:00:00
+503,Amazing Spider-Man,2018,79,Issue,2022-01-01,Comicvine,112161,895336,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-79-beyond-chapter-five/4000-895336/,0 days 00:00:00
+504,Amazing Spider-Man,2018,80,Issue,2022-01-01,Comicvine,112161,896091,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-80-beyond-chapter-six/4000-896091/,31 days 00:00:00
+505,Amazing Spider-Man,2018,80.BEY,Issue,2022-02-01,Comicvine,112161,897332,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-80bey/4000-897332/,0 days 00:00:00
+506,Amazing Spider-Man,2018,81,Issue,2022-02-01,Comicvine,112161,898360,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-81-beyond-chapter-seven/4000-898360/,0 days 00:00:00
+507,Miles Morales: Spider-Man,2019,33,Issue,2022-02-01,Comicvine,115897,898367,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-898367/,28 days 00:00:00
+508,Miles Morales: Spider-Man,2019,34,Issue,2022-03-01,Comicvine,115897,903913,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-903913/,31 days 00:00:00
+509,Miles Morales: Spider-Man,2019,35,Issue,2022-04-01,Comicvine,115897,908693,Miles Morales: Spider-Man,2019, ,https://comicvine.gamespot.com/issue/4000-908693/,59 days 00:00:00
+510,Amazing Spider-Man,2018,82,Issue,2022-02-01,Comicvine,112161,899171,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-82-beyond-chapter-eight/4000-899171/,28 days 00:00:00
+511,Amazing Spider-Man,2018,83,Issue,2022-03-01,Comicvine,112161,900388,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-83-beyond-chapter-nine/4000-900388/,0 days 00:00:00
+512,Amazing Spider-Man,2018,84,Issue,2022-03-01,Comicvine,112161,901342,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-84-beyond-chapter-ten/4000-901342/,0 days 00:00:00
+513,Amazing Spider-Man,2018,85,Issue,2022-03-01,Comicvine,112161,902677,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-85-beyond-chapter-eleven/4000-902677/,0 days 00:00:00
+514,Amazing Spider-Man,2018,86,Issue,2022-03-01,Comicvine,112161,903845,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-86-beyond-chapter-twelve/4000-903845/,0 days 00:00:00
+515,Amazing Spider-Man,2018,87,Issue,2022-03-01,Comicvine,112161,904770,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-87-beyond-chapter-thirteen/4000-904770/,0 days 00:00:00
+516,Mary Jane and Black Cat: Beyond,2022,1,Issue,2022-03-01,Comicvine,141457,904764,Mary Jane & Black Cat: Beyond,2022, ,https://comicvine.gamespot.com/mary-jane-and-black-cat-beyond-1/4000-904764/,31 days 00:00:00
+517,Amazing Spider-Man,2018,88,Issue,2022-04-01,Comicvine,112161,905753,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-88-beyond-chapter-fourteen/4000-905753/,0 days 00:00:00
+518,Amazing Spider-Man,2018,88.BEY,Issue,2022-04-01,Comicvine,112161,906628,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-88bey/4000-906628/,0 days 00:00:00
+519,Amazing Spider-Man,2018,89,Issue,2022-04-01,Comicvine,112161,907431,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-89-beyond-chapter-fifteen/4000-907431/,0 days 00:00:00
+520,Amazing Spider-Man,2018,90,Issue,2022-04-01,Comicvine,112161,908682,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-90-beyond-chapter-sixteen/4000-908682/,30 days 00:00:00
+521,Amazing Spider-Man,2018,91,Issue,2022-05-01,Comicvine,112161,909681,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-91-beyond-chapter-seventeen/4000-909681/,0 days 00:00:00
+522,Amazing Spider-Man,2018,92,Issue,2022-05-01,Comicvine,112161,910496,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-92-beyond-chapter-eighteen/4000-910496/,0 days 00:00:00
+523,Amazing Spider-Man,2018,92.BEY,Issue,2022-05-01,Comicvine,112161,911317,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-92bey/4000-911317/,0 days 00:00:00
+524,Amazing Spider-Man,2018,93,Issue,2022-05-01,Comicvine,112161,913173,The Amazing Spider-Man,2018, ,https://comicvine.gamespot.com/the-amazing-spider-man-93-beyond-chapter-nineteen/4000-913173/,151 days 00:00:00
+525,Phoenix Song: Echo,2021,1,Issue,2021-12-01,Comicvine,139711,890611,Phoenix Song: Echo,2021, ,https://comicvine.gamespot.com/phoenix-song-echo-1/4000-890611/,62 days 00:00:00
+526,Phoenix Song: Echo,2021,2,Issue,2022-02-01,Comicvine,139711,896127,Phoenix Song: Echo,2021, ,https://comicvine.gamespot.com/phoenix-song-echo-2/4000-896127/,0 days 00:00:00
+527,Phoenix Song: Echo,2021,3,Issue,2022-02-01,Comicvine,139711,899176,Phoenix Song: Echo,2021, ,https://comicvine.gamespot.com/phoenix-song-echo-3/4000-899176/,28 days 00:00:00
+528,Phoenix Song: Echo,2021,4,Issue,2022-03-01,Comicvine,139711,903915,Phoenix Song: Echo,2021, ,https://comicvine.gamespot.com/phoenix-song-echo-4/4000-903915/,31 days 00:00:00
+529,Phoenix Song: Echo,2021,5,Issue,2022-04-01,Comicvine,139711,908695,Phoenix Song: Echo,2021, ,https://comicvine.gamespot.com/phoenix-song-echo-5/4000-908695/,59 days 00:00:00
+530,Shang-Chi,2021,7,Issue,2022-02-01,Comicvine,136143,901346,Shang-Chi,2021, ,https://comicvine.gamespot.com/shang-chi-7-family-of-origin-part-one/4000-901346/,59 days 00:00:00
+531,Shang-Chi,2021,8,Issue,2022-04-01,Comicvine,136143,905754,Shang-Chi,2021, ,https://comicvine.gamespot.com/shang-chi-8-family-of-origin-finale/4000-905754/,90 days 00:00:00
+532,Fantastic Four: Anniversary Tribute,2022,1,Issue,2022-01-01,Comicvine,140141,894377,The Fantastic Four Anniversary Tribute,2021, ,https://comicvine.gamespot.com/issue/4000-894377/,0 days 00:00:00
+533,Hawkeye: Kate Bishop,2022,1,Issue,2022-01-01,Comicvine,140220,895346,Hawkeye: Kate Bishop,2021, ,https://comicvine.gamespot.com/issue/4000-895346/,31 days 00:00:00
+534,Hawkeye: Kate Bishop,2022,2,Issue,2022-02-01,Comicvine,140220,899172,Hawkeye: Kate Bishop,2021, ,https://comicvine.gamespot.com/issue/4000-899172/,28 days 00:00:00
+535,Hawkeye: Kate Bishop,2022,3,Issue,2022-03-01,Comicvine,140220,902684,Hawkeye: Kate Bishop,2021, ,https://comicvine.gamespot.com/issue/4000-902684/,31 days 00:00:00
+536,Hawkeye: Kate Bishop,2022,4,Issue,2022-04-01,Comicvine,140220,906632,Hawkeye: Kate Bishop,2021, ,https://comicvine.gamespot.com/issue/4000-906632/,30 days 00:00:00
+537,Hawkeye: Kate Bishop,2022,5,Issue,2022-05-01,Comicvine,140220,910628,Hawkeye: Kate Bishop,2021, ,https://comicvine.gamespot.com/issue/4000-910628/,365 days 00:00:00
+538,Iron Man,2020,7,Issue,2021-05-01,Comicvine,130396,838839,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-7-overclock/4000-838839/,31 days 00:00:00
+539,Iron Man,2020,8,Issue,2021-06-01,Comicvine,130396,842963,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-8-americas-1-teenager/4000-842963/,61 days 00:00:00
+540,Iron Man,2020,9,Issue,2021-08-01,Comicvine,130396,858878,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-9-the-will-of-fire/4000-858878/,31 days 00:00:00
+541,Iron Man,2020,10,Issue,2021-09-01,Comicvine,130396,871606,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-10-megiddo/4000-871606/,30 days 00:00:00
+542,Iron Man,2020,11,Issue,2021-10-01,Comicvine,130396,880928,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-11-walking-away-from-omelas/4000-880928/,31 days 00:00:00
+543,Iron Man,2020,12,Issue,2021-11-01,Comicvine,130396,884874,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-12-let-us-now-cross-over/4000-884874/,30 days 00:00:00
+544,Iron Man,2020,13,Issue,2021-12-01,Comicvine,130396,889474,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-13-the-great-i-m/4000-889474/,31 days 00:00:00
+545,Iron Man,2020,14,Issue,2022-01-01,Comicvine,130396,895344,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-14-through-the-mirror/4000-895344/,31 days 00:00:00
+546,Iron Man,2020,15,Issue,2022-02-01,Comicvine,130396,899174,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-15-what-of-lazarus/4000-899174/,28 days 00:00:00
+547,Iron Man,2020,16,Issue,2022-03-01,Comicvine,130396,904776,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-16-big-wheel-keep-on-turnin/4000-904776/,31 days 00:00:00
+548,Iron Man,2020,17,Issue,2022-04-01,Comicvine,130396,908687,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-17-farewell-my-space-friends/4000-908687/,30 days 00:00:00
+549,Iron Man,2020,18,Issue,2022-05-01,Comicvine,130396,912252,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-18-hello-darkness-my-old-friend/4000-912252/,61 days 00:00:00
+550,Iron Man,2020,19,Issue,2022-07-01,Comicvine,130396,921061,Iron Man,2020, ,https://comicvine.gamespot.com/iron-man-19-the-last-midnight/4000-921061/,181 days 00:00:00
+551,X-Force: Killshot Anniversary Special,2022,1,Issue,2022-01-01,Comicvine,140221,895356,X-Force: Killshot Anniversary Special,2021, ,https://comicvine.gamespot.com/issue/4000-895356/,61 days 00:00:00
+552,Black Widow,2020,11,Issue,2021-11-01,Comicvine,130059,884846,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-11-the-source/4000-884846/,30 days 00:00:00
+553,Black Widow,2020,12,Issue,2021-12-01,Comicvine,130059,891569,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-12-die-by-the-blade-part-1-of-4/4000-891569/,35 days 00:00:00
+554,Black Widow,2020,13,Issue,2022-01-05,Comicvine,130059,901361,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-13-die-by-the-blade-part-2/4000-901361/,86 days 00:00:00
+555,Black Widow,2020,14,Issue,2022-04-01,Comicvine,130059,908692,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-14-die-by-the-blade-part-3/4000-908692/,61 days 00:00:00
+556,Black Widow,2020,15,Issue,2022-06-01,Comicvine,130059,914655,Black Widow,2020, ,https://comicvine.gamespot.com/black-widow-15-die-by-the-blade-part-4/4000-914655/,151 days 00:00:00
+557,Strange Academy,2020,13,Issue,2022-01-01,Comicvine,125477,893920,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-13/4000-893920/,31 days 00:00:00
+558,Strange Academy,2020,14,Issue,2022-02-01,Comicvine,125477,898369,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-14/4000-898369/,28 days 00:00:00
+559,Strange Academy,2020,15,Issue,2022-03-01,Comicvine,125477,903867,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-15/4000-903867/,31 days 00:00:00
+560,Strange Academy,2020,16,Issue,2022-04-01,Comicvine,125477,908691,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-16/4000-908691/,30 days 00:00:00
+561,Strange Academy,2020,17,Issue,2022-05-01,Comicvine,125477,910622,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-17/4000-910622/,123 days 00:00:00
+562,Strange Academy,2020,18,Issue,2022-09-01,Comicvine,125477,934991,Strange Academy,2020, ,https://comicvine.gamespot.com/strange-academy-18/4000-934991/,212 days 00:00:00
+563,Marvel’s Voices: Community,2022,1,Issue,2022-02-01,Comicvine,140356,897358,Marvel's Voices: Comunidades,2021, ,https://comicvine.gamespot.com/issue/4000-897358/,92 days 00:00:00
+564,Captain Marvel,2019,32,Issue,2021-11-01,Comicvine,116365,882899,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-32-the-last-of-the-marvels-part-one/4000-882899/,30 days 00:00:00
+565,Captain Marvel,2019,33,Issue,2021-12-01,Comicvine,116365,888644,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-33-the-last-of-the-marvels-part-two/4000-888644/,31 days 00:00:00
+566,Captain Marvel,2019,34,Issue,2022-01-01,Comicvine,116365,896125,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-34-the-last-of-the-marvels-part-thr/4000-896125/,31 days 00:00:00
+567,Captain Marvel,2019,35,Issue,2022-02-01,Comicvine,116365,901362,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-35-the-last-of-the-marvels-part-fou/4000-901362/,59 days 00:00:00
+568,Captain Marvel,2019,36,Issue,2022-04-01,Comicvine,116365,908690,Captain Marvel,2019, ,https://comicvine.gamespot.com/captain-marvel-36-the-last-of-the-marvels-part-fiv/4000-908690/,59 days 00:00:00
+569,Ms. Marvel: Beyond the Limit,2022,1,Issue,2022-02-01,Comicvine,140533,899179,Ms. Marvel: Beyond the Limit,2021, ,https://comicvine.gamespot.com/issue/4000-899179/,28 days 00:00:00
+570,Ms. Marvel: Beyond the Limit,2022,2,Issue,2022-03-01,Comicvine,140533,902702,Ms. Marvel: Beyond the Limit,2021, ,https://comicvine.gamespot.com/issue/4000-902702/,31 days 00:00:00
+571,Ms. Marvel: Beyond the Limit,2022,3,Issue,2022-04-01,Comicvine,140533,908696,Ms. Marvel: Beyond the Limit,2021, ,https://comicvine.gamespot.com/issue/4000-908696/,30 days 00:00:00
+572,Ms. Marvel: Beyond the Limit,2022,4,Issue,2022-05-01,Comicvine,140533,912256,Ms. Marvel: Beyond the Limit,2021, ,https://comicvine.gamespot.com/issue/4000-912256/,31 days 00:00:00
+573,Ms. Marvel: Beyond the Limit,2022,5,Issue,2022-06-01,Comicvine,140533,919305,Ms. Marvel: Beyond the Limit,2021, ,https://comicvine.gamespot.com/issue/4000-919305/,243 days 00:00:00
+574,FCBD 2021: Avengers/Hulk,2021,1,Issue,2021-10-01,Comicvine,138340,880888,Free Comic Book Day 2021: Avengers/Hulk,2021, ,https://comicvine.gamespot.com/free-comic-book-day-2021-avengershulk-1/4000-880888/,123 days 00:00:00
+575,Avengers,2018,50,Issue,2022-02-01,Comicvine,110496,896105,Avengers,2018, ,https://comicvine.gamespot.com/avengers-50-an-earth-like-any-other-just-like-all-/4000-896105/,0 days 00:00:00
+576,Avengers,2018,51,Issue,2022-02-01,Comicvine,110496,899170,Avengers,2018, ,https://comicvine.gamespot.com/avengers-51-the-death-hunters-part-one-a-dark-phoe/4000-899170/,28 days 00:00:00
+577,Avengers,2018,52,Issue,2022-03-01,Comicvine,110496,903905,Avengers,2018, ,https://comicvine.gamespot.com/avengers-52-the-death-hunters-part-two-where-is-sh/4000-903905/,31 days 00:00:00
+578,Avengers,2018,53,Issue,2022-04-01,Comicvine,110496,906642,Avengers,2018, ,https://comicvine.gamespot.com/avengers-53-the-death-hunters-part-three-the-vivis/4000-906642/,30 days 00:00:00
+579,Avengers,2018,54,Issue,2022-05-01,Comicvine,110496,911244,Avengers,2018, ,https://comicvine.gamespot.com/avengers-54-the-death-hunters-conclusion-even-thun/4000-911244/,151 days 00:00:00
+580,Black Panther Legends,2021,1,Issue,2021-12-01,Comicvine,139563,889469,Black Panther Legends,2021, ,https://comicvine.gamespot.com/black-panther-legends-1/4000-889469/,31 days 00:00:00
+581,Black Panther Legends,2021,2,Issue,2022-01-01,Comicvine,139563,894360,Black Panther Legends,2021, ,https://comicvine.gamespot.com/black-panther-legends-2/4000-894360/,90 days 00:00:00
+582,Black Panther Legends,2021,3,Issue,2022-04-01,Comicvine,139563,905710,Black Panther Legends,2021, ,https://comicvine.gamespot.com/black-panther-legends-3/4000-905710/,91 days 00:00:00
+583,Black Panther Legends,2021,4,Issue,2022-07-01,Comicvine,139563,921068,Black Panther Legends,2021, ,https://comicvine.gamespot.com/black-panther-legends-4/4000-921068/,122 days 00:00:00
+584,Timeless,2022,1,Issue,2022-03-01,Comicvine,140623,900393,Timeless,2022, ,https://comicvine.gamespot.com/timeless-1/4000-900393/,59 days 00:00:00
+585,Hulk,2022,1,Issue,2022-01-01,Comicvine,140213,895280,Hulk,2021, ,https://comicvine.gamespot.com/issue/4000-895280/,31 days 00:00:00
+586,Hulk,2022,2,Issue,2022-02-01,Comicvine,140213,898359,Hulk,2021, ,https://comicvine.gamespot.com/issue/4000-898359/,28 days 00:00:00
+587,Hulk,2022,3,Issue,2022-03-01,Comicvine,140213,903912,Hulk,2021, ,https://comicvine.gamespot.com/issue/4000-903912/,31 days 00:00:00
+588,Hulk,2022,4,Issue,2022-04-01,Comicvine,140213,907437,Hulk,2021, ,https://comicvine.gamespot.com/issue/4000-907437/,30 days 00:00:00
+589,Hulk,2022,5,Issue,2022-05-01,Comicvine,140213,913164,Hulk,2021, ,https://comicvine.gamespot.com/issue/4000-913164/,31 days 00:00:00
+590,Hulk,2022,6,Issue,2022-06-01,Comicvine,140213,918154,Hulk,2021, ,https://comicvine.gamespot.com/issue/4000-918154/,151 days 00:00:00
+591,Thor,2020,19,Issue,2022-01-01,Comicvine,123862,895350,Thor,2020, ,https://comicvine.gamespot.com/thor-19-god-of-hammers-part-one/4000-895350/,31 days 00:00:00
+592,Thor,2020,20,Issue,2022-02-01,Comicvine,123862,901347,Thor,2020, ,https://comicvine.gamespot.com/thor-20-god-of-hammers-part-two/4000-901347/,28 days 00:00:00
+593,Thor,2020,21,Issue,2022-03-01,Comicvine,123862,904778,Thor,2020, ,https://comicvine.gamespot.com/thor-21-god-of-hammers-part-3/4000-904778/,31 days 00:00:00
+594,Thor,2020,22,Issue,2022-04-01,Comicvine,123862,907435,Thor,2020, ,https://comicvine.gamespot.com/thor-22-god-of-hammers-part-4/4000-907435/,30 days 00:00:00
+595,Thor,2020,23,Issue,2022-05-01,Comicvine,123862,910495,Thor,2020, ,https://comicvine.gamespot.com/thor-23-god-of-hammers-finale/4000-910495/,61 days 00:00:00
+596,"Elektra: Black, White, and Blood",2022,1,Issue,2022-03-01,Comicvine,140787,901415,"Elektra: Black, White & Blood",2022, ,https://comicvine.gamespot.com/elektra-black-white-and-blood-1-red-dawn-not-the-d/4000-901415/,31 days 00:00:00
+597,"Elektra: Black, White, and Blood",2022,2,Issue,2022-04-01,Comicvine,140787,908703,"Elektra: Black, White & Blood",2022, ,https://comicvine.gamespot.com/elektra-black-white-and-blood-2-cut-and-run-verite/4000-908703/,30 days 00:00:00
+598,"Elektra: Black, White, and Blood",2022,3,Issue,2022-05-01,Comicvine,140787,912250,"Elektra: Black, White & Blood",2022, ,https://comicvine.gamespot.com/elektra-black-white-and-blood-3-split-with-a-passi/4000-912250/,61 days 00:00:00
+599,"Elektra: Black, White, and Blood",2022,4,Issue,2022-07-01,Comicvine,140787,924795,"Elektra: Black, White & Blood",2022, ,https://comicvine.gamespot.com/elektra-black-white-and-blood-4-powers-you-cant-co/4000-924795/,150 days 00:00:00
+600,Wastelanders: Wolverine,2022,1,Issue,2022-02-01,Comicvine,140443,898366,Wastelanders: Wolverine,2021, ,https://comicvine.gamespot.com/issue/4000-898366/,0 days 00:00:00
+601,Wastelanders: Hawkeye,2022,1,Issue,2022-02-01,Comicvine,140535,899181,Wastelanders: Hawkeye,2021, ,https://comicvine.gamespot.com/issue/4000-899181/,0 days 00:00:00
+602,Wastelanders: Star-Lord,2022,1,Issue,2022-02-01,Comicvine,140641,900507,Wastelanders: Star-Lord,2021, ,https://comicvine.gamespot.com/issue/4000-900507/,28 days 00:00:00
+603,Wastelanders: Doom,2022,1,Issue,2022-03-01,Comicvine,140789,901416,Wastelanders: Doom,2022, ,https://comicvine.gamespot.com/wastelanders-doom-1/4000-901416/,0 days 00:00:00
+604,Wastelanders: Black Widow,2022,1,Issue,2022-03-01,Comicvine,141179,902711,Wastelanders: Black Widow,2022, ,https://comicvine.gamespot.com/wastelanders-black-widow-1/4000-902711/,0 days 00:00:00
+605,Ben Reilly: Spider-Man,2022,1,Issue,2022-03-01,Comicvine,141325,903906,Ben Reilly: Spider-Man,2022, ,https://comicvine.gamespot.com/ben-reilly-spider-man-1-the-humanity-agenda-part-1/4000-903906/,31 days 00:00:00
+606,Ben Reilly: Spider-Man,2022,2,Issue,2022-04-01,Comicvine,141325,908702,Ben Reilly: Spider-Man,2022, ,https://comicvine.gamespot.com/ben-reilly-spider-man-2-the-humanity-agenda-part-2/4000-908702/,30 days 00:00:00
+607,Ben Reilly: Spider-Man,2022,3,Issue,2022-05-01,Comicvine,141325,912254,Ben Reilly: Spider-Man,2022, ,https://comicvine.gamespot.com/ben-reilly-spider-man-3-the-humanity-agenda-part-t/4000-912254/,61 days 00:00:00
+608,Ben Reilly: Spider-Man,2022,4,Issue,2022-07-01,Comicvine,141325,921066,Ben Reilly: Spider-Man,2022, ,https://comicvine.gamespot.com/ben-reilly-spider-man-4-the-humanity-agenda-part-f/4000-921066/,31 days 00:00:00
+609,Ben Reilly: Spider-Man,2022,5,Issue,2022-08-01,Comicvine,141325,931068,Ben Reilly: Spider-Man,2022, ,https://comicvine.gamespot.com/ben-reilly-spider-man-5-the-humanity-agenda-part-f/4000-931068/,122 days 00:00:00
+610,Maestro: World War M,2022,1,Issue,2022-04-01,Comicvine,141589,906625,Maestro: World War M,2022, ,https://comicvine.gamespot.com/issue/4000-906625/,30 days 00:00:00
+611,Maestro: World War M,2022,2,Issue,2022-05-01,Comicvine,141589,912255,Maestro: World War M,2022, ,https://comicvine.gamespot.com/issue/4000-912255/,61 days 00:00:00
+612,Maestro: World War M,2022,3,Issue,2022-07-01,Comicvine,141589,921067,Maestro: World War M,2022, ,https://comicvine.gamespot.com/issue/4000-921067/,31 days 00:00:00
+613,Maestro: World War M,2022,4,Issue,2022-08-01,Comicvine,141589,931627,Maestro: World War M,2022, ,https://comicvine.gamespot.com/issue/4000-931627/,31 days 00:00:00
+614,Maestro: World War M,2022,5,Issue,2022-09-01,Comicvine,141589,937733,Maestro: World War M,2022, ,https://comicvine.gamespot.com/issue/4000-937733/,184 days 00:00:00
+615,Marvel’s Voices: Heritage,2022,1,Issue,2022-03-01,Comicvine,141178,902697,Marvel Voices: Heritage,2022, ,https://comicvine.gamespot.com/issue/4000-902697/,59 days 00:00:00
+616,Venom,2022,1,Issue,2022-01-01,Comicvine,140084,893910,Venom,2021, ,https://comicvine.gamespot.com/issue/4000-893910/,31 days 00:00:00
+617,Venom,2022,2,Issue,2022-02-01,Comicvine,140084,896095,Venom,2021, ,https://comicvine.gamespot.com/issue/4000-896095/,0 days 00:00:00
+618,Venom,2022,3,Issue,2022-02-01,Comicvine,140084,899169,Venom,2021, ,https://comicvine.gamespot.com/issue/4000-899169/,28 days 00:00:00
+619,Venom,2022,4,Issue,2022-03-01,Comicvine,140084,903919,Venom,2021, ,https://comicvine.gamespot.com/issue/4000-903919/,31 days 00:00:00
+620,Venom,2022,5,Issue,2022-04-01,Comicvine,140084,907434,Venom,2021, ,https://comicvine.gamespot.com/issue/4000-907434/,59 days 00:00:00
+621,Captain America/Iron Man,2022,1,Issue,2022-02-01,Comicvine,140358,897362,Captain America/Iron Man,2021, ,https://comicvine.gamespot.com/issue/4000-897362/,0 days 00:00:00
+622,Captain America/Iron Man,2022,2,Issue,2022-02-01,Comicvine,140358,901343,Captain America/Iron Man,2021, ,https://comicvine.gamespot.com/issue/4000-901343/,28 days 00:00:00
+623,Captain America/Iron Man,2022,3,Issue,2022-03-01,Comicvine,140358,904773,Captain America/Iron Man,2021, ,https://comicvine.gamespot.com/issue/4000-904773/,61 days 00:00:00
+624,Captain America/Iron Man,2022,4,Issue,2022-05-01,Comicvine,140358,909680,Captain America/Iron Man,2021, ,https://comicvine.gamespot.com/issue/4000-909680/,0 days 00:00:00
+625,Captain America/Iron Man,2022,5,Issue,2022-05-01,Comicvine,140358,912253,Captain America/Iron Man,2021, ,https://comicvine.gamespot.com/issue/4000-912253/,120 days 00:00:00
+626,Spider-Woman,2020,17,Issue,2022-01-01,Comicvine,125812,894363,Spider-Woman,2020, ,https://comicvine.gamespot.com/spider-woman-17/4000-894363/,122 days 00:00:00
+627,X-Force,2020,21,Issue,2021-09-01,Comicvine,122668,868600,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-868600/,30 days 00:00:00
+628,X-Force,2020,22,Issue,2021-10-01,Comicvine,122668,878792,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-878792/,61 days 00:00:00
+629,Wolverine,2020,17,Issue,2021-12-01,Comicvine,125121,891565,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-17-message-in-a-bottle/4000-891565/,31 days 00:00:00
+630,Wolverine,2020,18,Issue,2022-01-01,Comicvine,125121,895337,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-18-auction-of-secrets/4000-895337/,61 days 00:00:00
+631,X-Force,2020,23,Issue,2021-11-01,Comicvine,122668,884069,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-884069/,30 days 00:00:00
+632,X-Force,2020,24,Issue,2021-12-01,Comicvine,122668,889465,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-889465/,0 days 00:00:00
+633,Inferno,2021,2,Issue,2021-12-01,Comicvine,139289,891562,Inferno,2021, ,https://comicvine.gamespot.com/inferno-2/4000-891562/,31 days 00:00:00
+634,X-Force,2020,25,Issue,2022-01-01,Comicvine,122668,894133,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-894133/,31 days 00:00:00
+635,X-Force,2020,26,Issue,2022-02-01,Comicvine,122668,898353,X-Force,2019, ,https://comicvine.gamespot.com/issue/4000-898353/,0 days 00:00:00
+636,Wolverine,2020,19,Issue,2022-02-01,Comicvine,125121,899167,Wolverine,2020, ,https://comicvine.gamespot.com/wolverine-19-the-old-mutant-and-the-sea/4000-899167/,31 days 00:00:00
+637,Inferno,2021,3,Issue,2022-01-01,Comicvine,139289,897331,Inferno,2021, ,https://comicvine.gamespot.com/inferno-3/4000-897331/,31 days 00:00:00
+638,Inferno,2021,4,Issue,2022-02-01,Comicvine,139289,901345,Inferno,2021, ,https://comicvine.gamespot.com/inferno-4/4000-901345/,28 days 00:00:00
+639,Marauders,2019,27,Issue,2022-03-01,Comicvine,122218,902690,Marauders,2019, ,https://comicvine.gamespot.com/marauders-27-how-i-learned-to-stop-worrying-about-/4000-902690/,0 days 00:00:00

@@ -1,0 +1,782 @@
+,SeriesName,SeriesStartYear,IssueNum,IssueType,CoverDate,Name,SeriesID,IssueID,CV Series Name,CV Series Year,CV Cover Image,CV Issue URL,Days Between Issues
+1,Hero for Hire,1972,1,Issue,1972-06-30,Comicvine,2572,12266,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-12266/,32 days 00:00:00
+2,Hero for Hire,1972,2,Issue,1972-08-01,Comicvine,2572,12418,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-12418/,61 days 00:00:00
+3,Hero for Hire,1972,3,Issue,1972-10-01,Comicvine,2572,12575,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-12575/,61 days 00:00:00
+4,Hero for Hire,1972,4,Issue,1972-12-01,Comicvine,2572,12740,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-12740/,31 days 00:00:00
+5,Hero for Hire,1972,5,Issue,1973-01-01,Comicvine,2572,12832,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-12832/,31 days 00:00:00
+6,Hero for Hire,1972,6,Issue,1973-02-01,Comicvine,2572,12926,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-12926/,28 days 00:00:00
+7,Hero for Hire,1972,7,Issue,1973-03-01,Comicvine,2572,13009,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13009/,31 days 00:00:00
+8,Hero for Hire,1972,8,Issue,1973-04-01,Comicvine,2572,13110,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13110/,30 days 00:00:00
+9,Hero for Hire,1972,9,Issue,1973-05-01,Comicvine,2572,13178,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13178/,304 days 00:00:00
+10,Marvel Premiere,1972,3,Issue,1972-07-01,Comicvine,2575,12344,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-3-while-the-world-spins-mad/4000-12344/,62 days 00:00:00
+11,Marvel Premiere,1972,4,Issue,1972-09-01,Comicvine,2575,12486,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-4-the-spawn-of-sligguth/4000-12486/,61 days 00:00:00
+12,Marvel Premiere,1972,5,Issue,1972-11-01,Comicvine,2575,12655,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-5-the-lurker-in-the-labyrnth/4000-12655/,61 days 00:00:00
+13,Marvel Premiere,1972,6,Issue,1973-01-01,Comicvine,2575,12838,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-6-the-shambler-from-the-sea/4000-12838/,59 days 00:00:00
+14,Marvel Premiere,1972,7,Issue,1973-03-01,Comicvine,2575,13015,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-7-the-shadows-of-the-starstone/4000-13015/,61 days 00:00:00
+15,Marvel Premiere,1972,8,Issue,1973-05-01,Comicvine,2575,13184,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-8-the-doom-that-bloomed-on-kathulo/4000-13184/,11292 days 00:00:00
+16,Emma Frost,2003,7,Issue,2004-03-31,Comicvine,18014,107668,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-7-mind-games-1-hellfire/4000-107668/,30 days 00:00:00
+17,Emma Frost,2003,8,Issue,2004-04-30,Comicvine,18014,107671,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-8-mind-games-2-luck-be-a-lady/4000-107671/,31 days 00:00:00
+18,Emma Frost,2003,9,Issue,2004-05-31,Comicvine,18014,107667,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-9-mind-games-3-outrageous-fortune/4000-107667/,30 days 00:00:00
+19,Emma Frost,2003,10,Issue,2004-06-30,Comicvine,18014,107674,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-10-mind-games-4-a-simple-plan/4000-107674/,31 days 00:00:00
+20,Emma Frost,2003,11,Issue,2004-07-31,Comicvine,18014,107673,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-11-mind-games-5-dirty-laundry/4000-107673/,31 days 00:00:00
+21,Emma Frost,2003,12,Issue,2004-08-31,Comicvine,18014,107670,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-12-mind-games-6-going-mental/4000-107670/,30 days 00:00:00
+22,Emma Frost,2003,13,Issue,2004-09-30,Comicvine,18014,107676,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-13-bloom-part-1/4000-107676/,31 days 00:00:00
+23,Emma Frost,2003,14,Issue,2004-10-31,Comicvine,18014,107665,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-14-bloom-part-2-mutie/4000-107665/,30 days 00:00:00
+24,Emma Frost,2003,15,Issue,2004-11-30,Comicvine,18014,107669,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-15-bloom-part-3/4000-107669/,31 days 00:00:00
+25,Emma Frost,2003,16,Issue,2004-12-31,Comicvine,18014,107672,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-16-bloom-part-4/4000-107672/,31 days 00:00:00
+26,Emma Frost,2003,17,Issue,2005-01-31,Comicvine,18014,107666,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-17-bloom-5-better-days/4000-107666/,28 days 00:00:00
+27,Emma Frost,2003,18,Issue,2005-02-28,Comicvine,18014,107675,Emma Frost,2003, ,https://comicvine.gamespot.com/emma-frost-18-bloom-part-6/4000-107675/,11868 days 00:00:00
+28,Amazing Spider-Man,1963,112,Issue,1972-09-01,Comicvine,2127,12473,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-112-spidey-cops-out/4000-12473/,30 days 00:00:00
+29,Amazing Spider-Man,1963,113,Issue,1972-10-01,Comicvine,2127,12563,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-113-they-call-the-doctoroct/4000-12563/,31 days 00:00:00
+30,Amazing Spider-Man,1963,114,Issue,1972-11-01,Comicvine,2127,12640,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-114-gang-war-schmang-war-wh/4000-12640/,30 days 00:00:00
+31,Amazing Spider-Man,1963,115,Issue,1972-12-01,Comicvine,2127,12728,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-115-the-last-battle/4000-12728/,92 days 00:00:00
+32,Defenders,1972,1,Issue,1972-08-31,Comicvine,2569,12416,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-1-i-slay-by-the-stars/4000-12416/,61 days 00:00:00
+33,Defenders,1972,2,Issue,1972-10-31,Comicvine,2569,12570,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-2-the-secret-of-the-silver-surfer/4000-12570/,61 days 00:00:00
+34,Defenders,1972,3,Issue,1972-12-31,Comicvine,2569,12735,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-3-four-against-the-gods/4000-12735/,59 days 00:00:00
+35,Defenders,1972,4,Issue,1973-02-28,Comicvine,2569,12921,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-4-the-new-defender/4000-12921/,61 days 00:00:00
+36,Defenders,1972,5,Issue,1973-04-30,Comicvine,2569,13104,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-5-world-without-end/4000-13104/,61 days 00:00:00
+37,Defenders,1972,6,Issue,1973-06-30,Comicvine,2569,13271,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-6-the-dreams-of-death/4000-13271/,303 days 00:00:00
+38,Marvel Spotlight,1971,5,Issue,1972-08-31,Comicvine,2516,12422,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-5-origin-of-the-ghost-rider/4000-12422/,31 days 00:00:00
+39,Marvel Spotlight,1971,6,Issue,1972-10-01,Comicvine,2516,12581,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-6-angels-from-hell/4000-12581/,61 days 00:00:00
+40,Marvel Spotlight,1971,7,Issue,1972-12-01,Comicvine,2516,12746,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-7-die-die-my-daughter/4000-12746/,62 days 00:00:00
+41,Marvel Spotlight,1971,8,Issue,1973-02-01,Comicvine,2516,12932,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-8-the-hordes-of-hell/4000-12932/,59 days 00:00:00
+42,Marvel Spotlight,1971,9,Issue,1973-04-01,Comicvine,2516,13116,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-9-the-snakes-crawl-at-night/4000-13116/,61 days 00:00:00
+43,Marvel Spotlight,1971,10,Issue,1973-06-01,Comicvine,2516,13283,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-10-the-coming-of-witch-woman/4000-13283/,61 days 00:00:00
+44,Marvel Spotlight,1971,11,Issue,1973-08-01,Comicvine,2516,13485,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-11-season-of-the-witch-woman/4000-13485/,396 days 00:00:00
+45,Avengers,1963,101,Issue,1972-07-01,Comicvine,2128,12333,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-101-five-dooms-to-save-tomorrow/4000-12333/,31 days 00:00:00
+46,Avengers,1963,102,Issue,1972-08-01,Comicvine,2128,12411,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-102-what-to-do-till-the-sentinels-com/4000-12411/,31 days 00:00:00
+47,Avengers,1963,103,Issue,1972-09-01,Comicvine,2128,12474,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-103-the-sentinels-are-alive-and-well/4000-12474/,30 days 00:00:00
+48,Avengers,1963,104,Issue,1972-10-01,Comicvine,2128,12565,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-104-with-a-bang-and-a-whimper/4000-12565/,31 days 00:00:00
+49,Avengers,1963,105,Issue,1972-11-01,Comicvine,2128,12641,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-105-in-the-beginning-was-the-world-wi/4000-12641/,61 days 00:00:00
+50,Captain America,1968,153,Issue,1972-09-01,Comicvine,2400,12475,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-153-captain-america-hero-or-hoax/4000-12475/,30 days 00:00:00
+51,Captain America,1968,154,Issue,1972-10-01,Comicvine,2400,12566,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-154-the-falcon-fights-alone/4000-12566/,31 days 00:00:00
+52,Captain America,1968,155,Issue,1972-11-01,Comicvine,2400,12642,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-155-the-incredible-origin-of-the-o/4000-12642/,30 days 00:00:00
+53,Captain America,1968,156,Issue,1972-12-01,Comicvine,2400,12731,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-156-two-into-one-wont-go/4000-12731/,0 days 00:00:00
+54,Avengers,1963,106,Issue,1972-12-01,Comicvine,2128,12730,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-106-a-traitor-stalks-among-us/4000-12730/,31 days 00:00:00
+55,Avengers,1963,107,Issue,1973-01-01,Comicvine,2128,12823,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-107-the-master-plan-of-the-space-phan/4000-12823/,31 days 00:00:00
+56,Avengers,1963,108,Issue,1973-02-01,Comicvine,2128,12916,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-108-check-and-mate/4000-12916/,28 days 00:00:00
+57,Avengers,1963,109,Issue,1973-03-01,Comicvine,2128,13000,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-109-the-measure-of-a-man/4000-13000/,31 days 00:00:00
+58,Avengers,1963,110,Issue,1973-04-01,Comicvine,2128,13098,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-110-and-now-magneto/4000-13098/,182 days 00:00:00
+59,Daredevil,1964,92,Issue,1972-10-01,Comicvine,2190,12569,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-92-on-the-eve-of-the-talon/4000-12569/,31 days 00:00:00
+60,Daredevil,1964,93,Issue,1972-11-01,Comicvine,2190,12648,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-93-a-power-corrupt/4000-12648/,30 days 00:00:00
+61,Daredevil,1964,94,Issue,1972-12-01,Comicvine,2190,12734,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-94-he-can-crush-the-world/4000-12734/,31 days 00:00:00
+62,Daredevil,1964,95,Issue,1973-01-01,Comicvine,2190,12830,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-95-bullfight-on-the-bay/4000-12830/,31 days 00:00:00
+63,Daredevil,1964,96,Issue,1973-02-01,Comicvine,2190,12920,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-96-the-widow-will-make-you-pay/4000-12920/,58 days 00:00:00
+64,Daredevil,1964,97,Issue,1973-03-31,Comicvine,2190,13005,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-97-he-who-saves/4000-13005/,30 days 00:00:00
+65,Daredevil,1964,98,Issue,1973-04-30,Comicvine,2190,13103,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-98-let-there-bethe-disciples-of-doom/4000-13103/,1 days 00:00:00
+66,Daredevil,1964,99,Issue,1973-05-01,Comicvine,2190,13176,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-99-the-mark-of-hawkeye/4000-13176/,0 days 00:00:00
+67,Avengers,1963,111,Issue,1973-05-01,Comicvine,2128,13170,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-111-with-two-beside-them/4000-13170/,92 days 00:00:00
+68,Defenders,1972,7,Issue,1973-08-01,Comicvine,2569,13474,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-7-war-below-the-waves/4000-13474/,31 days 00:00:00
+69,Marvel Premiere,1972,9,Issue,1973-07-01,Comicvine,2575,13393,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-9-the-creatures-from-the-crypt/4000-13393/,62 days 00:00:00
+70,Marvel Premiere,1972,10,Issue,1973-09-01,Comicvine,2575,13585,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-10-finally-shuma-gorath/4000-13585/,30 days 00:00:00
+71,Marvel Premiere,1972,11,Issue,1973-10-01,Comicvine,2575,13701,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-11-the-many-traps-of-baron-mordo/4000-13701/,31 days 00:00:00
+72,Marvel Premiere,1972,12,Issue,1973-11-01,Comicvine,2575,13801,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-12-portal-to-the-past/4000-13801/,61 days 00:00:00
+73,Marvel Premiere,1972,13,Issue,1974-01-01,Comicvine,2575,13995,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-13-time-doom/4000-13995/,59 days 00:00:00
+74,Marvel Premiere,1972,14,Issue,1974-03-01,Comicvine,2575,14131,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-14-sise-neg-genesis/4000-14131/,273 days 00:00:00
+75,Amazing Spider-Man,1963,121,Issue,1973-06-01,Comicvine,2127,13263,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-121-the-night-gwen-stacy-di/4000-13263/,30 days 00:00:00
+76,Amazing Spider-Man,1963,122,Issue,1973-07-01,Comicvine,2127,13377,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-122-the-goblins-last-stand/4000-13377/,7579 days 00:00:00
+77,Marvels,1994,4,Issue,1994-04-01,Comicvine,5313,38942,Marvels,1994, ,https://comicvine.gamespot.com/marvels-4-the-day-she-died/4000-38942/,7609 days 00:00:00
+78,Hero for Hire,1972,10,Issue,1973-06-01,Comicvine,2572,13278,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13278/,30 days 00:00:00
+79,Hero for Hire,1972,11,Issue,1973-07-01,Comicvine,2572,13386,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13386/,31 days 00:00:00
+80,Amazing Spider-Man,1963,123,Issue,1973-08-01,Comicvine,2127,13467,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-123-just-a-man-called-cage/4000-13467/,0 days 00:00:00
+81,Hero for Hire,1972,12,Issue,1973-08-01,Comicvine,2572,13479,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13479/,43 days 00:00:00
+82,Hero for Hire,1972,13,Issue,1973-09-13,Comicvine,2572,13578,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13578/,12 days 00:00:00
+83,Amazing Spider-Man,1963,124,Issue,1973-09-01,Comicvine,2127,13564,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-124-the-mark-of-the-man-wol/4000-13564/,30 days 00:00:00
+84,Amazing Spider-Man,1963,125,Issue,1973-10-01,Comicvine,2127,13682,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-125-wolfhunt/4000-13682/,31 days 00:00:00
+85,Amazing Spider-Man,1963,126,Issue,1973-11-01,Comicvine,2127,13783,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-126-the-kangaroo-bounces-ba/4000-13783/,30 days 00:00:00
+86,Amazing Spider-Man,1963,127,Issue,1973-12-01,Comicvine,2127,13875,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-127-the-dark-wings-of-death/4000-13875/,31 days 00:00:00
+87,Amazing Spider-Man,1963,128,Issue,1974-01-01,Comicvine,2127,13978,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-128-the-vulture-hangs-high/4000-13978/,214 days 00:00:00
+88,Avengers,1963,112,Issue,1973-06-01,Comicvine,2128,13265,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-112-the-lion-god-lives/4000-13265/,30 days 00:00:00
+89,Avengers,1963,113,Issue,1973-07-01,Comicvine,2128,13378,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-113-your-young-men-shall-slay-visions/4000-13378/,31 days 00:00:00
+90,Avengers,1963,114,Issue,1973-08-01,Comicvine,2128,13469,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-114-night-of-the-swordsman/4000-13469/,183 days 00:00:00
+91,Avengers,1963,119,Issue,1974-01-31,Comicvine,2128,13979,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-119-night-of-the-collector/4000-13979/,122 days 00:00:00
+92,Hero for Hire,1972,14,Issue,1973-10-01,Comicvine,2572,13696,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13696/,31 days 00:00:00
+93,Hero for Hire,1972,15,Issue,1973-11-01,Comicvine,2572,13794,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13794/,30 days 00:00:00
+94,Hero for Hire,1972,16,Issue,1973-12-01,Comicvine,2572,13884,Hero for Hire,1972, ,https://comicvine.gamespot.com/issue/4000-13884/,396 days 00:00:00
+95,Adventure into Fear,1970,10,Issue,1972-10-31,Comicvine,2472,12573,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-10-cry-monster/4000-12573/,61 days 00:00:00
+96,Adventure into Fear,1970,11,Issue,1972-12-31,Comicvine,2472,12738,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-11-the-haunter-of-the-swamp/4000-12738/,59 days 00:00:00
+97,Adventure into Fear,1970,12,Issue,1973-02-28,Comicvine,2472,12924,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-12-no-choice-of-colors/4000-12924/,61 days 00:00:00
+98,Adventure into Fear,1970,13,Issue,1973-04-30,Comicvine,2472,13107,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-13-where-worlds-collide/4000-13107/,61 days 00:00:00
+99,Adventure into Fear,1970,14,Issue,1973-06-30,Comicvine,2472,13275,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-14-plague-of-the-demon-cult/4000-13275/,62 days 00:00:00
+100,Adventure into Fear,1970,15,Issue,1973-08-31,Comicvine,2472,13477,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-15-from-here-to-infinity/4000-13477/,30 days 00:00:00
+101,Adventure into Fear,1970,16,Issue,1973-09-30,Comicvine,2472,13575,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-16-cry-of-the-native/4000-13575/,31 days 00:00:00
+102,Adventure into Fear,1970,17,Issue,1973-10-31,Comicvine,2472,13692,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-17-it-came-out-of-the-sky/4000-13692/,30 days 00:00:00
+103,Adventure into Fear,1970,18,Issue,1973-11-30,Comicvine,2472,13792,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-18-a-question-of-survival/4000-13792/,31 days 00:00:00
+104,Adventure into Fear,1970,19,Issue,1973-12-31,Comicvine,2472,13882,Adventure into Fear,1970, ,https://comicvine.gamespot.com/adventure-into-fear-19-the-enchanters-apprentice/4000-13882/,31 days 00:00:00
+105,Man-Thing,1974,1,Issue,1974-01-31,Comicvine,2693,13994,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-1-battle-for-the-palace-of-the-gods/4000-13994/,12873 days 00:00:00
+106,X-Men Origins: Sabretooth,2009,1,Issue,2009-04-30,Comicvine,25745,151794,X-Men Origins: Sabretooth,2009, ,https://comicvine.gamespot.com/x-men-origins-sabretooth-1/4000-151794/,29 days 00:00:00
+107,X-Men: First Class: Finals,2009,1,Issue,2009-04-01,Comicvine,25669,151276,X-Men: First Class Finals,2009, ,https://comicvine.gamespot.com/x-men-first-class-finals-1-senioritis-scott-and-je/4000-151276/,60 days 00:00:00
+108,X-Men: First Class: Finals,2009,2,Issue,2009-05-31,Comicvine,25669,153877,X-Men: First Class Finals,2009, ,https://comicvine.gamespot.com/x-men-first-class-finals-2-beginning-of-the-end-x-/4000-153877/,1 days 00:00:00
+109,X-Men: First Class: Finals,2009,3,Issue,2009-06-01,Comicvine,25669,154464,X-Men: First Class Finals,2009, ,https://comicvine.gamespot.com/x-men-first-class-finals-3-higher-learning-x-date-/4000-154464/,30 days 00:00:00
+110,X-Men: First Class: Finals,2009,4,Issue,2009-07-01,Comicvine,25669,156642,X-Men: First Class Finals,2009, ,https://comicvine.gamespot.com/x-men-first-class-finals-4-the-mind-of-jean-grey/4000-156642/,13606 days 00:00:00
+111,Amazing Adventures,1970,11,Issue,1972-03-31,Comicvine,2469,12046,Amazing Adventures,1970, ,https://comicvine.gamespot.com/amazing-adventures-11-lo-a-beast-is-born/4000-12046/,61 days 00:00:00
+112,Amazing Adventures,1970,12,Issue,1972-05-31,Comicvine,2469,12181,Amazing Adventures,1970, ,https://comicvine.gamespot.com/amazing-adventures-12-one-avenger-dead-on-arrival/4000-12181/,61 days 00:00:00
+113,Amazing Adventures,1970,13,Issue,1972-07-31,Comicvine,2469,12331,Amazing Adventures,1970, ,https://comicvine.gamespot.com/amazing-adventures-13-evil-is-all-in-your-mind/4000-12331/,61 days 00:00:00
+114,Amazing Adventures,1970,14,Issue,1972-09-30,Comicvine,2469,12472,Amazing Adventures,1970, ,https://comicvine.gamespot.com/amazing-adventures-14-behind-the-maska-monster/4000-12472/,61 days 00:00:00
+115,Amazing Adventures,1970,15,Issue,1972-11-30,Comicvine,2469,12639,Amazing Adventures,1970, ,https://comicvine.gamespot.com/amazing-adventures-15-the-coming-ofthe-griffin/4000-12639/,62 days 00:00:00
+116,Amazing Adventures,1970,16,Issue,1973-01-31,Comicvine,2469,12821,Amazing Adventures,1970, ,https://comicvine.gamespot.com/amazing-adventures-16-the-juggernaut-will-get-you-/4000-12821/,59 days 00:00:00
+117,Incredible Hulk,1968,161,Issue,1973-03-31,Comicvine,2406,13010,The Incredible Hulk,1968, ,https://comicvine.gamespot.com/the-incredible-hulk-161-beyond-the-border-lurks-de/4000-13010/,366 days 00:00:00
+118,Monsters Unleashed,1973,5,Issue,1974-04-01,Comicvine,2641,14205,Monsters Unleashed!,1973, ,https://comicvine.gamespot.com/monsters-unleashed-5-the-mark-of-the-man-thing/4000-14205/,90 days 00:00:00
+119,Captain America,1968,169,Issue,1974-01-01,Comicvine,2400,13980,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-169-when-a-legend-dies/4000-13980/,31 days 00:00:00
+120,Captain America,1968,170,Issue,1974-02-01,Comicvine,2400,14053,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-170-j-accuse/4000-14053/,27 days 00:00:00
+121,Avengers,1963,120,Issue,1974-02-28,Comicvine,2128,14091,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-120-death-stars-of-the-zodiac/4000-14091/,1 days 00:00:00
+122,Captain America,1968,171,Issue,1974-03-01,Comicvine,2400,14118,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-171-bust-out/4000-14118/,30 days 00:00:00
+123,Avengers,1963,121,Issue,1974-03-31,Comicvine,2128,14159,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-121-houses-divided-cannot-stand/4000-14159/,1 days 00:00:00
+124,Captain America,1968,172,Issue,1974-04-01,Comicvine,2400,14190,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-172-believe-it-or-not-the-banshee/4000-14190/,29 days 00:00:00
+125,Avengers,1963,122,Issue,1974-04-30,Comicvine,2128,14229,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-122-trapped-in-outer-space/4000-14229/,31 days 00:00:00
+126,Avengers,1963,123,Issue,1974-05-31,Comicvine,2128,14298,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-123-vengeance-in-vietnam-or-an-origin/4000-14298/,30 days 00:00:00
+127,Avengers,1963,124,Issue,1974-06-30,Comicvine,2128,14373,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-124-beware-the-star-stalker/4000-14373/,60 days 00:00:00
+128,Captain America,1968,173,Issue,1974-05-01,Comicvine,2400,14256,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-173-the-sins-of-the-secret-empire/4000-14256/,31 days 00:00:00
+129,Captain America,1968,174,Issue,1974-06-01,Comicvine,2400,14330,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-174-its-always-darkest/4000-14330/,30 days 00:00:00
+130,Captain America,1968,175,Issue,1974-07-01,Comicvine,2400,14409,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-175-before-the-dawn/4000-14409/,150 days 00:00:00
+131,Amazing Spider-Man,1963,129,Issue,1974-02-01,Comicvine,2127,105443,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-129-the-punisher-strikes-tw/4000-105443/,28 days 00:00:00
+132,Amazing Spider-Man,1963,130,Issue,1974-03-01,Comicvine,2127,14117,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-130-betrayed/4000-14117/,31 days 00:00:00
+133,Amazing Spider-Man,1963,131,Issue,1974-04-01,Comicvine,2127,14188,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-131-my-unclemy-enemy/4000-14188/,212 days 00:00:00
+134,Ghost Rider,1973,1,Issue,1973-09-01,Comicvine,2636,13577,Ghost Rider,1973, ,https://comicvine.gamespot.com/ghost-rider-1-a-woman-possessed/4000-13577/,30 days 00:00:00
+135,Ghost Rider,1973,2,Issue,1973-10-01,Comicvine,2636,13694,Ghost Rider,1973, ,https://comicvine.gamespot.com/ghost-rider-2-shake-hands-with-satan/4000-13694/,0 days 00:00:00
+136,Marvel Spotlight,1971,12,Issue,1973-10-01,Comicvine,2516,13703,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-12-the-son-of-satan/4000-13703/,61 days 00:00:00
+137,Ghost Rider,1973,3,Issue,1973-12-01,Comicvine,2636,13883,Ghost Rider,1973, ,https://comicvine.gamespot.com/ghost-rider-3-wheels-on-fire/4000-13883/,62 days 00:00:00
+138,Ghost Rider,1973,4,Issue,1974-02-01,Comicvine,2636,14058,Ghost Rider,1973, ,https://comicvine.gamespot.com/ghost-rider-4-death-stalks-demolition-derby/4000-14058/,59 days 00:00:00
+139,Ghost Rider,1973,5,Issue,1974-04-01,Comicvine,2636,14195,Ghost Rider,1973, ,https://comicvine.gamespot.com/ghost-rider-5-and-vegas-writhes-in-pain/4000-14195/,183 days 00:00:00
+140,Monsters Unleashed,1973,8,Issue,1974-10-01,Comicvine,2641,14680,Monsters Unleashed!,1973, ,https://comicvine.gamespot.com/monsters-unleashed-8-frenzy-in-the-house-of-the-fr/4000-14680/,61 days 00:00:00
+141,Monsters Unleashed,1973,9,Issue,1974-12-01,Comicvine,2641,14852,Monsters Unleashed!,1973, ,https://comicvine.gamespot.com/monsters-unleashed-9-wendigo/4000-14852/,214 days 00:00:00
+142,Marvel Premiere,1972,15,Issue,1974-05-01,Comicvine,2575,47481,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-15-the-fury-of-iron-fist/4000-47481/,61 days 00:00:00
+143,Marvel Premiere,1972,16,Issue,1974-07-01,Comicvine,2575,14428,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-16-heart-of-the-dragon/4000-14428/,62 days 00:00:00
+144,Marvel Premiere,1972,17,Issue,1974-09-01,Comicvine,2575,14590,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-17-citadel-of-vengeance/4000-14590/,30 days 00:00:00
+145,Marvel Premiere,1972,18,Issue,1974-10-01,Comicvine,2575,14671,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-18-lair-of-shattered-vengeance/4000-14671/,31 days 00:00:00
+146,Marvel Premiere,1972,19,Issue,1974-11-01,Comicvine,2575,14766,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-19-death-cult/4000-14766/,61 days 00:00:00
+147,Marvel Premiere,1972,20,Issue,1975-01-01,Comicvine,2575,14976,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-20-batroc-and-other-assassins/4000-14976/,59 days 00:00:00
+148,Marvel Premiere,1972,21,Issue,1975-03-01,Comicvine,2575,127318,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-21-daughters-of-the-death-goddess/4000-127318/,92 days 00:00:00
+149,Marvel Premiere,1972,22,Issue,1975-06-01,Comicvine,2575,15281,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-22-death-is-a-ninja/4000-15281/,458 days 00:00:00
+150,Man-Thing,1974,2,Issue,1974-02-28,Comicvine,2693,14063,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-2-nowhere-to-go-but-down/4000-14063/,31 days 00:00:00
+151,Man-Thing,1974,3,Issue,1974-03-31,Comicvine,2693,14130,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-3-day-of-the-killer-night-of-the-fool/4000-14130/,30 days 00:00:00
+152,Man-Thing,1974,4,Issue,1974-04-30,Comicvine,2693,14200,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-4-the-making-of-a-madman/4000-14200/,31 days 00:00:00
+153,Man-Thing,1974,5,Issue,1974-05-31,Comicvine,2693,14271,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-5-night-of-the-laughing-dead/4000-14271/,30 days 00:00:00
+154,Man-Thing,1974,6,Issue,1974-06-30,Comicvine,2693,14344,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-6-and-when-i-died/4000-14344/,31 days 00:00:00
+155,Man-Thing,1974,7,Issue,1974-07-31,Comicvine,2693,14427,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-7-the-old-die-young/4000-14427/,31 days 00:00:00
+156,Man-Thing,1974,8,Issue,1974-08-31,Comicvine,2693,14497,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-8-the-gift-of-death/4000-14497/,30 days 00:00:00
+157,Giant-Size Man-Thing,1974,1,Issue,1974-08-01,Comicvine,2684,14522,Giant-Size Man-Thing,1974, ,https://comicvine.gamespot.com/giant-size-man-thing-1-how-will-we-keep-warm-when-/4000-14522/,92 days 00:00:00
+158,Giant-Size Man-Thing,1974,2,Issue,1974-11-01,Comicvine,2684,62763,Giant-Size Man-Thing,1974, ,https://comicvine.gamespot.com/giant-size-man-thing-2-of-monsters-and-men/4000-62763/,61 days 00:00:00
+159,Man-Thing,1974,9,Issue,1974-09-01,Comicvine,2693,14589,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-9-deathwatch/4000-14589/,30 days 00:00:00
+160,Man-Thing,1974,10,Issue,1974-10-01,Comicvine,2693,14669,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-10-nobody-dies-forever/4000-14669/,31 days 00:00:00
+161,Man-Thing,1974,11,Issue,1974-11-01,Comicvine,2693,14765,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-11-dance-to-the-murder/4000-14765/,30 days 00:00:00
+162,Man-Thing,1974,12,Issue,1974-12-01,Comicvine,2693,14843,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-12-song-cry-of-the-living-dead-man/4000-14843/,92 days 00:00:00
+163,Avengers,1963,126,Issue,1974-08-31,Comicvine,2128,14535,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-126-all-the-sounds-and-sights-of-deat/4000-14535/,92 days 00:00:00
+164,Amazing Spider-Man,1963,132,Issue,1974-05-31,Comicvine,2127,14255,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-132-the-master-plan-of-the-/4000-14255/,1 days 00:00:00
+165,Amazing Spider-Man,1963,133,Issue,1974-06-01,Comicvine,2127,14328,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-133-the-molten-man-breaks-o/4000-14328/,30 days 00:00:00
+166,Amazing Spider-Man,1963,134,Issue,1974-07-01,Comicvine,2127,14408,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-134-danger-is-a-man-called-/4000-14408/,31 days 00:00:00
+167,Amazing Spider-Man,1963,135,Issue,1974-08-01,Comicvine,2127,14480,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-135-shoot-out-in-central-pa/4000-14480/,154 days 00:00:00
+168,Power Man,1974,17,Issue,1974-02-28,Comicvine,2700,14070,Power Man,1974, ,https://comicvine.gamespot.com/power-man-17-rich-man-iron-man-power-man-thief/4000-14070/,61 days 00:00:00
+169,Power Man,1974,18,Issue,1974-04-30,Comicvine,2700,14207,Power Man,1974, ,https://comicvine.gamespot.com/power-man-18-havoc-on-the-high-iron/4000-14207/,61 days 00:00:00
+170,Power Man,1974,19,Issue,1974-06-30,Comicvine,2700,14352,Power Man,1974, ,https://comicvine.gamespot.com/power-man-19-call-him-cottonmouth/4000-14352/,62 days 00:00:00
+171,Power Man,1974,20,Issue,1974-08-31,Comicvine,2700,14506,Power Man,1974, ,https://comicvine.gamespot.com/power-man-20-how-like-a-serpents-tooth/4000-14506/,61 days 00:00:00
+172,Power Man,1974,21,Issue,1974-10-31,Comicvine,2700,14683,Power Man,1974, ,https://comicvine.gamespot.com/power-man-21-the-killer-with-my-name/4000-14683/,1 days 00:00:00
+173,Defenders,1972,17,Issue,1974-11-01,Comicvine,2569,14752,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-17-power-play/4000-14752/,30 days 00:00:00
+174,Defenders,1972,18,Issue,1974-12-01,Comicvine,2569,14833,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-18-rampage/4000-14833/,31 days 00:00:00
+175,Defenders,1972,19,Issue,1975-01-01,Comicvine,2569,14960,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-19-doomball/4000-14960/,1 days 00:00:00
+176,Power Man,1974,22,Issue,1974-12-31,Comicvine,2700,14855,Power Man,1974, ,https://comicvine.gamespot.com/power-man-22-the-broadway-mayhem-of-1974/4000-14855/,59 days 00:00:00
+177,Power Man,1974,23,Issue,1975-02-28,Comicvine,2700,15073,Power Man,1974, ,https://comicvine.gamespot.com/power-man-23-welcome-to-security-city/4000-15073/,61 days 00:00:00
+178,Power Man,1974,24,Issue,1975-04-30,Comicvine,2700,111329,Power Man,1974, ,https://comicvine.gamespot.com/power-man-24-among-us-walks-black-goliath/4000-111329/,61 days 00:00:00
+179,Power Man,1974,25,Issue,1975-06-30,Comicvine,2700,15288,Power Man,1974, ,https://comicvine.gamespot.com/power-man-25-crime-and-circuses/4000-15288/,242 days 00:00:00
+180,Incredible Hulk,1968,180,Issue,1974-10-31,Comicvine,2406,14667,The Incredible Hulk,1968, ,https://comicvine.gamespot.com/the-incredible-hulk-180-and-the-wind-howls-wendigo/4000-14667/,30 days 00:00:00
+181,Incredible Hulk,1968,181,Issue,1974-11-30,Comicvine,2406,14760,The Incredible Hulk,1968, ,https://comicvine.gamespot.com/the-incredible-hulk-181-and-nowthe-wolverine/4000-14760/,182 days 00:00:00
+182,Doctor Strange,1974,1,Issue,1974-06-01,Comicvine,2676,14334,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-1-through-an-orb-darkly/4000-14334/,61 days 00:00:00
+183,Doctor Strange,1974,2,Issue,1974-08-01,Comicvine,2676,14486,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-2-a-separate-reality/4000-14486/,31 days 00:00:00
+184,Doctor Strange,1974,3,Issue,1974-09-01,Comicvine,2676,14576,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-3-amidst-the-madness/4000-14576/,30 days 00:00:00
+185,Doctor Strange,1974,4,Issue,1974-10-01,Comicvine,2676,14660,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-4-where-boundries-decay/4000-14660/,61 days 00:00:00
+186,Doctor Strange,1974,5,Issue,1974-12-01,Comicvine,2676,14834,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-5-cloak-and-dagger/4000-14834/,89 days 00:00:00
+187,Doctor Strange,1974,6,Issue,1975-02-28,Comicvine,2676,15053,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-6-lift-high-the-veil-of-fears/4000-15053/,61 days 00:00:00
+188,Doctor Strange,1974,7,Issue,1975-04-30,Comicvine,2676,130433,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-7-the-demon-fever/4000-130433/,61 days 00:00:00
+189,Doctor Strange,1974,8,Issue,1975-06-30,Comicvine,2676,15266,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-8-rights-of-passage/4000-15266/,62 days 00:00:00
+190,Doctor Strange,1974,9,Issue,1975-08-31,Comicvine,2676,15477,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-9-consummation/4000-15477/,364 days 00:00:00
+191,Amazing Spider-Man,1963,136,Issue,1974-09-01,Comicvine,2127,14569,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-136-the-green-goblin-lives-/4000-14569/,30 days 00:00:00
+192,Amazing Spider-Man,1963,137,Issue,1974-10-01,Comicvine,2127,14652,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-137-death-trap-times-three/4000-14652/,31 days 00:00:00
+193,Amazing Spider-Man,1963,138,Issue,1974-11-01,Comicvine,2127,14745,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-138-madness-means-the-mindw/4000-14745/,30 days 00:00:00
+194,Amazing Spider-Man,1963,139,Issue,1974-12-01,Comicvine,2127,14827,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-139-day-of-the-grizzly/4000-14827/,31 days 00:00:00
+195,Amazing Spider-Man,1963,140,Issue,1975-01-01,Comicvine,2127,14952,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-140-and-one-will-fall/4000-14952/,153 days 00:00:00
+196,Captain America,1968,176,Issue,1974-08-01,Comicvine,2400,14482,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-176-captain-america-must-die/4000-14482/,30 days 00:00:00
+197,Giant-Size Avengers,1974,1,Issue,1974-08-31,Comicvine,2677,14490,Giant-Size Avengers,1974, ,https://comicvine.gamespot.com/giant-size-avengers-1-nuklo-the-invader-that-time-/4000-14490/,30 days 00:00:00
+198,Avengers,1963,127,Issue,1974-09-30,Comicvine,2128,14624,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-127-bride-and-doom/4000-14624/,0 days 00:00:00
+199,Fantastic Four,1961,150,Issue,1974-09-30,Comicvine,2045,14578,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-150-ultron-7-hell-rule-the-world/4000-14578/,31 days 00:00:00
+200,Avengers,1963,128,Issue,1974-10-31,Comicvine,2128,14654,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-128-bewitched-bothered-and-dead/4000-14654/,1 days 00:00:00
+201,Avengers,1963,129,Issue,1974-11-01,Comicvine,2128,14793,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-129-bid-tomorrow-goodbye/4000-14793/,0 days 00:00:00
+202,Giant-Size Avengers,1974,2,Issue,1974-11-01,Comicvine,2677,14756,Giant-Size Avengers,1974, ,https://comicvine.gamespot.com/giant-size-avengers-2-a-blast-from-the-past/4000-14756/,30 days 00:00:00
+203,Avengers,1963,130,Issue,1974-12-01,Comicvine,2128,14876,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-130-the-reality-problem/4000-14876/,31 days 00:00:00
+204,Avengers,1963,131,Issue,1975-01-01,Comicvine,2128,14953,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-131-a-quiet-half-hour-in-saigon/4000-14953/,31 days 00:00:00
+205,Avengers,1963,132,Issue,1975-02-01,Comicvine,2128,15104,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-132-kang-war-ii/4000-15104/,0 days 00:00:00
+206,Giant-Size Avengers,1974,3,Issue,1975-02-01,Comicvine,2677,15057,Giant-Size Avengers,1974, ,https://comicvine.gamespot.com/giant-size-avengers-3-what-time-hath-put-asunder/4000-15057/,28 days 00:00:00
+207,Avengers,1963,133,Issue,1975-03-01,Comicvine,2128,112509,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-133-secret-of-the-hooded-one/4000-112509/,31 days 00:00:00
+208,Avengers,1963,134,Issue,1975-04-01,Comicvine,2128,114120,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-134-the-times-that-bind/4000-114120/,60 days 00:00:00
+209,Avengers,1963,135,Issue,1975-05-31,Comicvine,2128,15216,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-135-the-torch-is-passed/4000-15216/,1 days 00:00:00
+210,Giant-Size Avengers,1974,4,Issue,1975-06-01,Comicvine,2677,15270,Giant-Size Avengers,1974, ,https://comicvine.gamespot.com/giant-size-avengers-4-let-all-men-bring-together/4000-15270/,93 days 00:00:00
+211,Strange Tales,1973,178,Issue,1975-02-28,Comicvine,2643,15076,Strange Tales,1973, ,https://comicvine.gamespot.com/strange-tales-178-who-is-adam-warlock/4000-15076/,61 days 00:00:00
+212,Strange Tales,1973,179,Issue,1975-04-30,Comicvine,2643,108987,Strange Tales,1973, ,https://comicvine.gamespot.com/strange-tales-179-death-ship/4000-108987/,61 days 00:00:00
+213,Strange Tales,1973,180,Issue,1975-06-30,Comicvine,2643,15291,Strange Tales,1973, ,https://comicvine.gamespot.com/strange-tales-180-the-judgement/4000-15291/,32 days 00:00:00
+214,Strange Tales,1973,181,Issue,1975-08-01,Comicvine,2643,15500,Strange Tales,1973, ,https://comicvine.gamespot.com/strange-tales-181-1000-clowns/4000-15500/,61 days 00:00:00
+215,Warlock,1972,9,Issue,1975-10-01,Comicvine,2583,15708,Warlock,1972, ,https://comicvine.gamespot.com/warlock-9-the-infinity-effect/4000-15708/,61 days 00:00:00
+216,Warlock,1972,10,Issue,1975-12-01,Comicvine,2583,15886,Warlock,1972, ,https://comicvine.gamespot.com/warlock-10-how-strange-my-destiny/4000-15886/,62 days 00:00:00
+217,Warlock,1972,11,Issue,1976-02-01,Comicvine,2583,16099,Warlock,1972, ,https://comicvine.gamespot.com/warlock-11-the-strange-death-of-adam-warlock/4000-16099/,274 days 00:00:00
+218,Warlock,1972,15,Issue,1976-11-01,Comicvine,2583,16893,Warlock,1972, ,https://comicvine.gamespot.com/warlock-15-just-a-series-of-events/4000-16893/,639 days 00:00:00
+219,Amazing Spider-Man,1963,141,Issue,1975-02-01,Comicvine,2127,15046,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-141-the-mans-name-appears-t/4000-15046/,58 days 00:00:00
+220,Amazing Spider-Man,1963,142,Issue,1975-03-31,Comicvine,2127,15137,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-142-dead-mans-bluff/4000-15137/,30 days 00:00:00
+221,Amazing Spider-Man,1963,143,Issue,1975-04-30,Comicvine,2127,111360,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-143-and-the-wind-cries-cycl/4000-111360/,31 days 00:00:00
+222,Amazing Spider-Man,1963,144,Issue,1975-05-31,Comicvine,2127,15170,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-144-the-delusion-conspiracy/4000-15170/,30 days 00:00:00
+223,Amazing Spider-Man,1963,145,Issue,1975-06-30,Comicvine,2127,15259,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-145-gwen-stacy-is-aliveand-/4000-15259/,31 days 00:00:00
+224,Amazing Spider-Man,1963,146,Issue,1975-07-31,Comicvine,2127,15364,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-146-scorpionwhere-is-thy-st/4000-15364/,31 days 00:00:00
+225,Amazing Spider-Man,1963,147,Issue,1975-08-31,Comicvine,2127,15469,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-147-the-tarantula-is-a-very/4000-15469/,30 days 00:00:00
+226,Amazing Spider-Man,1963,148,Issue,1975-09-30,Comicvine,2127,15572,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-148-jackal-jackalwhos-got-t/4000-15572/,31 days 00:00:00
+227,Amazing Spider-Man,1963,149,Issue,1975-10-31,Comicvine,2127,15668,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-149-even-if-i-live-i-die/4000-15668/,30 days 00:00:00
+228,Amazing Spider-Man,1963,150,Issue,1975-11-30,Comicvine,2127,15772,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-150-spider-manor-spider-clo/4000-15772/,333 days 00:00:00
+229,Man-Thing,1974,13,Issue,1975-01-01,Comicvine,2693,14975,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-13-red-sails-at-40000-feet/4000-14975/,31 days 00:00:00
+230,Man-Thing,1974,14,Issue,1975-02-01,Comicvine,2693,15062,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-14-tower-of-the-satyr/4000-15062/,0 days 00:00:00
+231,Giant-Size Man-Thing,1974,3,Issue,1975-02-01,Comicvine,2684,73865,Giant-Size Man-Thing,1974, ,https://comicvine.gamespot.com/giant-size-man-thing-3-the-blood-of-kings-dr-druid/4000-73865/,28 days 00:00:00
+232,Man-Thing,1974,15,Issue,1975-03-01,Comicvine,2693,122090,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-15-a-candle-for-sainte-cloud/4000-122090/,31 days 00:00:00
+233,Man-Thing,1974,16,Issue,1975-04-01,Comicvine,2693,122091,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-16-decay-meets-the-mad-viking/4000-122091/,30 days 00:00:00
+234,Giant-Size Man-Thing,1974,4,Issue,1975-05-01,Comicvine,2684,108384,Giant-Size Man-Thing,1974, ,https://comicvine.gamespot.com/giant-size-man-thing-4-the-kids-night-out-frog-dea/4000-108384/,0 days 00:00:00
+235,Man-Thing,1974,17,Issue,1975-05-01,Comicvine,2693,15189,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-17-a-book-burns-in-citrusville/4000-15189/,31 days 00:00:00
+236,Man-Thing,1974,18,Issue,1975-06-01,Comicvine,2693,15280,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-18-schools-out/4000-15280/,61 days 00:00:00
+237,Giant-Size Man-Thing,1974,5,Issue,1975-08-01,Comicvine,2684,15516,Giant-Size Man-Thing,1974, ,https://comicvine.gamespot.com/giant-size-man-thing-5-fear-times-three/4000-15516/,1 days 00:00:00
+238,Man-Thing,1974,19,Issue,1975-07-31,Comicvine,2693,15386,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-19-the-scavenger-of-atlanta/4000-15386/,31 days 00:00:00
+239,Man-Thing,1974,20,Issue,1975-08-31,Comicvine,2693,15488,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-20-the-nightmare-box/4000-15488/,30 days 00:00:00
+240,Man-Thing,1974,21,Issue,1975-09-30,Comicvine,2693,15589,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-21-a-lunatic-on-every-corner/4000-15589/,31 days 00:00:00
+241,Man-Thing,1974,22,Issue,1975-10-31,Comicvine,2693,15689,Man-Thing,1974, ,https://comicvine.gamespot.com/man-thing-22-pop-goes-the-cosmos/4000-15689/,12631 days 00:00:00
+242,X-Men Origins: Nightcrawler,2010,1,Issue,2010-05-31,Comicvine,32187,202002,X-Men Origins: Nightcrawler,2010, ,https://comicvine.gamespot.com/x-men-origins-nightcrawler-1-nativity/4000-202002/,699 days 00:00:00
+243,X-Men Origins: Colossus,2008,1,Issue,2008-07-01,Comicvine,21591,130414,X-Men Origins: Colossus,2008, ,https://comicvine.gamespot.com/x-men-origins-colossus-1-the-begining/4000-130414/,335 days 00:00:00
+244,X-Men Origins: Wolverine,2009,1,Issue,2009-06-01,Comicvine,26310,156377,X-Men Origins: Wolverine,2009, ,https://comicvine.gamespot.com/x-men-origins-wolverine-1-birth-of-a-weapon/4000-156377/,12420 days 00:00:00
+245,Giant-Size X-Men,1975,1,Issue,1975-05-31,Comicvine,2763,14890,Giant-Size X-Men,1975, ,https://comicvine.gamespot.com/giant-size-x-men-1-deadly-genesis/4000-14890/,61 days 00:00:00
+246,Avengers,1963,137,Issue,1975-07-31,Comicvine,2128,15425,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-137-we-do-seek-out-new-avengers/4000-15425/,31 days 00:00:00
+247,Avengers,1963,138,Issue,1975-08-31,Comicvine,2128,15524,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-138-stranger-in-a-strange-man/4000-15524/,0 days 00:00:00
+248,Power Man,1974,26,Issue,1975-08-31,Comicvine,2700,15496,Power Man,1974, ,https://comicvine.gamespot.com/power-man-26-the-night-shocker/4000-15496/,61 days 00:00:00
+249,Power Man,1974,27,Issue,1975-10-31,Comicvine,2700,15699,Power Man,1974, ,https://comicvine.gamespot.com/power-man-27-just-a-guy-named-x/4000-15699/,121 days 00:00:00
+250,Power Man,1974,29,Issue,1976-02-29,Comicvine,2700,16093,Power Man,1974, ,https://comicvine.gamespot.com/power-man-29-no-one-laughs-at-mr-fish/4000-16093/,60 days 00:00:00
+251,Power Man,1974,28,Issue,1975-12-31,Comicvine,2700,15878,Power Man,1974, ,https://comicvine.gamespot.com/power-man-28-the-man-who-killed-jiminy-cricket/4000-15878/,121 days 00:00:00
+252,Power Man,1974,30,Issue,1976-04-30,Comicvine,2700,16271,Power Man,1974, ,https://comicvine.gamespot.com/power-man-30-look-what-theyve-done-to-our-lives-ma/4000-16271/,31 days 00:00:00
+253,Power Man,1974,31,Issue,1976-05-31,Comicvine,2700,16352,Power Man,1974, ,https://comicvine.gamespot.com/power-man-31-over-the-years-they-murdered-the-star/4000-16352/,974 days 00:00:00
+254,Jungle Action,1972,6,Issue,1973-09-30,Comicvine,2574,13581,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-6-the-man-called-kill-monger/4000-13581/,61 days 00:00:00
+255,Jungle Action,1972,7,Issue,1973-11-30,Comicvine,2574,13797,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-7-death-regiments-beneath/4000-13797/,32 days 00:00:00
+256,Jungle Action,1972,8,Issue,1974-01-01,Comicvine,2574,13991,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-8-malice-by-crimson-moon-light/4000-13991/,120 days 00:00:00
+257,Jungle Action,1972,9,Issue,1974-05-01,Comicvine,2574,14268,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-9-but-now-the-spears-are-broken/4000-14268/,61 days 00:00:00
+258,Jungle Action,1972,10,Issue,1974-07-01,Comicvine,2574,14424,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-10-king-cadaver-is-dead-and-living-i/4000-14424/,70 days 00:00:00
+259,Jungle Action,1972,11,Issue,1974-09-09,Comicvine,2574,14586,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-11-once-you-slay-the-dragon/4000-14586/,53 days 00:00:00
+260,Jungle Action,1972,12,Issue,1974-11-01,Comicvine,2574,14762,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-12-blood-stalks-on-virgin-snow/4000-14762/,61 days 00:00:00
+261,Jungle Action,1972,13,Issue,1975-01-01,Comicvine,2574,14972,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-13-the-god-killer/4000-14972/,59 days 00:00:00
+262,Jungle Action,1972,14,Issue,1975-03-01,Comicvine,2574,110178,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-14-there-are-serpents-lurking-in-par/4000-110178/,61 days 00:00:00
+263,Jungle Action,1972,15,Issue,1975-05-01,Comicvine,2574,15186,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-15-thorns-in-the-flesh-thorns-in-the/4000-15186/,61 days 00:00:00
+264,Jungle Action,1972,16,Issue,1975-07-01,Comicvine,2574,15383,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-16-and-all-our-past-decades-have-see/4000-15383/,62 days 00:00:00
+265,Jungle Action,1972,17,Issue,1975-09-01,Comicvine,2574,15585,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-17-of-shadows-and-rages/4000-15585/,61 days 00:00:00
+266,Jungle Action,1972,18,Issue,1975-11-01,Comicvine,2574,15786,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-18-epilogue/4000-15786/,92 days 00:00:00
+267,Marvel Premiere,1972,23,Issue,1975-08-01,Comicvine,2575,15489,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-23-the-name-is-warhawk/4000-15489/,31 days 00:00:00
+268,Marvel Premiere,1972,24,Issue,1975-09-01,Comicvine,2575,15591,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-24-summerkill/4000-15591/,30 days 00:00:00
+269,Marvel Premiere,1972,25,Issue,1975-10-01,Comicvine,2575,15691,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-25-mind-storm/4000-15691/,31 days 00:00:00
+270,Iron Fist,1975,1,Issue,1975-11-01,Comicvine,2766,15784,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-1-a-duel-of-iron/4000-15784/,60 days 00:00:00
+271,Iron Fist,1975,2,Issue,1975-12-31,Comicvine,2766,15867,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-2-valley-of-the-damned/4000-15867/,32 days 00:00:00
+272,Iron Fist,1975,3,Issue,1976-02-01,Comicvine,2766,16082,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-3-the-citys-not-for-burning/4000-16082/,60 days 00:00:00
+273,Iron Fist,1975,4,Issue,1976-04-01,Comicvine,2766,16258,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-4-holocaust/4000-16258/,61 days 00:00:00
+274,Iron Fist,1975,5,Issue,1976-06-01,Comicvine,2766,16419,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-5-when-slays-the-scimitar/4000-16419/,61 days 00:00:00
+275,Iron Fist,1975,6,Issue,1976-08-01,Comicvine,2766,16598,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-6-death-match/4000-16598/,31 days 00:00:00
+276,Iron Fist,1975,7,Issue,1976-09-01,Comicvine,2766,16685,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-7-iron-fist-must-die/4000-16685/,30 days 00:00:00
+277,Iron Fist,1975,8,Issue,1976-10-01,Comicvine,2766,16779,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-8-like-tigers-in-the-night/4000-16779/,31 days 00:00:00
+278,Iron Fist,1975,9,Issue,1976-11-01,Comicvine,2766,16874,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-9-the-dragon-dies-at-dawn/4000-16874/,30 days 00:00:00
+279,Iron Fist,1975,10,Issue,1976-12-01,Comicvine,2766,16959,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-10-kung-fu-killer/4000-16959/,458 days 00:00:00
+280,The X-Men,1963,94,Issue,1975-08-31,Comicvine,2133,15508,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-15508/,31 days 00:00:00
+281,The X-Men,1963,95,Issue,1975-10-01,Comicvine,2133,15711,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-15711/,61 days 00:00:00
+282,The X-Men,1963,96,Issue,1975-12-01,Comicvine,2133,15889,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-15889/,62 days 00:00:00
+283,The X-Men,1963,97,Issue,1976-02-01,Comicvine,2133,16100,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-16100/,12235 days 00:00:00
+284,Uncanny X-Men: First Class Giant-Size Special,2009,1,Issue,2009-08-01,Comicvine,26666,159793,Uncanny X-Men: First Class Giant-Size Special,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-giant-size-special-1-gia/4000-159793/,12146 days 00:00:00
+285,The X-Men,1963,98,Issue,1976-04-30,Comicvine,2133,16278,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-16278/,61 days 00:00:00
+286,The X-Men,1963,99,Issue,1976-06-30,Comicvine,2133,16440,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-16440/,62 days 00:00:00
+287,The X-Men,1963,100,Issue,1976-08-31,Comicvine,2133,16618,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-16618/,61 days 00:00:00
+288,The X-Men,1963,101,Issue,1976-10-31,Comicvine,2133,16800,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-16800/,31 days 00:00:00
+289,The X-Men,1963,102,Issue,1976-12-01,Comicvine,2133,16981,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-16981/,62 days 00:00:00
+290,The X-Men,1963,103,Issue,1977-02-01,Comicvine,2133,17209,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-17209/,88 days 00:00:00
+291,The X-Men,1963,104,Issue,1977-04-30,Comicvine,2133,17371,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-17371/,61 days 00:00:00
+292,The X-Men,1963,105,Issue,1977-06-30,Comicvine,2133,17526,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-17526/,32 days 00:00:00
+293,The X-Men,1963,106,Issue,1977-08-01,Comicvine,2133,17708,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-17708/,91 days 00:00:00
+294,The X-Men,1963,107,Issue,1977-10-31,Comicvine,2133,17894,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-17894/,61 days 00:00:00
+295,The X-Men,1963,108,Issue,1977-12-31,Comicvine,2133,18064,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-18064/,59 days 00:00:00
+296,The X-Men,1963,109,Issue,1978-02-28,Comicvine,2133,18267,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-18267/,423 days 00:00:00
+297,Ms. Marvel,1977,1,Issue,1977-01-01,Comicvine,2910,17111,Ms. Marvel,1977, ,https://comicvine.gamespot.com/ms-marvel-1-this-woman-this-warrior/4000-17111/,428 days 00:00:00
+298,Inhumans,1975,1,Issue,1975-10-31,Comicvine,2764,15684,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-1-spawn-of-alien-heat/4000-15684/,61 days 00:00:00
+299,Inhumans,1975,2,Issue,1975-12-31,Comicvine,2764,15866,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-2-star-slaves/4000-15866/,60 days 00:00:00
+300,Inhumans,1975,3,Issue,1976-02-29,Comicvine,2764,16081,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-3-panic-in-new-york/4000-16081/,61 days 00:00:00
+301,Inhumans,1975,4,Issue,1976-04-30,Comicvine,2764,16257,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-4-the-doom-called-shatterstar/4000-16257/,61 days 00:00:00
+302,Inhumans,1975,5,Issue,1976-06-30,Comicvine,2764,16418,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-5-voices-from-galaxys-end/4000-16418/,62 days 00:00:00
+303,Inhumans,1975,6,Issue,1976-08-31,Comicvine,2764,16597,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-6-a-king-of-ruins/4000-16597/,61 days 00:00:00
+304,Inhumans,1975,7,Issue,1976-10-31,Comicvine,2764,16777,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-7-a-trip-to-the-doom/4000-16777/,61 days 00:00:00
+305,Inhumans,1975,8,Issue,1976-12-31,Comicvine,2764,16957,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-8-star-search-dust-and-demons/4000-16957/,59 days 00:00:00
+306,Inhumans,1975,9,Issue,1977-02-28,Comicvine,2764,17185,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-9-the-inhumans/4000-17185/,61 days 00:00:00
+307,Inhumans,1975,10,Issue,1977-04-30,Comicvine,2764,17348,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-10-isle-of-the-asteroid-web/4000-17348/,61 days 00:00:00
+308,Inhumans,1975,11,Issue,1977-06-30,Comicvine,2764,17503,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-11-return-to-earth/4000-17503/,62 days 00:00:00
+309,Inhumans,1975,12,Issue,1977-08-31,Comicvine,2764,17683,The Inhumans,1975, ,https://comicvine.gamespot.com/the-inhumans-12-a-berserker-called-hulk/4000-17683/,91 days 00:00:00
+310,Captain Marvel,1968,53,Issue,1977-11-30,Comicvine,2401,17956,Captain Marvel,1968, ,https://comicvine.gamespot.com/captain-marvel-53-the-war-of-the-three-galaxies/4000-17956/,302 days 00:00:00
+311,Iron Fist,1975,11,Issue,1977-02-01,Comicvine,2766,17187,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-11-a-fine-days-dying/4000-17187/,59 days 00:00:00
+312,Iron Fist,1975,12,Issue,1977-04-01,Comicvine,2766,17350,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-12-assault-on-avengers-mansion/4000-17350/,61 days 00:00:00
+313,Iron Fist,1975,13,Issue,1977-06-01,Comicvine,2766,17505,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-13-target-iron-fist/4000-17505/,61 days 00:00:00
+314,Iron Fist,1975,14,Issue,1977-08-01,Comicvine,2766,17685,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-14-snowfire/4000-17685/,31 days 00:00:00
+315,Iron Fist,1975,15,Issue,1977-09-01,Comicvine,2766,17782,Iron Fist,1975, ,https://comicvine.gamespot.com/iron-fist-15-enter-the-x-men/4000-17782/,90 days 00:00:00
+316,Marvel Team-Up,1972,63,Issue,1977-11-30,Comicvine,2576,17970,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-63-night-of-the-dragon/4000-17970/,31 days 00:00:00
+317,Marvel Team-Up,1972,64,Issue,1977-12-31,Comicvine,2576,18051,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-64-if-death-be-my-destiny/4000-18051/,730 days 00:00:00
+318,Jungle Action,1972,19,Issue,1976-01-01,Comicvine,2574,16006,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-19-blood-and-sacrifices/4000-16006/,60 days 00:00:00
+319,Jungle Action,1972,20,Issue,1976-03-01,Comicvine,2574,16170,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-20-the-panther-vs-the-klan-part-two-/4000-16170/,61 days 00:00:00
+320,Jungle Action,1972,21,Issue,1976-05-01,Comicvine,2574,16344,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-21-a-cross-burning-darkly-blackening/4000-16344/,61 days 00:00:00
+321,Jungle Action,1972,22,Issue,1976-07-01,Comicvine,2574,16510,Jungle Action,1972, ,https://comicvine.gamespot.com/jungle-action-22-death-riders-on-the-horizon/4000-16510/,608 days 00:00:00
+322,Marvel Two-in-One,1974,6,Issue,1974-11-01,Comicvine,2696,14622,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-6-death-song-of-destiny/4000-14622/,61 days 00:00:00
+323,Marvel Two-in-One,1974,7,Issue,1975-01-01,Comicvine,2696,114571,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-7-name-that-doom/4000-114571/,31 days 00:00:00
+324,Defenders,1972,20,Issue,1975-02-01,Comicvine,2569,15052,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-20-the-woman-she-was/4000-15052/,28 days 00:00:00
+325,Defenders,1972,21,Issue,1975-03-01,Comicvine,2569,15144,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-21-enter-the-headmen/4000-15144/,59 days 00:00:00
+326,Giant-Size Defenders,1974,3,Issue,1975-01-01,Comicvine,2681,14964,Giant-Size Defenders,1974, ,https://comicvine.gamespot.com/giant-size-defenders-3-games-godlings-play-the-wor/4000-14964/,90 days 00:00:00
+327,Giant-Size Defenders,1974,4,Issue,1975-04-01,Comicvine,2681,152688,Giant-Size Defenders,1974, ,https://comicvine.gamespot.com/giant-size-defenders-4-too-cold-a-night-for-dying/4000-152688/,0 days 00:00:00
+328,Defenders,1972,22,Issue,1975-04-01,Comicvine,2569,133579,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-22-fangs-of-fire-and-blood/4000-133579/,30 days 00:00:00
+329,Defenders,1972,23,Issue,1975-05-01,Comicvine,2569,15177,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-23-the-snakes-shall-inherit-the-eart/4000-15177/,31 days 00:00:00
+330,Defenders,1972,24,Issue,1975-06-01,Comicvine,2569,15265,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-24--in-the-jaws-of-the-serpent/4000-15265/,30 days 00:00:00
+331,Defenders,1972,25,Issue,1975-07-01,Comicvine,2569,15371,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-25-the-serpent-sheds-its-skin/4000-15371/,0 days 00:00:00
+332,Giant-Size Defenders,1974,5,Issue,1975-07-01,Comicvine,2681,15375,Giant-Size Defenders,1974, ,https://comicvine.gamespot.com/giant-size-defenders-5-eelar-moves-in-mysterious-w/4000-15375/,61 days 00:00:00
+333,Defenders,1972,26,Issue,1975-08-31,Comicvine,2569,15475,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-26-savage-time/4000-15475/,1 days 00:00:00
+334,Defenders,1972,27,Issue,1975-09-01,Comicvine,2569,15579,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-27-three-worlds-to-conquer/4000-15579/,30 days 00:00:00
+335,Defenders,1972,28,Issue,1975-10-01,Comicvine,2569,15675,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-28-my-mother-the-badoon/4000-15675/,31 days 00:00:00
+336,Defenders,1972,29,Issue,1975-11-01,Comicvine,2569,15779,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-29-let-my-planet-go/4000-15779/,30 days 00:00:00
+337,Defenders,1972,30,Issue,1975-12-01,Comicvine,2569,15860,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-30-gold-diggers-of-fear/4000-15860/,61 days 00:00:00
+338,Defenders,1972,31,Issue,1976-01-31,Comicvine,2569,16000,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-31-nighthawks-brain/4000-16000/,29 days 00:00:00
+339,Defenders,1972,32,Issue,1976-02-29,Comicvine,2569,16076,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-32-musical-minds/4000-16076/,31 days 00:00:00
+340,Defenders,1972,33,Issue,1976-03-31,Comicvine,2569,16165,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-33-webbed-hands-warm-heart/4000-16165/,30 days 00:00:00
+341,Defenders,1972,34,Issue,1976-04-30,Comicvine,2569,16251,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-34-i-think-were-all-bozos-in-this-bo/4000-16251/,31 days 00:00:00
+342,Defenders,1972,35,Issue,1976-05-31,Comicvine,2569,16338,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-35-bring-back-my-body-to-me-to-me/4000-16338/,30 days 00:00:00
+343,Defenders,1972,36,Issue,1976-06-30,Comicvine,2569,16413,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-36-a-garden-of-earthly-demise/4000-16413/,31 days 00:00:00
+344,Defenders,1972,37,Issue,1976-07-31,Comicvine,2569,16502,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-37-evil-in-bloom/4000-16502/,31 days 00:00:00
+345,Defenders,1972,38,Issue,1976-08-31,Comicvine,2569,16591,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-38-exile-to-oblivion/4000-16591/,30 days 00:00:00
+346,Defenders,1972,39,Issue,1976-09-30,Comicvine,2569,16679,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-39-riot-in-cellblock-12/4000-16679/,31 days 00:00:00
+347,Defenders,1972,40,Issue,1976-10-31,Comicvine,2569,16769,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-40-love-anarchy-and-oh-yesthe-assass/4000-16769/,30 days 00:00:00
+348,Defenders Annual,1976,1,Issue,1976-11-30,Comicvine,22555,135339,Defenders Annual,1976, ,https://comicvine.gamespot.com/defenders-annual-1-world-gone-sane/4000-135339/,0 days 00:00:00
+349,Defenders,1972,41,Issue,1976-11-30,Comicvine,2569,16869,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-41-intruder-in-the-sand/4000-16869/,396 days 00:00:00
+350,Doctor Strange,1974,10,Issue,1975-10-31,Comicvine,2676,15677,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-10-alone-against-eternity/4000-15677/,61 days 00:00:00
+351,Doctor Strange,1974,11,Issue,1975-12-31,Comicvine,2676,15861,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-11-shadowplay/4000-15861/,60 days 00:00:00
+352,Doctor Strange,1974,12,Issue,1976-02-29,Comicvine,2676,16077,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-12-final-curtain/4000-16077/,61 days 00:00:00
+353,Doctor Strange,1974,13,Issue,1976-04-30,Comicvine,2676,16253,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-13-planet-earth-is-no-more/4000-16253/,31 days 00:00:00
+354,Tomb of Dracula,1972,44,Issue,1976-05-31,Comicvine,2582,16358,Tomb of Dracula,1972, ,https://comicvine.gamespot.com/tomb-of-dracula-44-his-name-is-doctor-strange/4000-16358/,0 days 00:00:00
+355,Doctor Strange,1974,14,Issue,1976-05-31,Comicvine,2676,16339,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-14-the-tomb-of-dr-strange/4000-16339/,30 days 00:00:00
+356,Doctor Strange,1974,15,Issue,1976-06-30,Comicvine,2676,16414,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-15-where-there-s-smoke/4000-16414/,31 days 00:00:00
+357,Doctor Strange,1974,16,Issue,1976-07-31,Comicvine,2676,16504,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-16-beelzebub-on-parade/4000-16504/,31 days 00:00:00
+358,Doctor Strange,1974,17,Issue,1976-08-31,Comicvine,2676,16592,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-17-utopia-rising/4000-16592/,30 days 00:00:00
+359,Doctor Strange,1974,18,Issue,1976-09-30,Comicvine,2676,16680,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-18-the-dream-is-dead/4000-16680/,31 days 00:00:00
+360,Doctor Strange,1974,19,Issue,1976-10-31,Comicvine,2676,16771,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-19-lo-the-powers-changeth/4000-16771/,61 days 00:00:00
+361,Doctor Strange,1974,20,Issue,1976-12-31,Comicvine,2676,16952,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-20-call-him-xander-the-merciless/4000-16952/,30 days 00:00:00
+362,"Doctor Strange, Sorcerer Supreme Annual",1975,1,Issue,1976-12-01,Comicvine,4786,182863,"Doctor Strange, Sorcerer Supreme Annual",1975, ,https://comicvine.gamespot.com/issue/4000-182863/,89 days 00:00:00
+363,Doctor Strange,1974,21,Issue,1977-02-28,Comicvine,2676,17180,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-21-the-coming-of-dr-strange/4000-17180/,61 days 00:00:00
+364,Doctor Strange,1974,22,Issue,1977-04-30,Comicvine,2676,17343,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-22-mind-trip/4000-17343/,336 days 00:00:00
+365,Machine Man,1978,1,Issue,1978-04-01,Comicvine,2956,18419,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-1-machine-man/4000-18419/,30 days 00:00:00
+366,Machine Man,1978,2,Issue,1978-05-01,Comicvine,2956,18502,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-2-house-of-nightmares/4000-18502/,31 days 00:00:00
+367,Machine Man,1978,3,Issue,1978-06-01,Comicvine,2956,18584,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-3-ten-for-the-mean-machine/4000-18584/,30 days 00:00:00
+368,Machine Man,1978,4,Issue,1978-07-01,Comicvine,2956,18663,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-4-battle-on-a-very-busy-street/4000-18663/,31 days 00:00:00
+369,Machine Man,1978,5,Issue,1978-08-01,Comicvine,2956,18743,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-5-day-of-the-non-hero/4000-18743/,31 days 00:00:00
+370,Machine Man,1978,6,Issue,1978-09-01,Comicvine,2956,18823,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-6-quick-trick/4000-18823/,30 days 00:00:00
+371,Machine Man,1978,7,Issue,1978-10-01,Comicvine,2956,18901,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-7-with-a-nation-against-him/4000-18901/,31 days 00:00:00
+372,Machine Man,1978,8,Issue,1978-11-01,Comicvine,2956,18969,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-8-super-escape/4000-18969/,30 days 00:00:00
+373,Machine Man,1978,9,Issue,1978-12-01,Comicvine,2956,19045,Machine Man,1978, ,https://comicvine.gamespot.com/machine-man-9-in-final-battle/4000-19045/,1065 days 00:00:00
+374,Captain America,1968,193,Issue,1976-01-01,Comicvine,2400,15994,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-193-the-madbomb-screamer-in-the-br/4000-15994/,31 days 00:00:00
+375,Captain America,1968,194,Issue,1976-02-01,Comicvine,2400,16071,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-194-the-trojan-horde/4000-16071/,29 days 00:00:00
+376,Captain America,1968,195,Issue,1976-03-01,Comicvine,2400,16159,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-195-1984/4000-16159/,31 days 00:00:00
+377,Captain America,1968,196,Issue,1976-04-01,Comicvine,2400,16246,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-196-kill-derby/4000-16246/,30 days 00:00:00
+378,Captain America,1968,197,Issue,1976-05-01,Comicvine,2400,16333,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-197-the-rocks-are-burning/4000-16333/,31 days 00:00:00
+379,Captain America,1968,198,Issue,1976-06-01,Comicvine,2400,16408,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-198-captain-americas-love-story/4000-16408/,30 days 00:00:00
+380,Captain America,1968,199,Issue,1976-07-01,Comicvine,2400,16497,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-199-the-man-who-sold-the-united-st/4000-16497/,31 days 00:00:00
+381,Captain America,1968,200,Issue,1976-08-01,Comicvine,2400,16586,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-200-dawns-early-light/4000-16586/,31 days 00:00:00
+382,Captain America,1968,201,Issue,1976-09-01,Comicvine,2400,16674,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-201-the-night-people/4000-16674/,30 days 00:00:00
+383,Captain America,1968,202,Issue,1976-10-01,Comicvine,2400,16762,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-202-mad-mad-dimension/4000-16762/,31 days 00:00:00
+384,Captain America,1968,203,Issue,1976-11-01,Comicvine,2400,16863,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-203-alamo-ii/4000-16863/,60 days 00:00:00
+385,Marvel Team-Up,1972,52,Issue,1976-12-31,Comicvine,2576,16968,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-52-danger-demon-on-a-rampage/4000-16968/,30 days 00:00:00
+386,Captain America,1968,204,Issue,1976-12-01,Comicvine,2400,16945,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-204-the-unburied-one/4000-16945/,31 days 00:00:00
+387,Captain America,1968,205,Issue,1977-01-01,Comicvine,2400,17092,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-205-agron-walks-the-earth/4000-17092/,31 days 00:00:00
+388,Captain America,1968,206,Issue,1977-02-01,Comicvine,2400,17173,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-206-face-to-face-with-the-swine/4000-17173/,28 days 00:00:00
+389,Captain America,1968,207,Issue,1977-03-01,Comicvine,2400,17261,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-207-the-tiger-and-the-swine/4000-17261/,31 days 00:00:00
+390,Captain America,1968,208,Issue,1977-04-01,Comicvine,2400,17337,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-208-the-river-of-death/4000-17337/,30 days 00:00:00
+391,Captain America,1968,209,Issue,1977-05-01,Comicvine,2400,17424,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-209-arnim-zola-the-bio-fanatic/4000-17424/,31 days 00:00:00
+392,Captain America,1968,210,Issue,1977-06-01,Comicvine,2400,17493,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-210-showdown-day/4000-17493/,30 days 00:00:00
+393,Captain America,1968,211,Issue,1977-07-01,Comicvine,2400,17591,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-211-nazi-x/4000-17591/,31 days 00:00:00
+394,Captain America,1968,212,Issue,1977-08-01,Comicvine,2400,17674,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-212-the-face-of-a-hero/4000-17674/,31 days 00:00:00
+395,Captain America,1968,213,Issue,1977-09-01,Comicvine,2400,17770,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-213-the-night-flyer/4000-17770/,30 days 00:00:00
+396,Captain America,1968,214,Issue,1977-10-01,Comicvine,2400,17864,Captain America,1968, ,https://comicvine.gamespot.com/captain-america-214-power/4000-17864/,154 days 00:00:00
+397,Defenders,1972,46,Issue,1977-04-30,Comicvine,2569,17341,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-46-who-remembers-scorpio/4000-17341/,1 days 00:00:00
+398,Defenders,1972,47,Issue,1977-05-01,Comicvine,2569,17430,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-47-night-moves/4000-17430/,31 days 00:00:00
+399,Defenders,1972,48,Issue,1977-06-01,Comicvine,2569,17497,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-48-who-remebers-scorpio-part-1-sinis/4000-17497/,30 days 00:00:00
+400,Defenders,1972,49,Issue,1977-07-01,Comicvine,2569,17597,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-49-who-remembers-scorpio-part-2-ramp/4000-17597/,31 days 00:00:00
+401,Defenders,1972,50,Issue,1977-08-01,Comicvine,2569,17676,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-50-who-remembers-scorpio-part-3-scor/4000-17676/,60 days 00:00:00
+402,Defenders,1972,51,Issue,1977-09-30,Comicvine,2569,17775,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-51-a-round-with-the-ringer/4000-17775/,1 days 00:00:00
+403,Defenders,1972,52,Issue,1977-10-01,Comicvine,2569,17866,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-52-defender-of-the-realm/4000-17866/,31 days 00:00:00
+404,Defenders,1972,53,Issue,1977-11-01,Comicvine,2569,17960,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-53-the-power-principle-part-1-the-pr/4000-17960/,30 days 00:00:00
+405,Defenders,1972,54,Issue,1977-12-01,Comicvine,2569,18037,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-54-the-power-principle-part-2-a-stud/4000-18037/,31 days 00:00:00
+406,Defenders,1972,55,Issue,1978-01-01,Comicvine,2569,18163,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-55-the-power-principle-part-3-emotio/4000-18163/,31 days 00:00:00
+407,Defenders,1972,56,Issue,1978-02-01,Comicvine,2569,18242,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-56-vals-new-york-adventure/4000-18242/,28 days 00:00:00
+408,Defenders,1972,57,Issue,1978-03-01,Comicvine,2569,18325,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-57-and-along-came-ms-marvel/4000-18325/,760 days 00:00:00
+409,Howard the Duck,1975,1,Issue,1976-01-31,Comicvine,2859,16023,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-16023/,30 days 00:00:00
+410,Howard the Duck,1975,2,Issue,1976-03-01,Comicvine,2859,16190,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-16190/,91 days 00:00:00
+411,Howard the Duck,1975,3,Issue,1976-05-31,Comicvine,2859,16362,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-16362/,31 days 00:00:00
+412,Howard the Duck,1975,4,Issue,1976-07-01,Comicvine,2859,16531,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-16531/,62 days 00:00:00
+413,Howard the Duck,1975,5,Issue,1976-09-01,Comicvine,2859,16709,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-16709/,61 days 00:00:00
+414,Howard the Duck,1975,6,Issue,1976-11-01,Comicvine,2859,16897,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-16897/,30 days 00:00:00
+415,Howard the Duck,1975,7,Issue,1976-12-01,Comicvine,2859,16983,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-16983/,335 days 00:00:00
+416,Marvel Treasury Edition,1974,12,Issue,1976-01-01,Comicvine,2694,15935,Marvel Treasury Edition,1974, ,https://comicvine.gamespot.com/marvel-treasury-edition-12-the-duck-and-the-defend/4000-15935/,366 days 00:00:00
+417,Howard the Duck,1975,8,Issue,1977-01-01,Comicvine,2859,17128,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17128/,31 days 00:00:00
+418,Howard the Duck,1975,9,Issue,1977-02-01,Comicvine,2859,17213,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17213/,490 days 00:00:00
+419,Avengers,1963,139,Issue,1975-09-30,Comicvine,2128,15623,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-139-prescription-violence/4000-15623/,31 days 00:00:00
+420,Avengers,1963,140,Issue,1975-10-31,Comicvine,2128,15669,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-140-journey-to-the-center-of-the-ant/4000-15669/,30 days 00:00:00
+421,Avengers,1963,141,Issue,1975-11-30,Comicvine,2128,15813,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-141-the-phantom-empire/4000-15813/,31 days 00:00:00
+422,Avengers,1963,142,Issue,1975-12-31,Comicvine,2128,15904,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-142-go-west-young-gods/4000-15904/,31 days 00:00:00
+423,Avengers,1963,143,Issue,1976-01-31,Comicvine,2128,15993,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-143-right-between-the-eons/4000-15993/,1 days 00:00:00
+424,Avengers,1963,144,Issue,1976-02-01,Comicvine,2128,105398,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-144-claws/4000-105398/,59 days 00:00:00
+425,Avengers,1963,145,Issue,1976-03-31,Comicvine,2128,16158,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-145-the-taking-of-the-avengers/4000-16158/,30 days 00:00:00
+426,Avengers,1963,146,Issue,1976-04-30,Comicvine,2128,16244,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-146-the-assassin-never-fails/4000-16244/,31 days 00:00:00
+427,Avengers,1963,147,Issue,1976-05-31,Comicvine,2128,16332,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-147-crisis-on-other-earth/4000-16332/,30 days 00:00:00
+428,Avengers,1963,148,Issue,1976-06-30,Comicvine,2128,16406,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-148-20000-leagues-under-justice/4000-16406/,31 days 00:00:00
+429,Avengers,1963,149,Issue,1976-07-31,Comicvine,2128,16496,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-149-the-gods-and-the-gang/4000-16496/,31 days 00:00:00
+430,Avengers,1963,150,Issue,1976-08-31,Comicvine,2128,16584,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-150-avengers-assemble/4000-16584/,30 days 00:00:00
+431,Avengers,1963,151,Issue,1976-09-30,Comicvine,2128,16673,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-151-at-last-the-decision/4000-16673/,31 days 00:00:00
+432,Avengers,1963,152,Issue,1976-10-31,Comicvine,2128,16761,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-152-nightmare-in-new-orleans/4000-16761/,30 days 00:00:00
+433,Avengers,1963,153,Issue,1976-11-30,Comicvine,2128,16861,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-153-home-is-the-hero/4000-16861/,1 days 00:00:00
+434,Avengers Annual,1967,6,Issue,1976-12-01,Comicvine,2350,15926,The Avengers Annual,1967, ,https://comicvine.gamespot.com/the-avengers-annual-6-no-final-victory/4000-15926/,245 days 00:00:00
+435,Incredible Hulk,1968,197,Issue,1976-03-31,Comicvine,2406,16167,The Incredible Hulk,1968, ,https://comicvine.gamespot.com/the-incredible-hulk-197-and-man-thing-makes-three/4000-16167/,30 days 00:00:00
+436,Incredible Hulk,1968,198,Issue,1976-04-30,Comicvine,2406,16256,The Incredible Hulk,1968, ,https://comicvine.gamespot.com/the-incredible-hulk-198-the-shangri-la-syndrome/4000-16256/,124 days 00:00:00
+437,Nova,1976,1,Issue,1976-09-01,Comicvine,2867,16694,Nova,1976, ,https://comicvine.gamespot.com/nova-1-nova/4000-16694/,30 days 00:00:00
+438,Nova,1976,2,Issue,1976-10-01,Comicvine,2867,16721,Nova,1976, ,https://comicvine.gamespot.com/nova-2-the-first-night-of-the-condor/4000-16721/,31 days 00:00:00
+439,Nova,1976,3,Issue,1976-11-01,Comicvine,2867,16883,Nova,1976, ,https://comicvine.gamespot.com/nova-3-the-deadly-diamondhead-is-ready-to-strike/4000-16883/,30 days 00:00:00
+440,Nova,1976,4,Issue,1976-12-01,Comicvine,2867,16971,Nova,1976, ,https://comicvine.gamespot.com/nova-4-nova-against-the-mighty-thor/4000-16971/,31 days 00:00:00
+441,Nova,1976,5,Issue,1977-01-01,Comicvine,2867,17112,Nova,1976, ,https://comicvine.gamespot.com/nova-5-evil-is-the-earth-shaker/4000-17112/,31 days 00:00:00
+442,Nova,1976,6,Issue,1977-02-01,Comicvine,2867,17199,Nova,1976, ,https://comicvine.gamespot.com/nova-6-and-so-the-sphinx/4000-17199/,28 days 00:00:00
+443,Nova,1976,7,Issue,1977-03-01,Comicvine,2867,17278,Nova,1976, ,https://comicvine.gamespot.com/nova-7-war-in-space/4000-17278/,31 days 00:00:00
+444,Nova,1976,8,Issue,1977-04-01,Comicvine,2867,17361,Nova,1976, ,https://comicvine.gamespot.com/nova-8-when-megaman-comes-calling-dont-answer/4000-17361/,30 days 00:00:00
+445,Nova,1976,9,Issue,1977-05-01,Comicvine,2867,17440,Nova,1976, ,https://comicvine.gamespot.com/nova-9-fear-in-the-funhouse/4000-17440/,151 days 00:00:00
+446,Captain Britain,1976,8,Issue,1976-12-01,Comicvine,20687,124050,Captain Britain,1976, ,https://comicvine.gamespot.com/captain-britain-8-riot-on-regent-street/4000-124050/,30 days 00:00:00
+447,Marvel Spotlight,1971,31,Issue,1976-12-31,Comicvine,2516,16967,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-31-nick-fury-death-hunt/4000-16967/,32 days 00:00:00
+448,Marvel Spotlight,1971,32,Issue,1977-02-01,Comicvine,2516,17194,Marvel Spotlight,1971, ,https://comicvine.gamespot.com/marvel-spotlight-32-dark-destiny/4000-17194/,245 days 00:00:00
+449,Power Man,1974,32,Issue,1976-06-01,Comicvine,2700,16432,Power Man,1974, ,https://comicvine.gamespot.com/power-man-32-the-fire-this-time/4000-16432/,30 days 00:00:00
+450,Power Man,1974,33,Issue,1976-07-01,Comicvine,2700,16519,Power Man,1974, ,https://comicvine.gamespot.com/power-man-33-sticks-and-stones-will-break-your-bon/4000-16519/,31 days 00:00:00
+451,Power Man,1974,34,Issue,1976-08-01,Comicvine,2700,16611,Power Man,1974, ,https://comicvine.gamespot.com/power-man-34-death-taxes-and-springtime-vendettas/4000-16611/,31 days 00:00:00
+452,Power Man,1974,35,Issue,1976-09-01,Comicvine,2700,16697,Power Man,1974, ,https://comicvine.gamespot.com/power-man-35-of-memories-both-vicious-and-haunting/4000-16697/,30 days 00:00:00
+453,Power Man,1974,36,Issue,1976-10-01,Comicvine,2700,16792,Power Man,1974, ,https://comicvine.gamespot.com/power-man-36-chemistro/4000-16792/,30 days 00:00:00
+454,Power Man Annual,1976,1,Issue,1976-10-31,Comicvine,21858,131756,Power Man Annual,1976, ,https://comicvine.gamespot.com/power-man-annual-1-earthshock-happy-landings-power/4000-131756/,1 days 00:00:00
+455,Power Man,1974,37,Issue,1976-11-01,Comicvine,2700,16886,Power Man,1974, ,https://comicvine.gamespot.com/power-man-37-chemistro-is-back-deadlier-than-ever/4000-16886/,30 days 00:00:00
+456,Power Man,1974,38,Issue,1976-12-01,Comicvine,2700,16973,Power Man,1974, ,https://comicvine.gamespot.com/power-man-38-big-brother-wants-youdead/4000-16973/,31 days 00:00:00
+457,Power Man,1974,39,Issue,1977-01-01,Comicvine,2700,17115,Power Man,1974, ,https://comicvine.gamespot.com/power-man-39-battle-with-the-baron/4000-17115/,31 days 00:00:00
+458,Power Man,1974,40,Issue,1977-02-01,Comicvine,2700,17201,Power Man,1974, ,https://comicvine.gamespot.com/power-man-40-rush-hour-to-limbo/4000-17201/,364 days 00:00:00
+459,Marvel Team-Up,1972,65,Issue,1978-01-31,Comicvine,2576,18173,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-65-introducing-captain-britain/4000-18173/,1 days 00:00:00
+460,Marvel Team-Up,1972,66,Issue,1978-02-01,Comicvine,2576,18256,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-66-murder-world/4000-18256/,365 days 00:00:00
+461,Avengers,1963,156,Issue,1977-02-01,Comicvine,2128,17172,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-156-the-private-war-of-doctor-doom/4000-17172/,149 days 00:00:00
+462,Daredevil,1964,146,Issue,1977-06-30,Comicvine,2190,17496,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-146-duel/4000-17496/,11780 days 00:00:00
+463,Uncanny X-Men: First Class,2009,1,Issue,2009-09-30,Comicvine,27037,163641,Uncanny X-Men: First Class,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-1-refuge/4000-163641/,31 days 00:00:00
+464,Uncanny X-Men: First Class,2009,2,Issue,2009-10-31,Comicvine,27037,166810,Uncanny X-Men: First Class,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-2-to-err-is-inhuman/4000-166810/,30 days 00:00:00
+465,Uncanny X-Men: First Class,2009,3,Issue,2009-11-30,Comicvine,27037,171556,Uncanny X-Men: First Class,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-3-the-next-life/4000-171556/,31 days 00:00:00
+466,Uncanny X-Men: First Class,2009,4,Issue,2009-12-31,Comicvine,27037,176137,Uncanny X-Men: First Class,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-4-sisters-of-the-dragon/4000-176137/,31 days 00:00:00
+467,Uncanny X-Men: First Class,2009,5,Issue,2010-01-31,Comicvine,27037,182998,Uncanny X-Men: First Class,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-5-the-knights-of-hykon/4000-182998/,28 days 00:00:00
+468,Uncanny X-Men: First Class,2009,6,Issue,2010-02-28,Comicvine,27037,186932,Uncanny X-Men: First Class,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-6-the-sky-is-falling/4000-186932/,31 days 00:00:00
+469,Uncanny X-Men: First Class,2009,7,Issue,2010-03-31,Comicvine,27037,192764,Uncanny X-Men: First Class,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-7-the-shattered-world/4000-192764/,30 days 00:00:00
+470,Uncanny X-Men: First Class,2009,8,Issue,2010-04-30,Comicvine,27037,196856,Uncanny X-Men: First Class,2009, ,https://comicvine.gamespot.com/uncanny-x-men-first-class-8-the-curse-of-craeliach/4000-196856/,11717 days 00:00:00
+471,The X-Men,1963,110,Issue,1978-04-01,Comicvine,2133,18435,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-18435/,396 days 00:00:00
+472,Howard the Duck,1975,10,Issue,1977-03-01,Comicvine,2859,17290,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17290/,31 days 00:00:00
+473,Howard the Duck,1975,11,Issue,1977-04-01,Comicvine,2859,17375,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17375/,30 days 00:00:00
+474,Howard the Duck,1975,12,Issue,1977-05-01,Comicvine,2859,17452,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17452/,31 days 00:00:00
+475,Howard the Duck,1975,13,Issue,1977-06-01,Comicvine,2859,17532,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17532/,30 days 00:00:00
+476,Howard the Duck,1975,14,Issue,1977-07-01,Comicvine,2859,17622,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17622/,31 days 00:00:00
+477,Howard the Duck Annual,1977,1,Issue,1977-08-01,Comicvine,23631,141644,Howard the Duck Annual,1977, ,https://comicvine.gamespot.com/howard-the-duck-annual-1-thief-of-bagmom/4000-141644/,93 days 00:00:00
+478,Avengers,1963,158,Issue,1977-04-30,Comicvine,2128,17336,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-158-when-avengers-clash/4000-17336/,31 days 00:00:00
+479,Avengers,1963,159,Issue,1977-05-31,Comicvine,2128,17422,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-159-siege-by-stealth-and-storm/4000-17422/,30 days 00:00:00
+480,Avengers,1963,160,Issue,1977-06-30,Comicvine,2128,17492,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-160-the-trial/4000-17492/,31 days 00:00:00
+481,Avengers,1963,161,Issue,1977-07-31,Comicvine,2128,17589,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-161-beware-the-ant-man/4000-17589/,31 days 00:00:00
+482,Avengers,1963,162,Issue,1977-08-31,Comicvine,2128,17673,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-162-the-bride-of-ultron/4000-17673/,30 days 00:00:00
+483,Avengers,1963,163,Issue,1977-09-30,Comicvine,2128,17768,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-163-the-demi-god-must-die/4000-17768/,31 days 00:00:00
+484,Avengers,1963,164,Issue,1977-10-31,Comicvine,2128,17863,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-164-to-fall-by-treachery/4000-17863/,30 days 00:00:00
+485,Avengers,1963,165,Issue,1977-11-30,Comicvine,2128,17953,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-165-hammer-of-vengeance/4000-17953/,31 days 00:00:00
+486,Avengers,1963,166,Issue,1977-12-31,Comicvine,2128,18034,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-166-day-of-the-godslayer/4000-18034/,91 days 00:00:00
+487,Super Villain Team-Up,1975,14,Issue,1977-10-01,Comicvine,2782,17891,Super-Villain Team-Up,1975, ,https://comicvine.gamespot.com/super-villain-team-up-14-a-world-for-the-winning/4000-17891/,60 days 00:00:00
+488,Champions,1975,16,Issue,1977-11-30,Comicvine,2746,17957,The Champions,1975, ,https://comicvine.gamespot.com/the-champions-16-a-world-lost/4000-17957/,243 days 00:00:00
+489,Avengers Annual,1967,7,Issue,1977-04-01,Comicvine,2350,17030,The Avengers Annual,1967, ,https://comicvine.gamespot.com/the-avengers-annual-7-the-final-threat/4000-17030/,30 days 00:00:00
+490,Marvel Two-in-One Annual,1976,2,Issue,1977-05-01,Comicvine,2865,17015,Marvel Two-in-One Annual,1976, ,https://comicvine.gamespot.com/marvel-two-in-one-annual-2-death-watch/4000-17015/,334 days 00:00:00
+491,Marvel Team-Up,1972,67,Issue,1978-03-31,Comicvine,2576,18333,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-67-tigra-tigra-burning-bright/4000-18333/,242 days 00:00:00
+492,Howard the Duck,1975,15,Issue,1977-08-01,Comicvine,2859,17711,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17711/,60 days 00:00:00
+493,Howard the Duck,1975,16,Issue,1977-09-30,Comicvine,2859,17804,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17804/,1 days 00:00:00
+494,Howard the Duck,1975,17,Issue,1977-10-01,Comicvine,2859,17901,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17901/,31 days 00:00:00
+495,Howard the Duck,1975,18,Issue,1977-11-01,Comicvine,2859,17984,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-17984/,30 days 00:00:00
+496,Howard the Duck,1975,19,Issue,1977-12-01,Comicvine,2859,18068,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18068/,31 days 00:00:00
+497,Howard the Duck,1975,20,Issue,1978-01-01,Comicvine,2859,18188,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18188/,31 days 00:00:00
+498,Howard the Duck,1975,21,Issue,1978-02-01,Comicvine,2859,18270,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18270/,28 days 00:00:00
+499,Howard the Duck,1975,22,Issue,1978-03-01,Comicvine,2859,18349,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18349/,31 days 00:00:00
+500,Howard the Duck,1975,23,Issue,1978-04-01,Comicvine,2859,18439,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18439/,30 days 00:00:00
+501,Howard the Duck,1975,24,Issue,1978-05-01,Comicvine,2859,18520,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18520/,31 days 00:00:00
+502,Howard the Duck,1975,25,Issue,1978-06-01,Comicvine,2859,18601,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18601/,60 days 00:00:00
+503,Howard the Duck,1975,26,Issue,1978-07-31,Comicvine,2859,18680,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18680/,32 days 00:00:00
+504,Howard the Duck,1975,27,Issue,1978-09-01,Comicvine,2859,18840,Howard the Duck,1975, ,https://comicvine.gamespot.com/issue/4000-18840/,457 days 00:00:00
+505,Nova,1976,10,Issue,1977-06-01,Comicvine,2867,17516,Nova,1976, ,https://comicvine.gamespot.com/nova-10-four-against-the-sphinx/4000-17516/,30 days 00:00:00
+506,Nova,1976,11,Issue,1977-07-01,Comicvine,2867,17609,Nova,1976, ,https://comicvine.gamespot.com/nova-11-nova-no-more/4000-17609/,31 days 00:00:00
+507,Nova,1976,12,Issue,1977-08-01,Comicvine,2867,17696,Nova,1976, ,https://comicvine.gamespot.com/nova-12-who-is-the-man-called-photon/4000-17696/,30 days 00:00:00
+508,Amazing Spider-Man,1963,171,Issue,1977-08-31,Comicvine,2127,17672,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-171-photon-is-another-name-/4000-17672/,30 days 00:00:00
+509,Nova,1976,13,Issue,1977-09-30,Comicvine,2867,17791,Nova,1976, ,https://comicvine.gamespot.com/nova-13-watch-out-world-the-sandman-is-back/4000-17791/,31 days 00:00:00
+510,Nova,1976,14,Issue,1977-10-31,Comicvine,2867,17884,Nova,1976, ,https://comicvine.gamespot.com/nova-14-massacre-at-truman-high/4000-17884/,30 days 00:00:00
+511,Nova,1976,15,Issue,1977-11-30,Comicvine,2867,17974,Nova,1976, ,https://comicvine.gamespot.com/nova-15-the-fury-before-the-storm/4000-17974/,31 days 00:00:00
+512,Nova,1976,16,Issue,1977-12-31,Comicvine,2867,18055,Nova,1976, ,https://comicvine.gamespot.com/nova-16-death-is-the-yellow-claw/4000-18055/,31 days 00:00:00
+513,Nova,1976,17,Issue,1978-01-31,Comicvine,2867,18177,Nova,1976, ,https://comicvine.gamespot.com/nova-17-tidal-wave/4000-18177/,59 days 00:00:00
+514,Nova,1976,18,Issue,1978-03-31,Comicvine,2867,18337,Nova,1976, ,https://comicvine.gamespot.com/nova-18-the-final-showdown/4000-18337/,395 days 00:00:00
+515,Power Man,1974,41,Issue,1977-03-01,Comicvine,2700,17280,Power Man,1974, ,https://comicvine.gamespot.com/power-man-41-thunderbolt-and-goldbug/4000-17280/,31 days 00:00:00
+516,Power Man,1974,42,Issue,1977-04-01,Comicvine,2700,17362,Power Man,1974, ,https://comicvine.gamespot.com/power-man-42-when-strikes-the-goldbug/4000-17362/,30 days 00:00:00
+517,Power Man,1974,43,Issue,1977-05-01,Comicvine,2700,17442,Power Man,1974, ,https://comicvine.gamespot.com/power-man-43-the-death-of-luke-cage/4000-17442/,31 days 00:00:00
+518,Power Man,1974,44,Issue,1977-06-01,Comicvine,2700,17517,Power Man,1974, ,https://comicvine.gamespot.com/power-man-44-murder-is-the-man-called-mace/4000-17517/,30 days 00:00:00
+519,Power Man,1974,45,Issue,1977-07-01,Comicvine,2700,17611,Power Man,1974, ,https://comicvine.gamespot.com/power-man-45-the-day-chicago-died/4000-17611/,31 days 00:00:00
+520,Power Man,1974,46,Issue,1977-08-01,Comicvine,2700,17697,Power Man,1974, ,https://comicvine.gamespot.com/power-man-46-countdown-to-catastrophe/4000-17697/,61 days 00:00:00
+521,Power Man,1974,47,Issue,1977-10-01,Comicvine,2700,17886,Power Man,1974, ,https://comicvine.gamespot.com/power-man-47-hot-time-in-the-old-town-tonight/4000-17886/,61 days 00:00:00
+522,Power Man,1974,48,Issue,1977-12-01,Comicvine,2700,18056,Power Man,1974, ,https://comicvine.gamespot.com/power-man-48-fist-of-iron-heart-of-stone/4000-18056/,62 days 00:00:00
+523,Power Man,1974,49,Issue,1978-02-01,Comicvine,2700,18260,Power Man,1974, ,https://comicvine.gamespot.com/power-man-49-seagate-is-a-lonely-place-to-die/4000-18260/,120 days 00:00:00
+524,The X-Men,1963,111,Issue,1978-06-01,Comicvine,2133,18598,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-18598/,91 days 00:00:00
+525,The X-Men,1963,112,Issue,1978-08-31,Comicvine,2133,18757,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-18757/,30 days 00:00:00
+526,The X-Men,1963,113,Issue,1978-09-30,Comicvine,2133,18837,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-18837/,31 days 00:00:00
+527,The X-Men,1963,114,Issue,1978-10-31,Comicvine,2133,18916,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-18916/,30 days 00:00:00
+528,The X-Men,1963,115,Issue,1978-11-30,Comicvine,2133,18985,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-18985/,31 days 00:00:00
+529,The X-Men,1963,116,Issue,1978-12-31,Comicvine,2133,19060,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19060/,1 days 00:00:00
+530,The X-Men,1963,117,Issue,1979-01-01,Comicvine,2133,19210,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19210/,31 days 00:00:00
+531,The X-Men,1963,118,Issue,1979-02-01,Comicvine,2133,19317,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19317/,28 days 00:00:00
+532,The X-Men,1963,119,Issue,1979-03-01,Comicvine,2133,19386,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19386/,31 days 00:00:00
+533,The X-Men,1963,120,Issue,1979-04-01,Comicvine,2133,19455,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19455/,30 days 00:00:00
+534,The X-Men,1963,121,Issue,1979-05-01,Comicvine,2133,19525,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19525/,31 days 00:00:00
+535,The X-Men,1963,122,Issue,1979-06-01,Comicvine,2133,19592,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19592/,30 days 00:00:00
+536,The X-Men,1963,123,Issue,1979-07-01,Comicvine,2133,123628,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-123628/,31 days 00:00:00
+537,The X-Men,1963,124,Issue,1979-08-01,Comicvine,2133,19726,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19726/,152 days 00:00:00
+538,X-Men Annual,1970,3,Issue,1979-12-31,Comicvine,22988,138857,X-Men Annual,1970, ,https://comicvine.gamespot.com/x-men-annual-3-a-fire-in-the-sky/4000-138857/,92 days 00:00:00
+539,The X-Men,1963,125,Issue,1979-09-30,Comicvine,2133,19794,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19794/,31 days 00:00:00
+540,The X-Men,1963,126,Issue,1979-10-31,Comicvine,2133,19865,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19865/,30 days 00:00:00
+541,The X-Men,1963,127,Issue,1979-11-30,Comicvine,2133,19934,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-19934/,31 days 00:00:00
+542,The X-Men,1963,128,Issue,1979-12-31,Comicvine,2133,20006,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20006/,1401 days 00:00:00
+543,Moon Knight Special Edition,1983,1,Issue,1983-11-01,Comicvine,3233,23638,Moon Knight: The Special Edition,1983, ,https://comicvine.gamespot.com/moon-knight-the-special-edition-1/4000-23638/,30 days 00:00:00
+544,Moon Knight Special Edition,1983,2,Issue,1983-12-01,Comicvine,3233,23665,Moon Knight: The Special Edition,1983, ,https://comicvine.gamespot.com/moon-knight-the-special-edition-2/4000-23665/,31 days 00:00:00
+545,Moon Knight Special Edition,1983,3,Issue,1984-01-01,Comicvine,3233,23666,Moon Knight: The Special Edition,1983, ,https://comicvine.gamespot.com/moon-knight-the-special-edition-3/4000-23666/,2405 days 00:00:00
+546,Doctor Strange,1974,23,Issue,1977-06-01,Comicvine,2676,17498,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-23-into-the-quadriverse/4000-17498/,61 days 00:00:00
+547,Doctor Strange,1974,24,Issue,1977-08-01,Comicvine,2676,17677,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-24-a-change-cometh/4000-17677/,61 days 00:00:00
+548,Doctor Strange,1974,25,Issue,1977-10-01,Comicvine,2676,17867,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-25-untitled/4000-17867/,61 days 00:00:00
+549,Doctor Strange,1974,26,Issue,1977-12-01,Comicvine,2676,18038,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-26-the-return-of-the-ancient-one/4000-18038/,62 days 00:00:00
+550,Doctor Strange,1974,27,Issue,1978-02-01,Comicvine,2676,18243,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-27-i-the-in-betweener/4000-18243/,59 days 00:00:00
+551,Doctor Strange,1974,28,Issue,1978-04-01,Comicvine,2676,18408,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-28-fate-like-a-wheel/4000-18408/,61 days 00:00:00
+552,Doctor Strange,1974,29,Issue,1978-06-01,Comicvine,2676,18573,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-29-he-who-stalks/4000-18573/,120 days 00:00:00
+553,Rampaging Hulk,1977,7,Issue,1978-02-01,Comicvine,2911,18261,Rampaging Hulk,1977, ,https://comicvine.gamespot.com/rampaging-hulk-7-night-of-the-wraith/4000-18261/,1 days 00:00:00
+554,Avengers,1963,167,Issue,1978-01-31,Comicvine,2128,18156,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-167-tomorrow-dies-today/4000-18156/,1 days 00:00:00
+555,Avengers,1963,168,Issue,1978-02-01,Comicvine,2128,18239,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-168-first-blood/4000-18239/,88 days 00:00:00
+556,Avengers,1963,170,Issue,1978-04-30,Comicvine,2128,18403,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-170-though-hell-should-bar-the-way/4000-18403/,31 days 00:00:00
+557,Avengers,1963,171,Issue,1978-05-31,Comicvine,2128,18488,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-171-where-angels-fear-to-tread/4000-18488/,30 days 00:00:00
+558,Avengers,1963,172,Issue,1978-06-30,Comicvine,2128,18569,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-172-holocaust-in-new-york-harbor/4000-18569/,31 days 00:00:00
+559,Avengers,1963,173,Issue,1978-07-31,Comicvine,2128,18649,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-173-threshold-of-oblivion/4000-18649/,31 days 00:00:00
+560,Avengers,1963,174,Issue,1978-08-31,Comicvine,2128,18727,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-174-captives-of-the-collector/4000-18727/,30 days 00:00:00
+561,Avengers,1963,175,Issue,1978-09-30,Comicvine,2128,18809,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-175-the-end-and-beginning/4000-18809/,31 days 00:00:00
+562,Avengers,1963,176,Issue,1978-10-31,Comicvine,2128,18885,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-176-the-destiny-hunt/4000-18885/,30 days 00:00:00
+563,Avengers,1963,177,Issue,1978-11-30,Comicvine,2128,18955,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-177-the-hope-and-the-slaughter/4000-18955/,333 days 00:00:00
+564,The Silver Surfer,1978,1,Issue,1978-01-01,Comicvine,20444,122392,The Silver Surfer,1978, ,https://comicvine.gamespot.com/issue/4000-122392/,485 days 00:00:00
+565,Thor,1966,283,Issue,1979-05-01,Comicvine,2294,19524,Thor,1966, ,https://comicvine.gamespot.com/thor-283-suddenly-the-celestials/4000-19524/,31 days 00:00:00
+566,Thor,1966,284,Issue,1979-06-01,Comicvine,2294,19591,Thor,1966, ,https://comicvine.gamespot.com/thor-284-the-city-of-the-space-gods/4000-19591/,30 days 00:00:00
+567,Thor,1966,285,Issue,1979-07-01,Comicvine,2294,19657,Thor,1966, ,https://comicvine.gamespot.com/thor-285-the-coming-of-karkas/4000-19657/,31 days 00:00:00
+568,Thor,1966,286,Issue,1979-08-01,Comicvine,2294,19723,Thor,1966, ,https://comicvine.gamespot.com/thor-286-mayhem-under-manhattan/4000-19723/,31 days 00:00:00
+569,Thor,1966,287,Issue,1979-09-01,Comicvine,2294,19793,Thor,1966, ,https://comicvine.gamespot.com/thor-287-assault-on-olympia/4000-19793/,30 days 00:00:00
+570,Thor,1966,288,Issue,1979-10-01,Comicvine,2294,19862,Thor,1966, ,https://comicvine.gamespot.com/thor-288-fury-of-the-forgotten-hero/4000-19862/,31 days 00:00:00
+571,Thor,1966,289,Issue,1979-11-01,Comicvine,2294,19933,Thor,1966, ,https://comicvine.gamespot.com/thor-289-look-homeward-asgardian/4000-19933/,30 days 00:00:00
+572,Thor,1966,290,Issue,1979-12-01,Comicvine,2294,20003,Thor,1966, ,https://comicvine.gamespot.com/thor-290-ring-around-the-red-bull/4000-20003/,31 days 00:00:00
+573,Thor,1966,291,Issue,1980-01-01,Comicvine,2294,20113,Thor,1966, ,https://comicvine.gamespot.com/thor-291-when-gods-have-joined-together/4000-20113/,31 days 00:00:00
+574,Thor,1966,292,Issue,1980-02-01,Comicvine,2294,20183,Thor,1966, ,https://comicvine.gamespot.com/thor-292-if-an-eye-offend-thee/4000-20183/,29 days 00:00:00
+575,Thor,1966,293,Issue,1980-03-01,Comicvine,2294,20257,Thor,1966, ,https://comicvine.gamespot.com/thor-293-the-twilight-of-some-gods/4000-20257/,31 days 00:00:00
+576,Thor,1966,294,Issue,1980-04-01,Comicvine,2294,20330,Thor,1966, ,https://comicvine.gamespot.com/thor-294-new-asgards-for-old/4000-20330/,30 days 00:00:00
+577,Thor,1966,295,Issue,1980-05-01,Comicvine,2294,20402,Thor,1966, ,https://comicvine.gamespot.com/thor-295-the-price-and-the-pride/4000-20402/,31 days 00:00:00
+578,Thor,1966,296,Issue,1980-06-01,Comicvine,2294,20474,Thor,1966, ,https://comicvine.gamespot.com/thor-296-from-valhalla-a-valkyrie/4000-20474/,30 days 00:00:00
+579,Thor,1966,297,Issue,1980-07-01,Comicvine,2294,20545,Thor,1966, ,https://comicvine.gamespot.com/thor-297-the-sword-of-siegfried/4000-20545/,31 days 00:00:00
+580,Thor,1966,298,Issue,1980-08-01,Comicvine,2294,20610,Thor,1966, ,https://comicvine.gamespot.com/thor-298-dragons-blood/4000-20610/,31 days 00:00:00
+581,Thor,1966,299,Issue,1980-09-01,Comicvine,2294,20680,Thor,1966, ,https://comicvine.gamespot.com/thor-299-passions-and-potions/4000-20680/,30 days 00:00:00
+582,Thor,1966,300,Issue,1980-10-01,Comicvine,2294,20749,Thor,1966, ,https://comicvine.gamespot.com/thor-300-twilight-of-the-gods/4000-20749/,31 days 00:00:00
+583,Thor,1966,301,Issue,1980-11-01,Comicvine,2294,20811,Thor,1966, ,https://comicvine.gamespot.com/thor-301-for-the-life-of-asgard/4000-20811/,60 days 00:00:00
+584,Thor,1966,302,Issue,1980-12-31,Comicvine,2294,20882,Thor,1966, ,https://comicvine.gamespot.com/thor-302-the-shape-of-things-to-kill/4000-20882/,976 days 00:00:00
+585,Spider-Woman,1978,1,Issue,1978-04-30,Comicvine,2960,18430,Spider-Woman,1978, ,https://comicvine.gamespot.com/spider-woman-1-a-future-uncertain/4000-18430/,31 days 00:00:00
+586,Nova,1976,19,Issue,1978-05-31,Comicvine,2867,18507,Nova,1976, ,https://comicvine.gamespot.com/nova-19-blackout-means-business-and-his-business-i/4000-18507/,61 days 00:00:00
+587,Nova,1976,20,Issue,1978-07-31,Comicvine,2867,18668,Nova,1976, ,https://comicvine.gamespot.com/nova-20-at-last-the-inner-circle/4000-18668/,61 days 00:00:00
+588,Nova,1976,21,Issue,1978-09-30,Comicvine,2867,18827,Nova,1976, ,https://comicvine.gamespot.com/nova-21-is-the-world-ready-for-the-shocking-secret/4000-18827/,61 days 00:00:00
+589,Nova,1978,22,Issue,1978-11-30,Comicvine,55957,99746,The Man Called Nova,1978, ,https://comicvine.gamespot.com/issue/4000-99746/,62 days 00:00:00
+590,Nova,1978,23,Issue,1979-01-31,Comicvine,55957,99773,The Man Called Nova,1978, ,https://comicvine.gamespot.com/issue/4000-99773/,59 days 00:00:00
+591,Nova,1978,24,Issue,1979-03-31,Comicvine,55957,99847,The Man Called Nova,1978, ,https://comicvine.gamespot.com/issue/4000-99847/,0 days 00:00:00
+592,Fantastic Four,1961,204,Issue,1979-03-31,Comicvine,2045,19366,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-204-the-andromeda-attack/4000-19366/,30 days 00:00:00
+593,Fantastic Four,1961,205,Issue,1979-04-30,Comicvine,2045,19428,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-205-when-worlds-die/4000-19428/,31 days 00:00:00
+594,Nova,1978,25,Issue,1979-05-31,Comicvine,55957,99862,The Man Called Nova,1978, ,https://comicvine.gamespot.com/issue/4000-99862/,0 days 00:00:00
+595,Fantastic Four,1961,206,Issue,1979-05-31,Comicvine,2045,19505,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-206-the-death-of-the-fantastic-four/4000-19505/,212 days 00:00:00
+596,Spider-Woman,1978,7,Issue,1978-10-31,Comicvine,2960,18911,Spider-Woman,1978, ,https://comicvine.gamespot.com/spider-woman-7-july-4-1978/4000-18911/,273 days 00:00:00
+597,Fantastic Four,1961,208,Issue,1979-07-31,Comicvine,2045,19640,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-208-the-power-of-the-sphinx/4000-19640/,31 days 00:00:00
+598,Fantastic Four,1961,209,Issue,1979-08-31,Comicvine,2045,19704,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-209-trapped-in-the-sargasso-of-spac/4000-19704/,30 days 00:00:00
+599,Fantastic Four,1961,210,Issue,1979-09-30,Comicvine,2045,19779,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-210-in-search-of-galactus/4000-19779/,31 days 00:00:00
+600,Fantastic Four,1961,211,Issue,1979-10-31,Comicvine,2045,19842,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-211-if-this-be-terrax/4000-19842/,30 days 00:00:00
+601,Fantastic Four,1961,212,Issue,1979-11-30,Comicvine,2045,19919,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-212-the-battle-of-the-titans/4000-19919/,31 days 00:00:00
+602,Fantastic Four,1961,213,Issue,1979-12-31,Comicvine,2045,19982,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-213-to-the-death/4000-19982/,31 days 00:00:00
+603,Fantastic Four,1961,214,Issue,1980-01-31,Comicvine,2045,20097,Fantastic Four,1961, ,https://comicvine.gamespot.com/fantastic-four-214-and-then-there-was-one/4000-20097/,641 days 00:00:00
+604,Marvel Team-Up,1972,68,Issue,1978-04-30,Comicvine,2576,18422,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-68-the-measure-of-a-man/4000-18422/,93 days 00:00:00
+605,Marvel Two-in-One,1974,42,Issue,1978-08-01,Comicvine,2696,18746,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-42-entropy-entropy/4000-18746/,31 days 00:00:00
+606,Marvel Two-in-One,1974,43,Issue,1978-09-01,Comicvine,2696,18825,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-43-the-day-the-world-winds-down/4000-18825/,303 days 00:00:00
+607,Micronauts,1979,7,Issue,1979-07-01,Comicvine,3008,19651,Micronauts,1979, ,https://comicvine.gamespot.com/micronauts-7-adventure-into-fear/4000-19651/,334 days 00:00:00
+608,Doctor Strange,1974,30,Issue,1978-08-01,Comicvine,2676,18731,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-30-a-gathering-of-fear/4000-18731/,61 days 00:00:00
+609,Doctor Strange,1974,31,Issue,1978-10-01,Comicvine,2676,18889,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-31-a-death-for-immortality/4000-18889/,61 days 00:00:00
+610,Doctor Strange,1974,32,Issue,1978-12-01,Comicvine,2676,19033,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-32-the-dream-weaver/4000-19033/,62 days 00:00:00
+611,Doctor Strange,1974,33,Issue,1979-02-01,Comicvine,2676,19289,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-33-all-my-dreams-against-me/4000-19289/,59 days 00:00:00
+612,Doctor Strange,1974,34,Issue,1979-04-01,Comicvine,2676,19427,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-34-a-midsummers-nightmare/4000-19427/,61 days 00:00:00
+613,Doctor Strange,1974,35,Issue,1979-06-01,Comicvine,2676,19573,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-35-of-knights-and-pawns/4000-19573/,61 days 00:00:00
+614,Doctor Strange,1974,36,Issue,1979-08-01,Comicvine,2676,19703,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-36-the-man-who-knew-stephen-sanders/4000-19703/,61 days 00:00:00
+615,Doctor Strange,1974,37,Issue,1979-10-01,Comicvine,2676,19841,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-37-and-fear-the-final-victor/4000-19841/,91 days 00:00:00
+616,Doctor Strange,1974,38,Issue,1979-12-31,Comicvine,2676,19981,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-38-eye-of-the-beholder/4000-19981/,60 days 00:00:00
+617,Doctor Strange,1974,39,Issue,1980-02-29,Comicvine,2676,20163,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-39-the-old-dark-house/4000-20163/,61 days 00:00:00
+618,Doctor Strange,1974,40,Issue,1980-04-30,Comicvine,2676,20307,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-40-dawn-of-death/4000-20307/,152 days 00:00:00
+619,Man-Thing,1979,1,Issue,1979-11-30,Comicvine,3006,19922,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-1-regeneration-and-rebirth/4000-19922/,62 days 00:00:00
+620,Man-Thing,1979,2,Issue,1980-01-31,Comicvine,3006,20101,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-2-himalayan-nightmare/4000-20101/,60 days 00:00:00
+621,Man-Thing,1979,3,Issue,1980-03-31,Comicvine,3006,20245,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-3-the-gong-of-doom/4000-20245/,61 days 00:00:00
+622,Man-Thing,1979,4,Issue,1980-05-31,Comicvine,3006,20389,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-4-death-knell/4000-20389/,30 days 00:00:00
+623,Doctor Strange,1974,41,Issue,1980-06-30,Comicvine,2676,20450,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-41-weep-for-the-soul-of-man/4000-20450/,821 days 00:00:00
+624,Power Man and Iron Fist,1978,50,Issue,1978-04-01,Comicvine,2959,18426,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-50-freedom/4000-18426/,61 days 00:00:00
+625,Power Man and Iron Fist,1978,51,Issue,1978-06-01,Comicvine,2959,18590,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-51-a-night-on-the-town/4000-18590/,61 days 00:00:00
+626,Power Man and Iron Fist,1978,52,Issue,1978-08-01,Comicvine,2959,18749,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-52-a-nod-is-as-good-as-a-w/4000-18749/,61 days 00:00:00
+627,Power Man and Iron Fist,1978,53,Issue,1978-10-01,Comicvine,2959,18908,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-53-death-plunge/4000-18908/,61 days 00:00:00
+628,Power Man and Iron Fist,1978,54,Issue,1978-12-01,Comicvine,2959,19052,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-54-heroes-for-hire/4000-19052/,62 days 00:00:00
+629,Power Man and Iron Fist,1978,55,Issue,1979-02-01,Comicvine,2959,19307,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-55-chaos-at-the-coliseum/4000-19307/,59 days 00:00:00
+630,Power Man and Iron Fist,1978,56,Issue,1979-04-01,Comicvine,2959,19445,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-56-the-scarabs-sting/4000-19445/,61 days 00:00:00
+631,Power Man and Iron Fist,1978,57,Issue,1979-06-01,Comicvine,2959,19584,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-57-pharaohs-on-broad-way/4000-19584/,61 days 00:00:00
+632,Power Man and Iron Fist,1978,58,Issue,1979-08-01,Comicvine,2959,19716,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-58-el-aguila-has-landed/4000-19716/,61 days 00:00:00
+633,Power Man and Iron Fist,1978,59,Issue,1979-10-01,Comicvine,2959,19855,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-59-big-apple-bomber/4000-19855/,61 days 00:00:00
+634,Power Man and Iron Fist,1978,60,Issue,1979-12-01,Comicvine,2959,19996,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-60-the-terrorist-manifesto/4000-19996/,487 days 00:00:00
+635,Iron Man,1968,113,Issue,1978-08-01,Comicvine,2407,18739,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-113-the-horn-of-the-unicorn/4000-18739/,31 days 00:00:00
+636,Iron Man,1968,114,Issue,1978-09-01,Comicvine,2407,18821,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-114-the-menace-of-arsenal/4000-18821/,30 days 00:00:00
+637,Iron Man,1968,115,Issue,1978-10-01,Comicvine,2407,18897,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-115-betrayal/4000-18897/,31 days 00:00:00
+638,Iron Man,1968,116,Issue,1978-11-01,Comicvine,2407,18967,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-116-anguish-once-removed/4000-18967/,181 days 00:00:00
+639,Daredevil,1964,158,Issue,1979-05-01,Comicvine,2190,19503,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-158-a-grave-mistake/4000-19503/,61 days 00:00:00
+640,Daredevil,1964,159,Issue,1979-07-01,Comicvine,2190,19638,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-159-marked-for-murder/4000-19638/,62 days 00:00:00
+641,Daredevil,1964,160,Issue,1979-09-01,Comicvine,2190,19777,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-160-in-the-hands-of-bullseye/4000-19777/,61 days 00:00:00
+642,Daredevil,1964,161,Issue,1979-11-01,Comicvine,2190,19917,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-161-to-dare-the-devil/4000-19917/,215 days 00:00:00
+643,Avengers,1963,181,Issue,1979-03-31,Comicvine,2128,19359,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-181-on-the-matter-of-heroes/4000-19359/,30 days 00:00:00
+644,Avengers,1963,182,Issue,1979-04-30,Comicvine,2128,19423,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-182-honor-thy-father/4000-19423/,31 days 00:00:00
+645,Avengers,1963,183,Issue,1979-05-31,Comicvine,2128,19498,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-183-the-redoubtable-return-of-crusher/4000-19498/,30 days 00:00:00
+646,Avengers,1963,184,Issue,1979-06-30,Comicvine,2128,19569,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-184-death-on-the-hudson/4000-19569/,31 days 00:00:00
+647,Avengers,1963,185,Issue,1979-07-31,Comicvine,2128,19635,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-185-the-yesterday-quest/4000-19635/,31 days 00:00:00
+648,Avengers,1963,186,Issue,1979-08-31,Comicvine,2128,19699,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-186-nights-of-wundagore/4000-19699/,30 days 00:00:00
+649,Avengers,1963,187,Issue,1979-09-30,Comicvine,2128,19774,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-187-the-call-of-the-mountain-thing/4000-19774/,182 days 00:00:00
+650,Marvel Premiere,1972,47,Issue,1979-04-01,Comicvine,2575,19438,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-47-to-steal-an-ant-man/4000-19438/,61 days 00:00:00
+651,Marvel Premiere,1972,48,Issue,1979-06-01,Comicvine,2575,19512,Marvel Premiere,1972, ,https://comicvine.gamespot.com/marvel-premiere-48/4000-19512/,182 days 00:00:00
+652,Iron Man,1968,117,Issue,1978-12-01,Comicvine,2407,19042,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-117-the-spy-who-killed-me/4000-19042/,31 days 00:00:00
+653,Iron Man,1968,118,Issue,1979-01-01,Comicvine,2407,19195,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-118-at-the-mercy-of-my-foes-friends/4000-19195/,31 days 00:00:00
+654,Iron Man,1968,119,Issue,1979-02-01,Comicvine,2407,19297,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-119-no-shield-to-protect-me/4000-19297/,28 days 00:00:00
+655,Iron Man,1968,120,Issue,1979-03-01,Comicvine,2407,19371,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-120-the-old-man-and-the-sea-prince/4000-19371/,31 days 00:00:00
+656,Iron Man,1968,121,Issue,1979-04-01,Comicvine,2407,19434,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-121-a-ruse-by-any-other-name/4000-19434/,30 days 00:00:00
+657,Iron Man,1968,122,Issue,1979-05-01,Comicvine,2407,19509,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-122-journey/4000-19509/,31 days 00:00:00
+658,Iron Man,1968,123,Issue,1979-06-01,Comicvine,2407,19579,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-123-casino-fatale/4000-19579/,30 days 00:00:00
+659,Iron Man,1968,124,Issue,1979-07-01,Comicvine,2407,19643,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-124-pieces-of-hate/4000-19643/,31 days 00:00:00
+660,Iron Man,1968,125,Issue,1979-08-01,Comicvine,2407,19708,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-125-the-monaco-prelude/4000-19708/,60 days 00:00:00
+661,Iron Man,1968,126,Issue,1979-09-30,Comicvine,2407,19781,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-126-the-hammer-strikes/4000-19781/,1 days 00:00:00
+662,Iron Man,1968,127,Issue,1979-10-01,Comicvine,2407,19846,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-127-a-mans-home-is-his-battlefield/4000-19846/,60 days 00:00:00
+663,Iron Man,1968,128,Issue,1979-11-30,Comicvine,2407,19921,Iron Man,1968, ,https://comicvine.gamespot.com/iron-man-128-demon-in-a-bottle/4000-19921/,153 days 00:00:00
+664,Amazing Spider-Man,1963,193,Issue,1979-06-30,Comicvine,2127,19568,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-193-the-wings-of-the-fearso/4000-19568/,31 days 00:00:00
+665,Amazing Spider-Man,1963,194,Issue,1979-07-31,Comicvine,2127,19634,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-194-never-let-the-black-cat/4000-19634/,31 days 00:00:00
+666,Amazing Spider-Man,1963,195,Issue,1979-08-31,Comicvine,2127,19698,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-195-nine-lives-has-the-blac/4000-19698/,30 days 00:00:00
+667,Amazing Spider-Man,1963,196,Issue,1979-09-30,Comicvine,2127,19773,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-196-requiem/4000-19773/,31 days 00:00:00
+668,Amazing Spider-Man,1963,197,Issue,1979-10-31,Comicvine,2127,19836,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-197-the-kingpins-midnight-m/4000-19836/,30 days 00:00:00
+669,Amazing Spider-Man,1963,198,Issue,1979-11-30,Comicvine,2127,19913,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-198-mysterio-is-deadlier-by/4000-19913/,31 days 00:00:00
+670,Amazing Spider-Man,1963,199,Issue,1979-12-31,Comicvine,2127,19976,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-199-now-you-see-me-now-you-/4000-19976/,31 days 00:00:00
+671,Amazing Spider-Man,1963,200,Issue,1980-01-31,Comicvine,2127,20091,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-200-the-spider-and-the-burg/4000-20091/,276 days 00:00:00
+672,Ghost Rider,1973,35,Issue,1979-04-30,Comicvine,2636,19429,Ghost Rider,1973, ,https://comicvine.gamespot.com/ghost-rider-35-deathrace/4000-19429/,62 days 00:00:00
+673,Marvel Two-in-One,1974,53,Issue,1979-07-01,Comicvine,2696,19649,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-53-the-inner-war/4000-19649/,31 days 00:00:00
+674,Marvel Two-in-One,1974,54,Issue,1979-08-01,Comicvine,2696,19713,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-54-blood-and-bionics/4000-19713/,31 days 00:00:00
+675,Marvel Two-in-One,1974,55,Issue,1979-09-01,Comicvine,2696,19785,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-55-giants-in-the-earth/4000-19785/,30 days 00:00:00
+676,Marvel Two-in-One,1974,56,Issue,1979-10-01,Comicvine,2696,19852,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-56-the-deadlier-of-the-species/4000-19852/,31 days 00:00:00
+677,Marvel Two-in-One,1974,57,Issue,1979-11-01,Comicvine,2696,19926,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-57-when-walks-wundarr/4000-19926/,30 days 00:00:00
+678,Marvel Two-in-One,1974,58,Issue,1979-12-01,Comicvine,2696,19992,Marvel Two-in-One,1974, ,https://comicvine.gamespot.com/marvel-two-in-one-58-to-the-nth-power/4000-19992/,31 days 00:00:00
+679,The X-Men,1963,129,Issue,1980-01-01,Comicvine,2133,20114,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20114/,31 days 00:00:00
+680,The X-Men,1963,130,Issue,1980-02-01,Comicvine,2133,20186,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20186/,11138 days 00:00:00
+681,X-Men Origins: Emma Frost,2010,1,Issue,2010-07-31,Comicvine,33383,216366,X-Men Origins: Emma Frost,2010, ,https://comicvine.gamespot.com/x-men-origins-emma-frost-1-will-love/4000-216366/,11109 days 00:00:00
+682,The X-Men,1963,131,Issue,1980-03-01,Comicvine,2133,20258,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20258/,31 days 00:00:00
+683,The X-Men,1963,132,Issue,1980-04-01,Comicvine,2133,20333,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20333/,30 days 00:00:00
+684,The X-Men,1963,133,Issue,1980-05-01,Comicvine,2133,20403,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20403/,31 days 00:00:00
+685,The X-Men,1963,134,Issue,1980-06-01,Comicvine,2133,20477,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20477/,60 days 00:00:00
+686,The X-Men,1963,135,Issue,1980-07-31,Comicvine,2133,20546,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20546/,31 days 00:00:00
+687,The X-Men,1963,136,Issue,1980-08-31,Comicvine,2133,20613,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20613/,1 days 00:00:00
+688,The X-Men,1963,137,Issue,1980-09-01,Comicvine,2133,20681,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20681/,30 days 00:00:00
+689,The X-Men,1963,138,Issue,1980-10-01,Comicvine,2133,20751,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20751/,60 days 00:00:00
+690,X-Men Annual,1970,4,Issue,1980-11-30,Comicvine,22988,136137,X-Men Annual,1970, ,https://comicvine.gamespot.com/x-men-annual-4-nightcrawler-s-inferno/4000-136137/,122 days 00:00:00
+691,Man-Thing,1979,5,Issue,1980-07-31,Comicvine,3006,20530,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-5-who-knows-fear/4000-20530/,61 days 00:00:00
+692,Man-Thing,1979,6,Issue,1980-09-30,Comicvine,3006,20667,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-6-fraternity-rites/4000-20667/,61 days 00:00:00
+693,Man-Thing,1979,7,Issue,1980-11-30,Comicvine,3006,20797,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-7-whatever-happened-to-captain-fate/4000-20797/,62 days 00:00:00
+694,Man-Thing,1979,8,Issue,1981-01-31,Comicvine,3006,20971,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-8-red-sails-burning/4000-20971/,59 days 00:00:00
+695,Man-Thing,1979,9,Issue,1981-03-31,Comicvine,3006,21112,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-9-the-echo-of-pain/4000-21112/,61 days 00:00:00
+696,Man-Thing,1979,10,Issue,1981-05-31,Comicvine,3006,21245,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-10-came-the-dark-man-walkin-walkin/4000-21245/,61 days 00:00:00
+697,Man-Thing,1979,11,Issue,1981-07-31,Comicvine,3006,21379,Man-Thing,1979, ,https://comicvine.gamespot.com/man-thing-11-hells-gate/4000-21379/,457 days 00:00:00
+698,Avengers,1963,194,Issue,1980-04-30,Comicvine,2128,20303,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-194-interlude/4000-20303/,31 days 00:00:00
+699,Avengers,1963,195,Issue,1980-05-31,Comicvine,2128,20380,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-195-assault-on-a-mind-cage/4000-20380/,30 days 00:00:00
+700,Avengers,1963,196,Issue,1980-06-30,Comicvine,2128,20446,The Avengers,1963, ,https://comicvine.gamespot.com/the-avengers-196-the-terrible-toll-of-the-taskmast/4000-20446/,62 days 00:00:00
+701,Doctor Strange,1974,42,Issue,1980-08-31,Comicvine,2676,20588,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-42-the-black-mirror/4000-20588/,61 days 00:00:00
+702,Doctor Strange,1974,43,Issue,1980-10-31,Comicvine,2676,20727,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-43-shadowqueen/4000-20727/,61 days 00:00:00
+703,Doctor Strange,1974,44,Issue,1980-12-31,Comicvine,2676,20856,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-44-duel-of-fire/4000-20856/,59 days 00:00:00
+704,Doctor Strange,1974,45,Issue,1981-02-28,Comicvine,2676,21033,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-45-wizard-of-the-west-village/4000-21033/,61 days 00:00:00
+705,Doctor Strange,1974,46,Issue,1981-04-30,Comicvine,2676,21173,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-46-the-reality-war/4000-21173/,273 days 00:00:00
+706,Marvel Team-Up,1972,95,Issue,1980-07-31,Comicvine,2576,20534,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-95-and-no-birds-sing/4000-20534/,152 days 00:00:00
+707,Daredevil,1964,163,Issue,1980-03-01,Comicvine,2190,20237,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-163-blind-alley/4000-20237/,91 days 00:00:00
+708,Daredevil,1964,164,Issue,1980-05-31,Comicvine,2190,20383,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-164-expose/4000-20383/,31 days 00:00:00
+709,Daredevil,1964,165,Issue,1980-07-01,Comicvine,2190,20524,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-165-arms-of-the-octopus/4000-20524/,62 days 00:00:00
+710,Daredevil,1964,166,Issue,1980-09-01,Comicvine,2190,20658,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-166-till-death-do-us-part/4000-20658/,61 days 00:00:00
+711,Daredevil,1964,167,Issue,1980-11-01,Comicvine,2190,20791,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-167-the-mauler-dark-secrets/4000-20791/,61 days 00:00:00
+712,Daredevil,1964,168,Issue,1981-01-01,Comicvine,2190,20965,Daredevil,1964, ,https://comicvine.gamespot.com/daredevil-168-elektra/4000-20965/,92 days 00:00:00
+713,Ghost Rider,1973,49,Issue,1980-10-01,Comicvine,2636,20729,Ghost Rider,1973, ,https://comicvine.gamespot.com/ghost-rider-49-the-wrath-of-the-manitou/4000-20729/,60 days 00:00:00
+714,Ghost Rider,1973,50,Issue,1980-11-30,Comicvine,2636,20794,Ghost Rider,1973, ,https://comicvine.gamespot.com/ghost-rider-50-manitous-angertarantulas-sting/4000-20794/,9984 days 00:00:00
+715,Wolverine: First Class,2008,1,Issue,2008-04-01,Comicvine,21049,126013,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-1-the-buddy-system/4000-126013/,10013 days 00:00:00
+716,The X-Men,1963,139,Issue,1980-11-01,Comicvine,2133,20812,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20812/,30 days 00:00:00
+717,The X-Men,1963,140,Issue,1980-12-01,Comicvine,2133,20884,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20884/,10044 days 00:00:00
+718,Wolverine: First Class,2008,2,Issue,2008-06-01,Comicvine,21049,128596,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-2-surprise/4000-128596/,0 days 00:00:00
+719,Wolverine: First Class,2008,3,Issue,2008-06-01,Comicvine,21049,131086,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-3-the-last-knights-of-wundag/4000-131086/,61 days 00:00:00
+720,Wolverine: First Class,2008,4,Issue,2008-08-01,Comicvine,21049,132059,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-4-the-last-knights-of-wundag/4000-132059/,31 days 00:00:00
+721,Wolverine: First Class,2008,5,Issue,2008-09-01,Comicvine,21049,135023,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-5-citadel/4000-135023/,60 days 00:00:00
+722,Wolverine: First Class,2008,6,Issue,2008-10-31,Comicvine,21049,138987,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-6-little-girls/4000-138987/,1 days 00:00:00
+723,Wolverine: First Class,2008,7,Issue,2008-11-01,Comicvine,21049,139423,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-7-zone-of-alienation-part-1/4000-139423/,60 days 00:00:00
+724,Wolverine: First Class,2008,8,Issue,2008-12-31,Comicvine,21049,141683,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-8-zone-of-alienation-part-2/4000-141683/,31 days 00:00:00
+725,Wolverine: First Class,2008,9,Issue,2009-01-31,Comicvine,21049,143687,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-9-koan/4000-143687/,28 days 00:00:00
+726,Wolverine: First Class,2008,10,Issue,2009-02-28,Comicvine,21049,149193,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-10-the-pack-part-1/4000-149193/,1 days 00:00:00
+727,Wolverine: First Class,2008,11,Issue,2009-03-01,Comicvine,21049,150596,Wolverine: First Class,2008, ,https://comicvine.gamespot.com/wolverine-first-class-11-the-pack-part-2/4000-150596/,4108 days 00:00:00
+728,Wolverine: Days of Future Past,1997,1,Issue,1997-12-01,Comicvine,6022,44420,Wolverine: Days of Future Past,1997, ,https://comicvine.gamespot.com/wolverine-days-of-future-past-1-ill-winds/4000-44420/,31 days 00:00:00
+729,Wolverine: Days of Future Past,1997,2,Issue,1998-01-01,Comicvine,6022,44590,Wolverine: Days of Future Past,1997, ,https://comicvine.gamespot.com/wolverine-days-of-future-past-2-uneasy-alliances/4000-44590/,31 days 00:00:00
+730,Wolverine: Days of Future Past,1997,3,Issue,1998-02-01,Comicvine,6022,44698,Wolverine: Days of Future Past,1997, ,https://comicvine.gamespot.com/wolverine-days-of-future-past-3-chain-reactions/4000-44698/,6210 days 00:00:00
+731,The X-Men,1963,141,Issue,1981-01-31,Comicvine,2133,20988,The X-Men,1963, ,https://comicvine.gamespot.com/issue/4000-20988/,1 days 00:00:00
+732,Uncanny X-Men,1981,142,Issue,1981-02-01,Comicvine,3092,21057,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-142-mind-out-of-time/4000-21057/,366 days 00:00:00
+733,Power Man and Iron Fist,1978,61,Issue,1980-02-01,Comicvine,2959,20175,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-61-whos-been-sleeping-in-m/4000-20175/,60 days 00:00:00
+734,Power Man and Iron Fist,1978,62,Issue,1980-04-01,Comicvine,2959,20321,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-62-one-must-die/4000-20321/,61 days 00:00:00
+735,Power Man and Iron Fist,1978,63,Issue,1980-06-01,Comicvine,2959,20464,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-63-luck-and-death/4000-20464/,61 days 00:00:00
+736,Power Man and Iron Fist,1978,64,Issue,1980-08-01,Comicvine,2959,20600,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-64-the-last-gamble/4000-20600/,61 days 00:00:00
+737,Power Man and Iron Fist,1978,65,Issue,1980-10-01,Comicvine,2959,20740,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-65-an-eagle-in-the-aerie/4000-20740/,61 days 00:00:00
+738,Power Man and Iron Fist,1978,66,Issue,1980-12-01,Comicvine,2959,20872,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-66-the-jade-tiger/4000-20872/,61 days 00:00:00
+739,The Spectacular Spider-Man,1976,50,Issue,1981-01-31,Comicvine,2870,20983,The Spectacular Spider-Man,1976, ,https://comicvine.gamespot.com/issue/4000-20983/,28 days 00:00:00
+740,The Spectacular Spider-Man,1976,51,Issue,1981-02-28,Comicvine,2870,21052,The Spectacular Spider-Man,1976, ,https://comicvine.gamespot.com/issue/4000-21052/,306 days 00:00:00
+741,Avengers Annual,1967,10,Issue,1981-12-31,Comicvine,2350,20918,The Avengers Annual,1967, ,https://comicvine.gamespot.com/the-avengers-annual-10-by-friends-betrayed/4000-20918/,305 days 00:00:00
+742,Uncanny X-Men,1981,143,Issue,1981-03-01,Comicvine,3092,21127,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-143-demon/4000-21127/,31 days 00:00:00
+743,Uncanny X-Men,1981,144,Issue,1981-04-01,Comicvine,3092,107059,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-144-even-in-death/4000-107059/,30 days 00:00:00
+744,Uncanny X-Men,1981,145,Issue,1981-05-01,Comicvine,3092,21258,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-145-kidnapped/4000-21258/,31 days 00:00:00
+745,Uncanny X-Men,1981,146,Issue,1981-06-01,Comicvine,3092,21320,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-146-murderworld/4000-21320/,30 days 00:00:00
+746,Uncanny X-Men,1981,147,Issue,1981-07-01,Comicvine,3092,21392,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-147-rogue-storm/4000-21392/,31 days 00:00:00
+747,Uncanny X-Men,1981,148,Issue,1981-08-01,Comicvine,3092,21461,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-148-cry-mutant/4000-21461/,31 days 00:00:00
+748,Uncanny X-Men,1981,149,Issue,1981-09-01,Comicvine,3092,21531,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-149-and-the-dead-shall-bury-the-/4000-21531/,30 days 00:00:00
+749,Uncanny X-Men,1981,150,Issue,1981-10-01,Comicvine,3092,21614,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-150-i-magneto/4000-21614/,184 days 00:00:00
+750,Marvel Team-Up,1972,103,Issue,1981-03-31,Comicvine,2576,21115,Marvel Team-Up,1972, ,https://comicvine.gamespot.com/marvel-team-up-103-the-assassin-academy/4000-21115/,62 days 00:00:00
+751,Doctor Strange,1974,47,Issue,1981-06-01,Comicvine,2676,21297,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-47-the-grand-illusion/4000-21297/,61 days 00:00:00
+752,Doctor Strange,1974,48,Issue,1981-08-01,Comicvine,2676,21438,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-48-the-power-of-dr-strange/4000-21438/,61 days 00:00:00
+753,Doctor Strange,1974,49,Issue,1981-10-01,Comicvine,2676,21591,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-49-this-menace-reborn/4000-21591/,61 days 00:00:00
+754,Doctor Strange,1974,50,Issue,1981-12-01,Comicvine,2676,21727,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-50-the-cat-and-the-cataclysm/4000-21727/,62 days 00:00:00
+755,Doctor Strange,1974,51,Issue,1982-02-01,Comicvine,2676,21927,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-51-a-time-for-love-a-time-for-hate/4000-21927/,59 days 00:00:00
+756,Doctor Strange,1974,52,Issue,1982-04-01,Comicvine,2676,22080,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-52-lifetimes/4000-22080/,61 days 00:00:00
+757,Doctor Strange,1974,53,Issue,1982-06-01,Comicvine,2676,22228,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-53-land-of-the-pharaohs/4000-22228/,61 days 00:00:00
+758,Doctor Strange,1974,54,Issue,1982-08-01,Comicvine,2676,22372,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-54-alone/4000-22372/,61 days 00:00:00
+759,Doctor Strange,1974,55,Issue,1982-10-01,Comicvine,2676,22516,Doctor Strange,1974, ,https://comicvine.gamespot.com/doctor-strange-55-to-have-loved-and-lost/4000-22516/,607 days 00:00:00
+760,Defenders,1972,92,Issue,1981-02-01,Comicvine,2569,21032,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-92-eternityhumanityoblivion/4000-21032/,28 days 00:00:00
+761,Defenders,1972,93,Issue,1981-03-01,Comicvine,2569,21107,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-93-the-woman-behind-the-man/4000-21107/,31 days 00:00:00
+762,Defenders,1972,94,Issue,1981-04-01,Comicvine,2569,21172,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-94-beware-the-six-fingered-hand/4000-21172/,30 days 00:00:00
+763,Defenders,1972,95,Issue,1981-05-01,Comicvine,2569,21239,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-95-the-vampire-strikes-back/4000-21239/,31 days 00:00:00
+764,Defenders,1972,96,Issue,1981-06-01,Comicvine,2569,21296,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-96-the-rock-and-roll-conspiracy/4000-21296/,30 days 00:00:00
+765,Defenders,1972,97,Issue,1981-07-01,Comicvine,2569,21373,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-97-slouching-toward-bethlehem/4000-21373/,31 days 00:00:00
+766,Defenders,1972,98,Issue,1981-08-01,Comicvine,2569,21437,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-98-the-hand-closes/4000-21437/,31 days 00:00:00
+767,Defenders,1972,99,Issue,1981-09-01,Comicvine,2569,21509,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-99-the-final-conflict/4000-21509/,30 days 00:00:00
+768,Defenders,1972,100,Issue,1981-10-01,Comicvine,2569,21590,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-100-hell-on-earth/4000-21590/,31 days 00:00:00
+769,Defenders,1972,101,Issue,1981-11-01,Comicvine,2569,21659,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-101-renewal/4000-21659/,60 days 00:00:00
+770,Defenders,1972,102,Issue,1981-12-31,Comicvine,2569,21726,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-102-mind-games/4000-21726/,1 days 00:00:00
+771,Defenders,1972,103,Issue,1982-01-01,Comicvine,2569,21855,The Defenders,1972, ,https://comicvine.gamespot.com/the-defenders-103-the-haunting-of-christianboro/4000-21855/,640 days 00:00:00
+772,Epic Illustrated,1980,1,Issue,1980-04-01,Comicvine,3049,20239,Epic Illustrated,1980, ,https://comicvine.gamespot.com/epic-illustrated-1-the-answer/4000-20239/,306 days 00:00:00
+773,Power Man and Iron Fist,1978,67,Issue,1981-02-01,Comicvine,2959,21047,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-67-power-men/4000-21047/,59 days 00:00:00
+774,Power Man and Iron Fist,1978,68,Issue,1981-04-01,Comicvine,2959,21187,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-68-where-enemies-gather/4000-21187/,30 days 00:00:00
+775,Power Man and Iron Fist,1978,69,Issue,1981-05-01,Comicvine,2959,21251,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-69-victim-times-three/4000-21251/,31 days 00:00:00
+776,Power Man and Iron Fist,1978,70,Issue,1981-06-01,Comicvine,2959,21311,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-70-coconut-snow/4000-21311/,30 days 00:00:00
+777,Power Man and Iron Fist,1978,71,Issue,1981-07-01,Comicvine,2959,21385,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-71-the-mountain-comes-to-m/4000-21385/,31 days 00:00:00
+778,Power Man and Iron Fist,1978,72,Issue,1981-08-01,Comicvine,2959,21451,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-72-paper-tiger/4000-21451/,31 days 00:00:00
+779,Power Man and Iron Fist,1978,73,Issue,1981-09-01,Comicvine,2959,21523,Power Man and Iron Fist,1978, ,https://comicvine.gamespot.com/power-man-and-iron-fist-73-wraith-color-or-creed/4000-21523/,30 days 00:00:00
+780,Rom,1979,23,Issue,1981-10-01,Comicvine,3010,21606,Rom,1979, ,https://comicvine.gamespot.com/rom-23-the-thing-from-outer-space/4000-21606/,31 days 00:00:00
+781,Rom,1979,24,Issue,1981-11-01,Comicvine,3010,21673,Rom,1979, ,https://comicvine.gamespot.com/rom-24-no-place-like-home/4000-21673/,0 days 00:00:00

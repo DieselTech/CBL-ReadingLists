@@ -1,0 +1,709 @@
+,SeriesName,SeriesStartYear,IssueNum,IssueType,CoverDate,Name,SeriesID,IssueID,CV Series Name,CV Series Year,CV Cover Image,CV Issue URL,Days Between Issues
+1,Scarlet Witch,2016,10,Issue,2016-11-30,Comicvine,86552,549523,Scarlet Witch,2015, ,https://comicvine.gamespot.com/issue/4000-549523/,31 days 00:00:00
+2,Scarlet Witch,2016,11,Issue,2016-12-31,Comicvine,86552,552168,Scarlet Witch,2015, ,https://comicvine.gamespot.com/issue/4000-552168/,31 days 00:00:00
+3,Scarlet Witch,2016,12,Issue,2017-01-31,Comicvine,86552,556477,Scarlet Witch,2015, ,https://comicvine.gamespot.com/issue/4000-556477/,28 days 00:00:00
+4,Scarlet Witch,2016,13,Issue,2017-02-28,Comicvine,86552,563724,Scarlet Witch,2015, ,https://comicvine.gamespot.com/issue/4000-563724/,31 days 00:00:00
+5,Scarlet Witch,2016,14,Issue,2017-03-31,Comicvine,86552,574874,Scarlet Witch,2015, ,https://comicvine.gamespot.com/issue/4000-574874/,30 days 00:00:00
+6,Scarlet Witch,2016,15,Issue,2017-04-30,Comicvine,86552,582542,Scarlet Witch,2015, ,https://comicvine.gamespot.com/issue/4000-582542/,120 days 00:00:00
+7,Ms. Marvel,2015,12,Issue,2016-12-31,Comicvine,86114,555532,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-555532/,31 days 00:00:00
+8,Ms. Marvel,2015,13,Issue,2017-01-31,Comicvine,86114,562600,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-562600/,31 days 00:00:00
+9,Captain America: Sam Wilson,2015,14,Issue,2016-12-31,Comicvine,85274,553949,Captain America: Sam Wilson,2015, ,https://comicvine.gamespot.com/captain-america-sam-wilson-14-take-back-the-shield/4000-553949/,31 days 00:00:00
+10,Captain America: Sam Wilson,2015,15,Issue,2017-01-31,Comicvine,85274,558410,Captain America: Sam Wilson,2015, ,https://comicvine.gamespot.com/captain-america-sam-wilson-15/4000-558410/,28 days 00:00:00
+11,Captain America: Sam Wilson,2015,16,Issue,2017-02-28,Comicvine,85274,569327,Captain America: Sam Wilson,2015, ,https://comicvine.gamespot.com/captain-america-sam-wilson-16/4000-569327/,28 days 00:00:00
+12,Squadron Supreme,2016,13,Issue,2017-01-31,Comicvine,86716,558423,Squadron Supreme,2015, ,https://comicvine.gamespot.com/issue/4000-558423/,28 days 00:00:00
+13,Squadron Supreme,2016,14,Issue,2017-02-28,Comicvine,86716,569348,Squadron Supreme,2015, ,https://comicvine.gamespot.com/issue/4000-569348/,31 days 00:00:00
+14,Squadron Supreme,2016,15,Issue,2017-03-31,Comicvine,86716,576635,Squadron Supreme,2015, ,https://comicvine.gamespot.com/issue/4000-576635/,90 days 00:00:00
+15,Spider-Gwen,2016,13,Issue,2016-12-31,Comicvine,85311,553969,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-553969/,31 days 00:00:00
+16,Spider-Gwen,2016,14,Issue,2017-01-31,Comicvine,85311,558974,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-558974/,28 days 00:00:00
+17,Spider-Gwen,2016,15,Issue,2017-02-28,Comicvine,85311,569346,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-569346/,59 days 00:00:00
+18,Champions,2016,1,Issue,2016-12-31,Comicvine,94612,552154,Champions,2016, ,https://comicvine.gamespot.com/champions-1/4000-552154/,31 days 00:00:00
+19,Champions,2016,2,Issue,2017-01-31,Comicvine,94612,556468,Champions,2016, ,https://comicvine.gamespot.com/champions-2/4000-556468/,28 days 00:00:00
+20,Champions,2016,3,Issue,2017-02-28,Comicvine,94612,563718,Champions,2016, ,https://comicvine.gamespot.com/champions-3/4000-563718/,31 days 00:00:00
+21,Champions,2016,4,Issue,2017-03-31,Comicvine,94612,574861,Champions,2016, ,https://comicvine.gamespot.com/champions-4/4000-574861/,30 days 00:00:00
+22,Champions,2016,5,Issue,2017-04-30,Comicvine,94612,579308,Champions,2016, ,https://comicvine.gamespot.com/champions-5/4000-579308/,89 days 00:00:00
+23,Avengers,2016,1,Issue,2017-01-31,Comicvine,95402,556467,Avengers,2016, ,https://comicvine.gamespot.com/avengers-1/4000-556467/,28 days 00:00:00
+24,Avengers,2016,2,Issue,2017-02-28,Comicvine,95402,563716,Avengers,2016, ,https://comicvine.gamespot.com/avengers-2/4000-563716/,31 days 00:00:00
+25,Avengers,2016,3,Issue,2017-03-31,Comicvine,95402,574859,Avengers,2016, ,https://comicvine.gamespot.com/avengers-3/4000-574859/,30 days 00:00:00
+26,Avengers,2016,4,Issue,2017-04-30,Comicvine,95402,579305,Avengers,2016, ,https://comicvine.gamespot.com/avengers-4/4000-579305/,31 days 00:00:00
+27,Avengers,2016,5,Issue,2017-05-31,Comicvine,95402,583712,Avengers,2016, ,https://comicvine.gamespot.com/avengers-5/4000-583712/,30 days 00:00:00
+28,Avengers,2016,6,Issue,2017-06-30,Comicvine,95402,590787,Avengers,2016, ,https://comicvine.gamespot.com/avengers-6/4000-590787/,150 days 00:00:00
+29,Avengers,2016,1.1,Issue,2017-01-31,Comicvine,95402,557355,Avengers,2016, ,https://comicvine.gamespot.com/avengers-11/4000-557355/,28 days 00:00:00
+30,Avengers,2016,2.1,Issue,2017-02-28,Comicvine,95402,569324,Avengers,2016, ,https://comicvine.gamespot.com/avengers-21/4000-569324/,31 days 00:00:00
+31,Avengers,2016,3.1,Issue,2017-03-31,Comicvine,95402,576614,Avengers,2016, ,https://comicvine.gamespot.com/avengers-31/4000-576614/,30 days 00:00:00
+32,Avengers,2016,4.1,Issue,2017-04-30,Comicvine,95402,582517,Avengers,2016, ,https://comicvine.gamespot.com/avengers-41-showdown-with-the-frightful-four/4000-582517/,31 days 00:00:00
+33,Avengers,2016,5.1,Issue,2017-05-31,Comicvine,95402,589823,Avengers,2016, ,https://comicvine.gamespot.com/avengers-51-death-be-not-proud/4000-589823/,151 days 00:00:00
+34,Infamous Iron Man,2016,1,Issue,2016-12-31,Comicvine,95016,553959,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-1/4000-553959/,31 days 00:00:00
+35,Infamous Iron Man,2016,2,Issue,2017-01-31,Comicvine,95016,558416,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-2/4000-558416/,28 days 00:00:00
+36,Infamous Iron Man,2016,3,Issue,2017-02-28,Comicvine,95016,571671,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-3/4000-571671/,31 days 00:00:00
+37,Infamous Iron Man,2016,4,Issue,2017-03-31,Comicvine,95016,578463,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-4/4000-578463/,30 days 00:00:00
+38,Infamous Iron Man,2016,5,Issue,2017-04-30,Comicvine,95016,582533,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-5/4000-582533/,120 days 00:00:00
+39,Doctor Strange,2015,12,Issue,2016-12-31,Comicvine,85094,552159,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-12-blood-in-the-aether-chapter-one/4000-552159/,0 days 00:00:00
+40,Doctor Strange,2015,13,Issue,2016-12-31,Comicvine,85094,553956,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-13-blood-in-the-aether-chapter-two-/4000-553956/,31 days 00:00:00
+41,Doctor Strange,2015,14,Issue,2017-01-31,Comicvine,85094,558415,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-14-blood-in-the-aether-chapter-thre/4000-558415/,28 days 00:00:00
+42,Doctor Strange,2015,15,Issue,2017-02-28,Comicvine,85094,569330,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-15-blood-in-the-aether-chapter-four/4000-569330/,31 days 00:00:00
+43,Doctor Strange,2015,16,Issue,2017-03-31,Comicvine,85094,578457,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-16-blood-in-the-aether-chapter-five/4000-578457/,151 days 00:00:00
+44,Unbeatable Squirrel Girl Beats Up the Marvel Universe,2016,1,Issue,2016-10-31,Comicvine,94668,552173,The Unbeatable Squirrel Girl Beats Up the Marvel Universe,2016, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-beats-up-the-marvel-u/4000-552173/,61 days 00:00:00
+45,Black Widow,2016,7,Issue,2016-12-31,Comicvine,88554,553948,Black Widow,2016, ,https://comicvine.gamespot.com/black-widow-7/4000-553948/,31 days 00:00:00
+46,Black Widow,2016,8,Issue,2017-01-31,Comicvine,88554,562591,Black Widow,2016, ,https://comicvine.gamespot.com/black-widow-8/4000-562591/,28 days 00:00:00
+47,Black Widow,2016,9,Issue,2017-02-28,Comicvine,88554,571658,Black Widow,2016, ,https://comicvine.gamespot.com/black-widow-9/4000-571658/,31 days 00:00:00
+48,Black Widow,2016,10,Issue,2017-03-31,Comicvine,88554,576616,Black Widow,2016, ,https://comicvine.gamespot.com/black-widow-10/4000-576616/,30 days 00:00:00
+49,Black Widow,2016,11,Issue,2017-04-30,Comicvine,88554,580742,Black Widow,2016, ,https://comicvine.gamespot.com/black-widow-11/4000-580742/,31 days 00:00:00
+50,Black Widow,2016,12,Issue,2017-05-31,Comicvine,88554,589824,Black Widow,2016, ,https://comicvine.gamespot.com/black-widow-12/4000-589824/,151 days 00:00:00
+51,Unbelievable Gwenpool,2016,7,Issue,2016-12-31,Comicvine,89627,553024,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-7-gwenpool-head-of-modok/4000-553024/,31 days 00:00:00
+52,Unbelievable Gwenpool,2016,8,Issue,2017-01-31,Comicvine,89627,557378,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-8/4000-557378/,28 days 00:00:00
+53,Unbelievable Gwenpool,2016,9,Issue,2017-02-28,Comicvine,89627,569353,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-9/4000-569353/,31 days 00:00:00
+54,Unbelievable Gwenpool,2016,10,Issue,2017-03-31,Comicvine,89627,576640,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-10/4000-576640/,59 days 00:00:00
+55,Invincible Iron Man,2017,1,Issue,2017-01-31,Comicvine,95596,557367,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-557367/,28 days 00:00:00
+56,Invincible Iron Man,2017,2,Issue,2017-02-28,Comicvine,95596,569333,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-569333/,31 days 00:00:00
+57,Invincible Iron Man,2017,3,Issue,2017-03-31,Comicvine,95596,576625,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-576625/,30 days 00:00:00
+58,Invincible Iron Man,2017,4,Issue,2017-04-30,Comicvine,95596,581560,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-581560/,31 days 00:00:00
+59,Invincible Iron Man,2017,5,Issue,2017-05-31,Comicvine,95596,588567,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-588567/,30 days 00:00:00
+60,Invincible Iron Man,2017,6,Issue,2017-06-30,Comicvine,95596,592598,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-592598/,181 days 00:00:00
+61,All-New Wolverine,2016,13,Issue,2016-12-31,Comicvine,85930,552151,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-552151/,31 days 00:00:00
+62,All-New Wolverine,2016,14,Issue,2017-01-31,Comicvine,85930,558407,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-558407/,28 days 00:00:00
+63,All-New Wolverine,2016,15,Issue,2017-02-28,Comicvine,85930,563715,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-563715/,31 days 00:00:00
+64,All-New Wolverine,2016,16,Issue,2017-03-31,Comicvine,85930,575855,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-575855/,30 days 00:00:00
+65,All-New Wolverine,2016,17,Issue,2017-04-30,Comicvine,85930,580739,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-580739/,31 days 00:00:00
+66,All-New Wolverine,2016,18,Issue,2017-05-31,Comicvine,85930,585074,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-585074/,151 days 00:00:00
+67,Deadpool,2015,21,Issue,2016-12-31,Comicvine,85750,555516,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-21-match-du-grudge-much-ado-about-deadpoo/4000-555516/,31 days 00:00:00
+68,Deadpool,2015,22,Issue,2017-01-31,Comicvine,85750,558414,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-22-patience-zero/4000-558414/,28 days 00:00:00
+69,Deadpool,2015,23,Issue,2017-02-28,Comicvine,85750,563720,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-23-do-the-truffle-shuffle/4000-563720/,31 days 00:00:00
+70,Deadpool,2015,24,Issue,2017-03-31,Comicvine,85750,575863,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-24-deferred-payment-plan/4000-575863/,0 days 00:00:00
+71,Deadpool,2015,25,Issue,2017-03-31,Comicvine,85750,578456,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-25-go-ask-the-skrulls-child/4000-578456/,30 days 00:00:00
+72,Deadpool,2015,26,Issue,2017-04-30,Comicvine,85750,579312,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-26-heart-shaped-box/4000-579312/,0 days 00:00:00
+73,Deadpool,2015,27,Issue,2017-04-30,Comicvine,85750,581552,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-27-and-now-for-something-completely-diffe/4000-581552/,92 days 00:00:00
+74,Star-Lord Vol. 2 Annual,2017,1,Issue,2017-07-31,Comicvine,101638,597203,Star-Lord Annual,2017, ,https://comicvine.gamespot.com/issue/4000-597203/,212 days 00:00:00
+75,Cage!,2016,1,Issue,2016-12-31,Comicvine,94609,552153,Cage!,2016, ,https://comicvine.gamespot.com/cage-1/4000-552153/,31 days 00:00:00
+76,Cage!,2016,2,Issue,2017-01-31,Comicvine,94609,558955,Cage!,2016, ,https://comicvine.gamespot.com/cage-2/4000-558955/,28 days 00:00:00
+77,Cage!,2016,3,Issue,2017-02-28,Comicvine,94609,569326,Cage!,2016, ,https://comicvine.gamespot.com/cage-3/4000-569326/,31 days 00:00:00
+78,Cage!,2016,4,Issue,2017-03-31,Comicvine,94609,576617,Cage!,2016, ,https://comicvine.gamespot.com/cage-4/4000-576617/,90 days 00:00:00
+79,"Patsy Walker, A.K.A. Hellcat",2016,11,Issue,2016-12-31,Comicvine,86780,553964,"Patsy Walker, A.K.A. Hellcat!",2015, ,https://comicvine.gamespot.com/issue/4000-553964/,31 days 00:00:00
+80,"Patsy Walker, A.K.A. Hellcat",2016,12,Issue,2017-01-31,Comicvine,86780,558420,"Patsy Walker, A.K.A. Hellcat!",2015, ,https://comicvine.gamespot.com/issue/4000-558420/,28 days 00:00:00
+81,"Patsy Walker, A.K.A. Hellcat",2016,13,Issue,2017-02-28,Comicvine,86780,569338,"Patsy Walker, A.K.A. Hellcat!",2015, ,https://comicvine.gamespot.com/issue/4000-569338/,31 days 00:00:00
+82,"Patsy Walker, A.K.A. Hellcat",2016,14,Issue,2017-03-31,Comicvine,86780,576631,"Patsy Walker, A.K.A. Hellcat!",2015, ,https://comicvine.gamespot.com/issue/4000-576631/,90 days 00:00:00
+83,Punisher Vol. 11 Annual,2016,1,Issue,2016-12-31,Comicvine,95233,555537,The Punisher Annual,2016, ,https://comicvine.gamespot.com/issue/4000-555537/,0 days 00:00:00
+84,Jessica Jones,2016,1,Issue,2016-12-31,Comicvine,94643,552164,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-1/4000-552164/,31 days 00:00:00
+85,Jessica Jones,2016,2,Issue,2017-01-31,Comicvine,94643,558417,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-2/4000-558417/,28 days 00:00:00
+86,Jessica Jones,2016,3,Issue,2017-02-28,Comicvine,94643,566714,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-3/4000-566714/,31 days 00:00:00
+87,Jessica Jones,2016,4,Issue,2017-03-31,Comicvine,94643,575871,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-4/4000-575871/,30 days 00:00:00
+88,Jessica Jones,2016,5,Issue,2017-04-30,Comicvine,94643,580756,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-5/4000-580756/,31 days 00:00:00
+89,Jessica Jones,2016,6,Issue,2017-05-31,Comicvine,94643,585081,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-6/4000-585081/,61 days 00:00:00
+90,Ms. Marvel,2015,14,Issue,2017-03-31,Comicvine,86114,575876,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-575876/,30 days 00:00:00
+91,Ms. Marvel,2015,15,Issue,2017-04-30,Comicvine,86114,580761,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-580761/,31 days 00:00:00
+92,Ms. Marvel,2015,16,Issue,2017-05-31,Comicvine,86114,587413,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-587413/,30 days 00:00:00
+93,Ms. Marvel,2015,17,Issue,2017-06-30,Comicvine,86114,592603,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-592603/,150 days 00:00:00
+94,Uncanny X-Men Vol. 4 Annual,2017,1,Issue,2017-01-31,Comicvine,95754,558428,Uncanny X-Men Annual,2016, ,https://comicvine.gamespot.com/issue/4000-558428/,31 days 00:00:00
+95,Doctor Strange and the Sorcerers Supreme,2016,1,Issue,2016-12-31,Comicvine,95211,555518,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-1/4000-555518/,31 days 00:00:00
+96,Doctor Strange and the Sorcerers Supreme,2016,2,Issue,2017-01-31,Comicvine,95211,558963,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-2/4000-558963/,28 days 00:00:00
+97,Doctor Strange and the Sorcerers Supreme,2016,3,Issue,2017-02-28,Comicvine,95211,571663,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-3/4000-571663/,31 days 00:00:00
+98,Doctor Strange and the Sorcerers Supreme,2016,4,Issue,2017-03-31,Comicvine,95211,575865,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-4/4000-575865/,90 days 00:00:00
+99,Solo,2016,1,Issue,2016-12-31,Comicvine,94818,553021,Solo,2016, ,https://comicvine.gamespot.com/solo-1/4000-553021/,31 days 00:00:00
+100,Solo,2016,2,Issue,2017-01-31,Comicvine,94818,557375,Solo,2016, ,https://comicvine.gamespot.com/solo-2/4000-557375/,28 days 00:00:00
+101,Solo,2016,3,Issue,2017-02-28,Comicvine,94818,569345,Solo,2016, ,https://comicvine.gamespot.com/solo-3/4000-569345/,31 days 00:00:00
+102,Solo,2016,4,Issue,2017-03-31,Comicvine,94818,578472,Solo,2016, ,https://comicvine.gamespot.com/solo-4/4000-578472/,30 days 00:00:00
+103,Solo,2016,5,Issue,2017-04-30,Comicvine,94818,582543,Solo,2016, ,https://comicvine.gamespot.com/solo-5/4000-582543/,89 days 00:00:00
+104,Mighty Thor,2016,13,Issue,2017-01-31,Comicvine,86113,558971,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-558971/,28 days 00:00:00
+105,Mighty Thor,2016,14,Issue,2017-02-28,Comicvine,86113,571674,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-571674/,28 days 00:00:00
+106,Foolkiller,2017,1,Issue,2017-01-31,Comicvine,95415,556472,Foolkiller,2016, ,https://comicvine.gamespot.com/issue/4000-556472/,28 days 00:00:00
+107,Foolkiller,2017,2,Issue,2017-02-28,Comicvine,95415,566708,Foolkiller,2016, ,https://comicvine.gamespot.com/issue/4000-566708/,31 days 00:00:00
+108,Foolkiller,2017,3,Issue,2017-03-31,Comicvine,95415,575866,Foolkiller,2016, ,https://comicvine.gamespot.com/issue/4000-575866/,30 days 00:00:00
+109,Foolkiller,2017,4,Issue,2017-04-30,Comicvine,95415,580751,Foolkiller,2016, ,https://comicvine.gamespot.com/issue/4000-580751/,31 days 00:00:00
+110,Foolkiller,2017,5,Issue,2017-05-31,Comicvine,95415,588564,Foolkiller,2016, ,https://comicvine.gamespot.com/issue/4000-588564/,61 days 00:00:00
+111,Deadpool the Duck,2017,1,Issue,2017-03-31,Comicvine,97745,574862,Deadpool the Duck,2017, ,https://comicvine.gamespot.com/deadpool-the-duck-1-part-one/4000-574862/,0 days 00:00:00
+112,Deadpool the Duck,2017,2,Issue,2017-03-31,Comicvine,97745,576621,Deadpool the Duck,2017, ,https://comicvine.gamespot.com/deadpool-the-duck-2/4000-576621/,30 days 00:00:00
+113,Deadpool the Duck,2017,3,Issue,2017-04-30,Comicvine,97745,580746,Deadpool the Duck,2017, ,https://comicvine.gamespot.com/deadpool-the-duck-3/4000-580746/,0 days 00:00:00
+114,Deadpool the Duck,2017,4,Issue,2017-04-30,Comicvine,97745,582524,Deadpool the Duck,2017, ,https://comicvine.gamespot.com/deadpool-the-duck-4/4000-582524/,31 days 00:00:00
+115,Deadpool the Duck,2017,5,Issue,2017-05-31,Comicvine,97745,587405,Deadpool the Duck,2017, ,https://comicvine.gamespot.com/deadpool-the-duck-5/4000-587405/,92 days 00:00:00
+116,Gwenpool Holiday Special: Merry Mix-up,2017,1,Issue,2017-02-28,Comicvine,96660,566711,Gwenpool Holiday Special: Merry Mix-Up,2016, ,https://comicvine.gamespot.com/issue/4000-566711/,28 days 00:00:00
+117,Moon Girl and Devil Dinosaur,2016,13,Issue,2017-01-31,Comicvine,86245,558972,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-558972/,28 days 00:00:00
+118,Moon Girl and Devil Dinosaur,2016,14,Issue,2017-02-28,Comicvine,86245,571675,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-571675/,31 days 00:00:00
+119,Moon Girl and Devil Dinosaur,2016,15,Issue,2017-03-31,Comicvine,86245,578468,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-578468/,30 days 00:00:00
+120,Moon Girl and Devil Dinosaur,2016,16,Issue,2017-04-30,Comicvine,86245,582536,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-582536/,31 days 00:00:00
+121,Moon Girl and Devil Dinosaur,2016,17,Issue,2017-05-31,Comicvine,86245,588570,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-588570/,30 days 00:00:00
+122,Moon Girl and Devil Dinosaur,2016,18,Issue,2017-06-30,Comicvine,86245,593266,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-593266/,181 days 00:00:00
+123,Mosaic,2016,1,Issue,2016-12-31,Comicvine,94811,553016,Mosaic,2016, ,https://comicvine.gamespot.com/mosaic-1-episode-one-mood-indigo/4000-553016/,31 days 00:00:00
+124,Mosaic,2016,2,Issue,2017-01-31,Comicvine,94811,557371,Mosaic,2016, ,https://comicvine.gamespot.com/mosaic-2-episode-two-soul-on-ice/4000-557371/,28 days 00:00:00
+125,Mosaic,2016,3,Issue,2017-02-28,Comicvine,94811,566717,Mosaic,2016, ,https://comicvine.gamespot.com/mosaic-3-episode-three-parable-of-the-sower/4000-566717/,31 days 00:00:00
+126,Mosaic,2016,4,Issue,2017-03-31,Comicvine,94811,576630,Mosaic,2016, ,https://comicvine.gamespot.com/mosaic-4-episode-four-parable-of-the-talents/4000-576630/,30 days 00:00:00
+127,Mosaic,2016,5,Issue,2017-04-30,Comicvine,94811,582537,Mosaic,2016, ,https://comicvine.gamespot.com/mosaic-5-episode-five-invisible-man/4000-582537/,31 days 00:00:00
+128,Mosaic,2016,6,Issue,2017-05-31,Comicvine,94811,585086,Mosaic,2016, ,https://comicvine.gamespot.com/mosaic-6-episode-six-native-son/4000-585086/,30 days 00:00:00
+129,Mosaic,2016,7,Issue,2017-06-30,Comicvine,94811,591763,Mosaic,2016, ,https://comicvine.gamespot.com/mosaic-7-episode-seven-the-bluest-eye/4000-591763/,31 days 00:00:00
+130,Mosaic,2016,8,Issue,2017-07-31,Comicvine,94811,597199,Mosaic,2016, ,https://comicvine.gamespot.com/mosaic-8-episode-eight-take-the-a-train/4000-597199/,181 days 00:00:00
+131,Power Man and Iron Fist,2016,10,Issue,2017-01-31,Comicvine,88214,557373,Power Man and Iron Fist,2016, ,https://comicvine.gamespot.com/power-man-and-iron-fist-10-harlem-burns/4000-557373/,28 days 00:00:00
+132,Power Man and Iron Fist,2016,11,Issue,2017-02-28,Comicvine,88214,566721,Power Man and Iron Fist,2016, ,https://comicvine.gamespot.com/power-man-and-iron-fist-11/4000-566721/,31 days 00:00:00
+133,Power Man and Iron Fist,2016,12,Issue,2017-03-31,Comicvine,88214,575879,Power Man and Iron Fist,2016, ,https://comicvine.gamespot.com/power-man-and-iron-fist-12/4000-575879/,30 days 00:00:00
+134,Power Man and Iron Fist,2016,13,Issue,2017-04-30,Comicvine,88214,580762,Power Man and Iron Fist,2016, ,https://comicvine.gamespot.com/power-man-and-iron-fist-13/4000-580762/,31 days 00:00:00
+135,Power Man and Iron Fist,2016,14,Issue,2017-05-31,Comicvine,88214,585090,Power Man and Iron Fist,2016, ,https://comicvine.gamespot.com/power-man-and-iron-fist-14/4000-585090/,30 days 00:00:00
+136,Power Man and Iron Fist,2016,15,Issue,2017-06-30,Comicvine,88214,591765,Power Man and Iron Fist,2016, ,https://comicvine.gamespot.com/power-man-and-iron-fist-15/4000-591765/,181 days 00:00:00
+137,Great Lakes Avengers,2016,1,Issue,2016-12-31,Comicvine,94801,553009,Great Lakes Avengers,2016, ,https://comicvine.gamespot.com/the-great-lakes-avengers-1-same-old-same-old-great/4000-553009/,31 days 00:00:00
+138,Great Lakes Avengers,2016,2,Issue,2017-01-31,Comicvine,94801,562595,Great Lakes Avengers,2016, ,https://comicvine.gamespot.com/the-great-lakes-avengers-2/4000-562595/,28 days 00:00:00
+139,Great Lakes Avengers,2016,3,Issue,2017-02-28,Comicvine,94801,571667,Great Lakes Avengers,2016, ,https://comicvine.gamespot.com/the-great-lakes-avengers-3/4000-571667/,31 days 00:00:00
+140,Great Lakes Avengers,2016,4,Issue,2017-03-31,Comicvine,94801,575867,Great Lakes Avengers,2016, ,https://comicvine.gamespot.com/the-great-lakes-avengers-4/4000-575867/,30 days 00:00:00
+141,Great Lakes Avengers,2016,5,Issue,2017-04-30,Comicvine,94801,582531,Great Lakes Avengers,2016, ,https://comicvine.gamespot.com/the-great-lakes-avengers-5/4000-582531/,31 days 00:00:00
+142,Great Lakes Avengers,2016,6,Issue,2017-05-31,Comicvine,94801,587407,Great Lakes Avengers,2016, ,https://comicvine.gamespot.com/the-great-lakes-avengers-6/4000-587407/,30 days 00:00:00
+143,Great Lakes Avengers,2016,7,Issue,2017-06-30,Comicvine,94801,593260,Great Lakes Avengers,2016, ,https://comicvine.gamespot.com/great-lakes-avengers-7/4000-593260/,150 days 00:00:00
+144,Spider-Woman,2015,13,Issue,2017-01-31,Comicvine,86127,556479,Spider-Woman,2015, ,https://comicvine.gamespot.com/spider-woman-13-scare-tactics-part-1/4000-556479/,28 days 00:00:00
+145,Spider-Woman,2015,14,Issue,2017-02-28,Comicvine,86127,571684,Spider-Woman,2015, ,https://comicvine.gamespot.com/spider-woman-14/4000-571684/,31 days 00:00:00
+146,Spider-Woman,2015,15,Issue,2017-03-31,Comicvine,86127,578474,Spider-Woman,2015, ,https://comicvine.gamespot.com/spider-woman-15/4000-578474/,30 days 00:00:00
+147,Spider-Woman,2015,16,Issue,2017-04-30,Comicvine,86127,582546,Spider-Woman,2015, ,https://comicvine.gamespot.com/spider-woman-16-scare-tactics-part-4/4000-582546/,31 days 00:00:00
+148,Spider-Woman,2015,17,Issue,2017-05-31,Comicvine,86127,589837,Spider-Woman,2015, ,https://comicvine.gamespot.com/spider-woman-17/4000-589837/,120 days 00:00:00
+149,Uncanny Inhumans,2015,15,Issue,2017-01-31,Comicvine,81092,558427,Uncanny Inhumans,2015, ,https://comicvine.gamespot.com/uncanny-inhumans-15/4000-558427/,0 days 00:00:00
+150,Uncanny Inhumans,2015,16,Issue,2017-01-31,Comicvine,81092,562608,Uncanny Inhumans,2015, ,https://comicvine.gamespot.com/uncanny-inhumans-16/4000-562608/,28 days 00:00:00
+151,Uncanny Inhumans,2015,17,Issue,2017-02-28,Comicvine,81092,571693,Uncanny Inhumans,2015, ,https://comicvine.gamespot.com/uncanny-inhumans-17/4000-571693/,92 days 00:00:00
+152,Uncanny X-Men,2016,19,Issue,2017-05-31,Comicvine,87190,587422,Uncanny X-Men,2016, ,https://comicvine.gamespot.com/uncanny-x-men-19/4000-587422/,0 days 00:00:00
+153,Extraordinary X-Men,2016,20,Issue,2017-05-31,Comicvine,85756,588563,Extraordinary X-Men,2015, ,https://comicvine.gamespot.com/issue/4000-588563/,0 days 00:00:00
+154,All-New X-Men,2016,19,Issue,2017-05-31,Comicvine,86334,589821,All-New X-Men,2015, ,https://comicvine.gamespot.com/issue/4000-589821/,61 days 00:00:00
+155,Captain America: Sam Wilson,2015,17,Issue,2017-03-31,Comicvine,85274,574860,Captain America: Sam Wilson,2015, ,https://comicvine.gamespot.com/captain-america-sam-wilson-17/4000-574860/,59 days 00:00:00
+156,Occupy Avengers,2017,1,Issue,2017-01-31,Comicvine,95431,556476,Occupy Avengers,2016, ,https://comicvine.gamespot.com/issue/4000-556476/,28 days 00:00:00
+157,Occupy Avengers,2017,2,Issue,2017-02-28,Comicvine,95431,569337,Occupy Avengers,2016, ,https://comicvine.gamespot.com/issue/4000-569337/,31 days 00:00:00
+158,Occupy Avengers,2017,3,Issue,2017-03-31,Comicvine,95431,575877,Occupy Avengers,2016, ,https://comicvine.gamespot.com/issue/4000-575877/,30 days 00:00:00
+159,Occupy Avengers,2017,4,Issue,2017-04-30,Comicvine,95431,582538,Occupy Avengers,2016, ,https://comicvine.gamespot.com/issue/4000-582538/,89 days 00:00:00
+160,Ghost Rider,2017,1,Issue,2017-01-31,Comicvine,96138,562594,Ghost Rider,2016, ,https://comicvine.gamespot.com/issue/4000-562594/,28 days 00:00:00
+161,Ghost Rider,2017,2,Issue,2017-02-28,Comicvine,96138,571666,Ghost Rider,2016, ,https://comicvine.gamespot.com/issue/4000-571666/,31 days 00:00:00
+162,Ghost Rider,2017,3,Issue,2017-03-31,Comicvine,96138,578460,Ghost Rider,2016, ,https://comicvine.gamespot.com/issue/4000-578460/,30 days 00:00:00
+163,Ghost Rider,2017,4,Issue,2017-04-30,Comicvine,96138,582530,Ghost Rider,2016, ,https://comicvine.gamespot.com/issue/4000-582530/,31 days 00:00:00
+164,Ghost Rider,2017,5,Issue,2017-05-31,Comicvine,96138,589826,Ghost Rider,2016, ,https://comicvine.gamespot.com/issue/4000-589826/,120 days 00:00:00
+165,Amazing Spider-Man: Renew Your Vows,2017,1,Issue,2017-01-31,Comicvine,95572,557354,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-557354/,28 days 00:00:00
+166,Amazing Spider-Man: Renew Your Vows,2017,2,Issue,2017-02-28,Comicvine,95572,566703,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-566703/,31 days 00:00:00
+167,Amazing Spider-Man: Renew Your Vows,2017,3,Issue,2017-03-31,Comicvine,95572,575856,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-575856/,30 days 00:00:00
+168,Amazing Spider-Man: Renew Your Vows,2017,4,Issue,2017-04-30,Comicvine,95572,580740,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-580740/,31 days 00:00:00
+169,Amazing Spider-Man: Renew Your Vows,2017,5,Issue,2017-05-31,Comicvine,95572,588555,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-588555/,120 days 00:00:00
+170,Old Man Logan,2016,14,Issue,2017-01-31,Comicvine,87624,562602,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-14-monster-war-part-i/4000-562602/,28 days 00:00:00
+171,Old Man Logan,2016,15,Issue,2017-02-28,Comicvine,87624,566719,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-15-monster-war-part-ii/4000-566719/,31 days 00:00:00
+172,Old Man Logan,2016,16,Issue,2017-03-31,Comicvine,87624,574873,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-16-return-to-the-wastelands-part-i/4000-574873/,30 days 00:00:00
+173,Old Man Logan,2016,17,Issue,2017-04-30,Comicvine,87624,579321,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-17-return-to-the-wastelands-part-ii/4000-579321/,0 days 00:00:00
+174,Old Man Logan,2016,18,Issue,2017-04-30,Comicvine,87624,581563,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-18-return-to-the-wastelands-part-iii/4000-581563/,31 days 00:00:00
+175,Old Man Logan,2016,19,Issue,2017-05-31,Comicvine,87624,585089,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-19-gone-real-bad-part-i-of-ii/4000-585089/,0 days 00:00:00
+176,Old Man Logan,2016,20,Issue,2017-05-31,Comicvine,87624,589835,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-20-gone-real-bad-part-ii-of-ii/4000-589835/,92 days 00:00:00
+177,Unbeatable Squirrel Girl,2015,15,Issue,2017-02-28,Comicvine,85601,566726,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-15-the-mighty-mewnir/4000-566726/,31 days 00:00:00
+178,Unbeatable Squirrel Girl,2015,16,Issue,2017-03-31,Comicvine,85601,575885,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-16/4000-575885/,30 days 00:00:00
+179,Unbeatable Squirrel Girl,2015,17,Issue,2017-04-30,Comicvine,85601,580765,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-17/4000-580765/,31 days 00:00:00
+180,Unbeatable Squirrel Girl,2015,18,Issue,2017-05-31,Comicvine,85601,585095,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-18/4000-585095/,30 days 00:00:00
+181,Unbeatable Squirrel Girl,2015,19,Issue,2017-06-30,Comicvine,85601,591768,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-19/4000-591768/,31 days 00:00:00
+182,Unbeatable Squirrel Girl,2015,20,Issue,2017-07-31,Comicvine,85601,595707,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-20/4000-595707/,122 days 00:00:00
+183,Daredevil,2016,15,Issue,2017-03-31,Comicvine,86343,575861,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-575861/,0 days 00:00:00
+184,Daredevil,2016,16,Issue,2017-03-31,Comicvine,86343,578455,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-578455/,30 days 00:00:00
+185,Daredevil,2016,17,Issue,2017-04-30,Comicvine,86343,581551,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-581551/,31 days 00:00:00
+186,Daredevil,2016,18,Issue,2017-05-31,Comicvine,86343,587403,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-587403/,30 days 00:00:00
+187,Daredevil,2016,19,Issue,2017-06-30,Comicvine,86343,592594,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-592594/,31 days 00:00:00
+188,Daredevil,2016,20,Issue,2017-07-31,Comicvine,86343,595685,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-595685/,92 days 00:00:00
+189,Bullseye,2017,1,Issue,2017-04-30,Comicvine,98512,579306,Bullseye,2017, ,https://comicvine.gamespot.com/bullseye-1-the-colombian-connection-part-1-if-i-te/4000-579306/,31 days 00:00:00
+190,Bullseye,2017,2,Issue,2017-05-31,Comicvine,98512,583713,Bullseye,2017, ,https://comicvine.gamespot.com/bullseye-2-the-colombian-connection-part-2/4000-583713/,30 days 00:00:00
+191,Bullseye,2017,3,Issue,2017-06-30,Comicvine,98512,590788,Bullseye,2017, ,https://comicvine.gamespot.com/bullseye-3-the-colombian-connection-part-3/4000-590788/,31 days 00:00:00
+192,Bullseye,2017,4,Issue,2017-07-31,Comicvine,98512,594107,Bullseye,2017, ,https://comicvine.gamespot.com/bullseye-4-the-colombian-connection-part-4/4000-594107/,31 days 00:00:00
+193,Bullseye,2017,5,Issue,2017-08-31,Comicvine,98512,599859,Bullseye,2017, ,https://comicvine.gamespot.com/bullseye-5-the-colombian-connection-part-5/4000-599859/,123 days 00:00:00
+194,Kingpin,2017,1,Issue,2017-04-30,Comicvine,98750,580757,Kingpin,2017, ,https://comicvine.gamespot.com/kingpin-1-born-against/4000-580757/,31 days 00:00:00
+195,Kingpin,2017,2,Issue,2017-05-31,Comicvine,98750,585082,Kingpin,2017, ,https://comicvine.gamespot.com/kingpin-2-messes-of-men/4000-585082/,30 days 00:00:00
+196,Kingpin,2017,3,Issue,2017-06-30,Comicvine,98750,591760,Kingpin,2017, ,https://comicvine.gamespot.com/kingpin-3-by-the-throat/4000-591760/,31 days 00:00:00
+197,Kingpin,2017,4,Issue,2017-07-31,Comicvine,98750,594965,Kingpin,2017, ,https://comicvine.gamespot.com/kingpin-4-life-during-wartime/4000-594965/,31 days 00:00:00
+198,Kingpin,2017,5,Issue,2017-08-31,Comicvine,98750,601795,Kingpin,2017, ,https://comicvine.gamespot.com/kingpin-5-the-harder-they-fall/4000-601795/,123 days 00:00:00
+199,Elektra,2017,1,Issue,2017-04-30,Comicvine,99034,582526,Elektra,2017, ,https://comicvine.gamespot.com/elektra-1-always-bet-on-red-part-1/4000-582526/,31 days 00:00:00
+200,Elektra,2017,2,Issue,2017-05-31,Comicvine,99034,588562,Elektra,2017, ,https://comicvine.gamespot.com/elektra-2-always-bet-on-red-part-2/4000-588562/,30 days 00:00:00
+201,Elektra,2017,3,Issue,2017-06-30,Comicvine,99034,593259,Elektra,2017, ,https://comicvine.gamespot.com/elektra-3-always-bet-on-red-part-3/4000-593259/,31 days 00:00:00
+202,Elektra,2017,4,Issue,2017-07-31,Comicvine,99034,597191,Elektra,2017, ,https://comicvine.gamespot.com/elektra-4-always-bet-on-red-part-4/4000-597191/,31 days 00:00:00
+203,Elektra,2017,5,Issue,2017-08-31,Comicvine,99034,605113,Elektra,2017, ,https://comicvine.gamespot.com/elektra-5-always-bet-on-red-part-5/4000-605113/,123 days 00:00:00
+204,Unbelievable Gwenpool,2016,11,Issue,2017-04-30,Comicvine,89627,579325,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-11/4000-579325/,0 days 00:00:00
+205,Unbelievable Gwenpool,2016,12,Issue,2017-04-30,Comicvine,89627,581572,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-12/4000-581572/,31 days 00:00:00
+206,Unbelievable Gwenpool,2016,13,Issue,2017-05-31,Comicvine,89627,585096,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-13/4000-585096/,30 days 00:00:00
+207,Unbelievable Gwenpool,2016,14,Issue,2017-06-30,Comicvine,89627,591769,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-14/4000-591769/,31 days 00:00:00
+208,Unbelievable Gwenpool,2016,15,Issue,2017-07-31,Comicvine,89627,594976,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-15/4000-594976/,92 days 00:00:00
+209,"Patsy Walker, A.K.A. Hellcat",2016,15,Issue,2017-04-30,Comicvine,86780,581564,"Patsy Walker, A.K.A. Hellcat!",2015, ,https://comicvine.gamespot.com/issue/4000-581564/,31 days 00:00:00
+210,"Patsy Walker, A.K.A. Hellcat",2016,16,Issue,2017-05-31,Comicvine,86780,587414,"Patsy Walker, A.K.A. Hellcat!",2015, ,https://comicvine.gamespot.com/issue/4000-587414/,30 days 00:00:00
+211,"Patsy Walker, A.K.A. Hellcat",2016,17,Issue,2017-06-30,Comicvine,86780,593270,"Patsy Walker, A.K.A. Hellcat!",2015, ,https://comicvine.gamespot.com/issue/4000-593270/,31 days 00:00:00
+212,Avengers,2016,7,Issue,2017-07-31,Comicvine,95402,594959,Avengers,2016, ,https://comicvine.gamespot.com/avengers-7/4000-594959/,31 days 00:00:00
+213,Avengers,2016,8,Issue,2017-08-31,Comicvine,95402,599857,Avengers,2016, ,https://comicvine.gamespot.com/avengers-8/4000-599857/,92 days 00:00:00
+214,Deadpool,2015,28,Issue,2017-05-31,Comicvine,85750,583716,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-28-til-death-do-us-part-1/4000-583716/,0 days 00:00:00
+215,Spider-Man/Deadpool,2016,15,Issue,2017-05-31,Comicvine,87182,585093,Spider-Man/Deadpool,2016, ,https://comicvine.gamespot.com/spider-mandeadpool-15-til-death-do-us-part-2/4000-585093/,0 days 00:00:00
+216,Deadpool & the Mercs for Money,2016,9,Issue,2017-05-31,Comicvine,92360,589825,Deadpool & The Mercs For Money,2016, ,https://comicvine.gamespot.com/deadpool-and-the-mercs-for-money-9-til-death-do-us/4000-589825/,30 days 00:00:00
+217,Spider-Man/Deadpool,2016,16,Issue,2017-06-30,Comicvine,87182,590805,Spider-Man/Deadpool,2016, ,https://comicvine.gamespot.com/spider-mandeadpool-16-til-death-do-us-part-4/4000-590805/,0 days 00:00:00
+218,Deadpool & the Mercs for Money,2016,10,Issue,2017-06-30,Comicvine,92360,591753,Deadpool & The Mercs For Money,2016, ,https://comicvine.gamespot.com/deadpool-and-the-mercs-for-money-10-til-death-do-u/4000-591753/,0 days 00:00:00
+219,Deadpool,2015,29,Issue,2017-06-30,Comicvine,85750,592595,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-29-til-death-do-us-part-6/4000-592595/,150 days 00:00:00
+220,Thanos,2017,1,Issue,2017-01-31,Comicvine,95750,558425,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-558425/,0 days 00:00:00
+221,Unworthy Thor,2017,1,Issue,2017-01-31,Comicvine,95444,556484,The Unworthy Thor,2016, ,https://comicvine.gamespot.com/issue/4000-556484/,28 days 00:00:00
+222,Unworthy Thor,2017,2,Issue,2017-02-28,Comicvine,95444,563729,The Unworthy Thor,2016, ,https://comicvine.gamespot.com/issue/4000-563729/,31 days 00:00:00
+223,Unworthy Thor,2017,3,Issue,2017-03-31,Comicvine,95444,574880,The Unworthy Thor,2016, ,https://comicvine.gamespot.com/issue/4000-574880/,30 days 00:00:00
+224,Unworthy Thor,2017,4,Issue,2017-04-30,Comicvine,95444,580767,The Unworthy Thor,2016, ,https://comicvine.gamespot.com/issue/4000-580767/,31 days 00:00:00
+225,Unworthy Thor,2017,5,Issue,2017-05-31,Comicvine,95444,588579,The Unworthy Thor,2016, ,https://comicvine.gamespot.com/issue/4000-588579/,92 days 00:00:00
+226,Thanos,2017,2,Issue,2017-02-28,Comicvine,95750,569350,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-569350/,31 days 00:00:00
+227,Thanos,2017,3,Issue,2017-03-31,Comicvine,95750,578477,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-578477/,30 days 00:00:00
+228,Thanos,2017,4,Issue,2017-04-30,Comicvine,95750,582547,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-582547/,31 days 00:00:00
+229,Thanos,2017,5,Issue,2017-05-31,Comicvine,95750,589839,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-589839/,30 days 00:00:00
+230,Thanos,2017,6,Issue,2017-06-30,Comicvine,95750,593274,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-593274/,122 days 00:00:00
+231,Hawkeye,2017,1,Issue,2017-02-28,Comicvine,96661,566712,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-566712/,31 days 00:00:00
+232,Hawkeye,2017,2,Issue,2017-03-31,Comicvine,96661,574865,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-574865/,30 days 00:00:00
+233,Hawkeye,2017,3,Issue,2017-04-30,Comicvine,96661,579314,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-579314/,31 days 00:00:00
+234,Hawkeye,2017,4,Issue,2017-05-31,Comicvine,96661,583720,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-583720/,0 days 00:00:00
+235,Amazing Spider-Man,2015,25,Issue,2017-05-31,Comicvine,85076,587400,The Amazing Spider-Man,2015, ,https://comicvine.gamespot.com/the-amazing-spider-man-25-part-one-bug-hunt-police/4000-587400/,30 days 00:00:00
+236,Amazing Spider-Man,2015,26,Issue,2017-06-30,Comicvine,85076,591745,The Amazing Spider-Man,2015, ,https://comicvine.gamespot.com/the-amazing-spider-man-26-the-osborn-identity-part/4000-591745/,31 days 00:00:00
+237,Amazing Spider-Man,2015,27,Issue,2017-07-31,Comicvine,85076,594955,The Amazing Spider-Man,2015, ,https://comicvine.gamespot.com/the-amazing-spider-man-27-the-osborn-identity-part/4000-594955/,31 days 00:00:00
+238,Amazing Spider-Man,2015,28,Issue,2017-08-31,Comicvine,85076,599855,The Amazing Spider-Man,2015, ,https://comicvine.gamespot.com/the-amazing-spider-man-28-the-osborn-identity-part/4000-599855/,184 days 00:00:00
+239,Punisher,2016,7,Issue,2017-02-28,Comicvine,90118,569341,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-7/4000-569341/,31 days 00:00:00
+240,Punisher,2016,8,Issue,2017-03-31,Comicvine,90118,578470,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-8/4000-578470/,30 days 00:00:00
+241,Punisher,2016,9,Issue,2017-04-30,Comicvine,90118,581566,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-9/4000-581566/,31 days 00:00:00
+242,Punisher,2016,10,Issue,2017-05-31,Comicvine,90118,587416,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-10/4000-587416/,30 days 00:00:00
+243,Punisher,2016,11,Issue,2017-06-30,Comicvine,90118,592606,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-11/4000-592606/,31 days 00:00:00
+244,Punisher,2016,12,Issue,2017-07-31,Comicvine,90118,595698,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-12/4000-595698/,335 days 00:00:00
+245,Venom,2017,1,Issue,2018-07-01,Comicvine,110770,669464,Venom,2018, ,https://comicvine.gamespot.com/issue/4000-669464/,31 days 00:00:00
+246,Venom,2017,2,Issue,2018-08-01,Comicvine,110770,673039,Venom,2018, ,https://comicvine.gamespot.com/issue/4000-673039/,0 days 00:00:00
+247,Venom,2017,3,Issue,2018-08-01,Comicvine,110770,675160,Venom,2018, ,https://comicvine.gamespot.com/issue/4000-675160/,31 days 00:00:00
+248,Venom,2017,4,Issue,2018-09-01,Comicvine,110770,677983,Venom,2018, ,https://comicvine.gamespot.com/issue/4000-677983/,30 days 00:00:00
+249,Venom,2017,5,Issue,2018-10-01,Comicvine,110770,680738,Venom,2018, ,https://comicvine.gamespot.com/issue/4000-680738/,31 days 00:00:00
+250,Venom,2017,6,Issue,2018-11-01,Comicvine,110770,685865,Venom,2018, ,https://comicvine.gamespot.com/issue/4000-685865/,550 days 00:00:00
+251,Doctor Strange,2015,17,Issue,2017-04-30,Comicvine,85094,581556,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-17-state-of-misery/4000-581556/,31 days 00:00:00
+252,Doctor Strange,2015,18,Issue,2017-05-31,Comicvine,85094,583719,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-18-the-worlds-finest-super-surgeons/4000-583719/,30 days 00:00:00
+253,Doctor Strange,2015,19,Issue,2017-06-30,Comicvine,85094,592596,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-19-the-power-of-strange-compels-you/4000-592596/,62 days 00:00:00
+254,Doctor Strange,2015,20,Issue,2017-08-31,Comicvine,85094,599863,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-20-the-weird-the-weirder-and-the-we/4000-599863/,184 days 00:00:00
+255,Hulk,2017,1,Issue,2017-02-28,Comicvine,97422,571670,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-571670/,31 days 00:00:00
+256,Hulk,2017,2,Issue,2017-03-31,Comicvine,97422,578462,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-578462/,30 days 00:00:00
+257,Hulk,2017,3,Issue,2017-04-30,Comicvine,97422,582532,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-582532/,31 days 00:00:00
+258,Hulk,2017,4,Issue,2017-05-31,Comicvine,97422,588566,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-588566/,30 days 00:00:00
+259,Hulk,2017,5,Issue,2017-06-30,Comicvine,97422,593261,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-593261/,31 days 00:00:00
+260,Hulk,2017,6,Issue,2017-07-31,Comicvine,97422,598377,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-598377/,153 days 00:00:00
+261,Gamora,2017,1,Issue,2017-02-28,Comicvine,97041,569331,Gamora,2016, ,https://comicvine.gamespot.com/issue/4000-569331/,31 days 00:00:00
+262,Gamora,2017,2,Issue,2017-03-31,Comicvine,97041,576623,Gamora,2016, ,https://comicvine.gamespot.com/issue/4000-576623/,30 days 00:00:00
+263,Gamora,2017,3,Issue,2017-04-30,Comicvine,97041,581558,Gamora,2016, ,https://comicvine.gamespot.com/issue/4000-581558/,31 days 00:00:00
+264,Gamora,2017,4,Issue,2017-05-31,Comicvine,97041,588565,Gamora,2016, ,https://comicvine.gamespot.com/issue/4000-588565/,61 days 00:00:00
+265,Gamora,2017,5,Issue,2017-07-31,Comicvine,97041,598373,Gamora,2016, ,https://comicvine.gamespot.com/issue/4000-598373/,153 days 00:00:00
+266,Slapstick,2017,1,Issue,2017-02-28,Comicvine,96307,563725,Slapstick,2016, ,https://comicvine.gamespot.com/issue/4000-563725/,31 days 00:00:00
+267,Slapstick,2017,2,Issue,2017-03-31,Comicvine,96307,574875,Slapstick,2016, ,https://comicvine.gamespot.com/issue/4000-574875/,30 days 00:00:00
+268,Slapstick,2017,3,Issue,2017-04-30,Comicvine,96307,579322,Slapstick,2016, ,https://comicvine.gamespot.com/issue/4000-579322/,31 days 00:00:00
+269,Slapstick,2017,4,Issue,2017-05-31,Comicvine,96307,583728,Slapstick,2016, ,https://comicvine.gamespot.com/issue/4000-583728/,30 days 00:00:00
+270,Slapstick,2017,5,Issue,2017-06-30,Comicvine,96307,590803,Slapstick,2016, ,https://comicvine.gamespot.com/issue/4000-590803/,31 days 00:00:00
+271,Slapstick,2017,6,Issue,2017-07-31,Comicvine,96307,594121,Slapstick,2016, ,https://comicvine.gamespot.com/issue/4000-594121/,153 days 00:00:00
+272,Nova,2016,1,Issue,2017-02-28,Comicvine,96300,563723,Nova,2016, ,https://comicvine.gamespot.com/nova-1/4000-563723/,31 days 00:00:00
+273,Nova,2016,2,Issue,2017-03-31,Comicvine,96300,574872,Nova,2016, ,https://comicvine.gamespot.com/nova-2/4000-574872/,30 days 00:00:00
+274,Nova,2016,3,Issue,2017-04-30,Comicvine,96300,579320,Nova,2016, ,https://comicvine.gamespot.com/nova-3/4000-579320/,31 days 00:00:00
+275,Nova,2016,4,Issue,2017-05-31,Comicvine,96300,585088,Nova,2016, ,https://comicvine.gamespot.com/nova-4/4000-585088/,30 days 00:00:00
+276,Nova,2016,5,Issue,2017-06-30,Comicvine,96300,590801,Nova,2016, ,https://comicvine.gamespot.com/nova-5/4000-590801/,31 days 00:00:00
+277,Nova,2016,6,Issue,2017-07-31,Comicvine,96300,594119,Nova,2016, ,https://comicvine.gamespot.com/nova-6/4000-594119/,31 days 00:00:00
+278,Nova,2016,7,Issue,2017-08-31,Comicvine,96300,599870,Nova,2016, ,https://comicvine.gamespot.com/nova-7/4000-599870/,184 days 00:00:00
+279,Mighty Captain Marvel,2017,0,Issue,2017-02-28,Comicvine,97062,569336,The Mighty Captain Marvel,2016, ,https://comicvine.gamespot.com/issue/4000-569336/,31 days 00:00:00
+280,Mighty Captain Marvel,2017,1,Issue,2017-03-31,Comicvine,97062,576628,The Mighty Captain Marvel,2016, ,https://comicvine.gamespot.com/issue/4000-576628/,30 days 00:00:00
+281,Mighty Captain Marvel,2017,2,Issue,2017-04-30,Comicvine,97062,582535,The Mighty Captain Marvel,2016, ,https://comicvine.gamespot.com/issue/4000-582535/,31 days 00:00:00
+282,Mighty Captain Marvel,2017,3,Issue,2017-05-31,Comicvine,97062,589833,The Mighty Captain Marvel,2016, ,https://comicvine.gamespot.com/issue/4000-589833/,30 days 00:00:00
+283,Mighty Captain Marvel,2017,4,Issue,2017-06-30,Comicvine,97062,593264,The Mighty Captain Marvel,2016, ,https://comicvine.gamespot.com/issue/4000-593264/,30 days 00:00:00
+284,Champions,2016,6,Issue,2017-05-31,Comicvine,94612,583714,Champions,2016, ,https://comicvine.gamespot.com/champions-6/4000-583714/,30 days 00:00:00
+285,Champions,2016,7,Issue,2017-06-30,Comicvine,94612,590791,Champions,2016, ,https://comicvine.gamespot.com/champions-7/4000-590791/,31 days 00:00:00
+286,Champions,2016,8,Issue,2017-07-31,Comicvine,94612,594108,Champions,2016, ,https://comicvine.gamespot.com/champions-8/4000-594108/,31 days 00:00:00
+287,Champions,2016,9,Issue,2017-08-31,Comicvine,94612,599860,Champions,2016, ,https://comicvine.gamespot.com/champions-9/4000-599860/,92 days 00:00:00
+288,Man-Thing,2017,1,Issue,2017-05-31,Comicvine,99444,585083,Man-Thing,2017, ,https://comicvine.gamespot.com/man-thing-1-a-different-direction-put-a-ring-on-it/4000-585083/,0 days 00:00:00
+289,Man-Thing,2017,2,Issue,2017-05-31,Comicvine,99444,589832,Man-Thing,2017, ,https://comicvine.gamespot.com/man-thing-2-the-muck-run-amuck-drive-the-horror-hi/4000-589832/,30 days 00:00:00
+290,Man-Thing,2017,3,Issue,2017-06-30,Comicvine,99444,593263,Man-Thing,2017, ,https://comicvine.gamespot.com/man-thing-3-the-nexus-of-all-realities-like-a-horr/4000-593263/,31 days 00:00:00
+291,Man-Thing,2017,4,Issue,2017-07-31,Comicvine,99444,598379,Man-Thing,2017, ,https://comicvine.gamespot.com/man-thing-4-its-a-python-world-the-neighborhood-wa/4000-598379/,31 days 00:00:00
+292,Man-Thing,2017,5,Issue,2017-08-31,Comicvine,99444,603127,Man-Thing,2017, ,https://comicvine.gamespot.com/man-thing-5-the-surprise-ending-the-perfect-boyfri/4000-603127/,153 days 00:00:00
+293,Mighty Thor,2016,15,Issue,2017-03-31,Comicvine,86113,575875,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-575875/,30 days 00:00:00
+294,Mighty Thor,2016,16,Issue,2017-04-30,Comicvine,86113,581561,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-581561/,31 days 00:00:00
+295,Mighty Thor,2016,17,Issue,2017-05-31,Comicvine,86113,587411,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-587411/,30 days 00:00:00
+296,Mighty Thor,2016,18,Issue,2017-06-30,Comicvine,86113,593265,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-593265/,31 days 00:00:00
+297,Mighty Thor,2016,19,Issue,2017-07-31,Comicvine,86113,595694,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-595694/,122 days 00:00:00
+298,Spider-Man,2016,12,Issue,2017-03-31,Comicvine,87820,575882,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-12-sitting-in-a-tree-part-1/4000-575882/,0 days 00:00:00
+299,Spider-Gwen,2016,16,Issue,2017-03-31,Comicvine,85311,576633,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-576633/,30 days 00:00:00
+300,Spider-Man,2016,13,Issue,2017-04-30,Comicvine,87820,581568,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-13-sitting-in-a-tree-part-3/4000-581568/,0 days 00:00:00
+301,Spider-Gwen,2016,17,Issue,2017-04-30,Comicvine,85311,582544,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-582544/,31 days 00:00:00
+302,Spider-Man,2016,14,Issue,2017-05-31,Comicvine,87820,587417,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-14-sitting-in-a-tree-part-5/4000-587417/,0 days 00:00:00
+303,Spider-Gwen,2016,18,Issue,2017-05-31,Comicvine,85311,588574,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-588574/,30 days 00:00:00
+304,Spider-Man,2016,15,Issue,2017-06-30,Comicvine,87820,590804,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-15/4000-590804/,31 days 00:00:00
+305,Spider-Man,2016,16,Issue,2017-07-31,Comicvine,87820,594123,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-16/4000-594123/,31 days 00:00:00
+306,Spider-Man,2016,17,Issue,2017-08-31,Comicvine,87820,599873,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-17/4000-599873/,30 days 00:00:00
+307,Spider-Man,2016,18,Issue,2017-09-30,Comicvine,87820,606636,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-18/4000-606636/,31 days 00:00:00
+308,Spider-Man,2016,19,Issue,2017-10-31,Comicvine,87820,612050,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-19/4000-612050/,123 days 00:00:00
+309,Old Man Logan,2016,21,Issue,2017-06-30,Comicvine,87624,591764,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-21-past-lives-part-i-of-iv/4000-591764/,0 days 00:00:00
+310,Old Man Logan,2016,22,Issue,2017-06-30,Comicvine,87624,593269,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-22-past-lives-part-ii-of-iv/4000-593269/,31 days 00:00:00
+311,Old Man Logan,2016,23,Issue,2017-07-31,Comicvine,87624,594969,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-23-past-lives-part-iii-of-iv/4000-594969/,0 days 00:00:00
+312,Old Man Logan,2016,24,Issue,2017-07-31,Comicvine,87624,598382,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-24-past-lives-part-iv-of-iv/4000-598382/,0 days 00:00:00
+313,Deadpool,2015,30,Issue,2017-07-31,Comicvine,85750,594962,Deadpool,2015, ,https://comicvine.gamespot.com/deadpool-30-a-space-oddity/4000-594962/,122 days 00:00:00
+314,Moon Knight,2016,10,Issue,2017-03-31,Comicvine,89613,574871,Moon Knight,2016, ,https://comicvine.gamespot.com/moon-knight-10-death-and-birth-part-1-of-5/4000-574871/,30 days 00:00:00
+315,Moon Knight,2016,11,Issue,2017-04-30,Comicvine,89613,579319,Moon Knight,2016, ,https://comicvine.gamespot.com/moon-knight-11-death-and-birth-part-2-of-5/4000-579319/,31 days 00:00:00
+316,Moon Knight,2016,12,Issue,2017-05-31,Comicvine,89613,583725,Moon Knight,2016, ,https://comicvine.gamespot.com/moon-knight-12-death-and-birth-part-3-of-5/4000-583725/,30 days 00:00:00
+317,Moon Knight,2016,13,Issue,2017-06-30,Comicvine,89613,592602,Moon Knight,2016, ,https://comicvine.gamespot.com/moon-knight-13-death-and-birth-part-4-of-5/4000-592602/,31 days 00:00:00
+318,Moon Knight,2016,14,Issue,2017-07-31,Comicvine,89613,598380,Moon Knight,2016, ,https://comicvine.gamespot.com/moon-knight-14-death-and-birth-part-5-of-5/4000-598380/,122 days 00:00:00
+319,U.S.Avengers,2017,1,Issue,2017-03-31,Comicvine,97772,574878,U.S.Avengers,2017, ,https://comicvine.gamespot.com/usavengers-1-kullocracy-part-one/4000-574878/,0 days 00:00:00
+320,U.S.Avengers,2017,2,Issue,2017-03-31,Comicvine,97772,576638,U.S.Avengers,2017, ,https://comicvine.gamespot.com/usavengers-2-kullocracy-part-two/4000-576638/,30 days 00:00:00
+321,U.S.Avengers,2017,3,Issue,2017-04-30,Comicvine,97772,581570,U.S.Avengers,2017, ,https://comicvine.gamespot.com/usavengers-3-kullocracy-part-three/4000-581570/,31 days 00:00:00
+322,U.S.Avengers,2017,4,Issue,2017-05-31,Comicvine,97772,587420,U.S.Avengers,2017, ,https://comicvine.gamespot.com/usavengers-4-here-be-monsters/4000-587420/,0 days 00:00:00
+323,Infamous Iron Man,2016,6,Issue,2017-05-31,Comicvine,95016,589829,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-6/4000-589829/,30 days 00:00:00
+324,Infamous Iron Man,2016,7,Issue,2017-06-30,Comicvine,95016,593262,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-7/4000-593262/,31 days 00:00:00
+325,Infamous Iron Man,2016,8,Issue,2017-07-31,Comicvine,95016,597194,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-8/4000-597194/,31 days 00:00:00
+326,Infamous Iron Man,2016,9,Issue,2017-08-31,Comicvine,95016,605119,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-9/4000-605119/,30 days 00:00:00
+327,Infamous Iron Man,2016,10,Issue,2017-09-30,Comicvine,95016,610528,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-10/4000-610528/,31 days 00:00:00
+328,Infamous Iron Man,2016,11,Issue,2017-10-31,Comicvine,95016,617844,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-11/4000-617844/,30 days 00:00:00
+329,Infamous Iron Man,2016,12,Issue,2017-11-30,Comicvine,95016,625312,Infamous Iron Man,2016, ,https://comicvine.gamespot.com/infamous-iron-man-12/4000-625312/,275 days 00:00:00
+330,Totally Awesome Hulk,2016,13,Issue,2017-02-28,Comicvine,86408,566725,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-566725/,31 days 00:00:00
+331,Totally Awesome Hulk,2016,14,Issue,2017-03-31,Comicvine,86408,575884,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-575884/,0 days 00:00:00
+332,Totally Awesome Hulk,2016,15,Issue,2017-03-31,Comicvine,86408,578479,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-578479/,30 days 00:00:00
+333,Totally Awesome Hulk,2016,16,Issue,2017-04-30,Comicvine,86408,580764,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-580764/,31 days 00:00:00
+334,Totally Awesome Hulk,2016,17,Issue,2017-05-31,Comicvine,86408,587419,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-587419/,30 days 00:00:00
+335,Totally Awesome Hulk,2016,18,Issue,2017-06-30,Comicvine,86408,592615,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-592615/,31 days 00:00:00
+336,Guardians of the Galaxy: Mission Breakout,2017,1,Issue,2017-07-31,Comicvine,101180,594110,Guardians of the Galaxy: Mission Breakout,2017, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-mission-breakout-1/4000-594110/,122 days 00:00:00
+337,Unstoppable Wasp,2017,1,Issue,2017-03-31,Comicvine,97774,574879,The Unstoppable Wasp,2017, ,https://comicvine.gamespot.com/the-unstoppable-wasp-1/4000-574879/,30 days 00:00:00
+338,Unstoppable Wasp,2017,2,Issue,2017-04-30,Comicvine,97774,579326,The Unstoppable Wasp,2017, ,https://comicvine.gamespot.com/the-unstoppable-wasp-2/4000-579326/,31 days 00:00:00
+339,Unstoppable Wasp,2017,3,Issue,2017-05-31,Comicvine,97774,583733,The Unstoppable Wasp,2017, ,https://comicvine.gamespot.com/the-unstoppable-wasp-3/4000-583733/,30 days 00:00:00
+340,Unstoppable Wasp,2017,4,Issue,2017-06-30,Comicvine,97774,591770,The Unstoppable Wasp,2017, ,https://comicvine.gamespot.com/the-unstoppable-wasp-4/4000-591770/,31 days 00:00:00
+341,Unstoppable Wasp,2017,5,Issue,2017-07-31,Comicvine,97774,594128,The Unstoppable Wasp,2017, ,https://comicvine.gamespot.com/the-unstoppable-wasp-5/4000-594128/,31 days 00:00:00
+342,Unstoppable Wasp,2017,6,Issue,2017-08-31,Comicvine,97774,599880,The Unstoppable Wasp,2017, ,https://comicvine.gamespot.com/the-unstoppable-wasp-6/4000-599880/,30 days 00:00:00
+343,Unstoppable Wasp,2017,7,Issue,2017-09-30,Comicvine,97774,606646,The Unstoppable Wasp,2017, ,https://comicvine.gamespot.com/the-unstoppable-wasp-7/4000-606646/,31 days 00:00:00
+344,Unstoppable Wasp,2017,8,Issue,2017-10-31,Comicvine,97774,612054,The Unstoppable Wasp,2017, ,https://comicvine.gamespot.com/the-unstoppable-wasp-8/4000-612054/,273 days 00:00:00
+345,Spider-Man 2099,2015,17,Issue,2017-01-31,Comicvine,85312,556478,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-17/4000-556478/,28 days 00:00:00
+346,Spider-Man 2099,2015,18,Issue,2017-02-28,Comicvine,85312,563726,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-18/4000-563726/,31 days 00:00:00
+347,Spider-Man 2099,2015,19,Issue,2017-03-31,Comicvine,85312,574876,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-19/4000-574876/,30 days 00:00:00
+348,Spider-Man 2099,2015,20,Issue,2017-04-30,Comicvine,85312,579323,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-20/4000-579323/,31 days 00:00:00
+349,Spider-Man 2099,2015,21,Issue,2017-05-31,Comicvine,85312,583729,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-21/4000-583729/,30 days 00:00:00
+350,Spider-Man 2099,2015,22,Issue,2017-06-30,Comicvine,85312,591767,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-22/4000-591767/,31 days 00:00:00
+351,Spider-Man 2099,2015,23,Issue,2017-07-31,Comicvine,85312,594124,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-23/4000-594124/,31 days 00:00:00
+352,Spider-Man 2099,2015,24,Issue,2017-08-31,Comicvine,85312,603138,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-24/4000-603138/,30 days 00:00:00
+353,Spider-Man 2099,2015,25,Issue,2017-09-30,Comicvine,85312,609361,Spider-Man 2099,2015, ,https://comicvine.gamespot.com/spider-man-2099-25/4000-609361/,30 days 00:00:00
+354,Punisher,2016,13,Issue,2017-08-31,Comicvine,90118,605126,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-13/4000-605126/,30 days 00:00:00
+355,Punisher,2016,14,Issue,2017-09-30,Comicvine,90118,610533,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-14/4000-610533/,31 days 00:00:00
+356,Punisher,2016,15,Issue,2017-10-31,Comicvine,90118,616199,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-15/4000-616199/,30 days 00:00:00
+357,Punisher,2016,16,Issue,2017-11-30,Comicvine,90118,625322,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-16/4000-625322/,31 days 00:00:00
+358,Punisher,2016,17,Issue,2017-12-31,Comicvine,90118,632501,The Punisher,2016, ,https://comicvine.gamespot.com/the-punisher-17/4000-632501/,214 days 00:00:00
+359,Silver Surfer,2016,9,Issue,2017-05-31,Comicvine,87449,585092,Silver Surfer,2016, ,https://comicvine.gamespot.com/silver-surfer-9-shadows-in-the-city-of-light/4000-585092/,30 days 00:00:00
+360,Silver Surfer,2016,10,Issue,2017-06-30,Comicvine,87449,591766,Silver Surfer,2016, ,https://comicvine.gamespot.com/silver-surfer-10-bound-for-eternity/4000-591766/,31 days 00:00:00
+361,Silver Surfer,2016,11,Issue,2017-07-31,Comicvine,87449,594972,Silver Surfer,2016, ,https://comicvine.gamespot.com/silver-surfer-11-zero-sum-game/4000-594972/,31 days 00:00:00
+362,Silver Surfer,2016,12,Issue,2017-08-31,Comicvine,87449,603136,Silver Surfer,2016, ,https://comicvine.gamespot.com/silver-surfer-12-return-to-euphoria/4000-603136/,61 days 00:00:00
+363,Silver Surfer,2016,13,Issue,2017-10-31,Comicvine,87449,615030,Silver Surfer,2016, ,https://comicvine.gamespot.com/silver-surfer-13-timeless/4000-615030/,61 days 00:00:00
+364,Silver Surfer,2016,14,Issue,2017-12-31,Comicvine,87449,632504,Silver Surfer,2016, ,https://comicvine.gamespot.com/silver-surfer-14-a-power-greater-than-cosmic/4000-632504/,214 days 00:00:00
+365,Occupy Avengers,2017,5,Issue,2017-05-31,Comicvine,95431,589834,Occupy Avengers,2016, ,https://comicvine.gamespot.com/issue/4000-589834/,30 days 00:00:00
+366,Occupy Avengers,2017,6,Issue,2017-06-30,Comicvine,95431,593268,Occupy Avengers,2016, ,https://comicvine.gamespot.com/issue/4000-593268/,31 days 00:00:00
+367,Occupy Avengers,2017,7,Issue,2017-07-31,Comicvine,95431,598381,Occupy Avengers,2016, ,https://comicvine.gamespot.com/issue/4000-598381/,61 days 00:00:00
+368,X-Men: Prime,2017,1,Issue,2017-05-31,Comicvine,100395,589842,X-Men Prime,2017, ,https://comicvine.gamespot.com/x-men-prime-1/4000-589842/,30 days 00:00:00
+369,X-Men: Blue,2017,1,Issue,2017-06-30,Comicvine,100712,591772,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-1/4000-591772/,0 days 00:00:00
+370,X-Men: Blue,2017,2,Issue,2017-06-30,Comicvine,100712,593277,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-2/4000-593277/,31 days 00:00:00
+371,X-Men: Blue,2017,3,Issue,2017-07-31,Comicvine,100712,594979,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-3/4000-594979/,0 days 00:00:00
+372,X-Men: Blue,2017,4,Issue,2017-07-31,Comicvine,100712,597208,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-4/4000-597208/,31 days 00:00:00
+373,X-Men: Blue,2017,5,Issue,2017-08-31,Comicvine,100712,601813,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-5/4000-601813/,0 days 00:00:00
+374,X-Men: Blue,2017,6,Issue,2017-08-31,Comicvine,100712,605139,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-6/4000-605139/,62 days 00:00:00
+375,X-Men: Gold,2017,1,Issue,2017-06-30,Comicvine,100603,590811,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-1-back-to-the-basics-part-1/4000-590811/,0 days 00:00:00
+376,X-Men: Gold,2017,2,Issue,2017-06-30,Comicvine,100603,593278,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-2-back-to-the-basics-part-2/4000-593278/,31 days 00:00:00
+377,X-Men: Gold,2017,3,Issue,2017-07-31,Comicvine,100603,594129,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-3-back-to-the-basics-part-3/4000-594129/,0 days 00:00:00
+378,X-Men: Gold,2017,4,Issue,2017-07-31,Comicvine,100603,595708,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-4-techno-superior-part-1/4000-595708/,31 days 00:00:00
+379,X-Men: Gold,2017,5,Issue,2017-08-31,Comicvine,100603,599881,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-5-techno-superior-part-2/4000-599881/,0 days 00:00:00
+380,X-Men: Gold,2017,6,Issue,2017-08-31,Comicvine,100603,603149,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-6-techno-superior-part-3/4000-603149/,92 days 00:00:00
+381,Inhumans Prime,2017,1,Issue,2017-05-31,Comicvine,100372,589831,Inhumans Prime,2017, ,https://comicvine.gamespot.com/inhumans-prime-1/4000-589831/,30 days 00:00:00
+382,Royals,2017,1,Issue,2017-06-30,Comicvine,100590,590802,Royals,2017, ,https://comicvine.gamespot.com/royals-1-another-future-song/4000-590802/,0 days 00:00:00
+383,Royals,2017,2,Issue,2017-06-30,Comicvine,100590,592607,Royals,2017, ,https://comicvine.gamespot.com/royals-2-we-are-the-dead/4000-592607/,31 days 00:00:00
+384,Royals,2017,3,Issue,2017-07-31,Comicvine,100590,595699,Royals,2017, ,https://comicvine.gamespot.com/royals-3-tomorrows-never-there/4000-595699/,31 days 00:00:00
+385,Royals,2017,4,Issue,2017-08-31,Comicvine,100590,603133,Royals,2017, ,https://comicvine.gamespot.com/royals-4-dust-and-roses/4000-603133/,30 days 00:00:00
+386,Royals,2017,5,Issue,2017-09-30,Comicvine,100590,609358,Royals,2017, ,https://comicvine.gamespot.com/royals-5-the-center-of-things/4000-609358/,31 days 00:00:00
+387,Royals,2017,6,Issue,2017-10-31,Comicvine,100590,615028,Royals,2017, ,https://comicvine.gamespot.com/royals-6-the-strangers-came-today/4000-615028/,30 days 00:00:00
+388,Royals,2017,7,Issue,2017-11-30,Comicvine,100590,619635,Royals,2017, ,https://comicvine.gamespot.com/royals-7-look-at-those-cavemen-go/4000-619635/,0 days 00:00:00
+389,Royals,2017,8,Issue,2017-11-30,Comicvine,100590,622950,Royals,2017, ,https://comicvine.gamespot.com/royals-8-crack-in-the-sky/4000-622950/,153 days 00:00:00
+390,All-New Wolverine,2016,19,Issue,2017-06-30,Comicvine,85930,590785,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-590785/,31 days 00:00:00
+391,All-New Wolverine,2016,20,Issue,2017-07-31,Comicvine,85930,594954,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-594954/,31 days 00:00:00
+392,All-New Wolverine,2016,21,Issue,2017-08-31,Comicvine,85930,601783,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-601783/,30 days 00:00:00
+393,All-New Wolverine,2016,22,Issue,2017-09-30,Comicvine,85930,606616,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-606616/,31 days 00:00:00
+394,All-New Wolverine,2016,23,Issue,2017-10-31,Comicvine,85930,613782,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-613782/,30 days 00:00:00
+395,All-New Wolverine,2016,24,Issue,2017-11-30,Comicvine,85930,621655,All-New Wolverine,2015, ,https://comicvine.gamespot.com/issue/4000-621655/,153 days 00:00:00
+396,Weapon X,2017,1,Issue,2017-06-30,Comicvine,100709,591771,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-1/4000-591771/,0 days 00:00:00
+397,Weapon X,2017,2,Issue,2017-06-30,Comicvine,100709,593276,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-2/4000-593276/,31 days 00:00:00
+398,Weapon X,2017,3,Issue,2017-07-31,Comicvine,100709,594978,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-3/4000-594978/,0 days 00:00:00
+399,Black Bolt,2017,1,Issue,2017-07-31,Comicvine,101166,594106,Black Bolt,2017, ,https://comicvine.gamespot.com/black-bolt-1/4000-594106/,31 days 00:00:00
+400,Black Bolt,2017,2,Issue,2017-08-31,Comicvine,101166,599858,Black Bolt,2017, ,https://comicvine.gamespot.com/black-bolt-2/4000-599858/,30 days 00:00:00
+401,Black Bolt,2017,3,Issue,2017-09-30,Comicvine,101166,606619,Black Bolt,2017, ,https://comicvine.gamespot.com/black-bolt-3/4000-606619/,31 days 00:00:00
+402,Black Bolt,2017,4,Issue,2017-10-31,Comicvine,101166,612032,Black Bolt,2017, ,https://comicvine.gamespot.com/black-bolt-4/4000-612032/,30 days 00:00:00
+403,Black Bolt,2017,5,Issue,2017-11-30,Comicvine,101166,619617,Black Bolt,2017, ,https://comicvine.gamespot.com/black-bolt-5/4000-619617/,31 days 00:00:00
+404,Black Bolt,2017,6,Issue,2017-12-31,Comicvine,101166,626277,Black Bolt,2017, ,https://comicvine.gamespot.com/black-bolt-6/4000-626277/,31 days 00:00:00
+405,Black Bolt,2017,7,Issue,2018-01-31,Comicvine,101166,634527,Black Bolt,2017, ,https://comicvine.gamespot.com/black-bolt-7/4000-634527/,184 days 00:00:00
+406,Generation X,2017,1,Issue,2017-07-31,Comicvine,101478,595688,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-1/4000-595688/,0 days 00:00:00
+407,Generation X,2017,2,Issue,2017-07-31,Comicvine,101478,598374,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-2/4000-598374/,31 days 00:00:00
+408,Generation X,2017,3,Issue,2017-08-31,Comicvine,101478,601793,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-3/4000-601793/,30 days 00:00:00
+409,Generation X,2017,4,Issue,2017-09-30,Comicvine,101478,608245,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-4/4000-608245/,61 days 00:00:00
+410,Jean Grey,2017,1,Issue,2017-07-31,Comicvine,101195,594114,Jean Grey,2017, ,https://comicvine.gamespot.com/jean-grey-1/4000-594114/,0 days 00:00:00
+411,Jean Grey,2017,2,Issue,2017-07-31,Comicvine,101195,597195,Jean Grey,2017, ,https://comicvine.gamespot.com/jean-grey-2/4000-597195/,31 days 00:00:00
+412,Jean Grey,2017,3,Issue,2017-08-31,Comicvine,101195,605120,Jean Grey,2017, ,https://comicvine.gamespot.com/jean-grey-3/4000-605120/,30 days 00:00:00
+413,Jean Grey,2017,4,Issue,2017-09-30,Comicvine,101195,608247,Jean Grey,2017, ,https://comicvine.gamespot.com/jean-grey-4/4000-608247/,31 days 00:00:00
+414,Jean Grey,2017,5,Issue,2017-10-31,Comicvine,101195,613794,Jean Grey,2017, ,https://comicvine.gamespot.com/jean-grey-5/4000-613794/,61 days 00:00:00
+415,Iceman,2017,1,Issue,2017-08-31,Comicvine,101937,599865,Iceman,2017, ,https://comicvine.gamespot.com/iceman-1/4000-599865/,0 days 00:00:00
+416,Iceman,2017,2,Issue,2017-08-31,Comicvine,101937,603123,Iceman,2017, ,https://comicvine.gamespot.com/iceman-2/4000-603123/,30 days 00:00:00
+417,Iceman,2017,3,Issue,2017-09-30,Comicvine,101937,610527,Iceman,2017, ,https://comicvine.gamespot.com/iceman-3/4000-610527/,31 days 00:00:00
+418,Iceman,2017,4,Issue,2017-10-31,Comicvine,101937,616194,Iceman,2017, ,https://comicvine.gamespot.com/iceman-4/4000-616194/,30 days 00:00:00
+419,Iceman,2017,5,Issue,2017-11-30,Comicvine,101937,619625,Iceman,2017, ,https://comicvine.gamespot.com/iceman-5/4000-619625/,91 days 00:00:00
+420,Old Man Logan,2016,25,Issue,2017-08-31,Comicvine,87624,601799,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-25-days-of-anger-part-one/4000-601799/,30 days 00:00:00
+421,Old Man Logan,2016,26,Issue,2017-09-30,Comicvine,87624,608252,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-26-days-of-anger-part-two/4000-608252/,31 days 00:00:00
+422,Old Man Logan,2016,27,Issue,2017-10-31,Comicvine,87624,613798,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-27-days-of-anger-part-three/4000-613798/,30 days 00:00:00
+423,Old Man Logan,2016,28,Issue,2017-11-30,Comicvine,87624,621673,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-28-days-of-anger-part-four/4000-621673/,31 days 00:00:00
+424,Old Man Logan,2016,29,Issue,2017-12-31,Comicvine,87624,626290,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-29-days-of-anger-part-five/4000-626290/,31 days 00:00:00
+425,Old Man Logan,2016,30,Issue,2018-01-31,Comicvine,87624,634540,Old Man Logan,2016, ,https://comicvine.gamespot.com/old-man-logan-30-days-of-anger-part-six/4000-634540/,184 days 00:00:00
+426,Invincible Iron Man,2017,7,Issue,2017-07-31,Comicvine,95596,595690,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-595690/,31 days 00:00:00
+427,Invincible Iron Man,2017,8,Issue,2017-08-31,Comicvine,95596,603124,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-603124/,30 days 00:00:00
+428,Invincible Iron Man,2017,9,Issue,2017-09-30,Comicvine,95596,609347,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-609347/,31 days 00:00:00
+429,Invincible Iron Man,2017,10,Issue,2017-10-31,Comicvine,95596,615022,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-615022/,153 days 00:00:00
+430,America,2017,1,Issue,2017-05-31,Comicvine,99242,583711,America,2017, ,https://comicvine.gamespot.com/america-1-pa-fuera-pa-la-calle/4000-583711/,30 days 00:00:00
+431,America,2017,2,Issue,2017-06-30,Comicvine,99242,590786,America,2017, ,https://comicvine.gamespot.com/america-2-the-girls-wanna-be-her/4000-590786/,31 days 00:00:00
+432,America,2017,3,Issue,2017-07-31,Comicvine,99242,594958,America,2017, ,https://comicvine.gamespot.com/america-3-highway-to-the-danger-room/4000-594958/,31 days 00:00:00
+433,America,2017,4,Issue,2017-08-31,Comicvine,99242,603116,America,2017, ,https://comicvine.gamespot.com/america-4-an-army-of-me/4000-603116/,30 days 00:00:00
+434,America,2017,5,Issue,2017-09-30,Comicvine,99242,609337,America,2017, ,https://comicvine.gamespot.com/america-5-best-friend-wont-you/4000-609337/,31 days 00:00:00
+435,America,2017,6,Issue,2017-10-31,Comicvine,99242,617833,America,2017, ,https://comicvine.gamespot.com/america-6-your-heart-is-true/4000-617833/,30 days 00:00:00
+436,America,2017,7,Issue,2017-11-30,Comicvine,99242,622933,America,2017, ,https://comicvine.gamespot.com/america-7-baby-its-you/4000-622933/,122 days 00:00:00
+437,Guardians of the Galaxy: Mother Entropy,2017,1,Issue,2017-07-31,Comicvine,101181,594111,Guardians of the Galaxy: Mother Entropy,2017, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-mother-entropy-1/4000-594111/,0 days 00:00:00
+438,Guardians of the Galaxy: Mother Entropy,2017,2,Issue,2017-07-31,Comicvine,101181,594963,Guardians of the Galaxy: Mother Entropy,2017, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-mother-entropy-2-povs/4000-594963/,0 days 00:00:00
+439,Guardians of the Galaxy: Mother Entropy,2017,3,Issue,2017-07-31,Comicvine,101181,595689,Guardians of the Galaxy: Mother Entropy,2017, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-mother-entropy-3-bar-fight/4000-595689/,0 days 00:00:00
+440,Guardians of the Galaxy: Mother Entropy,2017,4,Issue,2017-07-31,Comicvine,101181,597192,Guardians of the Galaxy: Mother Entropy,2017, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-mother-entropy-4-busted/4000-597192/,0 days 00:00:00
+441,Guardians of the Galaxy: Mother Entropy,2017,5,Issue,2017-07-31,Comicvine,101181,598375,Guardians of the Galaxy: Mother Entropy,2017, ,https://comicvine.gamespot.com/guardians-of-the-galaxy-mother-entropy-5-the-bitte/4000-598375/,0 days 00:00:00
+442,Moon Girl and Devil Dinosaur,2016,19,Issue,2017-07-31,Comicvine,86245,597197,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-597197/,31 days 00:00:00
+443,Moon Girl and Devil Dinosaur,2016,20,Issue,2017-08-31,Comicvine,86245,605122,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-605122/,30 days 00:00:00
+444,Moon Girl and Devil Dinosaur,2016,21,Issue,2017-09-30,Comicvine,86245,610530,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-610530/,31 days 00:00:00
+445,Moon Girl and Devil Dinosaur,2016,22,Issue,2017-10-31,Comicvine,86245,617848,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-617848/,30 days 00:00:00
+446,Moon Girl and Devil Dinosaur,2016,23,Issue,2017-11-30,Comicvine,86245,625318,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-625318/,31 days 00:00:00
+447,Moon Girl and Devil Dinosaur,2016,24,Issue,2017-12-31,Comicvine,86245,632500,Moon Girl and Devil Dinosaur,2015, ,https://comicvine.gamespot.com/issue/4000-632500/,214 days 00:00:00
+448,Iron Fist,2017,1,Issue,2017-05-31,Comicvine,100082,588568,Iron Fist,2017, ,https://comicvine.gamespot.com/iron-fist-1-the-trial-of-the-seven-masters-part-on/4000-588568/,30 days 00:00:00
+449,Iron Fist,2017,2,Issue,2017-06-30,Comicvine,100082,590795,Iron Fist,2017, ,https://comicvine.gamespot.com/iron-fist-2-the-trial-of-the-seven-masters-part-tw/4000-590795/,31 days 00:00:00
+450,Iron Fist,2017,3,Issue,2017-07-31,Comicvine,100082,594113,Iron Fist,2017, ,https://comicvine.gamespot.com/iron-fist-3-the-trial-of-the-seven-masters-part-th/4000-594113/,31 days 00:00:00
+451,Iron Fist,2017,4,Issue,2017-08-31,Comicvine,100082,599866,Iron Fist,2017, ,https://comicvine.gamespot.com/iron-fist-4-the-trial-of-the-seven-masters-part-fo/4000-599866/,30 days 00:00:00
+452,Iron Fist,2017,5,Issue,2017-09-30,Comicvine,100082,606628,Iron Fist,2017, ,https://comicvine.gamespot.com/iron-fist-5-the-trial-of-the-seven-masters-conclus/4000-606628/,92 days 00:00:00
+453,Nick Fury,2017,1,Issue,2017-06-30,Comicvine,100830,592604,Nick Fury,2017, ,https://comicvine.gamespot.com/nick-fury-1-the-sky-high-caper/4000-592604/,31 days 00:00:00
+454,Nick Fury,2017,2,Issue,2017-07-31,Comicvine,100830,595696,Nick Fury,2017, ,https://comicvine.gamespot.com/nick-fury-2-the-samurai-and-moonbeams-caper/4000-595696/,31 days 00:00:00
+455,Nick Fury,2017,3,Issue,2017-08-31,Comicvine,100830,603130,Nick Fury,2017, ,https://comicvine.gamespot.com/nick-fury-3-the-assassination-locomotion-caper/4000-603130/,30 days 00:00:00
+456,Nick Fury,2017,4,Issue,2017-09-30,Comicvine,100830,606634,Nick Fury,2017, ,https://comicvine.gamespot.com/nick-fury-4-the-deep-blue-sea-caper/4000-606634/,31 days 00:00:00
+457,Nick Fury,2017,5,Issue,2017-10-31,Comicvine,100830,612049,Nick Fury,2017, ,https://comicvine.gamespot.com/nick-fury-5-the-sleepy-little-town-caper/4000-612049/,30 days 00:00:00
+458,Nick Fury,2017,6,Issue,2017-11-30,Comicvine,100830,625319,Nick Fury,2017, ,https://comicvine.gamespot.com/nick-fury-6-the-return-to-ravenlock-castle-caper/4000-625319/,122 days 00:00:00
+459,Ms. Marvel,2015,18,Issue,2017-07-31,Comicvine,86114,594968,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-594968/,31 days 00:00:00
+460,Ms. Marvel,2015,19,Issue,2017-08-31,Comicvine,86114,601798,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-601798/,30 days 00:00:00
+461,Ms. Marvel,2015,20,Issue,2017-09-30,Comicvine,86114,609353,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-609353/,31 days 00:00:00
+462,Ms. Marvel,2015,21,Issue,2017-10-31,Comicvine,86114,613797,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-613797/,30 days 00:00:00
+463,Ms. Marvel,2015,22,Issue,2017-11-30,Comicvine,86114,621672,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-621672/,122 days 00:00:00
+464,Rocket,2017,1,Issue,2017-07-31,Comicvine,101410,594970,Rocket,2017, ,https://comicvine.gamespot.com/rocket-1-the-blue-river-score-part-1-the-damsel/4000-594970/,31 days 00:00:00
+465,Rocket,2017,2,Issue,2017-08-31,Comicvine,101410,599871,Rocket,2017, ,https://comicvine.gamespot.com/rocket-2-the-blue-river-score-part-2-nobody-runs-f/4000-599871/,30 days 00:00:00
+466,Rocket,2017,3,Issue,2017-09-30,Comicvine,101410,608253,Rocket,2017, ,https://comicvine.gamespot.com/rocket-3-the-blue-river-score-part-3-break-out/4000-608253/,31 days 00:00:00
+467,Rocket,2017,4,Issue,2017-10-31,Comicvine,101410,613800,Rocket,2017, ,https://comicvine.gamespot.com/rocket-4-the-blue-river-score-part-4-dirty-money/4000-613800/,30 days 00:00:00
+468,Rocket,2017,5,Issue,2017-11-30,Comicvine,101410,621674,Rocket,2017, ,https://comicvine.gamespot.com/rocket-5-the-blue-river-score-part-5-plunder-squad/4000-621674/,31 days 00:00:00
+469,Rocket,2017,6,Issue,2017-12-31,Comicvine,101410,628589,Rocket,2017, ,https://comicvine.gamespot.com/rocket-6-the-blue-river-score-part-6-the-mourner/4000-628589/,184 days 00:00:00
+470,Deadpool vs. The Punisher,2017,1,Issue,2017-06-30,Comicvine,100691,591754,Deadpool vs. The Punisher,2017, ,https://comicvine.gamespot.com/deadpool-vs-the-punisher-1-bullet-to-the-brain/4000-591754/,0 days 00:00:00
+471,Deadpool vs. The Punisher,2017,2,Issue,2017-06-30,Comicvine,100691,593257,Deadpool vs. The Punisher,2017, ,https://comicvine.gamespot.com/deadpool-vs-the-punisher-2/4000-593257/,31 days 00:00:00
+472,Deadpool vs. The Punisher,2017,3,Issue,2017-07-31,Comicvine,100691,595687,Deadpool vs. The Punisher,2017, ,https://comicvine.gamespot.com/deadpool-vs-the-punisher-3/4000-595687/,0 days 00:00:00
+473,Deadpool vs. The Punisher,2017,4,Issue,2017-07-31,Comicvine,100691,598371,Deadpool vs. The Punisher,2017, ,https://comicvine.gamespot.com/deadpool-vs-the-punisher-4/4000-598371/,31 days 00:00:00
+474,Deadpool vs. The Punisher,2017,5,Issue,2017-08-31,Comicvine,100691,605109,Deadpool vs. The Punisher,2017, ,https://comicvine.gamespot.com/deadpool-vs-the-punisher-5/4000-605109/,123 days 00:00:00
+475,Doctor Strange and the Sorcerers Supreme,2016,5,Issue,2017-04-30,Comicvine,95211,580749,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-5/4000-580749/,31 days 00:00:00
+476,Doctor Strange and the Sorcerers Supreme,2016,6,Issue,2017-05-31,Comicvine,95211,585078,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-6/4000-585078/,30 days 00:00:00
+477,Doctor Strange and the Sorcerers Supreme,2016,7,Issue,2017-06-30,Comicvine,95211,591756,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-7/4000-591756/,31 days 00:00:00
+478,Doctor Strange and the Sorcerers Supreme,2016,8,Issue,2017-07-31,Comicvine,95211,597189,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-8/4000-597189/,31 days 00:00:00
+479,Doctor Strange and the Sorcerers Supreme,2016,9,Issue,2017-08-31,Comicvine,95211,605111,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-9/4000-605111/,30 days 00:00:00
+480,Doctor Strange and the Sorcerers Supreme,2016,10,Issue,2017-09-30,Comicvine,95211,608243,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-10/4000-608243/,31 days 00:00:00
+481,Doctor Strange and the Sorcerers Supreme,2016,11,Issue,2017-10-31,Comicvine,95211,617841,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-11/4000-617841/,30 days 00:00:00
+482,Doctor Strange and the Sorcerers Supreme,2016,12,Issue,2017-11-30,Comicvine,95211,621663,Doctor Strange and the Sorcerers Supreme,2016, ,https://comicvine.gamespot.com/doctor-strange-and-the-sorcerers-supreme-12/4000-621663/,91 days 00:00:00
+483,Unbeatable Squirrel Girl,2015,21,Issue,2017-08-31,Comicvine,85601,601806,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-21/4000-601806/,30 days 00:00:00
+484,Unbeatable Squirrel Girl,2015,22,Issue,2017-09-30,Comicvine,85601,608261,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-22/4000-608261/,31 days 00:00:00
+485,Unbeatable Squirrel Girl,2015,23,Issue,2017-10-31,Comicvine,85601,613808,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-23/4000-613808/,30 days 00:00:00
+486,Unbeatable Squirrel Girl,2015,24,Issue,2017-11-30,Comicvine,85601,621680,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-24/4000-621680/,31 days 00:00:00
+487,Unbeatable Squirrel Girl,2015,25,Issue,2017-12-31,Comicvine,85601,628596,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-25/4000-628596/,184 days 00:00:00
+488,Ben Reilly: Scarlet Spider,2017,1,Issue,2017-06-30,Comicvine,100966,593250,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-1/4000-593250/,31 days 00:00:00
+489,Ben Reilly: Scarlet Spider,2017,2,Issue,2017-07-31,Comicvine,100966,597184,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-2/4000-597184/,31 days 00:00:00
+490,Ben Reilly: Scarlet Spider,2017,3,Issue,2017-08-31,Comicvine,100966,601786,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-3/4000-601786/,0 days 00:00:00
+491,Ben Reilly: Scarlet Spider,2017,4,Issue,2017-08-31,Comicvine,100966,605106,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-4/4000-605106/,30 days 00:00:00
+492,Ben Reilly: Scarlet Spider,2017,5,Issue,2017-09-30,Comicvine,100966,610517,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-5/4000-610517/,31 days 00:00:00
+493,Ben Reilly: Scarlet Spider,2017,6,Issue,2017-10-31,Comicvine,100966,616184,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-6/4000-616184/,30 days 00:00:00
+494,Ben Reilly: Scarlet Spider,2017,7,Issue,2017-11-30,Comicvine,100966,621658,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-7/4000-621658/,153 days 00:00:00
+495,Hawkeye,2017,5,Issue,2017-06-30,Comicvine,96661,590794,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-590794/,31 days 00:00:00
+496,Hawkeye,2017,6,Issue,2017-07-31,Comicvine,96661,594112,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-594112/,31 days 00:00:00
+497,Hawkeye,2017,7,Issue,2017-08-31,Comicvine,96661,599864,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-599864/,30 days 00:00:00
+498,Hawkeye,2017,8,Issue,2017-09-30,Comicvine,96661,606626,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-606626/,31 days 00:00:00
+499,Hawkeye,2017,9,Issue,2017-10-31,Comicvine,96661,612039,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-612039/,30 days 00:00:00
+500,Hawkeye,2017,10,Issue,2017-11-30,Comicvine,96661,619623,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-619623/,31 days 00:00:00
+501,Hawkeye,2017,11,Issue,2017-12-31,Comicvine,96661,626282,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-626282/,31 days 00:00:00
+502,Hawkeye,2017,12,Issue,2018-01-31,Comicvine,96661,638597,Hawkeye,2016, ,https://comicvine.gamespot.com/issue/4000-638597/,215 days 00:00:00
+503,Monsters Unleashed,2017,1,Issue,2017-06-30,Comicvine,100829,592601,Monsters Unleashed,2017, ,https://comicvine.gamespot.com/monsters-unleashed-1/4000-592601/,31 days 00:00:00
+504,Monsters Unleashed,2017,2,Issue,2017-07-31,Comicvine,100829,595695,Monsters Unleashed,2017, ,https://comicvine.gamespot.com/monsters-unleashed-2/4000-595695/,31 days 00:00:00
+505,Monsters Unleashed,2017,3,Issue,2017-08-31,Comicvine,100829,603129,Monsters Unleashed,2017, ,https://comicvine.gamespot.com/monsters-unleashed-3/4000-603129/,30 days 00:00:00
+506,Monsters Unleashed,2017,4,Issue,2017-09-30,Comicvine,100829,609352,Monsters Unleashed,2017, ,https://comicvine.gamespot.com/monsters-unleashed-4/4000-609352/,31 days 00:00:00
+507,Monsters Unleashed,2017,5,Issue,2017-10-31,Comicvine,100829,615026,Monsters Unleashed,2017, ,https://comicvine.gamespot.com/monsters-unleashed-5/4000-615026/,245 days 00:00:00
+508,Uncanny Avengers,2015,18,Issue,2017-02-28,Comicvine,85318,571692,Uncanny Avengers,2015, ,https://comicvine.gamespot.com/uncanny-avengers-18-never-gonna-give-you-up/4000-571692/,31 days 00:00:00
+509,Uncanny Avengers,2015,19,Issue,2017-03-31,Comicvine,85318,575886,Uncanny Avengers,2015, ,https://comicvine.gamespot.com/uncanny-avengers-19-lights-out/4000-575886/,30 days 00:00:00
+510,Uncanny Avengers,2015,20,Issue,2017-04-30,Comicvine,85318,582549,Uncanny Avengers,2015, ,https://comicvine.gamespot.com/uncanny-avengers-20-as-the-world-burns/4000-582549/,31 days 00:00:00
+511,Uncanny Avengers,2015,21,Issue,2017-05-31,Comicvine,85318,587421,Uncanny Avengers,2015, ,https://comicvine.gamespot.com/uncanny-avengers-21-maximum-effort/4000-587421/,30 days 00:00:00
+512,Uncanny Avengers,2015,22,Issue,2017-06-30,Comicvine,85318,590810,Uncanny Avengers,2015, ,https://comicvine.gamespot.com/uncanny-avengers-22-rogue-won/4000-590810/,31 days 00:00:00
+513,Uncanny Avengers,2015,23,Issue,2017-07-31,Comicvine,85318,594977,Uncanny Avengers,2015, ,https://comicvine.gamespot.com/uncanny-avengers-23-coda/4000-594977/,0 days 00:00:00
+514,Cable,2017,1,Issue,2017-07-31,Comicvine,101767,598367,Cable,2017, ,https://comicvine.gamespot.com/cable-1-conquest-chapter-one/4000-598367/,31 days 00:00:00
+515,Cable,2017,2,Issue,2017-08-31,Comicvine,101767,605108,Cable,2017, ,https://comicvine.gamespot.com/cable-2-conquest-chapter-two/4000-605108/,30 days 00:00:00
+516,Cable,2017,3,Issue,2017-09-30,Comicvine,101767,610519,Cable,2017, ,https://comicvine.gamespot.com/cable-3-conquest-chapter-three/4000-610519/,31 days 00:00:00
+517,Cable,2017,4,Issue,2017-10-31,Comicvine,101767,616185,Cable,2017, ,https://comicvine.gamespot.com/cable-4-conquest-chapter-four/4000-616185/,30 days 00:00:00
+518,Cable,2017,5,Issue,2017-11-30,Comicvine,101767,625302,Cable,2017, ,https://comicvine.gamespot.com/cable-5-conquest-conclusion/4000-625302/,122 days 00:00:00
+519,All-New Guardians of the Galaxy FCBD,2017,1,Issue,2017-07-31,Comicvine,101264,594539,Free Comic Book Day 2017 (All-New Guardians of the Galaxy),2017, ,https://comicvine.gamespot.com/issue/4000-594539/,0 days 00:00:00
+520,All-New Guardians of the Galaxy,2017,1,Issue,2017-07-31,Comicvine,101158,594103,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-1-smash-and-grab/4000-594103/,0 days 00:00:00
+521,All-New Guardians of the Galaxy,2017,2,Issue,2017-07-31,Comicvine,101158,597183,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-2-been-caught-stea/4000-597183/,31 days 00:00:00
+522,All-New Guardians of the Galaxy,2017,3,Issue,2017-08-31,Comicvine,101158,599854,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-3-includere/4000-599854/,0 days 00:00:00
+523,All-New Guardians of the Galaxy,2017,4,Issue,2017-08-31,Comicvine,101158,603115,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-4-the-trees/4000-603115/,31 days 00:00:00
+524,I Am Groot,2017,1,Issue,2017-07-31,Comicvine,101616,597193,I Am Groot,2017, ,https://comicvine.gamespot.com/i-am-groot-1-the-forgotten-door-part-1/4000-597193/,31 days 00:00:00
+525,I Am Groot,2017,2,Issue,2017-08-31,Comicvine,101616,605118,I Am Groot,2017, ,https://comicvine.gamespot.com/i-am-groot-2-the-forgotten-door-part-2/4000-605118/,30 days 00:00:00
+526,I Am Groot,2017,3,Issue,2017-09-30,Comicvine,101616,610526,I Am Groot,2017, ,https://comicvine.gamespot.com/i-am-groot-3-the-forgotten-door-part-3/4000-610526/,31 days 00:00:00
+527,I Am Groot,2017,4,Issue,2017-10-31,Comicvine,101616,616193,I Am Groot,2017, ,https://comicvine.gamespot.com/i-am-groot-4-the-forgotten-door-part-4/4000-616193/,30 days 00:00:00
+528,I Am Groot,2017,5,Issue,2017-11-30,Comicvine,101616,625309,I Am Groot,2017, ,https://comicvine.gamespot.com/i-am-groot-5-the-forgotten-door-part-5/4000-625309/,61 days 00:00:00
+529,All-New Guardians of the Galaxy,2017,5,Issue,2017-09-30,Comicvine,101158,606615,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-5-across-the-unive/4000-606615/,0 days 00:00:00
+530,All-New Guardians of the Galaxy,2017,6,Issue,2017-09-30,Comicvine,101158,609334,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-6-beyond-electric-/4000-609334/,31 days 00:00:00
+531,All-New Guardians of the Galaxy,2017,7,Issue,2017-10-31,Comicvine,101158,612030,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-7-the-horns-of-doo/4000-612030/,0 days 00:00:00
+532,All-New Guardians of the Galaxy,2017,8,Issue,2017-10-31,Comicvine,101158,615013,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-8-robbin-and-steal/4000-615013/,30 days 00:00:00
+533,All-New Guardians of the Galaxy,2017,9,Issue,2017-11-30,Comicvine,101158,619615,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-9-shattered/4000-619615/,0 days 00:00:00
+534,All-New Guardians of the Galaxy,2017,10,Issue,2017-11-30,Comicvine,101158,622931,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-10-the-lamb-lies-d/4000-622931/,31 days 00:00:00
+535,All-New Guardians of the Galaxy,2017,11,Issue,2017-12-31,Comicvine,101158,626274,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-11-highway-patrolm/4000-626274/,122 days 00:00:00
+536,Daredevil,2016,21,Issue,2017-08-31,Comicvine,86343,599862,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-599862/,0 days 00:00:00
+537,Daredevil,2016,22,Issue,2017-08-31,Comicvine,86343,603119,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-603119/,30 days 00:00:00
+538,Daredevil,2016,23,Issue,2017-09-30,Comicvine,86343,606622,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-606622/,0 days 00:00:00
+539,Daredevil,2016,24,Issue,2017-09-30,Comicvine,86343,609342,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-609342/,31 days 00:00:00
+540,Daredevil,2016,25,Issue,2017-10-31,Comicvine,86343,616186,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-616186/,31 days 00:00:00
+541,Spider-Man/Deadpool,2016,19,Issue,2017-09-30,Comicvine,87182,606637,Spider-Man/Deadpool,2016, ,https://comicvine.gamespot.com/spider-mandeadpool-19-no-laughing-matter/4000-606637/,31 days 00:00:00
+542,Spider-Man/Deadpool,2016,20,Issue,2017-10-31,Comicvine,87182,612051,Spider-Man/Deadpool,2016, ,https://comicvine.gamespot.com/spider-mandeadpool-20-no-laughing-matter-part-two/4000-612051/,30 days 00:00:00
+543,Spider-Man/Deadpool,2016,21,Issue,2017-11-30,Comicvine,87182,619637,Spider-Man/Deadpool,2016, ,https://comicvine.gamespot.com/spider-mandeadpool-21-one-night-in-madripoor-makes/4000-619637/,31 days 00:00:00
+544,Spider-Man/Deadpool,2016,22,Issue,2017-12-31,Comicvine,87182,626296,Spider-Man/Deadpool,2016, ,https://comicvine.gamespot.com/spider-mandeadpool-22-its-a-murder-murder-murder-m/4000-626296/,122 days 00:00:00
+545,Mighty Thor,2016,20,Issue,2017-08-31,Comicvine,86113,603128,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-603128/,30 days 00:00:00
+546,Mighty Thor,2016,21,Issue,2017-09-30,Comicvine,86113,609350,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-609350/,31 days 00:00:00
+547,Mighty Thor,2016,22,Issue,2017-10-31,Comicvine,86113,615025,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-615025/,30 days 00:00:00
+548,Mighty Thor,2016,23,Issue,2017-11-30,Comicvine,86113,625316,Mighty Thor,2015, ,https://comicvine.gamespot.com/issue/4000-625316/,153 days 00:00:00
+549,Jessica Jones,2016,7,Issue,2017-06-30,Comicvine,94643,590796,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-7/4000-590796/,31 days 00:00:00
+550,Jessica Jones,2016,8,Issue,2017-07-31,Comicvine,94643,594115,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-8/4000-594115/,31 days 00:00:00
+551,Jessica Jones,2016,9,Issue,2017-08-31,Comicvine,94643,599867,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-9/4000-599867/,30 days 00:00:00
+552,Jessica Jones,2016,10,Issue,2017-09-30,Comicvine,94643,606629,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-10/4000-606629/,31 days 00:00:00
+553,Jessica Jones,2016,11,Issue,2017-10-31,Comicvine,94643,612041,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-11/4000-612041/,30 days 00:00:00
+554,Jessica Jones,2016,12,Issue,2017-11-30,Comicvine,94643,619629,Jessica Jones,2016, ,https://comicvine.gamespot.com/jessica-jones-12/4000-619629/,153 days 00:00:00
+555,Amazing Spider-Man: Renew Your Vows,2017,6,Issue,2017-06-30,Comicvine,95572,591747,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-591747/,31 days 00:00:00
+556,Amazing Spider-Man: Renew Your Vows,2017,7,Issue,2017-07-31,Comicvine,95572,594956,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-594956/,31 days 00:00:00
+557,Amazing Spider-Man: Renew Your Vows,2017,8,Issue,2017-08-31,Comicvine,95572,601784,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-601784/,30 days 00:00:00
+558,Amazing Spider-Man: Renew Your Vows,2017,9,Issue,2017-09-30,Comicvine,95572,609335,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-609335/,31 days 00:00:00
+559,Amazing Spider-Man: Renew Your Vows,2017,10,Issue,2017-10-31,Comicvine,95572,615014,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-615014/,30 days 00:00:00
+560,Amazing Spider-Man: Renew Your Vows,2017,11,Issue,2017-11-30,Comicvine,95572,622932,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-622932/,31 days 00:00:00
+561,Amazing Spider-Man: Renew Your Vows,2017,12,Issue,2017-12-31,Comicvine,95572,628576,Amazing Spider-Man: Renew Your Vows,2016, ,https://comicvine.gamespot.com/issue/4000-628576/,153 days 00:00:00
+562,Spider-Gwen,2016,19,Issue,2017-07-31,Comicvine,85311,594122,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-594122/,0 days 00:00:00
+563,Spider-Gwen,2016,20,Issue,2017-07-31,Comicvine,85311,598386,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-598386/,31 days 00:00:00
+564,Spider-Gwen,2016,21,Issue,2017-08-31,Comicvine,85311,605128,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-605128/,30 days 00:00:00
+565,Spider-Gwen,2016,22,Issue,2017-09-30,Comicvine,85311,610536,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-610536/,31 days 00:00:00
+566,Spider-Gwen,2016,23,Issue,2017-10-31,Comicvine,85311,617850,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-617850/,30 days 00:00:00
+567,Spider-Gwen,2016,24,Issue,2017-11-30,Comicvine,85311,625323,Spider-Gwen,2017, ,https://comicvine.gamespot.com/issue/4000-625323/,122 days 00:00:00
+568,Unbelievable Gwenpool,2016,16,Issue,2017-07-31,Comicvine,89627,598390,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-16/4000-598390/,31 days 00:00:00
+569,Unbelievable Gwenpool,2016,17,Issue,2017-08-31,Comicvine,89627,601807,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-17-beyond-the-fourth-wal/4000-601807/,30 days 00:00:00
+570,Unbelievable Gwenpool,2016,18,Issue,2017-09-30,Comicvine,89627,610539,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-18/4000-610539/,31 days 00:00:00
+571,Unbelievable Gwenpool,2016,19,Issue,2017-10-31,Comicvine,89627,615037,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-19/4000-615037/,30 days 00:00:00
+572,Unbelievable Gwenpool,2016,20,Issue,2017-11-30,Comicvine,89627,621681,The Unbelievable Gwenpool,2016, ,https://comicvine.gamespot.com/the-unbelievable-gwenpool-20/4000-621681/,122 days 00:00:00
+573,Totally Awesome Hulk,2016,19,Issue,2017-07-31,Comicvine,86408,597204,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-597204/,31 days 00:00:00
+574,Weapon X,2017,4,Issue,2017-08-31,Comicvine,100709,601812,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-4-weapons-of-mutant-destruction-prelude/4000-601812/,0 days 00:00:00
+575,Weapons of Mutant Destruction: Alpha,2017,1,Issue,2017-08-31,Comicvine,102287,603148,Weapons of Mutant Destruction: Alpha,2017, ,https://comicvine.gamespot.com/weapons-of-mutant-destruction-alpha-1-weapons-of-m/4000-603148/,0 days 00:00:00
+576,Totally Awesome Hulk,2016,20,Issue,2017-08-31,Comicvine,86408,605135,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-605135/,30 days 00:00:00
+577,Weapon X,2017,5,Issue,2017-09-30,Comicvine,100709,608265,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-5-weapons-of-mutant-destruction-part-3/4000-608265/,0 days 00:00:00
+578,Totally Awesome Hulk,2016,21,Issue,2017-09-30,Comicvine,86408,609364,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-609364/,0 days 00:00:00
+579,Weapon X,2017,6,Issue,2017-09-30,Comicvine,100709,610542,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-6-weapons-of-mutant-destruction-part-5/4000-610542/,31 days 00:00:00
+580,Totally Awesome Hulk,2016,22,Issue,2017-10-31,Comicvine,86408,615034,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-615034/,184 days 00:00:00
+581,Captain America: Steve Rogers,2016,11,Issue,2017-04-30,Comicvine,90698,581549,Captain America: Steve Rogers,2016, ,https://comicvine.gamespot.com/captain-america-steve-rogers-11/4000-581549/,0 days 00:00:00
+582,Captain America: Steve Rogers,2016,12,Issue,2017-04-30,Comicvine,90698,582519,Captain America: Steve Rogers,2016, ,https://comicvine.gamespot.com/captain-america-steve-rogers-12/4000-582519/,31 days 00:00:00
+583,Captain America: Steve Rogers,2016,13,Issue,2017-05-31,Comicvine,90698,585075,Captain America: Steve Rogers,2016, ,https://comicvine.gamespot.com/captain-america-steve-rogers-13/4000-585075/,0 days 00:00:00
+584,Captain America: Steve Rogers,2016,14,Issue,2017-05-31,Comicvine,90698,588557,Captain America: Steve Rogers,2016, ,https://comicvine.gamespot.com/captain-america-steve-rogers-14/4000-588557/,61 days 00:00:00
+585,Captain America: Sam Wilson,2015,18,Issue,2017-03-31,Comicvine,85274,576618,Captain America: Sam Wilson,2015, ,https://comicvine.gamespot.com/captain-america-sam-wilson-18/4000-576618/,30 days 00:00:00
+586,Captain America: Sam Wilson,2015,19,Issue,2017-04-30,Comicvine,85274,581548,Captain America: Sam Wilson,2015, ,https://comicvine.gamespot.com/captain-america-sam-wilson-19/4000-581548/,31 days 00:00:00
+587,Captain America: Sam Wilson,2015,20,Issue,2017-05-31,Comicvine,85274,587402,Captain America: Sam Wilson,2015, ,https://comicvine.gamespot.com/captain-america-sam-wilson-20/4000-587402/,120 days 00:00:00
+588,Ultimates 2,2017,1,Issue,2017-01-31,Comicvine,95843,558977,Ultimates 2,2016, ,https://comicvine.gamespot.com/issue/4000-558977/,28 days 00:00:00
+589,Ultimates 2,2017,2,Issue,2017-02-28,Comicvine,95843,569351,Ultimates 2,2016, ,https://comicvine.gamespot.com/issue/4000-569351/,31 days 00:00:00
+590,Ultimates 2,2017,3,Issue,2017-03-31,Comicvine,95843,576639,Ultimates 2,2016, ,https://comicvine.gamespot.com/issue/4000-576639/,30 days 00:00:00
+591,Ultimates 2,2017,4,Issue,2017-04-30,Comicvine,95843,581571,Ultimates 2,2016, ,https://comicvine.gamespot.com/issue/4000-581571/,31 days 00:00:00
+592,Ultimates 2,2017,5,Issue,2017-05-31,Comicvine,95843,588575,Ultimates 2,2016, ,https://comicvine.gamespot.com/issue/4000-588575/,30 days 00:00:00
+593,Ultimates 2,2017,6,Issue,2017-06-30,Comicvine,95843,593275,Ultimates 2,2016, ,https://comicvine.gamespot.com/issue/4000-593275/,61 days 00:00:00
+594,Thunderbolts,2016,10,Issue,2017-04-30,Comicvine,90125,582548,Thunderbolts,2016, ,https://comicvine.gamespot.com/thunderbolts-10-like-lightning-a-prologue-return-o/4000-582548/,31 days 00:00:00
+595,Thunderbolts,2016,11,Issue,2017-05-31,Comicvine,90125,589840,Thunderbolts,2016, ,https://comicvine.gamespot.com/thunderbolts-11-return-of-the-masters-part-two-cha/4000-589840/,214 days 00:00:00
+596,Secret Warriors,2017,7,Issue,2017-12-31,Comicvine,101411,630532,Secret Warriors,2017, ,https://comicvine.gamespot.com/secret-warriors-7-if-trouble-must-come-part-two/4000-630532/,31 days 00:00:00
+597,U.S.Avengers,2017,10,Issue,2017-11-30,Comicvine,97772,622958,U.S.Avengers,2017, ,https://comicvine.gamespot.com/usavengers-10-same-as-the-old-boss/4000-622958/,0 days 00:00:00
+598,Avengers,2016,11,Issue,2017-11-30,Comicvine,95402,622934,Avengers,2016, ,https://comicvine.gamespot.com/avengers-11/4000-622934/,0 days 00:00:00
+599,Champions,2016,12,Issue,2017-11-30,Comicvine,94612,619618,Champions,2016, ,https://comicvine.gamespot.com/champions-12/4000-619618/,91 days 00:00:00
+600,Ultimates 2,2017,8,Issue,2017-08-31,Comicvine,95843,603146,Ultimates 2,2016, ,https://comicvine.gamespot.com/issue/4000-603146/,30 days 00:00:00
+601,Ultimates 2,2017,9,Issue,2017-09-30,Comicvine,95843,609367,Ultimates 2,2016, ,https://comicvine.gamespot.com/issue/4000-609367/,31 days 00:00:00
+602,Ultimates 2,2016,100,Issue,2017-10-31,Comicvine,95843,615036,Ultimates 2,2016, ,https://comicvine.gamespot.com/ultimates-2-100-garden-of-ideas/4000-615036/,30 days 00:00:00
+603,Uncanny Avengers,2015,27,Issue,2017-11-30,Comicvine,85318,621682,Uncanny Avengers,2015, ,https://comicvine.gamespot.com/uncanny-avengers-27-push-and-pull/4000-621682/,0 days 00:00:00
+604,Generations: Sam Wilson Captain America & Steve Rogers Captain America,2017,1,Issue,2017-11-30,Comicvine,104613,625307,Generations: Sam Wilson: Captain America & Steve Rogers: Captain America,2017, ,https://comicvine.gamespot.com/generations-sam-wilson-captain-america-and-steve-r/4000-625307/,30 days 00:00:00
+605,Generations: Wolverine 7 All-New Wolverine,2017,1,Issue,2017-10-31,Comicvine,103514,615019,Generations: Wolverine & All-New Wolverine,2017, ,https://comicvine.gamespot.com/issue/4000-615019/,0 days 00:00:00
+606,Generations: The Unworthy Thor & The Mighty Thor,2017,1,Issue,2017-10-31,Comicvine,103605,616191,Generations: The Unworthy Thor & The Mighty Thor,2017, ,https://comicvine.gamespot.com/generations-the-unworthy-thor-and-the-mighty-thor-/4000-616191/,0 days 00:00:00
+607,Generations: Hawkeye & Hawkeye,2017,1,Issue,2017-10-31,Comicvine,103816,617842,Generations: Hawkeye & Hawkeye,2017, ,https://comicvine.gamespot.com/generations-hawkeye-and-hawkeye-1-the-vanishing-po/4000-617842/,30 days 00:00:00
+608,Generations: Iron Man & Ironheart,2017,1,Issue,2017-11-30,Comicvine,104054,619621,Generations: Iron Man & Ironheart,2017, ,https://comicvine.gamespot.com/generations-iron-man-and-ironheart-1/4000-619621/,0 days 00:00:00
+609,Generations: Captain Marvel & Captain Mar-Vell,2017,1,Issue,2017-11-30,Comicvine,104284,621665,Generations: Captain Marvel & Captain Mar-vell,2017, ,https://comicvine.gamespot.com/generations-captain-marvel-and-captain-mar-vell-1/4000-621665/,0 days 00:00:00
+610,Generations: Ms. Marvel & Ms. Marvel,2017,1,Issue,2017-11-30,Comicvine,104475,622939,Generations: Ms. Marvel & Ms. Marvel,2017, ,https://comicvine.gamespot.com/generations-ms-marvel-and-ms-marvel-1/4000-622939/,0 days 00:00:00
+611,Generations: Miles Morales Spider-Man & Peter Parker Spider-Man,2017,1,Issue,2017-11-30,Comicvine,104612,625306,Generations: Miles Morales: Spider-Man & Peter Parker: Spider-Man,2017, ,https://comicvine.gamespot.com/generations-miles-morales-spider-man-and-peter-par/4000-625306/,30 days 00:00:00
+612,Generations: Banner Hulk & The Totally Awesome Hulk,2017,1,Issue,2017-10-31,Comicvine,103234,612038,Generations: Banner Hulk & Totally Awesome Hulk,2017, ,https://comicvine.gamespot.com/generations-banner-hulk-and-totally-awesome-hulk-1/4000-612038/,0 days 00:00:00
+613,Generations: Phoenix & Jean Grey,2017,1,Issue,2017-10-31,Comicvine,103386,613790,Generations: Phoenix & Jean Grey,2017, ,https://comicvine.gamespot.com/generations-phoenix-and-jean-grey-1/4000-613790/,31 days 00:00:00
+614,Deadpool Kills the Marvel Universe Again,2017,1,Issue,2017-09-30,Comicvine,102583,606623,Deadpool Kills The Marvel Universe Again,2017, ,https://comicvine.gamespot.com/deadpool-kills-the-marvel-universe-again-1/4000-606623/,0 days 00:00:00
+615,Deadpool Kills the Marvel Universe Again,2017,2,Issue,2017-09-30,Comicvine,102583,609345,Deadpool Kills The Marvel Universe Again,2017, ,https://comicvine.gamespot.com/deadpool-kills-the-marvel-universe-again-2-part-ii/4000-609345/,31 days 00:00:00
+616,Deadpool Kills the Marvel Universe Again,2017,3,Issue,2017-10-31,Comicvine,102583,613787,Deadpool Kills The Marvel Universe Again,2017, ,https://comicvine.gamespot.com/deadpool-kills-the-marvel-universe-again-3-part-ii/4000-613787/,0 days 00:00:00
+617,Deadpool Kills the Marvel Universe Again,2017,4,Issue,2017-10-31,Comicvine,102583,616187,Deadpool Kills The Marvel Universe Again,2017, ,https://comicvine.gamespot.com/deadpool-kills-the-marvel-universe-again-4-part-iv/4000-616187/,30 days 00:00:00
+618,Deadpool Kills the Marvel Universe Again,2017,5,Issue,2017-11-30,Comicvine,102583,625304,Deadpool Kills The Marvel Universe Again,2017, ,https://comicvine.gamespot.com/deadpool-kills-the-marvel-universe-again-5-part-v/4000-625304/,61 days 00:00:00
+619,Spider-Men II,2017,1,Issue,2017-09-30,Comicvine,102777,608256,Spider-Men II,2017, ,https://comicvine.gamespot.com/spider-men-ii-1-part-one/4000-608256/,31 days 00:00:00
+620,Spider-Men II,2017,2,Issue,2017-10-31,Comicvine,102777,615031,Spider-Men II,2017, ,https://comicvine.gamespot.com/spider-men-ii-2-part-two/4000-615031/,30 days 00:00:00
+621,Spider-Men II,2017,3,Issue,2017-11-30,Comicvine,102777,622951,Spider-Men II,2017, ,https://comicvine.gamespot.com/spider-men-ii-3-part-three/4000-622951/,62 days 00:00:00
+622,Spider-Men II,2017,4,Issue,2018-01-31,Comicvine,102777,638607,Spider-Men II,2017, ,https://comicvine.gamespot.com/spider-men-ii-4-part-four/4000-638607/,28 days 00:00:00
+623,Spider-Men II,2017,5,Issue,2018-02-28,Comicvine,102777,649744,Spider-Men II,2017, ,https://comicvine.gamespot.com/spider-men-ii-5-part-five/4000-649744/,59 days 00:00:00
+624,Thor: Where Walk the Frost Giants,2017,1,Issue,2017-12-31,Comicvine,105560,632507,Thor: Where Walk The Frost Giants,2017, ,https://comicvine.gamespot.com/thor-where-walk-the-frost-giants-1-untitled-the-mi/4000-632507/,122 days 00:00:00
+625,Peter Parker: The Spectacular Spider-Man,2017,1,Issue,2017-08-31,Comicvine,102272,603132,Peter Parker: The Spectacular Spider-Man,2017, ,https://comicvine.gamespot.com/peter-parker-the-spectacular-spider-man-1-untitled/4000-603132/,30 days 00:00:00
+626,Peter Parker: The Spectacular Spider-Man,2017,2,Issue,2017-09-30,Comicvine,102272,609356,Peter Parker: The Spectacular Spider-Man,2017, ,https://comicvine.gamespot.com/peter-parker-the-spectacular-spider-man-2-sister-a/4000-609356/,31 days 00:00:00
+627,Peter Parker: The Spectacular Spider-Man,2017,3,Issue,2017-10-31,Comicvine,102272,616198,Peter Parker: The Spectacular Spider-Man,2017, ,https://comicvine.gamespot.com/peter-parker-the-spectacular-spider-man-3-fisk-y-b/4000-616198/,30 days 00:00:00
+628,Peter Parker: The Spectacular Spider-Man,2017,4,Issue,2017-11-30,Comicvine,102272,622948,Peter Parker: The Spectacular Spider-Man,2017, ,https://comicvine.gamespot.com/peter-parker-the-spectacular-spider-man-4-tinkerer/4000-622948/,31 days 00:00:00
+629,Peter Parker: The Spectacular Spider-Man,2017,5,Issue,2017-12-31,Comicvine,102272,630531,Peter Parker: The Spectacular Spider-Man,2017, ,https://comicvine.gamespot.com/peter-parker-the-spectacular-spider-man-5-flight-r/4000-630531/,0 days 00:00:00
+630,All-New Guardians of the Galaxy,2017,12,Issue,2017-12-31,Comicvine,101158,630514,All-New Guardians of the Galaxy,2017, ,https://comicvine.gamespot.com/all-new-guardians-of-the-galaxy-12-we-said-hello-g/4000-630514/,153 days 00:00:00
+631,Luke Cage,2017,1,Issue,2017-07-31,Comicvine,101484,595692,Luke Cage,2017, ,https://comicvine.gamespot.com/luke-cage-1/4000-595692/,31 days 00:00:00
+632,Luke Cage,2017,2,Issue,2017-08-31,Comicvine,101484,603126,Luke Cage,2017, ,https://comicvine.gamespot.com/luke-cage-2/4000-603126/,30 days 00:00:00
+633,Luke Cage,2017,3,Issue,2017-09-30,Comicvine,101484,609348,Luke Cage,2017, ,https://comicvine.gamespot.com/luke-cage-3/4000-609348/,31 days 00:00:00
+634,Luke Cage,2017,4,Issue,2017-10-31,Comicvine,101484,615023,Luke Cage,2017, ,https://comicvine.gamespot.com/luke-cage-4/4000-615023/,30 days 00:00:00
+635,Luke Cage,2017,5,Issue,2017-11-30,Comicvine,101484,622945,Luke Cage,2017, ,https://comicvine.gamespot.com/luke-cage-5/4000-622945/,0 days 00:00:00
+636,Mighty Captain Marvel,2017,9,Issue,2017-11-30,Comicvine,97062,625315,The Mighty Captain Marvel,2016, ,https://comicvine.gamespot.com/issue/4000-625315/,91 days 00:00:00
+637,Hulk,2017,7,Issue,2017-08-31,Comicvine,97422,601794,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-601794/,30 days 00:00:00
+638,Hulk,2017,8,Issue,2017-09-30,Comicvine,97422,608246,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-608246/,31 days 00:00:00
+639,Hulk,2017,9,Issue,2017-10-31,Comicvine,97422,613791,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-613791/,30 days 00:00:00
+640,Hulk,2017,10,Issue,2017-11-30,Comicvine,97422,621666,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-621666/,31 days 00:00:00
+641,Hulk,2017,11,Issue,2017-12-31,Comicvine,97422,628581,Hulk,2016, ,https://comicvine.gamespot.com/issue/4000-628581/,61 days 00:00:00
+642,X-Men: Blue,2017,10,Issue,2017-10-31,Comicvine,100712,617858,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-10-toil-and-trouble-part-1/4000-617858/,30 days 00:00:00
+643,X-Men: Blue,2017,11,Issue,2017-11-30,Comicvine,100712,621686,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-11-toil-and-trouble-part-2/4000-621686/,0 days 00:00:00
+644,X-Men: Blue,2017,12,Issue,2017-11-30,Comicvine,100712,625333,X-Men: Blue,2017, ,https://comicvine.gamespot.com/x-men-blue-12-toil-and-trouble-part-3/4000-625333/,30 days 00:00:00
+645,X-Men: Gold,2017,9,Issue,2017-10-31,Comicvine,100603,612056,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-9-kitty-goes-to-washington-part-1/4000-612056/,0 days 00:00:00
+646,X-Men: Gold,2017,10,Issue,2017-10-31,Comicvine,100603,616206,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-10-enkane-part-1/4000-616206/,30 days 00:00:00
+647,X-Men: Gold,2017,11,Issue,2017-11-30,Comicvine,100603,619646,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-11-enkane-part-2/4000-619646/,0 days 00:00:00
+648,X-Men: Gold,2017,12,Issue,2017-11-30,Comicvine,100603,622961,X-Men: Gold,2017, ,https://comicvine.gamespot.com/x-men-gold-12-kologoth/4000-622961/,122 days 00:00:00
+649,Thanos,2017,7,Issue,2017-07-31,Comicvine,95750,598389,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-598389/,31 days 00:00:00
+650,Thanos,2017,8,Issue,2017-08-31,Comicvine,95750,601805,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-601805/,30 days 00:00:00
+651,Thanos,2017,9,Issue,2017-09-30,Comicvine,95750,610538,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-610538/,31 days 00:00:00
+652,Thanos,2017,10,Issue,2017-10-31,Comicvine,95750,617855,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-617855/,30 days 00:00:00
+653,Thanos,2017,11,Issue,2017-11-30,Comicvine,95750,625328,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-625328/,31 days 00:00:00
+654,Thanos,2017,12,Issue,2017-12-31,Comicvine,95750,632506,Thanos,2016, ,https://comicvine.gamespot.com/issue/4000-632506/,31 days 00:00:00
+655,Spider-Man,2016,20,Issue,2017-11-30,Comicvine,87820,619636,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-20/4000-619636/,31 days 00:00:00
+656,Spider-Man,2016,21,Issue,2017-12-31,Comicvine,87820,626295,Spider-Man,2016, ,https://comicvine.gamespot.com/spider-man-21/4000-626295/,31 days 00:00:00
+657,Daredevil,2016,26,Issue,2017-11-30,Comicvine,86343,619619,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-619619/,31 days 00:00:00
+658,Daredevil,2016,27,Issue,2017-12-31,Comicvine,86343,628577,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-628577/,0 days 00:00:00
+659,Daredevil,2016,28,Issue,2017-12-31,Comicvine,86343,632494,Daredevil,2016, ,https://comicvine.gamespot.com/issue/4000-632494/,31 days 00:00:00
+660,Unbeatable Squirrel Girl,2015,26,Issue,2018-01-31,Comicvine,85601,636387,The Unbeatable Squirrel Girl,2015, ,https://comicvine.gamespot.com/the-unbeatable-squirrel-girl-26/4000-636387/,123 days 00:00:00
+661,Astonishing X-Men,2017,1,Issue,2017-09-30,Comicvine,102882,609338,Astonishing X-Men,2017, ,https://comicvine.gamespot.com/astonishing-x-men-1-life-of-x-part-one/4000-609338/,31 days 00:00:00
+662,Astonishing X-Men,2017,2,Issue,2017-10-31,Comicvine,102882,615015,Astonishing X-Men,2017, ,https://comicvine.gamespot.com/astonishing-x-men-2-life-of-x-part-two/4000-615015/,30 days 00:00:00
+663,Astonishing X-Men,2017,3,Issue,2017-11-30,Comicvine,102882,619616,Astonishing X-Men,2017, ,https://comicvine.gamespot.com/astonishing-x-men-3-life-of-x-part-three/4000-619616/,31 days 00:00:00
+664,Astonishing X-Men,2017,4,Issue,2017-12-31,Comicvine,102882,626275,Astonishing X-Men,2017, ,https://comicvine.gamespot.com/astonishing-x-men-4-life-of-x-part-four/4000-626275/,31 days 00:00:00
+665,Astonishing X-Men,2017,5,Issue,2018-01-31,Comicvine,102882,634524,Astonishing X-Men,2017, ,https://comicvine.gamespot.com/astonishing-x-men-5-life-of-x-part-five/4000-634524/,28 days 00:00:00
+666,Astonishing X-Men,2017,6,Issue,2018-02-28,Comicvine,102882,644496,Astonishing X-Men,2017, ,https://comicvine.gamespot.com/astonishing-x-men-6-life-of-x-part-six/4000-644496/,90 days 00:00:00
+667,Totally Awesome Hulk,2016,23,Issue,2017-11-30,Comicvine,86408,622957,The Totally Awesome Hulk,2015, ,https://comicvine.gamespot.com/issue/4000-622957/,30 days 00:00:00
+668,Iron Fist,2017,6,Issue,2017-10-31,Comicvine,100082,612040,Iron Fist,2017, ,https://comicvine.gamespot.com/iron-fist-6/4000-612040/,30 days 00:00:00
+669,Iron Fist,2017,7,Issue,2017-11-30,Comicvine,100082,619627,Iron Fist,2017, ,https://comicvine.gamespot.com/iron-fist-7/4000-619627/,0 days 00:00:00
+670,Doctor Strange,2015,25,Issue,2017-11-30,Comicvine,85094,622937,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-25/4000-622937/,31 days 00:00:00
+671,Doctor Strange,2015,26,Issue,2017-12-31,Comicvine,85094,630520,Doctor Strange,2015, ,https://comicvine.gamespot.com/doctor-strange-26/4000-630520/,31 days 00:00:00
+672,Invincible Iron Man,2017,11,Issue,2017-11-30,Comicvine,95596,622941,Invincible Iron Man,2016, ,https://comicvine.gamespot.com/issue/4000-622941/,0 days 00:00:00
+673,Amazing Spider-Man,2015,32,Issue,2017-11-30,Comicvine,85076,621656,The Amazing Spider-Man,2015, ,https://comicvine.gamespot.com/the-amazing-spider-man-32-personal-demon/4000-621656/,31 days 00:00:00
+674,Ms. Marvel,2015,23,Issue,2017-12-31,Comicvine,86114,628588,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-628588/,31 days 00:00:00
+675,Ms. Marvel,2015,24,Issue,2018-01-31,Comicvine,86114,636378,Ms. Marvel,2015, ,https://comicvine.gamespot.com/issue/4000-636378/,92 days 00:00:00
+676,Weapon X,2017,7,Issue,2017-10-31,Comicvine,100709,616202,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-7-the-hunt-for-weapon-h-part-1/4000-616202/,30 days 00:00:00
+677,Weapon X,2017,8,Issue,2017-11-30,Comicvine,100709,621685,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-8-the-hunt-for-weapon-h-part-2/4000-621685/,31 days 00:00:00
+678,Weapon X,2017,9,Issue,2017-12-31,Comicvine,100709,628600,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-9-the-hunt-for-weapon-h-part-3/4000-628600/,0 days 00:00:00
+679,Weapon X,2017,10,Issue,2017-12-31,Comicvine,100709,632510,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-10-the-hunt-for-weapon-h-part-4/4000-632510/,31 days 00:00:00
+680,Weapon X,2017,11,Issue,2018-01-31,Comicvine,100709,638614,Weapon X,2017, ,https://comicvine.gamespot.com/weapon-x-11-the-hunt-for-weapon-h-conclusion/4000-638614/,123 days 00:00:00
+681,Immortal Iron Fists,2017,1,Issue,2017-09-30,Comicvine,103011,610017,The Immortal Iron Fists,2017, ,https://comicvine.gamespot.com/the-immortal-iron-fists-1/4000-610017/,31 days 00:00:00
+682,Immortal Iron Fists,2017,2,Issue,2017-10-31,Comicvine,103011,613792,The Immortal Iron Fists,2017, ,https://comicvine.gamespot.com/the-immortal-iron-fists-2/4000-613792/,0 days 00:00:00
+683,Immortal Iron Fists,2017,3,Issue,2017-10-31,Comicvine,103011,616195,The Immortal Iron Fists,2017, ,https://comicvine.gamespot.com/the-immortal-iron-fists-3/4000-616195/,30 days 00:00:00
+684,Immortal Iron Fists,2017,4,Issue,2017-11-30,Comicvine,103011,621667,The Immortal Iron Fists,2017, ,https://comicvine.gamespot.com/the-immortal-iron-fists-4/4000-621667/,0 days 00:00:00
+685,Immortal Iron Fists,2017,5,Issue,2017-11-30,Comicvine,103011,625310,The Immortal Iron Fists,2017, ,https://comicvine.gamespot.com/the-immortal-iron-fists-5/4000-625310/,31 days 00:00:00
+686,Immortal Iron Fists,2017,6,Issue,2017-12-31,Comicvine,103011,628582,The Immortal Iron Fists,2017, ,https://comicvine.gamespot.com/the-immortal-iron-fists-6/4000-628582/,184 days 00:00:00
+687,Black Panther,2016,13,Issue,2017-06-30,Comicvine,89350,593251,Black Panther,2016, ,https://comicvine.gamespot.com/black-panther-13-avengers-of-the-new-world-part-1/4000-593251/,31 days 00:00:00
+688,Black Panther,2016,14,Issue,2017-07-31,Comicvine,89350,597185,Black Panther,2016, ,https://comicvine.gamespot.com/black-panther-14-avengers-of-the-new-world-part-2/4000-597185/,31 days 00:00:00
+689,Black Panther,2016,15,Issue,2017-08-31,Comicvine,89350,605107,Black Panther,2016, ,https://comicvine.gamespot.com/black-panther-15-avengers-of-the-new-world-part-3/4000-605107/,30 days 00:00:00
+690,Black Panther,2016,16,Issue,2017-09-30,Comicvine,89350,610518,Black Panther,2016, ,https://comicvine.gamespot.com/black-panther-16-avengers-of-the-new-world-part-4/4000-610518/,31 days 00:00:00
+691,Black Panther,2016,17,Issue,2017-10-31,Comicvine,89350,617834,Black Panther,2016, ,https://comicvine.gamespot.com/black-panther-17-avengers-of-the-new-world-part-5/4000-617834/,30 days 00:00:00
+692,Black Panther,2016,18,Issue,2017-11-30,Comicvine,89350,625300,Black Panther,2016, ,https://comicvine.gamespot.com/black-panther-18-avengers-of-the-new-world-part-6/4000-625300/,91 days 00:00:00
+693,Defenders,2017,1,Issue,2017-08-31,Comicvine,102109,601792,The Defenders,2017, ,https://comicvine.gamespot.com/the-defenders-1/4000-601792/,0 days 00:00:00
+694,Defenders,2017,2,Issue,2017-08-31,Comicvine,102109,605110,The Defenders,2017, ,https://comicvine.gamespot.com/the-defenders-2/4000-605110/,30 days 00:00:00
+695,Defenders,2017,3,Issue,2017-09-30,Comicvine,102109,608242,The Defenders,2017, ,https://comicvine.gamespot.com/the-defenders-3/4000-608242/,31 days 00:00:00
+696,Defenders,2017,4,Issue,2017-10-31,Comicvine,102109,613788,The Defenders,2017, ,https://comicvine.gamespot.com/the-defenders-4/4000-613788/,30 days 00:00:00
+697,Defenders,2017,5,Issue,2017-11-30,Comicvine,102109,621662,The Defenders,2017, ,https://comicvine.gamespot.com/the-defenders-5/4000-621662/,30 days 00:00:00
+698,Generation X,2017,5,Issue,2017-10-31,Comicvine,101478,615020,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-5/4000-615020/,30 days 00:00:00
+699,Generation X,2017,6,Issue,2017-11-30,Comicvine,101478,619622,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-6/4000-619622/,31 days 00:00:00
+700,Generation X,2017,7,Issue,2017-12-31,Comicvine,101478,630521,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-7/4000-630521/,31 days 00:00:00
+701,Generation X,2017,8,Issue,2018-01-31,Comicvine,101478,636373,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-8/4000-636373/,0 days 00:00:00
+702,Generation X,2017,9,Issue,2018-01-31,Comicvine,101478,641404,Generation X,2017, ,https://comicvine.gamespot.com/generation-x-9/4000-641404/,62 days 00:00:00
+703,Monsters Unleashed,2017,6,Issue,2017-11-30,Comicvine,100829,622946,Monsters Unleashed,2017, ,https://comicvine.gamespot.com/monsters-unleashed-6/4000-622946/,62 days 00:00:00
+704,Peter Parker: The Spectacular Spider-Man,2017,6,Issue,2018-01-31,Comicvine,102272,634541,Peter Parker: The Spectacular Spider-Man,2017, ,https://comicvine.gamespot.com/peter-parker-the-spectacular-spider-man-6-my-dinne/4000-634541/,62 days 00:00:00
+705,Ben Reilly: Scarlet Spider,2017,8,Issue,2017-11-30,Comicvine,100966,625299,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-8/4000-625299/,31 days 00:00:00
+706,Ben Reilly: Scarlet Spider,2017,9,Issue,2017-12-31,Comicvine,100966,632490,Ben Reilly: Scarlet Spider,2017, ,https://comicvine.gamespot.com/ben-reilly-scarlet-spider-9/4000-632490/,61 days 00:00:00
+707,Jean Grey,2017,6,Issue,2017-10-31,Comicvine,101195,617845,Jean Grey,2017, ,https://comicvine.gamespot.com/jean-grey-6/4000-617845/,30 days 00:00:00
+708,Jean Grey,2017,7,Issue,2017-11-30,Comicvine,101195,622942,Jean Grey,2017, ,https://comicvine.gamespot.com/jean-grey-7/4000-622942/,0 days 00:00:00
