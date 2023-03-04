@@ -1,0 +1,841 @@
+,SeriesName,SeriesStartYear,IssueNum,IssueType,CoverDate,Name,SeriesID,IssueID,CV Series Name,CV Series Year,CV Cover Image,CV Issue URL,Days Between Issues
+1,Fantastic Four,1998,60,Issue,2002-10-31,Comicvine,6211,139074,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-60-inside-out/4000-139074/,1 days 00:00:00
+2,Fantastic Four,1998,61,Issue,2002-11-01,Comicvine,6211,139075,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-61-24-blocks-and-one-blockhead/4000-139075/,30 days 00:00:00
+3,Fantastic Four,1998,62,Issue,2002-12-01,Comicvine,6211,139076,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-62-sentient-part-1/4000-139076/,31 days 00:00:00
+4,Fantastic Four,1998,63,Issue,2003-01-01,Comicvine,6211,139077,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-63-sentient-part-2/4000-139077/,31 days 00:00:00
+5,Fantastic Four,1998,64,Issue,2003-02-01,Comicvine,6211,139078,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-64-sentient-part-3/4000-139078/,28 days 00:00:00
+6,Fantastic Four,1998,65,Issue,2003-03-01,Comicvine,6211,139079,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-65-small-stuff-part-1/4000-139079/,31 days 00:00:00
+7,Fantastic Four,1998,66,Issue,2003-04-01,Comicvine,6211,139080,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-66-big-stuff-part-2/4000-139080/,30 days 00:00:00
+8,Fantastic Four,1998,67,Issue,2003-05-01,Comicvine,6211,139081,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-67-under-her-skin/4000-139081/,31 days 00:00:00
+9,Fantastic Four,1998,68,Issue,2003-06-01,Comicvine,6211,139082,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-68-unthinkable-part-1/4000-139082/,30 days 00:00:00
+10,Fantastic Four,1998,69,Issue,2003-07-01,Comicvine,6211,139083,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-69-unthinkable-part-2/4000-139083/,31 days 00:00:00
+11,Fantastic Four,1998,70,Issue,2003-08-01,Comicvine,6211,139084,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-70-unthinkable-part-3/4000-139084/,31 days 00:00:00
+12,Fantastic Four,1998,500,Issue,2003-09-01,Comicvine,6211,139097,Fantastic Four,1998, ,https://comicvine.gamespot.com/fantastic-four-500-unthinkable-part-4/4000-139097/,0 days 00:00:00
+13,Fantastic Four,1988,500,Issue,2003-09-01,Comicvine,6211,139097,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139097/,30 days 00:00:00
+14,Fantastic Four,1988,501,Issue,2003-10-01,Comicvine,6211,139098,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139098/,14 days 00:00:00
+15,Fantastic Four,1988,502,Issue,2003-10-15,Comicvine,6211,139099,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139099/,17 days 00:00:00
+16,Fantastic Four,1988,503,Issue,2003-11-01,Comicvine,6211,139100,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139100/,30 days 00:00:00
+17,Fantastic Four,1988,504,Issue,2003-12-01,Comicvine,6211,139101,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139101/,0 days 00:00:00
+18,Fantastic Four,1988,505,Issue,2003-12-01,Comicvine,6211,139102,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139102/,31 days 00:00:00
+19,Fantastic Four,1988,506,Issue,2004-01-01,Comicvine,6211,139103,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139103/,14 days 00:00:00
+20,Fantastic Four,1988,507,Issue,2004-01-15,Comicvine,6211,139104,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139104/,17 days 00:00:00
+21,Fantastic Four,1988,508,Issue,2004-02-01,Comicvine,6211,139105,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139105/,29 days 00:00:00
+22,Fantastic Four,1988,509,Issue,2004-03-01,Comicvine,6211,120361,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-120361/,31 days 00:00:00
+23,Fantastic Four,1988,510,Issue,2004-04-01,Comicvine,6211,139106,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139106/,30 days 00:00:00
+24,Fantastic Four,1988,511,Issue,2004-05-01,Comicvine,6211,139107,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139107/,152 days 00:00:00
+25,Venom vs. Carnage,2004,1,Issue,2004-09-30,Comicvine,18079,105908,Venom vs. Carnage,2004, ,https://comicvine.gamespot.com/venom-vs-carnage-1-baby-please-don-t-go/4000-105908/,31 days 00:00:00
+26,Venom vs. Carnage,2004,2,Issue,2004-10-31,Comicvine,18079,105922,Venom vs. Carnage,2004, ,https://comicvine.gamespot.com/venom-vs-carnage-2-cops-and-monsters/4000-105922/,30 days 00:00:00
+27,Venom vs. Carnage,2004,3,Issue,2004-11-30,Comicvine,18079,118701,Venom vs. Carnage,2004, ,https://comicvine.gamespot.com/venom-vs-carnage-3-the-monster-inside-me/4000-118701/,31 days 00:00:00
+28,Venom vs. Carnage,2004,4,Issue,2004-12-31,Comicvine,18079,118702,Venom vs. Carnage,2004, ,https://comicvine.gamespot.com/venom-vs-carnage-4-do-the-right-thing/4000-118702/,549 days 00:00:00
+29,Runaways,2003,1,Issue,2003-07-01,Comicvine,17988,105324,Runaways,2003, ,https://comicvine.gamespot.com/runaways-1-pride-and-joy-chapter-1/4000-105324/,31 days 00:00:00
+30,Runaways,2003,2,Issue,2003-08-01,Comicvine,17988,106042,Runaways,2003, ,https://comicvine.gamespot.com/runaways-2-pride-and-joy-chapter-2/4000-106042/,31 days 00:00:00
+31,Runaways,2003,3,Issue,2003-09-01,Comicvine,17988,106058,Runaways,2003, ,https://comicvine.gamespot.com/runaways-3-pride-and-joy-chapter-3/4000-106058/,30 days 00:00:00
+32,Runaways,2003,4,Issue,2003-10-01,Comicvine,17988,106043,Runaways,2003, ,https://comicvine.gamespot.com/runaways-4-pride-and-joy-chapter-4/4000-106043/,31 days 00:00:00
+33,Runaways,2003,5,Issue,2003-11-01,Comicvine,17988,106044,Runaways,2003, ,https://comicvine.gamespot.com/runaways-5-pride-and-joy-chapter-5/4000-106044/,0 days 00:00:00
+34,Runaways,2003,6,Issue,2003-11-01,Comicvine,17988,106045,Runaways,2003, ,https://comicvine.gamespot.com/runaways-6-pride-and-joy-conclusion/4000-106045/,30 days 00:00:00
+35,Runaways,2003,7,Issue,2003-12-01,Comicvine,17988,106046,Runaways,2003, ,https://comicvine.gamespot.com/runaways-7-teenage-wasteland-chapter-one/4000-106046/,31 days 00:00:00
+36,Runaways,2003,8,Issue,2004-01-01,Comicvine,17988,106047,Runaways,2003, ,https://comicvine.gamespot.com/runaways-8-teenage-wasteland-chapter-two/4000-106047/,31 days 00:00:00
+37,Runaways,2003,9,Issue,2004-02-01,Comicvine,17988,106048,Runaways,2003, ,https://comicvine.gamespot.com/runaways-9-teenage-wasteland-chapter-three/4000-106048/,29 days 00:00:00
+38,Runaways,2003,10,Issue,2004-03-01,Comicvine,17988,106057,Runaways,2003, ,https://comicvine.gamespot.com/runaways-10-teenage-wasteland-conclusion/4000-106057/,31 days 00:00:00
+39,Runaways,2003,11,Issue,2004-04-01,Comicvine,17988,106049,Runaways,2003, ,https://comicvine.gamespot.com/runaways-11-lost-and-found-part-one-of-two/4000-106049/,0 days 00:00:00
+40,Runaways,2003,12,Issue,2004-04-01,Comicvine,17988,106050,Runaways,2003, ,https://comicvine.gamespot.com/runaways-12-lost-and-found-part-two-of-two/4000-106050/,30 days 00:00:00
+41,Runaways,2003,13,Issue,2004-05-01,Comicvine,17988,106051,Runaways,2003, ,https://comicvine.gamespot.com/runaways-13-the-good-die-young-chapter-one/4000-106051/,31 days 00:00:00
+42,Runaways,2003,14,Issue,2004-06-01,Comicvine,17988,106056,Runaways,2003, ,https://comicvine.gamespot.com/runaways-14-the-good-die-young-chapter-two/4000-106056/,30 days 00:00:00
+43,Runaways,2003,15,Issue,2004-07-01,Comicvine,17988,106052,Runaways,2003, ,https://comicvine.gamespot.com/runaways-15-the-good-die-young-chapter-three/4000-106052/,31 days 00:00:00
+44,Runaways,2003,16,Issue,2004-08-01,Comicvine,17988,106053,Runaways,2003, ,https://comicvine.gamespot.com/runaways-16-the-good-die-young-chapter-four/4000-106053/,61 days 00:00:00
+45,Runaways,2003,17,Issue,2004-10-01,Comicvine,17988,106054,Runaways,2003, ,https://comicvine.gamespot.com/runaways-17-the-good-die-young-conclusion/4000-106054/,31 days 00:00:00
+46,Runaways,2003,18,Issue,2004-11-01,Comicvine,17988,106055,Runaways,2003, ,https://comicvine.gamespot.com/runaways-18-eighteen/4000-106055/,550 days 00:00:00
+47,Marvel Universe: The End,2003,1,Issue,2003-05-01,Comicvine,18641,109997,Marvel Universe: The End,2003, ,https://comicvine.gamespot.com/marvel-universe-the-end-1-predestination/4000-109997/,0 days 00:00:00
+48,Marvel Universe: The End,2003,2,Issue,2003-05-01,Comicvine,18641,114171,Marvel Universe: The End,2003, ,https://comicvine.gamespot.com/marvel-universe-the-end-2-evolution/4000-114171/,31 days 00:00:00
+49,Marvel Universe: The End,2003,3,Issue,2003-06-01,Comicvine,18641,110004,Marvel Universe: The End,2003, ,https://comicvine.gamespot.com/marvel-universe-the-end-3-extinction/4000-110004/,0 days 00:00:00
+50,Marvel Universe: The End,2003,4,Issue,2003-06-01,Comicvine,18641,110005,Marvel Universe: The End,2003, ,https://comicvine.gamespot.com/marvel-universe-the-end-4-contamination/4000-110005/,30 days 00:00:00
+51,Marvel Universe: The End,2003,5,Issue,2003-07-01,Comicvine,18641,110006,Marvel Universe: The End,2003, ,https://comicvine.gamespot.com/marvel-universe-the-end-5-omnipotence/4000-110006/,31 days 00:00:00
+52,Marvel Universe: The End,2003,6,Issue,2003-08-01,Comicvine,18641,110007,Marvel Universe: The End,2003, ,https://comicvine.gamespot.com/marvel-universe-the-end-6-the-cure/4000-110007/,31 days 00:00:00
+53,Silver Surfer,2003,1,Issue,2003-09-01,Comicvine,23576,141467,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-1-communion-part-1/4000-141467/,91 days 00:00:00
+54,Silver Surfer,2003,2,Issue,2003-12-01,Comicvine,23576,141468,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-2-communion-part-2/4000-141468/,31 days 00:00:00
+55,Silver Surfer,2003,3,Issue,2004-01-01,Comicvine,23576,141490,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-3-communion-part-3/4000-141490/,31 days 00:00:00
+56,Silver Surfer,2003,4,Issue,2004-02-01,Comicvine,23576,141517,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-4-communion-part-4/4000-141517/,29 days 00:00:00
+57,Silver Surfer,2003,5,Issue,2004-03-01,Comicvine,23576,141518,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-5-communion-part-5/4000-141518/,31 days 00:00:00
+58,Silver Surfer,2003,6,Issue,2004-04-01,Comicvine,23576,141557,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-6-communion-part-6/4000-141557/,30 days 00:00:00
+59,Silver Surfer,2003,7,Issue,2004-05-01,Comicvine,23576,141559,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-7-revelation-part-1/4000-141559/,31 days 00:00:00
+60,Silver Surfer,2003,8,Issue,2004-06-01,Comicvine,23576,141560,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-8-revelation-part-2/4000-141560/,30 days 00:00:00
+61,Silver Surfer,2003,9,Issue,2004-07-01,Comicvine,23576,141561,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-9-revelation-part-3/4000-141561/,31 days 00:00:00
+62,Silver Surfer,2003,10,Issue,2004-08-01,Comicvine,23576,141562,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-10-revelation-part-4/4000-141562/,31 days 00:00:00
+63,Silver Surfer,2003,11,Issue,2004-09-01,Comicvine,23576,141563,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-11-revelation-part-5/4000-141563/,30 days 00:00:00
+64,Silver Surfer,2003,12,Issue,2004-10-01,Comicvine,23576,141564,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-12-revelation-part-6/4000-141564/,31 days 00:00:00
+65,Silver Surfer,2003,13,Issue,2004-11-01,Comicvine,23576,141439,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-13-revelation-part-7/4000-141439/,30 days 00:00:00
+66,Silver Surfer,2003,14,Issue,2004-12-01,Comicvine,23576,141565,Silver Surfer,2003, ,https://comicvine.gamespot.com/silver-surfer-14-revelation-part-8/4000-141565/,92 days 00:00:00
+67,Amazing Spider-Man,1963,509,Issue,2004-08-31,Comicvine,2127,113497,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-509-sins-past-part-1/4000-113497/,61 days 00:00:00
+68,Amazing Spider-Man,1963,510,Issue,2004-10-31,Comicvine,2127,113498,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-510-sins-past-part-2/4000-113498/,30 days 00:00:00
+69,Amazing Spider-Man,1963,511,Issue,2004-11-30,Comicvine,2127,113499,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-511-sins-past-part-3/4000-113499/,31 days 00:00:00
+70,Amazing Spider-Man,1963,512,Issue,2004-12-31,Comicvine,2127,113500,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-512-sins-past-part-4/4000-113500/,31 days 00:00:00
+71,Amazing Spider-Man,1963,513,Issue,2005-01-31,Comicvine,2127,113501,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-513-sins-past-part-5/4000-113501/,28 days 00:00:00
+72,Amazing Spider-Man,1963,514,Issue,2005-02-28,Comicvine,2127,113502,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-514-sins-past-part-6/4000-113502/,0 days 00:00:00
+73,Amazing Spider-Man,1963,515,Issue,2005-02-28,Comicvine,2127,113503,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-515-skin-deep-part-1/4000-113503/,31 days 00:00:00
+74,Amazing Spider-Man,1963,516,Issue,2005-03-31,Comicvine,2127,113504,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-516-skin-deep-part-2/4000-113504/,30 days 00:00:00
+75,Amazing Spider-Man,1963,517,Issue,2005-04-30,Comicvine,2127,113505,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-517-skin-deep-part-3/4000-113505/,31 days 00:00:00
+76,Amazing Spider-Man,1963,518,Issue,2005-05-31,Comicvine,2127,113506,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-518-skin-deep-part-4/4000-113506/,364 days 00:00:00
+77,Exiles,2001,46,Issue,2004-06-01,Comicvine,6983,92799,Exiles,2001, ,https://comicvine.gamespot.com/exiles-46-earn-your-wings-part-1/4000-92799/,30 days 00:00:00
+78,Exiles,2001,47,Issue,2004-07-01,Comicvine,6983,92800,Exiles,2001, ,https://comicvine.gamespot.com/exiles-47-earn-your-wings-part-2/4000-92800/,31 days 00:00:00
+79,Exiles,2001,48,Issue,2004-08-01,Comicvine,6983,92801,Exiles,2001, ,https://comicvine.gamespot.com/exiles-48-earn-your-wings-part-3/4000-92801/,31 days 00:00:00
+80,Exiles,2001,49,Issue,2004-09-01,Comicvine,6983,99106,Exiles,2001, ,https://comicvine.gamespot.com/exiles-49-mission-impossible/4000-99106/,30 days 00:00:00
+81,Exiles,2001,50,Issue,2004-10-01,Comicvine,6983,99107,Exiles,2001, ,https://comicvine.gamespot.com/exiles-50-the-big-m-part-1/4000-99107/,0 days 00:00:00
+82,Exiles,2001,51,Issue,2004-10-01,Comicvine,6983,99108,Exiles,2001, ,https://comicvine.gamespot.com/exiles-51-the-big-m-part-2/4000-99108/,31 days 00:00:00
+83,Exiles,2001,52,Issue,2004-11-01,Comicvine,6983,99109,Exiles,2001, ,https://comicvine.gamespot.com/exiles-52-living-planet-part-1/4000-99109/,30 days 00:00:00
+84,Exiles,2001,53,Issue,2004-12-01,Comicvine,6983,99110,Exiles,2001, ,https://comicvine.gamespot.com/exiles-53-living-planet-part-2/4000-99110/,31 days 00:00:00
+85,Exiles,2001,54,Issue,2005-01-01,Comicvine,6983,99111,Exiles,2001, ,https://comicvine.gamespot.com/exiles-54-rube-goldberg/4000-99111/,31 days 00:00:00
+86,Exiles,2001,55,Issue,2005-02-01,Comicvine,6983,99112,Exiles,2001, ,https://comicvine.gamespot.com/exiles-55-bump-in-the-night-part-1/4000-99112/,10 days 00:00:00
+87,Exiles,2001,56,Issue,2005-02-11,Comicvine,6983,99113,Exiles,2001, ,https://comicvine.gamespot.com/exiles-56-bump-in-the-night-part-2/4000-99113/,10 days 00:00:00
+88,Exiles,2001,57,Issue,2005-02-21,Comicvine,6983,99114,Exiles,2001, ,https://comicvine.gamespot.com/exiles-57-bump-in-the-night-part-3/4000-99114/,8 days 00:00:00
+89,Exiles,2001,58,Issue,2005-03-01,Comicvine,6983,101047,Exiles,2001, ,https://comicvine.gamespot.com/exiles-58-taking-on-tanaraq/4000-101047/,31 days 00:00:00
+90,Exiles,2001,59,Issue,2005-04-01,Comicvine,6983,101048,Exiles,2001, ,https://comicvine.gamespot.com/exiles-59-a-tooth-for-a-tooth/4000-101048/,30 days 00:00:00
+91,X-Men: Age of Apocalypse,2005,1,Issue,2005-05-01,Comicvine,11501,101450,X-Men: Age of Apocalypse,2005, ,https://comicvine.gamespot.com/x-men-age-of-apocalypse-1-like-father/4000-101450/,0 days 00:00:00
+92,X-Men: Age of Apocalypse,2005,2,Issue,2005-05-01,Comicvine,11501,101451,X-Men: Age of Apocalypse,2005, ,https://comicvine.gamespot.com/x-men-age-of-apocalypse-2-coming-up-for-air/4000-101451/,30 days 00:00:00
+93,Exiles,2001,60,Issue,2005-05-31,Comicvine,6983,101049,Exiles,2001, ,https://comicvine.gamespot.com/exiles-60-son-of-apocalypse-part-1/4000-101049/,0 days 00:00:00
+94,Exiles,2001,61,Issue,2005-05-31,Comicvine,6983,101050,Exiles,2001, ,https://comicvine.gamespot.com/exiles-61-son-of-apocalypse-part-2/4000-101050/,30 days 00:00:00
+95,X-Men: Age of Apocalypse,2005,3,Issue,2005-05-01,Comicvine,11501,101452,X-Men: Age of Apocalypse,2005, ,https://comicvine.gamespot.com/x-men-age-of-apocalypse-3-comebacks/4000-101452/,0 days 00:00:00
+96,X-Men: Age of Apocalypse,2005,4,Issue,2005-05-01,Comicvine,11501,101453,X-Men: Age of Apocalypse,2005, ,https://comicvine.gamespot.com/x-men-age-of-apocalypse-4-betrayal/4000-101453/,0 days 00:00:00
+97,X-Men: Age of Apocalypse,2005,5,Issue,2005-05-01,Comicvine,11501,101454,X-Men: Age of Apocalypse,2005, ,https://comicvine.gamespot.com/x-men-age-of-apocalypse-5-sinister/4000-101454/,31 days 00:00:00
+98,X-Men: Age of Apocalypse,2005,6,Issue,2005-06-01,Comicvine,11501,101455,X-Men: Age of Apocalypse,2005, ,https://comicvine.gamespot.com/x-men-age-of-apocalypse-6-chrysalis/4000-101455/,0 days 00:00:00
+99,Exiles,2001,62,Issue,2005-06-01,Comicvine,6983,101051,Exiles,2001, ,https://comicvine.gamespot.com/exiles-62-timebreakers-part-1/4000-101051/,0 days 00:00:00
+100,Exiles,2001,63,Issue,2005-06-01,Comicvine,6983,105423,Exiles,2001, ,https://comicvine.gamespot.com/exiles-63-timebreakers-part-2/4000-105423/,30 days 00:00:00
+101,Exiles,2001,64,Issue,2005-07-01,Comicvine,6983,105424,Exiles,2001, ,https://comicvine.gamespot.com/exiles-64-timebreakers-part-3/4000-105424/,31 days 00:00:00
+102,Exiles,2001,65,Issue,2005-08-01,Comicvine,6983,105425,Exiles,2001, ,https://comicvine.gamespot.com/exiles-65-timebreakers-part-4/4000-105425/,31 days 00:00:00
+103,Exiles,2001,66,Issue,2005-09-01,Comicvine,6983,105794,Exiles,2001, ,https://comicvine.gamespot.com/exiles-66-destroy-all-monsters-part-1/4000-105794/,0 days 00:00:00
+104,Exiles,2001,67,Issue,2005-09-01,Comicvine,6983,105795,Exiles,2001, ,https://comicvine.gamespot.com/exiles-67-destroy-all-monsters-part-2/4000-105795/,30 days 00:00:00
+105,Exiles,2001,68,Issue,2005-10-01,Comicvine,6983,105796,Exiles,2001, ,https://comicvine.gamespot.com/exiles-68-destroy-all-monsters-part-3/4000-105796/,824 days 00:00:00
+106,Black Panther,1998,57,Issue,2003-06-30,Comicvine,6496,149106,Black Panther,1998, ,https://comicvine.gamespot.com/black-panther-57-coming-to-america-part-1/4000-149106/,0 days 00:00:00
+107,Black Panther,1998,58,Issue,2003-06-30,Comicvine,6496,149107,Black Panther,1998, ,https://comicvine.gamespot.com/black-panther-58-coming-to-america-part-2/4000-149107/,1 days 00:00:00
+108,Black Panther,1998,59,Issue,2003-07-01,Comicvine,6496,149108,Black Panther,1998, ,https://comicvine.gamespot.com/black-panther-59-ascension-part-1/4000-149108/,0 days 00:00:00
+109,Black Panther,1998,60,Issue,2003-07-01,Comicvine,6496,149109,Black Panther,1998, ,https://comicvine.gamespot.com/black-panther-60-ascension-part-2-mamas-got-a-bran/4000-149109/,31 days 00:00:00
+110,Black Panther,1998,61,Issue,2003-08-01,Comicvine,6496,149110,Black Panther,1998, ,https://comicvine.gamespot.com/black-panther-61-ascension-part-3-resurrection-man/4000-149110/,31 days 00:00:00
+111,Black Panther,1998,62,Issue,2003-09-01,Comicvine,6496,149111,Black Panther,1998, ,https://comicvine.gamespot.com/black-panther-62-ascension-part-4-the-power-and-th/4000-149111/,61 days 00:00:00
+112,NYX,2003,1,Issue,2003-11-01,Comicvine,17987,105318,NYX,2003, ,https://comicvine.gamespot.com/nyx-1-wannabe-part-one/4000-105318/,61 days 00:00:00
+113,NYX,2003,2,Issue,2004-01-01,Comicvine,17987,105410,NYX,2003, ,https://comicvine.gamespot.com/nyx-2-wannabe-part-two/4000-105410/,34 days 00:00:00
+114,NYX,2003,3,Issue,2004-02-04,Comicvine,17987,105411,NYX,2003, ,https://comicvine.gamespot.com/nyx-3-wannabe-part-three/4000-105411/,87 days 00:00:00
+115,NYX,2003,4,Issue,2004-05-01,Comicvine,17987,105412,NYX,2003, ,https://comicvine.gamespot.com/nyx-4-wannabe-part-four/4000-105412/,123 days 00:00:00
+116,NYX,2003,5,Issue,2004-09-01,Comicvine,17987,105413,NYX,2003, ,https://comicvine.gamespot.com/nyx-5-wannabe-part-five/4000-105413/,365 days 00:00:00
+117,NYX,2003,6,Issue,2005-09-01,Comicvine,17987,107239,NYX,2003, ,https://comicvine.gamespot.com/nyx-6-wannabe-part-six/4000-107239/,30 days 00:00:00
+118,NYX,2003,7,Issue,2005-10-01,Comicvine,17987,107240,NYX,2003, ,https://comicvine.gamespot.com/nyx-7-wannabe-part-seven/4000-107240/,579 days 00:00:00
+119,Daredevil,1998,56,Issue,2004-03-01,Comicvine,6209,93406,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-56-the-king-of-hells-kitchen-part-1/4000-93406/,31 days 00:00:00
+120,Daredevil,1998,57,Issue,2004-04-01,Comicvine,6209,93407,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-57-the-king-of-hells-kitchen-part-2/4000-93407/,30 days 00:00:00
+121,Daredevil,1998,58,Issue,2004-05-01,Comicvine,6209,93408,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-58-the-king-of-hells-kitchen-part-3/4000-93408/,31 days 00:00:00
+122,Daredevil,1998,59,Issue,2004-06-01,Comicvine,6209,93409,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-59-the-king-of-hells-kitchen-part-4/4000-93409/,30 days 00:00:00
+123,Daredevil,1998,60,Issue,2004-07-01,Comicvine,6209,93410,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-60-the-king-of-hells-kitchen-part-5/4000-93410/,122 days 00:00:00
+124,Weapon X,2002,19,Issue,2004-03-01,Comicvine,18390,121844,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-19-gene-nation-rising/4000-121844/,31 days 00:00:00
+125,Weapon X,2002,20,Issue,2004-04-01,Comicvine,18390,121846,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-20-under-the-mask/4000-121846/,30 days 00:00:00
+126,Weapon X,2002,21,Issue,2004-05-01,Comicvine,18390,121847,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-21-countdown-to-zero/4000-121847/,31 days 00:00:00
+127,Weapon X,2002,22,Issue,2004-06-01,Comicvine,18390,121864,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-22-the-end/4000-121864/,30 days 00:00:00
+128,Weapon X,2002,23,Issue,2004-07-01,Comicvine,18390,121865,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-23-in-the-beginning/4000-121865/,0 days 00:00:00
+129,Weapon X,2002,24,Issue,2004-07-01,Comicvine,18390,121866,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-24-roanoke-calling/4000-121866/,31 days 00:00:00
+130,Weapon X,2002,25,Issue,2004-08-01,Comicvine,18390,121867,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-25-the-terrible-sublime/4000-121867/,31 days 00:00:00
+131,Weapon X,2002,26,Issue,2004-09-01,Comicvine,18390,121869,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-26-man-and-monster-1-of-3/4000-121869/,30 days 00:00:00
+132,Weapon X,2002,27,Issue,2004-10-01,Comicvine,18390,121871,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-27-man-and-monster-2-of-3/4000-121871/,31 days 00:00:00
+133,Weapon X,2002,28,Issue,2004-11-01,Comicvine,18390,121872,Weapon X,2002, ,https://comicvine.gamespot.com/weapon-x-28-man-and-monster-conclusion/4000-121872/,153 days 00:00:00
+134,New X-Men,2001,156,Issue,2004-06-01,Comicvine,9121,106438,New X-Men,2001, ,https://comicvine.gamespot.com/new-x-men-156-a-bright-new-mourning-part-2/4000-106438/,30 days 00:00:00
+135,X-Men,2004,157,Issue,2004-07-01,Comicvine,10731,90341,X-Men,2004, ,https://comicvine.gamespot.com/x-men-157-black-holes/4000-90341/,31 days 00:00:00
+136,X-Men,2004,158,Issue,2004-08-01,Comicvine,10731,90342,X-Men,2004, ,https://comicvine.gamespot.com/x-men-158-immortals/4000-90342/,31 days 00:00:00
+137,X-Men,2004,159,Issue,2004-09-01,Comicvine,10731,90343,X-Men,2004, ,https://comicvine.gamespot.com/x-men-159-day-of-the-atom/4000-90343/,30 days 00:00:00
+138,X-Men,2004,160,Issue,2004-10-01,Comicvine,10731,90344,X-Men,2004, ,https://comicvine.gamespot.com/x-men-160-forces-of-nature/4000-90344/,305 days 00:00:00
+139,Hulk: Gray,2003,1,Issue,2003-12-01,Comicvine,21637,130629,Hulk: Gray,2003, ,https://comicvine.gamespot.com/hulk-gray-1-a-is-for-apple/4000-130629/,0 days 00:00:00
+140,Hulk: Gray,2003,2,Issue,2003-12-01,Comicvine,21637,130645,Hulk: Gray,2003, ,https://comicvine.gamespot.com/hulk-gray-2-b-is-for-boy/4000-130645/,31 days 00:00:00
+141,Hulk: Gray,2003,3,Issue,2004-01-01,Comicvine,21637,130646,Hulk: Gray,2003, ,https://comicvine.gamespot.com/hulk-gray-3-c-is-for-cry/4000-130646/,31 days 00:00:00
+142,Hulk: Gray,2003,4,Issue,2004-02-01,Comicvine,21637,130647,Hulk: Gray,2003, ,https://comicvine.gamespot.com/hulk-gray-4-d-is-for-dog/4000-130647/,29 days 00:00:00
+143,Hulk: Gray,2003,5,Issue,2004-03-01,Comicvine,21637,130644,Hulk: Gray,2003, ,https://comicvine.gamespot.com/hulk-gray-5-e-is-for-elephant/4000-130644/,31 days 00:00:00
+144,Hulk: Gray,2003,6,Issue,2004-04-01,Comicvine,21637,130649,Hulk: Gray,2003, ,https://comicvine.gamespot.com/hulk-gray-6-f-is-for-father/4000-130649/,91 days 00:00:00
+145,New X-Men,2004,1,Issue,2004-07-01,Comicvine,18078,105907,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-1-choosing-sides-part-1-here-is-the-hous/4000-105907/,31 days 00:00:00
+146,New X-Men,2004,2,Issue,2004-08-01,Comicvine,18078,106040,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-2-choosing-sides-part-2-assembly/4000-106040/,31 days 00:00:00
+147,New X-Men,2004,3,Issue,2004-09-01,Comicvine,18078,106041,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-3-choosing-sides-part-3-grudges/4000-106041/,30 days 00:00:00
+148,New X-Men,2004,4,Issue,2004-10-01,Comicvine,18078,106150,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-4-choosing-sides-part-4-field-day/4000-106150/,31 days 00:00:00
+149,New X-Men,2004,5,Issue,2004-11-01,Comicvine,18078,106151,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-5-choosing-sides-part-5-above-the-law/4000-106151/,30 days 00:00:00
+150,New X-Men,2004,6,Issue,2004-12-01,Comicvine,18078,106152,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-6-choosing-sides-part-6-battle-lines/4000-106152/,31 days 00:00:00
+151,New X-Men,2004,7,Issue,2005-01-01,Comicvine,18078,106270,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-7-haunted-part-1/4000-106270/,31 days 00:00:00
+152,New X-Men,2004,8,Issue,2005-02-01,Comicvine,18078,106271,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-8-haunted-part-2/4000-106271/,28 days 00:00:00
+153,New X-Men,2004,9,Issue,2005-03-01,Comicvine,18078,106276,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-9-haunted-part-3/4000-106276/,120 days 00:00:00
+154,X-Men,2004,161,Issue,2004-11-01,Comicvine,10731,99627,X-Men,2004, ,https://comicvine.gamespot.com/x-men-161-heroes-and-villains/4000-99627/,0 days 00:00:00
+155,X-Men,2004,162,Issue,2004-11-01,Comicvine,10731,99628,X-Men,2004, ,https://comicvine.gamespot.com/x-men-162-treachery/4000-99628/,30 days 00:00:00
+156,X-Men,2004,163,Issue,2004-12-01,Comicvine,10731,99629,X-Men,2004, ,https://comicvine.gamespot.com/x-men-163-foreshadowing/4000-99629/,31 days 00:00:00
+157,X-Men,2004,164,Issue,2005-01-01,Comicvine,10731,99630,X-Men,2004, ,https://comicvine.gamespot.com/x-men-164-full-circle/4000-99630/,272 days 00:00:00
+158,Weapon X: Days of Future Now,2005,1,Issue,2005-09-30,Comicvine,30002,184556,Weapon X: Days of Future Now,2005, ,https://comicvine.gamespot.com/weapon-x-days-of-future-now-1-part-1/4000-184556/,31 days 00:00:00
+159,Weapon X: Days of Future Now,2005,2,Issue,2005-10-31,Comicvine,30002,184557,Weapon X: Days of Future Now,2005, ,https://comicvine.gamespot.com/weapon-x-days-of-future-now-2-part-2/4000-184557/,30 days 00:00:00
+160,Weapon X: Days of Future Now,2005,3,Issue,2005-11-30,Comicvine,30002,184558,Weapon X: Days of Future Now,2005, ,https://comicvine.gamespot.com/weapon-x-days-of-future-now-3-part-3/4000-184558/,31 days 00:00:00
+161,Weapon X: Days of Future Now,2005,4,Issue,2005-12-31,Comicvine,30002,184559,Weapon X: Days of Future Now,2005, ,https://comicvine.gamespot.com/weapon-x-days-of-future-now-4-part-4/4000-184559/,31 days 00:00:00
+162,Weapon X: Days of Future Now,2005,5,Issue,2006-01-31,Comicvine,30002,184560,Weapon X: Days of Future Now,2005, ,https://comicvine.gamespot.com/weapon-x-days-of-future-now-5-part-5/4000-184560/,640 days 00:00:00
+163,Cable & Deadpool,2004,1,Issue,2004-05-01,Comicvine,18070,105801,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-1-if-looks-could-kill-part-1-face-t/4000-105801/,31 days 00:00:00
+164,Cable & Deadpool,2004,2,Issue,2004-06-01,Comicvine,18070,105828,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-2-if-looks-could-kill-part-2/4000-105828/,30 days 00:00:00
+165,Cable & Deadpool,2004,3,Issue,2004-07-01,Comicvine,18070,105829,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-3-if-looks-could-kill-part-3/4000-105829/,31 days 00:00:00
+166,Cable & Deadpool,2004,4,Issue,2004-08-01,Comicvine,18070,105831,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-4-if-looks-could-kill-part-4-nothin/4000-105831/,31 days 00:00:00
+167,Cable & Deadpool,2004,5,Issue,2004-09-01,Comicvine,18070,105830,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-5-if-looks-could-kill-part-5-not-th/4000-105830/,30 days 00:00:00
+168,Cable & Deadpool,2004,6,Issue,2004-10-01,Comicvine,18070,105832,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-6-if-looks-could-kill-part-6-ive-go/4000-105832/,305 days 00:00:00
+169,Thanos,2003,1,Issue,2003-12-01,Comicvine,20764,124492,Thanos,2003, ,https://comicvine.gamespot.com/thanos-1-epiphany/4000-124492/,31 days 00:00:00
+170,Thanos,2003,2,Issue,2004-01-01,Comicvine,20764,124566,Thanos,2003, ,https://comicvine.gamespot.com/thanos-2-rebellion/4000-124566/,31 days 00:00:00
+171,Thanos,2003,3,Issue,2004-02-01,Comicvine,20764,124568,Thanos,2003, ,https://comicvine.gamespot.com/thanos-3-alone/4000-124568/,29 days 00:00:00
+172,Thanos,2003,4,Issue,2004-03-01,Comicvine,20764,124569,Thanos,2003, ,https://comicvine.gamespot.com/thanos-4-hunger/4000-124569/,0 days 00:00:00
+173,Thanos,2003,5,Issue,2004-03-01,Comicvine,20764,124679,Thanos,2003, ,https://comicvine.gamespot.com/thanos-5-entry/4000-124679/,31 days 00:00:00
+174,Thanos,2003,6,Issue,2004-04-01,Comicvine,20764,124680,Thanos,2003, ,https://comicvine.gamespot.com/thanos-6-endgame/4000-124680/,30 days 00:00:00
+175,Thanos,2003,7,Issue,2004-05-01,Comicvine,20764,124681,Thanos,2003, ,https://comicvine.gamespot.com/thanos-7-samaritan-part-1-of-6/4000-124681/,0 days 00:00:00
+176,Thanos,2003,8,Issue,2004-05-01,Comicvine,20764,124682,Thanos,2003, ,https://comicvine.gamespot.com/thanos-8-samaritan-part-2-of-6-dark-alliances/4000-124682/,31 days 00:00:00
+177,Thanos,2003,9,Issue,2004-06-01,Comicvine,20764,124683,Thanos,2003, ,https://comicvine.gamespot.com/thanos-9-samaritan-part-3-of-6-divine-madness/4000-124683/,30 days 00:00:00
+178,Thanos,2003,10,Issue,2004-07-01,Comicvine,20764,124684,Thanos,2003, ,https://comicvine.gamespot.com/thanos-10-samaritan-part-4-of-6/4000-124684/,31 days 00:00:00
+179,Thanos,2003,11,Issue,2004-08-01,Comicvine,20764,124686,Thanos,2003, ,https://comicvine.gamespot.com/thanos-11-samaritan-part-5-of-6-the-fallen/4000-124686/,31 days 00:00:00
+180,Thanos,2003,12,Issue,2004-09-01,Comicvine,20764,124687,Thanos,2003, ,https://comicvine.gamespot.com/thanos-12-samaritan-part-6-of-6-crescendo/4000-124687/,93 days 00:00:00
+181,Avengers/Thunderbolts,2004,1,Issue,2004-05-31,Comicvine,11486,101300,Avengers/Thunderbolts,2004, ,https://comicvine.gamespot.com/avengersthunderbolts-1-the-cause-of-justice/4000-101300/,30 days 00:00:00
+182,Avengers/Thunderbolts,2004,2,Issue,2004-06-30,Comicvine,11486,101301,Avengers/Thunderbolts,2004, ,https://comicvine.gamespot.com/avengersthunderbolts-2-the-fine-line/4000-101301/,0 days 00:00:00
+183,Avengers/Thunderbolts,2004,3,Issue,2004-06-30,Comicvine,11486,101302,Avengers/Thunderbolts,2004, ,https://comicvine.gamespot.com/avengersthunderbolts-3-nerves/4000-101302/,31 days 00:00:00
+184,Avengers/Thunderbolts,2004,4,Issue,2004-07-31,Comicvine,11486,101303,Avengers/Thunderbolts,2004, ,https://comicvine.gamespot.com/avengersthunderbolts-4-betrayal/4000-101303/,31 days 00:00:00
+185,Avengers/Thunderbolts,2004,5,Issue,2004-08-31,Comicvine,11486,101304,Avengers/Thunderbolts,2004, ,https://comicvine.gamespot.com/avengersthunderbolts-5-truth-and-concequences/4000-101304/,30 days 00:00:00
+186,Avengers/Thunderbolts,2004,6,Issue,2004-09-30,Comicvine,11486,101305,Avengers/Thunderbolts,2004, ,https://comicvine.gamespot.com/avengersthunderbolts-6-blood-will-tell/4000-101305/,183 days 00:00:00
+187,New X-Men,2004,10,Issue,2005-04-01,Comicvine,18078,106272,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-10-too-much-information-part-1/4000-106272/,30 days 00:00:00
+188,New X-Men,2004,11,Issue,2005-05-01,Comicvine,18078,106273,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-11-too-much-information-part-2/4000-106273/,31 days 00:00:00
+189,New X-Men,2004,12,Issue,2005-06-01,Comicvine,18078,106274,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-12-x-posed/4000-106274/,212 days 00:00:00
+190,Madrox,2004,1,Issue,2004-11-01,Comicvine,11181,97934,Madrox,2004, ,https://comicvine.gamespot.com/madrox-1-soul-of-a-gumshoe/4000-97934/,30 days 00:00:00
+191,Madrox,2004,2,Issue,2004-12-01,Comicvine,11181,97935,Madrox,2004, ,https://comicvine.gamespot.com/madrox-2-the-chicago-whey/4000-97935/,31 days 00:00:00
+192,Madrox,2004,3,Issue,2005-01-01,Comicvine,11181,114063,Madrox,2004, ,https://comicvine.gamespot.com/madrox-3-dead-dirty-pool/4000-114063/,31 days 00:00:00
+193,Madrox,2004,4,Issue,2005-02-01,Comicvine,11181,114064,Madrox,2004, ,https://comicvine.gamespot.com/madrox-4-the-bigger-heat/4000-114064/,28 days 00:00:00
+194,Madrox,2004,5,Issue,2005-03-01,Comicvine,11181,114065,Madrox,2004, ,https://comicvine.gamespot.com/madrox-5-once-burned-twice-shy/4000-114065/,486 days 00:00:00
+195,Thor,1998,68,Issue,2003-11-01,Comicvine,6226,99314,Thor,1998, ,https://comicvine.gamespot.com/thor-68-earth-2020/4000-99314/,0 days 00:00:00
+196,Thor,1998,69,Issue,2003-11-01,Comicvine,6226,99315,Thor,1998, ,https://comicvine.gamespot.com/thor-69-earth-2170/4000-99315/,30 days 00:00:00
+197,Thor,1998,70,Issue,2003-12-01,Comicvine,6226,99316,Thor,1998, ,https://comicvine.gamespot.com/thor-70-paradise/4000-99316/,31 days 00:00:00
+198,Thor,1998,71,Issue,2004-01-01,Comicvine,6226,99317,Thor,1998, ,https://comicvine.gamespot.com/thor-71-undertow/4000-99317/,31 days 00:00:00
+199,Thor,1998,72,Issue,2004-02-01,Comicvine,6226,99318,Thor,1998, ,https://comicvine.gamespot.com/thor-72-paradise-lost/4000-99318/,29 days 00:00:00
+200,Thor,1998,73,Issue,2004-03-01,Comicvine,6226,99319,Thor,1998, ,https://comicvine.gamespot.com/thor-73-the-betrayed/4000-99319/,31 days 00:00:00
+201,Thor,1998,74,Issue,2004-04-01,Comicvine,6226,99320,Thor,1998, ,https://comicvine.gamespot.com/thor-74-forever-branded/4000-99320/,30 days 00:00:00
+202,Thor,1998,75,Issue,2004-05-01,Comicvine,6226,99321,Thor,1998, ,https://comicvine.gamespot.com/thor-75-realization/4000-99321/,31 days 00:00:00
+203,Thor,1998,76,Issue,2004-06-01,Comicvine,6226,99322,Thor,1998, ,https://comicvine.gamespot.com/thor-76-challenge/4000-99322/,0 days 00:00:00
+204,Thor,1998,77,Issue,2004-06-01,Comicvine,6226,99323,Thor,1998, ,https://comicvine.gamespot.com/thor-77-the-reckoning/4000-99323/,30 days 00:00:00
+205,Thor,1998,78,Issue,2004-07-01,Comicvine,6226,99324,Thor,1998, ,https://comicvine.gamespot.com/thor-78-slipstream/4000-99324/,0 days 00:00:00
+206,Thor,1998,79,Issue,2004-07-01,Comicvine,6226,99325,Thor,1998, ,https://comicvine.gamespot.com/thor-79-letting-go/4000-99325/,61 days 00:00:00
+207,Amazing Fantasy,2004,1,Issue,2004-08-31,Comicvine,18663,110252,Amazing Fantasy,2004, ,https://comicvine.gamespot.com/amazing-fantasy-1-not-an-angel/4000-110252/,30 days 00:00:00
+208,Amazing Fantasy,2004,2,Issue,2004-09-30,Comicvine,18663,117108,Amazing Fantasy,2004, ,https://comicvine.gamespot.com/amazing-fantasy-2-the-promise/4000-117108/,31 days 00:00:00
+209,Amazing Fantasy,2004,3,Issue,2004-10-31,Comicvine,18663,117110,Amazing Fantasy,2004, ,https://comicvine.gamespot.com/amazing-fantasy-3-game-set/4000-117110/,30 days 00:00:00
+210,Amazing Fantasy,2004,4,Issue,2004-11-30,Comicvine,18663,117111,Amazing Fantasy,2004, ,https://comicvine.gamespot.com/amazing-fantasy-4-the-sting-of-defeat/4000-117111/,31 days 00:00:00
+211,Amazing Fantasy,2004,5,Issue,2004-12-31,Comicvine,18663,117112,Amazing Fantasy,2004, ,https://comicvine.gamespot.com/amazing-fantasy-5-roaming/4000-117112/,31 days 00:00:00
+212,Amazing Fantasy,2004,6,Issue,2005-01-31,Comicvine,18663,117113,Amazing Fantasy,2004, ,https://comicvine.gamespot.com/amazing-fantasy-6-becoming/4000-117113/,91 days 00:00:00
+213,Nightcrawler,2004,1,Issue,2004-11-01,Comicvine,18700,110544,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-1-the-devil-inside-part-1-the-locked-/4000-110544/,30 days 00:00:00
+214,Nightcrawler,2004,2,Issue,2004-12-01,Comicvine,18700,110610,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-2-the-devil-inside-part-2-the-knotted/4000-110610/,31 days 00:00:00
+215,Nightcrawler,2004,3,Issue,2005-01-01,Comicvine,18700,110663,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-3-the-devil-inside-part-3-fourteen-de/4000-110663/,31 days 00:00:00
+216,Nightcrawler,2004,4,Issue,2005-02-01,Comicvine,18700,110977,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-4-the-devil-inside-part-4-exorcism/4000-110977/,28 days 00:00:00
+217,Nightcrawler,2004,5,Issue,2005-03-01,Comicvine,18700,111146,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-5-ghosts-on-the-tracks-part-1-and-kur/4000-111146/,31 days 00:00:00
+218,Nightcrawler,2004,6,Issue,2005-04-01,Comicvine,18700,111147,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-6-ghosts-on-the-tracks-part-2-voices-/4000-111147/,122 days 00:00:00
+219,Nightcrawler,2004,7,Issue,2005-08-01,Comicvine,18700,111272,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-7-the-winding-way-part-1-underbelly/4000-111272/,31 days 00:00:00
+220,Nightcrawler,2004,8,Issue,2005-09-01,Comicvine,18700,111273,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-8-the-winding-way-part-2-dark-carniva/4000-111273/,30 days 00:00:00
+221,Nightcrawler,2004,9,Issue,2005-10-01,Comicvine,18700,111274,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-9-the-winding-way-part-3-swamp-gothic/4000-111274/,31 days 00:00:00
+222,Nightcrawler,2004,10,Issue,2005-11-01,Comicvine,18700,111367,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-10-the-winding-way-part-4-wicked-thin/4000-111367/,30 days 00:00:00
+223,Nightcrawler,2004,11,Issue,2005-12-01,Comicvine,18700,111368,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-11-the-winding-way-part-5/4000-111368/,31 days 00:00:00
+224,Nightcrawler,2004,12,Issue,2006-01-01,Comicvine,18700,111369,Nightcrawler,2004, ,https://comicvine.gamespot.com/nightcrawler-12-happy-birthday-kurt/4000-111369/,366 days 00:00:00
+225,Sabretooth: Open Season,2004,1,Issue,2004-12-31,Comicvine,22216,133585,Sabretooth,2004, ,https://comicvine.gamespot.com/sabretooth-1-open-season-part-i-a-cold-day-in-hell/4000-133585/,0 days 00:00:00
+226,Sabretooth: Open Season,2004,2,Issue,2004-12-31,Comicvine,22216,133586,Sabretooth,2004, ,https://comicvine.gamespot.com/issue/4000-133586/,31 days 00:00:00
+227,Sabretooth: Open Season,2004,3,Issue,2005-01-31,Comicvine,22216,133587,Sabretooth,2004, ,https://comicvine.gamespot.com/issue/4000-133587/,28 days 00:00:00
+228,Sabretooth: Open Season,2004,4,Issue,2005-02-28,Comicvine,22216,133588,Sabretooth,2004, ,https://comicvine.gamespot.com/issue/4000-133588/,272 days 00:00:00
+229,Fantastic Four,1988,512,Issue,2004-06-01,Comicvine,6211,139108,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139108/,30 days 00:00:00
+230,Fantastic Four,1988,513,Issue,2004-07-01,Comicvine,6211,139109,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139109/,30 days 00:00:00
+231,Fantastic Four,1988,514,Issue,2004-07-31,Comicvine,6211,139110,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139110/,31 days 00:00:00
+232,Fantastic Four,1988,515,Issue,2004-08-31,Comicvine,6211,139111,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139111/,30 days 00:00:00
+233,Fantastic Four,1988,516,Issue,2004-09-30,Comicvine,6211,139112,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-139112/,29 days 00:00:00
+234,Loki,2004,1,Issue,2004-09-01,Comicvine,11023,96193,Loki,2004, ,https://comicvine.gamespot.com/loki-1-part-one/4000-96193/,0 days 00:00:00
+235,Loki,2004,2,Issue,2004-09-01,Comicvine,11023,96194,Loki,2004, ,https://comicvine.gamespot.com/loki-2-part-two/4000-96194/,30 days 00:00:00
+236,Loki,2004,3,Issue,2004-10-01,Comicvine,11023,96195,Loki,2004, ,https://comicvine.gamespot.com/loki-3-part-three/4000-96195/,31 days 00:00:00
+237,Loki,2004,4,Issue,2004-11-01,Comicvine,11023,96196,Loki,2004, ,https://comicvine.gamespot.com/loki-4-part-four/4000-96196/,306 days 00:00:00
+238,Hawkeye,2003,1,Issue,2003-12-31,Comicvine,23481,140794,Hawkeye,2003, ,https://comicvine.gamespot.com/hawkeye-1-the-high-hard-shaft-part-1-the-hotter-th/4000-140794/,31 days 00:00:00
+239,Hawkeye,2003,2,Issue,2004-01-31,Comicvine,23481,140795,Hawkeye,2003, ,https://comicvine.gamespot.com/hawkeye-2-the-high-hard-shaft-part-2-hits-mrs/4000-140795/,29 days 00:00:00
+240,Hawkeye,2003,3,Issue,2004-02-29,Comicvine,23481,140796,Hawkeye,2003, ,https://comicvine.gamespot.com/hawkeye-3-the-high-hard-shaft-part-3-rat-a-tat-tat/4000-140796/,31 days 00:00:00
+241,Hawkeye,2003,4,Issue,2004-03-31,Comicvine,23481,140800,Hawkeye,2003, ,https://comicvine.gamespot.com/hawkeye-4-the-high-hard-shaft-part-4-like-a-hole-i/4000-140800/,30 days 00:00:00
+242,Hawkeye,2003,5,Issue,2004-04-30,Comicvine,23481,140801,Hawkeye,2003, ,https://comicvine.gamespot.com/hawkeye-5-the-high-hard-shaft-part-5-for-your-sins/4000-140801/,31 days 00:00:00
+243,Hawkeye,2003,6,Issue,2004-05-31,Comicvine,23481,140802,Hawkeye,2003, ,https://comicvine.gamespot.com/hawkeye-6-the-high-hard-shaft-part-6-resurrection/4000-140802/,30 days 00:00:00
+244,Hawkeye,2003,7,Issue,2004-06-30,Comicvine,23481,140803,Hawkeye,2003, ,https://comicvine.gamespot.com/hawkeye-7-a-little-murder-part-1-proletariat-knigh/4000-140803/,62 days 00:00:00
+245,Hawkeye,2003,8,Issue,2004-08-31,Comicvine,23481,140804,Hawkeye,2003, ,https://comicvine.gamespot.com/hawkeye-8-a-little-murder-part-2-caviar-daze/4000-140804/,273 days 00:00:00
+246,Marvel Adventures Spider-Man,2005,1,Issue,2005-05-31,Comicvine,18094,115601,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-1-here-comes-spider-m/4000-115601/,30 days 00:00:00
+247,Marvel Adventures Spider-Man,2005,2,Issue,2005-06-30,Comicvine,18094,120931,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-2-the-sinister-six-pa/4000-120931/,31 days 00:00:00
+248,Marvel Adventures Spider-Man,2005,3,Issue,2005-07-31,Comicvine,18094,120932,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-3-the-sinister-six-pa/4000-120932/,31 days 00:00:00
+249,Marvel Adventures Spider-Man,2005,4,Issue,2005-08-31,Comicvine,18094,105976,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-4-goom-got-game/4000-105976/,30 days 00:00:00
+250,Marvel Adventures Spider-Man,2005,5,Issue,2005-09-30,Comicvine,18094,121353,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-5-power-struggle/4000-121353/,31 days 00:00:00
+251,Marvel Adventures Spider-Man,2005,6,Issue,2005-10-31,Comicvine,18094,121357,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-6-picture-perfect-per/4000-121357/,30 days 00:00:00
+252,Marvel Adventures Spider-Man,2005,7,Issue,2005-11-30,Comicvine,18094,106017,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-7-vulture-hunt/4000-106017/,31 days 00:00:00
+253,Marvel Adventures Spider-Man,2005,8,Issue,2005-12-31,Comicvine,18094,121700,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-8-rush-hour/4000-121700/,31 days 00:00:00
+254,Marvel Adventures Spider-Man,2005,9,Issue,2006-01-31,Comicvine,18094,121702,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-9-doom-with-a-view-fr/4000-121702/,28 days 00:00:00
+255,Marvel Adventures Spider-Man,2005,10,Issue,2006-02-28,Comicvine,18094,121703,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-10-make-mine-mysterio/4000-121703/,31 days 00:00:00
+256,Marvel Adventures Spider-Man,2005,11,Issue,2006-03-31,Comicvine,18094,106018,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-11-they-call-him-mad/4000-106018/,30 days 00:00:00
+257,Marvel Adventures Spider-Man,2005,12,Issue,2006-04-30,Comicvine,18094,106160,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-12-nightmare-on-spide/4000-106160/,31 days 00:00:00
+258,Marvel Adventures Spider-Man,2005,13,Issue,2006-05-31,Comicvine,18094,106184,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-13-the-chameleon-cape/4000-106184/,30 days 00:00:00
+259,Marvel Adventures Spider-Man,2005,14,Issue,2006-06-30,Comicvine,18094,121236,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-14-the-black-cat/4000-121236/,31 days 00:00:00
+260,Marvel Adventures Spider-Man,2005,15,Issue,2006-07-31,Comicvine,18094,106183,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-15-how-spider-man-lea/4000-106183/,31 days 00:00:00
+261,Marvel Adventures Spider-Man,2005,16,Issue,2006-08-31,Comicvine,18094,124263,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-16-i-reptile/4000-124263/,30 days 00:00:00
+262,Marvel Adventures Spider-Man,2005,17,Issue,2006-09-30,Comicvine,18094,124265,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-17-hair-of-the-dog-th/4000-124265/,31 days 00:00:00
+263,Marvel Adventures Spider-Man,2005,18,Issue,2006-10-31,Comicvine,18094,124266,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-18/4000-124266/,30 days 00:00:00
+264,Marvel Adventures Spider-Man,2005,19,Issue,2006-11-30,Comicvine,18094,108235,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-19/4000-108235/,31 days 00:00:00
+265,Marvel Adventures Spider-Man,2005,20,Issue,2006-12-31,Comicvine,18094,108842,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-20-monster-mash/4000-108842/,31 days 00:00:00
+266,Marvel Adventures Spider-Man,2005,21,Issue,2007-01-31,Comicvine,18094,127855,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-21-fashion-victims/4000-127855/,28 days 00:00:00
+267,Marvel Adventures Spider-Man,2005,22,Issue,2007-02-28,Comicvine,18094,106261,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-22-world-war-g/4000-106261/,31 days 00:00:00
+268,Marvel Adventures Spider-Man,2005,23,Issue,2007-03-31,Comicvine,18094,127856,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-23-dust-up-in-aisle-s/4000-127856/,30 days 00:00:00
+269,Marvel Adventures Spider-Man,2005,24,Issue,2007-04-30,Comicvine,18094,127857,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-24-breaking-up-is-ven/4000-127857/,31 days 00:00:00
+270,Marvel Adventures Spider-Man,2005,25,Issue,2007-05-31,Comicvine,18094,108843,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-25-three-rings-of-dan/4000-108843/,30 days 00:00:00
+271,Marvel Adventures Spider-Man,2005,26,Issue,2007-06-30,Comicvine,18094,127858,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-26-reading-writing-an/4000-127858/,31 days 00:00:00
+272,Marvel Adventures Spider-Man,2005,27,Issue,2007-07-31,Comicvine,18094,127859,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-27-but-seriously-folk/4000-127859/,31 days 00:00:00
+273,Marvel Adventures Spider-Man,2005,28,Issue,2007-08-31,Comicvine,18094,127860,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-28-i-hate-spider-man/4000-127860/,30 days 00:00:00
+274,Marvel Adventures Spider-Man,2005,29,Issue,2007-09-30,Comicvine,18094,113362,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-29-rock-and-roll/4000-113362/,31 days 00:00:00
+275,Marvel Adventures Spider-Man,2005,30,Issue,2007-10-31,Comicvine,18094,113135,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-30-whirlwind-tour/4000-113135/,30 days 00:00:00
+276,Marvel Adventures Spider-Man,2005,31,Issue,2007-11-30,Comicvine,18094,121526,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-31-fired/4000-121526/,31 days 00:00:00
+277,Marvel Adventures Spider-Man,2005,32,Issue,2007-12-31,Comicvine,18094,115413,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-32-submerged/4000-115413/,31 days 00:00:00
+278,Marvel Adventures Spider-Man,2005,33,Issue,2008-01-31,Comicvine,18094,127863,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-33-the-tenant-mini-ma/4000-127863/,29 days 00:00:00
+279,Marvel Adventures Spider-Man,2005,34,Issue,2008-02-29,Comicvine,18094,120840,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-34-the-un-natural/4000-120840/,31 days 00:00:00
+280,Marvel Adventures Spider-Man,2005,35,Issue,2008-03-31,Comicvine,18094,127864,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-35-the-side-kick/4000-127864/,30 days 00:00:00
+281,Marvel Adventures Spider-Man,2005,36,Issue,2008-04-30,Comicvine,18094,127865,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-36-the-good-son/4000-127865/,31 days 00:00:00
+282,Marvel Adventures Spider-Man,2005,37,Issue,2008-05-31,Comicvine,18094,127866,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-37-school-of-hard-kno/4000-127866/,30 days 00:00:00
+283,Marvel Adventures Spider-Man,2005,38,Issue,2008-06-30,Comicvine,18094,133993,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-38-theres-no-bee-in-t/4000-133993/,31 days 00:00:00
+284,Marvel Adventures Spider-Man,2005,39,Issue,2008-07-31,Comicvine,18094,133998,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-39-model-student/4000-133998/,31 days 00:00:00
+285,Marvel Adventures Spider-Man,2005,40,Issue,2008-08-31,Comicvine,18094,134000,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-40-if-i-had-a-hammer/4000-134000/,30 days 00:00:00
+286,Marvel Adventures Spider-Man,2005,41,Issue,2008-09-30,Comicvine,18094,174653,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-41-the-need-for-speed/4000-174653/,31 days 00:00:00
+287,Marvel Adventures Spider-Man,2005,42,Issue,2008-10-31,Comicvine,18094,136208,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-42-catfight/4000-136208/,30 days 00:00:00
+288,Marvel Adventures Spider-Man,2005,43,Issue,2008-11-30,Comicvine,18094,138387,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-43-a-whale-of-a-tale/4000-138387/,31 days 00:00:00
+289,Marvel Adventures Spider-Man,2005,44,Issue,2008-12-31,Comicvine,18094,140176,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-44-evil-on-a-grander-/4000-140176/,31 days 00:00:00
+290,Marvel Adventures Spider-Man,2005,45,Issue,2009-01-31,Comicvine,18094,142782,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-45-pieces-of-the-puzz/4000-142782/,28 days 00:00:00
+291,Marvel Adventures Spider-Man,2005,46,Issue,2009-02-28,Comicvine,18094,148090,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-46-silent-nights/4000-148090/,31 days 00:00:00
+292,Marvel Adventures Spider-Man,2005,47,Issue,2009-03-31,Comicvine,18094,150053,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-47-everything-you-rea/4000-150053/,30 days 00:00:00
+293,Marvel Adventures Spider-Man,2005,48,Issue,2009-04-30,Comicvine,18094,152571,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-48-two-for-one/4000-152571/,31 days 00:00:00
+294,Marvel Adventures Spider-Man,2005,49,Issue,2009-05-31,Comicvine,18094,154288,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-49-playing-hero/4000-154288/,30 days 00:00:00
+295,Marvel Adventures Spider-Man,2005,50,Issue,2009-06-30,Comicvine,18094,155633,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-50-sinister-sixteenth/4000-155633/,31 days 00:00:00
+296,Marvel Adventures Spider-Man,2005,51,Issue,2009-07-31,Comicvine,18094,157943,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-51-pvp-pete-vs-pete/4000-157943/,31 days 00:00:00
+297,Marvel Adventures Spider-Man,2005,52,Issue,2009-08-31,Comicvine,18094,162625,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-52-no-substitute/4000-162625/,30 days 00:00:00
+298,Marvel Adventures Spider-Man,2005,53,Issue,2009-09-30,Comicvine,18094,165188,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-53-a-sense-of-respons/4000-165188/,31 days 00:00:00
+299,Marvel Adventures Spider-Man,2005,54,Issue,2009-10-31,Comicvine,18094,168305,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-54-taken-for-a-ride/4000-168305/,30 days 00:00:00
+300,Marvel Adventures Spider-Man,2005,55,Issue,2009-11-30,Comicvine,18094,174433,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-55-why-i-was-late-for/4000-174433/,31 days 00:00:00
+301,Marvel Adventures Spider-Man,2005,56,Issue,2009-12-31,Comicvine,18094,179942,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-56-vigilantes/4000-179942/,31 days 00:00:00
+302,Marvel Adventures Spider-Man,2005,57,Issue,2010-01-31,Comicvine,18094,185427,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-57-the-silencer/4000-185427/,28 days 00:00:00
+303,Marvel Adventures Spider-Man,2005,58,Issue,2010-02-28,Comicvine,18094,191212,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-58-wanted/4000-191212/,31 days 00:00:00
+304,Marvel Adventures Spider-Man,2005,59,Issue,2010-03-31,Comicvine,18094,194828,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-59-meet-pete/4000-194828/,30 days 00:00:00
+305,Marvel Adventures Spider-Man,2005,60,Issue,2010-04-30,Comicvine,18094,198626,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-60-ive-got-a-badge/4000-198626/,31 days 00:00:00
+306,Marvel Adventures Spider-Man,2005,61,Issue,2010-05-31,Comicvine,18094,201940,Marvel Adventures: Spider-Man,2005, ,https://comicvine.gamespot.com/marvel-adventures-spider-man-61-final-issue/4000-201940/,2037 days 00:00:00
+307,Gambit,2004,1,Issue,2004-11-01,Comicvine,11880,103946,Gambit,2004, ,https://comicvine.gamespot.com/gambit-1-house-of-cards-part-1-the-prodigal-sinner/4000-103946/,0 days 00:00:00
+308,Gambit,2004,2,Issue,2004-11-01,Comicvine,11880,103947,Gambit,2004, ,https://comicvine.gamespot.com/gambit-2-house-of-cards-part-2-players-club/4000-103947/,30 days 00:00:00
+309,Gambit,2004,3,Issue,2004-12-01,Comicvine,11880,103948,Gambit,2004, ,https://comicvine.gamespot.com/gambit-3-house-of-cards-part-3-sleight-of-hand/4000-103948/,31 days 00:00:00
+310,Gambit,2004,4,Issue,2005-01-01,Comicvine,11880,103949,Gambit,2004, ,https://comicvine.gamespot.com/gambit-4-house-of-cards-part-4-bet-your-life/4000-103949/,31 days 00:00:00
+311,Gambit,2004,5,Issue,2005-02-01,Comicvine,11880,133267,Gambit,2004, ,https://comicvine.gamespot.com/gambit-5-house-of-cards-part-5-celebrity-poker/4000-133267/,28 days 00:00:00
+312,Gambit,2004,6,Issue,2005-03-01,Comicvine,11880,133268,Gambit,2004, ,https://comicvine.gamespot.com/gambit-6-house-of-cards-part-6-backstabbers-rhapso/4000-133268/,120 days 00:00:00
+313,Cable & Deadpool,2004,7,Issue,2004-11-01,Comicvine,18070,105842,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-7-the-burnt-offering-part-1-headles/4000-105842/,30 days 00:00:00
+314,Cable & Deadpool,2004,8,Issue,2004-12-01,Comicvine,18070,105843,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-8-the-burnt-offering-part-2-lepers-/4000-105843/,31 days 00:00:00
+315,Cable & Deadpool,2004,9,Issue,2005-01-01,Comicvine,18070,105851,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-9-the-burnt-offering-part-3-when-th/4000-105851/,31 days 00:00:00
+316,Cable & Deadpool,2004,10,Issue,2005-02-01,Comicvine,18070,105863,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-10-the-burnt-offering-part-4-born-s/4000-105863/,28 days 00:00:00
+317,Cable & Deadpool,2004,11,Issue,2005-03-01,Comicvine,18070,105862,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-11-thirty-pieces-a-story-in-two-par/4000-105862/,31 days 00:00:00
+318,Cable & Deadpool,2004,12,Issue,2005-04-01,Comicvine,18070,105864,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-12-thirty-pieces-a-story-in-two-par/4000-105864/,30 days 00:00:00
+319,Cable & Deadpool,2004,13,Issue,2005-05-01,Comicvine,18070,105865,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-13-a-murder-in-paradise-part-one-fl/4000-105865/,31 days 00:00:00
+320,Cable & Deadpool,2004,14,Issue,2005-06-01,Comicvine,18070,105869,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-14-a-murder-in-paradise-part-two-do/4000-105869/,305 days 00:00:00
+321,District X,2004,1,Issue,2004-07-31,Comicvine,19327,116029,District X,2004, ,https://comicvine.gamespot.com/district-x-1-mister-m-part-1/4000-116029/,31 days 00:00:00
+322,District X,2004,2,Issue,2004-08-31,Comicvine,19327,116067,District X,2004, ,https://comicvine.gamespot.com/district-x-2-mister-m-part-2/4000-116067/,30 days 00:00:00
+323,District X,2004,3,Issue,2004-09-30,Comicvine,19327,116069,District X,2004, ,https://comicvine.gamespot.com/district-x-3-mister-m-part-3/4000-116069/,31 days 00:00:00
+324,District X,2004,4,Issue,2004-10-31,Comicvine,19327,116070,District X,2004, ,https://comicvine.gamespot.com/district-x-4-mister-m-part-4/4000-116070/,30 days 00:00:00
+325,District X,2004,5,Issue,2004-11-30,Comicvine,19327,116071,District X,2004, ,https://comicvine.gamespot.com/district-x-5-mister-m-part-5/4000-116071/,31 days 00:00:00
+326,District X,2004,6,Issue,2004-12-31,Comicvine,19327,116072,District X,2004, ,https://comicvine.gamespot.com/district-x-6-mister-m-part-6/4000-116072/,31 days 00:00:00
+327,District X,2004,7,Issue,2005-01-31,Comicvine,19327,118019,District X,2004, ,https://comicvine.gamespot.com/district-x-7-underground-part-1/4000-118019/,28 days 00:00:00
+328,District X,2004,8,Issue,2005-02-28,Comicvine,19327,120737,District X,2004, ,https://comicvine.gamespot.com/district-x-8-underground-part-2/4000-120737/,31 days 00:00:00
+329,District X,2004,9,Issue,2005-03-31,Comicvine,19327,120738,District X,2004, ,https://comicvine.gamespot.com/district-x-9-underground-part-3/4000-120738/,30 days 00:00:00
+330,District X,2004,10,Issue,2005-04-30,Comicvine,19327,120739,District X,2004, ,https://comicvine.gamespot.com/district-x-10-underground-part-4/4000-120739/,31 days 00:00:00
+331,District X,2004,11,Issue,2005-05-31,Comicvine,19327,120740,District X,2004, ,https://comicvine.gamespot.com/district-x-11-underground-part-5/4000-120740/,30 days 00:00:00
+332,District X,2004,12,Issue,2005-06-30,Comicvine,19327,120741,District X,2004, ,https://comicvine.gamespot.com/district-x-12-underground-part-6/4000-120741/,149 days 00:00:00
+333,X-Men,2004,165,Issue,2005-02-01,Comicvine,10731,99631,X-Men,2004, ,https://comicvine.gamespot.com/x-men-165-hark-how-the-bells-/4000-99631/,180 days 00:00:00
+334,District X,2004,13,Issue,2005-07-31,Comicvine,19327,126234,District X,2004, ,https://comicvine.gamespot.com/district-x-13-one-of-us-part-1/4000-126234/,31 days 00:00:00
+335,District X,2004,14,Issue,2005-08-31,Comicvine,19327,126233,District X,2004, ,https://comicvine.gamespot.com/district-x-14-one-of-us-part-2/4000-126233/,395 days 00:00:00
+336,Daredevil,1998,61,Issue,2004-08-01,Comicvine,6209,93411,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-61-the-widow-part-1/4000-93411/,31 days 00:00:00
+337,Daredevil,1998,62,Issue,2004-09-01,Comicvine,6209,93412,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-62-the-widow-part-2/4000-93412/,30 days 00:00:00
+338,Daredevil,1998,63,Issue,2004-10-01,Comicvine,6209,93413,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-63-the-widow-part-3/4000-93413/,31 days 00:00:00
+339,Daredevil,1998,64,Issue,2004-11-01,Comicvine,6209,93414,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-64-the-widow-part-4/4000-93414/,184 days 00:00:00
+340,She-Hulk,2004,1,Issue,2004-05-01,Comicvine,11058,96783,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-1-the-girl-from-gamma-gamma-gamma/4000-96783/,31 days 00:00:00
+341,She-Hulk,2004,2,Issue,2004-06-01,Comicvine,11058,96784,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-2-class-action-comics/4000-96784/,30 days 00:00:00
+342,She-Hulk,2004,3,Issue,2004-07-01,Comicvine,11058,96785,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-3-dead-certain/4000-96785/,31 days 00:00:00
+343,She-Hulk,2004,4,Issue,2004-08-01,Comicvine,11058,96786,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-4-web-of-lies/4000-96786/,31 days 00:00:00
+344,She-Hulk,2004,5,Issue,2004-09-01,Comicvine,11058,96787,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-5-the-big-picture-part-1-more-than-a-hand/4000-96787/,30 days 00:00:00
+345,She-Hulk,2004,6,Issue,2004-10-01,Comicvine,11058,96788,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-6-the-big-picture-part-2-minor-implicatio/4000-96788/,31 days 00:00:00
+346,She-Hulk,2004,7,Issue,2004-11-01,Comicvine,11058,96789,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-7-universal-laws-part-1-space-cases/4000-96789/,30 days 00:00:00
+347,She-Hulk,2004,8,Issue,2004-12-01,Comicvine,11058,96790,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-8-universal-laws-part-2-engagement-ring-i/4000-96790/,31 days 00:00:00
+348,She-Hulk,2004,9,Issue,2005-01-01,Comicvine,11058,96791,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-9-strong-enough/4000-96791/,154 days 00:00:00
+349,Excalibur,2004,1,Issue,2004-07-31,Comicvine,11292,99098,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-1-forging-the-sword-part-1-paint-it-blac/4000-99098/,31 days 00:00:00
+350,Excalibur,2004,2,Issue,2004-08-31,Comicvine,11292,99099,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-2-forging-the-sword-part-2-with-a-little/4000-99099/,30 days 00:00:00
+351,Excalibur,2004,3,Issue,2004-09-30,Comicvine,11292,99100,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-3-forging-the-sword-part-3-wild-things/4000-99100/,31 days 00:00:00
+352,Excalibur,2004,4,Issue,2004-10-31,Comicvine,11292,99101,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-4-forging-the-sword-conclusion/4000-99101/,30 days 00:00:00
+353,Excalibur,2004,5,Issue,2004-11-30,Comicvine,11292,99102,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-5-food-fight/4000-99102/,31 days 00:00:00
+354,Excalibur,2004,6,Issue,2004-12-31,Comicvine,11292,99103,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-6-whos-better-whos-best/4000-99103/,31 days 00:00:00
+355,Excalibur,2004,7,Issue,2005-01-31,Comicvine,11292,99104,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-7-bad-moon-rising/4000-99104/,59 days 00:00:00
+356,Excalibur,2004,9,Issue,2005-03-31,Comicvine,11292,101043,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-9-what-is-the-life-that-i-led/4000-101043/,30 days 00:00:00
+357,Excalibur,2004,10,Issue,2005-04-30,Comicvine,11292,101044,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-10-casting-fate/4000-101044/,611 days 00:00:00
+358,What If? Avengers Disassembled,2007,1,Issue,2007-01-01,Comicvine,21359,129037,What If? Featuring Avengers Disassembled,2006, ,https://comicvine.gamespot.com/issue/4000-129037/,700 days 00:00:00
+359,Fantastic Four,1988,520,Issue,2005-01-31,Comicvine,6211,150992,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-150992/,28 days 00:00:00
+360,Fantastic Four,1988,521,Issue,2005-02-28,Comicvine,6211,162119,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-162119/,31 days 00:00:00
+361,Fantastic Four,1988,522,Issue,2005-03-31,Comicvine,6211,162120,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-162120/,30 days 00:00:00
+362,Fantastic Four,1988,523,Issue,2005-04-30,Comicvine,6211,162121,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-162121/,31 days 00:00:00
+363,Fantastic Four,1988,524,Issue,2005-05-31,Comicvine,6211,162122,Fantastic Four,1998, ,https://comicvine.gamespot.com/issue/4000-162122/,91 days 00:00:00
+364,Stormbreaker: The Saga of Beta Ray Bill,2005,1,Issue,2005-03-01,Comicvine,20565,123207,Stormbreaker: The Saga of Beta Ray Bill,2005, ,https://comicvine.gamespot.com/stormbreaker-the-saga-of-beta-ray-bill-1-the-saga-/4000-123207/,31 days 00:00:00
+365,Stormbreaker: The Saga of Beta Ray Bill,2005,2,Issue,2005-04-01,Comicvine,20565,123209,Stormbreaker: The Saga of Beta Ray Bill,2005, ,https://comicvine.gamespot.com/stormbreaker-the-saga-of-beta-ray-bill-2-the-crumb/4000-123209/,30 days 00:00:00
+366,Stormbreaker: The Saga of Beta Ray Bill,2005,3,Issue,2005-05-01,Comicvine,20565,123210,Stormbreaker: The Saga of Beta Ray Bill,2005, ,https://comicvine.gamespot.com/stormbreaker-the-saga-of-beta-ray-bill-3/4000-123210/,31 days 00:00:00
+367,Stormbreaker: The Saga of Beta Ray Bill,2005,4,Issue,2005-06-01,Comicvine,20565,123211,Stormbreaker: The Saga of Beta Ray Bill,2005, ,https://comicvine.gamespot.com/stormbreaker-the-saga-of-beta-ray-bill-4-asteroth/4000-123211/,30 days 00:00:00
+368,Stormbreaker: The Saga of Beta Ray Bill,2005,5,Issue,2005-07-01,Comicvine,20565,123212,Stormbreaker: The Saga of Beta Ray Bill,2005, ,https://comicvine.gamespot.com/stormbreaker-the-saga-of-beta-ray-bill-5-omega-the/4000-123212/,31 days 00:00:00
+369,Stormbreaker: The Saga of Beta Ray Bill,2005,6,Issue,2005-08-01,Comicvine,20565,123213,Stormbreaker: The Saga of Beta Ray Bill,2005, ,https://comicvine.gamespot.com/stormbreaker-the-saga-of-beta-ray-bill-6-the-death/4000-123213/,181 days 00:00:00
+370,She-Hulk,2004,10,Issue,2005-02-01,Comicvine,11058,96792,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-10-skeeter/4000-96792/,58 days 00:00:00
+371,She-Hulk,2004,11,Issue,2005-03-31,Comicvine,11058,99191,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-11-imbalance-of-power/4000-99191/,1 days 00:00:00
+372,She-Hulk,2004,12,Issue,2005-04-01,Comicvine,11058,99192,She-Hulk,2004, ,https://comicvine.gamespot.com/she-hulk-12-some-disassembly-required/4000-99192/,274 days 00:00:00
+373,Astonishing X-Men,2003,1,Issue,2004-07-01,Comicvine,10746,90580,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-90580/,31 days 00:00:00
+374,Astonishing X-Men,2003,2,Issue,2004-08-01,Comicvine,10746,90581,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-90581/,31 days 00:00:00
+375,Astonishing X-Men,2003,3,Issue,2004-09-01,Comicvine,10746,90583,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-90583/,30 days 00:00:00
+376,Astonishing X-Men,2003,4,Issue,2004-10-01,Comicvine,10746,93543,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-93543/,31 days 00:00:00
+377,Astonishing X-Men,2003,5,Issue,2004-11-01,Comicvine,10746,93544,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-93544/,30 days 00:00:00
+378,Astonishing X-Men,2003,6,Issue,2004-12-01,Comicvine,10746,99750,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-99750/,121 days 00:00:00
+379,Uncanny X-Men,1981,455,Issue,2005-04-01,Comicvine,3092,99476,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-455-worlds-end-part-1-not-dead-y/4000-99476/,0 days 00:00:00
+380,Uncanny X-Men,1981,456,Issue,2005-04-01,Comicvine,3092,99894,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-456-worlds-end-part-2-on-ice/4000-99894/,30 days 00:00:00
+381,Uncanny X-Men,1981,457,Issue,2005-05-01,Comicvine,3092,101001,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-457-worlds-end-part-3-cutting-ed/4000-101001/,31 days 00:00:00
+382,Uncanny X-Men,1981,458,Issue,2005-06-01,Comicvine,3092,101002,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-458-worlds-end-part-4-the-enemy-/4000-101002/,30 days 00:00:00
+383,Uncanny X-Men,1981,459,Issue,2005-07-01,Comicvine,3092,106561,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-459-worlds-end-part-5-bad-compan/4000-106561/,123 days 00:00:00
+384,X-Men: Colossus Bloodline,2005,1,Issue,2005-11-01,Comicvine,18699,110540,X-Men: Colossus Bloodline,2005, ,https://comicvine.gamespot.com/x-men-colossus-bloodline-1-bloodline-part-1-to-rus/4000-110540/,30 days 00:00:00
+385,X-Men: Colossus Bloodline,2005,2,Issue,2005-12-01,Comicvine,18699,110638,X-Men: Colossus Bloodline,2005, ,https://comicvine.gamespot.com/x-men-colossus-bloodline-2-bloodline-part-2/4000-110638/,31 days 00:00:00
+386,X-Men: Colossus Bloodline,2005,3,Issue,2006-01-01,Comicvine,18699,110818,X-Men: Colossus Bloodline,2005, ,https://comicvine.gamespot.com/x-men-colossus-bloodline-3-bloodline-part-3/4000-110818/,31 days 00:00:00
+387,X-Men: Colossus Bloodline,2005,4,Issue,2006-02-01,Comicvine,18699,110819,X-Men: Colossus Bloodline,2005, ,https://comicvine.gamespot.com/x-men-colossus-bloodline-4-bloodline-part-4/4000-110819/,28 days 00:00:00
+388,X-Men: Colossus Bloodline,2005,5,Issue,2006-03-01,Comicvine,18699,110820,X-Men: Colossus Bloodline,2005, ,https://comicvine.gamespot.com/x-men-colossus-bloodline-5-bloodline-part-5/4000-110820/,455 days 00:00:00
+389,Wolverine,2003,20,Issue,2004-12-01,Comicvine,10809,96820,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-20-enemy-of-the-state-part-1/4000-96820/,0 days 00:00:00
+390,Wolverine,2003,21,Issue,2004-12-01,Comicvine,10809,96821,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-21-enemy-of-the-state-part-2/4000-96821/,31 days 00:00:00
+391,Wolverine,2003,22,Issue,2005-01-01,Comicvine,10809,97343,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-22-enemy-of-the-state-part-3/4000-97343/,31 days 00:00:00
+392,Wolverine,2003,23,Issue,2005-02-01,Comicvine,10809,97344,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-23-enemy-of-the-state-part-4/4000-97344/,28 days 00:00:00
+393,Wolverine,2003,24,Issue,2005-03-01,Comicvine,10809,99465,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-24-enemy-of-the-state-part-5/4000-99465/,31 days 00:00:00
+394,Wolverine,2003,25,Issue,2005-04-01,Comicvine,10809,99466,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-25-enemy-of-the-state-part-6/4000-99466/,91 days 00:00:00
+395,New X-Men,2004,13,Issue,2005-07-01,Comicvine,18078,106275,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-13-campfire/4000-106275/,31 days 00:00:00
+396,Uncanny X-Men,1981,461,Issue,2005-08-01,Comicvine,3092,106563,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-461-mojo-rising/4000-106563/,92 days 00:00:00
+397,Wolverine,2003,26,Issue,2005-05-01,Comicvine,10809,100863,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-26-agent-of-shield-part-1/4000-100863/,60 days 00:00:00
+398,Wolverine,2003,27,Issue,2005-06-30,Comicvine,10809,100864,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-27-agent-of-shield-part-2/4000-100864/,1 days 00:00:00
+399,Wolverine,2003,28,Issue,2005-07-01,Comicvine,10809,114060,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-28-agent-of-shield-part-3/4000-114060/,31 days 00:00:00
+400,Wolverine,2003,29,Issue,2005-08-01,Comicvine,10809,114508,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-29-agent-of-shield-part-4/4000-114508/,31 days 00:00:00
+401,Wolverine,2003,30,Issue,2005-09-01,Comicvine,10809,114509,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-30-agent-of-shield-part-5/4000-114509/,30 days 00:00:00
+402,Wolverine,2003,31,Issue,2005-10-01,Comicvine,10809,114510,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-31-agent-of-shield-part-6/4000-114510/,0 days 00:00:00
+403,Wolverine,2003,32,Issue,2005-10-01,Comicvine,10809,114056,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-32-prisoner-number-zero/4000-114056/,457 days 00:00:00
+404,What If? Wolverine: Enemy of the State,2007,1,Issue,2007-01-01,Comicvine,23084,139136,What if? Wolverine: Enemy of the State,2007, ,https://comicvine.gamespot.com/what-if-wolverine-enemy-of-the-state-1-what-if-wol/4000-139136/,791 days 00:00:00
+405,Black Widow,2004,1,Issue,2004-11-01,Comicvine,11492,101444,Black Widow,2004, ,https://comicvine.gamespot.com/black-widow-1-right-to-life-part-1/4000-101444/,30 days 00:00:00
+406,Black Widow,2004,2,Issue,2004-12-01,Comicvine,11492,101445,Black Widow,2004, ,https://comicvine.gamespot.com/black-widow-2-right-to-life-part-2/4000-101445/,31 days 00:00:00
+407,Black Widow,2004,3,Issue,2005-01-01,Comicvine,11492,101446,Black Widow,2004, ,https://comicvine.gamespot.com/black-widow-3-now-thats-what-i-call-a-woman/4000-101446/,31 days 00:00:00
+408,Black Widow,2004,4,Issue,2005-02-01,Comicvine,11492,101447,Black Widow,2004, ,https://comicvine.gamespot.com/black-widow-4-no-place-like-home/4000-101447/,28 days 00:00:00
+409,Black Widow,2004,5,Issue,2005-03-01,Comicvine,11492,101448,Black Widow,2004, ,https://comicvine.gamespot.com/black-widow-5-a-field-in-the-east/4000-101448/,31 days 00:00:00
+410,Black Widow,2004,6,Issue,2005-04-01,Comicvine,11492,101449,Black Widow,2004, ,https://comicvine.gamespot.com/black-widow-6-now-thats-what-i-call-a-woman-repris/4000-101449/,0 days 00:00:00
+411,Gambit,2004,7,Issue,2005-04-01,Comicvine,11880,136112,Gambit,2004, ,https://comicvine.gamespot.com/gambit-7-hath-no-fury-part-1-voodoo-economics/4000-136112/,30 days 00:00:00
+412,Gambit,2004,8,Issue,2005-05-01,Comicvine,11880,133269,Gambit,2004, ,https://comicvine.gamespot.com/gambit-8-hath-no-fury-part-2-down-among-the-dead-m/4000-133269/,31 days 00:00:00
+413,Gambit,2004,9,Issue,2005-06-01,Comicvine,11880,136113,Gambit,2004, ,https://comicvine.gamespot.com/gambit-9-hath-no-fury-part-3-to-protect-and-sever/4000-136113/,30 days 00:00:00
+414,Gambit,2004,10,Issue,2005-07-01,Comicvine,11880,136114,Gambit,2004, ,https://comicvine.gamespot.com/gambit-10-x-lies-and-videotape/4000-136114/,0 days 00:00:00
+415,Gambit,2004,11,Issue,2005-07-01,Comicvine,11880,136115,Gambit,2004, ,https://comicvine.gamespot.com/gambit-11-thieves-world-part-1/4000-136115/,31 days 00:00:00
+416,Gambit,2004,12,Issue,2005-08-01,Comicvine,11880,136116,Gambit,2004, ,https://comicvine.gamespot.com/gambit-12-thieves-world-part-2/4000-136116/,273 days 00:00:00
+417,Daredevil,1998,65,Issue,2004-11-01,Comicvine,6209,94295,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-65-the-universe/4000-94295/,30 days 00:00:00
+418,Daredevil,1998,66,Issue,2004-12-01,Comicvine,6209,94296,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-66-golden-age-part-1/4000-94296/,31 days 00:00:00
+419,Daredevil,1998,67,Issue,2005-01-01,Comicvine,6209,97417,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-67-golden-age-part-2/4000-97417/,31 days 00:00:00
+420,Daredevil,1998,68,Issue,2005-02-01,Comicvine,6209,97418,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-68-golden-age-part-3/4000-97418/,28 days 00:00:00
+421,Daredevil,1998,69,Issue,2005-03-01,Comicvine,6209,99468,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-69-golden-age-part-4/4000-99468/,31 days 00:00:00
+422,Daredevil,1998,70,Issue,2005-04-01,Comicvine,6209,99469,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-70-golden-age-part-5/4000-99469/,90 days 00:00:00
+423,Iron Man,2005,1,Issue,2005-01-01,Comicvine,18220,108913,Iron Man,2004, ,https://comicvine.gamespot.com/issue/4000-108913/,31 days 00:00:00
+424,Iron Man,2005,2,Issue,2005-02-01,Comicvine,18220,108914,Iron Man,2004, ,https://comicvine.gamespot.com/issue/4000-108914/,28 days 00:00:00
+425,Iron Man,2005,3,Issue,2005-03-01,Comicvine,18220,111259,Iron Man,2004, ,https://comicvine.gamespot.com/issue/4000-111259/,214 days 00:00:00
+426,Iron Man,2005,4,Issue,2005-10-01,Comicvine,18220,111395,Iron Man,2004, ,https://comicvine.gamespot.com/issue/4000-111395/,151 days 00:00:00
+427,Iron Man,2005,5,Issue,2006-03-01,Comicvine,18220,111396,Iron Man,2004, ,https://comicvine.gamespot.com/issue/4000-111396/,61 days 00:00:00
+428,Iron Man,2005,6,Issue,2006-05-01,Comicvine,18220,111397,Iron Man,2004, ,https://comicvine.gamespot.com/issue/4000-111397/,426 days 00:00:00
+429,X-23,2005,1,Issue,2005-03-01,Comicvine,18176,106461,X-23,2005, ,https://comicvine.gamespot.com/x-23-1-innocence-lost-part-1/4000-106461/,0 days 00:00:00
+430,X-23,2005,2,Issue,2005-03-01,Comicvine,18176,106471,X-23,2005, ,https://comicvine.gamespot.com/x-23-2-innocence-lost-part-2/4000-106471/,31 days 00:00:00
+431,X-23,2005,3,Issue,2005-04-01,Comicvine,18176,106472,X-23,2005, ,https://comicvine.gamespot.com/x-23-3-innocence-lost-part-3/4000-106472/,30 days 00:00:00
+432,X-23,2005,4,Issue,2005-05-01,Comicvine,18176,106473,X-23,2005, ,https://comicvine.gamespot.com/x-23-4-innocence-lost-part-4/4000-106473/,31 days 00:00:00
+433,X-23,2005,5,Issue,2005-06-01,Comicvine,18176,106497,X-23,2005, ,https://comicvine.gamespot.com/x-23-5-innocence-lost-part-5/4000-106497/,30 days 00:00:00
+434,X-23,2005,6,Issue,2005-07-01,Comicvine,18176,106498,X-23,2005, ,https://comicvine.gamespot.com/x-23-6-innocence-lost-part-6-conclusion/4000-106498/,91 days 00:00:00
+435,Runaways,2005,1,Issue,2005-04-01,Comicvine,11872,103877,Runaways,2005, ,https://comicvine.gamespot.com/runaways-1-true-believers-part-1/4000-103877/,30 days 00:00:00
+436,Runaways,2005,2,Issue,2005-05-01,Comicvine,11872,103878,Runaways,2005, ,https://comicvine.gamespot.com/runaways-2-true-believers-part-2/4000-103878/,0 days 00:00:00
+437,Runaways,2005,3,Issue,2005-05-01,Comicvine,11872,103879,Runaways,2005, ,https://comicvine.gamespot.com/runaways-3-true-believers-part-3/4000-103879/,61 days 00:00:00
+438,Runaways,2005,4,Issue,2005-07-01,Comicvine,11872,103880,Runaways,2005, ,https://comicvine.gamespot.com/runaways-4-true-believers-part-4/4000-103880/,31 days 00:00:00
+439,Runaways,2005,5,Issue,2005-08-01,Comicvine,11872,103881,Runaways,2005, ,https://comicvine.gamespot.com/runaways-5-true-believers-part-5/4000-103881/,31 days 00:00:00
+440,Runaways,2005,6,Issue,2005-09-01,Comicvine,11872,103882,Runaways,2005, ,https://comicvine.gamespot.com/runaways-6-true-believers-part-6/4000-103882/,123 days 00:00:00
+441,Great Lakes Avengers,2005,1,Issue,2005-05-01,Comicvine,11799,103516,G.L.A.,2005, ,https://comicvine.gamespot.com/issue/4000-103516/,61 days 00:00:00
+442,Great Lakes Avengers,2005,2,Issue,2005-07-01,Comicvine,11799,103517,G.L.A.,2005, ,https://comicvine.gamespot.com/issue/4000-103517/,31 days 00:00:00
+443,Great Lakes Avengers,2005,3,Issue,2005-08-01,Comicvine,11799,103518,G.L.A.,2005, ,https://comicvine.gamespot.com/issue/4000-103518/,31 days 00:00:00
+444,Great Lakes Avengers,2005,4,Issue,2005-09-01,Comicvine,11799,103519,G.L.A.,2005, ,https://comicvine.gamespot.com/issue/4000-103519/,702 days 00:00:00
+445,New Thunderbolts,2006,81,Issue,2003-09-30,Comicvine,6020,90014,Thunderbolts,1997, ,https://comicvine.gamespot.com/issue/4000-90014/,459 days 00:00:00
+446,New Thunderbolts,2005,1,Issue,2005-01-01,Comicvine,11298,99213,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-1-one-step-forward/4000-99213/,31 days 00:00:00
+447,New Thunderbolts,2005,2,Issue,2005-02-01,Comicvine,11298,99214,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-2-the-games-people-play/4000-99214/,0 days 00:00:00
+448,New Thunderbolts,2005,3,Issue,2005-02-01,Comicvine,11298,99215,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-3-heavy-burdens/4000-99215/,28 days 00:00:00
+449,New Thunderbolts,2005,4,Issue,2005-03-01,Comicvine,11298,99216,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-4-sword-and-claw/4000-99216/,31 days 00:00:00
+450,New Thunderbolts,2005,5,Issue,2005-04-01,Comicvine,11298,99217,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-5-call-to-battle/4000-99217/,30 days 00:00:00
+451,New Thunderbolts,2005,6,Issue,2005-05-01,Comicvine,11298,99218,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-6-city-of-heroes/4000-99218/,181 days 00:00:00
+452,Strange,2004,1,Issue,2004-11-01,Comicvine,11178,97906,Strange,2004, ,https://comicvine.gamespot.com/strange-1-strange-part-1/4000-97906/,30 days 00:00:00
+453,Strange,2004,2,Issue,2004-12-01,Comicvine,11178,97907,Strange,2004, ,https://comicvine.gamespot.com/strange-2-strange-part-2/4000-97907/,31 days 00:00:00
+454,Strange,2004,3,Issue,2005-01-01,Comicvine,11178,97908,Strange,2004, ,https://comicvine.gamespot.com/strange-3-strange-part-3/4000-97908/,31 days 00:00:00
+455,Strange,2004,4,Issue,2005-02-01,Comicvine,11178,103908,Strange,2004, ,https://comicvine.gamespot.com/strange-4-strange-part-4/4000-103908/,28 days 00:00:00
+456,Strange,2004,5,Issue,2005-03-01,Comicvine,11178,103909,Strange,2004, ,https://comicvine.gamespot.com/strange-5-strange-part-5/4000-103909/,31 days 00:00:00
+457,Strange,2004,6,Issue,2005-04-01,Comicvine,11178,103910,Strange,2004, ,https://comicvine.gamespot.com/strange-6-strange-beginnings-and-endings-conclusio/4000-103910/,396 days 00:00:00
+458,Punisher,2004,1,Issue,2004-03-01,Comicvine,11164,97738,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-1-in-the-beginning-part-1/4000-97738/,0 days 00:00:00
+459,Punisher,2004,2,Issue,2004-03-01,Comicvine,11164,97739,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-2-in-the-beginning-part-2/4000-97739/,31 days 00:00:00
+460,Punisher,2004,3,Issue,2004-04-01,Comicvine,11164,108251,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-3-in-the-beginning-part-3/4000-108251/,30 days 00:00:00
+461,Punisher,2004,4,Issue,2004-05-01,Comicvine,11164,97740,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-4-in-the-beginning-part-4/4000-97740/,31 days 00:00:00
+462,Punisher,2004,5,Issue,2004-06-01,Comicvine,11164,97741,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-5-in-the-beginning-part-5/4000-97741/,30 days 00:00:00
+463,Punisher,2004,6,Issue,2004-07-01,Comicvine,11164,97742,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-6-in-the-beginning-conclusion/4000-97742/,31 days 00:00:00
+464,Punisher,2004,7,Issue,2004-08-01,Comicvine,11164,97743,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-7-kitchen-irish-part-one/4000-97743/,14 days 00:00:00
+465,Punisher,2004,8,Issue,2004-08-15,Comicvine,11164,97744,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-8-kitchen-irish-part-2/4000-97744/,17 days 00:00:00
+466,Punisher,2004,9,Issue,2004-09-01,Comicvine,11164,97745,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-9-kitchen-irish-part-3/4000-97745/,30 days 00:00:00
+467,Punisher,2004,10,Issue,2004-10-01,Comicvine,11164,97746,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-10-kitchen-irish-part-4/4000-97746/,31 days 00:00:00
+468,Punisher,2004,11,Issue,2004-11-01,Comicvine,11164,97747,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-11-kitchen-irish-part-5/4000-97747/,30 days 00:00:00
+469,Punisher,2004,12,Issue,2004-12-01,Comicvine,11164,97748,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-12-kitchen-irish-part-6/4000-97748/,31 days 00:00:00
+470,Punisher,2004,13,Issue,2005-01-01,Comicvine,11164,97749,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-13-mother-russia-part-1/4000-97749/,0 days 00:00:00
+471,Punisher,2004,14,Issue,2005-01-01,Comicvine,11164,97750,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-14-mother-russia-part-2/4000-97750/,31 days 00:00:00
+472,Punisher,2004,15,Issue,2005-02-01,Comicvine,11164,97751,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-15-mother-russia-part-3/4000-97751/,28 days 00:00:00
+473,Punisher,2004,16,Issue,2005-03-01,Comicvine,11164,107168,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-16-mother-russia-part-4/4000-107168/,31 days 00:00:00
+474,Punisher,2004,17,Issue,2005-04-01,Comicvine,11164,107169,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-17-mother-russia-part-5/4000-107169/,30 days 00:00:00
+475,Punisher,2004,18,Issue,2005-05-01,Comicvine,11164,107170,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-18-mother-russia-part-6/4000-107170/,31 days 00:00:00
+476,Punisher,2004,19,Issue,2005-06-01,Comicvine,11164,107171,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-19-up-is-down-and-black-is-white-part/4000-107171/,0 days 00:00:00
+477,Punisher,2004,20,Issue,2005-06-01,Comicvine,11164,107172,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-20-up-is-down-and-black-is-white-part/4000-107172/,30 days 00:00:00
+478,Punisher,2004,21,Issue,2005-07-01,Comicvine,11164,107173,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-21-up-is-down-and-black-is-white-part/4000-107173/,31 days 00:00:00
+479,Punisher,2004,22,Issue,2005-08-01,Comicvine,11164,107175,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-22-up-is-down-and-black-is-white-part/4000-107175/,31 days 00:00:00
+480,Punisher,2004,23,Issue,2005-09-01,Comicvine,11164,107176,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-23-up-is-down-and-black-is-white-part/4000-107176/,30 days 00:00:00
+481,Punisher,2004,24,Issue,2005-10-01,Comicvine,11164,107177,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-24-up-is-down-and-black-is-white-part/4000-107177/,62 days 00:00:00
+482,Punisher: The Cell,2005,1,Issue,2005-07-31,Comicvine,21737,131122,Punisher: The Cell,2005, ,https://comicvine.gamespot.com/punisher-the-cell-1/4000-131122/,93 days 00:00:00
+483,Punisher,2004,25,Issue,2005-11-01,Comicvine,11164,107178,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-25-the-slavers-part-1/4000-107178/,30 days 00:00:00
+484,Punisher,2004,26,Issue,2005-12-01,Comicvine,11164,107179,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-26-the-slavers-part-2/4000-107179/,31 days 00:00:00
+485,Punisher,2004,27,Issue,2006-01-01,Comicvine,11164,107185,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-27-the-slavers-part-3/4000-107185/,31 days 00:00:00
+486,Punisher,2004,28,Issue,2006-02-01,Comicvine,11164,107187,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-28-the-slavers-part-4/4000-107187/,28 days 00:00:00
+487,Punisher,2004,29,Issue,2006-03-01,Comicvine,11164,107188,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-29-the-slavers-part-5/4000-107188/,31 days 00:00:00
+488,Punisher,2004,30,Issue,2006-04-01,Comicvine,11164,107193,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-30-the-slavers-part-6/4000-107193/,30 days 00:00:00
+489,Punisher,2004,31,Issue,2006-05-01,Comicvine,11164,107163,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-31-barracuda-part-1/4000-107163/,31 days 00:00:00
+490,Punisher,2004,32,Issue,2006-06-01,Comicvine,11164,107162,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-32-barracuda-part-2/4000-107162/,30 days 00:00:00
+491,Punisher,2004,33,Issue,2006-07-01,Comicvine,11164,107161,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-33-barracuda-part-3/4000-107161/,31 days 00:00:00
+492,Punisher,2004,34,Issue,2006-08-01,Comicvine,11164,107160,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-34-barracuda-part-4/4000-107160/,31 days 00:00:00
+493,Punisher,2004,35,Issue,2006-09-01,Comicvine,11164,107159,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-35-barracuda-part-5/4000-107159/,30 days 00:00:00
+494,Punisher,2004,36,Issue,2006-10-01,Comicvine,11164,107158,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-36-barracuda-part-6/4000-107158/,184 days 00:00:00
+495,Punisher: The Tyger,2006,1,Issue,2006-03-31,Comicvine,21175,127229,Punisher: The Tyger,2006, ,https://comicvine.gamespot.com/punisher-the-tyger-1/4000-127229/,215 days 00:00:00
+496,Punisher,2004,37,Issue,2006-11-01,Comicvine,11164,107157,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-37-man-of-stone-part-1/4000-107157/,0 days 00:00:00
+497,Punisher,2004,38,Issue,2006-11-01,Comicvine,11164,107156,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-38-man-of-stone-part-2/4000-107156/,30 days 00:00:00
+498,Punisher,2004,39,Issue,2006-12-01,Comicvine,11164,107155,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-39-man-of-stone-part-3/4000-107155/,31 days 00:00:00
+499,Punisher,2004,40,Issue,2007-01-01,Comicvine,11164,107154,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-40-man-of-stone-part-4/4000-107154/,0 days 00:00:00
+500,Punisher,2004,41,Issue,2007-01-01,Comicvine,11164,107153,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-41-man-of-stone-part-5/4000-107153/,31 days 00:00:00
+501,Punisher,2004,42,Issue,2007-02-01,Comicvine,11164,107152,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-42-man-of-stone-part-6/4000-107152/,28 days 00:00:00
+502,Punisher,2004,43,Issue,2007-03-01,Comicvine,11164,107151,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-43-widowmaker-part-1/4000-107151/,31 days 00:00:00
+503,Punisher,2004,44,Issue,2007-04-01,Comicvine,11164,107150,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-44-widowmaker-part-2/4000-107150/,30 days 00:00:00
+504,Punisher,2004,45,Issue,2007-05-01,Comicvine,11164,107167,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-45-widowmaker-part-3/4000-107167/,31 days 00:00:00
+505,Punisher,2004,46,Issue,2007-06-01,Comicvine,11164,108250,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-46-widowmaker-part-4/4000-108250/,30 days 00:00:00
+506,Punisher,2004,47,Issue,2007-07-01,Comicvine,11164,108961,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-47-widowmaker-part-5/4000-108961/,31 days 00:00:00
+507,Punisher,2004,48,Issue,2007-08-01,Comicvine,11164,110378,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-48-widowmaker-part-6/4000-110378/,31 days 00:00:00
+508,Punisher,2004,49,Issue,2007-09-01,Comicvine,11164,112966,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-49-widowmaker-conclusion/4000-112966/,212 days 00:00:00
+509,Punisher Presents Barracuda,2007,1,Issue,2007-02-01,Comicvine,18314,107227,Punisher Presents: Barracuda,2007, ,https://comicvine.gamespot.com/punisher-presents-barracuda-1-1-a-mouth-s-a-mouth/4000-107227/,48 days 00:00:00
+510,Punisher Presents Barracuda,2007,2,Issue,2007-03-21,Comicvine,18314,107266,Punisher Presents: Barracuda,2007, ,https://comicvine.gamespot.com/punisher-presents-barracuda-2-2-oh-the-muthafuckin/4000-107266/,72 days 00:00:00
+511,Punisher Presents Barracuda,2007,3,Issue,2007-06-01,Comicvine,18314,111205,Punisher Presents: Barracuda,2007, ,https://comicvine.gamespot.com/punisher-presents-barracuda-3-3-curiouser-and-bi-c/4000-111205/,0 days 00:00:00
+512,Punisher Presents Barracuda,2007,4,Issue,2007-06-01,Comicvine,18314,111734,Punisher Presents: Barracuda,2007, ,https://comicvine.gamespot.com/punisher-presents-barracuda-4-4-and-a-warm-place-t/4000-111734/,61 days 00:00:00
+513,Punisher Presents Barracuda,2007,5,Issue,2007-08-01,Comicvine,18314,112706,Punisher Presents: Barracuda,2007, ,https://comicvine.gamespot.com/punisher-presents-barracuda-5-5-baptized-in-a-barr/4000-112706/,61 days 00:00:00
+514,Punisher,2004,50,Issue,2007-10-01,Comicvine,11164,112738,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-50-long-cold-dark-part-1/4000-112738/,61 days 00:00:00
+515,Punisher,2004,51,Issue,2007-12-01,Comicvine,11164,115855,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-51-long-cold-dark-part-2/4000-115855/,31 days 00:00:00
+516,Punisher,2004,52,Issue,2008-01-01,Comicvine,11164,118039,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-52-long-cold-dark-part-3/4000-118039/,31 days 00:00:00
+517,Punisher,2004,53,Issue,2008-02-01,Comicvine,11164,127183,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-53-long-cold-dark-part-4/4000-127183/,60 days 00:00:00
+518,Punisher,2004,54,Issue,2008-04-01,Comicvine,11164,127184,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-54-long-cold-dark-part-5/4000-127184/,30 days 00:00:00
+519,Punisher,2004,55,Issue,2008-05-01,Comicvine,11164,127185,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-55-valley-forge-valley-forge-part-1/4000-127185/,31 days 00:00:00
+520,Punisher,2004,56,Issue,2008-06-01,Comicvine,11164,127186,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-56-valley-forge-valley-forge-part-2/4000-127186/,30 days 00:00:00
+521,Punisher,2004,57,Issue,2008-07-01,Comicvine,11164,130410,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-57-valley-forge-valley-forge-part-3/4000-130410/,31 days 00:00:00
+522,Punisher,2004,58,Issue,2008-08-01,Comicvine,11164,131592,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-58-valley-forge-valley-forge-part-4/4000-131592/,31 days 00:00:00
+523,Punisher,2004,59,Issue,2008-09-01,Comicvine,11164,133768,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-59-valley-forge-valley-forge-part-5/4000-133768/,30 days 00:00:00
+524,Punisher,2004,60,Issue,2008-10-01,Comicvine,11164,135669,The Punisher,2004, ,https://comicvine.gamespot.com/the-punisher-60-valley-forge-valley-forge-conclusi/4000-135669/,1554 days 00:00:00
+525,Punisher: The End,2004,1,Issue,2004-06-30,Comicvine,21767,131270,Punisher: The End,2004, ,https://comicvine.gamespot.com/punisher-the-end-1/4000-131270/,335 days 00:00:00
+526,Secret War,2005,1,Issue,2005-05-31,Comicvine,42904,293108,Secret War,2005, ,https://comicvine.gamespot.com/secret-war-1-secret-war/4000-293108/,61 days 00:00:00
+527,Secret War,2005,2,Issue,2005-07-31,Comicvine,42904,293109,Secret War,2005, ,https://comicvine.gamespot.com/secret-war-2/4000-293109/,122 days 00:00:00
+528,Secret War,2005,3,Issue,2005-11-30,Comicvine,42904,293110,Secret War,2005, ,https://comicvine.gamespot.com/secret-war-3/4000-293110/,62 days 00:00:00
+529,Secret War,2005,4,Issue,2006-01-31,Comicvine,42904,293111,Secret War,2005, ,https://comicvine.gamespot.com/secret-war-4/4000-293111/,59 days 00:00:00
+530,Secret War,2005,5,Issue,2006-03-31,Comicvine,42904,293112,Secret War,2005, ,https://comicvine.gamespot.com/secret-war-5/4000-293112/,395 days 00:00:00
+531,X-Men: Phoenix Endsong,2005,1,Issue,2005-03-01,Comicvine,11353,99607,X-Men: Phoenix - Endsong,2005, ,https://comicvine.gamespot.com/x-men-phoenix-endsong-1-x-men-phoenix-endsong-part/4000-99607/,31 days 00:00:00
+532,X-Men: Phoenix Endsong,2005,2,Issue,2005-04-01,Comicvine,11353,99608,X-Men: Phoenix - Endsong,2005, ,https://comicvine.gamespot.com/x-men-phoenix-endsong-2-x-men-phoenix-endsong-part/4000-99608/,0 days 00:00:00
+533,X-Men: Phoenix Endsong,2005,3,Issue,2005-04-01,Comicvine,11353,99609,X-Men: Phoenix - Endsong,2005, ,https://comicvine.gamespot.com/x-men-phoenix-endsong-3-x-men-phoenix-endsong-part/4000-99609/,30 days 00:00:00
+534,X-Men: Phoenix Endsong,2005,4,Issue,2005-05-01,Comicvine,11353,99610,X-Men: Phoenix - Endsong,2005, ,https://comicvine.gamespot.com/x-men-phoenix-endsong-4-x-men-phoenix-endsong-part/4000-99610/,31 days 00:00:00
+535,X-Men: Phoenix Endsong,2005,5,Issue,2005-06-01,Comicvine,11353,99611,X-Men: Phoenix - Endsong,2005, ,https://comicvine.gamespot.com/x-men-phoenix-endsong-5-x-men-phoenix-endsong-part/4000-99611/,214 days 00:00:00
+536,Thing,2006,1,Issue,2006-01-01,Comicvine,18242,106827,The Thing,2005, ,https://comicvine.gamespot.com/issue/4000-106827/,31 days 00:00:00
+537,Thing,2006,2,Issue,2006-02-01,Comicvine,18242,106852,The Thing,2005, ,https://comicvine.gamespot.com/issue/4000-106852/,28 days 00:00:00
+538,Thing,2006,3,Issue,2006-03-01,Comicvine,18242,106868,The Thing,2005, ,https://comicvine.gamespot.com/issue/4000-106868/,365 days 00:00:00
+539,X-Men,2004,166,Issue,2005-03-01,Comicvine,10731,99632,X-Men,2004, ,https://comicvine.gamespot.com/x-men-166-golgotha-part-1-and-what-dark-beast/4000-99632/,31 days 00:00:00
+540,X-Men,2004,167,Issue,2005-04-01,Comicvine,10731,101015,X-Men,2004, ,https://comicvine.gamespot.com/x-men-167-golgotha-part-2-the-night-of-the-mutant/4000-101015/,30 days 00:00:00
+541,X-Men,2004,168,Issue,2005-05-01,Comicvine,10731,101016,X-Men,2004, ,https://comicvine.gamespot.com/x-men-168-golgotha-part-3-the-crazy-gang/4000-101016/,31 days 00:00:00
+542,X-Men,2004,169,Issue,2005-06-01,Comicvine,10731,101017,X-Men,2004, ,https://comicvine.gamespot.com/x-men-169-golgotha-part-4-quarantine/4000-101017/,30 days 00:00:00
+543,X-Men,2004,170,Issue,2005-07-01,Comicvine,10731,106156,X-Men,2004, ,https://comicvine.gamespot.com/x-men-170-golgotha-part-5-fall-out/4000-106156/,181 days 00:00:00
+544,Captain America,2005,1,Issue,2005-01-01,Comicvine,11499,101412,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-101412/,31 days 00:00:00
+545,Captain America,2005,2,Issue,2005-02-01,Comicvine,11499,101413,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-101413/,28 days 00:00:00
+546,Captain America,2005,3,Issue,2005-03-01,Comicvine,11499,101414,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-101414/,31 days 00:00:00
+547,Captain America,2005,4,Issue,2005-04-01,Comicvine,11499,101415,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-101415/,30 days 00:00:00
+548,Captain America,2005,5,Issue,2005-05-01,Comicvine,11499,115184,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115184/,31 days 00:00:00
+549,Captain America,2005,6,Issue,2005-06-01,Comicvine,11499,115187,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115187/,60 days 00:00:00
+550,Captain America,2005,7,Issue,2005-07-31,Comicvine,11499,115267,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115267/,32 days 00:00:00
+551,Captain America,2005,8,Issue,2005-09-01,Comicvine,11499,115268,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115268/,30 days 00:00:00
+552,Captain America,2005,9,Issue,2005-10-01,Comicvine,11499,115269,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115269/,0 days 00:00:00
+553,Captain America,2005,10,Issue,2005-10-01,Comicvine,11499,115271,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115271/,31 days 00:00:00
+554,Captain America,2005,11,Issue,2005-11-01,Comicvine,11499,115273,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115273/,30 days 00:00:00
+555,Captain America,2005,12,Issue,2005-12-01,Comicvine,11499,115303,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115303/,31 days 00:00:00
+556,Captain America,2005,13,Issue,2006-01-01,Comicvine,11499,115308,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-115308/,59 days 00:00:00
+557,Captain America,2005,14,Issue,2006-03-01,Comicvine,11499,113175,Captain America,2004, ,https://comicvine.gamespot.com/issue/4000-113175/,304 days 00:00:00
+558,Daredevil,1998,71,Issue,2005-05-01,Comicvine,6209,101659,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-71-decalogue-part-1/4000-101659/,31 days 00:00:00
+559,Daredevil,1998,72,Issue,2005-06-01,Comicvine,6209,101660,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-72-decalogue-part-2/4000-101660/,30 days 00:00:00
+560,Daredevil,1998,73,Issue,2005-07-01,Comicvine,6209,110233,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-73-decalogue-part-3/4000-110233/,31 days 00:00:00
+561,Daredevil,1998,74,Issue,2005-08-01,Comicvine,6209,110239,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-74-decalogue-part-4/4000-110239/,31 days 00:00:00
+562,Daredevil,1998,75,Issue,2005-09-01,Comicvine,6209,110240,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-75-decalogue-part-5/4000-110240/,184 days 00:00:00
+563,Spider-Man/Human Torch,2005,1,Issue,2005-03-01,Comicvine,11800,103520,Spider-Man/Human Torch,2005, ,https://comicvine.gamespot.com/spider-manhuman-torch-1-picture-perfect/4000-103520/,31 days 00:00:00
+564,Spider-Man/Human Torch,2005,2,Issue,2005-04-01,Comicvine,11800,103521,Spider-Man/Human Torch,2005, ,https://comicvine.gamespot.com/spider-manhuman-torch-2-catch-you-on-the-flipside/4000-103521/,30 days 00:00:00
+565,Spider-Man/Human Torch,2005,3,Issue,2005-05-01,Comicvine,11800,103522,Spider-Man/Human Torch,2005, ,https://comicvine.gamespot.com/spider-manhuman-torch-3-auto-motives/4000-103522/,31 days 00:00:00
+566,Spider-Man/Human Torch,2005,4,Issue,2005-06-01,Comicvine,11800,103523,Spider-Man/Human Torch,2005, ,https://comicvine.gamespot.com/spider-manhuman-torch-4-cats-paws/4000-103523/,30 days 00:00:00
+567,Spider-Man/Human Torch,2005,5,Issue,2005-07-01,Comicvine,11800,103524,Spider-Man/Human Torch,2005, ,https://comicvine.gamespot.com/spider-manhuman-torch-5-together-again/4000-103524/,181 days 00:00:00
+568,Astonishing X-Men,2003,7,Issue,2005-01-01,Comicvine,10746,99751,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-99751/,31 days 00:00:00
+569,Astonishing X-Men,2003,8,Issue,2005-02-01,Comicvine,10746,99752,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-99752/,28 days 00:00:00
+570,Astonishing X-Men,2003,9,Issue,2005-03-01,Comicvine,10746,106131,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-106131/,61 days 00:00:00
+571,Astonishing X-Men,2003,10,Issue,2005-05-01,Comicvine,10746,106670,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-106670/,61 days 00:00:00
+572,Astonishing X-Men,2003,11,Issue,2005-07-01,Comicvine,10746,106671,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-106671/,31 days 00:00:00
+573,Astonishing X-Men,2003,12,Issue,2005-08-01,Comicvine,10746,106676,Astonishing X-Men,2004, ,https://comicvine.gamespot.com/issue/4000-106676/,93 days 00:00:00
+574,Young Avengers,2005,1,Issue,2005-04-30,Comicvine,11870,103870,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-1-sidekicks-part-1/4000-103870/,1 days 00:00:00
+575,Young Avengers,2005,2,Issue,2005-05-01,Comicvine,11870,103871,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-2-sidekicks-part-2/4000-103871/,31 days 00:00:00
+576,Young Avengers,2005,3,Issue,2005-06-01,Comicvine,11870,103872,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-3-sidekicks-part-3/4000-103872/,30 days 00:00:00
+577,Young Avengers,2005,4,Issue,2005-07-01,Comicvine,11870,103873,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-4-sidekicks-part-4/4000-103873/,31 days 00:00:00
+578,Young Avengers,2005,5,Issue,2005-08-01,Comicvine,11870,103874,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-5-sidekicks-part-5/4000-103874/,31 days 00:00:00
+579,Young Avengers,2005,6,Issue,2005-09-01,Comicvine,11870,103875,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-6-sidekicks-part-6/4000-103875/,153 days 00:00:00
+580,Black Panther,2005,1,Issue,2005-04-01,Comicvine,11502,101456,Black Panther,2005, ,https://comicvine.gamespot.com/black-panther-1-who-is-the-next-black-panther-part/4000-101456/,30 days 00:00:00
+581,Black Panther,2005,2,Issue,2005-05-01,Comicvine,11502,101457,Black Panther,2005, ,https://comicvine.gamespot.com/black-panther-2-who-is-the-next-black-panther-part/4000-101457/,31 days 00:00:00
+582,Black Panther,2005,3,Issue,2005-06-01,Comicvine,11502,101458,Black Panther,2005, ,https://comicvine.gamespot.com/black-panther-3-who-is-the-black-panther-part-3/4000-101458/,30 days 00:00:00
+583,Black Panther,2005,4,Issue,2005-07-01,Comicvine,11502,126175,Black Panther,2005, ,https://comicvine.gamespot.com/black-panther-4-who-is-the-black-panther-part-4/4000-126175/,31 days 00:00:00
+584,Black Panther,2005,5,Issue,2005-08-01,Comicvine,11502,126176,Black Panther,2005, ,https://comicvine.gamespot.com/black-panther-5-who-is-the-black-panther-part-5/4000-126176/,36 days 00:00:00
+585,Black Panther,2005,6,Issue,2005-09-06,Comicvine,11502,126177,Black Panther,2005, ,https://comicvine.gamespot.com/black-panther-6-who-is-the-black-panther-part-6/4000-126177/,169 days 00:00:00
+586,Incredible Hulk,2000,77,Issue,2005-03-21,Comicvine,6558,99141,Incredible Hulk,2000, ,https://comicvine.gamespot.com/incredible-hulk-77-tempest-fugit-part-1-of-5/4000-99141/,31 days 00:00:00
+587,Incredible Hulk,2000,78,Issue,2005-04-21,Comicvine,6558,101161,Incredible Hulk,2000, ,https://comicvine.gamespot.com/incredible-hulk-78-tempest-fugit-part-2-of-5/4000-101161/,30 days 00:00:00
+588,Incredible Hulk,2000,79,Issue,2005-05-21,Comicvine,6558,101162,Incredible Hulk,2000, ,https://comicvine.gamespot.com/incredible-hulk-79-tempest-fugit-part-3-of-5/4000-101162/,31 days 00:00:00
+589,Incredible Hulk,2000,80,Issue,2005-06-21,Comicvine,6558,101163,Incredible Hulk,2000, ,https://comicvine.gamespot.com/incredible-hulk-80-tempest-fugit-part-4-of-5/4000-101163/,30 days 00:00:00
+590,Incredible Hulk,2000,81,Issue,2005-07-21,Comicvine,6558,112745,Incredible Hulk,2000, ,https://comicvine.gamespot.com/incredible-hulk-81-tempest-fugit-conclusion/4000-112745/,201 days 00:00:00
+591,New Avengers,2005,1,Issue,2005-01-01,Comicvine,11497,101407,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-101407/,31 days 00:00:00
+592,New Avengers,2005,2,Issue,2005-02-01,Comicvine,11497,101408,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-101408/,28 days 00:00:00
+593,New Avengers,2005,3,Issue,2005-03-01,Comicvine,11497,101409,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-101409/,31 days 00:00:00
+594,New Avengers,2005,4,Issue,2005-04-01,Comicvine,11497,108304,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-108304/,30 days 00:00:00
+595,New Avengers,2005,5,Issue,2005-05-01,Comicvine,11497,108305,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-108305/,31 days 00:00:00
+596,New Avengers,2005,6,Issue,2005-06-01,Comicvine,11497,108306,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-108306/,29 days 00:00:00
+597,Spider-Man: Breakout,2005,1,Issue,2005-06-30,Comicvine,19688,118068,Spider-Man: Breakout,2005, ,https://comicvine.gamespot.com/spider-man-breakout-1-part-1/4000-118068/,31 days 00:00:00
+598,Spider-Man: Breakout,2005,2,Issue,2005-07-31,Comicvine,19688,118222,Spider-Man: Breakout,2005, ,https://comicvine.gamespot.com/spider-man-breakout-2-part-2/4000-118222/,31 days 00:00:00
+599,Spider-Man: Breakout,2005,3,Issue,2005-08-31,Comicvine,19688,118223,Spider-Man: Breakout,2005, ,https://comicvine.gamespot.com/spider-man-breakout-3-part-3/4000-118223/,30 days 00:00:00
+600,Spider-Man: Breakout,2005,4,Issue,2005-09-30,Comicvine,19688,118224,Spider-Man: Breakout,2005, ,https://comicvine.gamespot.com/spider-man-breakout-4-part-4/4000-118224/,31 days 00:00:00
+601,Spider-Man: Breakout,2005,5,Issue,2005-10-31,Comicvine,19688,118225,Spider-Man: Breakout,2005, ,https://comicvine.gamespot.com/spider-man-breakout-5-part-5/4000-118225/,152 days 00:00:00
+602,Toxin,2005,1,Issue,2005-06-01,Comicvine,18087,105930,Toxin,2005, ,https://comicvine.gamespot.com/toxin-1-the-strange-case-of-pat-mulligan-and-mr-hy/4000-105930/,30 days 00:00:00
+603,Toxin,2005,2,Issue,2005-07-01,Comicvine,18087,119329,Toxin,2005, ,https://comicvine.gamespot.com/toxin-2-cut-to-the-chase/4000-119329/,31 days 00:00:00
+604,Toxin,2005,3,Issue,2005-08-01,Comicvine,18087,119330,Toxin,2005, ,https://comicvine.gamespot.com/toxin-3-the-answer-my-friend/4000-119330/,31 days 00:00:00
+605,Toxin,2005,4,Issue,2005-09-01,Comicvine,18087,119332,Toxin,2005, ,https://comicvine.gamespot.com/toxin-4-walking-man/4000-119332/,30 days 00:00:00
+606,Toxin,2005,5,Issue,2005-10-01,Comicvine,18087,119335,Toxin,2005, ,https://comicvine.gamespot.com/toxin-5-good-luck-mulligan-thanks-for-the-formalde/4000-119335/,31 days 00:00:00
+607,Toxin,2005,6,Issue,2005-11-01,Comicvine,18087,119333,Toxin,2005, ,https://comicvine.gamespot.com/toxin-6-the-razor-s-edge/4000-119333/,153 days 00:00:00
+608,Amazing Spider-Man,1963,519,Issue,2005-06-01,Comicvine,2127,113507,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-519-moving-up/4000-113507/,30 days 00:00:00
+609,Amazing Spider-Man,1963,520,Issue,2005-07-01,Comicvine,2127,113508,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-520-acts-of-aggression/4000-113508/,31 days 00:00:00
+610,Amazing Spider-Man,1963,521,Issue,2005-08-01,Comicvine,2127,113509,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-521-unintended-consequences/4000-113509/,31 days 00:00:00
+611,Amazing Spider-Man,1963,522,Issue,2005-09-01,Comicvine,2127,113510,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-522-moving-targets/4000-113510/,30 days 00:00:00
+612,Amazing Spider-Man,1963,523,Issue,2005-10-01,Comicvine,2127,113511,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-523-extreme-measures/4000-113511/,31 days 00:00:00
+613,Amazing Spider-Man,1963,524,Issue,2005-11-01,Comicvine,2127,113512,The Amazing Spider-Man,1963, ,https://comicvine.gamespot.com/the-amazing-spider-man-524-all-fall-down/4000-113512/,0 days 00:00:00
+614,Thor: Blood Oath,2005,1,Issue,2005-11-01,Comicvine,22210,133516,Thor: Blood Oath,2005, ,https://comicvine.gamespot.com/thor-blood-oath-1-part-1-of-6/4000-133516/,30 days 00:00:00
+615,Thor: Blood Oath,2005,2,Issue,2005-12-01,Comicvine,22210,133597,Thor: Blood Oath,2005, ,https://comicvine.gamespot.com/thor-blood-oath-2-part-2-of-6/4000-133597/,0 days 00:00:00
+616,Thor: Blood Oath,2005,3,Issue,2005-12-01,Comicvine,22210,133598,Thor: Blood Oath,2005, ,https://comicvine.gamespot.com/thor-blood-oath-3-part-3-of-6/4000-133598/,31 days 00:00:00
+617,Thor: Blood Oath,2005,4,Issue,2006-01-01,Comicvine,22210,133599,Thor: Blood Oath,2005, ,https://comicvine.gamespot.com/thor-blood-oath-4-part-4-of-6/4000-133599/,31 days 00:00:00
+618,Thor: Blood Oath,2005,5,Issue,2006-02-01,Comicvine,22210,133600,Thor: Blood Oath,2005, ,https://comicvine.gamespot.com/thor-blood-oath-5-part-5-of-6/4000-133600/,0 days 00:00:00
+619,Thor: Blood Oath,2005,6,Issue,2006-02-01,Comicvine,22210,133601,Thor: Blood Oath,2005, ,https://comicvine.gamespot.com/thor-blood-oath-6-part-6-of-6/4000-133601/,184 days 00:00:00
+620,X-Men,2004,171,Issue,2005-08-01,Comicvine,10731,106170,X-Men,2004, ,https://comicvine.gamespot.com/x-men-171-bizarre-love-triangle-part-1-dangerous-l/4000-106170/,0 days 00:00:00
+621,X-Men,2004,172,Issue,2005-08-01,Comicvine,10731,106171,X-Men,2004, ,https://comicvine.gamespot.com/x-men-172-bizarre-love-triangle-part-2-temptation/4000-106171/,31 days 00:00:00
+622,X-Men,2004,173,Issue,2005-09-01,Comicvine,10731,106172,X-Men,2004, ,https://comicvine.gamespot.com/x-men-173-bizarre-love-triangle-part-3-the-foxx-in/4000-106172/,30 days 00:00:00
+623,X-Men,2004,174,Issue,2005-10-01,Comicvine,10731,106173,X-Men,2004, ,https://comicvine.gamespot.com/x-men-174-bizarre-love-triangle-part-4-election-da/4000-106173/,92 days 00:00:00
+624,New X-Men,2004,14,Issue,2005-07-01,Comicvine,18078,106281,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-14-years-end-part-1-dance-hall-days/4000-106281/,31 days 00:00:00
+625,New X-Men,2004,15,Issue,2005-08-01,Comicvine,18078,106292,New X-Men,2004, ,https://comicvine.gamespot.com/new-x-men-15-years-end-part-2-schools-out-forever/4000-106292/,122 days 00:00:00
+626,New X-Men Yearbook Special,2005,1,Issue,2005-12-01,Comicvine,18147,106307,New X-Men: Academy X Yearbook,2005, ,https://comicvine.gamespot.com/issue/4000-106307/,61 days 00:00:00
+627,Young Avengers,2005,7,Issue,2005-10-01,Comicvine,11870,105309,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-7-secret-identities-part-1/4000-105309/,31 days 00:00:00
+628,Young Avengers,2005,8,Issue,2005-11-01,Comicvine,11870,105310,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-8-secret-identities-part-2/4000-105310/,119 days 00:00:00
+629,Young Avengers Special,2006,1,Issue,2006-02-28,Comicvine,29511,105323,Young Avengers Special,2005, ,https://comicvine.gamespot.com/issue/4000-105323/,272 days 00:00:00
+630,New Thunderbolts,2005,7,Issue,2005-06-01,Comicvine,11298,99219,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-7-modern-marvels/4000-99219/,30 days 00:00:00
+631,New Thunderbolts,2005,8,Issue,2005-07-01,Comicvine,11298,99220,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-8-a-shock-to-the-system/4000-99220/,31 days 00:00:00
+632,New Thunderbolts,2005,9,Issue,2005-08-01,Comicvine,11298,99221,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-9-the-t-bolts-vs-the-sub-mariner/4000-99221/,31 days 00:00:00
+633,New Thunderbolts,2005,10,Issue,2005-09-01,Comicvine,11298,99222,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-10-of-mice-and-maze/4000-99222/,30 days 00:00:00
+634,New Thunderbolts,2005,11,Issue,2005-10-01,Comicvine,11298,99223,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-11-house-of-m/4000-99223/,31 days 00:00:00
+635,New Thunderbolts,2005,12,Issue,2005-11-01,Comicvine,11298,99224,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-12-living-lies/4000-99224/,153 days 00:00:00
+636,New Avengers,2005,7,Issue,2005-06-01,Comicvine,11497,108307,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-108307/,61 days 00:00:00
+637,New Avengers,2005,8,Issue,2005-08-01,Comicvine,11497,108308,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-108308/,31 days 00:00:00
+638,New Avengers,2005,9,Issue,2005-09-01,Comicvine,11497,108309,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-108309/,30 days 00:00:00
+639,New Avengers,2005,10,Issue,2005-10-01,Comicvine,11497,108312,New Avengers,2004, ,https://comicvine.gamespot.com/issue/4000-108312/,61 days 00:00:00
+640,New Warriors,2005,1,Issue,2005-08-01,Comicvine,18016,105453,New Warriors,2005, ,https://comicvine.gamespot.com/new-warriors-1-pilot/4000-105453/,31 days 00:00:00
+641,New Warriors,2005,2,Issue,2005-09-01,Comicvine,18016,105465,New Warriors,2005, ,https://comicvine.gamespot.com/new-warriors-2-animal-house/4000-105465/,30 days 00:00:00
+642,New Warriors,2005,3,Issue,2005-10-01,Comicvine,18016,105466,New Warriors,2005, ,https://comicvine.gamespot.com/new-warriors-3-how-many-super-heroes-does-it-take/4000-105466/,31 days 00:00:00
+643,New Warriors,2005,4,Issue,2005-11-01,Comicvine,18016,105467,New Warriors,2005, ,https://comicvine.gamespot.com/new-warriors-4-nutown-nucar-numember/4000-105467/,61 days 00:00:00
+644,New Warriors,2005,5,Issue,2006-01-01,Comicvine,18016,105468,New Warriors,2005, ,https://comicvine.gamespot.com/new-warriors-5-nuponder-michigan/4000-105468/,31 days 00:00:00
+645,New Warriors,2005,6,Issue,2006-02-01,Comicvine,18016,105469,New Warriors,2005, ,https://comicvine.gamespot.com/new-warriors-6-the-valley-of-the-jerks/4000-105469/,246 days 00:00:00
+646,New X-Men: Hellions,2005,1,Issue,2005-05-31,Comicvine,18173,106415,New X-Men: Hellions,2005, ,https://comicvine.gamespot.com/new-x-men-hellions-1-fortune-glory-part-1/4000-106415/,92 days 00:00:00
+647,New X-Men: Hellions,2005,2,Issue,2005-08-31,Comicvine,18173,106424,New X-Men: Hellions,2005, ,https://comicvine.gamespot.com/new-x-men-hellions-2-fortune-glory-part-2/4000-106424/,30 days 00:00:00
+648,New X-Men: Hellions,2005,3,Issue,2005-09-30,Comicvine,18173,106425,New X-Men: Hellions,2005, ,https://comicvine.gamespot.com/new-x-men-hellions-3-fortune-glory-part-3/4000-106425/,31 days 00:00:00
+649,New X-Men: Hellions,2005,4,Issue,2005-10-31,Comicvine,18173,106426,New X-Men: Hellions,2005, ,https://comicvine.gamespot.com/new-x-men-hellions-4-fortune-glory-part-4/4000-106426/,1 days 00:00:00
+650,X-Men,2004,175,Issue,2005-11-01,Comicvine,10731,106174,X-Men,2004, ,https://comicvine.gamespot.com/x-men-175-wild-kingdom-part-1/4000-106174/,0 days 00:00:00
+651,Black Panther,2005,8,Issue,2005-11-01,Comicvine,11502,126179,Black Panther,2005, ,https://comicvine.gamespot.com/black-panther-8-wild-kingdom-part-2-house-of-pain/4000-126179/,30 days 00:00:00
+652,X-Men,2004,176,Issue,2005-12-01,Comicvine,10731,106175,X-Men,2004, ,https://comicvine.gamespot.com/x-men-176-wild-kingdom-part-3-the-apes-of-wrath/4000-106175/,0 days 00:00:00
+653,Black Panther,2005,9,Issue,2005-12-01,Comicvine,11502,126180,Black Panther,2005, ,https://comicvine.gamespot.com/black-panther-9-wild-kingdom-part-4-jungle-boogie/4000-126180/,153 days 00:00:00
+654,Cable & Deadpool,2004,15,Issue,2005-07-01,Comicvine,18070,106392,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-and-deadpool-15-enema-of-the-state-part-1-ki/4000-106392/,31 days 00:00:00
+655,Cable & Deadpool,2004,16,Issue,2005-08-01,Comicvine,18070,106393,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-and-deadpool-16-enema-of-the-state-part-2-wh/4000-106393/,62 days 00:00:00
+656,Excalibur,2004,11,Issue,2005-05-31,Comicvine,11292,101045,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-11-the-devils-own-part-1-save-the-life-o/4000-101045/,30 days 00:00:00
+657,Excalibur,2004,12,Issue,2005-06-30,Comicvine,11292,101046,Excalibur,2004, ,https://comicvine.gamespot.com/excalibur-12-the-devils-own-part-2/4000-101046/,154 days 00:00:00
+658,Incredible Hulk,2000,87,Issue,2005-12-01,Comicvine,6558,117038,Incredible Hulk,2000, ,https://comicvine.gamespot.com/incredible-hulk-87-awakening/4000-117038/,61 days 00:00:00
+659,Cable & Deadpool,2004,18,Issue,2005-10-01,Comicvine,18070,106395,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-18-enema-of-the-state-part-4-bringi/4000-106395/,212 days 00:00:00
+660,X-Factor,2006,5,Issue,2006-05-01,Comicvine,18109,106094,X-Factor,2006, ,https://comicvine.gamespot.com/x-factor-5-captive-audience/4000-106094/,31 days 00:00:00
+661,X-Factor,2006,6,Issue,2006-06-01,Comicvine,18109,106095,X-Factor,2006, ,https://comicvine.gamespot.com/x-factor-6-the-butterfly-defect/4000-106095/,30 days 00:00:00
+662,X-Factor,2006,7,Issue,2006-07-01,Comicvine,18109,106096,X-Factor,2006, ,https://comicvine.gamespot.com/x-factor-7-two-meetings-one-in-person-one-not/4000-106096/,212 days 00:00:00
+663,New Thunderbolts,2005,13,Issue,2005-12-01,Comicvine,11298,106320,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-13-ditch/4000-106320/,0 days 00:00:00
+664,New Thunderbolts,2005,14,Issue,2005-12-01,Comicvine,11298,106321,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-14-made-perfect/4000-106321/,30 days 00:00:00
+665,Cable & Deadpool,2004,19,Issue,2005-11-01,Comicvine,18070,106396,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-19-why-when-i-was-your-age-enema-of/4000-106396/,0 days 00:00:00
+666,Cable & Deadpool,2004,20,Issue,2005-11-01,Comicvine,18070,106407,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-20-bosom-buddies-part-1-of-4-bad-to/4000-106407/,30 days 00:00:00
+667,Cable & Deadpool,2004,21,Issue,2005-12-01,Comicvine,18070,106408,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-21-bosom-buddies-part-2-of-4-friend/4000-106408/,31 days 00:00:00
+668,Cable & Deadpool,2004,22,Issue,2006-01-01,Comicvine,18070,106409,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-22-bosom-buddies-part-3-of-4-crack-/4000-106409/,31 days 00:00:00
+669,Cable & Deadpool,2004,23,Issue,2006-02-01,Comicvine,18070,106410,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-23-fighting-myself/4000-106410/,28 days 00:00:00
+670,Cable & Deadpool,2004,24,Issue,2006-03-01,Comicvine,18070,106411,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-24-sticky-situations/4000-106411/,31 days 00:00:00
+671,Cable & Deadpool,2004,25,Issue,2006-04-01,Comicvine,18070,106412,Cable & Deadpool,2004, ,https://comicvine.gamespot.com/cable-deadpool-25-living-legends/4000-106412/,333 days 00:00:00
+672,What If? X-Men: Deadly Genesis,2007,1,Issue,2007-02-28,Comicvine,18511,108642,What If? X-Men: Deadly Genesis,2007, ,https://comicvine.gamespot.com/what-if-x-men-deadly-genesis-1-what-if-xaviers-sec/4000-108642/,731 days 00:00:00
+673,What If? House of M,2009,1,Issue,2009-02-28,Comicvine,24272,144410,What If? House Of M,2009, ,https://comicvine.gamespot.com/what-if-house-of-m-1-what-if-scarlet-witch-ended-t/4000-144410/,338 days 00:00:00
+674,What If? Spider-Man: House of M,2010,1,Issue,2010-02-01,Comicvine,30692,189584,What If? Spider-Man House of M,2009, ,https://comicvine.gamespot.com/issue/4000-189584/,1127 days 00:00:00
+675,What If? Spider-Man: The Other,2007,1,Issue,2007-01-01,Comicvine,23941,142763,What If? Spider-Man: The Other,2007, ,https://comicvine.gamespot.com/what-if-spider-man-the-other-1-what-if-spider-man-/4000-142763/,457 days 00:00:00
+676,Runaways,2005,7,Issue,2005-10-01,Comicvine,11872,104255,Runaways,2005, ,https://comicvine.gamespot.com/runaways-7-star-crossed-part-1/4000-104255/,31 days 00:00:00
+677,Runaways,2005,8,Issue,2005-11-01,Comicvine,11872,104256,Runaways,2005, ,https://comicvine.gamespot.com/runaways-8-star-crossed-part-2/4000-104256/,30 days 00:00:00
+678,Runaways,2005,9,Issue,2005-12-01,Comicvine,11872,104257,Runaways,2005, ,https://comicvine.gamespot.com/runaways-9-east-coastwest-coast-part-1/4000-104257/,31 days 00:00:00
+679,Runaways,2005,10,Issue,2006-01-01,Comicvine,11872,106059,Runaways,2005, ,https://comicvine.gamespot.com/runaways-10-east-coastwest-coast-part-2/4000-106059/,31 days 00:00:00
+680,Runaways,2005,11,Issue,2006-02-01,Comicvine,11872,106060,Runaways,2005, ,https://comicvine.gamespot.com/runaways-11-east-coastwest-coast-part-3/4000-106060/,28 days 00:00:00
+681,Runaways,2005,12,Issue,2006-03-01,Comicvine,11872,106061,Runaways,2005, ,https://comicvine.gamespot.com/runaways-12-east-coastwest-coast-part-4/4000-106061/,122 days 00:00:00
+682,X-Men/Runaways FCBD,2006,1,Issue,2006-07-01,Comicvine,18056,105745,X-Men/Runaways,2006, ,https://comicvine.gamespot.com/issue/4000-105745/,304 days 00:00:00
+683,Gravity,2005,1,Issue,2005-08-31,Comicvine,18300,107112,Gravity,2005, ,https://comicvine.gamespot.com/gravity-1-big-city-super-hero/4000-107112/,30 days 00:00:00
+684,Gravity,2005,2,Issue,2005-09-30,Comicvine,18300,107119,Gravity,2005, ,https://comicvine.gamespot.com/gravity-2-friends-and-enemies/4000-107119/,31 days 00:00:00
+685,Gravity,2005,3,Issue,2005-10-31,Comicvine,18300,107120,Gravity,2005, ,https://comicvine.gamespot.com/gravity-3-what-goes-up/4000-107120/,30 days 00:00:00
+686,Gravity,2005,4,Issue,2005-11-30,Comicvine,18300,107121,Gravity,2005, ,https://comicvine.gamespot.com/gravity-4-priorities/4000-107121/,31 days 00:00:00
+687,Gravity,2005,5,Issue,2005-12-31,Comicvine,18300,107122,Gravity,2005, ,https://comicvine.gamespot.com/gravity-5-chewed-up-and-spit-out/4000-107122/,32 days 00:00:00
+688,X-Men,2004,180,Issue,2006-02-01,Comicvine,10731,105901,X-Men,2004, ,https://comicvine.gamespot.com/x-men-180-what-lorna-saw-part-1-sign-of-the-times/4000-105901/,28 days 00:00:00
+689,X-Men,2004,181,Issue,2006-03-01,Comicvine,10731,105902,X-Men,2004, ,https://comicvine.gamespot.com/x-men-181-what-lorna-saw-part-2-the-leper-queen/4000-105902/,59 days 00:00:00
+690,New Thunderbolts,2005,15,Issue,2006-01-01,Comicvine,11298,106325,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-15-does-anyone-remember-the-squad/4000-106325/,31 days 00:00:00
+691,New Thunderbolts,2005,16,Issue,2006-02-01,Comicvine,11298,106326,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-16-supreme-power/4000-106326/,28 days 00:00:00
+692,New Thunderbolts,2005,17,Issue,2006-03-01,Comicvine,11298,106328,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-17-bad-blood/4000-106328/,31 days 00:00:00
+693,New Thunderbolts,2005,18,Issue,2006-04-01,Comicvine,11298,106329,New Thunderbolts,2005, ,https://comicvine.gamespot.com/new-thunderbolts-18-the-whole-hole/4000-106329/,60 days 00:00:00
+694,Thunderbolts,2006,100,Issue,2006-05-31,Comicvine,18128,106243,Thunderbolts,2006, ,https://comicvine.gamespot.com/thunderbolts-100-the-war-at-home/4000-106243/,120 days 00:00:00
+695,Sentinel,2006,1,Issue,2006-01-31,Comicvine,21657,130713,Sentinel,2006, ,https://comicvine.gamespot.com/sentinel-1-past-imperfect/4000-130713/,28 days 00:00:00
+696,Sentinel,2006,2,Issue,2006-02-28,Comicvine,21657,134979,Sentinel,2006, ,https://comicvine.gamespot.com/sentinel-2-blindsided/4000-134979/,31 days 00:00:00
+697,Sentinel,2006,3,Issue,2006-03-31,Comicvine,21657,134981,Sentinel,2006, ,https://comicvine.gamespot.com/sentinel-3-damaged/4000-134981/,30 days 00:00:00
+698,Sentinel,2006,4,Issue,2006-04-30,Comicvine,21657,134980,Sentinel,2006, ,https://comicvine.gamespot.com/sentinel-4-second-chance/4000-134980/,31 days 00:00:00
+699,Sentinel,2006,5,Issue,2006-05-31,Comicvine,21657,134982,Sentinel,2006, ,https://comicvine.gamespot.com/sentinel-5-reborn/4000-134982/,150 days 00:00:00
+700,Books of Doom,2006,1,Issue,2006-01-01,Comicvine,21927,132214,Books of Doom,2006, ,https://comicvine.gamespot.com/books-of-doom-1-the-books-of-doom-book-1/4000-132214/,31 days 00:00:00
+701,Books of Doom,2006,2,Issue,2006-02-01,Comicvine,21927,132360,Books of Doom,2006, ,https://comicvine.gamespot.com/books-of-doom-2-the-books-of-doom-book-2/4000-132360/,28 days 00:00:00
+702,Books of Doom,2006,3,Issue,2006-03-01,Comicvine,21927,132361,Books of Doom,2006, ,https://comicvine.gamespot.com/books-of-doom-3-the-books-of-doom-book-3/4000-132361/,31 days 00:00:00
+703,Books of Doom,2006,4,Issue,2006-04-01,Comicvine,21927,132397,Books of Doom,2006, ,https://comicvine.gamespot.com/books-of-doom-4-the-books-of-doom-book-4/4000-132397/,30 days 00:00:00
+704,Books of Doom,2006,5,Issue,2006-05-01,Comicvine,21927,132399,Books of Doom,2006, ,https://comicvine.gamespot.com/books-of-doom-5-the-books-of-doom-book-5/4000-132399/,31 days 00:00:00
+705,Books of Doom,2006,6,Issue,2006-06-01,Comicvine,21927,132427,Books of Doom,2006, ,https://comicvine.gamespot.com/books-of-doom-6-the-books-of-doom-book-6/4000-132427/,182 days 00:00:00
+706,Young Avengers,2005,9,Issue,2005-12-01,Comicvine,11870,105320,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-9-family-matters-part-1/4000-105320/,90 days 00:00:00
+707,Young Avengers,2005,10,Issue,2006-03-01,Comicvine,11870,105321,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-10-family-matters-part-2/4000-105321/,61 days 00:00:00
+708,Young Avengers,2005,11,Issue,2006-05-01,Comicvine,11870,105322,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-11-family-matters-part-3/4000-105322/,92 days 00:00:00
+709,Young Avengers,2005,12,Issue,2006-08-01,Comicvine,11870,105343,Young Avengers,2005, ,https://comicvine.gamespot.com/young-avengers-12-family-matters-part-4-masked-mar/4000-105343/,61 days 00:00:00
+710,Wolverine: Origins,2006,1,Issue,2006-06-01,Comicvine,18130,106338,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-1-born-in-blood-pt-1/4000-106338/,30 days 00:00:00
+711,Wolverine: Origins,2006,2,Issue,2006-07-01,Comicvine,18130,106339,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-2-born-in-blood-pt-2/4000-106339/,31 days 00:00:00
+712,Wolverine: Origins,2006,3,Issue,2006-08-01,Comicvine,18130,106340,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-3-born-in-blood-pt-3/4000-106340/,31 days 00:00:00
+713,Wolverine: Origins,2006,4,Issue,2006-09-01,Comicvine,18130,106341,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-4-born-in-blood-pt-4/4000-106341/,30 days 00:00:00
+714,Wolverine: Origins,2006,5,Issue,2006-10-01,Comicvine,18130,106356,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-5-born-in-blood-pt-5/4000-106356/,31 days 00:00:00
+715,Wolverine: Origins,2006,6,Issue,2006-11-01,Comicvine,18130,106998,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-6-savior-pt-1/4000-106998/,10 days 00:00:00
+716,Wolverine: Origins,2006,7,Issue,2006-11-11,Comicvine,18130,107300,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-7-savior-pt-2/4000-107300/,51 days 00:00:00
+717,Wolverine: Origins,2006,8,Issue,2007-01-01,Comicvine,18130,107301,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-8-savior-pt-3/4000-107301/,31 days 00:00:00
+718,Wolverine: Origins,2006,9,Issue,2007-02-01,Comicvine,18130,106213,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-9-savior-pt-4/4000-106213/,28 days 00:00:00
+719,Wolverine: Origins,2006,10,Issue,2007-03-01,Comicvine,18130,106254,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-10-savior-pt-5/4000-106254/,31 days 00:00:00
+720,Wolverine: Origins,2006,11,Issue,2007-04-01,Comicvine,18130,106470,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-11-swift-terrible-pt-1/4000-106470/,30 days 00:00:00
+721,Wolverine: Origins,2006,12,Issue,2007-05-01,Comicvine,18130,106903,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-12-swift-terrible-pt-2/4000-106903/,31 days 00:00:00
+722,Wolverine: Origins,2006,13,Issue,2007-06-01,Comicvine,18130,108357,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-13-swift-terrible-pt-3/4000-108357/,30 days 00:00:00
+723,Wolverine: Origins,2006,14,Issue,2007-07-01,Comicvine,18130,109261,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-14-swift-terrible-pt-4/4000-109261/,31 days 00:00:00
+724,Wolverine: Origins,2006,15,Issue,2007-08-01,Comicvine,18130,111125,Wolverine: Origins,2006, ,https://comicvine.gamespot.com/wolverine-origins-15-swift-terrible-pt-5/4000-111125/,426 days 00:00:00
+725,Wolverine,2003,41,Issue,2006-06-01,Comicvine,10809,113031,Wolverine,2003, ,https://comicvine.gamespot.com/wolverine-41-the-package/4000-113031/,244 days 00:00:00
+726,Defenders,2005,1,Issue,2005-09-30,Comicvine,21661,130726,Defenders,2005, ,https://comicvine.gamespot.com/defenders-1-almost-a-good-idea/4000-130726/,31 days 00:00:00
+727,Defenders,2005,2,Issue,2005-10-31,Comicvine,21661,130729,Defenders,2005, ,https://comicvine.gamespot.com/defenders-2-disaster/4000-130729/,30 days 00:00:00
+728,Defenders,2005,3,Issue,2005-11-30,Comicvine,21661,130732,Defenders,2005, ,https://comicvine.gamespot.com/defenders-3-the-end-of-the-world-as-we-know-it/4000-130732/,31 days 00:00:00
+729,Defenders,2005,4,Issue,2005-12-31,Comicvine,21661,130731,Defenders,2005, ,https://comicvine.gamespot.com/defenders-4-its-dormammus-world-youre-just-living-/4000-130731/,31 days 00:00:00
+730,Defenders,2005,5,Issue,2006-01-31,Comicvine,21661,130734,Defenders,2005, ,https://comicvine.gamespot.com/defenders-5-the-enemy-of-my-enemy-isnt-exactly-my-/4000-130734/,59 days 00:00:00
+731,Daughters of the Dragon,2006,1,Issue,2006-03-31,Comicvine,18498,108601,Daughters of the Dragon,2006, ,https://comicvine.gamespot.com/daughters-of-the-dragon-1-on-the-run/4000-108601/,30 days 00:00:00
+732,Daughters of the Dragon,2006,2,Issue,2006-04-30,Comicvine,18498,108614,Daughters of the Dragon,2006, ,https://comicvine.gamespot.com/daughters-of-the-dragon-2-and-then-there-were-two/4000-108614/,31 days 00:00:00
+733,Daughters of the Dragon,2006,3,Issue,2006-05-31,Comicvine,18498,108618,Daughters of the Dragon,2006, ,https://comicvine.gamespot.com/daughters-of-the-dragon-3-capes-lies-microchips/4000-108618/,30 days 00:00:00
+734,Daughters of the Dragon,2006,4,Issue,2006-06-30,Comicvine,18498,108607,Daughters of the Dragon,2006, ,https://comicvine.gamespot.com/daughters-of-the-dragon-4/4000-108607/,31 days 00:00:00
+735,Daughters of the Dragon,2006,5,Issue,2006-07-31,Comicvine,18498,108608,Daughters of the Dragon,2006, ,https://comicvine.gamespot.com/daughters-of-the-dragon-5/4000-108608/,31 days 00:00:00
+736,Daughters of the Dragon,2006,6,Issue,2006-08-31,Comicvine,18498,108609,Daughters of the Dragon,2006, ,https://comicvine.gamespot.com/daughters-of-the-dragon-6/4000-108609/,123 days 00:00:00
+737,I (heart) Marvel: My Mutant Heart,2006,1,Issue,2006-04-30,Comicvine,50789,347369,I (heart) Marvel: My Mutant Heart,2006, ,https://comicvine.gamespot.com/issue/4000-347369/,29 days 00:00:00
+738,Uncanny X-Men,1981,469,Issue,2006-04-01,Comicvine,3092,106192,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-469-wandring-star-part-1/4000-106192/,30 days 00:00:00
+739,Uncanny X-Men,1981,470,Issue,2006-05-01,Comicvine,3092,106193,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-470-wandring-star-part-2-gal-on-/4000-106193/,31 days 00:00:00
+740,Uncanny X-Men,1981,471,Issue,2006-06-01,Comicvine,3092,106194,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-471-wandring-star-part-3-glory-d/4000-106194/,30 days 00:00:00
+741,Uncanny X-Men,1981,472,Issue,2006-07-01,Comicvine,3092,106198,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-472-the-first-foursaken-part-1-p/4000-106198/,31 days 00:00:00
+742,Uncanny X-Men,1981,473,Issue,2006-08-01,Comicvine,3092,106588,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-473-the-first-foursaken-part-2-f/4000-106588/,31 days 00:00:00
+743,Uncanny X-Men,1981,474,Issue,2006-09-01,Comicvine,3092,106589,The Uncanny X-Men,1981, ,https://comicvine.gamespot.com/the-uncanny-x-men-474-the-first-foursaken-part-3-l/4000-106589/,275 days 00:00:00
+744,Ghost Rider,2005,1,Issue,2005-11-30,Comicvine,18217,106716,Ghost Rider,2005, ,https://comicvine.gamespot.com/ghost-rider-1-the-road-to-damnation-part-1/4000-106716/,31 days 00:00:00
+745,Ghost Rider,2005,2,Issue,2005-12-31,Comicvine,18217,143505,Ghost Rider,2005, ,https://comicvine.gamespot.com/ghost-rider-2-the-road-to-damnation-part-2/4000-143505/,31 days 00:00:00
+746,Ghost Rider,2005,3,Issue,2006-01-31,Comicvine,18217,143506,Ghost Rider,2005, ,https://comicvine.gamespot.com/ghost-rider-3-the-road-to-damnation-part-3/4000-143506/,28 days 00:00:00
+747,Ghost Rider,2005,4,Issue,2006-02-28,Comicvine,18217,143507,Ghost Rider,2005, ,https://comicvine.gamespot.com/ghost-rider-4-the-road-to-damnation-part-4/4000-143507/,31 days 00:00:00
+748,Ghost Rider,2005,5,Issue,2006-03-31,Comicvine,18217,143508,Ghost Rider,2005, ,https://comicvine.gamespot.com/ghost-rider-5-the-road-to-damnation-part-5/4000-143508/,30 days 00:00:00
+749,Ghost Rider,2005,6,Issue,2006-04-30,Comicvine,18217,143509,Ghost Rider,2005, ,https://comicvine.gamespot.com/ghost-rider-6-the-road-to-damnation-part-6/4000-143509/,29 days 00:00:00
+750,New Excalibur,2006,4,Issue,2006-04-01,Comicvine,18019,105972,New Excalibur,2006, ,https://comicvine.gamespot.com/new-excalibur-4-old-times-now-are-not-forgotten/4000-105972/,30 days 00:00:00
+751,New Excalibur,2006,5,Issue,2006-05-01,Comicvine,18019,106080,New Excalibur,2006, ,https://comicvine.gamespot.com/new-excalibur-5-howling-mad/4000-106080/,31 days 00:00:00
+752,New Excalibur,2006,6,Issue,2006-06-01,Comicvine,18019,106168,New Excalibur,2006, ,https://comicvine.gamespot.com/new-excalibur-6-so-why-is-it-im-not-dead/4000-106168/,30 days 00:00:00
+753,New Excalibur,2006,7,Issue,2006-07-01,Comicvine,18019,106169,New Excalibur,2006, ,https://comicvine.gamespot.com/new-excalibur-7-the-price-of-friendship/4000-106169/,31 days 00:00:00
+754,New Excalibur,2006,8,Issue,2006-08-01,Comicvine,18019,106177,New Excalibur,2006, ,https://comicvine.gamespot.com/new-excalibur-8-brain-storm/4000-106177/,0 days 00:00:00
+755,Thing,2006,8,Issue,2006-08-01,Comicvine,18242,106956,The Thing,2005, ,https://comicvine.gamespot.com/issue/4000-106956/,304 days 00:00:00
+756,Daredevil,1998,76,Issue,2005-10-01,Comicvine,6209,111423,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-76-the-murdock-papers-part-one/4000-111423/,31 days 00:00:00
+757,Daredevil,1998,77,Issue,2005-11-01,Comicvine,6209,111425,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-77-the-murdock-papers-part-two/4000-111425/,30 days 00:00:00
+758,Daredevil,1998,78,Issue,2005-12-01,Comicvine,6209,111426,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-78-the-murdock-papers-part-three/4000-111426/,31 days 00:00:00
+759,Daredevil,1998,79,Issue,2006-01-01,Comicvine,6209,111427,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-79-the-murdock-papers-part-four/4000-111427/,31 days 00:00:00
+760,Daredevil,1998,80,Issue,2006-02-01,Comicvine,6209,111428,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-80-the-murdock-papers-part-five/4000-111428/,28 days 00:00:00
+761,Daredevil,1998,81,Issue,2006-03-01,Comicvine,6209,111429,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-81-the-murdock-papers-part-six/4000-111429/,31 days 00:00:00
+762,Daredevil,1998,82,Issue,2006-04-01,Comicvine,6209,111430,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-82-the-devil-in-cell-block-d-part-one/4000-111430/,30 days 00:00:00
+763,Daredevil,1998,83,Issue,2006-05-01,Comicvine,6209,111431,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-83-the-devil-in-cell-block-d-part-two/4000-111431/,31 days 00:00:00
+764,Daredevil,1998,84,Issue,2006-06-01,Comicvine,6209,111432,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-84-the-devil-in-cell-block-d-part-three/4000-111432/,30 days 00:00:00
+765,Daredevil,1998,85,Issue,2006-07-01,Comicvine,6209,111433,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-85-the-devil-in-cell-block-d-part-four/4000-111433/,31 days 00:00:00
+766,Daredevil,1998,86,Issue,2006-08-01,Comicvine,6209,111434,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-86-the-devil-in-cell-block-d-part-five/4000-111434/,31 days 00:00:00
+767,Daredevil,1998,87,Issue,2006-09-01,Comicvine,6209,111435,Daredevil,1998, ,https://comicvine.gamespot.com/daredevil-87-the-devil-in-cell-block-d-finale/4000-111435/,243 days 00:00:00
+768,Exiles,2001,72,Issue,2006-01-01,Comicvine,6983,105982,Exiles,2001, ,https://comicvine.gamespot.com/exiles-72-world-tour-new-universe-part-i-of-iii/4000-105982/,31 days 00:00:00
+769,Exiles,2001,73,Issue,2006-02-01,Comicvine,6983,105983,Exiles,2001, ,https://comicvine.gamespot.com/exiles-73-world-tour-new-universe-part-ii-of-iii/4000-105983/,0 days 00:00:00
+770,Exiles,2001,74,Issue,2006-02-01,Comicvine,6983,105985,Exiles,2001, ,https://comicvine.gamespot.com/exiles-74-world-tour-new-universe-conclusion/4000-105985/,28 days 00:00:00
+771,Exiles,2001,75,Issue,2006-03-01,Comicvine,6983,106000,Exiles,2001, ,https://comicvine.gamespot.com/exiles-75-world-tour-2099-part-1-of-2/4000-106000/,0 days 00:00:00
+772,Exiles,2001,76,Issue,2006-03-01,Comicvine,6983,106001,Exiles,2001, ,https://comicvine.gamespot.com/exiles-76-world-tour-2099-part-2-of-2/4000-106001/,31 days 00:00:00
+773,Exiles,2001,77,Issue,2006-04-01,Comicvine,6983,106002,Exiles,2001, ,https://comicvine.gamespot.com/exiles-77-world-tour-squadron-supreme-part-1-of-2/4000-106002/,30 days 00:00:00
+774,Exiles,2001,78,Issue,2006-05-01,Comicvine,6983,106003,Exiles,2001, ,https://comicvine.gamespot.com/exiles-78-world-tour-squadron-supreme-conclusion/4000-106003/,31 days 00:00:00
+775,Exiles,2001,79,Issue,2006-06-01,Comicvine,6983,106030,Exiles,2001, ,https://comicvine.gamespot.com/exiles-79-world-tour-future-imperfect-part-i-of-ii/4000-106030/,30 days 00:00:00
+776,Exiles,2001,80,Issue,2006-07-01,Comicvine,6983,106031,Exiles,2001, ,https://comicvine.gamespot.com/exiles-80-world-tour-future-imperfect-part-2-of-2/4000-106031/,0 days 00:00:00
+777,Exiles,2001,81,Issue,2006-07-01,Comicvine,6983,106032,Exiles,2001, ,https://comicvine.gamespot.com/exiles-81-world-tour-heroes-reborn-part-1-of-2/4000-106032/,31 days 00:00:00
+778,Exiles,2001,82,Issue,2006-08-01,Comicvine,6983,106033,Exiles,2001, ,https://comicvine.gamespot.com/exiles-82-world-tour-heroes-reborn-conclusion/4000-106033/,639 days 00:00:00
+779,Logan,2008,1,Issue,2008-05-01,Comicvine,20837,124875,Logan,2008, ,https://comicvine.gamespot.com/logan-1-act-one-of-three/4000-124875/,31 days 00:00:00
+780,Logan,2008,2,Issue,2008-06-01,Comicvine,20837,126504,Logan,2008, ,https://comicvine.gamespot.com/logan-2-act-two-of-three/4000-126504/,30 days 00:00:00
+781,Logan,2008,3,Issue,2008-07-01,Comicvine,20837,129698,Logan,2008, ,https://comicvine.gamespot.com/logan-3-act-three-of-three/4000-129698/,701 days 00:00:00
+782,Marvel Adventures: Avengers,2006,1,Issue,2006-07-31,Comicvine,18100,111401,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-1-the-replacements/4000-111401/,31 days 00:00:00
+783,Marvel Adventures: Avengers,2006,2,Issue,2006-08-31,Comicvine,18100,111402,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-2-the-leader-has-a-big-/4000-111402/,30 days 00:00:00
+784,Marvel Adventures: Avengers,2006,3,Issue,2006-09-30,Comicvine,18100,111403,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-3-finding-zemo/4000-111403/,31 days 00:00:00
+785,Marvel Adventures: Avengers,2006,4,Issue,2006-10-31,Comicvine,18100,106762,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-4-the-masters-of-evil/4000-106762/,30 days 00:00:00
+786,Marvel Adventures: Avengers,2006,5,Issue,2006-11-30,Comicvine,18100,111404,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-5-the-trickster-and-the/4000-111404/,31 days 00:00:00
+787,Marvel Adventures: Avengers,2006,6,Issue,2006-12-31,Comicvine,18100,111405,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-6-the-u-foes/4000-111405/,31 days 00:00:00
+788,Marvel Adventures: Avengers,2006,7,Issue,2007-01-31,Comicvine,18100,111406,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-7-like-a-juggernaut/4000-111406/,28 days 00:00:00
+789,Marvel Adventures: Avengers,2006,8,Issue,2007-02-28,Comicvine,18100,106004,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-8-loki-laughs-last/4000-106004/,31 days 00:00:00
+790,Marvel Adventures: Avengers,2006,9,Issue,2007-03-31,Comicvine,18100,111412,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-9-a-not-so-beautiful-mi/4000-111412/,30 days 00:00:00
+791,Marvel Adventures: Avengers,2006,10,Issue,2007-04-30,Comicvine,18100,111413,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-10-medieval-women/4000-111413/,31 days 00:00:00
+792,Marvel Adventures: Avengers,2006,11,Issue,2007-05-31,Comicvine,18100,111414,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-11-sons-of-the-serpent/4000-111414/,30 days 00:00:00
+793,Marvel Adventures: Avengers,2006,12,Issue,2007-06-30,Comicvine,18100,111416,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-12-ego-the-loving-plane/4000-111416/,31 days 00:00:00
+794,Marvel Adventures: Avengers,2006,13,Issue,2007-07-31,Comicvine,18100,111443,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-13-attack-of-the-50-foo/4000-111443/,31 days 00:00:00
+795,Marvel Adventures: Avengers,2006,14,Issue,2007-08-31,Comicvine,18100,111353,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-14-the-avenging-seven/4000-111353/,61 days 00:00:00
+796,Marvel Adventures: Avengers,2006,15,Issue,2007-10-31,Comicvine,18100,114153,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-15-bringers-of-the-stor/4000-114153/,30 days 00:00:00
+797,Marvel Adventures: Avengers,2006,16,Issue,2007-11-30,Comicvine,18100,114888,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-16-even-a-hawkeye-can-c/4000-114888/,31 days 00:00:00
+798,Marvel Adventures: Avengers,2006,17,Issue,2007-12-31,Comicvine,18100,132047,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-17-it-was-a-dark-and-st/4000-132047/,31 days 00:00:00
+799,Marvel Adventures: Avengers,2006,18,Issue,2008-01-31,Comicvine,18100,118465,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-18-with-the-gods-agains/4000-118465/,29 days 00:00:00
+800,Marvel Adventures: Avengers,2006,19,Issue,2008-02-29,Comicvine,18100,132126,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-19-walk-tall/4000-132126/,31 days 00:00:00
+801,Marvel Adventures: Avengers,2006,20,Issue,2008-03-31,Comicvine,18100,133589,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-20-a-mountain-from-an-a/4000-133589/,30 days 00:00:00
+802,Marvel Adventures: Avengers,2006,21,Issue,2008-04-30,Comicvine,18100,133994,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-21-from-russia-with-hat/4000-133994/,31 days 00:00:00
+803,Marvel Adventures: Avengers,2006,22,Issue,2008-05-31,Comicvine,18100,133995,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-22-wakanda-wild-side/4000-133995/,30 days 00:00:00
+804,Marvel Adventures: Avengers,2006,23,Issue,2008-06-30,Comicvine,18100,133996,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-23-new-avengers/4000-133996/,31 days 00:00:00
+805,Marvel Adventures: Avengers,2006,24,Issue,2008-07-31,Comicvine,18100,133905,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-24-dont-be-hatin/4000-133905/,31 days 00:00:00
+806,Marvel Adventures: Avengers,2006,25,Issue,2008-08-31,Comicvine,18100,133997,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-25-who-wants-to-be-a-di/4000-133997/,30 days 00:00:00
+807,Marvel Adventures: Avengers,2006,26,Issue,2008-09-30,Comicvine,18100,133978,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-26-paradigm-shift/4000-133978/,31 days 00:00:00
+808,Marvel Adventures: Avengers,2006,27,Issue,2008-10-31,Comicvine,18100,136848,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-27-avengers-assemble-so/4000-136848/,30 days 00:00:00
+809,Marvel Adventures: Avengers,2006,28,Issue,2008-11-30,Comicvine,18100,139253,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-28-power-man/4000-139253/,31 days 00:00:00
+810,Marvel Adventures: Avengers,2006,29,Issue,2008-12-31,Comicvine,18100,141145,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-29-the-all-father-is-al/4000-141145/,31 days 00:00:00
+811,Marvel Adventures: Avengers,2006,30,Issue,2009-01-31,Comicvine,18100,142791,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-30-the-lady-the-tigra/4000-142791/,28 days 00:00:00
+812,Marvel Adventures: Avengers,2006,31,Issue,2009-02-28,Comicvine,18100,149171,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-31-good-things-come-to-/4000-149171/,31 days 00:00:00
+813,Marvel Adventures: Avengers,2006,32,Issue,2009-03-31,Comicvine,18100,150621,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-32-the-big-payoff/4000-150621/,30 days 00:00:00
+814,Marvel Adventures: Avengers,2006,33,Issue,2009-04-30,Comicvine,18100,152481,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-33-youre-driving-me-cra/4000-152481/,31 days 00:00:00
+815,Marvel Adventures: Avengers,2006,34,Issue,2009-05-31,Comicvine,18100,153886,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-34-sgt-fury-and-his-how/4000-153886/,30 days 00:00:00
+816,Marvel Adventures: Avengers,2006,35,Issue,2009-06-30,Comicvine,18100,156363,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-35-lovers-leaper/4000-156363/,31 days 00:00:00
+817,Marvel Adventures: Avengers,2006,36,Issue,2009-07-31,Comicvine,18100,158364,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-36-which-wish/4000-158364/,31 days 00:00:00
+818,Marvel Adventures: Avengers,2006,37,Issue,2009-08-31,Comicvine,18100,161003,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-37-doll-winners-squad/4000-161003/,30 days 00:00:00
+819,Marvel Adventures: Avengers,2006,38,Issue,2009-09-30,Comicvine,18100,164589,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-38-ms-isaacsons-third-g/4000-164589/,31 days 00:00:00
+820,Marvel Adventures: Avengers,2006,39,Issue,2009-10-31,Comicvine,18100,167367,Marvel Adventures: Avengers,2006, ,https://comicvine.gamespot.com/marvel-adventures-avengers-39-dont-follow-the-lead/4000-167367/,1400 days 00:00:00
+821,Spider-Man Loves Mary Jane,2006,1,Issue,2005-12-31,Comicvine,18104,106911,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106911/,90 days 00:00:00
+822,Spider-Man Loves Mary Jane,2006,2,Issue,2006-03-31,Comicvine,18104,106964,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106964/,30 days 00:00:00
+823,Spider-Man Loves Mary Jane,2006,3,Issue,2006-04-30,Comicvine,18104,106965,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106965/,31 days 00:00:00
+824,Spider-Man Loves Mary Jane,2006,4,Issue,2006-05-31,Comicvine,18104,106966,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106966/,30 days 00:00:00
+825,Spider-Man Loves Mary Jane,2006,5,Issue,2006-06-30,Comicvine,18104,113647,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113647/,31 days 00:00:00
+826,Spider-Man Loves Mary Jane,2006,6,Issue,2006-07-31,Comicvine,18104,106942,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106942/,31 days 00:00:00
+827,Spider-Man Loves Mary Jane,2006,7,Issue,2006-08-31,Comicvine,18104,106981,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106981/,30 days 00:00:00
+828,Spider-Man Loves Mary Jane,2006,8,Issue,2006-09-30,Comicvine,18104,106982,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106982/,31 days 00:00:00
+829,Spider-Man Loves Mary Jane,2006,9,Issue,2006-10-31,Comicvine,18104,113648,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113648/,30 days 00:00:00
+830,Spider-Man Loves Mary Jane,2006,10,Issue,2006-11-30,Comicvine,18104,113649,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113649/,31 days 00:00:00
+831,Spider-Man Loves Mary Jane,2006,11,Issue,2006-12-31,Comicvine,18104,107015,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-107015/,31 days 00:00:00
+832,Spider-Man Loves Mary Jane,2006,12,Issue,2007-01-31,Comicvine,18104,113650,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113650/,28 days 00:00:00
+833,Spider-Man Loves Mary Jane,2006,13,Issue,2007-02-28,Comicvine,18104,106983,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106983/,31 days 00:00:00
+834,Spider-Man Loves Mary Jane,2006,14,Issue,2007-03-31,Comicvine,18104,106010,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-106010/,30 days 00:00:00
+835,Spider-Man Loves Mary Jane,2006,15,Issue,2007-04-30,Comicvine,18104,113651,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113651/,31 days 00:00:00
+836,Spider-Man Loves Mary Jane,2006,16,Issue,2007-05-31,Comicvine,18104,113652,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113652/,30 days 00:00:00
+837,Spider-Man Loves Mary Jane,2006,17,Issue,2007-06-30,Comicvine,18104,113653,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113653/,31 days 00:00:00
+838,Spider-Man Loves Mary Jane,2006,18,Issue,2007-07-31,Comicvine,18104,113654,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113654/,31 days 00:00:00
+839,Spider-Man Loves Mary Jane,2006,19,Issue,2007-08-31,Comicvine,18104,113655,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113655/,30 days 00:00:00
+840,Spider-Man Loves Mary Jane,2006,20,Issue,2007-09-30,Comicvine,18104,113656,Spider-Man Loves Mary Jane,2005, ,https://comicvine.gamespot.com/issue/4000-113656/,0 days 00:00:00
