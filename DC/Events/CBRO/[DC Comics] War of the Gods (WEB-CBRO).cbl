@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] War of the Gods (WEB-CBRO)</Name>
+<Name>[DC Comics] War of the Gods (WEB-CBRO)</Name>
 <NumIssues>24</NumIssues>
 <Books>
 <Book Series="War of the Gods" Number="1" Volume="1991" Year="1991">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Future State (WEB-CBRO)</Name>
+<Name>[DC Comics] Future State (WEB-CBRO)</Name>
 <NumIssues>52</NumIssues>
 <Books>
 <Book Series="Future State: Batman/Superman" Number="1" Volume="2021" Year="2021">

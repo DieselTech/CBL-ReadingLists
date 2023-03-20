@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Rise of the Third Army (WEB-CBRO)</Name>
+<Name>[DC Comics] Rise of the Third Army (WEB-CBRO)</Name>
 <NumIssues>23</NumIssues>
 <Books>
 <Book Series="Green Lantern Annual" Number="1" Volume="2012" Year="2012">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Throne of Atlantis (WEB-CBRO)</Name>
+<Name>[DC Comics] Throne of Atlantis (WEB-CBRO)</Name>
 <NumIssues>7</NumIssues>
 <Books>
 <Book Series="Aquaman" Number="14" Volume="2011" Year="2013">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] The Trial of Superman (WEB-CBRO)</Name>
+<Name>[DC Comics] The Trial of Superman (WEB-CBRO)</Name>
 <NumIssues>13</NumIssues>
 <Books>
 <Book Series="Action Comics" Number="715" Volume="1938" Year="1995">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] DC Master Reading Order- Infinite Frontier (WEB-CBRO)</Name>
+<Name>[DC Comics] DC Master Reading Order- Infinite Frontier (WEB-CBRO)</Name>
 <NumIssues>449</NumIssues>
 <Books>
 <Book Series="Infinite Frontier" Number="0" Volume="2021" Year="2021">

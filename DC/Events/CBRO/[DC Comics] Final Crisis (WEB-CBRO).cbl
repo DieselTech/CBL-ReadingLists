@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Final Crisis (WEB-CBRO)</Name>
+<Name>[DC Comics] Final Crisis (WEB-CBRO)</Name>
 <NumIssues>30</NumIssues>
 <Books>
 <Book Series="Justice League of America" Number="21" Volume="2006" Year="2008">

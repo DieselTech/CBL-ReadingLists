@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Brightest Day (WEB-CBRO)</Name>
+<Name>[DC Comics] Brightest Day (WEB-CBRO)</Name>
 <NumIssues>123</NumIssues>
 <Books>
 <Book Series="Brightest Day" Number="0" Volume="2010" Year="2010">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] New 52 Reading Order- New Part #3 (WEB-CBRO)</Name>
+<Name>[DC Comics] New 52 Reading Order- New Part #3 (WEB-CBRO)</Name>
 <NumIssues>698</NumIssues>
 <Books>
 <Book Series="Detective Comics" Number="22" Volume="2011" Year="2013">

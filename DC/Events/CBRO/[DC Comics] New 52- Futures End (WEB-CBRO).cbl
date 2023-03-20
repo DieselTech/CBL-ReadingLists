@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] New 52- Futures End (WEB-CBRO)</Name>
+<Name>[DC Comics] New 52- Futures End (WEB-CBRO)</Name>
 <NumIssues>90</NumIssues>
 <Books>
 <Book Series="The New 52: Futures End" Number="0" Volume="2014" Year="2014">

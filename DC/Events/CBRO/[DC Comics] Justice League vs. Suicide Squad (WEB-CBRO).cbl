@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Justice League vs. Suicide Squad (WEB-CBRO)</Name>
+<Name>[DC Comics] Justice League vs. Suicide Squad (WEB-CBRO)</Name>
 <NumIssues>11</NumIssues>
 <Books>
 <Book Series="Suicide Squad" Number="8" Volume="2016" Year="2017">

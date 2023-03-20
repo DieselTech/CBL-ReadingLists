@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Worlds Collide (WEB-CBRO)</Name>
+<Name>[DC Comics] Worlds Collide (WEB-CBRO)</Name>
 <NumIssues>14</NumIssues>
 <Books>
 <Book Series="Superman: The Man of Steel" Number="35" Volume="1991" Year="1994">

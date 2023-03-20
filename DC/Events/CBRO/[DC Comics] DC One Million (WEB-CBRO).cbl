@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] DC One Million (WEB-CBRO)</Name>
+<Name>[DC Comics] DC One Million (WEB-CBRO)</Name>
 <NumIssues>39</NumIssues>
 <Books>
 <Book Series="Chronos" Number="1000000" Volume="1998" Year="1998">

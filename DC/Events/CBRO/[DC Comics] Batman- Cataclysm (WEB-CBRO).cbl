@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Batman- Cataclysm (WEB-CBRO)</Name>
+<Name>[DC Comics] Batman- Cataclysm (WEB-CBRO)</Name>
 <NumIssues>34</NumIssues>
 <Books>
 <Book Series="Detective Comics" Number="719" Volume="1937" Year="1998">

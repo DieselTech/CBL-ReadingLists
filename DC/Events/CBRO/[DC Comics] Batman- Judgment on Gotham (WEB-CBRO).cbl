@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Batman- Judgment on Gotham (WEB-CBRO)</Name>
+<Name>[DC Comics] Batman- Judgment on Gotham (WEB-CBRO)</Name>
 <NumIssues>4</NumIssues>
 <Books>
 <Book Series="Batman" Number="708" Volume="1940" Year="2011">

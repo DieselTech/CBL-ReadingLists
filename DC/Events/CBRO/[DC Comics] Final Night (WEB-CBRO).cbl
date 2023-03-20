@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Final Night (WEB-CBRO)</Name>
+<Name>[DC Comics] Final Night (WEB-CBRO)</Name>
 <NumIssues>25</NumIssues>
 <Books>
 <Book Series="The Final Night" Number="1" Volume="1996" Year="1996">

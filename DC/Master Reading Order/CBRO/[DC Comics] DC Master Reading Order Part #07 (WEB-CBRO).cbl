@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] DC Master Reading Order Part #07 (WEB-CBRO)</Name>
+<Name>[DC Comics] DC Master Reading Order Part #07 (WEB-CBRO)</Name>
 <NumIssues>497</NumIssues>
 <Books>
 <Book Series="Trinity" Number="1" Volume="2008" Year="2008">

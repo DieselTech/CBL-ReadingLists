@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Final Days of Superman (WEB-CBRO)</Name>
+<Name>[DC Comics] Final Days of Superman (WEB-CBRO)</Name>
 <NumIssues>8</NumIssues>
 <Books>
 <Book Series="Superman" Number="51" Volume="2011" Year="2016">

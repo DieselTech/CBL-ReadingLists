@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Dark Nights- Metal (WEB-CBRO)</Name>
+<Name>[DC Comics] Dark Nights- Metal (WEB-CBRO)</Name>
 <NumIssues>26</NumIssues>
 <Books>
 <Book Series="Dark Days: The Forge" Number="1" Volume="2017" Year="2017">

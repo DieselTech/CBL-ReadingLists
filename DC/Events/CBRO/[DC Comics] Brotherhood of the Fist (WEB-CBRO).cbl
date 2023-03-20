@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] Brotherhood of the Fist (WEB-CBRO)</Name>
+<Name>[DC Comics] Brotherhood of the Fist (WEB-CBRO)</Name>
 <NumIssues>5</NumIssues>
 <Books>
 <Book Series="Green Arrow" Number="134" Volume="1988" Year="1998">

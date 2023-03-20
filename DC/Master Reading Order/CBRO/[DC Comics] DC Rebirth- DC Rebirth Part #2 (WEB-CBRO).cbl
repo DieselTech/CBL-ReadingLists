@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[DC Comics] DC Rebirth- DC Rebirth Part #2 (WEB-CBRO)</Name>
+<Name>[DC Comics] DC Rebirth- DC Rebirth Part #2 (WEB-CBRO)</Name>
 <NumIssues>813</NumIssues>
 <Books>
 <Book Series="Batman" Number="33" Volume="2016" Year="2017">
