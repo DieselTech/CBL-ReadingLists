@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Death of Doctor Strange (WEB-CBRO)</Name>
+<Name>[Marvel] Death of Doctor Strange (WEB-CBRO)</Name>
 <NumIssues>12</NumIssues>
 <Books>
 <Book Series="Death of Doctor Strange" Number="1" Volume="2021" Year="2021">

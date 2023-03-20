@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] House of M (WEB-CBRO)</Name>
+<Name>[Marvel] House of M (WEB-CBRO)</Name>
 <NumIssues>64</NumIssues>
 <Books>
 <Book Series="Excalibur" Number="13" Volume="2004" Year="2005">

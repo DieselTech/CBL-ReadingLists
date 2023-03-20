@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Eve of Destruction (WEB-CBRO)</Name>
+<Name>[Marvel] Eve of Destruction (WEB-CBRO)</Name>
 <NumIssues>19</NumIssues>
 <Books>
 <Book Series="X-Men: The Search For Cyclops" Number="1" Volume="2000" Year="2000">

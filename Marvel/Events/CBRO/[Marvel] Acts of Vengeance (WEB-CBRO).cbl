@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Acts of Vengeance (WEB-CBRO)</Name>
+<Name>[Marvel] Acts of Vengeance (WEB-CBRO)</Name>
 <NumIssues>71</NumIssues>
 <Books>
 <Book Series="Avengers Spotlight" Number="26" Volume="1989" Year="1989">

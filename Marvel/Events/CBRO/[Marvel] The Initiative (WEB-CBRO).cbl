@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] The Initiative (WEB-CBRO)</Name>
+<Name>[Marvel] The Initiative (WEB-CBRO)</Name>
 <NumIssues>80</NumIssues>
 <Books>
 <Book Series="Civil War: The Initiative" Number="1" Volume="2007" Year="2007">

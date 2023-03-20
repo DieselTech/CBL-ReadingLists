@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Marvel Master Reading Order Part #12 (WEB-CBRO)</Name>
+<Name>[Marvel] Marvel Master Reading Order Part #12 (WEB-CBRO)</Name>
 <NumIssues>639</NumIssues>
 <Books>
 <Book Series="Spider-Woman" Number="9" Volume="2020" Year="2021">

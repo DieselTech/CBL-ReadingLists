@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Dead Man’s Hand (WEB-CBRO)</Name>
+<Name>[Marvel] Dead Man’s Hand (WEB-CBRO)</Name>
 <NumIssues>9</NumIssues>
 <Books>
 <Book Series="Daredevil" Number="307" Volume="1964" Year="1992">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Kraven’s Last Hunt (WEB-CBRO)</Name>
+<Name>[Marvel] Kraven’s Last Hunt (WEB-CBRO)</Name>
 <NumIssues>7</NumIssues>
 <Books>
 <Book Series="Web of Spider-Man" Number="31" Volume="1985" Year="1987">

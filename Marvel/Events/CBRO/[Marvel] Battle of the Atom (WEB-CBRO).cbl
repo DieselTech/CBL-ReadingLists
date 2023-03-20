@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Battle of the Atom (WEB-CBRO)</Name>
+<Name>[Marvel] Battle of the Atom (WEB-CBRO)</Name>
 <NumIssues>10</NumIssues>
 <Books>
 <Book Series="X-Men: Battle of the Atom" Number="1" Volume="2013" Year="2013">

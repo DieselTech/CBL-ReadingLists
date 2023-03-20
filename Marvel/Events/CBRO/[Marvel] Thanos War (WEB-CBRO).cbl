@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Thanos War (WEB-CBRO)</Name>
+<Name>[Marvel] Thanos War (WEB-CBRO)</Name>
 <NumIssues>12</NumIssues>
 <Books>
 <Book Series="Iron Man" Number="55" Volume="1968" Year="1973">

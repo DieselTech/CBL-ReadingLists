@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Marvel Events- Iron Man (WEB-CBRO)</Name>
+<Name>[Marvel] Marvel Events- Iron Man (WEB-CBRO)</Name>
 <NumIssues>18</NumIssues>
 <Books>
 <Book Series="Iron Man 2020" Number="1" Volume="2020" Year="2020">

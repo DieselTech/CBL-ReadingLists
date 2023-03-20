@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Second Clone Saga (WEB-CBRO)</Name>
+<Name>[Marvel] Second Clone Saga (WEB-CBRO)</Name>
 <NumIssues>161</NumIssues>
 <Books>
 <Book Series="Spider-Man: The Lost Years" Number="0" Volume="1995" Year="1996">

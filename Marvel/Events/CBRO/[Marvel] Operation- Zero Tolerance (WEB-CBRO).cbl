@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Operation- Zero Tolerance (WEB-CBRO)</Name>
+<Name>[Marvel] Operation- Zero Tolerance (WEB-CBRO)</Name>
 <NumIssues>20</NumIssues>
 <Books>
 <Book Series="Generation X" Number="27" Volume="1994" Year="1997">

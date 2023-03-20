@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Evolutionary War (WEB-CBRO)</Name>
+<Name>[Marvel] Evolutionary War (WEB-CBRO)</Name>
 <NumIssues>11</NumIssues>
 <Books>
 <Book Series="X-Factor Annual" Number="3" Volume="1986" Year="1988">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Original Sin (WEB-CBRO)</Name>
+<Name>[Marvel] Original Sin (WEB-CBRO)</Name>
 <NumIssues>67</NumIssues>
 <Books>
 <Book Series="Original Sin" Number="0" Volume="2014" Year="2014">

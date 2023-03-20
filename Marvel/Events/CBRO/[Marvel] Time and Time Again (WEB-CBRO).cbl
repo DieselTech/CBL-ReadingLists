@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Time and Time Again (WEB-CBRO)</Name>
+<Name>[Marvel] Time and Time Again (WEB-CBRO)</Name>
 <NumIssues>8</NumIssues>
 <Books>
 <Book Series="The New Warriors" Number="47" Volume="1990" Year="1994">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Avengers vs. X-Men (WEB-CBRO)</Name>
+<Name>[Marvel] Avengers vs. X-Men (WEB-CBRO)</Name>
 <NumIssues>71</NumIssues>
 <Books>
 <Book Series="Marvel Point One" Number="1" Volume="2011" Year="2011">

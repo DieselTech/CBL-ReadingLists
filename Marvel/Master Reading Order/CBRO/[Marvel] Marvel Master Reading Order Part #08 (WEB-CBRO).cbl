@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Marvel Master Reading Order Part #08 (WEB-CBRO)</Name>
+<Name>[Marvel] Marvel Master Reading Order Part #08 (WEB-CBRO)</Name>
 <NumIssues>746</NumIssues>
 <Books>
 <Book Series="Araña: Heart of the Spider" Number="1" Volume="2005" Year="2005">

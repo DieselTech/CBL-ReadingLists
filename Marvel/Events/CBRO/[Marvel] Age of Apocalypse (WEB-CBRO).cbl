@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Age of Apocalypse (WEB-CBRO)</Name>
+<Name>[Marvel] Age of Apocalypse (WEB-CBRO)</Name>
 <NumIssues>57</NumIssues>
 <Books>
 <Book Series="X-Men" Number="38" Volume="1991" Year="1994">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Marvel NOW!- Marvel NOW! Part #2 (WEB-CBRO)</Name>
+<Name>[Marvel] Marvel NOW!- Marvel NOW! Part #2 (WEB-CBRO)</Name>
 <NumIssues>810</NumIssues>
 <Books>
 <Book Series="X-Men" Number="7" Volume="2013" Year="2014">

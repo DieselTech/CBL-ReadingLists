@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] The Hunt for Xavier (WEB-CBRO)</Name>
+<Name>[Marvel] The Hunt for Xavier (WEB-CBRO)</Name>
 <NumIssues>6</NumIssues>
 <Books>
 <Book Series="The Uncanny X-Men" Number="362" Volume="1981" Year="1998">

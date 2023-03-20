@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] King In Black (WEB-CBRO)</Name>
+<Name>[Marvel] King In Black (WEB-CBRO)</Name>
 <NumIssues>65</NumIssues>
 <Books>
 <Book Series="Symbiote Spider-Man: King In Black" Number="1" Volume="2020" Year="2021">

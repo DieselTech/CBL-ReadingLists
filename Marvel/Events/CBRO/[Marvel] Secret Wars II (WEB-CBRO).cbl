@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Secret Wars II (WEB-CBRO)</Name>
+<Name>[Marvel] Secret Wars II (WEB-CBRO)</Name>
 <NumIssues>42</NumIssues>
 <Books>
 <Book Series="Secret Wars II" Number="1" Volume="1985" Year="1985">

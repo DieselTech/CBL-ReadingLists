@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] X-Men- Manifest Destiny (WEB-CBRO)</Name>
+<Name>[Marvel] X-Men- Manifest Destiny (WEB-CBRO)</Name>
 <NumIssues>35</NumIssues>
 <Books>
 <Book Series="Astonishing X-Men" Number="25" Volume="2004" Year="2008">

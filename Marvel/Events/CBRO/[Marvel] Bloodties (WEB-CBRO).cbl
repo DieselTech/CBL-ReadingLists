@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Bloodties (WEB-CBRO)</Name>
+<Name>[Marvel] Bloodties (WEB-CBRO)</Name>
 <NumIssues>5</NumIssues>
 <Books>
 <Book Series="The Avengers" Number="368" Volume="1963" Year="1993">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Secret Empire (WEB-CBRO)</Name>
+<Name>[Marvel] Secret Empire (WEB-CBRO)</Name>
 <NumIssues>77</NumIssues>
 <Books>
 <Book Series="The Amazing Spider-Man" Number="25" Volume="2015" Year="2017">

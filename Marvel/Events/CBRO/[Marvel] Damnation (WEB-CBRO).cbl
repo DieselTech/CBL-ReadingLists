@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Damnation (WEB-CBRO)</Name>
+<Name>[Marvel] Damnation (WEB-CBRO)</Name>
 <NumIssues>15</NumIssues>
 <Books>
 <Book Series="Doctor Strange: Damnation" Number="1" Volume="2018" Year="2018">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Inhumans vs. X-Men (WEB-CBRO)</Name>
+<Name>[Marvel] Inhumans vs. X-Men (WEB-CBRO)</Name>
 <NumIssues>24</NumIssues>
 <Books>
 <Book Series="Death of X" Number="1" Volume="2016" Year="2016">

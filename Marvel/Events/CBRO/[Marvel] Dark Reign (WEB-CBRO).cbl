@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Dark Reign (WEB-CBRO)</Name>
+<Name>[Marvel] Dark Reign (WEB-CBRO)</Name>
 <NumIssues>291</NumIssues>
 <Books>
 <Book Series="Thunderbolts" Number="126" Volume="2006" Year="2009">

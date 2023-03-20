@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>C:\apps\comicvinesearch\ReadingList-ImportExport\[Marvel] Operation- Galactic Storm (WEB-CBRO)</Name>
+<Name>[Marvel] Operation- Galactic Storm (WEB-CBRO)</Name>
 <NumIssues>22</NumIssues>
 <Books>
 <Book Series="Captain America" Number="398" Volume="1968" Year="1992">
