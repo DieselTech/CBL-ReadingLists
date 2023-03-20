@@ -8,8 +8,18 @@ These lists are not created by me. Credit goes to the orginal authors. I'm just 
 - All reading lists are provided in CBL format, with book data verified on ComicVine
 - The data used to create these reading lists is based on CBRO, CMRO and other reading-list management tools. The intention of this project is not to create an alternative to these tools, but to make the information in these tools usable in comic reading/management software.
 
-# Contributing
+# Additional Resources
+There are a number of websites that host reading lists in a visual display (no CBL files available). These include the following:
+- [Comic Book Reading Orders (CBRO)](https://comicbookreadingorders.com/)
+- [Complete Marvel Reading Orders (CMRO)](https://cmro.travis-starnes.com/)
+- [Comic Book Herald (CBH)](https://www.comicbookherald.com/)
+- [Comic Book Treasury](https://www.comicbooktreasury.com/)
+- [Marvel Guides](https://marvelguides.com/)
+- [Comicvine](https://comicvine.gamespot.com/story-arcs/)
+- [The Marvel Comics Guide](http://marvelcrossovers.blogspot.com/)
+- [Marvel Fandom](https://marvel.fandom.com/wiki/Marvel_Universe_Reading_Order)
 
+# Contributing
 We are looking for people who want to assist in the efforts to make the best reading lists possible.
 Different ways to help include:
 
