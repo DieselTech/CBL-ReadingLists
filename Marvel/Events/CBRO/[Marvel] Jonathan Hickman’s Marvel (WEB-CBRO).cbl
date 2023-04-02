@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] Jonathan Hickman’s Marvel (WEB-CBRO)</Name>
+<Name>[Marvel] Jonathan Hickmanâ€™s Marvel (WEB-CBRO)</Name>
 <NumIssues>233</NumIssues>
 <Books>
 <Book Series="Dark Reign: New Nation" Number="1" Volume="2009" Year="2009">
@@ -192,23 +192,23 @@
 <Book Series="S.H.I.E.L.D.: Infinity" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="112433" Issue="268515" />
 </Book>
-<Book Series="S.H.I.E.L.D." Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="32430" Issue="204514" />
+<Book Series="S.H.I.E.L.D." Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40434" Issue="272466" />
 </Book>
-<Book Series="S.H.I.E.L.D." Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="32430" Issue="218552" />
+<Book Series="S.H.I.E.L.D." Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40434" Issue="283866" />
 </Book>
-<Book Series="S.H.I.E.L.D." Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="32430" Issue="227823" />
+<Book Series="S.H.I.E.L.D." Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40434" Issue="295920" />
 </Book>
-<Book Series="S.H.I.E.L.D." Number="4" Volume="2010" Year="2010">
-<Database Name="cv" Series="32430" Issue="237112" />
+<Book Series="S.H.I.E.L.D." Number="4" Volume="2011" Year="2012">
+<Database Name="cv" Series="40434" Issue="306728" />
 </Book>
-<Book Series="S.H.I.E.L.D." Number="5" Volume="2010" Year="2011">
-<Database Name="cv" Series="32430" Issue="253654" />
+<Book Series="S.H.I.E.L.D. by Hickman &#38; Weaver" Number="5" Volume="2018" Year="2018">
+<Database Name="cv" Series="111071" Issue="670754" />
 </Book>
-<Book Series="S.H.I.E.L.D." Number="6" Volume="2010" Year="2011">
-<Database Name="cv" Series="32430" Issue="262808" />
+<Book Series="S.H.I.E.L.D. by Hickman &#38; Weaver" Number="6" Volume="2018" Year="2018">
+<Database Name="cv" Series="111071" Issue="673031" />
 </Book>
 <Book Series="FF" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39453" Issue="266491" />

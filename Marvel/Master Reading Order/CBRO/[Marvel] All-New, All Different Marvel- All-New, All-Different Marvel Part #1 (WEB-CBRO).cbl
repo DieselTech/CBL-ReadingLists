@@ -1150,19 +1150,19 @@
 <Database Name="cv" Series="86334" Issue="522423" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="92360" Issue="540074" />
+<Database Name="cv" Series="87793" Issue="513645" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="2" Volume="2016" Year="2016">
-<Database Name="cv" Series="92360" Issue="543751" />
+<Database Name="cv" Series="87793" Issue="520200" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="3" Volume="2016" Year="2016">
-<Database Name="cv" Series="92360" Issue="548574" />
+<Database Name="cv" Series="87793" Issue="526049" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="4" Volume="2016" Year="2016">
-<Database Name="cv" Series="92360" Issue="552156" />
+<Database Name="cv" Series="87793" Issue="530727" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="5" Volume="2016" Year="2017">
-<Database Name="cv" Series="92360" Issue="556470" />
+<Book Series="Deadpool &#38; The Mercs For Money" Number="5" Volume="2016" Year="2016">
+<Database Name="cv" Series="87793" Issue="534285" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="9" Volume="2015" Year="2016">
 <Database Name="cv" Series="85076" Issue="518851" />
