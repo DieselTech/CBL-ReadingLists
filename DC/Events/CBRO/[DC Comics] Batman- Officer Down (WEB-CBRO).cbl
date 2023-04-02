@@ -6,7 +6,7 @@
 <Book Series="Batman" Number="587" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="98702" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2001">
+<Book Series="Robin" Number="86" Volume="1993" Year="2001">
 <Database Name="cv" Series="4975" Issue="46631" />
 </Book>
 <Book Series="Batgirl" Number="12" Volume="2000" Year="2001">

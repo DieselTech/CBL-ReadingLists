@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC Comics] Batman- No Man’s Land (WEB-CBRO)</Name>
+<Name>[DC Comics] Batman- No Manâ€™s Land (WEB-CBRO)</Name>
 <NumIssues>100</NumIssues>
 <Books>
 <Book Series="Azrael: Agent of the Bat" Number="47" Volume="1998" Year="1998">
@@ -126,19 +126,19 @@
 <Book Series="Detective Comics" Number="734" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="113208" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1999">
+<Book Series="Robin" Number="67" Volume="1993" Year="1999">
 <Database Name="cv" Series="4975" Issue="45982" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="120" Volume="1992" Year="1999">
 <Database Name="cv" Series="4720" Issue="45953" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1999">
+<Book Series="Robin" Number="68" Volume="1993" Year="1999">
 <Database Name="cv" Series="4975" Issue="46023" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1999">
+<Book Series="Robin" Number="69" Volume="1993" Year="1999">
 <Database Name="cv" Series="4975" Issue="46070" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1999">
+<Book Series="Robin" Number="70" Volume="1993" Year="1999">
 <Database Name="cv" Series="4975" Issue="46116" />
 </Book>
 <Book Series="Azrael: Agent of the Bat" Number="56" Volume="1998" Year="1999">
@@ -249,16 +249,16 @@
 <Book Series="Batman: Legends of the Dark Knight" Number="125" Volume="1992" Year="2000">
 <Database Name="cv" Series="4720" Issue="46983" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1999">
+<Book Series="Robin" Number="71" Volume="1993" Year="1999">
 <Database Name="cv" Series="4975" Issue="46164" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2000">
+<Book Series="Robin" Number="72" Volume="1993" Year="2000">
 <Database Name="cv" Series="4975" Issue="46225" />
 </Book>
 <Book Series="Batman: Day of Judgment" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="29754" Issue="183117" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2000">
+<Book Series="Robin" Number="73" Volume="1993" Year="2000">
 <Database Name="cv" Series="4975" Issue="46269" />
 </Book>
 <Book Series="Batman: No Man's Land Secret Files" Number="1" Volume="1999" Year="1999">

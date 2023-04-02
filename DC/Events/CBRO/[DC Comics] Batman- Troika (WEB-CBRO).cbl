@@ -12,7 +12,7 @@
 <Book Series="Detective Comics" Number="682" Volume="1937" Year="1995">
 <Database Name="cv" Series="18058" Issue="113144" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1995">
+<Book Series="Robin" Number="14" Volume="1993" Year="1995">
 <Database Name="cv" Series="4975" Issue="40423" />
 </Book>
 </Books>

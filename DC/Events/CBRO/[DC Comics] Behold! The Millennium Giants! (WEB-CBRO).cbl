@@ -12,7 +12,7 @@
 <Book Series="Challengers of the Unknown" Number="15" Volume="1997" Year="1998">
 <Database Name="cv" Series="5944" Issue="44844" />
 </Book>
-<Book Series="Superman" Number="nan" Volume="1987" Year="1998">
+<Book Series="Superman" Number="134" Volume="1987" Year="1998">
 <Database Name="cv" Series="3816" Issue="116566" />
 </Book>
 <Book Series="Teen Titans" Number="19" Volume="1996" Year="1998">
@@ -33,7 +33,7 @@
 <Book Series="Superman: The Man of Steel" Number="79" Volume="1991" Year="1998">
 <Database Name="cv" Series="4571" Issue="114579" />
 </Book>
-<Book Series="Superman" Number="nan" Volume="1987" Year="1998">
+<Book Series="Superman" Number="135" Volume="1987" Year="1998">
 <Database Name="cv" Series="3816" Issue="117424" />
 </Book>
 </Books>

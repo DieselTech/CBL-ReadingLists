@@ -12,7 +12,7 @@
 <Book Series="Detective Comics" Number="679" Volume="1937" Year="1994">
 <Database Name="cv" Series="18058" Issue="113132" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1994">
+<Book Series="Robin" Number="11" Volume="1993" Year="1994">
 <Database Name="cv" Series="4975" Issue="39902" />
 </Book>
 <Book Series="Batman" Number="513" Volume="1940" Year="1994">
@@ -24,7 +24,7 @@
 <Book Series="Detective Comics" Number="680" Volume="1937" Year="1994">
 <Database Name="cv" Series="18058" Issue="113133" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1994">
+<Book Series="Robin" Number="12" Volume="1993" Year="1994">
 <Database Name="cv" Series="4975" Issue="40036" />
 </Book>
 <Book Series="Batman" Number="514" Volume="1940" Year="1995">
@@ -36,7 +36,7 @@
 <Book Series="Detective Comics" Number="681" Volume="1937" Year="1995">
 <Database Name="cv" Series="18058" Issue="113143" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="1995">
+<Book Series="Robin" Number="13" Volume="1993" Year="1995">
 <Database Name="cv" Series="4975" Issue="40277" />
 </Book>
 </Books>
