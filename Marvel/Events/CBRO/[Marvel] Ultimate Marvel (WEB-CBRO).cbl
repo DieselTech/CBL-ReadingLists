@@ -111,7 +111,7 @@
 <Book Series="Ultimate X-Men" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="7258" Issue="53569" />
 </Book>
-<Book Series="Ultimate X-Men" Number="nan" Volume="2001" Year="2002">
+<Book Series="Ultimate X-Men" Number="½" Volume="2001" Year="2002">
 <Database Name="cv" Series="7258" Issue="105555" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="14" Volume="2000" Year="2001">
@@ -399,7 +399,7 @@
 <Book Series="Ultimate Spider-Man" Number="45" Volume="2000" Year="2003">
 <Database Name="cv" Series="7257" Issue="110199" />
 </Book>
-<Book Series="Ultimate Spider-Man" Number="nan" Volume="2000" Year="2002">
+<Book Series="Ultimate Spider-Man" Number="½" Volume="2000" Year="2002">
 <Database Name="cv" Series="7257" Issue="172625" />
 </Book>
 <Book Series="Ultimate X-Men" Number="34" Volume="2001" Year="2003">
