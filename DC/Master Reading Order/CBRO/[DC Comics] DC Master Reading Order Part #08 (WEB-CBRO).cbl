@@ -915,23 +915,23 @@
 <Book Series="Wonder Woman/Tasmanian Devil Special" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="102289" Issue="603111" />
 </Book>
-<Book Series="The Shadow/Batman" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="104813" Issue="626311" />
+<Book Series="Batman/Shadow" Number="1" Volume="2017" Year="2017">
+<Database Name="cv" Series="100963" Issue="593221" />
 </Book>
-<Book Series="The Shadow/Batman" Number="2" Volume="2017" Year="2017">
-<Database Name="cv" Series="104813" Issue="634551" />
+<Book Series="Batman/Shadow" Number="2" Volume="2017" Year="2017">
+<Database Name="cv" Series="100963" Issue="597159" />
 </Book>
-<Book Series="The Shadow/Batman" Number="3" Volume="2017" Year="2017">
-<Database Name="cv" Series="104813" Issue="644526" />
+<Book Series="Batman/Shadow" Number="3" Volume="2017" Year="2017">
+<Database Name="cv" Series="100963" Issue="605053" />
 </Book>
-<Book Series="The Shadow/Batman" Number="4" Volume="2017" Year="2018">
-<Database Name="cv" Series="104813" Issue="650930" />
+<Book Series="Batman/Shadow" Number="4" Volume="2017" Year="2017">
+<Database Name="cv" Series="100963" Issue="610457" />
 </Book>
-<Book Series="The Shadow/Batman" Number="5" Volume="2017" Year="2018">
-<Database Name="cv" Series="104813" Issue="658747" />
+<Book Series="Batman/Shadow" Number="5" Volume="2017" Year="2017">
+<Database Name="cv" Series="100963" Issue="616138" />
 </Book>
-<Book Series="The Shadow/Batman" Number="6" Volume="2017" Year="2018">
-<Database Name="cv" Series="104813" Issue="662111" />
+<Book Series="Batman/Shadow" Number="6" Volume="2017" Year="2017">
+<Database Name="cv" Series="100963" Issue="625272" />
 </Book>
 <Book Series="The Shadow/Batman" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104813" Issue="626311" />

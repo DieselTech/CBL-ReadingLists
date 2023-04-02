@@ -21,17 +21,17 @@
 <Book Series="Young Justice: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="19122" Issue="114252" />
 </Book>
-<Book Series="Action Comics" Number="780" Volume="1938" Year="2001">
-<Database Name="cv" Series="18005" Issue="113398" />
-</Book>
 <Book Series="Superboy" Number="89" Volume="1994" Year="2001">
 <Database Name="cv" Series="5261" Issue="53528" />
 </Book>
-<Book Series="Supergirl" Number="59" Volume="1996" Year="2001">
-<Database Name="cv" Series="5766" Issue="76600" />
+<Book Series="Action Comics" Number="780" Volume="1938" Year="2001">
+<Database Name="cv" Series="18005" Issue="113398" />
 </Book>
 <Book Series="Wonder Woman" Number="171" Volume="1987" Year="2001">
 <Database Name="cv" Series="3824" Issue="53562" />
+</Book>
+<Book Series="Supergirl" Number="59" Volume="1996" Year="2001">
+<Database Name="cv" Series="5766" Issue="76600" />
 </Book>
 <Book Series="Superman: Our Worlds at War Secret Files &#38; Origins" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="26406" Issue="157428" />
@@ -57,11 +57,11 @@
 <Book Series="Superboy" Number="90" Volume="1994" Year="2001">
 <Database Name="cv" Series="5261" Issue="53529" />
 </Book>
-<Book Series="Action Comics" Number="781" Volume="1938" Year="2001">
-<Database Name="cv" Series="18005" Issue="114231" />
-</Book>
 <Book Series="JSA: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="30759" Issue="189906" />
+</Book>
+<Book Series="Action Comics" Number="781" Volume="1938" Year="2001">
+<Database Name="cv" Series="18005" Issue="114231" />
 </Book>
 <Book Series="Batman" Number="593" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="83261" />

@@ -1773,6 +1773,15 @@
 <Book Series="Harley Quinn" Number="9" Volume="2000" Year="2001">
 <Database Name="cv" Series="9494" Issue="114081" />
 </Book>
+<Book Series="Harley Quinn" Number="10" Volume="2000" Year="2001">
+<Database Name="cv" Series="9494" Issue="78192" />
+</Book>
+<Book Series="Harley Quinn" Number="11" Volume="2000" Year="2001">
+<Database Name="cv" Series="9494" Issue="114082" />
+</Book>
+<Book Series="Harley Quinn" Number="12" Volume="2000" Year="2001">
+<Database Name="cv" Series="9494" Issue="78193" />
+</Book>
 <Book Series="Deadman: Dead Again" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="9398" Issue="76361" />
 </Book>
@@ -1793,36 +1802,6 @@
 </Book>
 <Book Series="Superboy's Legion" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="21245" Issue="127881" />
-</Book>
-<Book Series="Green Arrow" Number="1" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66918" />
-</Book>
-<Book Series="Green Arrow" Number="2" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66919" />
-</Book>
-<Book Series="Green Arrow" Number="3" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66920" />
-</Book>
-<Book Series="Green Arrow" Number="4" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66921" />
-</Book>
-<Book Series="Green Arrow" Number="5" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66922" />
-</Book>
-<Book Series="Green Arrow" Number="6" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66923" />
-</Book>
-<Book Series="Green Arrow" Number="7" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66924" />
-</Book>
-<Book Series="Green Arrow" Number="8" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66925" />
-</Book>
-<Book Series="Green Arrow" Number="9" Volume="2001" Year="2001">
-<Database Name="cv" Series="9113" Issue="66926" />
-</Book>
-<Book Series="Green Arrow" Number="10" Volume="2001" Year="2002">
-<Database Name="cv" Series="9113" Issue="66927" />
 </Book>
 <Book Series="Superboy" Number="85" Volume="1994" Year="2001">
 <Database Name="cv" Series="5261" Issue="53525" />
@@ -2001,6 +1980,36 @@
 <Book Series="Birds of Prey" Number="35" Volume="1999" Year="2001">
 <Database Name="cv" Series="6498" Issue="112388" />
 </Book>
+<Book Series="Green Arrow" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66918" />
+</Book>
+<Book Series="Green Arrow" Number="2" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66919" />
+</Book>
+<Book Series="Green Arrow" Number="3" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66920" />
+</Book>
+<Book Series="Green Arrow" Number="4" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66921" />
+</Book>
+<Book Series="Green Arrow" Number="5" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66922" />
+</Book>
+<Book Series="Green Arrow" Number="6" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66923" />
+</Book>
+<Book Series="Green Arrow" Number="7" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66924" />
+</Book>
+<Book Series="Green Arrow" Number="8" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66925" />
+</Book>
+<Book Series="Green Arrow" Number="9" Volume="2001" Year="2001">
+<Database Name="cv" Series="9113" Issue="66926" />
+</Book>
+<Book Series="Green Arrow" Number="10" Volume="2001" Year="2002">
+<Database Name="cv" Series="9113" Issue="66927" />
+</Book>
 <Book Series="Young Justice" Number="31" Volume="1998" Year="2001">
 <Database Name="cv" Series="9420" Issue="141140" />
 </Book>
@@ -2109,23 +2118,14 @@
 <Book Series="Doom Patrol" Number="12" Volume="2001" Year="2002">
 <Database Name="cv" Series="7329" Issue="52138" />
 </Book>
-<Book Series="Harley Quinn" Number="10" Volume="2000" Year="2001">
-<Database Name="cv" Series="9494" Issue="78192" />
-</Book>
-<Book Series="Harley Quinn" Number="11" Volume="2000" Year="2001">
-<Database Name="cv" Series="9494" Issue="114082" />
+<Book Series="Young Justice" Number="37" Volume="1998" Year="2001">
+<Database Name="cv" Series="9420" Issue="141148" />
 </Book>
 <Book Series="JSA" Number="26" Volume="1999" Year="2001">
 <Database Name="cv" Series="6331" Issue="51043" />
 </Book>
 <Book Series="JSA" Number="27" Volume="1999" Year="2001">
 <Database Name="cv" Series="6331" Issue="51044" />
-</Book>
-<Book Series="Harley Quinn" Number="12" Volume="2000" Year="2001">
-<Database Name="cv" Series="9494" Issue="78193" />
-</Book>
-<Book Series="Young Justice" Number="37" Volume="1998" Year="2001">
-<Database Name="cv" Series="9420" Issue="141148" />
 </Book>
 <Book Series="Orion" Number="13" Volume="2000" Year="2001">
 <Database Name="cv" Series="6788" Issue="48500" />

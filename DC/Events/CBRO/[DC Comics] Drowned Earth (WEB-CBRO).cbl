@@ -24,8 +24,8 @@
 <Book Series="Justice League" Number="12" Volume="2018" Year="2019">
 <Database Name="cv" Series="111428" Issue="692528" />
 </Book>
-<Book Series="Justice League/Aquaman: Drowned Earth" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="114892" Issue="690796" />
+<Book Series="Aquaman/Justice League: Drowned Earth Special" Number="1" Volume="2018" Year="2019">
+<Database Name="cv" Series="115557" Issue="693424" />
 </Book>
 </Books>
 <Matchers />
