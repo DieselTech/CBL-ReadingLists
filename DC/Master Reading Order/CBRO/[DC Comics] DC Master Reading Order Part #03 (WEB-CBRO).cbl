@@ -1464,8 +1464,8 @@
 <Book Series="The Flash" Number="118" Volume="1987" Year="1996">
 <Database Name="cv" Series="3790" Issue="42860" />
 </Book>
-<Book Series="Batman: Vengeance of Bane Special" Number="1" Volume="1993" Year="1993">
-<Database Name="cv" Series="21857" Issue="131755" />
+<Book Series="Batman: Vengeance of Bane II" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="28220" Issue="173539" />
 </Book>
 <Book Series="Swamp Thing" Number="159" Volume="1986" Year="1995">
 <Database Name="cv" Series="3465" Issue="41498" />

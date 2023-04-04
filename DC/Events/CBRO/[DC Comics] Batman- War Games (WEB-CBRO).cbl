@@ -24,13 +24,13 @@
 <Book Series="Detective Comics" Number="796" Volume="1937" Year="2004">
 <Database Name="cv" Series="18058" Issue="113381" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2004">
+<Book Series="Robin" Number="126" Volume="1993" Year="2004">
 <Database Name="cv" Series="4975" Issue="110083" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2004">
+<Book Series="Robin" Number="127" Volume="1993" Year="2004">
 <Database Name="cv" Series="4975" Issue="110085" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2004">
+<Book Series="Robin" Number="128" Volume="1993" Year="2004">
 <Database Name="cv" Series="4975" Issue="110087" />
 </Book>
 <Book Series="Batman: The 12 Cent Adventure" Number="1" Volume="2004" Year="2004">
@@ -48,7 +48,7 @@
 <Book Series="Batman: Gotham Knights" Number="56" Volume="2000" Year="2004">
 <Database Name="cv" Series="7207" Issue="100898" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2004">
+<Book Series="Robin" Number="129" Volume="1993" Year="2004">
 <Database Name="cv" Series="4975" Issue="92340" />
 </Book>
 <Book Series="Batgirl" Number="55" Volume="2000" Year="2004">
@@ -72,7 +72,7 @@
 <Book Series="Batman: Gotham Knights" Number="57" Volume="2000" Year="2004">
 <Database Name="cv" Series="7207" Issue="100899" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2004">
+<Book Series="Robin" Number="130" Volume="1993" Year="2004">
 <Database Name="cv" Series="4975" Issue="92341" />
 </Book>
 <Book Series="Batgirl" Number="56" Volume="2000" Year="2004">
@@ -93,7 +93,7 @@
 <Book Series="Nightwing" Number="98" Volume="1996" Year="2004">
 <Database Name="cv" Series="5755" Issue="96770" />
 </Book>
-<Book Series="Robin" Number="nan" Volume="1993" Year="2004">
+<Book Series="Robin" Number="131" Volume="1993" Year="2004">
 <Database Name="cv" Series="4975" Issue="92342" />
 </Book>
 <Book Series="Batman: Gotham Knights" Number="58" Volume="2000" Year="2004">
