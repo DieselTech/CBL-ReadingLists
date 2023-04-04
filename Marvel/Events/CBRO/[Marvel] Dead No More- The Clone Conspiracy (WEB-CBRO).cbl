@@ -72,8 +72,8 @@
 <Book Series="Prowler" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="95232" Issue="582539" />
 </Book>
-<Book Series="The Clone Conspiracy" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="94788" Issue="553001" />
+<Book Series="The Clone Conspiracy Omega" Number="1" Volume="2017" Year="2017">
+<Database Name="cv" Series="99245" Issue="583715" />
 </Book>
 </Books>
 <Matchers />

@@ -114,7 +114,7 @@
 <Book Series="J2" Number="12" Volume="1998" Year="1999">
 <Database Name="cv" Series="6216" Issue="46006" />
 </Book>
-<Book Series="Spider-Girl" Number="½" Volume="1998" Year="1999">
+<Book Series="Spider-Girl" Number="Â½" Volume="1998" Year="1999">
 <Database Name="cv" Series="6218" Issue="140972" />
 </Book>
 <Book Series="Spider-Girl 1999" Number="1" Volume="1999" Year="1999">
@@ -648,17 +648,17 @@
 <Book Series="Spectacular Spider-Girl" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="28417" Issue="201070" />
 </Book>
-<Book Series="Spectacular Spider-Girl" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="28417" Issue="175004" />
+<Book Series="Spectacular Spider-Girl" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33063" Issue="213087" />
 </Book>
-<Book Series="Spectacular Spider-Girl" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="28417" Issue="175019" />
+<Book Series="Spectacular Spider-Girl" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="33063" Issue="217880" />
 </Book>
-<Book Series="Spectacular Spider-Girl" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="28417" Issue="175024" />
+<Book Series="Spectacular Spider-Girl" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="33063" Issue="224829" />
 </Book>
-<Book Series="Spectacular Spider-Girl" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="28417" Issue="175020" />
+<Book Series="Spectacular Spider-Girl" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="33063" Issue="228974" />
 </Book>
 <Book Series="Spider-Girl:  The End!" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35111" Issue="231684" />
