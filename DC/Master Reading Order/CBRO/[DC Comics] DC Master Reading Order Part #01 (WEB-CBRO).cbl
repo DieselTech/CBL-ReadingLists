@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #01 (WEB-CBRO)</Name>
-<NumIssues>598</NumIssues>
+<NumIssues>616</NumIssues>
 <Books>
 <Book Series="Action Comics" Number="1" Volume="1938" Year="1938">
 <Database Name="cv" Series="18005" Issue="105403" />
@@ -171,8 +171,50 @@
 <Book Series="Superman" Number="143" Volume="1939" Year="1961">
 <Database Name="cv" Series="773" Issue="5189" />
 </Book>
-<Book Series="Superman: Tales of the Bizarro World" Number="1" Volume="2000" Year="2000">
-<Database Name="cv" Series="43664" Issue="300221" />
+<Book Series="Adventure Comics" Number="285" Volume="1938" Year="1961">
+<Database Name="cv" Series="3105" Issue="126392" />
+</Book>
+<Book Series="Adventure Comics" Number="286" Volume="1938" Year="1961">
+<Database Name="cv" Series="3105" Issue="126396" />
+</Book>
+<Book Series="Adventure Comics" Number="287" Volume="1938" Year="1961">
+<Database Name="cv" Series="3105" Issue="126393" />
+</Book>
+<Book Series="Adventure Comics" Number="288" Volume="1938" Year="1961">
+<Database Name="cv" Series="3105" Issue="126394" />
+</Book>
+<Book Series="Adventure Comics" Number="289" Volume="1938" Year="1961">
+<Database Name="cv" Series="3105" Issue="126395" />
+</Book>
+<Book Series="Adventure Comics" Number="290" Volume="1938" Year="1961">
+<Database Name="cv" Series="3105" Issue="114606" />
+</Book>
+<Book Series="Adventure Comics" Number="291" Volume="1938" Year="1961">
+<Database Name="cv" Series="3105" Issue="126231" />
+</Book>
+<Book Series="Adventure Comics" Number="292" Volume="1938" Year="1962">
+<Database Name="cv" Series="3105" Issue="126232" />
+</Book>
+<Book Series="Adventure Comics" Number="293" Volume="1938" Year="1962">
+<Database Name="cv" Series="3105" Issue="109847" />
+</Book>
+<Book Series="Adventure Comics" Number="294" Volume="1938" Year="1962">
+<Database Name="cv" Series="3105" Issue="125655" />
+</Book>
+<Book Series="Adventure Comics" Number="295" Volume="1938" Year="1962">
+<Database Name="cv" Series="3105" Issue="125656" />
+</Book>
+<Book Series="Adventure Comics" Number="296" Volume="1938" Year="1962">
+<Database Name="cv" Series="3105" Issue="125657" />
+</Book>
+<Book Series="Adventure Comics" Number="297" Volume="1938" Year="1962">
+<Database Name="cv" Series="3105" Issue="125658" />
+</Book>
+<Book Series="Adventure Comics" Number="298" Volume="1938" Year="1962">
+<Database Name="cv" Series="3105" Issue="125661" />
+</Book>
+<Book Series="Adventure Comics" Number="299" Volume="1938" Year="1962">
+<Database Name="cv" Series="3105" Issue="125659" />
 </Book>
 <Book Series="Superman" Number="147" Volume="1939" Year="1961">
 <Database Name="cv" Series="773" Issue="5415" />
@@ -1626,8 +1668,20 @@
 <Book Series="All-Star Squadron" Number="37" Volume="1981" Year="1984">
 <Database Name="cv" Series="3070" Issue="24647" />
 </Book>
-<Book Series="Superman Vs. Shazam!" Number="1" Volume="2013" Year="2013">
-<Database Name="cv" Series="57993" Issue="388692" />
+<Book Series="All New Collectors' Edition" Number="58" Volume="1978" Year="1978">
+<Database Name="cv" Series="21028" Issue="292496" />
+</Book>
+<Book Series="DC Comics Presents" Number="33" Volume="1978" Year="1981">
+<Database Name="cv" Series="2943" Issue="21208" />
+</Book>
+<Book Series="DC Comics Presents" Number="34" Volume="1978" Year="1981">
+<Database Name="cv" Series="2943" Issue="21267" />
+</Book>
+<Book Series="DC Comics Presents" Number="49" Volume="1978" Year="1982">
+<Database Name="cv" Series="2943" Issue="22414" />
+</Book>
+<Book Series="DC Comics Presents Annual" Number="3" Volume="1982" Year="1984">
+<Database Name="cv" Series="3114" Issue="23780" />
 </Book>
 <Book Series="Tales of the Teen Titans" Number="48" Volume="1984" Year="1984">
 <Database Name="cv" Series="3324" Issue="24859" />

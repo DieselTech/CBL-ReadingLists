@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #07 (WEB-CBRO)</Name>
-<NumIssues>497</NumIssues>
+<NumIssues>496</NumIssues>
 <Books>
 <Book Series="Trinity" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21777" Issue="131320" />
@@ -650,9 +650,6 @@
 </Book>
 <Book Series="Detective Comics" Number="863" Volume="1937" Year="2010">
 <Database Name="cv" Series="18058" Issue="202576" />
-</Book>
-<Book Series="Question: Pipeline" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="39161" Issue="264178" />
 </Book>
 <Book Series="Power Girl" Number="7" Volume="2009" Year="2010">
 <Database Name="cv" Series="26326" Issue="187708" />

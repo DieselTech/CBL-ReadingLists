@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #02 (WEB-CBRO)</Name>
-<NumIssues>776</NumIssues>
+<NumIssues>779</NumIssues>
 <Books>
 <Book Series="Batman" Number="404" Volume="1940" Year="1987">
 <Database Name="cv" Series="796" Issue="27733" />
@@ -87,8 +87,17 @@
 <Book Series="Batman Confidential" Number="12" Volume="2007" Year="2008">
 <Database Name="cv" Series="18231" Issue="122424" />
 </Book>
-<Book Series="Batman: Four of a Kind" Number="1" Volume="1998" Year="1998">
-<Database Name="cv" Series="34189" Issue="253722" />
+<Book Series="Batman: Shadow of the Bat Annual" Number="3" Volume="1993" Year="1995">
+<Database Name="cv" Series="9219" Issue="70726" />
+</Book>
+<Book Series="Detective Comics Annual" Number="8" Volume="1988" Year="1995">
+<Database Name="cv" Series="3993" Issue="40217" />
+</Book>
+<Book Series="Batman Annual" Number="19" Volume="1961" Year="1995">
+<Database Name="cv" Series="3109" Issue="82304" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight Annual" Number="5" Volume="1993" Year="1995">
+<Database Name="cv" Series="4950" Issue="40216" />
 </Book>
 <Book Series="The Man of Steel" Number="1" Volume="1986" Year="1986">
 <Database Name="cv" Series="3611" Issue="27236" />
