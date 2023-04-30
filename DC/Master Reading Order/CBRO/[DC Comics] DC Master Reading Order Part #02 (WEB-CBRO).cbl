@@ -2043,13 +2043,13 @@
 <Book Series="The Flash" Number="50" Volume="1987" Year="1991">
 <Database Name="cv" Series="3790" Issue="34163" />
 </Book>
-<Book Series="Firestorm, the Nuclear Man" Number="98" Volume="1987" Year="1990">
+<Book Series="Firestorm" Number="98" Volume="1987" Year="1990">
 <Database Name="cv" Series="3789" Issue="32796" />
 </Book>
-<Book Series="Firestorm, the Nuclear Man" Number="99" Volume="1987" Year="1990">
+<Book Series="Firestorm" Number="99" Volume="1987" Year="1990">
 <Database Name="cv" Series="3789" Issue="32924" />
 </Book>
-<Book Series="Firestorm, the Nuclear Man" Number="100" Volume="1987" Year="1990">
+<Book Series="Firestorm" Number="100" Volume="1987" Year="1990">
 <Database Name="cv" Series="3789" Issue="33039" />
 </Book>
 <Book Series="Wonder Woman" Number="45" Volume="1987" Year="1990">
