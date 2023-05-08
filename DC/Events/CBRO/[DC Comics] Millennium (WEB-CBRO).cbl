@@ -15,8 +15,8 @@
 <Book Series="Justice League International" Number="9" Volume="1987" Year="1988">
 <Database Name="cv" Series="3798" Issue="29168" />
 </Book>
-<Book Series="Outsiders" Number="27" Volume="2003" Year="2005">
-<Database Name="cv" Series="10415" Issue="113885" />
+<Book Series="Outsiders" Number="27" Volume="1985" Year="1988">
+<Database Name="cv" Series="3455" Issue="29094" />
 </Book>
 <Book Series="Wonder Woman" Number="12" Volume="1987" Year="1988">
 <Database Name="cv" Series="3824" Issue="29112" />
@@ -93,8 +93,8 @@
 <Book Series="Justice League International" Number="10" Volume="1987" Year="1988">
 <Database Name="cv" Series="3798" Issue="29283" />
 </Book>
-<Book Series="Outsiders" Number="28" Volume="2003" Year="2005">
-<Database Name="cv" Series="10415" Issue="113886" />
+<Book Series="Outsiders" Number="28" Volume="1985" Year="1988">
+<Database Name="cv" Series="3455" Issue="29214" />
 </Book>
 <Book Series="Millennium" Number="6" Volume="1988" Year="1988">
 <Database Name="cv" Series="4011" Issue="29299" />
