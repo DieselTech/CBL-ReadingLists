@@ -522,7 +522,7 @@
 <Book Series="Superman" Number="220" Volume="1987" Year="2005">
 <Database Name="cv" Series="3816" Issue="119103" />
 </Book>
-<Book Series="The Flash" Number="½" Volume="1987" Year="2005">
+<Book Series="The Flash" Number="Â½" Volume="1987" Year="2005">
 <Database Name="cv" Series="3790" Issue="134205" />
 </Book>
 <Book Series="The Flash" Number="220" Volume="1987" Year="2005">

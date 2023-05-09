@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC Comics] Jack Kirby’s Fourth World (WEB-CBRO)</Name>
+<Name>[DC Comics] Jack Kirbyâ€™s Fourth World (WEB-CBRO)</Name>
 <NumIssues>56</NumIssues>
 <Books>
 <Book Series="Superman's Pal, Jimmy Olsen" Number="133" Volume="1954" Year="1970">

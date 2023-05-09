@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC Comics] The Resurrection of Ra’s al Ghul (WEB-CBRO)</Name>
+<Name>[DC Comics] The Resurrection of Raâ€™s al Ghul (WEB-CBRO)</Name>
 <NumIssues>10</NumIssues>
 <Books>
 <Book Series="Batman Annual" Number="26" Volume="1961" Year="2007">
