@@ -3,43 +3,43 @@
 <Name>[Marvel] Marvel Master Reading Order Part #08 (WEB-CBRO)</Name>
 <NumIssues>746</NumIssues>
 <Books>
-<Book Series="Araña: Heart of the Spider" Number="1" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106077" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="2" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106139" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="3" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106140" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="4" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106141" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="5" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106142" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="6" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106143" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="7" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106144" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="8" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106145" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="9" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="9" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106146" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="10" Volume="2005" Year="2005">
+<Book Series="AraÃ±a: Heart of the Spider" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106147" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="11" Volume="2005" Year="2006">
+<Book Series="AraÃ±a: Heart of the Spider" Number="11" Volume="2005" Year="2006">
 <Database Name="cv" Series="18110" Issue="106148" />
 </Book>
-<Book Series="Araña: Heart of the Spider" Number="12" Volume="2005" Year="2006">
+<Book Series="AraÃ±a: Heart of the Spider" Number="12" Volume="2005" Year="2006">
 <Database Name="cv" Series="18110" Issue="106149" />
 </Book>
-<Book Series="Spider-Man &#38; Araña Special" Number="1" Volume="2006" Year="2006">
+<Book Series="Spider-Man &#38; AraÃ±a Special" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="26671" Issue="159841" />
 </Book>
 <Book Series="New Avengers" Number="11" Volume="2004" Year="2005">

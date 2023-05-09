@@ -39,7 +39,7 @@
 <Book Series="Siege: Embedded" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30906" Issue="191148" />
 </Book>
-<Book Series="Siege: Storming Asgard –– Heroes &#38; Villains" Number="1" Volume="2010" Year="2010">
+<Book Series="Siege: Storming Asgard â€“â€“ Heroes &#38; Villains" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="31275" Issue="194624" />
 </Book>
 <Book Series="Siege" Number="2" Volume="2010" Year="2010">

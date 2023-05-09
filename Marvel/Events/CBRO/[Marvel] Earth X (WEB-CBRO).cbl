@@ -24,7 +24,7 @@
 <Book Series="Earth X" Number="0" Volume="1999" Year="1999">
 <Database Name="cv" Series="6354" Issue="45724" />
 </Book>
-<Book Series="Earth X" Number="½" Volume="1999" Year="2000">
+<Book Series="Earth X" Number="Â½" Volume="1999" Year="2000">
 <Database Name="cv" Series="6354" Issue="203972" />
 </Book>
 <Book Series="Earth X" Number="1" Volume="1999" Year="1999">

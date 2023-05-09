@@ -2058,7 +2058,7 @@
 <Book Series="Soldier X" Number="12" Volume="2002" Year="2003">
 <Database Name="cv" Series="9959" Issue="90008" />
 </Book>
-<Book Series="Weapon X" Number="½" Volume="2002" Year="2002">
+<Book Series="Weapon X" Number="Â½" Volume="2002" Year="2002">
 <Database Name="cv" Series="18390" Issue="223247" />
 </Book>
 <Book Series="Weapon X: The Draft - Agent Zero" Number="1" Volume="2002" Year="2002">

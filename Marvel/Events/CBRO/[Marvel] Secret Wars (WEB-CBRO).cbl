@@ -315,7 +315,7 @@
 <Book Series="Amazing Spider-Man: Renew Your Vows" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="82337" Issue="499739" />
 </Book>
-<Book Series="Secret Wars: Armor Wars" Number="½" Volume="2015" Year="2015">
+<Book Series="Secret Wars: Armor Wars" Number="Â½" Volume="2015" Year="2015">
 <Database Name="cv" Series="81779" Issue="487582" />
 </Book>
 <Book Series="Armor Wars" Number="1" Volume="2015" Year="2015">
