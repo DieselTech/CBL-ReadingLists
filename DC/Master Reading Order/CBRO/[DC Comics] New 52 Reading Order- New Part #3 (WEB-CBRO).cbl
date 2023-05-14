@@ -576,7 +576,7 @@
 <Book Series="Batgirl" Number="30" Volume="2011" Year="2014">
 <Database Name="cv" Series="42604" Issue="450036" />
 </Book>
-<Book Series="Harley Quinn Annual: DC²" Number="1" Volume="2014" Year="2014">
+<Book Series="Harley Quinn Annual: DCÂ²" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="78002" Issue="469721" />
 </Book>
 <Book Series="Justice League Dark" Number="30" Volume="2011" Year="2014">

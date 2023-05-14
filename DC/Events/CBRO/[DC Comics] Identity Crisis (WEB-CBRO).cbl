@@ -15,8 +15,8 @@
 <Book Series="Identity Crisis" Number="3" Volume="2004" Year="2004">
 <Database Name="cv" Series="18438" Issue="108233" />
 </Book>
-<Book Series="Manhunter" Number="2" Volume="1988" Year="1988">
-<Database Name="cv" Series="4009" Issue="29903" />
+<Book Series="Manhunter" Number="2" Volume="2004" Year="2004">
+<Database Name="cv" Series="11797" Issue="103503" />
 </Book>
 <Book Series="The Flash" Number="214" Volume="1987" Year="2004">
 <Database Name="cv" Series="3790" Issue="131552" />
@@ -24,8 +24,8 @@
 <Book Series="Identity Crisis" Number="4" Volume="2004" Year="2004">
 <Database Name="cv" Series="18438" Issue="108241" />
 </Book>
-<Book Series="Manhunter" Number="3" Volume="1988" Year="1988">
-<Database Name="cv" Series="4009" Issue="30012" />
+<Book Series="Manhunter" Number="3" Volume="2004" Year="2004">
+<Database Name="cv" Series="11797" Issue="103504" />
 </Book>
 <Book Series="The Flash" Number="215" Volume="1987" Year="2004">
 <Database Name="cv" Series="3790" Issue="131553" />
@@ -33,8 +33,8 @@
 <Book Series="Identity Crisis" Number="5" Volume="2004" Year="2004">
 <Database Name="cv" Series="18438" Issue="110351" />
 </Book>
-<Book Series="Manhunter" Number="4" Volume="1988" Year="1988">
-<Database Name="cv" Series="4009" Issue="30136" />
+<Book Series="Manhunter" Number="4" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="103505" />
 </Book>
 <Book Series="Firestorm" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="11157" Issue="97710" />
@@ -66,8 +66,8 @@
 <Book Series="Identity Crisis" Number="7" Volume="2004" Year="2005">
 <Database Name="cv" Series="18438" Issue="110354" />
 </Book>
-<Book Series="Manhunter" Number="5" Volume="1988" Year="1988">
-<Database Name="cv" Series="4009" Issue="30266" />
+<Book Series="Manhunter" Number="5" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="103506" />
 </Book>
 </Books>
 <Matchers />
