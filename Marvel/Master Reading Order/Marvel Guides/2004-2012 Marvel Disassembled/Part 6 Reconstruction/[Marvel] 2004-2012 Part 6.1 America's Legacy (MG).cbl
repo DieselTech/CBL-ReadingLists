@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] 2004-2012 Part 6.1 America’s Legacy (MG)</Name>
+<Name>[Marvel] 2004-2012 Part 6.1 America's Legacy (MG)</Name>
 <NumIssues>100</NumIssues>
 <Books>
 <Book Series="Fantastic Four" Number="544" Volume="1998" Year="2007">
