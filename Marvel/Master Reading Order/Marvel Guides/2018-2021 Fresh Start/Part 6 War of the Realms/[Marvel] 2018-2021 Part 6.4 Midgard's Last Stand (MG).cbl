@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] 2018-2021 Part 6.4 Midgard’s Last Stand (MG)</Name>
+<Name>[Marvel] 2018-2021 Part 6.4 Midgard's Last Stand (MG)</Name>
 <NumIssues>12</NumIssues>
 <Books>
 <Book Series="War of the Realms" Number="5" Volume="2019" Year="2019">
