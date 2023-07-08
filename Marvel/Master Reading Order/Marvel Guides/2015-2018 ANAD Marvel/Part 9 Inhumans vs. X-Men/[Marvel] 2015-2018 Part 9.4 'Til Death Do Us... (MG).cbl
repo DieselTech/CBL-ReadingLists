@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] 2015-2018 Part 9.4 ‘Til Death Do Us… (MG)</Name>
+<Name>[Marvel] 2015-2018 Part 9.4 'Til Death Do Us… (MG)</Name>
 <NumIssues>11</NumIssues>
 <Books>
 <Book Series="Deadpool" Number="27" Volume="2015" Year="2017">

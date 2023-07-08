@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] 2015-2018 Part 5.2 Women of Marvel (MG)</Name>
+<Name>[Marvel] 2015-2018 Part 5.2 Women of Marvel (MG)</Name>
 <NumIssues>36</NumIssues>
 <Books>
 <Book Series="Scarlet Witch" Number="1" Volume="2015" Year="2016">
