@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Based on https://www.marvel.com/comics/discover/2362/dark-web
+-->
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] (2022-12) Dark Web (Official)</Name>
