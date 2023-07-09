@@ -14,7 +14,7 @@
         <Book Series="Sins of Sinister" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="147646" Issue="966426" />
         </Book>
-        <Book Series="Storm and the Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
+        <Book Series="Storm &amp; the Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="148090" Issue="969390" />
         </Book>
         <Book Series="Nightcrawlers" Number="1" Volume="2023" Year="2023">
@@ -29,13 +29,13 @@
         <Book Series="Immoral X-Men" Number="2" Volume="2023" Year="2023">
             <Database Name="cv" Series="148475" Issue="976915" />
         </Book>
-        <Book Series="Storm and the Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
+        <Book Series="Storm &amp; the Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
             <Database Name="cv" Series="148090" Issue="978480" />
         </Book>
         <Book Series="Immoral X-Men" Number="3" Volume="2023" Year="2023">
             <Database Name="cv" Series="148475" Issue="981484" />
         </Book>
-        <Book Series="Storm and the Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
+        <Book Series="Storm &amp; the Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
             <Database Name="cv" Series="148090" Issue="982353" />
         </Book>
         <Book Series="Nightcrawlers" Number="3" Volume="2023" Year="2023">

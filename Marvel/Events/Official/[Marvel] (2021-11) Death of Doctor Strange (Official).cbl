@@ -14,7 +14,7 @@
         <Book Series="Death of Doctor Strange" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="139125" Issue="890606" />
         </Book>
-        <Book Series="Death of Doctor Strange: Avengers" Number="1" Volume="2021" Year="2022">
+        <Book Series="Death of Doctor Strange: The Avengers" Number="1" Volume="2021" Year="2022">
             <Database Name="cv" Series="139949" Issue="892245" />
         </Book>
         <Book Series="Strange Academy Presents: The Death of Doctor Strange" Number="1"

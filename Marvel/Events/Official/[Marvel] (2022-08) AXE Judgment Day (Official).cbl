@@ -76,7 +76,7 @@
         <Book Series="A.X.E.: Avengers" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="145299" Issue="949158" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="10" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="10" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="949133" />
         </Book>
         <Book Series="A.X.E.: Death to the Mutants" Number="3" Volume="2022" Year="2022">
