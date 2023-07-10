@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] 2018-2021 Part 7.1 Journey’s End (MG)</Name>
+<Name>[Marvel] 2018-2021 Part 7.1 Journey's End (MG)</Name>
 <NumIssues>17</NumIssues>
 <Books>
 <Book Series="Champions" Number="7" Volume="2019" Year="2019">
