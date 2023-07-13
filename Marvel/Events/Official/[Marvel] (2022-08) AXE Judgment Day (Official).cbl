@@ -2,7 +2,6 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] (2022) A.X.E. Judgment Day (Official)</Name>
-    <NumIssues>38</NumIssues>
     <Books>
         <Book Series="Free Comic Book Day 2022: Avengers/X-Men" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="142841" Issue="922405" />
