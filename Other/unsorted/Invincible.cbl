@@ -177,7 +177,7 @@
     <Book Series="Invincible" Number="33" Volume="2003" Year="2006">
       <Id>e37d6d49-c08c-465a-a500-4bf225bbffb9</Id>
     </Book>
-    <Book Series="Marvel Team-Up" Number="14" Volume="2005" Year="2006">
+    <Book Series="Marvel Team-Up" Number="14" Volume="2004" Year="2006">
       <Id>ec4681ba-1a57-41c9-94e6-93b4e2571f15</Id>
     </Book>
     <Book Series="Invincible" Number="34" Volume="2003" Year="2006">
