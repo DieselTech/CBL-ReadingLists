@@ -18,7 +18,7 @@
 <Book Series="Venom" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="140084" Issue="903919" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="939085" />
 </Book>
 <Book Series="X-Men: Red" Number="1" Volume="2022" Year="2022">
@@ -66,7 +66,7 @@
 <Book Series="X-Men" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="137402" Issue="885604" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="939085" />
 </Book>
 <Book Series="Captain America: Symbol of Truth" Number="2" Volume="2022" Year="2022">
@@ -111,7 +111,7 @@
 <Book Series="X-Force" Number="20" Volume="2019" Year="2021">
 <Database Name="cv" Series="122668" Issue="857598" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="939085" />
 </Book>
 <Book Series="Venom" Number="4" Volume="2021" Year="2022">
@@ -171,7 +171,7 @@
 <Book Series="Wolverine" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="125121" Issue="737765" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="939085" />
 </Book>
 <Book Series="Venom" Number="4" Volume="2021" Year="2022">

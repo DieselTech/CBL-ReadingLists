@@ -40,10 +40,10 @@
         <Book Series="Marauders Annual" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="141459" Issue="904768" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="7" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="7" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="941553" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="8" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="8" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="943907" />
         </Book>
         <Book Series="Free Comic Book Day 2022: Avengers/X-Men" Number="1" Volume="2022" Year="2022">

@@ -2544,7 +2544,7 @@
 <Book Series="Carnage" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="141919" Issue="919309" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="919313" />
 </Book>
 <Book Series="Knights of X" Number="1" Volume="2022" Year="2022">
@@ -2634,7 +2634,7 @@
 <Book Series="Savage Spider-Man" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="141523" Issue="926177" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="2" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="926175" />
 </Book>
 <Book Series="Captain Marvel" Number="38" Volume="2019" Year="2022">
@@ -2667,7 +2667,7 @@
 <Book Series="Venom" Number="8" Volume="2021" Year="2022">
 <Database Name="cv" Series="140084" Issue="929644" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="3" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="929647" />
 </Book>
 <Book Series="Marauders" Number="3" Volume="2022" Year="2022">
@@ -2718,7 +2718,7 @@
 <Book Series="Moon Knight" Number="12" Volume="2021" Year="2022">
 <Database Name="cv" Series="137698" Issue="931635" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="4" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="931626" />
 </Book>
 <Book Series="Immortal X-Men" Number="3" Volume="2022" Year="2022">
@@ -2781,7 +2781,7 @@
 <Book Series="Sabretooth" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="141524" Issue="934984" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="5" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="934990" />
 </Book>
 <Book Series="Ghost Rider" Number="4" Volume="2022" Year="2022">
@@ -2853,7 +2853,7 @@
 <Book Series="Venom" Number="9" Volume="2021" Year="2022">
 <Database Name="cv" Series="140084" Issue="939095" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="939085" />
 </Book>
 <Book Series="Wolverine: Patch" Number="4" Volume="2022" Year="2022">
@@ -2898,7 +2898,7 @@
 <Book Series="Black Panther" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="140222" Issue="941558" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="7" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="7" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="941553" />
 </Book>
 <Book Series="Punisher" Number="5" Volume="2022" Year="2022">
@@ -2946,7 +2946,7 @@
 <Book Series="Avengers Forever" Number="8" Volume="2021" Year="2022">
 <Database Name="cv" Series="140532" Issue="943840" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="8" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="943907" />
 </Book>
 <Book Series="Carnage" Number="5" Volume="2022" Year="2022">

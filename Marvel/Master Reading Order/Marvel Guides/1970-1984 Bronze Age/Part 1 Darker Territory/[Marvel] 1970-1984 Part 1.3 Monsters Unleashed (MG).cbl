@@ -294,41 +294,41 @@
 <Book Series="Man-Thing" Number="1" Volume="1974" Year="1974">
 <Database Name="cv" Series="2693" Issue="13994" />
 </Book>
-<Book Series="Adventure into Fear" Number="1" Volume="1970" Year="1970">
-<Database Name="cv" Series="2472" Issue="11100" />
+<Book Series="The Frankenstein Monster" Number="1" Volume="1973" Year="1973">
+<Database Name="cv" Series="2635" Issue="110620" />
 </Book>
-<Book Series="Adventure into Fear" Number="2" Volume="1970" Year="1971">
-<Database Name="cv" Series="2472" Issue="11220" />
+<Book Series="The Frankenstein Monster" Number="2" Volume="1973" Year="1973">
+<Database Name="cv" Series="2635" Issue="13008" />
 </Book>
-<Book Series="Adventure into Fear" Number="3" Volume="1970" Year="1971">
-<Database Name="cv" Series="2472" Issue="11326" />
+<Book Series="The Frankenstein Monster" Number="3" Volume="1973" Year="1973">
+<Database Name="cv" Series="2635" Issue="110619" />
 </Book>
-<Book Series="Adventure into Fear" Number="4" Volume="1970" Year="1971">
-<Database Name="cv" Series="2472" Issue="11545" />
+<Book Series="The Frankenstein Monster" Number="4" Volume="1973" Year="1973">
+<Database Name="cv" Series="2635" Issue="13385" />
 </Book>
-<Book Series="Adventure into Fear" Number="5" Volume="1970" Year="1971">
-<Database Name="cv" Series="2472" Issue="11783" />
+<Book Series="The Frankenstein Monster" Number="5" Volume="1973" Year="1973">
+<Database Name="cv" Series="2635" Issue="13576" />
 </Book>
-<Book Series="Adventure into Fear" Number="6" Volume="1970" Year="1972">
-<Database Name="cv" Series="2472" Issue="11993" />
+<Book Series="The Frankenstein Monster" Number="6" Volume="1973" Year="1973">
+<Database Name="cv" Series="2635" Issue="13693" />
 </Book>
-<Book Series="Adventure into Fear" Number="7" Volume="1970" Year="1972">
-<Database Name="cv" Series="2472" Issue="12189" />
+<Book Series="The Frankenstein Monster" Number="7" Volume="1973" Year="1973">
+<Database Name="cv" Series="2635" Issue="13793" />
 </Book>
-<Book Series="Adventure into Fear" Number="8" Volume="1970" Year="1972">
-<Database Name="cv" Series="2472" Issue="12265" />
+<Book Series="The Frankenstein Monster" Number="8" Volume="1973" Year="1974">
+<Database Name="cv" Series="2635" Issue="13989" />
 </Book>
-<Book Series="Adventure into Fear" Number="9" Volume="1970" Year="1972">
-<Database Name="cv" Series="2472" Issue="176471" />
+<Book Series="The Frankenstein Monster" Number="9" Volume="1973" Year="1974">
+<Database Name="cv" Series="2635" Issue="14126" />
 </Book>
-<Book Series="Adventure into Fear" Number="10" Volume="1970" Year="1972">
-<Database Name="cv" Series="2472" Issue="12573" />
+<Book Series="The Frankenstein Monster" Number="10" Volume="1973" Year="1974">
+<Database Name="cv" Series="2635" Issue="14264" />
 </Book>
-<Book Series="Adventure into Fear" Number="11" Volume="1970" Year="1972">
-<Database Name="cv" Series="2472" Issue="12738" />
+<Book Series="The Frankenstein Monster" Number="11" Volume="1973" Year="1974">
+<Database Name="cv" Series="2635" Issue="14418" />
 </Book>
-<Book Series="Adventure into Fear" Number="12" Volume="1970" Year="1973">
-<Database Name="cv" Series="2472" Issue="12924" />
+<Book Series="The Frankenstein Monster" Number="12" Volume="1973" Year="1974">
+<Database Name="cv" Series="2635" Issue="14579" />
 </Book>
 <Book Series="Dracula Lives" Number="1" Volume="1974" Year="1974">
 <Database Name="cv" Series="39056" Issue="262871" />
