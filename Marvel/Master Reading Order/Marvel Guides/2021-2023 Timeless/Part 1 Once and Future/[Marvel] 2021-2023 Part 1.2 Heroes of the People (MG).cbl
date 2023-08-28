@@ -19,22 +19,22 @@
         <Book Series="The United States of Captain America" Number="5" Volume="2021" Year="2021">
             <Database Name="cv" Series="137256" Issue="890615" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="919313" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="2" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="2" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="926175" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="3" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="3" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="929647" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="4" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="931626" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="5" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="934990" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="939085" />
         </Book>
         <Book Series="Captain America/Iron Man" Number="1" Volume="2021" Year="2022">

@@ -7,7 +7,7 @@
         <Book Series="X-Men: Hellfire Gala" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="144025" Issue="935755" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="9" Volume="2022" Year="2022">
+        <Book Series="The Amazing Spider-Man" Number="9" Volume="2022" Year="2022">
             <Database Name="cv" Series="142577" Issue="946710" />
         </Book>
         <Book Series="Immortal X-Men" Number="4" Volume="2022" Year="2022">

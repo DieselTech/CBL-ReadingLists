@@ -1740,7 +1740,7 @@
 <Book Series="Carnage" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="141919" Issue="919309" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="919313" />
 </Book>
 <Book Series="Knights of X" Number="1" Volume="2022" Year="2022">
@@ -1860,7 +1860,7 @@
 <Book Series="Savage Spider-Man" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="141523" Issue="926177" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="2" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="926175" />
 </Book>
 <Book Series="Spider-Man 2099: Exodus" Number="1" Volume="2022" Year="0">
@@ -1905,7 +1905,7 @@
 <Book Series="Venom" Number="8" Volume="2021" Year="2022">
 <Database Name="cv" Series="140084" Issue="929644" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="3" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="929647" />
 </Book>
 <Book Series="Marauders" Number="3" Volume="2022" Year="2022">
@@ -1977,7 +1977,7 @@
 <Book Series="Maestro: World War M" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="141589" Issue="931627" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="4" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="931626" />
 </Book>
 <Book Series="Immortal X-Men" Number="3" Volume="2022" Year="2022">
@@ -2058,7 +2058,7 @@
 <Book Series="Sabretooth" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="141524" Issue="934984" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="5" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="934990" />
 </Book>
 <Book Series="What If...? Miles Morales" Number="5" Volume="2022" Year="2022">
@@ -2166,7 +2166,7 @@
 <Book Series="Hulkling &#38; Wiccan" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143644" Issue="930976" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="939085" />
 </Book>
 <Book Series="Wolverine: Patch" Number="4" Volume="2022" Year="2022">
@@ -2226,7 +2226,7 @@
 <Book Series="Black Panther" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="140222" Issue="941558" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="7" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="7" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="941553" />
 </Book>
 <Book Series="A.X.E.: Judgment Day" Number="2" Volume="2022" Year="2022">
@@ -2307,7 +2307,7 @@
 <Book Series="Avengers Forever" Number="8" Volume="2021" Year="2022">
 <Database Name="cv" Series="140532" Issue="943840" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="8" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="943907" />
 </Book>
 <Book Series="Wolverine: Patch" Number="5" Volume="2022" Year="2022">
@@ -2421,7 +2421,7 @@
 <Book Series="Venom" Number="10" Volume="2021" Year="2022">
 <Database Name="cv" Series="140084" Issue="946723" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="9" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="9" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="946710" />
 </Book>
 <Book Series="X-Men: Red" Number="6" Volume="2022" Year="2022">
@@ -2496,7 +2496,7 @@
 <Book Series="X-Men" Number="15" Volume="2021" Year="2022">
 <Database Name="cv" Series="137402" Issue="949129" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="10" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="10" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="949133" />
 </Book>
 <Book Series="Captain America: Symbol of Truth" Number="5" Volume="2022" Year="2022">
@@ -2574,7 +2574,7 @@
 <Book Series="Wolverine" Number="25" Volume="2020" Year="2022">
 <Database Name="cv" Series="125121" Issue="950794" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="11" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="11" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="950467" />
 </Book>
 <Book Series="Venom" Number="11" Volume="2021" Year="2022">
@@ -2664,7 +2664,7 @@
 <Book Series="Wolverine" Number="26" Volume="2020" Year="2022">
 <Database Name="cv" Series="125121" Issue="952302" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="12" Volume="2022" Year="2022">
+<Book Series="The Amazing Spider-Man" Number="12" Volume="2022" Year="2022">
 <Database Name="cv" Series="142577" Issue="952301" />
 </Book>
 <Book Series="Venom" Number="12" Volume="2021" Year="2022">
