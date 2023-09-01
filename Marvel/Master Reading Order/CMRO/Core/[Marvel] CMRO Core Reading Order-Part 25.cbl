@@ -87,7 +87,7 @@
 <Book Series="Thunderbolts" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144863" Issue="944944" />
 </Book>
-<Book Series="Hulk" Number="6" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="918154" />
 </Book>
 <Book Series="Marauders" Number="5" Volume="2022" Year="2022">
