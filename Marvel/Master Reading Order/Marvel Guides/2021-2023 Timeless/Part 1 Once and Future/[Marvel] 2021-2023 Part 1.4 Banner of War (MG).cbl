@@ -22,22 +22,22 @@
         <Book Series="Jane Foster &#38; The Mighty Thor" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="143439" Issue="949639" />
         </Book>
-        <Book Series="Hulk" Number="1" Volume="2021" Year="2022">
+        <Book Series="Hulk" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="140213" Issue="895280" />
         </Book>
-        <Book Series="Hulk" Number="2" Volume="2021" Year="2022">
+        <Book Series="Hulk" Number="2" Volume="2022" Year="2022">
             <Database Name="cv" Series="140213" Issue="898359" />
         </Book>
-        <Book Series="Hulk" Number="3" Volume="2021" Year="2022">
+        <Book Series="Hulk" Number="3" Volume="2022" Year="2022">
             <Database Name="cv" Series="140213" Issue="903912" />
         </Book>
-        <Book Series="Hulk" Number="4" Volume="2021" Year="2022">
+        <Book Series="Hulk" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="140213" Issue="907437" />
         </Book>
-        <Book Series="Hulk" Number="5" Volume="2021" Year="2022">
+        <Book Series="Hulk" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="140213" Issue="913164" />
         </Book>
-        <Book Series="Hulk" Number="6" Volume="2021" Year="2022">
+        <Book Series="Hulk" Number="6" Volume="2022" Year="2022">
             <Database Name="cv" Series="140213" Issue="918154" />
         </Book>
         <Book Series="Hulk vs. Thor: Banner of War Alpha" Number="1" Volume="2022" Year="2022">
@@ -46,13 +46,13 @@
         <Book Series="Thor" Number="25" Volume="2020" Year="2022">
             <Database Name="cv" Series="123862" Issue="924794" />
         </Book>
-        <Book Series="Hulk" Number="7" Volume="2021" Year="2022">
+        <Book Series="Hulk" Number="7" Volume="2022" Year="2022">
             <Database Name="cv" Series="140213" Issue="926204" />
         </Book>
         <Book Series="Thor" Number="26" Volume="2020" Year="2022">
             <Database Name="cv" Series="123862" Issue="929648" />
         </Book>
-        <Book Series="Hulk" Number="8" Volume="2021" Year="2022">
+        <Book Series="Hulk" Number="8" Volume="2022" Year="2022">
             <Database Name="cv" Series="140213" Issue="942716" />
         </Book>
         <Book Series="Planet Hulk Worldbreaker" Number="1" Volume="2022" Year="2023">

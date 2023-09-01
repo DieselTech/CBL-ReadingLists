@@ -105,7 +105,7 @@
 <Book Series="Dark Ages" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="138658" Issue="913166" />
 </Book>
-<Book Series="Hulk" Number="5" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="913164" />
 </Book>
 <Book Series="Silver Surfer Rebirth" Number="3" Volume="2022" Year="2022">
@@ -240,7 +240,7 @@
 <Book Series="Shang-Chi" Number="11" Volume="2021" Year="2022">
 <Database Name="cv" Series="136143" Issue="918116" />
 </Book>
-<Book Series="Hulk" Number="6" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="918154" />
 </Book>
 <Book Series="Spider-Gwen: Gwenverse" Number="1" Volume="2022" Year="2022">
@@ -417,7 +417,7 @@
 <Book Series="Moon Knight" Number="11" Volume="2021" Year="2022">
 <Database Name="cv" Series="137698" Issue="926637" />
 </Book>
-<Book Series="Hulk" Number="7" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="7" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="926204" />
 </Book>
 <Book Series="Punisher" Number="3" Volume="2022" Year="2022">
@@ -855,7 +855,7 @@
 <Book Series="X-Men" Number="13" Volume="2021" Year="2022">
 <Database Name="cv" Series="137402" Issue="942704" />
 </Book>
-<Book Series="Hulk" Number="8" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="8" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="942716" />
 </Book>
 <Book Series="Strange" Number="5" Volume="2022" Year="2022">
@@ -1125,7 +1125,7 @@
 <Book Series="Marvel's Voices: Comunidades" Number="1" Volume="2021" Year="2022">
 <Database Name="cv" Series="140356" Issue="897358" />
 </Book>
-<Book Series="Hulk" Number="9" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="9" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="949638" />
 </Book>
 <Book Series="Marauders" Number="7" Volume="2022" Year="2022">

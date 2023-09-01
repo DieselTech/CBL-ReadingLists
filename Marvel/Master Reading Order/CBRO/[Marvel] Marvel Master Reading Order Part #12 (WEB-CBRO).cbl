@@ -1755,22 +1755,22 @@
 <Book Series="Timeless" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140623" Issue="900393" />
 </Book>
-<Book Series="Hulk" Number="1" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="895280" />
 </Book>
-<Book Series="Hulk" Number="2" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="898359" />
 </Book>
-<Book Series="Hulk" Number="3" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="903912" />
 </Book>
-<Book Series="Hulk" Number="4" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="907437" />
 </Book>
-<Book Series="Hulk" Number="5" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="913164" />
 </Book>
-<Book Series="Hulk" Number="6" Volume="2021" Year="2022">
+<Book Series="Hulk" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="140213" Issue="918154" />
 </Book>
 <Book Series="Thor" Number="19" Volume="2020" Year="2022">
