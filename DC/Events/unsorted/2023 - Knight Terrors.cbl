@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Knight Terrors</Name>
+  <Name>2023 - Knight Terrors</Name>
   <Books>
     <Book Series="Dawn of DC Knight Terrors FCBD Special Edition: 2023" Number="1" Volume="2023" Year="2023">
       <Id>dbac13af-dfc3-4f5e-a42d-585c6e8237f3</Id>
