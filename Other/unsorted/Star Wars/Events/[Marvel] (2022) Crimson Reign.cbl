@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>Crimson Reign </Name>
-    <Source>[Marvel] (2022) Crimson Reign (Official)</Source>
+    <Name>Crimson Reign</Name>
+    <NumIssues>31</NumIssues>
+    <Source>[Marvel] (2022) Crimson Reign.cbl</Source>
     <StartYear>2022</StartYear>
     <Books>
         <Book Series="Star Wars: Darth Vader" Number="18" Volume="2020" Year="2022">

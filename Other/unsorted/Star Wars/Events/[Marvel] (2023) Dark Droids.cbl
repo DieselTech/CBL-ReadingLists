@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>[Marvel] (2023-08) Dark Droids</Name>
+    <Name>Dark Droids</Name>
+    <NumIssues>8</NumIssues>
+    <Source>[Marvel] (2023-08) Dark Droids.cbl</Source>
+    <StartYear>2023</StartYear>
     <Books>
         <Book Series="Star Wars: Dark Droids" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="152654" Issue="1004337" />
