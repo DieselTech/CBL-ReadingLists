@@ -684,6 +684,9 @@
     <Book Series="Invincible" Number="122" Volume="2003" Year="2015">
       <Id>2cca5cfc-97f2-4d11-8357-4030b46b7c10</Id>
     </Book>
+	<Book Series="Invincible" Number="123" Volume="2003" Year="2015">
+      <Id>2cca5cfc-97f2-4d11-8357-4030b46b7c10</Id>
+    </Book>
     <Book Series="Invincible" Number="124" Volume="2003" Year="2015">
       <Id>ea5e46b6-03bc-4885-a7f8-4d990d689d1d</Id>
     </Book>
