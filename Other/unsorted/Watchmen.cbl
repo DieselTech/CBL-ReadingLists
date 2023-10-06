@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Watchme</Name>
+<Name>Watchmen</Name>
 <NumIssues>53</NumIssues>
 <Books>
 <Book Series="Before Watchmen: Minutemen" Number="1" Volume="2012" Year="2012">

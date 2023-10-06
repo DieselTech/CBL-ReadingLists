@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] 2016-2021 Part 1.5 Generati</Name>
+<Name>[DC] 2016-2021 Part 1.5 Generations</Name>
 <NumIssues>127</NumIssues>
 <Books>
 <Book Series="Teen Titans: Rebirth" Number="1" Volume="2016" Year="2016">

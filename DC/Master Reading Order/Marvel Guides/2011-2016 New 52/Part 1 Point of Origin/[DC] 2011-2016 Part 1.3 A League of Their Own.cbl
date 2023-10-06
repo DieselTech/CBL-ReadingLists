@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] 2011-2016 Part 1.3 A League of Their Ow</Name>
+<Name>[DC] 2011-2016 Part 1.3 A League of Their Own</Name>
 <NumIssues>153</NumIssues>
 <Books>
 <Book Series="Aquaman" Number="1" Volume="2011" Year="2011">

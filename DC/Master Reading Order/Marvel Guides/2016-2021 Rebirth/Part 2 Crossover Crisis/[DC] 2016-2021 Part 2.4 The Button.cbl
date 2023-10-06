@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] 2016-2021 Part 2.4 The Butt</Name>
+<Name>[DC] 2016-2021 Part 2.4 The Button</Name>
 <NumIssues>23</NumIssues>
 <Books>
 <Book Series="The Flash" Number="20" Volume="2016" Year="2017">

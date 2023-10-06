@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] 2016-2021 Part 1.2 Reign of the Super</Name>
+<Name>[DC] 2016-2021 Part 1.2 Reign of the Supers</Name>
 <NumIssues>32</NumIssues>
 <Books>
 <Book Series="Superman: Rebirth" Number="1" Volume="2016" Year="2016">

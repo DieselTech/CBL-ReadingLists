@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] 2011-2016 Part 2.3 A Wild Storm Approache</Name>
+<Name>[DC] 2011-2016 Part 2.3 A Wild Storm Approaches</Name>
 <NumIssues>121</NumIssues>
 <Books>
 <Book Series="O.M.A.C." Number="1" Volume="2011" Year="2011">

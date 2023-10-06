@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] 2016-2021 Part 2.3 Superman Rebor</Name>
+<Name>[DC] 2016-2021 Part 2.3 Superman Reborn</Name>
 <NumIssues>81</NumIssues>
 <Books>
 <Book Series="Superwoman" Number="1" Volume="2016" Year="2016">

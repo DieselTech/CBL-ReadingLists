@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>The Boy</Name>
+<Name>The Boys</Name>
 <NumIssues>90</NumIssues>
 <Books>
 <Book Series="The Boys" Number="1" Volume="2006" Year="2006">
