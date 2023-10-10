@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Fable</Name>
+<Name>Fables</Name>
 <NumIssues>278</NumIssues>
 <Books>
 <Book Series="Fables" Number="1" Volume="2002" Year="2002">
