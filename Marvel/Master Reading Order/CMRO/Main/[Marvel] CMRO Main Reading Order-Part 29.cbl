@@ -2400,7 +2400,7 @@
 <Book Series="A.X.E.: Death to the Mutants" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="144577" Issue="946198" />
 </Book>
-<Book Series="Spider-Man 2099: Exodus Omega" Number="Omega" Volume="2022" Year="2022">
+<Book Series="Spider-Man 2099: Exodus Omega" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="18651" Issue="946210" />
 </Book>
 <Book Series="All-Out Avengers" Number="1" Volume="2022" Year="2022">

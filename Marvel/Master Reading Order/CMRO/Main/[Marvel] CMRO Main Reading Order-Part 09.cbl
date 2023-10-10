@@ -1719,7 +1719,7 @@
 <Book Series="X-Factor" Number="81" Volume="1986" Year="1992">
 <Database Name="cv" Series="3657" Issue="36035" />
 </Book>
-<Book Series="Spider-Man/Dr. Strange: "The Way to Dusty Death"" Number="1" Volume="1992" Year="1992">
+<Book Series="Spider-Man/Dr. Strange: The Way to Dusty Death" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="31408" Issue="195705" />
 </Book>
 <Book Series="The Punisher" Number="72" Volume="1987" Year="1992">

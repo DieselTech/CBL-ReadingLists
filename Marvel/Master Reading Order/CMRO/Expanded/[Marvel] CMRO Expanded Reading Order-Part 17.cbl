@@ -879,10 +879,10 @@
 <Book Series="X-Factor Annual" Number="9" Volume="1986" Year="1994">
 <Database Name="cv" Series="3658" Issue="107563" />
 </Book>
-<Book Series="Spider-Man "How to Beat the Bully"/Jubilee "Peer Pressure"" Number="1" Volume="1994" Year="1995">
+<Book Series="Spider-Man How to Beat the Bully/Jubilee Peer Pressure" Number="1" Volume="1994" Year="1995">
 <Database Name="cv" Series="32199" Issue="202027" />
 </Book>
-<Book Series="Spider-Man "How to Beat the Bully"/Jubilee "Peer Pressure"" Number="1" Volume="1994" Year="1995">
+<Book Series="Spider-Man How to Beat the Bully/Jubilee Peer Pressure" Number="1" Volume="1994" Year="1995">
 <Database Name="cv" Series="32199" Issue="202027" />
 </Book>
 <Book Series="The Night Man" Number="5" Volume="1993" Year="1994">
