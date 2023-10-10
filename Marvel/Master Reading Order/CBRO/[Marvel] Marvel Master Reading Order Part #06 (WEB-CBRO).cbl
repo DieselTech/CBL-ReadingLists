@@ -165,21 +165,21 @@
 <Book Series="Blade: Vampire Hunter" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="31627" Issue="208855" />
 </Book>
-<Book Series="Blade" Number="2" Volume="2006" Year="2006">
-<Database Name="cv" Series="18117" Issue="108522" />
+<Book Series="Blade: Vampire Hunter" Number="2" Volume="1999" Year="2000">
+    <Database Name="cv" Series="31627" Issue="197697" />
 </Book>
-<Book Series="Blade" Number="3" Volume="2006" Year="2007">
-<Database Name="cv" Series="18117" Issue="108521" />
+<Book Series="Blade: Vampire Hunter" Number="3" Volume="1999" Year="2000">
+<Database Name="cv" Series="31627" Issue="198521" />
 </Book>
-<Book Series="Blade" Number="4" Volume="2006" Year="2007">
-<Database Name="cv" Series="18117" Issue="106153" />
+<Book Series="Blade: Vampire Hunter" Number="4" Volume="1999" Year="2000">
+<Database Name="cv" Series="31627" Issue="210024" />
 </Book>
-<Book Series="Blade" Number="5" Volume="2006" Year="2007">
-<Database Name="cv" Series="18117" Issue="108514" />
+<Book Series="Blade: Vampire Hunter" Number="5" Volume="1999" Year="2000">
+<Database Name="cv" Series="31627" Issue="219406" />
 </Book>
-<Book Series="Blade" Number="6" Volume="2006" Year="2007">
-<Database Name="cv" Series="18117" Issue="108515" />
-</Book>
+<Book Series="Blade: Vampire Hunter" Number="6" Volume="1999" Year="2000">
+<Database Name="cv" Series="31627" Issue="219407" />
+</Book>                                        
 <Book Series="Thunderbolts" Number="33" Volume="1997" Year="1999">
 <Database Name="cv" Series="6020" Issue="46171" />
 </Book>

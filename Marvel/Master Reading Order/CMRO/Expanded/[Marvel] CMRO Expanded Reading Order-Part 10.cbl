@@ -2052,7 +2052,7 @@
 <Book Series="Conan the Barbarian" Number="155" Volume="1970" Year="1984">
 <Database Name="cv" Series="2471" Issue="132527" />
 </Book>
-<Book Series="Spider-Man and the Dallas Cowboys: "Danger in Dallas"" Number="1" Volume="1983" Year="1983">
+<Book Series="Spider-Man and the Dallas Cowboys: Danger in Dallas" Number="1" Volume="1983" Year="1983">
 <Database Name="cv" Series="34090" Issue="222240" />
 </Book>
 <Book Series="Marvel Fanfare" Number="15" Volume="1982" Year="1984">
