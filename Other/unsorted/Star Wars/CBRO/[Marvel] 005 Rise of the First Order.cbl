@@ -242,19 +242,19 @@
             Volume="2019" Year="2019">
             <Database Name="cv" Series="121899" Issue="725251" />
         </Book>
-        <Book Series="Star Wars: Galaxy’s Edge" Number="1" Volume="2019" Year="2019">
+        <Book Series="Star Wars: Galaxy's Edge" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="118532" Issue="706963" />
         </Book>
-        <Book Series="Star Wars: Galaxy’s Edge" Number="2" Volume="2019" Year="2019">
+        <Book Series="Star Wars: Galaxy's Edge" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="118532" Issue="709727" />
         </Book>
-        <Book Series="Star Wars: Galaxy’s Edge" Number="3" Volume="2019" Year="2019">
+        <Book Series="Star Wars: Galaxy's Edge" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="118532" Issue="712550" />
         </Book>
-        <Book Series="Star Wars: Galaxy’s Edge" Number="4" Volume="2019" Year="2019">
+        <Book Series="Star Wars: Galaxy's Edge" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="118532" Issue="714674" />
         </Book>
-        <Book Series="Star Wars: Galaxy’s Edge" Number="5" Volume="2019" Year="2019">
+        <Book Series="Star Wars: Galaxy's Edge" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="118532" Issue="717532" />
         </Book>
         <Book Series="Star Wars: The Halcyon Legacy" Number="1" Volume="2022" Year="2022">

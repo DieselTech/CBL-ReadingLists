@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC Comics] Joker’s Last Laugh (WEB-CBRO)</Name>
+<Name>[DC Comics] Joker's Last Laugh (WEB-CBRO)</Name>
 <NumIssues>32</NumIssues>
 <Books>
 <Book Series="Joker: Last Laugh" Number="1" Volume="2001" Year="2001">

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>015 Kraven’s Last Hunt (1987)</Name>
+  <Name>015 Kraven's Last Hunt (1987)</Name>
   <Books>
     <Book Series="Web of Spider-Man" Number="31" Volume="1985" Year="1987">
       <Id>58bee899-2632-4eca-8991-7a1964e643ba</Id>

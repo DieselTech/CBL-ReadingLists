@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>036 X-Cutioner’s Song (1992)</Name>
+  <Name>036 X-Cutioner's Song (1992)</Name>
   <Books>
     <Book Series="The Uncanny X-Men" Number="294" Volume="1981" Year="1992">
       <Id>b323f0ae-1c5e-4458-81b4-cfa71abc2f40</Id>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC Comics] Superman- H’el on Earth (WEB-CBRO)</Name>
+<Name>[DC Comics] Superman- H'el on Earth (WEB-CBRO)</Name>
 <NumIssues>14</NumIssues>
 <Books>
 <Book Series="Superman" Number="13" Volume="2011" Year="2012">
