@@ -240,16 +240,16 @@
 <Book Series="Green Arrow Year One" Number="6" Volume="2007" Year="2007">
 <Database Name="cv" Series="18880" Issue="116978" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="65" Volume="1992" Year="1994">
+<Book Series="Legends of the Dark Knight" Number="65" Volume="1989" Year="1994">
 <Database Name="cv" Series="4720" Issue="39976" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="66" Volume="1992" Year="1994">
+<Book Series="Legends of the Dark Knight" Number="66" Volume="1989" Year="1994">
 <Database Name="cv" Series="4720" Issue="40117" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="67" Volume="1992" Year="1995">
+<Book Series="Legends of the Dark Knight" Number="67" Volume="1989" Year="1995">
 <Database Name="cv" Series="4720" Issue="40360" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="68" Volume="1992" Year="1995">
+<Book Series="Legends of the Dark Knight" Number="68" Volume="1989" Year="1995">
 <Database Name="cv" Series="4720" Issue="40489" />
 </Book>
 <Book Series="Batman: The Long Halloween" Number="1" Volume="1996" Year="1996">
@@ -333,7 +333,7 @@
 <Book Series="Batman: Dark Victory" Number="12" Volume="1999" Year="2000">
 <Database Name="cv" Series="6312" Issue="106666" />
 </Book>
-<Book Series="Batman: Dark Victory" Number="13" Volume="1999" Year="2000">
+<Book Series="Batman: Dark Victory" Number="13" Volume="1999" Year="2001">
 <Database Name="cv" Series="6312" Issue="106667" />
 </Book>
 <Book Series="Catwoman: When in Rome" Number="1" Volume="2004" Year="2004">
@@ -360,10 +360,10 @@
 <Book Series="Robin: Year One" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="9134" Issue="68422" />
 </Book>
-<Book Series="Robin: Year One" Number="2" Volume="2000" Year="2001">
+<Book Series="Robin: Year One" Number="2" Volume="2000" Year="2000">
 <Database Name="cv" Series="9134" Issue="68423" />
 </Book>
-<Book Series="Robin: Year One" Number="3" Volume="2000" Year="2001">
+<Book Series="Robin: Year One" Number="3" Volume="2000" Year="2000">
 <Database Name="cv" Series="9134" Issue="68424" />
 </Book>
 <Book Series="Robin: Year One" Number="4" Volume="2000" Year="2001">
@@ -588,8 +588,8 @@
 <Book Series="Nightwing" Number="106" Volume="1996" Year="2005">
 <Database Name="cv" Series="5755" Issue="96778" />
 </Book>
-<Book Series="Legion of Super-Heroes Annual" Number="2" Volume="1982" Year="1983">
-<Database Name="cv" Series="3116" Issue="22716" />
+<Book Series="Tales of the Legion of Super-Heroes Annual" Number="4" Volume="1986" Year="1986">
+<Database Name="cv" Series="44355" Issue="305542" />
 </Book>
 <Book Series="Booster Gold" Number="8" Volume="1986" Year="1986">
 <Database Name="cv" Series="3596" Issue="27134" />
@@ -855,16 +855,16 @@
 <Book Series="Batman: The Killing Joke" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="19967" Issue="119383" />
 </Book>
-<Book Series="Batman: The Cult" Number="1" Volume="1988" Year="1988">
-<Database Name="cv" Series="3979" Issue="28995" />
+<Book Series="Batman: The Cult" Number="1" Volume="1989" Year="1991">
+<Database Name="cv" Series="3979" Issue="276341" />
 </Book>
-<Book Series="Batman: The Cult" Number="2" Volume="1988" Year="1988">
+<Book Series="Batman: The Cult" Number="2" Volume="1989" Year="1988">
 <Database Name="cv" Series="3979" Issue="29013" />
 </Book>
-<Book Series="Batman: The Cult" Number="3" Volume="1988" Year="1988">
+<Book Series="Batman: The Cult" Number="3" Volume="1989" Year="1988">
 <Database Name="cv" Series="3979" Issue="29023" />
 </Book>
-<Book Series="Batman: The Cult" Number="4" Volume="1988" Year="1988">
+<Book Series="Batman: The Cult" Number="4" Volume="1989" Year="1988">
 <Database Name="cv" Series="3979" Issue="29028" />
 </Book>
 <Book Series="Legion of Super-Heroes" Number="46" Volume="1984" Year="1988">
@@ -1311,7 +1311,7 @@
 <Book Series="Wonder Woman" Number="24" Volume="1987" Year="1988">
 <Database Name="cv" Series="3824" Issue="30538" />
 </Book>
-<Book Series="Firestorm, the Nuclear Man" Number="82" Volume="1987" Year="1989">
+<Book Series="The Fury of Firestorm" Number="82" Volume="1982" Year="1989">
 <Database Name="cv" Series="3789" Issue="30854" />
 </Book>
 <Book Series="Swamp Thing" Number="82" Volume="1986" Year="1989">
@@ -2022,7 +2022,7 @@
 <Book Series="The Books of Magic" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="4354" Issue="32134" />
 </Book>
-<Book Series="The Books of Magic" Number="2" Volume="1990" Year="1990">
+<Book Series="The Books of Magic" Number="2" Volume="1990" Year="1991">
 <Database Name="cv" Series="4354" Issue="32154" />
 </Book>
 <Book Series="The Books of Magic" Number="3" Volume="1990" Year="1991">
@@ -2043,13 +2043,13 @@
 <Book Series="The Flash" Number="50" Volume="1987" Year="1991">
 <Database Name="cv" Series="3790" Issue="34163" />
 </Book>
-<Book Series="Firestorm" Number="98" Volume="1989" Year="1990">
+<Book Series="The Fury of Firestorm" Number="98" Volume="1982" Year="1990">
 <Database Name="cv" Series="149680" Issue="32796" />
 </Book>
-<Book Series="Firestorm" Number="99" Volume="1989" Year="1990">
+<Book Series="The Fury of Firestorm" Number="99" Volume="1982" Year="1990">
 <Database Name="cv" Series="149680" Issue="32924" />
 </Book>
-<Book Series="Firestorm" Number="100" Volume="1989" Year="1990">
+<Book Series="The Fury of Firestorm" Number="100" Volume="1982" Year="1990">
 <Database Name="cv" Series="149680" Issue="33039" />
 </Book>
 <Book Series="Wonder Woman" Number="45" Volume="1987" Year="1990">
@@ -2112,7 +2112,7 @@
 <Book Series="Batman &#38; Dracula: Red Rain" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="19168" Issue="114715" />
 </Book>
-<Book Series="Batman: Bloodstorm" Number="1" Volume="1994" Year="1994">
+<Book Series="Batman: Bloodstorm" Number="1" Volume="1994" Year="1995">
 <Database Name="cv" Series="19169" Issue="114716" />
 </Book>
 <Book Series="Batman: Crimson Mist" Number="1" Volume="1999" Year="1999">

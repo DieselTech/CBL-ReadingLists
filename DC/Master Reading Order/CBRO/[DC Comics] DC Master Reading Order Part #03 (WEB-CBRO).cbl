@@ -30,7 +30,7 @@
 <Book Series="Justice League America" Number="42" Volume="1989" Year="1990">
 <Database Name="cv" Series="4198" Issue="33161" />
 </Book>
-<Book Series="Justice League Quarterly" Number="1" Volume="1990" Year="1990">
+<Book Series="Justice League Quarterly" Number="1" Volume="1990" Year="1991">
 <Database Name="cv" Series="9634" Issue="86440" />
 </Book>
 <Book Series="Justice League America" Number="43" Volume="1989" Year="1990">
@@ -291,10 +291,10 @@
 <Book Series="Batman: Son of the Demon" Number="1" Volume="1987" Year="1987">
 <Database Name="cv" Series="26065" Issue="154206" />
 </Book>
-<Book Series="Batman: Bride of the Demon" Number="1" Volume="1990" Year="1991">
+<Book Series="Batman: Bride of the Demon" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="34977" Issue="230554" />
 </Book>
-<Book Series="Batman: Birth of the Demon" Number="1" Volume="1992" Year="1992">
+<Book Series="Batman: Birth of the Demon" Number="1" Volume="1992" Year="1993">
 <Database Name="cv" Series="34993" Issue="230752" />
 </Book>
 <Book Series="The Flash" Number="62" Volume="1987" Year="1992">
@@ -663,7 +663,7 @@
 <Book Series="Deadman: Exorcism" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="4732" Issue="36580" />
 </Book>
-<Book Series="Deadman: Exorcism" Number="2" Volume="1992" Year="1992">
+<Book Series="Deadman: Exorcism" Number="2" Volume="1992" Year="1993">
 <Database Name="cv" Series="4732" Issue="36596" />
 </Book>
 <Book Series="Hellblazer" Number="59" Volume="1988" Year="1992">
@@ -1635,7 +1635,7 @@
 <Book Series="Azrael" Number="26" Volume="1995" Year="1997">
 <Database Name="cv" Series="5490" Issue="118242" />
 </Book>
-<Book Series="Batman/Deadman: Death and Glory" Number="1" Volume="1996" Year="1996">
+<Book Series="Batman/Deadman: Death and Glory" Number="1" Volume="1996" Year="1997">
 <Database Name="cv" Series="27328" Issue="166465" />
 </Book>
 <Book Series="The Power of SHAZAM!" Number="10" Volume="1995" Year="1995">

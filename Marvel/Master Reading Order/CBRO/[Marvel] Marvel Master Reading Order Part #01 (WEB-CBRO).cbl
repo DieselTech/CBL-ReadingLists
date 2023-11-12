@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #01 (WEB-CBRO)</Name>
-<NumIssues>946</NumIssues>
+<NumIssues>947</NumIssues>
 <Books>
 <Book Series="Thor: Son of Asgard" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="21670" Issue="130751" />
@@ -608,6 +608,9 @@
 </Book>
 <Book Series="Avengers: Earth's Mightiest Heroes" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118084" />
+</Book>
+<Book Series="The Avengers" Number="9" Volume="1963" Year="1964">
+<Database Name="cv" Series="2128" Issue="7371" />
 </Book>
 <Book Series="Tales of Suspense" Number="48" Volume="1959" Year="1963">
 <Database Name="cv" Series="2007" Issue="6830" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #12 (WEB-CBRO)</Name>
-<NumIssues>639</NumIssues>
+<NumIssues>636</NumIssues>
 <Books>
 <Book Series="Spider-Woman" Number="9" Volume="2020" Year="2021">
 <Database Name="cv" Series="125812" Issue="828864" />
@@ -582,27 +582,6 @@
 <Book Series="Marauders" Number="22" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="872876" />
 </Book>
-<Book Series="Guardians of the Galaxy" Number="16" Volume="2020" Year="2021">
-<Database Name="cv" Series="124447" Issue="872882" />
-</Book>
-<Book Series="S.W.O.R.D." Number="7" Volume="2020" Year="2021">
-<Database Name="cv" Series="132511" Issue="874522" />
-</Book>
-<Book Series="Guardians of the Galaxy" Number="17" Volume="2020" Year="2021">
-<Database Name="cv" Series="124447" Issue="880922" />
-</Book>
-<Book Series="Cable: Reloaded" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="138527" Issue="882047" />
-</Book>
-<Book Series="The Last Annihilation: Wiccan &#38; Hulkling" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="138659" Issue="882901" />
-</Book>
-<Book Series="The Last Annihilation: Wakanda" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="138937" Issue="884897" />
-</Book>
-<Book Series="Guardians of the Galaxy" Number="18" Volume="2020" Year="2021">
-<Database Name="cv" Series="124447" Issue="885611" />
-</Book>
 <Book Series="Silk" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="135005" Issue="840957" />
 </Book>
@@ -965,6 +944,24 @@
 </Book>
 <Book Series="The Marvels" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="135762" Issue="896123" />
+</Book>
+<Book Series="The Marvels" Number="7" Volume="2021" Year="2022">
+<Database Name="cv" Series="135762" Issue="901360" />
+</Book>
+<Book Series="The Marvels" Number="8" Volume="2021" Year="2022">
+<Database Name="cv" Series="135762" Issue="905800" />
+</Book>
+<Book Series="The Marvels" Number="9" Volume="2021" Year="2022">
+<Database Name="cv" Series="135762" Issue="911871" />
+</Book>
+<Book Series="The Marvels" Number="10" Volume="2021" Year="2022">
+<Database Name="cv" Series="135762" Issue="924790" />
+</Book>
+<Book Series="The Marvels" Number="11" Volume="2021" Year="2022">
+<Database Name="cv" Series="135762" Issue="930971" />
+</Book>
+<Book Series="The Marvels" Number="12" Volume="2021" Year="2022">
+<Database Name="cv" Series="135762" Issue="937734" />
 </Book>
 <Book Series="Amazing Fantasy" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="137880" Issue="874518" />
@@ -1725,21 +1722,6 @@
 <Book Series="Free Comic Book Day 2021: Avengers/Hulk" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138340" Issue="880888" />
 </Book>
-<Book Series="Avengers" Number="50" Volume="2018" Year="2022">
-<Database Name="cv" Series="110496" Issue="896105" />
-</Book>
-<Book Series="Avengers" Number="51" Volume="2018" Year="2022">
-<Database Name="cv" Series="110496" Issue="899170" />
-</Book>
-<Book Series="Avengers" Number="52" Volume="2018" Year="2022">
-<Database Name="cv" Series="110496" Issue="903905" />
-</Book>
-<Book Series="Avengers" Number="53" Volume="2018" Year="2022">
-<Database Name="cv" Series="110496" Issue="906642" />
-</Book>
-<Book Series="Avengers" Number="54" Volume="2018" Year="2022">
-<Database Name="cv" Series="110496" Issue="911244" />
-</Book>
 <Book Series="Black Panther Legends" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139563" Issue="889469" />
 </Book>
@@ -1878,6 +1860,9 @@
 <Book Series="Captain America/Iron Man" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="140358" Issue="912253" />
 </Book>
+<Book Series="Moon Knight" Number="7" Volume="2021" Year="2022">
+<Database Name="cv" Series="137698" Issue="903914" />
+</Book>
 <Book Series="Spider-Woman" Number="17" Volume="2020" Year="2022">
 <Database Name="cv" Series="125812" Issue="894363" />
 </Book>
@@ -1919,6 +1904,12 @@
 </Book>
 <Book Series="Marauders" Number="27" Volume="2019" Year="2022">
 <Database Name="cv" Series="122218" Issue="902690" />
+</Book>
+<Book Series="X-Men" Number="9" Volume="2021" Year="2022">
+<Database Name="cv" Series="137402" Issue="909674" />
+</Book>
+<Book Series="X-Force Annual" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="142143" Issue="914651" />
 </Book>
 </Books>
 <Matchers />

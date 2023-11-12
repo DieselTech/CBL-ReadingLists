@@ -795,7 +795,7 @@
 <Book Series="Doctor Strange: The Oath" Number="5" Volume="2006" Year="2007">
 <Database Name="cv" Series="18096" Issue="106721" />
 </Book>
-<Book Series="Spider-Man: Reign" Number="1" Volume="2007" Year="2006">
+<Book Series="Spider-Man: Reign" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18170" Issue="106466" />
 </Book>
 <Book Series="Spider-Man: Reign" Number="2" Volume="2007" Year="2007">

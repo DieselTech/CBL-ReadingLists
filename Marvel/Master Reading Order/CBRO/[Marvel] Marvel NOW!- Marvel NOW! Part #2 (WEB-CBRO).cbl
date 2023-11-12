@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel NOW!- Marvel NOW! Part #2 (WEB-CBRO)</Name>
-<NumIssues>810</NumIssues>
+<NumIssues>812</NumIssues>
 <Books>
 <Book Series="X-Men" Number="7" Volume="2013" Year="2014">
 <Database Name="cv" Series="62383" Issue="433854" />
@@ -2081,6 +2081,12 @@
 </Book>
 <Book Series="Legendary Star-Lord" Number="12" Volume="2014" Year="2015">
 <Database Name="cv" Series="75335" Issue="488649" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="26" Volume="2013" Year="2015">
+<Database Name="cv" Series="57960" Issue="486722" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="27" Volume="2013" Year="2015">
+<Database Name="cv" Series="57960" Issue="489319" />
 </Book>
 <Book Series="Bucky Barnes: The Winter Soldier" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="77225" Issue="466970" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #09 (WEB-CBRO)</Name>
-<NumIssues>734</NumIssues>
+<NumIssues>735</NumIssues>
 <Books>
 <Book Series="Ghost Rider" Number="33" Volume="2006" Year="2009">
 <Database Name="cv" Series="18138" Issue="153442" />
@@ -222,6 +222,21 @@
 <Book Series="Captain America" Number="48" Volume="2004" Year="2009">
 <Database Name="cv" Series="11499" Issue="153957" />
 </Book>
+<Book Series="Deadpool: Suicide Kings" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="2709" Issue="155160" />
+</Book>
+<Book Series="Deadpool: Suicide Kings" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="2709" Issue="157164" />
+</Book>
+<Book Series="Deadpool: Suicide Kings" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="2709" Issue="159239" />
+</Book>
+<Book Series="Deadpool: Suicide Kings" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="2709" Issue="164774" />
+</Book>
+<Book Series="Deadpool: Suicide Kings" Number="5" Volume="2009" Year="2009">
+<Database Name="cv" Series="2709" Issue="167376" />
+</Book>
 <Book Series="Luke Cage Noir" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="27291" Issue="166322" />
 </Book>
@@ -372,6 +387,9 @@
 <Book Series="Ms. Marvel" Number="47" Volume="2006" Year="2010">
 <Database Name="cv" Series="17990" Issue="184820" />
 </Book>
+<Book Series="Son of Hulk" Number="13" Volume="2009" Year="2009">
+<Database Name="cv" Series="50762" Issue="347248" />
+</Book>
 <Book Series="Son of Hulk" Number="14" Volume="2009" Year="2009">
 <Database Name="cv" Series="50762" Issue="347249" />
 </Book>
@@ -395,21 +413,6 @@
 </Book>
 <Book Series="Nomad: Girl Without a World" Number="4" Volume="2009" Year="2010">
 <Database Name="cv" Series="27856" Issue="187866" />
-</Book>
-<Book Series="Deadpool: Suicide Kings" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="2709" Issue="155160" />
-</Book>
-<Book Series="Deadpool: Suicide Kings" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="2709" Issue="157164" />
-</Book>
-<Book Series="Deadpool: Suicide Kings" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="2709" Issue="159239" />
-</Book>
-<Book Series="Deadpool: Suicide Kings" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="2709" Issue="164774" />
-</Book>
-<Book Series="Deadpool: Suicide Kings" Number="5" Volume="2009" Year="2009">
-<Database Name="cv" Series="2709" Issue="167376" />
 </Book>
 <Book Series="Deadpool" Number="13" Volume="2008" Year="2009">
 <Database Name="cv" Series="22955" Issue="166793" />

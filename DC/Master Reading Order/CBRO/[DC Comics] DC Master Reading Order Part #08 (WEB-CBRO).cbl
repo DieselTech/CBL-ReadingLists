@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #08 (WEB-CBRO)</Name>
-<NumIssues>1009</NumIssues>
+<NumIssues>1029</NumIssues>
 <Books>
+<Book Series="Superman: Earth One" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="36355" Issue="239858" />
+</Book>
+<Book Series="Superman: Earth One" Number="2" Volume="2010" Year="2012">
+<Database Name="cv" Series="36355" Issue="364118" />
+</Book>
+<Book Series="Superman: Earth One" Number="3" Volume="2010" Year="2015">
+<Database Name="cv" Series="36355" Issue="478596" />
+</Book>
+<Book Series="Batman: Earth One" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="50152" Issue="344032" />
+</Book>
+<Book Series="Batman: Earth One" Number="2" Volume="2012" Year="2015">
+<Database Name="cv" Series="50152" Issue="487811" />
+</Book>
+<Book Series="Batman: Earth One" Number="3" Volume="2012" Year="2021">
+<Database Name="cv" Series="50152" Issue="858428" />
+</Book>
+<Book Series="Teen Titans: Earth One" Number="1" Volume="2014" Year="2015">
+<Database Name="cv" Series="78199" Issue="470412" />
+</Book>
+<Book Series="Teen Titans: Earth One" Number="2" Volume="2014" Year="2016">
+<Database Name="cv" Series="78199" Issue="543735" />
+</Book>
+<Book Series="Wonder Woman: Earth One" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="89397" Issue="523243" />
+</Book>
+<Book Series="Wonder Woman: Earth One" Number="2" Volume="2016" Year="2018">
+<Database Name="cv" Series="89397" Issue="687001" />
+</Book>
+<Book Series="Wonder Woman: Earth One" Number="3" Volume="2016" Year="2021">
+<Database Name="cv" Series="89397" Issue="834426" />
+</Book>
+<Book Series="Green Lantern: Earth One" Number="1" Volume="2018" Year="2018">
+<Database Name="cv" Series="109196" Issue="662714" />
+</Book>
+<Book Series="Green Lantern: Earth One" Number="2" Volume="2018" Year="2020">
+<Database Name="cv" Series="109196" Issue="790241" />
+</Book>
 <Book Series="Star Trek/Legion of Super-Heroes" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="43362" Issue="297447" />
 </Book>
@@ -2196,7 +2235,7 @@
 <Book Series="Swamp Thing: Twin Branches" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="131087" Issue="809812" />
 </Book>
-<Book Series="Victor and Nora: A Gotham Love Story" Number="1" Volume="2020" Year="2020">
+<Book Series="Victor and Nora: A Gotham Love Story" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="131622" Issue="815625" />
 </Book>
 <Book Series="The Other History of the DC Universe" Number="1" Volume="2020" Year="2021">
@@ -2763,13 +2802,13 @@
 <Book Series="Harley Quinn: The Animated Series: The Eat. Bang! Kill. Tour" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="138023" Issue="883719" />
 </Book>
-<Book Series="Harley Quinn: The Animated Series: The Eat. Bang! Kill. Tour" Number="3" Volume="2021" Year="2021">
+<Book Series="Harley Quinn: The Animated Series: The Eat. Bang! Kill. Tour" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="138023" Issue="888599" />
 </Book>
-<Book Series="Harley Quinn: The Animated Series: The Eat. Bang! Kill. Tour" Number="4" Volume="2021" Year="2021">
+<Book Series="Harley Quinn: The Animated Series: The Eat. Bang! Kill. Tour" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="138023" Issue="891944" />
 </Book>
-<Book Series="Harley Quinn: The Animated Series: The Eat. Bang! Kill. Tour" Number="5" Volume="2021" Year="2021">
+<Book Series="Harley Quinn: The Animated Series: The Eat. Bang! Kill. Tour" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="138023" Issue="897157" />
 </Book>
 <Book Series="Harley Quinn: The Animated Series: The Eat. Bang! Kill. Tour" Number="6" Volume="2021" Year="2022">
@@ -2895,6 +2934,15 @@
 <Book Series="Dark Knights of Steel" Number="9" Volume="2021" Year="2023">
 <Database Name="cv" Series="139924" Issue="962688" />
 </Book>
+<Book Series="Dark Knights of Steel" Number="10" Volume="2021" Year="2023">
+<Database Name="cv" Series="139924" Issue="979181" />
+</Book>
+<Book Series="Dark Knights of Steel" Number="11" Volume="2021" Year="2023">
+<Database Name="cv" Series="139924" Issue="993210" />
+</Book>
+<Book Series="Dark Knights of Steel" Number="12" Volume="2021" Year="2023">
+<Database Name="cv" Series="139924" Issue="1010064" />
+</Book>
 <Book Series="Wonder Woman Historia: The Amazons" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140263" Issue="895907" />
 </Book>
@@ -2927,6 +2975,9 @@
 </Book>
 <Book Series="Swamp Thing: Green Hell" Number="2" Volume="2022" Year="2023">
 <Database Name="cv" Series="140612" Issue="971682" />
+</Book>
+<Book Series="Swamp Thing: Green Hell" Number="3" Volume="2022" Year="2023">
+<Database Name="cv" Series="140612" Issue="978315" />
 </Book>
 <Book Series="Strange Love Adventures" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141611" Issue="907202" />
@@ -3029,6 +3080,15 @@
 </Book>
 <Book Series="The Riddler: Year One" Number="3" Volume="2022" Year="2023">
 <Database Name="cv" Series="145673" Issue="973952" />
+</Book>
+<Book Series="The Riddler: Year One" Number="4" Volume="2022" Year="2023">
+<Database Name="cv" Series="145673" Issue="985034" />
+</Book>
+<Book Series="The Riddler: Year One" Number="5" Volume="2022" Year="2023">
+<Database Name="cv" Series="145673" Issue="997189" />
+</Book>
+<Book Series="The Riddler: Year One" Number="6" Volume="2022" Year="2023">
+<Database Name="cv" Series="145673" Issue="1010952" />
 </Book>
 </Books>
 <Matchers />

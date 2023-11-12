@@ -1278,8 +1278,8 @@
 <Book Series="The Amazing Spider-Man" Number="49" Volume="2018" Year="2020">
 <Database Name="cv" Series="112161" Issue="807566" />
 </Book>
-<Book Series="Revenge of the Cosmic Ghost Rider" Number="1" Volume="2020" Year="2020">
-<Database Name="cv" Series="129779" Issue="795942" />
+<Book Series="Revenge of the Cosmic Ghost Rider" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123712" Issue="731523" />
 </Book>
 <Book Series="Revenge of the Cosmic Ghost Rider" Number="2" Volume="2019" Year="2020">
 <Database Name="cv" Series="123712" Issue="733826" />
