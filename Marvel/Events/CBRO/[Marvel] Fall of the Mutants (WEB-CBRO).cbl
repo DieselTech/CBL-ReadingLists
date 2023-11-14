@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Fall of the Mutants (WEB-CBRO)</Name>
-<NumIssues>31</NumIssues>
+<NumIssues>29</NumIssues>
 <Books>
 <Book Series="X-Factor" Number="18" Volume="1986" Year="1987">
 <Database Name="cv" Series="3657" Issue="28354" />
@@ -11,12 +11,6 @@
 </Book>
 <Book Series="X-Factor" Number="20" Volume="1986" Year="1987">
 <Database Name="cv" Series="3657" Issue="28582" />
-</Book>
-<Book Series="The Incredible Hulk" Number="336" Volume="1968" Year="1987">
-<Database Name="cv" Series="2406" Issue="28688" />
-</Book>
-<Book Series="The Incredible Hulk" Number="337" Volume="1968" Year="1987">
-<Database Name="cv" Series="2406" Issue="28802" />
 </Book>
 <Book Series="X-Factor" Number="21" Volume="1986" Year="1987">
 <Database Name="cv" Series="3657" Issue="28703" />

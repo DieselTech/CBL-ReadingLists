@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DCeased (WEB-CBRO)</Name>
-<NumIssues>38</NumIssues>
+<NumIssues>40</NumIssues>
 <Books>
 <Book Series="DCeased" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="118648" Issue="707485" />
@@ -116,6 +116,12 @@
 </Book>
 <Book Series="DCeased: War of the Undead Gods" Number="6" Volume="2022" Year="2023">
 <Database Name="cv" Series="144434" Issue="973013" />
+</Book>
+<Book Series="DCeased: War of the Undead Gods" Number="7" Volume="2022" Year="2023">
+<Database Name="cv" Series="144434" Issue="978308" />
+</Book>
+<Book Series="DCeased: War of the Undead Gods" Number="8" Volume="2022" Year="2023">
+<Database Name="cv" Series="144434" Issue="983605" />
 </Book>
 </Books>
 <Matchers />

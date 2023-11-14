@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] War of the Green Lanterns (WEB-CBRO)</Name>
-<NumIssues>13</NumIssues>
+<NumIssues>14</NumIssues>
 <Books>
 <Book Series="Green Lantern: Emerald Warriors" Number="7" Volume="2010" Year="2011">
 <Database Name="cv" Series="34838" Issue="261123" />
@@ -26,6 +26,9 @@
 </Book>
 <Book Series="Green Lantern: Emerald Warriors" Number="9" Volume="2010" Year="2011">
 <Database Name="cv" Series="34838" Issue="268972" />
+</Book>
+<Book Series="Green Lantern" Number="66" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="271429" />
 </Book>
 <Book Series="Green Lantern Corps" Number="60" Volume="2006" Year="2011">
 <Database Name="cv" Series="18248" Issue="271428" />

@@ -195,8 +195,8 @@
 <Book Series="Batman, Incorporated" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="49112" Issue="358818" />
 </Book>
-<Book Series="Batman Incorporated" Number="1" Volume="2013" Year="2013">
-<Database Name="cv" Series="55677" Issue="379600" />
+<Book Series="Batman, Incorporated" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="49112" Issue="336572" />
 </Book>
 <Book Series="Batman, Incorporated" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="49112" Issue="341642" />

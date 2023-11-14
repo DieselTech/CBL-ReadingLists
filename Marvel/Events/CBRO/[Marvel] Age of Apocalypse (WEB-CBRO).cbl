@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Age of Apocalypse (WEB-CBRO)</Name>
-<NumIssues>57</NumIssues>
+<NumIssues>58</NumIssues>
 <Books>
 <Book Series="X-Men" Number="38" Volume="1991" Year="1994">
 <Database Name="cv" Series="4605" Issue="65739" />
@@ -38,6 +38,9 @@
 </Book>
 <Book Series="X-Men Chronicles" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18037" Issue="105613" />
+</Book>
+<Book Series="X-Man '96" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="18050" Issue="105728" />
 </Book>
 <Book Series="Tales from the Age of Apocalypse" Number="2" Volume="1996" Year="1997">
 <Database Name="cv" Series="18054" Issue="105741" />

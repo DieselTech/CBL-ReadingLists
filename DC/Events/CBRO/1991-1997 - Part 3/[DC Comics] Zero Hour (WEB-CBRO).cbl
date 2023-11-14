@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Zero Hour (WEB-CBRO)</Name>
-<NumIssues>50</NumIssues>
+<NumIssues>51</NumIssues>
 <Books>
 <Book Series="Showcase '94" Number="8" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134773" />
@@ -134,6 +134,9 @@
 </Book>
 <Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
 <Database Name="cv" Series="21865" Issue="134775" />
+</Book>
+<Book Series="Zero Hour: Crisis in Time" Number="0" Volume="1994" Year="1994">
+<Database Name="cv" Series="5271" Issue="39711" />
 </Book>
 <Book Series="The Flash" Number="0" Volume="1987" Year="1994">
 <Database Name="cv" Series="3790" Issue="39748" />
