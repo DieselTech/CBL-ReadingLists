@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Apocalypse- The Twelve (WEB-CBRO)</Name>
-<NumIssues>49</NumIssues>
+<NumIssues>51</NumIssues>
 <Books>
 <Book Series="The Uncanny X-Men" Number="368" Volume="1981" Year="1999">
 <Database Name="cv" Series="3092" Issue="45834" />
@@ -26,6 +26,9 @@
 </Book>
 <Book Series="X-Men" Number="91" Volume="1991" Year="1999">
 <Database Name="cv" Series="4605" Issue="65790" />
+</Book>
+<Book Series="X-Men 1999" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="60463" Issue="156744" />
 </Book>
 <Book Series="Wolverine" Number="140" Volume="1988" Year="1999">
 <Database Name="cv" Series="4250" Issue="51207" />
@@ -122,6 +125,9 @@
 </Book>
 <Book Series="Wolverine" Number="147" Volume="1988" Year="2000">
 <Database Name="cv" Series="4250" Issue="51214" />
+</Book>
+<Book Series="Uncanny X-Men 1999" Number="1" Volume="1999" Year="2000">
+<Database Name="cv" Series="60492" Issue="136052" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="377" Volume="1981" Year="2000">
 <Database Name="cv" Series="3092" Issue="65143" />

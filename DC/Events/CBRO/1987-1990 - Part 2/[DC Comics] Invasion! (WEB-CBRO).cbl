@@ -111,7 +111,7 @@
 <Book Series="Doom Patrol" Number="18" Volume="1987" Year="1989">
 <Database Name="cv" Series="3786" Issue="30733" />
 </Book>
-<Book Series="Invasion" Number="3" Volume="1989" Year="1988">
+<Book Series="Invasion" Number="3" Volume="1989" Year="1989">
 <Database Name="cv" Series="4197" Issue="30968" />
 </Book>
 <Book Series="Blasters Special" Number="1" Volume="1989" Year="1989">

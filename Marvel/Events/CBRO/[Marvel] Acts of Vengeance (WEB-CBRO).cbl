@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Acts of Vengeance (WEB-CBRO)</Name>
-<NumIssues>71</NumIssues>
+<NumIssues>70</NumIssues>
 <Books>
 <Book Series="Avengers Spotlight" Number="26" Volume="1989" Year="1989">
 <Database Name="cv" Series="4218" Issue="31992" />
@@ -188,9 +188,6 @@
 </Book>
 <Book Series="The Amazing Spider-Man" Number="329" Volume="1963" Year="1990">
 <Database Name="cv" Series="2127" Issue="32412" />
-</Book>
-<Book Series="The Incredible Hulk" Number="369" Volume="1968" Year="1990">
-<Database Name="cv" Series="2406" Issue="32726" />
 </Book>
 <Book Series="Web of Spider-Man" Number="62" Volume="1985" Year="1990">
 <Database Name="cv" Series="3519" Issue="32537" />

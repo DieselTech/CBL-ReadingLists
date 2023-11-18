@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #05 (WEB-CBRO)</Name>
-<NumIssues>791</NumIssues>
+<NumIssues>794</NumIssues>
 <Books>
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="48" Volume="1988" Year="1992">
 <Database Name="cv" Series="4049" Issue="139653" />
@@ -1431,6 +1431,9 @@
 <Book Series="Deadpool" Number="7" Volume="1997" Year="1997">
 <Database Name="cv" Series="6000" Issue="44005" />
 </Book>
+<Book Series="Daredevil / Deadpool '97" Number="1" Volume="1997" Year="1997">
+<Database Name="cv" Series="26448" Issue="157856" />
+</Book>
 <Book Series="Deadpool" Number="8" Volume="1997" Year="1997">
 <Database Name="cv" Series="6000" Issue="44118" />
 </Book>
@@ -1868,6 +1871,9 @@
 </Book>
 <Book Series="Quicksilver" Number="12" Volume="1997" Year="1998">
 <Database Name="cv" Series="6013" Issue="45393" />
+</Book>
+<Book Series="Heroes for Hire / Quicksilver '98" Number="1" Volume="1998" Year="1998">
+<Database Name="cv" Series="19807" Issue="118824" />
 </Book>
 <Book Series="Deadpool" Number="18" Volume="1997" Year="1998">
 <Database Name="cv" Series="6000" Issue="45144" />
@@ -2327,6 +2333,9 @@
 </Book>
 <Book Series="Thor" Number="21" Volume="1998" Year="2000">
 <Database Name="cv" Series="6226" Issue="127576" />
+</Book>
+<Book Series="Thor 2000" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="60449" Issue="159025" />
 </Book>
 <Book Series="Thor" Number="22" Volume="1998" Year="2000">
 <Database Name="cv" Series="6226" Issue="75668" />

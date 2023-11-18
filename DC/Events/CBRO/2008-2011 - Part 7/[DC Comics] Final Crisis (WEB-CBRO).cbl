@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Final Crisis (WEB-CBRO)</Name>
-<NumIssues>30</NumIssues>
+<NumIssues>31</NumIssues>
 <Books>
+<Book Series="Final Crisis: Rage of the Red Lanterns" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="23536" Issue="141192" />
+</Book>
 <Book Series="Justice League of America" Number="21" Volume="2006" Year="2008">
 <Database Name="cv" Series="18127" Issue="130596" />
 </Book>

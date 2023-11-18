@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #04 (WEB-CBRO)</Name>
-<NumIssues>783</NumIssues>
+<NumIssues>785</NumIssues>
 <Books>
 <Book Series="The Avengers" Number="267" Volume="1963" Year="1986">
 <Database Name="cv" Series="2128" Issue="26784" />
@@ -165,24 +165,6 @@
 <Book Series="The Incredible Hulk" Number="340" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="29262" />
 </Book>
-<Book Series="The Incredible Hulk" Number="341" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29372" />
-</Book>
-<Book Series="The Incredible Hulk" Number="342" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29483" />
-</Book>
-<Book Series="The Incredible Hulk" Number="343" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29591" />
-</Book>
-<Book Series="The Incredible Hulk" Number="344" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29708" />
-</Book>
-<Book Series="The Incredible Hulk" Number="345" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29827" />
-</Book>
-<Book Series="The Incredible Hulk" Number="346" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29943" />
-</Book>
 <Book Series="The Avengers" Number="281" Volume="1963" Year="1987">
 <Database Name="cv" Series="2128" Issue="28333" />
 </Book>
@@ -281,6 +263,24 @@
 </Book>
 <Book Series="The Avengers Annual" Number="16" Volume="1967" Year="1987">
 <Database Name="cv" Series="2350" Issue="27604" />
+</Book>
+<Book Series="The Incredible Hulk" Number="341" Volume="1968" Year="1988">
+<Database Name="cv" Series="2406" Issue="29372" />
+</Book>
+<Book Series="The Incredible Hulk" Number="342" Volume="1968" Year="1988">
+<Database Name="cv" Series="2406" Issue="29483" />
+</Book>
+<Book Series="The Incredible Hulk" Number="343" Volume="1968" Year="1988">
+<Database Name="cv" Series="2406" Issue="29591" />
+</Book>
+<Book Series="The Incredible Hulk" Number="344" Volume="1968" Year="1988">
+<Database Name="cv" Series="2406" Issue="29708" />
+</Book>
+<Book Series="The Incredible Hulk" Number="345" Volume="1968" Year="1988">
+<Database Name="cv" Series="2406" Issue="29827" />
+</Book>
+<Book Series="The Incredible Hulk" Number="346" Volume="1968" Year="1988">
+<Database Name="cv" Series="2406" Issue="29943" />
 </Book>
 <Book Series="Silver Surfer" Number="3" Volume="1987" Year="1987">
 <Database Name="cv" Series="3857" Issue="28571" />
@@ -393,8 +393,14 @@
 <Book Series="The Incredible Hulk" Number="348" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="30180" />
 </Book>
+<Book Series="Web of Spider-Man" Number="44" Volume="1985" Year="1988">
+<Database Name="cv" Series="3519" Issue="30327" />
+</Book>
 <Book Series="The Incredible Hulk" Number="349" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="30310" />
+</Book>
+<Book Series="Fantastic Four" Number="320" Volume="1961" Year="1988">
+<Database Name="cv" Series="2045" Issue="30309" />
 </Book>
 <Book Series="The Incredible Hulk" Number="350" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="30431" />
@@ -687,48 +693,6 @@
 <Book Series="Silver Surfer" Number="22" Volume="1987" Year="1989">
 <Database Name="cv" Series="3857" Issue="31111" />
 </Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
-<Database Name="cv" Series="4055" Issue="29050" />
-</Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
-<Database Name="cv" Series="4055" Issue="29062" />
-</Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
-<Database Name="cv" Series="4055" Issue="30644" />
-</Book>
-<Book Series="Havok &#38; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
-<Database Name="cv" Series="4055" Issue="30684" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="246" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31451" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="247" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31554" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="248" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31670" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="249" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31781" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="250" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31807" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="251" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31885" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="252" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31935" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="253" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31944" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="254" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="32017" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="255" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="32074" />
-</Book>
 <Book Series="The Amazing Spider-Man" Number="315" Volume="1963" Year="1989">
 <Database Name="cv" Series="2127" Issue="31207" />
 </Book>
@@ -798,6 +762,60 @@
 <Book Series="The Sensational She-Hulk" Number="8" Volume="1989" Year="1989">
 <Database Name="cv" Series="4243" Issue="31930" />
 </Book>
+<Book Series="Doctor Strange, Sorcerer Supreme" Number="9" Volume="1988" Year="1989">
+<Database Name="cv" Series="4049" Issue="47899" />
+</Book>
+<Book Series="Doctor Strange, Sorcerer Supreme" Number="10" Volume="1988" Year="1989">
+<Database Name="cv" Series="4049" Issue="47900" />
+</Book>
+<Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
+<Database Name="cv" Series="4055" Issue="29050" />
+</Book>
+<Book Series="Havok &#38; Wolverine: Meltdown" Number="2" Volume="1989" Year="1989">
+<Database Name="cv" Series="4055" Issue="29062" />
+</Book>
+<Book Series="Havok &#38; Wolverine: Meltdown" Number="3" Volume="1989" Year="1989">
+<Database Name="cv" Series="4055" Issue="30644" />
+</Book>
+<Book Series="Havok &#38; Wolverine: Meltdown" Number="4" Volume="1989" Year="1989">
+<Database Name="cv" Series="4055" Issue="30684" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="246" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="31451" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="247" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="31554" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="248" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="31670" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="249" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="31781" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="250" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="31807" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="251" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="31885" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="252" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="31935" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="253" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="31944" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="254" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="32017" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="255" Volume="1981" Year="1989">
+<Database Name="cv" Series="3092" Issue="32074" />
+</Book>
+<Book Series="Wolverine" Number="17" Volume="1988" Year="1989">
+<Database Name="cv" Series="4250" Issue="64282" />
+</Book>
+<Book Series="Wolverine" Number="18" Volume="1988" Year="1989">
+<Database Name="cv" Series="4250" Issue="64283" />
+</Book>
 <Book Series="X-Factor" Number="43" Volume="1986" Year="1989">
 <Database Name="cv" Series="3657" Issue="31568" />
 </Book>
@@ -818,21 +836,6 @@
 </Book>
 <Book Series="X-Factor" Number="49" Volume="1986" Year="1989">
 <Database Name="cv" Series="3657" Issue="32077" />
-</Book>
-<Book Series="X-Factor" Number="50" Volume="1986" Year="1990">
-<Database Name="cv" Series="3657" Issue="32340" />
-</Book>
-<Book Series="Doctor Strange, Sorcerer Supreme" Number="9" Volume="1988" Year="1989">
-<Database Name="cv" Series="4049" Issue="47899" />
-</Book>
-<Book Series="Doctor Strange, Sorcerer Supreme" Number="10" Volume="1988" Year="1989">
-<Database Name="cv" Series="4049" Issue="47900" />
-</Book>
-<Book Series="Wolverine" Number="17" Volume="1988" Year="1989">
-<Database Name="cv" Series="4250" Issue="64282" />
-</Book>
-<Book Series="Wolverine" Number="18" Volume="1988" Year="1989">
-<Database Name="cv" Series="4250" Issue="64283" />
 </Book>
 <Book Series="Captain America" Number="368" Volume="1968" Year="1990">
 <Database Name="cv" Series="2400" Issue="32516" />
@@ -1712,6 +1715,9 @@
 </Book>
 <Book Series="Wolverine" Number="57" Volume="1988" Year="1992">
 <Database Name="cv" Series="4250" Issue="35958" />
+</Book>
+<Book Series="Wolverine" Number="60" Volume="1988" Year="1992">
+<Database Name="cv" Series="4250" Issue="36167" />
 </Book>
 <Book Series="Wolverine" Number="58" Volume="1988" Year="1992">
 <Database Name="cv" Series="4250" Issue="36045" />

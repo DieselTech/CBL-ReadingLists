@@ -693,7 +693,7 @@
 <Book Series="Gotham City Villains Anniversary Giant" Number="1" Volume="2021" Year="2022">
 <Database Name="cv" Series="140257" Issue="895898" />
 </Book>
-<Book Series="Batman/Superman: Authority Special" Number="1" Volume="2021" Year="2022">
+<Book Series="Batman/Superman: Authority Special" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139923" Issue="891947" />
 </Book>
 <Book Series="Action Comics" Number="1036" Volume="2016" Year="2021">
@@ -894,13 +894,13 @@
 <Book Series="The Joker" Number="14" Volume="2021" Year="2022">
 <Database Name="cv" Series="134304" Issue="919167" />
 </Book>
-<Book Series="Robins" Number="1" Volume="2021" Year="2021">
+<Book Series="Robins" Number="1" Volume="2021" Year="2022">
 <Database Name="cv" Series="139644" Issue="889851" />
 </Book>
 <Book Series="Robins" Number="2" Volume="2021" Year="2022">
 <Database Name="cv" Series="139644" Issue="894137" />
 </Book>
-<Book Series="Robins" Number="3" Volume="2021" Year="2021">
+<Book Series="Robins" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="139644" Issue="900154" />
 </Book>
 <Book Series="Robins" Number="4" Volume="2021" Year="2022">

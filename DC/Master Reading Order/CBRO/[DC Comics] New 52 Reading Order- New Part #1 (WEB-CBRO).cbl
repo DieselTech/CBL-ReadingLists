@@ -78,8 +78,8 @@
 <Book Series="Demon Knights" Number="23" Volume="2011" Year="2013">
 <Database Name="cv" Series="42811" Issue="421659" />
 </Book>
-<Book Series="I, Vampire" Number="0" Volume="2011" Year="2012">
-<Database Name="cv" Series="43017" Issue="358822" />
+<Book Series="I... Vampire!" Number="1" Volume="2011" Year="2012">
+<Database Name="cv" Series="47761" Issue="329518" />
 </Book>
 <Book Series="Frankenstein, Agent of S.H.A.D.E." Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="42793" Issue="356724" />

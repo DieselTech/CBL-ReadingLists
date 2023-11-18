@@ -768,7 +768,7 @@
 <Book Series="JLA/JSA Secret Files &#38; Origins" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="28479" Issue="175485" />
 </Book>
-<Book Series="JLA/JSA: Virtue and Vice" Number="1" Volume="2002" Year="2002">
+<Book Series="JLA/JSA: Virtue and Vice" Number="1" Volume="2002" Year="2003">
 <Database Name="cv" Series="25964" Issue="153471" />
 </Book>
 <Book Series="Batman / Superman / Wonder Woman: Trinity" Number="1" Volume="2003" Year="2003">

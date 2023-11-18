@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Our Worlds at War (WEB-CBRO)</Name>
-<NumIssues>37</NumIssues>
+<NumIssues>41</NumIssues>
 <Books>
 <Book Series="Superman" Number="171" Volume="1987" Year="2001">
 <Database Name="cv" Series="3816" Issue="70875" />
@@ -113,6 +113,18 @@
 </Book>
 <Book Series="World's Finest: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="26553" Issue="158812" />
+</Book>
+<Book Series="Superman/Batman" Number="68" Volume="2003" Year="2010">
+<Database Name="cv" Series="10938" Issue="193660" />
+</Book>
+<Book Series="Superman/Batman" Number="69" Volume="2003" Year="2010">
+<Database Name="cv" Series="10938" Issue="197536" />
+</Book>
+<Book Series="Superman/Batman" Number="70" Volume="2003" Year="2010">
+<Database Name="cv" Series="10938" Issue="201858" />
+</Book>
+<Book Series="Superman/Batman" Number="71" Volume="2003" Year="2010">
+<Database Name="cv" Series="10938" Issue="208773" />
 </Book>
 </Books>
 <Matchers />

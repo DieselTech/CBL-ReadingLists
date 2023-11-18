@@ -45,7 +45,7 @@
 <Book Series="Avengers Assemble" Number="25" Volume="2012" Year="2014">
 <Database Name="cv" Series="46569" Issue="448963" />
 </Book>
-<Book Series="Iron Man" Number="20" Volume="2013" Year="2014">
+<Book Series="Iron Man" Number="20.INH" Volume="2013" Year="2014">
 <Database Name="cv" Series="53725" Issue="442923" />
 </Book>
 <Book Series="Indestructible Hulk" Number="16" Volume="2012" Year="2014">

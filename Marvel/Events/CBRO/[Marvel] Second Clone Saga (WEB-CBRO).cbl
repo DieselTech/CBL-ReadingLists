@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Second Clone Saga (WEB-CBRO)</Name>
-<NumIssues>161</NumIssues>
+<NumIssues>164</NumIssues>
 <Books>
 <Book Series="Spider-Man: The Lost Years" Number="0" Volume="1995" Year="1996">
 <Database Name="cv" Series="20732" Issue="124299" />
@@ -246,6 +246,9 @@
 <Book Series="Scarlet Spider Unlimited" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="23665" Issue="141782" />
 </Book>
+<Book Series="The New Warriors" Number="65" Volume="1990" Year="1995">
+<Database Name="cv" Series="4407" Issue="105500" />
+</Book>
 <Book Series="Web of Scarlet Spider" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="11136" Issue="97651" />
 </Book>
@@ -275,6 +278,12 @@
 </Book>
 <Book Series="The Sensational Spider-Man" Number="0" Volume="1996" Year="1996">
 <Database Name="cv" Series="5788" Issue="77941" />
+</Book>
+<Book Series="The Amazing Spider-Man '96" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="60436" Issue="143308" />
+</Book>
+<Book Series="Spider-Man Holiday Special" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="33793" Issue="219686" />
 </Book>
 <Book Series="Spider-Man/Punisher: Family Plot" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="21885" Issue="131861" />

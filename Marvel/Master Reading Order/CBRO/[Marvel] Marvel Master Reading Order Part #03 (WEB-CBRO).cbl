@@ -1860,7 +1860,7 @@
 <Book Series="The Uncanny X-Men" Number="199" Volume="1981" Year="1985">
 <Database Name="cv" Series="3092" Issue="26105" />
 </Book>
-<Book Series="X-Men Annual" Number="9" Volume="1970" Year="1985">
+<Book Series="Uncanny X-Men Annual" Number="9" Volume="2006" Year="1985">
 <Database Name="cv" Series="22988" Issue="111575" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="200" Volume="1981" Year="1985">
@@ -1896,14 +1896,14 @@
 <Book Series="The Amazing Spider-Man" Number="277" Volume="1963" Year="1986">
 <Database Name="cv" Series="2127" Issue="26884" />
 </Book>
+<Book Series="The Amazing Spider-Man" Number="278" Volume="1963" Year="1986">
+<Database Name="cv" Series="2127" Issue="26982" />
+</Book>
 <Book Series="X-Men/Alpha Flight" Number="1" Volume="1985" Year="1985">
 <Database Name="cv" Series="3522" Issue="57851" />
 </Book>
 <Book Series="X-Men/Alpha Flight" Number="2" Volume="1985" Year="1986">
 <Database Name="cv" Series="3522" Issue="57852" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="279" Volume="1963" Year="1986">
-<Database Name="cv" Series="2127" Issue="27076" />
 </Book>
 <Book Series="Iron Man" Number="198" Volume="1968" Year="1985">
 <Database Name="cv" Series="2407" Issue="25881" />

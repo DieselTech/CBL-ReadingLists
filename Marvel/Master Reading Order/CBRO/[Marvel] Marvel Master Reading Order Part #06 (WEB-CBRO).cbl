@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #06 (WEB-CBRO)</Name>
-<NumIssues>828</NumIssues>
+<NumIssues>830</NumIssues>
 <Books>
 <Book Series="Webspinners: Tales of Spider-Man" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="9375" Issue="75623" />
@@ -165,21 +165,21 @@
 <Book Series="Blade: Vampire Hunter" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="31627" Issue="208855" />
 </Book>
-<Book Series="Blade: Vampire Hunter" Number="2" Volume="1999" Year="2000">
-    <Database Name="cv" Series="31627" Issue="197697" />
+<Book Series="Blade" Number="2" Volume="1998" Year="2000">
+<Database Name="cv" Series="31627" Issue="197697" />
 </Book>
-<Book Series="Blade: Vampire Hunter" Number="3" Volume="1999" Year="2000">
+<Book Series="Blade" Number="3" Volume="1998" Year="2000">
 <Database Name="cv" Series="31627" Issue="198521" />
 </Book>
-<Book Series="Blade: Vampire Hunter" Number="4" Volume="1999" Year="2000">
+<Book Series="Blade" Number="4" Volume="1998" Year="2000">
 <Database Name="cv" Series="31627" Issue="210024" />
 </Book>
-<Book Series="Blade: Vampire Hunter" Number="5" Volume="1999" Year="2000">
+<Book Series="Blade" Number="5" Volume="1998" Year="2000">
 <Database Name="cv" Series="31627" Issue="219406" />
 </Book>
-<Book Series="Blade: Vampire Hunter" Number="6" Volume="1999" Year="2000">
+<Book Series="Blade" Number="6" Volume="1998" Year="2000">
 <Database Name="cv" Series="31627" Issue="219407" />
-</Book>                                        
+</Book>
 <Book Series="Thunderbolts" Number="33" Volume="1997" Year="1999">
 <Database Name="cv" Series="6020" Issue="46171" />
 </Book>
@@ -915,7 +915,7 @@
 <Book Series="Mutant X" Number="31" Volume="1998" Year="2001">
 <Database Name="cv" Series="6217" Issue="49448" />
 </Book>
-<Book Series="Mutant X 1999" Number="3" Volume="1999" Year="1999">
+<Book Series="Mutant X 1999" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="20439" Issue="122365" />
 </Book>
 <Book Series="Mutant X" Number="32" Volume="1998" Year="2001">
@@ -1040,6 +1040,9 @@
 </Book>
 <Book Series="Avengers" Number="44" Volume="1998" Year="2001">
 <Database Name="cv" Series="7084" Issue="50803" />
+</Book>
+<Book Series="Avengers 2001" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="39917" Issue="269236" />
 </Book>
 <Book Series="Avengers" Number="45" Volume="1998" Year="2001">
 <Database Name="cv" Series="7084" Issue="50804" />
@@ -1504,7 +1507,7 @@
 <Database Name="cv" Series="9142" Issue="113658" />
 </Book>
 <Book Series="Marvel Knights Double Shot" Number="2" Volume="2002" Year="2002">
-<Database Name="cv" Series="11197" Issue="98061" />
+<Database Name="cv" Series="11197" Issue="1006048" />
 </Book>
 <Book Series="Domino" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="10904" Issue="94154" />
@@ -1676,6 +1679,9 @@
 </Book>
 <Book Series="New X-Men" Number="116" Volume="2001" Year="2001">
 <Database Name="cv" Series="9121" Issue="66994" />
+</Book>
+<Book Series="New X-Men 2001" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="21334" Issue="128914" />
 </Book>
 <Book Series="New X-Men" Number="117" Volume="2001" Year="2001">
 <Database Name="cv" Series="9121" Issue="66995" />
