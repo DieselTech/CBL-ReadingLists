@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Rebirth- DC Rebirth Part #3 (WEB-CBRO)</Name>
-<NumIssues>807</NumIssues>
+<NumIssues>967</NumIssues>
 <Books>
 <Book Series="Wonder Woman" Number="63" Volume="2016" Year="2019">
 <Database Name="cv" Series="91774" Issue="699386" />
@@ -723,8 +723,8 @@
 <Book Series="Lois Lane" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120013" Issue="712954" />
 </Book>
-<Book Series="Lois Lane" Number="2" Volume="2019" Year="2019">
-<Database Name="cv" Series="120013" Issue="715221" />
+<Book Series="Lois Lane" Number="2" Volume="1986" Year="1986">
+<Database Name="cv" Series="3609" Issue="27202" />
 </Book>
 <Book Series="Lois Lane" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="120013" Issue="717925" />
@@ -734,6 +734,39 @@
 </Book>
 <Book Series="Lois Lane" Number="5" Volume="2019" Year="2020">
 <Database Name="cv" Series="120013" Issue="726011" />
+</Book>
+<Book Series="Event Leviathan" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="119641" Issue="711245" />
+</Book>
+<Book Series="Event Leviathan" Number="2" Volume="2019" Year="2019">
+<Database Name="cv" Series="119641" Issue="713406" />
+</Book>
+<Book Series="Action Comics" Number="1013" Volume="2016" Year="2019">
+<Database Name="cv" Series="91078" Issue="714153" />
+</Book>
+<Book Series="Event Leviathan" Number="3" Volume="2019" Year="2019">
+<Database Name="cv" Series="119641" Issue="716315" />
+</Book>
+<Book Series="Action Comics" Number="1014" Volume="2016" Year="2019">
+<Database Name="cv" Series="91078" Issue="717386" />
+</Book>
+<Book Series="Event Leviathan" Number="4" Volume="2019" Year="2019">
+<Database Name="cv" Series="119641" Issue="718649" />
+</Book>
+<Book Series="Supergirl" Number="34" Volume="2016" Year="2019">
+<Database Name="cv" Series="93948" Issue="719314" />
+</Book>
+<Book Series="Supergirl" Number="35" Volume="2016" Year="2019">
+<Database Name="cv" Series="93948" Issue="721768" />
+</Book>
+<Book Series="Event Leviathan" Number="5" Volume="2019" Year="2019">
+<Database Name="cv" Series="119641" Issue="721753" />
+</Book>
+<Book Series="Wonder Woman Annual" Number="3" Volume="2016" Year="2019">
+<Database Name="cv" Series="101798" Issue="725236" />
+</Book>
+<Book Series="Event Leviathan" Number="6" Volume="2019" Year="2020">
+<Database Name="cv" Series="119641" Issue="726902" />
 </Book>
 <Book Series="Lois Lane" Number="6" Volume="2019" Year="2020">
 <Database Name="cv" Series="120013" Issue="729503" />
@@ -873,6 +906,51 @@
 <Book Series="Justice League Dark" Number="19" Volume="2018" Year="2020">
 <Database Name="cv" Series="112455" Issue="735366" />
 </Book>
+<Book Series="Batman" Number="75" Volume="2016" Year="2019">
+<Database Name="cv" Series="91273" Issue="713771" />
+</Book>
+<Book Series="Batman Secret Files" Number="2" Volume="2018" Year="2019">
+<Database Name="cv" Series="114871" Issue="714614" />
+</Book>
+<Book Series="Batman" Number="76" Volume="2016" Year="2019">
+<Database Name="cv" Series="91273" Issue="715211" />
+</Book>
+<Book Series="Batman" Number="77" Volume="2016" Year="2019">
+<Database Name="cv" Series="91273" Issue="716807" />
+</Book>
+<Book Series="Batman" Number="78" Volume="2016" Year="2019">
+<Database Name="cv" Series="91273" Issue="718639" />
+</Book>
+<Book Series="Batman" Number="79" Volume="2016" Year="2019">
+<Database Name="cv" Series="91273" Issue="719300" />
+</Book>
+<Book Series="Batman" Number="80" Volume="2016" Year="2019">
+<Database Name="cv" Series="91273" Issue="721033" />
+</Book>
+<Book Series="Batman" Number="81" Volume="2016" Year="2019">
+<Database Name="cv" Series="91273" Issue="722980" />
+</Book>
+<Book Series="Batman Annual" Number="4" Volume="2016" Year="2019">
+<Database Name="cv" Series="96128" Issue="725221" />
+</Book>
+<Book Series="Batman" Number="82" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="725997" />
+</Book>
+<Book Series="Batman" Number="83" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="728313" />
+</Book>
+<Book Series="Batman" Number="84" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="729492" />
+</Book>
+<Book Series="Batman" Number="85" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="731301" />
+</Book>
+<Book Series="Detective Comics Annual" Number="3" Volume="2016" Year="2020">
+<Database Name="cv" Series="108243" Issue="735361" />
+</Book>
+<Book Series="Batman: Pennyworth R.I.P." Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="124953" Issue="736995" />
+</Book>
 <Book Series="Aquaman" Number="50" Volume="2016" Year="2019">
 <Database Name="cv" Series="91738" Issue="713770" />
 </Book>
@@ -1004,6 +1082,75 @@
 </Book>
 <Book Series="Detective Comics" Number="1017" Volume="2016" Year="2020">
 <Database Name="cv" Series="91098" Issue="730201" />
+</Book>
+<Book Series="Batman/Superman" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120912" Issue="717390" />
+</Book>
+<Book Series="Batman/Superman" Number="2" Volume="2019" Year="2019">
+<Database Name="cv" Series="120912" Issue="720037" />
+</Book>
+<Book Series="The Infected: King Shazam" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="122625" Issue="726007" />
+</Book>
+<Book Series="Black Adam: Year of the Villain" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="122206" Issue="723827" />
+</Book>
+<Book Series="Batman/Superman" Number="3" Volume="2019" Year="2019">
+<Database Name="cv" Series="120912" Issue="723826" />
+</Book>
+<Book Series="The Infected: Scarab" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="122968" Issue="728322" />
+</Book>
+<Book Series="Hawkman" Number="18" Volume="2018" Year="2020">
+<Database Name="cv" Series="111582" Issue="726907" />
+</Book>
+<Book Series="Batman/Superman" Number="4" Volume="2019" Year="2020">
+<Database Name="cv" Series="120912" Issue="728315" />
+</Book>
+<Book Series="Supergirl" Number="36" Volume="2016" Year="2020">
+<Database Name="cv" Series="93948" Issue="728328" />
+</Book>
+<Book Series="The Infected: Deathbringer" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123225" Issue="729500" />
+</Book>
+<Book Series="Hawkman" Number="19" Volume="2018" Year="2020">
+<Database Name="cv" Series="111582" Issue="730209" />
+</Book>
+<Book Series="Supergirl" Number="37" Volume="2016" Year="2020">
+<Database Name="cv" Series="93948" Issue="730213" />
+</Book>
+<Book Series="Supergirl Annual" Number="2" Volume="2016" Year="2020">
+<Database Name="cv" Series="103836" Issue="728906" />
+</Book>
+<Book Series="Batman/Superman" Number="5" Volume="2019" Year="2020">
+<Database Name="cv" Series="120912" Issue="731303" />
+</Book>
+<Book Series="The Infected: The Commissioner" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123664" Issue="731309" />
+</Book>
+<Book Series="Supergirl" Number="38" Volume="2016" Year="2020">
+<Database Name="cv" Series="93948" Issue="732700" />
+</Book>
+<Book Series="Hawkman" Number="20" Volume="2018" Year="2020">
+<Database Name="cv" Series="111582" Issue="732698" />
+</Book>
+<Book Series="Batman/Superman" Number="6" Volume="2019" Year="2020">
+<Database Name="cv" Series="120912" Issue="734533" />
+</Book>
+<Book Series="Supergirl" Number="39" Volume="2016" Year="2020">
+<Database Name="cv" Series="93948" Issue="737007" />
+</Book>
+<Book Series="Supergirl" Number="40" Volume="2016" Year="2020">
+<Database Name="cv" Series="93948" Issue="743321" />
+</Book>
+<Book Series="Hawkman" Number="21" Volume="2018" Year="2020">
+<Database Name="cv" Series="111582" Issue="737005" />
+</Book>
+<Book Series="Hawkman" Number="22" Volume="2018" Year="2020">
+<Database Name="cv" Series="111582" Issue="740566" />
+</Book>
+<Book Series="Hawkman" Number="23" Volume="2018" Year="2020">
+<Database Name="cv" Series="111582" Issue="758370" />
 </Book>
 <Book Series="Justice League" Number="39" Volume="2018" Year="2020">
 <Database Name="cv" Series="111428" Issue="735365" />
@@ -2103,6 +2250,84 @@
 <Book Series="Detective Comics" Number="1021" Volume="2016" Year="2020">
 <Database Name="cv" Series="91098" Issue="743312" />
 </Book>
+<Book Series="Detective Comics" Number="1022" Volume="2016" Year="2020">
+<Database Name="cv" Series="91098" Issue="766095" />
+</Book>
+<Book Series="Detective Comics" Number="1023" Volume="2016" Year="2020">
+<Database Name="cv" Series="91098" Issue="774432" />
+</Book>
+<Book Series="Detective Comics" Number="1024" Volume="2016" Year="2020">
+<Database Name="cv" Series="91098" Issue="781016" />
+</Book>
+<Book Series="Batgirl" Number="47" Volume="2016" Year="2020">
+<Database Name="cv" Series="92542" Issue="781012" />
+</Book>
+<Book Series="Batgirl" Number="48" Volume="2016" Year="2020">
+<Database Name="cv" Series="92542" Issue="795919" />
+</Book>
+<Book Series="Batgirl" Number="49" Volume="2016" Year="2020">
+<Database Name="cv" Series="92542" Issue="802691" />
+</Book>
+<Book Series="Nightwing" Number="70" Volume="2016" Year="2020">
+<Database Name="cv" Series="92569" Issue="741789" />
+</Book>
+<Book Series="Nightwing" Number="71" Volume="2016" Year="2020">
+<Database Name="cv" Series="92569" Issue="767311" />
+</Book>
+<Book Series="Nightwing" Number="72" Volume="2016" Year="2020">
+<Database Name="cv" Series="92569" Issue="778248" />
+</Book>
+<Book Series="Batman" Number="95" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="781013" />
+</Book>
+<Book Series="Harley Quinn" Number="75" Volume="2016" Year="2020">
+<Database Name="cv" Series="92750" Issue="794385" />
+</Book>
+<Book Series="Red Hood: Outlaw" Number="48" Volume="2018" Year="2020">
+<Database Name="cv" Series="114293" Issue="795926" />
+</Book>
+<Book Series="Nightwing" Number="73" Volume="2016" Year="2020">
+<Database Name="cv" Series="92569" Issue="794388" />
+</Book>
+<Book Series="Batman" Number="96" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="786295" />
+</Book>
+<Book Series="Batman" Number="97" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="794382" />
+</Book>
+<Book Series="Batman" Number="98" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="796941" />
+</Book>
+<Book Series="Detective Comics" Number="1025" Volume="2016" Year="2020">
+<Database Name="cv" Series="91098" Issue="790344" />
+</Book>
+<Book Series="Detective Comics" Number="1026" Volume="2016" Year="2020">
+<Database Name="cv" Series="91098" Issue="795922" />
+</Book>
+<Book Series="Nightwing" Number="74" Volume="2016" Year="2020">
+<Database Name="cv" Series="92569" Issue="797693" />
+</Book>
+<Book Series="Batman: The Joker War Zone" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130653" Issue="804747" />
+</Book>
+<Book Series="Batman" Number="99" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="798857" />
+</Book>
+<Book Series="Catwoman" Number="25" Volume="2018" Year="2020">
+<Database Name="cv" Series="112028" Issue="798859" />
+</Book>
+<Book Series="Batman" Number="100" Volume="2016" Year="2020">
+<Database Name="cv" Series="91273" Issue="806767" />
+</Book>
+<Book Series="Catwoman" Number="26" Volume="2018" Year="2020">
+<Database Name="cv" Series="112028" Issue="812519" />
+</Book>
+<Book Series="Batgirl" Number="50" Volume="2016" Year="2020">
+<Database Name="cv" Series="92542" Issue="813723" />
+</Book>
+<Book Series="Nightwing" Number="75" Volume="2016" Year="2020">
+<Database Name="cv" Series="92569" Issue="812523" />
+</Book>
 <Book Series="Detective Comics" Number="1027" Volume="2016" Year="2020">
 <Database Name="cv" Series="91098" Issue="798867" />
 </Book>
@@ -2418,11 +2643,266 @@
 <Book Series="Tales From the Dark Multiverse: Wonder Woman: War of the Gods" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132338" Issue="819886" />
 </Book>
+<Book Series="Dark Nights: Death Metal" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="127927" Issue="768300" />
+</Book>
+<Book Series="Dark Nights: Death Metal" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="127927" Issue="778244" />
+</Book>
+<Book Series="Dark Nights: Death Metal" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="127927" Issue="790343" />
+</Book>
+<Book Series="Dark Nights: Death Metal Legends of the Dark Knights" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129219" Issue="786296" />
+</Book>
+<Book Series="Dark Nights: Death Metal Guidebook" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129562" Issue="794384" />
+</Book>
+<Book Series="Dark Nights: Death Metal Trinity Crisis" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130125" Issue="797688" />
+</Book>
+<Book Series="Dark Nights: Death Metal Speed Metal" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130501" Issue="802694" />
+</Book>
+<Book Series="Dark Nights: Death Metal Multiverse's End" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130656" Issue="804749" />
+</Book>
+<Book Series="Dark Nights: Death Metal" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="127927" Issue="809824" />
+</Book>
+<Book Series="Dark Nights: Death Metal Infinite Hour Exxxtreme!" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="131821" Issue="817447" />
+</Book>
+<Book Series="Dark Nights: Death Metal Rise of the New God" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="131457" Issue="814046" />
+</Book>
+<Book Series="Dark Nights: Death Metal Robin King" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="131311" Issue="812520" />
+</Book>
+<Book Series="Justice League" Number="53" Volume="2018" Year="2020">
+<Database Name="cv" Series="111428" Issue="798860" />
+</Book>
+<Book Series="Justice League" Number="54" Volume="2018" Year="2020">
+<Database Name="cv" Series="111428" Issue="806770" />
+</Book>
+<Book Series="Justice League" Number="55" Volume="2018" Year="2020">
+<Database Name="cv" Series="111428" Issue="812521" />
+</Book>
+<Book Series="Justice League" Number="56" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="815605" />
+</Book>
+<Book Series="Justice League" Number="57" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="818626" />
+</Book>
+<Book Series="Dark Nights: Death Metal" Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="127927" Issue="818625" />
+</Book>
+<Book Series="Dark Nights: Death Metal: The Multiverse Who Laughs" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="135831" Issue="846948" />
+</Book>
+<Book Series="Dark Nights: Death Metal The Secret Origin" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132670" Issue="821759" />
+</Book>
+<Book Series="Dark Nights: Death Metal The Last Stories of the DC Universe" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132458" Issue="820431" />
+</Book>
+<Book Series="Dark Nights: Death Metal" Number="6" Volume="2020" Year="2021">
+<Database Name="cv" Series="127927" Issue="821189" />
+</Book>
+<Book Series="Dark Nights: Death Metal The Last 52: War of the Multiverses" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132850" Issue="823034" />
+</Book>
+<Book Series="Dark Nights: Death Metal" Number="7" Volume="2020" Year="2021">
+<Database Name="cv" Series="127927" Issue="823806" />
+</Book>
 <Book Series="Generations Shattered" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133042" Issue="823813" />
 </Book>
 <Book Series="Generations Forged" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133953" Issue="829310" />
+</Book>
+<Book Series="Justice League: Endless Winter" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132337" Issue="819884" />
+</Book>
+<Book Series="The Flash" Number="767" Volume="2016" Year="2021">
+<Database Name="cv" Series="91750" Issue="820433" />
+</Book>
+<Book Series="Superman: Endless Winter Special" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132459" Issue="820434" />
+</Book>
+<Book Series="Aquaman" Number="66" Volume="2016" Year="2021">
+<Database Name="cv" Series="91738" Issue="821185" />
+</Book>
+<Book Series="Justice League" Number="58" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="821191" />
+</Book>
+<Book Series="Teen Titans: Endless Winter Special" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132567" Issue="821195" />
+</Book>
+<Book Series="Justice League Dark" Number="29" Volume="2018" Year="2021">
+<Database Name="cv" Series="112455" Issue="821761" />
+</Book>
+<Book Series="Black Adam: Endless Winter Special" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132669" Issue="821758" />
+</Book>
+<Book Series="Justice League: Endless Winter" Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132337" Issue="823036" />
+</Book>
+<Book Series="Future State: Batman/Superman" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133410" Issue="826322" />
+</Book>
+<Book Series="Future State: Batman/Superman" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133410" Issue="829319" />
+</Book>
+<Book Series="Future State: The Next Batman" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133038" Issue="823809" />
+</Book>
+<Book Series="Future State: The Next Batman" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133038" Issue="825080" />
+</Book>
+<Book Series="Future State: The Next Batman" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="133038" Issue="827090" />
+</Book>
+<Book Series="Future State: The Next Batman" Number="4" Volume="2021" Year="2021">
+<Database Name="cv" Series="133038" Issue="828563" />
+</Book>
+<Book Series="Future State: Robin Eternal" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133154" Issue="824271" />
+</Book>
+<Book Series="Future State: Robin Eternal" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133154" Issue="827767" />
+</Book>
+<Book Series="Future State: Harley Quinn" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133037" Issue="823808" />
+</Book>
+<Book Series="Future State: Harley Quinn" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133037" Issue="827089" />
+</Book>
+<Book Series="Future State: Nightwing" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133282" Issue="825081" />
+</Book>
+<Book Series="Future State: Nightwing" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133282" Issue="828564" />
+</Book>
+<Book Series="Future State: Catwoman" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133280" Issue="825078" />
+</Book>
+<Book Series="Future State: Catwoman" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133280" Issue="828561" />
+</Book>
+<Book Series="Future State: Dark Detective" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133150" Issue="824267" />
+</Book>
+<Book Series="Future State: Dark Detective" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133150" Issue="826323" />
+</Book>
+<Book Series="Future State: Dark Detective" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="133150" Issue="827763" />
+</Book>
+<Book Series="Future State: Dark Detective" Number="4" Volume="2021" Year="2021">
+<Database Name="cv" Series="133150" Issue="829320" />
+</Book>
+<Book Series="Future State: The Flash" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133036" Issue="823807" />
+</Book>
+<Book Series="Future State: The Flash" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133036" Issue="827088" />
+</Book>
+<Book Series="Future State: Teen Titans" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133156" Issue="824273" />
+</Book>
+<Book Series="Future State: Teen Titans" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133156" Issue="827769" />
+</Book>
+<Book Series="Future State: Shazam!" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133283" Issue="825082" />
+</Book>
+<Book Series="Future State: Shazam!" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133283" Issue="828565" />
+</Book>
+<Book Series="Future State: Suicide Squad" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133412" Issue="826325" />
+</Book>
+<Book Series="Future State: Suicide Squad" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133412" Issue="829322" />
+</Book>
+<Book Series="Future State: Aquaman" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133409" Issue="826321" />
+</Book>
+<Book Series="Future State: Aquaman" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133409" Issue="829318" />
+</Book>
+<Book Series="Future State: Superman of Metropolis" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133039" Issue="823810" />
+</Book>
+<Book Series="Future State: Superman of Metropolis" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133039" Issue="827091" />
+</Book>
+<Book Series="Future State: Superman: Worlds of War" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133284" Issue="825083" />
+</Book>
+<Book Series="Future State: Superman: Worlds of War" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133284" Issue="828566" />
+</Book>
+<Book Series="Future State: Green Lantern" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133151" Issue="824268" />
+</Book>
+<Book Series="Future State: Green Lantern" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133151" Issue="827764" />
+</Book>
+<Book Series="Future State: Justice League" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133152" Issue="824269" />
+</Book>
+<Book Series="Future State: Justice League" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133152" Issue="827765" />
+</Book>
+<Book Series="Future State: Kara Zor-El, Superwoman" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133153" Issue="824270" />
+</Book>
+<Book Series="Future State: Kara Zor-El, Superwoman" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133153" Issue="827766" />
+</Book>
+<Book Series="Future State: Wonder Woman" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133041" Issue="823812" />
+</Book>
+<Book Series="Future State: Wonder Woman" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133041" Issue="827093" />
+</Book>
+<Book Series="Future State: Superman vs. Imperious Lex" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133413" Issue="826326" />
+</Book>
+<Book Series="Future State: Superman vs. Imperious Lex" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133413" Issue="829324" />
+</Book>
+<Book Series="Future State: Superman vs. Imperious Lex" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="133413" Issue="840012" />
+</Book>
+<Book Series="Future State: Superman/Wonder Woman" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133155" Issue="824272" />
+</Book>
+<Book Series="Future State: Superman/Wonder Woman" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133155" Issue="827768" />
+</Book>
+<Book Series="Future State: Legion of Super-Heroes" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133411" Issue="826324" />
+</Book>
+<Book Series="Future State: Legion of Super-Heroes" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133411" Issue="829321" />
+</Book>
+<Book Series="Future State: Superman: House of El" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133955" Issue="829323" />
+</Book>
+<Book Series="Future State: Swamp Thing" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133040" Issue="823811" />
+</Book>
+<Book Series="Future State: Swamp Thing" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133040" Issue="827092" />
+</Book>
+<Book Series="Future State: Immortal Wonder Woman" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133281" Issue="825079" />
+</Book>
+<Book Series="Future State: Immortal Wonder Woman" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133281" Issue="828562" />
 </Book>
 </Books>
 <Matchers />

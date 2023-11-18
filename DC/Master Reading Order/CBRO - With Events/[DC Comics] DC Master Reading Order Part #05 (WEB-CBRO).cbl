@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #05 (WEB-CBRO)</Name>
-<NumIssues>684</NumIssues>
+<NumIssues>769</NumIssues>
 <Books>
 <Book Series="JSA: The Liberty File" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="6660" Issue="47571" />
@@ -252,6 +252,45 @@
 <Book Series="Azrael: Agent of the Bat" Number="90" Volume="1998" Year="2002">
 <Database Name="cv" Series="19721" Issue="133927" />
 </Book>
+<Book Series="Batman: The 10-Cent Adventure" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="26209" Issue="155488" />
+</Book>
+<Book Series="Detective Comics" Number="766" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113281" />
+</Book>
+<Book Series="Batgirl" Number="24" Volume="2000" Year="2002">
+<Database Name="cv" Series="7205" Issue="51379" />
+</Book>
+<Book Series="Nightwing" Number="65" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="114297" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="25" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="51384" />
+</Book>
+<Book Series="Birds of Prey" Number="39" Volume="1999" Year="2002">
+<Database Name="cv" Series="6498" Issue="80283" />
+</Book>
+<Book Series="Robin" Number="98" Volume="1993" Year="2002">
+<Database Name="cv" Series="4975" Issue="73781" />
+</Book>
+<Book Series="Batman" Number="599" Volume="1940" Year="2002">
+<Database Name="cv" Series="796" Issue="83256" />
+</Book>
+<Book Series="Detective Comics" Number="767" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113282" />
+</Book>
+<Book Series="Nightwing" Number="66" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="114298" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="26" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="55319" />
+</Book>
+<Book Series="Robin" Number="99" Volume="1993" Year="2002">
+<Database Name="cv" Series="4975" Issue="73782" />
+</Book>
+<Book Series="Birds of Prey" Number="40" Volume="1999" Year="2002">
+<Database Name="cv" Series="6498" Issue="80284" />
+</Book>
 <Book Series="Robin" Number="100" Volume="1993" Year="2002">
 <Database Name="cv" Series="4975" Issue="73783" />
 </Book>
@@ -263,6 +302,78 @@
 </Book>
 <Book Series="Batgirl" Number="28" Volume="2000" Year="2002">
 <Database Name="cv" Series="7205" Issue="121106" />
+</Book>
+<Book Series="Batman" Number="600" Volume="1940" Year="2002">
+<Database Name="cv" Series="796" Issue="83257" />
+</Book>
+<Book Series="Birds of Prey" Number="41" Volume="1999" Year="2002">
+<Database Name="cv" Series="6498" Issue="80285" />
+</Book>
+<Book Series="Batman" Number="601" Volume="1940" Year="2002">
+<Database Name="cv" Series="796" Issue="83258" />
+</Book>
+<Book Series="Detective Comics" Number="769" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113284" />
+</Book>
+<Book Series="Batgirl" Number="27" Volume="2000" Year="2002">
+<Database Name="cv" Series="7205" Issue="121092" />
+</Book>
+<Book Series="Nightwing" Number="68" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="114300" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="28" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="55321" />
+</Book>
+<Book Series="Detective Comics" Number="770" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113285" />
+</Book>
+<Book Series="Nightwing" Number="69" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="114301" />
+</Book>
+<Book Series="Birds of Prey" Number="43" Volume="1999" Year="2002">
+<Database Name="cv" Series="6498" Issue="112389" />
+</Book>
+<Book Series="Batman" Number="603" Volume="1940" Year="2002">
+<Database Name="cv" Series="796" Issue="83268" />
+</Book>
+<Book Series="Detective Comics" Number="771" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113323" />
+</Book>
+<Book Series="Batgirl" Number="29" Volume="2000" Year="2002">
+<Database Name="cv" Series="7205" Issue="121108" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="30" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="55323" />
+</Book>
+<Book Series="Azrael: Agent of the Bat" Number="91" Volume="1998" Year="2002">
+<Database Name="cv" Series="19721" Issue="135661" />
+</Book>
+<Book Series="Detective Comics" Number="772" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113324" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="31" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="119362" />
+</Book>
+<Book Series="Batman" Number="605" Volume="1940" Year="2002">
+<Database Name="cv" Series="796" Issue="84874" />
+</Book>
+<Book Series="Batman" Number="606" Volume="1940" Year="2002">
+<Database Name="cv" Series="796" Issue="124801" />
+</Book>
+<Book Series="Batman" Number="607" Volume="1940" Year="2002">
+<Database Name="cv" Series="796" Issue="124874" />
+</Book>
+<Book Series="Detective Comics" Number="773" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113325" />
+</Book>
+<Book Series="Detective Comics" Number="774" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113326" />
+</Book>
+<Book Series="Detective Comics" Number="775" Volume="1937" Year="2002">
+<Database Name="cv" Series="18058" Issue="113327" />
+</Book>
+<Book Series="Batgirl" Number="33" Volume="2000" Year="2002">
+<Database Name="cv" Series="7205" Issue="91324" />
 </Book>
 <Book Series="Birds of Prey" Number="42" Volume="1999" Year="2002">
 <Database Name="cv" Series="6498" Issue="80286" />
@@ -284,6 +395,21 @@
 </Book>
 <Book Series="JLA" Number="64" Volume="1997" Year="2002">
 <Database Name="cv" Series="5957" Issue="111240" />
+</Book>
+<Book Series="Young Justice" Number="44" Volume="1998" Year="2002">
+<Database Name="cv" Series="9420" Issue="126515" />
+</Book>
+<Book Series="Impulse" Number="85" Volume="1995" Year="2002">
+<Database Name="cv" Series="5509" Issue="104650" />
+</Book>
+<Book Series="Robin" Number="101" Volume="1993" Year="2002">
+<Database Name="cv" Series="4975" Issue="73784" />
+</Book>
+<Book Series="Superboy" Number="99" Volume="1994" Year="2002">
+<Database Name="cv" Series="5261" Issue="119642" />
+</Book>
+<Book Series="Young Justice" Number="45" Volume="1998" Year="2002">
+<Database Name="cv" Series="9420" Issue="126513" />
 </Book>
 <Book Series="Batman" Number="608" Volume="1940" Year="2002">
 <Database Name="cv" Series="796" Issue="124939" />
@@ -1341,6 +1467,24 @@
 <Book Series="Hawkman" Number="22" Volume="2002" Year="2004">
 <Database Name="cv" Series="9402" Issue="151523" />
 </Book>
+<Book Series="JSA" Number="56" Volume="1999" Year="2004">
+<Database Name="cv" Series="6331" Issue="92325" />
+</Book>
+<Book Series="Hawkman" Number="23" Volume="2002" Year="2004">
+<Database Name="cv" Series="9402" Issue="151524" />
+</Book>
+<Book Series="JSA" Number="57" Volume="1999" Year="2004">
+<Database Name="cv" Series="6331" Issue="92326" />
+</Book>
+<Book Series="Hawkman" Number="24" Volume="2002" Year="2004">
+<Database Name="cv" Series="9402" Issue="151526" />
+</Book>
+<Book Series="JSA" Number="58" Volume="1999" Year="2004">
+<Database Name="cv" Series="6331" Issue="92327" />
+</Book>
+<Book Series="Hawkman" Number="25" Volume="2002" Year="2004">
+<Database Name="cv" Series="9402" Issue="151527" />
+</Book>
 <Book Series="Batgirl" Number="47" Volume="2000" Year="2004">
 <Database Name="cv" Series="7205" Issue="91338" />
 </Book>
@@ -1781,6 +1925,117 @@
 </Book>
 <Book Series="Aquaman" Number="31" Volume="2003" Year="2005">
 <Database Name="cv" Series="9517" Issue="120708" />
+</Book>
+<Book Series="Detective Comics" Number="790" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113359" />
+</Book>
+<Book Series="Detective Comics" Number="791" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113376" />
+</Book>
+<Book Series="Detective Comics" Number="792" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113377" />
+</Book>
+<Book Series="Detective Comics" Number="793" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113378" />
+</Book>
+<Book Series="Detective Comics" Number="794" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113379" />
+</Book>
+<Book Series="Detective Comics" Number="795" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113380" />
+</Book>
+<Book Series="Detective Comics" Number="796" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113381" />
+</Book>
+<Book Series="Robin" Number="126" Volume="1993" Year="2004">
+<Database Name="cv" Series="4975" Issue="110083" />
+</Book>
+<Book Series="Robin" Number="127" Volume="1993" Year="2004">
+<Database Name="cv" Series="4975" Issue="110085" />
+</Book>
+<Book Series="Robin" Number="128" Volume="1993" Year="2004">
+<Database Name="cv" Series="4975" Issue="110087" />
+</Book>
+<Book Series="Batman: The 12 Cent Adventure" Number="1" Volume="2004" Year="2004">
+<Database Name="cv" Series="26546" Issue="158701" />
+</Book>
+<Book Series="Detective Comics" Number="797" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113382" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="182" Volume="1992" Year="2004">
+<Database Name="cv" Series="4720" Issue="100906" />
+</Book>
+<Book Series="Nightwing" Number="96" Volume="1996" Year="2004">
+<Database Name="cv" Series="5755" Issue="96768" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="56" Volume="2000" Year="2004">
+<Database Name="cv" Series="7207" Issue="100898" />
+</Book>
+<Book Series="Robin" Number="129" Volume="1993" Year="2004">
+<Database Name="cv" Series="4975" Issue="92340" />
+</Book>
+<Book Series="Batgirl" Number="55" Volume="2000" Year="2004">
+<Database Name="cv" Series="7205" Issue="100877" />
+</Book>
+<Book Series="Catwoman" Number="34" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="98298" />
+</Book>
+<Book Series="Batman" Number="631" Volume="1940" Year="2004">
+<Database Name="cv" Series="796" Issue="100886" />
+</Book>
+<Book Series="Detective Comics" Number="798" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113383" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="183" Volume="1992" Year="2004">
+<Database Name="cv" Series="4720" Issue="100907" />
+</Book>
+<Book Series="Nightwing" Number="97" Volume="1996" Year="2004">
+<Database Name="cv" Series="5755" Issue="96769" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="57" Volume="2000" Year="2004">
+<Database Name="cv" Series="7207" Issue="100899" />
+</Book>
+<Book Series="Robin" Number="130" Volume="1993" Year="2004">
+<Database Name="cv" Series="4975" Issue="92341" />
+</Book>
+<Book Series="Batgirl" Number="56" Volume="2000" Year="2004">
+<Database Name="cv" Series="7205" Issue="100878" />
+</Book>
+<Book Series="Catwoman" Number="35" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="98299" />
+</Book>
+<Book Series="Batman" Number="632" Volume="1940" Year="2004">
+<Database Name="cv" Series="796" Issue="100887" />
+</Book>
+<Book Series="Detective Comics" Number="799" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113384" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="184" Volume="1992" Year="2004">
+<Database Name="cv" Series="4720" Issue="100908" />
+</Book>
+<Book Series="Nightwing" Number="98" Volume="1996" Year="2004">
+<Database Name="cv" Series="5755" Issue="96770" />
+</Book>
+<Book Series="Robin" Number="131" Volume="1993" Year="2004">
+<Database Name="cv" Series="4975" Issue="92342" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="58" Volume="2000" Year="2004">
+<Database Name="cv" Series="7207" Issue="100900" />
+</Book>
+<Book Series="Batgirl" Number="57" Volume="2000" Year="2004">
+<Database Name="cv" Series="7205" Issue="100879" />
+</Book>
+<Book Series="Catwoman" Number="36" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="98300" />
+</Book>
+<Book Series="Batman" Number="633" Volume="1940" Year="2004">
+<Database Name="cv" Series="796" Issue="100888" />
+</Book>
+<Book Series="Detective Comics" Number="800" Volume="1937" Year="2005">
+<Database Name="cv" Series="18058" Issue="112049" />
+</Book>
+<Book Series="Batman" Number="634" Volume="1940" Year="2005">
+<Database Name="cv" Series="796" Issue="100889" />
 </Book>
 <Book Series="Batman: Gotham Knights" Number="59" Volume="2000" Year="2005">
 <Database Name="cv" Series="7207" Issue="100901" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #02 (WEB-CBRO)</Name>
-<NumIssues>779</NumIssues>
+<NumIssues>943</NumIssues>
 <Books>
 <Book Series="Batman" Number="404" Volume="1940" Year="1987">
 <Database Name="cv" Series="796" Issue="27733" />
@@ -597,6 +597,90 @@
 <Book Series="Booster Gold" Number="9" Volume="1986" Year="1986">
 <Database Name="cv" Series="3596" Issue="27225" />
 </Book>
+<Book Series="Batman" Number="401" Volume="1940" Year="1986">
+<Database Name="cv" Series="796" Issue="27328" />
+</Book>
+<Book Series="Detective Comics" Number="568" Volume="1937" Year="1986">
+<Database Name="cv" Series="18058" Issue="113026" />
+</Book>
+<Book Series="Legends" Number="1" Volume="1986" Year="1986">
+<Database Name="cv" Series="3607" Issue="27340" />
+</Book>
+<Book Series="The Green Lantern Corps" Number="207" Volume="1986" Year="1986">
+<Database Name="cv" Series="3600" Issue="27440" />
+</Book>
+<Book Series="Legends" Number="2" Volume="1986" Year="1986">
+<Database Name="cv" Series="3607" Issue="27445" />
+</Book>
+<Book Series="Cosmic Boy" Number="1" Volume="1986" Year="1986">
+<Database Name="cv" Series="3597" Issue="27437" />
+</Book>
+<Book Series="Justice League of America" Number="258" Volume="1960" Year="1987">
+<Database Name="cv" Series="2014" Issue="27638" />
+</Book>
+<Book Series="Secret Origins" Number="10" Volume="1986" Year="1987">
+<Database Name="cv" Series="3616" Issue="27643" />
+</Book>
+<Book Series="The Fury of Firestorm" Number="55" Volume="1982" Year="1987">
+<Database Name="cv" Series="3115" Issue="27632" />
+</Book>
+<Book Series="Legends" Number="3" Volume="1986" Year="1987">
+<Database Name="cv" Series="3607" Issue="27639" />
+</Book>
+<Book Series="Cosmic Boy" Number="2" Volume="1986" Year="1987">
+<Database Name="cv" Series="3597" Issue="27629" />
+</Book>
+<Book Series="Justice League of America" Number="259" Volume="1960" Year="1987">
+<Database Name="cv" Series="2014" Issue="114379" />
+</Book>
+<Book Series="The Fury of Firestorm" Number="56" Volume="1982" Year="1987">
+<Database Name="cv" Series="3115" Issue="27739" />
+</Book>
+<Book Series="Blue Beetle" Number="9" Volume="1986" Year="1987">
+<Database Name="cv" Series="3595" Issue="27734" />
+</Book>
+<Book Series="Legends" Number="4" Volume="1986" Year="1987">
+<Database Name="cv" Series="3607" Issue="27744" />
+</Book>
+<Book Series="Warlord" Number="114" Volume="1976" Year="1987">
+<Database Name="cv" Series="2850" Issue="27757" />
+</Book>
+<Book Series="Cosmic Boy" Number="3" Volume="1986" Year="1987">
+<Database Name="cv" Series="3597" Issue="27736" />
+</Book>
+<Book Series="Justice League of America" Number="260" Volume="1960" Year="1987">
+<Database Name="cv" Series="2014" Issue="27855" />
+</Book>
+<Book Series="Blue Beetle" Number="10" Volume="1986" Year="1987">
+<Database Name="cv" Series="3595" Issue="27843" />
+</Book>
+<Book Series="Warlord" Number="115" Volume="1976" Year="1987">
+<Database Name="cv" Series="2850" Issue="27868" />
+</Book>
+<Book Series="Superman" Number="3" Volume="1987" Year="1987">
+<Database Name="cv" Series="3816" Issue="27864" />
+</Book>
+<Book Series="Adventures of Superman" Number="426" Volume="1987" Year="1987">
+<Database Name="cv" Series="3778" Issue="27838" />
+</Book>
+<Book Series="Action Comics" Number="586" Volume="1938" Year="1987">
+<Database Name="cv" Series="18005" Issue="119391" />
+</Book>
+<Book Series="Legends" Number="5" Volume="1986" Year="1987">
+<Database Name="cv" Series="3607" Issue="27856" />
+</Book>
+<Book Series="Cosmic Boy" Number="4" Volume="1986" Year="1987">
+<Database Name="cv" Series="3597" Issue="27846" />
+</Book>
+<Book Series="Justice League of America" Number="261" Volume="1960" Year="1987">
+<Database Name="cv" Series="2014" Issue="27961" />
+</Book>
+<Book Series="Legends" Number="6" Volume="1986" Year="1987">
+<Database Name="cv" Series="3607" Issue="27962" />
+</Book>
+<Book Series="Secret Origins" Number="14" Volume="1986" Year="1987">
+<Database Name="cv" Series="3616" Issue="28080" />
+</Book>
 <Book Series="Blue Beetle" Number="11" Volume="1986" Year="1987">
 <Database Name="cv" Series="3595" Issue="27952" />
 </Book>
@@ -818,6 +902,141 @@
 </Book>
 <Book Series="Wonder Woman" Number="11" Volume="1987" Year="1987">
 <Database Name="cv" Series="3824" Issue="28895" />
+</Book>
+<Book Series="Millennium" Number="1" Volume="1988" Year="1988">
+<Database Name="cv" Series="4011" Issue="29074" />
+</Book>
+<Book Series="Firestorm, the Nuclear Man" Number="67" Volume="1987" Year="1988">
+<Database Name="cv" Series="3789" Issue="29086" />
+</Book>
+<Book Series="The Flash" Number="8" Volume="1987" Year="1988">
+<Database Name="cv" Series="3790" Issue="29087" />
+</Book>
+<Book Series="Justice League International" Number="9" Volume="1987" Year="1988">
+<Database Name="cv" Series="3798" Issue="29168" />
+</Book>
+<Book Series="The Outsiders" Number="27" Volume="1985" Year="1988">
+<Database Name="cv" Series="3455" Issue="29094" />
+</Book>
+<Book Series="Wonder Woman" Number="12" Volume="1987" Year="1988">
+<Database Name="cv" Series="3824" Issue="29112" />
+</Book>
+<Book Series="Millennium" Number="2" Volume="1988" Year="1988">
+<Database Name="cv" Series="4011" Issue="29183" />
+</Book>
+<Book Series="Batman" Number="415" Volume="1940" Year="1988">
+<Database Name="cv" Series="796" Issue="29080" />
+</Book>
+<Book Series="Blue Beetle" Number="20" Volume="1986" Year="1988">
+<Database Name="cv" Series="3595" Issue="29081" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="42" Volume="1984" Year="1988">
+<Database Name="cv" Series="3310" Issue="29091" />
+</Book>
+<Book Series="Secret Origins" Number="22" Volume="1986" Year="1988">
+<Database Name="cv" Series="3616" Issue="29098" />
+</Book>
+<Book Series="Superman" Number="13" Volume="1987" Year="1988">
+<Database Name="cv" Series="3816" Issue="29106" />
+</Book>
+<Book Series="Young All-Stars" Number="8" Volume="1987" Year="1988">
+<Database Name="cv" Series="3826" Issue="29114" />
+</Book>
+<Book Series="Millennium" Number="3" Volume="1988" Year="1988">
+<Database Name="cv" Series="4011" Issue="29184" />
+</Book>
+<Book Series="Adventures of Superman" Number="436" Volume="1987" Year="1988">
+<Database Name="cv" Series="3778" Issue="29078" />
+</Book>
+<Book Series="Booster Gold" Number="24" Volume="1986" Year="1988">
+<Database Name="cv" Series="3596" Issue="29082" />
+</Book>
+<Book Series="The Green Lantern Corps" Number="220" Volume="1986" Year="1988">
+<Database Name="cv" Series="3600" Issue="29088" />
+</Book>
+<Book Series="Infinity, Inc." Number="46" Volume="1984" Year="1988">
+<Database Name="cv" Series="3308" Issue="29090" />
+</Book>
+<Book Series="Millennium" Number="4" Volume="1988" Year="1988">
+<Database Name="cv" Series="4011" Issue="29185" />
+</Book>
+<Book Series="Teen Titans Spotlight" Number="18" Volume="1986" Year="1988">
+<Database Name="cv" Series="3621" Issue="66588" />
+</Book>
+<Book Series="Action Comics" Number="596" Volume="1938" Year="1988">
+<Database Name="cv" Series="18005" Issue="119018" />
+</Book>
+<Book Series="Captain Atom" Number="11" Volume="1987" Year="1988">
+<Database Name="cv" Series="3782" Issue="29083" />
+</Book>
+<Book Series="Detective Comics" Number="582" Volume="1937" Year="1988">
+<Database Name="cv" Series="18058" Issue="113050" />
+</Book>
+<Book Series="Suicide Squad" Number="9" Volume="1987" Year="1988">
+<Database Name="cv" Series="3815" Issue="29105" />
+</Book>
+<Book Series="The Spectre" Number="10" Volume="1987" Year="1988">
+<Database Name="cv" Series="3814" Issue="29103" />
+</Book>
+<Book Series="Millennium" Number="5" Volume="1988" Year="1988">
+<Database Name="cv" Series="4011" Issue="29190" />
+</Book>
+<Book Series="Firestorm, the Nuclear Man" Number="68" Volume="1987" Year="1988">
+<Database Name="cv" Series="3789" Issue="29205" />
+</Book>
+<Book Series="The Flash" Number="9" Volume="1987" Year="1988">
+<Database Name="cv" Series="3790" Issue="29206" />
+</Book>
+<Book Series="Wonder Woman" Number="13" Volume="1987" Year="1988">
+<Database Name="cv" Series="3824" Issue="29292" />
+</Book>
+<Book Series="Justice League International" Number="10" Volume="1987" Year="1988">
+<Database Name="cv" Series="3798" Issue="29283" />
+</Book>
+<Book Series="Outsiders" Number="28" Volume="2003" Year="2005">
+<Database Name="cv" Series="10415" Issue="113886" />
+</Book>
+<Book Series="Millennium" Number="6" Volume="1988" Year="1988">
+<Database Name="cv" Series="4011" Issue="29299" />
+</Book>
+<Book Series="Superman" Number="14" Volume="1987" Year="1988">
+<Database Name="cv" Series="3816" Issue="29228" />
+</Book>
+<Book Series="Blue Beetle" Number="21" Volume="1986" Year="1988">
+<Database Name="cv" Series="3595" Issue="29200" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="43" Volume="1984" Year="1988">
+<Database Name="cv" Series="3310" Issue="29211" />
+</Book>
+<Book Series="Secret Origins" Number="23" Volume="1986" Year="1988">
+<Database Name="cv" Series="3616" Issue="29217" />
+</Book>
+<Book Series="Young All-Stars" Number="9" Volume="1987" Year="1988">
+<Database Name="cv" Series="3826" Issue="29235" />
+</Book>
+<Book Series="Millennium" Number="7" Volume="1988" Year="1988">
+<Database Name="cv" Series="4011" Issue="29300" />
+</Book>
+<Book Series="Adventures of Superman" Number="437" Volume="1987" Year="1988">
+<Database Name="cv" Series="3778" Issue="29197" />
+</Book>
+<Book Series="Booster Gold" Number="25" Volume="1986" Year="1988">
+<Database Name="cv" Series="3596" Issue="29201" />
+</Book>
+<Book Series="The Green Lantern Corps" Number="221" Volume="1986" Year="1988">
+<Database Name="cv" Series="3600" Issue="29208" />
+</Book>
+<Book Series="Infinity, Inc." Number="47" Volume="1984" Year="1988">
+<Database Name="cv" Series="3308" Issue="29210" />
+</Book>
+<Book Series="Millennium" Number="8" Volume="1988" Year="1988">
+<Database Name="cv" Series="4011" Issue="29301" />
+</Book>
+<Book Series="The Spectre" Number="11" Volume="1987" Year="1988">
+<Database Name="cv" Series="3814" Issue="29223" />
+</Book>
+<Book Series="Teen Titans Spotlight" Number="19" Volume="1986" Year="1988">
+<Database Name="cv" Series="3621" Issue="66589" />
 </Book>
 <Book Series="Wonder Woman" Number="14" Volume="1987" Year="1988">
 <Database Name="cv" Series="3824" Issue="29402" />
@@ -1311,6 +1530,159 @@
 <Book Series="Wonder Woman" Number="24" Volume="1987" Year="1988">
 <Database Name="cv" Series="3824" Issue="30538" />
 </Book>
+<Book Series="Swamp Thing" Number="80" Volume="1986" Year="1988">
+<Database Name="cv" Series="3465" Issue="30536" />
+</Book>
+<Book Series="Invasion" Number="1" Volume="1989" Year="1988">
+<Database Name="cv" Series="4197" Issue="30739" />
+</Book>
+<Book Series="Invasion! Special: Daily Planet" Number="1" Volume="1988" Year="1988">
+<Database Name="cv" Series="31758" Issue="199178" />
+</Book>
+<Book Series="The Spectre" Number="23" Volume="1987" Year="1988">
+<Database Name="cv" Series="3814" Issue="30524" />
+</Book>
+<Book Series="The Flash" Number="21" Volume="1987" Year="1988">
+<Database Name="cv" Series="3790" Issue="30736" />
+</Book>
+<Book Series="Manhunter" Number="8" Volume="1988" Year="1988">
+<Database Name="cv" Series="4009" Issue="30520" />
+</Book>
+<Book Series="Wonder Woman" Number="25" Volume="1987" Year="1988">
+<Database Name="cv" Series="3824" Issue="30540" />
+</Book>
+<Book Series="Justice League International" Number="22" Volume="1987" Year="1988">
+<Database Name="cv" Series="3798" Issue="30711" />
+</Book>
+<Book Series="Swamp Thing" Number="81" Volume="1986" Year="1988">
+<Database Name="cv" Series="3465" Issue="30544" />
+</Book>
+<Book Series="The New Guardians" Number="6" Volume="1988" Year="1988">
+<Database Name="cv" Series="4012" Issue="30521" />
+</Book>
+<Book Series="Captain Atom" Number="24" Volume="1987" Year="1988">
+<Database Name="cv" Series="3782" Issue="30509" />
+</Book>
+<Book Series="Animal Man" Number="6" Volume="1988" Year="1988">
+<Database Name="cv" Series="3976" Issue="30619" />
+</Book>
+<Book Series="Firestorm, the Nuclear Man" Number="80" Volume="1987" Year="1988">
+<Database Name="cv" Series="3789" Issue="30515" />
+</Book>
+<Book Series="Starman" Number="5" Volume="1988" Year="1988">
+<Database Name="cv" Series="4028" Issue="30525" />
+</Book>
+<Book Series="Checkmate" Number="11" Volume="1988" Year="1988">
+<Database Name="cv" Series="3986" Issue="30510" />
+</Book>
+<Book Series="Power of the Atom" Number="7" Volume="1988" Year="1988">
+<Database Name="cv" Series="4019" Issue="30522" />
+</Book>
+<Book Series="Superman" Number="26" Volume="1987" Year="1988">
+<Database Name="cv" Series="3816" Issue="30527" />
+</Book>
+<Book Series="Detective Comics" Number="595" Volume="1937" Year="1988">
+<Database Name="cv" Series="18058" Issue="106847" />
+</Book>
+<Book Series="Doom Patrol" Number="17" Volume="1987" Year="1988">
+<Database Name="cv" Series="3786" Issue="30514" />
+</Book>
+<Book Series="Adventures of Superman" Number="449" Volume="1987" Year="1988">
+<Database Name="cv" Series="3778" Issue="30567" />
+</Book>
+<Book Series="Invasion" Number="2" Volume="1989" Year="1988">
+<Database Name="cv" Series="4197" Issue="30858" />
+</Book>
+<Book Series="Superman" Number="27" Volume="1987" Year="1989">
+<Database Name="cv" Series="3816" Issue="30750" />
+</Book>
+<Book Series="Adventures of Superman" Number="450" Volume="1987" Year="1989">
+<Database Name="cv" Series="3778" Issue="30723" />
+</Book>
+<Book Series="Suicide Squad" Number="23" Volume="1987" Year="1989">
+<Database Name="cv" Series="3815" Issue="30749" />
+</Book>
+<Book Series="The Flash" Number="22" Volume="1987" Year="1989">
+<Database Name="cv" Series="3790" Issue="30830" />
+</Book>
+<Book Series="Checkmate" Number="12" Volume="1988" Year="1989">
+<Database Name="cv" Series="3986" Issue="30848" />
+</Book>
+<Book Series="Manhunter" Number="9" Volume="1988" Year="1989">
+<Database Name="cv" Series="4009" Issue="30741" />
+</Book>
+<Book Series="Wonder Woman" Number="26" Volume="1987" Year="1989">
+<Database Name="cv" Series="3824" Issue="30756" />
+</Book>
+<Book Series="Captain Atom" Number="25" Volume="1987" Year="1989">
+<Database Name="cv" Series="3782" Issue="30727" />
+</Book>
+<Book Series="Justice League International" Number="23" Volume="1987" Year="1989">
+<Database Name="cv" Series="3798" Issue="30807" />
+</Book>
+<Book Series="Animal Man" Number="7" Volume="1988" Year="1989">
+<Database Name="cv" Series="3976" Issue="30724" />
+</Book>
+<Book Series="The New Guardians" Number="7" Volume="1988" Year="1989">
+<Database Name="cv" Series="4012" Issue="30861" />
+</Book>
+<Book Series="Starman" Number="6" Volume="1988" Year="1989">
+<Database Name="cv" Series="4028" Issue="30748" />
+</Book>
+<Book Series="Power of the Atom" Number="8" Volume="1988" Year="1989">
+<Database Name="cv" Series="4019" Issue="30743" />
+</Book>
+<Book Series="Firestorm, the Nuclear Man" Number="81" Volume="1987" Year="1989">
+<Database Name="cv" Series="3789" Issue="30735" />
+</Book>
+<Book Series="Doom Patrol" Number="18" Volume="1987" Year="1989">
+<Database Name="cv" Series="3786" Issue="30733" />
+</Book>
+<Book Series="Invasion" Number="3" Volume="1989" Year="1989">
+<Database Name="cv" Series="4197" Issue="30968" />
+</Book>
+<Book Series="Blasters Special" Number="1" Volume="1989" Year="1989">
+<Database Name="cv" Series="23892" Issue="142596" />
+</Book>
+<Book Series="Superman" Number="28" Volume="1987" Year="1989">
+<Database Name="cv" Series="3816" Issue="30868" />
+</Book>
+<Book Series="Adventures of Superman" Number="451" Volume="1987" Year="1989">
+<Database Name="cv" Series="3778" Issue="30843" />
+</Book>
+<Book Series="Superman" Number="29" Volume="1987" Year="1989">
+<Database Name="cv" Series="3816" Issue="30978" />
+</Book>
+<Book Series="Adventures of Superman" Number="452" Volume="1987" Year="1989">
+<Database Name="cv" Series="3778" Issue="30954" />
+</Book>
+<Book Series="Superman" Number="30" Volume="1987" Year="1989">
+<Database Name="cv" Series="3816" Issue="31076" />
+</Book>
+<Book Series="Adventures of Superman" Number="453" Volume="1987" Year="1989">
+<Database Name="cv" Series="3778" Issue="31048" />
+</Book>
+<Book Series="Adventures of Superman" Number="454" Volume="1987" Year="1989">
+<Database Name="cv" Series="3778" Issue="31163" />
+</Book>
+<Book Series="Action Comics Annual" Number="2" Volume="1987" Year="1989">
+<Database Name="cv" Series="3776" Issue="30590" />
+</Book>
+<Book Series="Superman" Number="32" Volume="1987" Year="1989">
+<Database Name="cv" Series="3816" Issue="31303" />
+</Book>
+<Book Series="Adventures of Superman" Number="455" Volume="1987" Year="1989">
+<Database Name="cv" Series="3778" Issue="31271" />
+</Book>
+<Book Series="Superman" Number="33" Volume="1987" Year="1989">
+<Database Name="cv" Series="3816" Issue="31411" />
+</Book>
+<Book Series="Adventures of Superman" Number="456" Volume="1987" Year="1989">
+<Database Name="cv" Series="3778" Issue="31382" />
+</Book>
+<Book Series="Action Comics" Number="643" Volume="1938" Year="1989">
+<Database Name="cv" Series="18005" Issue="112042" />
+</Book>
 <Book Series="The Fury of Firestorm" Number="82" Volume="1982" Year="1989">
 <Database Name="cv" Series="3789" Issue="30854" />
 </Book>
@@ -1521,6 +1893,39 @@
 <Book Series="Suicide Squad" Number="26" Volume="1987" Year="1989">
 <Database Name="cv" Series="3815" Issue="31075" />
 </Book>
+<Book Series="Checkmate" Number="15" Volume="1988" Year="1989">
+<Database Name="cv" Series="3986" Issue="31169" />
+</Book>
+<Book Series="Suicide Squad" Number="27" Volume="1987" Year="1989">
+<Database Name="cv" Series="3815" Issue="31190" />
+</Book>
+<Book Series="Checkmate" Number="16" Volume="1988" Year="1989">
+<Database Name="cv" Series="3986" Issue="31256" />
+</Book>
+<Book Series="Suicide Squad" Number="28" Volume="1987" Year="1989">
+<Database Name="cv" Series="3815" Issue="31257" />
+</Book>
+<Book Series="Checkmate" Number="17" Volume="1988" Year="1989">
+<Database Name="cv" Series="3986" Issue="31277" />
+</Book>
+<Book Series="Manhunter" Number="14" Volume="1988" Year="1989">
+<Database Name="cv" Series="4009" Issue="31291" />
+</Book>
+<Book Series="Firestorm, the Nuclear Man" Number="86" Volume="1987" Year="1989">
+<Database Name="cv" Series="3789" Issue="31283" />
+</Book>
+<Book Series="Suicide Squad" Number="29" Volume="1987" Year="1989">
+<Database Name="cv" Series="3815" Issue="31302" />
+</Book>
+<Book Series="Checkmate" Number="18" Volume="1988" Year="1989">
+<Database Name="cv" Series="3986" Issue="31369" />
+</Book>
+<Book Series="Suicide Squad" Number="30" Volume="1987" Year="1989">
+<Database Name="cv" Series="3815" Issue="31370" />
+</Book>
+<Book Series="Captain Atom" Number="30" Volume="1987" Year="1989">
+<Database Name="cv" Series="3782" Issue="31276" />
+</Book>
 <Book Series="Wonder Woman" Number="27" Volume="1987" Year="1989">
 <Database Name="cv" Series="3824" Issue="30871" />
 </Book>
@@ -1724,6 +2129,21 @@
 </Book>
 <Book Series="Batman: Arkham Asylum" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="20403" Issue="122008" />
+</Book>
+<Book Series="Batman" Number="440" Volume="1940" Year="1989">
+<Database Name="cv" Series="796" Issue="32093" />
+</Book>
+<Book Series="The New Titans" Number="60" Volume="1988" Year="1989">
+<Database Name="cv" Series="4014" Issue="115447" />
+</Book>
+<Book Series="Batman" Number="441" Volume="1940" Year="1989">
+<Database Name="cv" Series="796" Issue="32095" />
+</Book>
+<Book Series="The New Titans" Number="61" Volume="1988" Year="1989">
+<Database Name="cv" Series="4014" Issue="115448" />
+</Book>
+<Book Series="Batman" Number="442" Volume="1940" Year="1989">
+<Database Name="cv" Series="796" Issue="32096" />
 </Book>
 <Book Series="Batman" Number="452" Volume="1940" Year="1990">
 <Database Name="cv" Series="796" Issue="33031" />
@@ -2300,6 +2720,78 @@
 </Book>
 <Book Series="Wonder Woman" Number="57" Volume="1987" Year="1991">
 <Database Name="cv" Series="3824" Issue="34510" />
+</Book>
+<Book Series="War of the Gods" Number="1" Volume="1991" Year="1991">
+<Database Name="cv" Series="4572" Issue="34624" />
+</Book>
+<Book Series="Wonder Woman" Number="58" Volume="1987" Year="1991">
+<Database Name="cv" Series="3824" Issue="34626" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="3" Volume="1991" Year="1991">
+<Database Name="cv" Series="4571" Issue="34676" />
+</Book>
+<Book Series="Hawkworld" Number="15" Volume="1990" Year="1991">
+<Database Name="cv" Series="4365" Issue="34605" />
+</Book>
+<Book Series="Starman" Number="38" Volume="1988" Year="1991">
+<Database Name="cv" Series="4028" Issue="34621" />
+</Book>
+<Book Series="L.E.G.I.O.N." Number="31" Volume="1989" Year="1991">
+<Database Name="cv" Series="18909" Issue="114685" />
+</Book>
+<Book Series="Hawk and Dove" Number="28" Volume="1989" Year="1991">
+<Database Name="cv" Series="4191" Issue="34804" />
+</Book>
+<Book Series="Captain Atom" Number="56" Volume="1987" Year="1991">
+<Database Name="cv" Series="3782" Issue="34482" />
+</Book>
+<Book Series="Doctor Fate" Number="32" Volume="1988" Year="1991">
+<Database Name="cv" Series="3995" Issue="34598" />
+</Book>
+<Book Series="The Flash" Number="55" Volume="1987" Year="1991">
+<Database Name="cv" Series="3790" Issue="34723" />
+</Book>
+<Book Series="Wonder Woman" Number="59" Volume="1987" Year="1991">
+<Database Name="cv" Series="3824" Issue="34747" />
+</Book>
+<Book Series="Doctor Fate" Number="33" Volume="1988" Year="1991">
+<Database Name="cv" Series="3995" Issue="34721" />
+</Book>
+<Book Series="War of the Gods" Number="2" Volume="1991" Year="1991">
+<Database Name="cv" Series="4572" Issue="34745" />
+</Book>
+<Book Series="Batman" Number="470" Volume="1940" Year="1991">
+<Database Name="cv" Series="796" Issue="34718" />
+</Book>
+<Book Series="Hawkworld" Number="16" Volume="1990" Year="1991">
+<Database Name="cv" Series="4365" Issue="34726" />
+</Book>
+<Book Series="Animal Man" Number="40" Volume="1988" Year="1991">
+<Database Name="cv" Series="3976" Issue="34716" />
+</Book>
+<Book Series="Captain Atom" Number="57" Volume="1987" Year="1991">
+<Database Name="cv" Series="3782" Issue="34595" />
+</Book>
+<Book Series="Suicide Squad" Number="58" Volume="1987" Year="1991">
+<Database Name="cv" Series="3815" Issue="34796" />
+</Book>
+<Book Series="Wonder Woman" Number="60" Volume="1987" Year="1991">
+<Database Name="cv" Series="3824" Issue="34859" />
+</Book>
+<Book Series="War of the Gods" Number="3" Volume="1991" Year="1991">
+<Database Name="cv" Series="4572" Issue="34857" />
+</Book>
+<Book Series="The Demon" Number="17" Volume="1990" Year="1991">
+<Database Name="cv" Series="4358" Issue="69777" />
+</Book>
+<Book Series="The New Titans" Number="81" Volume="1988" Year="1991">
+<Database Name="cv" Series="4014" Issue="74651" />
+</Book>
+<Book Series="Wonder Woman" Number="61" Volume="1987" Year="1992">
+<Database Name="cv" Series="3824" Issue="35245" />
+</Book>
+<Book Series="War of the Gods" Number="4" Volume="1991" Year="1991">
+<Database Name="cv" Series="4572" Issue="34981" />
 </Book>
 <Book Series="Wonder Woman" Number="62" Volume="1987" Year="1992">
 <Database Name="cv" Series="3824" Issue="63511" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC You (WEB-CBRO)</Name>
-<NumIssues>575</NumIssues>
+<NumIssues>620</NumIssues>
 <Books>
 <Book Series="Gotham Academy" Number="7" Volume="2014" Year="2015">
 <Database Name="cv" Series="77219" Issue="491474" />
@@ -990,6 +990,36 @@
 <Book Series="Batman/Superman" Number="27" Volume="2013" Year="2016">
 <Database Name="cv" Series="64203" Issue="507736" />
 </Book>
+<Book Series="Superman Annual" Number="3" Volume="2012" Year="2016">
+<Database Name="cv" Series="51617" Issue="509690" />
+</Book>
+<Book Series="Action Comics" Number="48" Volume="2011" Year="2016">
+<Database Name="cv" Series="42563" Issue="510470" />
+</Book>
+<Book Series="Superman/Wonder Woman" Number="25" Volume="2013" Year="2016">
+<Database Name="cv" Series="68150" Issue="511500" />
+</Book>
+<Book Series="Superman" Number="48" Volume="2011" Year="2016">
+<Database Name="cv" Series="42986" Issue="512404" />
+</Book>
+<Book Series="Action Comics" Number="49" Volume="2011" Year="2016">
+<Database Name="cv" Series="42563" Issue="513615" />
+</Book>
+<Book Series="Superman/Wonder Woman" Number="26" Volume="2013" Year="2016">
+<Database Name="cv" Series="68150" Issue="516582" />
+</Book>
+<Book Series="Superman" Number="49" Volume="2011" Year="2016">
+<Database Name="cv" Series="42986" Issue="516936" />
+</Book>
+<Book Series="Action Comics" Number="50" Volume="2011" Year="2016">
+<Database Name="cv" Series="42563" Issue="518820" />
+</Book>
+<Book Series="Superman/Wonder Woman" Number="27" Volume="2013" Year="2016">
+<Database Name="cv" Series="68150" Issue="520189" />
+</Book>
+<Book Series="Superman" Number="50" Volume="2011" Year="2016">
+<Database Name="cv" Series="42986" Issue="520185" />
+</Book>
 <Book Series="Starfire" Number="7" Volume="2015" Year="2016">
 <Database Name="cv" Series="82527" Issue="507757" />
 </Book>
@@ -1211,6 +1241,33 @@
 </Book>
 <Book Series="Teen Titans" Number="14" Volume="2014" Year="2016">
 <Database Name="cv" Series="75697" Issue="507166" />
+</Book>
+<Book Series="Robin War" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="86391" Issue="507163" />
+</Book>
+<Book Series="Grayson" Number="15" Volume="2014" Year="2016">
+<Database Name="cv" Series="75536" Issue="507747" />
+</Book>
+<Book Series="Detective Comics" Number="47" Volume="2011" Year="2016">
+<Database Name="cv" Series="42594" Issue="507742" />
+</Book>
+<Book Series="We Are Robin" Number="7" Volume="2015" Year="2016">
+<Database Name="cv" Series="82863" Issue="508417" />
+</Book>
+<Book Series="Red Hood/Arsenal" Number="7" Volume="2015" Year="2016">
+<Database Name="cv" Series="82470" Issue="507754" />
+</Book>
+<Book Series="Robin: Son of Batman" Number="7" Volume="2015" Year="2016">
+<Database Name="cv" Series="82719" Issue="508873" />
+</Book>
+<Book Series="Gotham Academy" Number="13" Volume="2014" Year="2016">
+<Database Name="cv" Series="77219" Issue="507746" />
+</Book>
+<Book Series="Teen Titans" Number="15" Volume="2014" Year="2016">
+<Database Name="cv" Series="75697" Issue="508877" />
+</Book>
+<Book Series="Robin War" Number="2" Volume="2015" Year="2016">
+<Database Name="cv" Series="86391" Issue="510645" />
 </Book>
 <Book Series="Teen Titans" Number="16" Volume="2014" Year="2016">
 <Database Name="cv" Series="75697" Issue="512408" />
@@ -1721,6 +1778,84 @@
 </Book>
 <Book Series="Green Lantern Corps: Edge of Oblivion" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="87315" Issue="534264" />
+</Book>
+<Book Series="Divergence FCBD Special Edition" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="81653" Issue="487464" />
+</Book>
+<Book Series="Justice League" Number="40" Volume="2011" Year="2015">
+<Database Name="cv" Series="42488" Issue="487174" />
+</Book>
+<Book Series="Justice League" Number="41" Volume="2011" Year="2015">
+<Database Name="cv" Series="42488" Issue="490839" />
+</Book>
+<Book Series="Justice League" Number="42" Volume="2011" Year="2015">
+<Database Name="cv" Series="42488" Issue="495250" />
+</Book>
+<Book Series="Justice League" Number="43" Volume="2011" Year="2015">
+<Database Name="cv" Series="42488" Issue="497918" />
+</Book>
+<Book Series="Justice League" Number="45" Volume="2011" Year="2015">
+<Database Name="cv" Series="42488" Issue="503535" />
+</Book>
+<Book Series="Justice League: Darkseid War: Batman" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="85576" Issue="504320" />
+</Book>
+<Book Series="Justice League: Darkseid War: Flash" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="85769" Issue="504917" />
+</Book>
+<Book Series="Justice League: Darkseid War: Superman" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="85770" Issue="504918" />
+</Book>
+<Book Series="Justice League: Darkseid War: Green Lantern" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="85952" Issue="505495" />
+</Book>
+<Book Series="Justice League: Darkseid War: Shazam" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="85953" Issue="505496" />
+</Book>
+<Book Series="Justice League: Darkseid War: Lex Luthor" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="86540" Issue="507750" />
+</Book>
+<Book Series="Justice League" Number="46" Volume="2011" Year="2016">
+<Database Name="cv" Series="42488" Issue="508406" />
+</Book>
+<Book Series="Justice League" Number="47" Volume="2011" Year="2016">
+<Database Name="cv" Series="42488" Issue="509685" />
+</Book>
+<Book Series="Justice League" Number="48" Volume="2011" Year="2016">
+<Database Name="cv" Series="42488" Issue="516928" />
+</Book>
+<Book Series="Justice League: Darkseid War Special" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="89370" Issue="523228" />
+</Book>
+<Book Series="Justice League" Number="49" Volume="2011" Year="2016">
+<Database Name="cv" Series="42488" Issue="527115" />
+</Book>
+<Book Series="Justice League" Number="50" Volume="2011" Year="2016">
+<Database Name="cv" Series="42488" Issue="531855" />
+</Book>
+<Book Series="Superman" Number="51" Volume="2011" Year="2016">
+<Database Name="cv" Series="42986" Issue="523235" />
+</Book>
+<Book Series="Batman/Superman" Number="31" Volume="2013" Year="2016">
+<Database Name="cv" Series="64203" Issue="524993" />
+</Book>
+<Book Series="Action Comics" Number="51" Volume="2011" Year="2016">
+<Database Name="cv" Series="42563" Issue="526007" />
+</Book>
+<Book Series="Superman/Wonder Woman" Number="28" Volume="2013" Year="2016">
+<Database Name="cv" Series="68150" Issue="527124" />
+</Book>
+<Book Series="Batman/Superman" Number="32" Volume="2013" Year="2016">
+<Database Name="cv" Series="64203" Issue="528478" />
+</Book>
+<Book Series="Action Comics" Number="52" Volume="2011" Year="2016">
+<Database Name="cv" Series="42563" Issue="529617" />
+</Book>
+<Book Series="Superman/Wonder Woman" Number="29" Volume="2013" Year="2016">
+<Database Name="cv" Series="68150" Issue="530712" />
+</Book>
+<Book Series="Superman" Number="52" Volume="2011" Year="2016">
+<Database Name="cv" Series="42986" Issue="531863" />
 </Book>
 <Book Series="Justice League" Number="51" Volume="2011" Year="2016">
 <Database Name="cv" Series="42488" Issue="535033" />

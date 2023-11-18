@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #07 (WEB-CBRO)</Name>
-<NumIssues>837</NumIssues>
+<NumIssues>1023</NumIssues>
 <Books>
 <Book Series="Fantastic Four" Number="60" Volume="1998" Year="2002">
 <Database Name="cv" Series="6211" Issue="139074" />
@@ -957,6 +957,75 @@
 <Book Series="Cable &#38; Deadpool" Number="14" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105869" />
 </Book>
+<Book Series="1602" Number="1" Volume="2003" Year="2003">
+<Database Name="cv" Series="10946" Issue="93999" />
+</Book>
+<Book Series="1602" Number="2" Volume="2003" Year="2003">
+<Database Name="cv" Series="10946" Issue="94000" />
+</Book>
+<Book Series="1602" Number="3" Volume="2003" Year="2003">
+<Database Name="cv" Series="10946" Issue="94001" />
+</Book>
+<Book Series="1602" Number="4" Volume="2003" Year="2004">
+<Database Name="cv" Series="10946" Issue="94002" />
+</Book>
+<Book Series="1602" Number="5" Volume="2003" Year="2004">
+<Database Name="cv" Series="10946" Issue="94003" />
+</Book>
+<Book Series="1602" Number="6" Volume="2003" Year="2004">
+<Database Name="cv" Series="10946" Issue="94004" />
+</Book>
+<Book Series="1602" Number="7" Volume="2003" Year="2004">
+<Database Name="cv" Series="10946" Issue="94005" />
+</Book>
+<Book Series="1602" Number="8" Volume="2003" Year="2004">
+<Database Name="cv" Series="10946" Issue="94006" />
+</Book>
+<Book Series="Marvel 1602: New World" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="18845" Issue="111384" />
+</Book>
+<Book Series="Marvel 1602: New World" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="18845" Issue="130808" />
+</Book>
+<Book Series="Marvel 1602: New World" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="18845" Issue="130809" />
+</Book>
+<Book Series="Marvel 1602: New World" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="18845" Issue="130810" />
+</Book>
+<Book Series="Marvel 1602: New World" Number="5" Volume="2005" Year="2006">
+<Database Name="cv" Series="18845" Issue="130811" />
+</Book>
+<Book Series="Marvel 1602: Fantastick Four" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="21673" Issue="130772" />
+</Book>
+<Book Series="Marvel 1602: Fantastick Four" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="21673" Issue="130782" />
+</Book>
+<Book Series="Marvel 1602: Fantastick Four" Number="3" Volume="2006" Year="2007">
+<Database Name="cv" Series="21673" Issue="130783" />
+</Book>
+<Book Series="Marvel 1602: Fantastick Four" Number="4" Volume="2006" Year="2007">
+<Database Name="cv" Series="21673" Issue="130792" />
+</Book>
+<Book Series="Marvel 1602: Fantastick Four" Number="5" Volume="2006" Year="2007">
+<Database Name="cv" Series="21673" Issue="130793" />
+</Book>
+<Book Series="Spider-Man 1602" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="28515" Issue="175654" />
+</Book>
+<Book Series="Spider-Man 1602" Number="2" Volume="2009" Year="2010">
+<Database Name="cv" Series="28515" Issue="184039" />
+</Book>
+<Book Series="Spider-Man 1602" Number="3" Volume="2009" Year="2010">
+<Database Name="cv" Series="28515" Issue="189470" />
+</Book>
+<Book Series="Spider-Man 1602" Number="4" Volume="2009" Year="2010">
+<Database Name="cv" Series="28515" Issue="194241" />
+</Book>
+<Book Series="Spider-Man 1602" Number="5" Volume="2009" Year="2010">
+<Database Name="cv" Series="28515" Issue="197798" />
+</Book>
 <Book Series="District X" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="19327" Issue="116029" />
 </Book>
@@ -1061,6 +1130,108 @@
 </Book>
 <Book Series="Excalibur" Number="7" Volume="2004" Year="2005">
 <Database Name="cv" Series="11292" Issue="99104" />
+</Book>
+<Book Series="Spectacular Spider-Man" Number="15" Volume="2003" Year="2004">
+<Database Name="cv" Series="11069" Issue="96985" />
+</Book>
+<Book Series="Spectacular Spider-Man" Number="16" Volume="2003" Year="2004">
+<Database Name="cv" Series="11069" Issue="97334" />
+</Book>
+<Book Series="Spectacular Spider-Man" Number="17" Volume="2003" Year="2004">
+<Database Name="cv" Series="11069" Issue="97335" />
+</Book>
+<Book Series="Spectacular Spider-Man" Number="18" Volume="2003" Year="2004">
+<Database Name="cv" Series="11069" Issue="97336" />
+</Book>
+<Book Series="Spectacular Spider-Man" Number="19" Volume="2003" Year="2004">
+<Database Name="cv" Series="11069" Issue="97337" />
+</Book>
+<Book Series="Spectacular Spider-Man" Number="20" Volume="2003" Year="2004">
+<Database Name="cv" Series="11069" Issue="97338" />
+</Book>
+<Book Series="Iron Man" Number="84" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99917" />
+</Book>
+<Book Series="Iron Man" Number="85" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99918" />
+</Book>
+<Book Series="Thor" Number="80" Volume="1998" Year="2004">
+<Database Name="cv" Series="6226" Issue="99326" />
+</Book>
+<Book Series="Thor" Number="81" Volume="1998" Year="2004">
+<Database Name="cv" Series="6226" Issue="99327" />
+</Book>
+<Book Series="Captain America &#38; the Falcon" Number="5" Volume="2004" Year="2004">
+<Database Name="cv" Series="10973" Issue="94292" />
+</Book>
+<Book Series="Captain America &#38; the Falcon" Number="6" Volume="2004" Year="2004">
+<Database Name="cv" Series="10973" Issue="94293" />
+</Book>
+<Book Series="Captain America &#38; the Falcon" Number="7" Volume="2004" Year="2004">
+<Database Name="cv" Series="10973" Issue="94294" />
+</Book>
+<Book Series="Captain America" Number="29" Volume="2002" Year="2004">
+<Database Name="cv" Series="9088" Issue="99094" />
+</Book>
+<Book Series="Avengers" Number="500" Volume="1998" Year="2004">
+<Database Name="cv" Series="7084" Issue="90338" />
+</Book>
+<Book Series="Avengers" Number="501" Volume="1998" Year="2004">
+<Database Name="cv" Series="7084" Issue="90339" />
+</Book>
+<Book Series="Avengers" Number="502" Volume="1998" Year="2004">
+<Database Name="cv" Series="7084" Issue="90340" />
+</Book>
+<Book Series="Avengers" Number="503" Volume="1998" Year="2004">
+<Database Name="cv" Series="7084" Issue="101195" />
+</Book>
+<Book Series="Excalibur" Number="8" Volume="2004" Year="2005">
+<Database Name="cv" Series="11292" Issue="99105" />
+</Book>
+<Book Series="Iron Man" Number="86" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99919" />
+</Book>
+<Book Series="Iron Man" Number="87" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99920" />
+</Book>
+<Book Series="Iron Man" Number="88" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99921" />
+</Book>
+<Book Series="Iron Man" Number="89" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99922" />
+</Book>
+<Book Series="Captain America" Number="30" Volume="2002" Year="2004">
+<Database Name="cv" Series="9088" Issue="99095" />
+</Book>
+<Book Series="Captain America" Number="31" Volume="2002" Year="2004">
+<Database Name="cv" Series="9088" Issue="99096" />
+</Book>
+<Book Series="Captain America" Number="32" Volume="2002" Year="2004">
+<Database Name="cv" Series="9088" Issue="99097" />
+</Book>
+<Book Series="Fantastic Four" Number="517" Volume="1998" Year="2004">
+<Database Name="cv" Series="6211" Issue="132606" />
+</Book>
+<Book Series="Fantastic Four" Number="518" Volume="1998" Year="2004">
+<Database Name="cv" Series="6211" Issue="132604" />
+</Book>
+<Book Series="Fantastic Four" Number="519" Volume="1998" Year="2004">
+<Database Name="cv" Series="6211" Issue="139113" />
+</Book>
+<Book Series="Thor" Number="82" Volume="1998" Year="2004">
+<Database Name="cv" Series="6226" Issue="99328" />
+</Book>
+<Book Series="Thor" Number="83" Volume="1998" Year="2004">
+<Database Name="cv" Series="6226" Issue="99329" />
+</Book>
+<Book Series="Thor" Number="84" Volume="1998" Year="2004">
+<Database Name="cv" Series="6226" Issue="99330" />
+</Book>
+<Book Series="Thor" Number="85" Volume="1998" Year="2004">
+<Database Name="cv" Series="6226" Issue="99331" />
+</Book>
+<Book Series="Avengers Finale" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="23569" Issue="141419" />
 </Book>
 <Book Series="Excalibur" Number="9" Volume="2004" Year="2005">
 <Database Name="cv" Series="11292" Issue="101043" />
@@ -1965,11 +2136,362 @@
 <Book Series="Excalibur" Number="12" Volume="2004" Year="2005">
 <Database Name="cv" Series="11292" Issue="101046" />
 </Book>
+<Book Series="Excalibur" Number="13" Volume="2004" Year="2005">
+<Database Name="cv" Series="11292" Issue="120015" />
+</Book>
+<Book Series="Excalibur" Number="14" Volume="2004" Year="2005">
+<Database Name="cv" Series="11292" Issue="117978" />
+</Book>
+<Book Series="House of M" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="12049" Issue="104861" />
+</Book>
+<Book Series="House of M" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="12049" Issue="104862" />
+</Book>
+<Book Series="House of M: Civil War" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22973" Issue="138414" />
+</Book>
+<Book Series="House of M: Civil War" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="22973" Issue="139693" />
+</Book>
+<Book Series="House of M: Civil War" Number="3" Volume="2008" Year="2009">
+<Database Name="cv" Series="22973" Issue="141552" />
+</Book>
+<Book Series="House of M: Civil War" Number="4" Volume="2008" Year="2009">
+<Database Name="cv" Series="22973" Issue="145605" />
+</Book>
+<Book Series="House of M: Civil War" Number="5" Volume="2008" Year="2009">
+<Database Name="cv" Series="22973" Issue="150049" />
+</Book>
+<Book Series="House of M: Masters of Evil" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="27286" Issue="166276" />
+</Book>
+<Book Series="House of M: Masters of Evil" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="27286" Issue="169225" />
+</Book>
+<Book Series="House of M: Masters of Evil" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="27286" Issue="175230" />
+</Book>
+<Book Series="House of M: Masters of Evil" Number="4" Volume="2009" Year="2010">
+<Database Name="cv" Series="27286" Issue="181091" />
+</Book>
+<Book Series="House of M: Avengers" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="19668" Issue="118013" />
+</Book>
+<Book Series="House of M: Avengers" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="19668" Issue="119712" />
+</Book>
+<Book Series="House of M: Avengers" Number="3" Volume="2008" Year="2008">
+<Database Name="cv" Series="19668" Issue="120627" />
+</Book>
+<Book Series="House of M: Avengers" Number="4" Volume="2008" Year="2008">
+<Database Name="cv" Series="19668" Issue="122065" />
+</Book>
+<Book Series="House of M: Avengers" Number="5" Volume="2008" Year="2008">
+<Database Name="cv" Series="19668" Issue="124224" />
+</Book>
+<Book Series="Incredible Hulk" Number="83" Volume="2000" Year="2005">
+<Database Name="cv" Series="6558" Issue="117046" />
+</Book>
+<Book Series="The Pulse: House of M Special" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="22711" Issue="136173" />
+</Book>
+<Book Series="Fantastic Four: House of M" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="11892" Issue="104054" />
+</Book>
+<Book Series="Fantastic Four: House of M" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="11892" Issue="104055" />
+</Book>
+<Book Series="Fantastic Four: House of M" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="11892" Issue="104056" />
+</Book>
+<Book Series="Spider-Man: House of M" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="19465" Issue="116494" />
+</Book>
+<Book Series="Spider-Man: House of M" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="19465" Issue="116546" />
+</Book>
+<Book Series="Spider-Man: House of M" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="19465" Issue="116547" />
+</Book>
+<Book Series="Spider-Man: House of M" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="19465" Issue="116549" />
+</Book>
+<Book Series="Spider-Man: House of M" Number="5" Volume="2005" Year="2005">
+<Database Name="cv" Series="19465" Issue="116548" />
+</Book>
+<Book Series="Incredible Hulk" Number="84" Volume="2000" Year="2005">
+<Database Name="cv" Series="6558" Issue="117044" />
+</Book>
+<Book Series="Incredible Hulk" Number="85" Volume="2000" Year="2005">
+<Database Name="cv" Series="6558" Issue="117041" />
+</Book>
+<Book Series="Incredible Hulk" Number="86" Volume="2000" Year="2005">
+<Database Name="cv" Series="6558" Issue="117039" />
+</Book>
+<Book Series="Iron Man: House of M" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="19689" Issue="118072" />
+</Book>
+<Book Series="Iron Man: House of M" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="19689" Issue="131931" />
+</Book>
+<Book Series="Iron Man: House of M" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="19689" Issue="136164" />
+</Book>
+<Book Series="Mutopia X" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="22712" Issue="136174" />
+</Book>
+<Book Series="Mutopia X" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="22712" Issue="136175" />
+</Book>
+<Book Series="Mutopia X" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="22712" Issue="136176" />
+</Book>
+<Book Series="New Thunderbolts" Number="11" Volume="2005" Year="2005">
+<Database Name="cv" Series="11298" Issue="99223" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="462" Volume="1981" Year="2005">
+<Database Name="cv" Series="3092" Issue="106584" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="463" Volume="1981" Year="2005">
+<Database Name="cv" Series="3092" Issue="106585" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="464" Volume="1981" Year="2005">
+<Database Name="cv" Series="3092" Issue="106586" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="465" Volume="1981" Year="2005">
+<Database Name="cv" Series="3092" Issue="106587" />
+</Book>
+<Book Series="House of M" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="12049" Issue="104863" />
+</Book>
+<Book Series="New X-Men" Number="16" Volume="2004" Year="2005">
+<Database Name="cv" Series="18078" Issue="106293" />
+</Book>
+<Book Series="New X-Men" Number="17" Volume="2004" Year="2005">
+<Database Name="cv" Series="18078" Issue="106294" />
+</Book>
+<Book Series="New X-Men" Number="18" Volume="2004" Year="2005">
+<Database Name="cv" Series="18078" Issue="106295" />
+</Book>
+<Book Series="New X-Men" Number="19" Volume="2004" Year="2005">
+<Database Name="cv" Series="18078" Issue="106296" />
+</Book>
+<Book Series="Wolverine" Number="33" Volume="2003" Year="2005">
+<Database Name="cv" Series="10809" Issue="114511" />
+</Book>
+<Book Series="Wolverine" Number="34" Volume="2003" Year="2005">
+<Database Name="cv" Series="10809" Issue="114517" />
+</Book>
+<Book Series="Wolverine" Number="35" Volume="2003" Year="2005">
+<Database Name="cv" Series="10809" Issue="114518" />
+</Book>
+<Book Series="House of M" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="12049" Issue="104864" />
+</Book>
+<Book Series="House of M" Number="5" Volume="2005" Year="2005">
+<Database Name="cv" Series="12049" Issue="104865" />
+</Book>
+<Book Series="The Pulse" Number="10" Volume="2004" Year="2005">
+<Database Name="cv" Series="11310" Issue="105810" />
+</Book>
+<Book Series="Captain America" Number="10" Volume="2004" Year="2005">
+<Database Name="cv" Series="11499" Issue="115271" />
+</Book>
+<Book Series="Black Panther" Number="7" Volume="2005" Year="2005">
+<Database Name="cv" Series="11502" Issue="126178" />
+</Book>
+<Book Series="Exiles" Number="69" Volume="2001" Year="2005">
+<Database Name="cv" Series="6983" Issue="105979" />
+</Book>
+<Book Series="Exiles" Number="70" Volume="2001" Year="2005">
+<Database Name="cv" Series="6983" Issue="105980" />
+</Book>
+<Book Series="Exiles" Number="71" Volume="2001" Year="2005">
+<Database Name="cv" Series="6983" Issue="105981" />
+</Book>
+<Book Series="Cable &#38; Deadpool" Number="17" Volume="2004" Year="2005">
+<Database Name="cv" Series="18070" Issue="106394" />
+</Book>
+<Book Series="House of M" Number="6" Volume="2005" Year="2005">
+<Database Name="cv" Series="12049" Issue="104866" />
+</Book>
+<Book Series="House of M" Number="7" Volume="2005" Year="2005">
+<Database Name="cv" Series="12049" Issue="104867" />
+</Book>
+<Book Series="Mutopia X" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="22712" Issue="136177" />
+</Book>
+<Book Series="House of M" Number="8" Volume="2005" Year="2005">
+<Database Name="cv" Series="12049" Issue="104868" />
+</Book>
+<Book Series="Giant-Size Ms. Marvel" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="22510" Issue="135114" />
+</Book>
 <Book Series="Incredible Hulk" Number="87" Volume="2000" Year="2005">
 <Database Name="cv" Series="6558" Issue="117038" />
 </Book>
 <Book Series="Cable &#38; Deadpool" Number="18" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106395" />
+</Book>
+<Book Series="Decimation: House of M - The Day After" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18132" Issue="106215" />
+</Book>
+<Book Series="Mutopia X" Number="5" Volume="2005" Year="2006">
+<Database Name="cv" Series="22712" Issue="136178" />
+</Book>
+<Book Series="X-Men: The 198 Files" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18136" Issue="106250" />
+</Book>
+<Book Series="Sentinel Squad O*N*E" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="23276" Issue="139879" />
+</Book>
+<Book Series="Sentinel Squad O*N*E" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="23276" Issue="139882" />
+</Book>
+<Book Series="Sentinel Squad O*N*E" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="23276" Issue="139884" />
+</Book>
+<Book Series="Sentinel Squad O*N*E" Number="4" Volume="2006" Year="2006">
+<Database Name="cv" Series="23276" Issue="139887" />
+</Book>
+<Book Series="Sentinel Squad O*N*E" Number="5" Volume="2006" Year="2006">
+<Database Name="cv" Series="23276" Issue="139889" />
+</Book>
+<Book Series="New Excalibur" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18019" Issue="106157" />
+</Book>
+<Book Series="New Excalibur" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="18019" Issue="106158" />
+</Book>
+<Book Series="New Excalibur" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="18019" Issue="106167" />
+</Book>
+<Book Series="X-Men" Number="177" Volume="2004" Year="2006">
+<Database Name="cv" Series="10731" Issue="106207" />
+</Book>
+<Book Series="X-Men" Number="178" Volume="2004" Year="2006">
+<Database Name="cv" Series="10731" Issue="106208" />
+</Book>
+<Book Series="X-Men" Number="179" Volume="2004" Year="2006">
+<Database Name="cv" Series="10731" Issue="106209" />
+</Book>
+<Book Series="New X-Men" Number="20" Volume="2004" Year="2006">
+<Database Name="cv" Series="18078" Issue="106297" />
+</Book>
+<Book Series="New X-Men" Number="21" Volume="2004" Year="2006">
+<Database Name="cv" Series="18078" Issue="105973" />
+</Book>
+<Book Series="New X-Men" Number="22" Volume="2004" Year="2006">
+<Database Name="cv" Series="18078" Issue="105984" />
+</Book>
+<Book Series="New X-Men" Number="23" Volume="2004" Year="2006">
+<Database Name="cv" Series="18078" Issue="105955" />
+</Book>
+<Book Series="Generation M" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18145" Issue="106303" />
+</Book>
+<Book Series="Generation M" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="18145" Issue="106334" />
+</Book>
+<Book Series="Generation M" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="18145" Issue="106335" />
+</Book>
+<Book Series="Generation M" Number="4" Volume="2006" Year="2006">
+<Database Name="cv" Series="18145" Issue="106336" />
+</Book>
+<Book Series="Generation M" Number="5" Volume="2006" Year="2006">
+<Database Name="cv" Series="18145" Issue="106337" />
+</Book>
+<Book Series="Son of M" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18160" Issue="106360" />
+</Book>
+<Book Series="Son of M" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="18160" Issue="106370" />
+</Book>
+<Book Series="Son of M" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="18160" Issue="106405" />
+</Book>
+<Book Series="Son of M" Number="4" Volume="2006" Year="2006">
+<Database Name="cv" Series="18160" Issue="106406" />
+</Book>
+<Book Series="Son of M" Number="5" Volume="2006" Year="2006">
+<Database Name="cv" Series="18160" Issue="106422" />
+</Book>
+<Book Series="Son of M" Number="6" Volume="2006" Year="2006">
+<Database Name="cv" Series="18160" Issue="106423" />
+</Book>
+<Book Series="X-Men: The 198" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18129" Issue="106206" />
+</Book>
+<Book Series="X-Men: The 198" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="18129" Issue="106241" />
+</Book>
+<Book Series="X-Men: The 198" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="18129" Issue="106242" />
+</Book>
+<Book Series="X-Men: The 198" Number="4" Volume="2006" Year="2006">
+<Database Name="cv" Series="18129" Issue="106267" />
+</Book>
+<Book Series="X-Men: The 198" Number="5" Volume="2006" Year="2006">
+<Database Name="cv" Series="18129" Issue="106268" />
+</Book>
+<Book Series="X-Men: Deadly Genesis" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18091" Issue="120892" />
+</Book>
+<Book Series="X-Men: Deadly Genesis" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="18091" Issue="120882" />
+</Book>
+<Book Series="X-Men: Deadly Genesis" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="18091" Issue="120891" />
+</Book>
+<Book Series="X-Men: Deadly Genesis" Number="4" Volume="2006" Year="2006">
+<Database Name="cv" Series="18091" Issue="105971" />
+</Book>
+<Book Series="X-Men: Deadly Genesis" Number="5" Volume="2006" Year="2006">
+<Database Name="cv" Series="18091" Issue="106024" />
+</Book>
+<Book Series="X-Men: Deadly Genesis" Number="6" Volume="2006" Year="2006">
+<Database Name="cv" Series="18091" Issue="106197" />
+</Book>
+<Book Series="Wolverine" Number="36" Volume="2003" Year="2006">
+<Database Name="cv" Series="10809" Issue="114519" />
+</Book>
+<Book Series="Wolverine" Number="37" Volume="2003" Year="2006">
+<Database Name="cv" Series="10809" Issue="114390" />
+</Book>
+<Book Series="Wolverine" Number="38" Volume="2003" Year="2006">
+<Database Name="cv" Series="10809" Issue="112980" />
+</Book>
+<Book Series="Wolverine" Number="39" Volume="2003" Year="2006">
+<Database Name="cv" Series="10809" Issue="113029" />
+</Book>
+<Book Series="Wolverine" Number="40" Volume="2003" Year="2006">
+<Database Name="cv" Series="10809" Issue="113030" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="466" Volume="1981" Year="2006">
+<Database Name="cv" Series="3092" Issue="106081" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="467" Volume="1981" Year="2006">
+<Database Name="cv" Series="3092" Issue="106082" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="468" Volume="1981" Year="2006">
+<Database Name="cv" Series="3092" Issue="106083" />
+</Book>
+<Book Series="X-Factor" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18109" Issue="106090" />
+</Book>
+<Book Series="X-Factor" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="18109" Issue="106091" />
+</Book>
+<Book Series="X-Factor" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="18109" Issue="106092" />
+</Book>
+<Book Series="X-Factor" Number="4" Volume="2006" Year="2006">
+<Database Name="cv" Series="18109" Issue="106093" />
+</Book>
+<Book Series="X-Men Unlimited" Number="13" Volume="2004" Year="2006">
+<Database Name="cv" Series="10745" Issue="113641" />
 </Book>
 <Book Series="X-Factor" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="18109" Issue="106094" />
@@ -2015,6 +2537,42 @@
 </Book>
 <Book Series="What If? Spider-Man House of M" Number="1" Volume="2009" Year="2010">
 <Database Name="cv" Series="30692" Issue="189584" />
+</Book>
+<Book Series="Friendly Neighborhood Spider-Man" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="17998" Issue="105375" />
+</Book>
+<Book Series="Marvel Knights Spider-Man" Number="19" Volume="2004" Year="2005">
+<Database Name="cv" Series="11066" Issue="135799" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="525" Volume="1963" Year="2005">
+<Database Name="cv" Series="2127" Issue="113513" />
+</Book>
+<Book Series="Friendly Neighborhood Spider-Man" Number="2" Volume="2005" Year="2006">
+<Database Name="cv" Series="17998" Issue="105376" />
+</Book>
+<Book Series="Marvel Knights Spider-Man" Number="20" Volume="2004" Year="2006">
+<Database Name="cv" Series="11066" Issue="135800" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="526" Volume="1963" Year="2006">
+<Database Name="cv" Series="2127" Issue="113514" />
+</Book>
+<Book Series="Friendly Neighborhood Spider-Man" Number="3" Volume="2005" Year="2006">
+<Database Name="cv" Series="17998" Issue="105377" />
+</Book>
+<Book Series="Marvel Knights Spider-Man" Number="21" Volume="2004" Year="2006">
+<Database Name="cv" Series="11066" Issue="135804" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="527" Volume="1963" Year="2006">
+<Database Name="cv" Series="2127" Issue="113515" />
+</Book>
+<Book Series="Friendly Neighborhood Spider-Man" Number="4" Volume="2005" Year="2006">
+<Database Name="cv" Series="17998" Issue="105379" />
+</Book>
+<Book Series="Marvel Knights Spider-Man" Number="22" Volume="2004" Year="2006">
+<Database Name="cv" Series="11066" Issue="135805" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="528" Volume="1963" Year="2006">
+<Database Name="cv" Series="2127" Issue="113516" />
 </Book>
 <Book Series="What If? Spider-Man: The Other" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="23941" Issue="142763" />

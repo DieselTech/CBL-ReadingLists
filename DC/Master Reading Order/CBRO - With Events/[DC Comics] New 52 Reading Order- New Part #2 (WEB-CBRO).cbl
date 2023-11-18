@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] New 52 Reading Order- New Part #2 (WEB-CBRO)</Name>
-<NumIssues>606</NumIssues>
+<NumIssues>727</NumIssues>
 <Books>
 <Book Series="Justice League Dark" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="42996" Issue="336575" />
@@ -197,6 +197,123 @@
 </Book>
 <Book Series="Green Lantern" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="42808" Issue="350904" />
+</Book>
+<Book Series="Green Lantern Annual" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="51615" Issue="354036" />
+</Book>
+<Book Series="Green Lantern Corps" Number="0" Volume="2011" Year="2012">
+<Database Name="cv" Series="42916" Issue="356726" />
+</Book>
+<Book Series="Red Lanterns" Number="0" Volume="2011" Year="2012">
+<Database Name="cv" Series="42804" Issue="358826" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="0" Volume="2011" Year="2012">
+<Database Name="cv" Series="43007" Issue="357632" />
+</Book>
+<Book Series="Green Lantern" Number="0" Volume="2011" Year="2012">
+<Database Name="cv" Series="42808" Issue="355789" />
+</Book>
+<Book Series="Green Lantern" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42808" Issue="359934" />
+</Book>
+<Book Series="Green Lantern Corps" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42916" Issue="360799" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="43007" Issue="362166" />
+</Book>
+<Book Series="Red Lanterns" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42804" Issue="363063" />
+</Book>
+<Book Series="Green Lantern" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42808" Issue="365734" />
+</Book>
+<Book Series="Red Lanterns" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42804" Issue="370279" />
+</Book>
+<Book Series="Green Lantern Corps" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42916" Issue="367677" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="43007" Issue="369038" />
+</Book>
+<Book Series="Green Lantern" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42808" Issue="373262" />
+</Book>
+<Book Series="Green Lantern Corps" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42916" Issue="372346" />
+</Book>
+<Book Series="Red Lanterns" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42804" Issue="376613" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="43007" Issue="373587" />
+</Book>
+<Book Series="Green Lantern: New Guardians Annual" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="55551" Issue="378861" />
+</Book>
+<Book Series="Green Lantern" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42808" Issue="381382" />
+</Book>
+<Book Series="Green Lantern Corps" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42916" Issue="381391" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="43007" Issue="381538" />
+</Book>
+<Book Series="Red Lanterns" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42804" Issue="382774" />
+</Book>
+<Book Series="Green Lantern Corps Annual" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="56372" Issue="382773" />
+</Book>
+<Book Series="Green Lantern" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42808" Issue="387215" />
+</Book>
+<Book Series="Green Lantern Corps" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42916" Issue="387216" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="43007" Issue="387217" />
+</Book>
+<Book Series="Red Lanterns" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42804" Issue="388535" />
+</Book>
+<Book Series="Green Lantern" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42808" Issue="390401" />
+</Book>
+<Book Series="Green Lantern Corps" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42916" Issue="392313" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="43007" Issue="394658" />
+</Book>
+<Book Series="Red Lanterns" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42804" Issue="395305" />
+</Book>
+<Book Series="Green Lantern" Number="19" Volume="2011" Year="2013">
+<Database Name="cv" Series="42808" Issue="395678" />
+</Book>
+<Book Series="Green Lantern Corps" Number="19" Volume="2011" Year="2013">
+<Database Name="cv" Series="42916" Issue="396385" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="19" Volume="2011" Year="2013">
+<Database Name="cv" Series="43007" Issue="397495" />
+</Book>
+<Book Series="Red Lanterns" Number="19" Volume="2011" Year="2013">
+<Database Name="cv" Series="42804" Issue="398955" />
+</Book>
+<Book Series="Green Lantern" Number="20" Volume="2011" Year="2013">
+<Database Name="cv" Series="42808" Issue="404656" />
+</Book>
+<Book Series="Green Lantern Corps" Number="20" Volume="2011" Year="2013">
+<Database Name="cv" Series="42916" Issue="401178" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="20" Volume="2011" Year="2013">
+<Database Name="cv" Series="43007" Issue="404667" />
+</Book>
+<Book Series="Red Lanterns" Number="20" Volume="2011" Year="2013">
+<Database Name="cv" Series="42804" Issue="404668" />
 </Book>
 <Book Series="Threshold" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="55801" Issue="380322" />
@@ -399,7 +516,7 @@
 <Book Series="Green Lantern: New Guardians" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="43007" Issue="417794" />
 </Book>
-<Book Series="Stormwatch" Number="0" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="355790" />
 </Book>
 <Book Series="Voodoo" Number="0" Volume="2011" Year="2012">
@@ -431,6 +548,60 @@
 </Book>
 <Book Series="Swamp Thing" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="42599" Issue="344557" />
+</Book>
+<Book Series="Animal Man" Number="12" Volume="2011" Year="2012">
+<Database Name="cv" Series="42600" Issue="348036" />
+</Book>
+<Book Series="Swamp Thing" Number="12" Volume="2011" Year="2012">
+<Database Name="cv" Series="42599" Issue="348038" />
+</Book>
+<Book Series="Animal Man" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42600" Issue="359832" />
+</Book>
+<Book Series="Animal Man" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42600" Issue="365736" />
+</Book>
+<Book Series="Animal Man" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42600" Issue="371152" />
+</Book>
+<Book Series="Animal Man" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42600" Issue="378855" />
+</Book>
+<Book Series="Swamp Thing" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42599" Issue="359831" />
+</Book>
+<Book Series="Swamp Thing Annual" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="53507" Issue="364091" />
+</Book>
+<Book Series="Swamp Thing" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42599" Issue="365735" />
+</Book>
+<Book Series="Swamp Thing" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42599" Issue="371150" />
+</Book>
+<Book Series="Swamp Thing" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42599" Issue="379184" />
+</Book>
+<Book Series="Frankenstein, Agent of S.H.A.D.E." Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42793" Issue="360798" />
+</Book>
+<Book Series="Frankenstein, Agent of S.H.A.D.E." Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42793" Issue="367679" />
+</Book>
+<Book Series="Frankenstein, Agent of S.H.A.D.E." Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42793" Issue="372343" />
+</Book>
+<Book Series="Animal Man" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42600" Issue="384917" />
+</Book>
+<Book Series="Swamp Thing" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42599" Issue="384919" />
+</Book>
+<Book Series="Animal Man" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42600" Issue="390711" />
+</Book>
+<Book Series="Swamp Thing" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42599" Issue="390402" />
 </Book>
 <Book Series="Detective Comics Annual" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="51613" Issue="354033" />
@@ -618,6 +789,27 @@
 <Book Series="The Flash Annual" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="51614" Issue="354037" />
 </Book>
+<Book Series="Aquaman" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="43022" Issue="370274" />
+</Book>
+<Book Series="Justice League" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42488" Issue="374663" />
+</Book>
+<Book Series="Aquaman" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="43022" Issue="374664" />
+</Book>
+<Book Series="Justice League" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42488" Issue="381380" />
+</Book>
+<Book Series="Aquaman" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="43022" Issue="382768" />
+</Book>
+<Book Series="Justice League" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42488" Issue="387208" />
+</Book>
+<Book Series="Aquaman" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="43022" Issue="388524" />
+</Book>
 <Book Series="The Flash" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="43018" Issue="363061" />
 </Book>
@@ -738,6 +930,48 @@
 <Book Series="Supergirl" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="42949" Issue="362167" />
 </Book>
+<Book Series="Superman" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42986" Issue="363060" />
+</Book>
+<Book Series="Superboy" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42685" Issue="368087" />
+</Book>
+<Book Series="Supergirl" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42949" Issue="369241" />
+</Book>
+<Book Series="Superman" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42986" Issue="370272" />
+</Book>
+<Book Series="Superboy" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42685" Issue="372349" />
+</Book>
+<Book Series="Supergirl" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42949" Issue="373272" />
+</Book>
+<Book Series="Superman" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42986" Issue="376602" />
+</Book>
+<Book Series="Superboy" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42685" Issue="380329" />
+</Book>
+<Book Series="Supergirl" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42949" Issue="381393" />
+</Book>
+<Book Series="Superboy Annual" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="56092" Issue="381388" />
+</Book>
+<Book Series="Superman" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42986" Issue="382928" />
+</Book>
+<Book Series="Superboy" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42685" Issue="386098" />
+</Book>
+<Book Series="Supergirl" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42949" Issue="387222" />
+</Book>
+<Book Series="Superman" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42986" Issue="390403" />
+</Book>
 <Book Series="Batman: The Dark Knight" Number="10" Volume="2011" Year="2012">
 <Database Name="cv" Series="42719" Issue="342857" />
 </Book>
@@ -839,6 +1073,93 @@
 </Book>
 <Book Series="Red Hood and the Outlaws" Number="14" Volume="2011" Year="2013">
 <Database Name="cv" Series="42919" Issue="369031" />
+</Book>
+<Book Series="Batgirl" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42604" Issue="360791" />
+</Book>
+<Book Series="Catwoman" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42722" Issue="362159" />
+</Book>
+<Book Series="Catwoman" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42722" Issue="369028" />
+</Book>
+<Book Series="Batman" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42721" Issue="360790" />
+</Book>
+<Book Series="Batman and Robin" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42692" Issue="360792" />
+</Book>
+<Book Series="Batman and Robin" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42692" Issue="367687" />
+</Book>
+<Book Series="Suicide Squad" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42803" Issue="367686" />
+</Book>
+<Book Series="Suicide Squad" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42803" Issue="372338" />
+</Book>
+<Book Series="Batman" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42721" Issue="367690" />
+</Book>
+<Book Series="Detective Comics" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42594" Issue="371149" />
+</Book>
+<Book Series="Batgirl" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42604" Issue="367688" />
+</Book>
+<Book Series="Nightwing" Number="14" Volume="2011" Year="2013">
+<Database Name="cv" Series="42720" Issue="369029" />
+</Book>
+<Book Series="Batgirl" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42604" Issue="372337" />
+</Book>
+<Book Series="Batgirl" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42604" Issue="380318" />
+</Book>
+<Book Series="Batman" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42721" Issue="372334" />
+</Book>
+<Book Series="Batman and Robin" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42692" Issue="372335" />
+</Book>
+<Book Series="Batman and Robin" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42692" Issue="380317" />
+</Book>
+<Book Series="Detective Comics" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42594" Issue="378851" />
+</Book>
+<Book Series="Detective Comics" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42594" Issue="384916" />
+</Book>
+<Book Series="Nightwing" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42720" Issue="373256" />
+</Book>
+<Book Series="Nightwing" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42720" Issue="381378" />
+</Book>
+<Book Series="Red Hood and the Outlaws" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="42919" Issue="373257" />
+</Book>
+<Book Series="Teen Titans" Number="15" Volume="2011" Year="2013">
+<Database Name="cv" Series="43004" Issue="376599" />
+</Book>
+<Book Series="Red Hood and the Outlaws" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42919" Issue="381379" />
+</Book>
+<Book Series="Teen Titans" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="43004" Issue="382734" />
+</Book>
+<Book Series="Batman" Number="16" Volume="2011" Year="2013">
+<Database Name="cv" Series="42721" Issue="380426" />
+</Book>
+<Book Series="Batman" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42721" Issue="386088" />
+</Book>
+<Book Series="Batman and Robin" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42692" Issue="386089" />
+</Book>
+<Book Series="Red Hood and the Outlaws" Number="17" Volume="2011" Year="2013">
+<Database Name="cv" Series="42919" Issue="387210" />
 </Book>
 <Book Series="Nightwing" Number="17" Volume="2011" Year="2013">
 <Database Name="cv" Series="42720" Issue="387209" />
@@ -1017,6 +1338,21 @@
 <Book Series="Batman and Robin Annual" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="56371" Issue="382765" />
 </Book>
+<Book Series="Green Lantern" Number="24" Volume="2011" Year="2013">
+<Database Name="cv" Series="42808" Issue="427654" />
+</Book>
+<Book Series="Green Lantern Corps" Number="24" Volume="2011" Year="2013">
+<Database Name="cv" Series="42916" Issue="428255" />
+</Book>
+<Book Series="Green Lantern: New Guardians" Number="24" Volume="2011" Year="2013">
+<Database Name="cv" Series="43007" Issue="428956" />
+</Book>
+<Book Series="Red Lanterns" Number="24" Volume="2011" Year="2013">
+<Database Name="cv" Series="42804" Issue="430715" />
+</Book>
+<Book Series="Green Lantern Annual" Number="2" Volume="2012" Year="2013">
+<Database Name="cv" Series="51615" Issue="431405" />
+</Book>
 <Book Series="Green Lantern" Number="25" Volume="2011" Year="2014">
 <Database Name="cv" Series="42808" Issue="432296" />
 </Book>
@@ -1085,6 +1421,33 @@
 </Book>
 <Book Series="Batman, Incorporated" Number="8" Volume="2012" Year="2013">
 <Database Name="cv" Series="49112" Issue="388521" />
+</Book>
+<Book Series="Detective Comics" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42594" Issue="390398" />
+</Book>
+<Book Series="Batman and Robin" Number="0" Volume="2011" Year="2012">
+<Database Name="cv" Series="42692" Issue="356720" />
+</Book>
+<Book Series="Batman" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42721" Issue="392308" />
+</Book>
+<Book Series="Batgirl" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42604" Issue="392310" />
+</Book>
+<Book Series="Catwoman" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42722" Issue="394652" />
+</Book>
+<Book Series="Nightwing" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42720" Issue="394646" />
+</Book>
+<Book Series="Red Hood and the Outlaws" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42919" Issue="394647" />
+</Book>
+<Book Series="Batman, Incorporated" Number="9" Volume="2012" Year="2013">
+<Database Name="cv" Series="49112" Issue="395237" />
+</Book>
+<Book Series="Teen Titans" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="43004" Issue="395307" />
 </Book>
 <Book Series="Worlds' Finest" Number="10" Volume="2012" Year="2013">
 <Database Name="cv" Series="48417" Issue="390405" />

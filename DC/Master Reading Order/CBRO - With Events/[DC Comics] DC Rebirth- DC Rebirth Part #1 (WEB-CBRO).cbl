@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Rebirth- DC Rebirth Part #1 (WEB-CBRO)</Name>
-<NumIssues>848</NumIssues>
+<NumIssues>880</NumIssues>
 <Books>
 <Book Series="DC Universe: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="90597" Issue="531155" />
@@ -317,6 +317,24 @@
 </Book>
 <Book Series="Detective Comics" Number="940" Volume="2016" Year="2016">
 <Database Name="cv" Series="91098" Issue="549486" />
+</Book>
+<Book Series="Batman" Number="7" Volume="2016" Year="2016">
+<Database Name="cv" Series="91273" Issue="550321" />
+</Book>
+<Book Series="Nightwing" Number="5" Volume="2016" Year="2016">
+<Database Name="cv" Series="92569" Issue="550332" />
+</Book>
+<Book Series="Detective Comics" Number="941" Volume="2016" Year="2016">
+<Database Name="cv" Series="91098" Issue="551272" />
+</Book>
+<Book Series="Batman" Number="8" Volume="2016" Year="2016">
+<Database Name="cv" Series="91273" Issue="552124" />
+</Book>
+<Book Series="Nightwing" Number="6" Volume="2016" Year="2016">
+<Database Name="cv" Series="92569" Issue="552143" />
+</Book>
+<Book Series="Detective Comics" Number="942" Volume="2016" Year="2016">
+<Database Name="cv" Series="91098" Issue="552973" />
 </Book>
 <Book Series="Teen Titans" Number="24" Volume="2014" Year="2016">
 <Database Name="cv" Series="75697" Issue="549501" />
@@ -819,6 +837,39 @@
 <Book Series="Suicide Squad" Number="7" Volume="2016" Year="2017">
 <Database Name="cv" Series="93205" Issue="562584" />
 </Book>
+<Book Series="Suicide Squad" Number="8" Volume="2016" Year="2017">
+<Database Name="cv" Series="93205" Issue="566692" />
+</Book>
+<Book Series="Justice League" Number="12" Volume="2016" Year="2017">
+<Database Name="cv" Series="92373" Issue="574847" />
+</Book>
+<Book Series="Justice League vs. Suicide Squad" Number="1" Volume="2016" Year="2017">
+<Database Name="cv" Series="97053" Issue="569308" />
+</Book>
+<Book Series="Justice League vs. Suicide Squad" Number="2" Volume="2016" Year="2017">
+<Database Name="cv" Series="97053" Issue="571641" />
+</Book>
+<Book Series="Justice League vs. Suicide Squad" Number="3" Volume="2016" Year="2017">
+<Database Name="cv" Series="97053" Issue="574849" />
+</Book>
+<Book Series="Justice League vs. Suicide Squad" Number="4" Volume="2016" Year="2017">
+<Database Name="cv" Series="97053" Issue="575842" />
+</Book>
+<Book Series="Suicide Squad" Number="9" Volume="2016" Year="2017">
+<Database Name="cv" Series="93205" Issue="575847" />
+</Book>
+<Book Series="Justice League vs. Suicide Squad" Number="5" Volume="2016" Year="2017">
+<Database Name="cv" Series="97053" Issue="576598" />
+</Book>
+<Book Series="Justice League" Number="13" Volume="2016" Year="2017">
+<Database Name="cv" Series="92373" Issue="576595" />
+</Book>
+<Book Series="Justice League vs. Suicide Squad" Number="6" Volume="2016" Year="2017">
+<Database Name="cv" Series="97053" Issue="578434" />
+</Book>
+<Book Series="Suicide Squad" Number="10" Volume="2016" Year="2017">
+<Database Name="cv" Series="93205" Issue="578442" />
+</Book>
 <Book Series="Justice League of America: The Atom Rebirth" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="97756" Issue="574848" />
 </Book>
@@ -1136,6 +1187,36 @@
 </Book>
 <Book Series="Supergirl" Number="7" Volume="2016" Year="2017">
 <Database Name="cv" Series="93948" Issue="585070" />
+</Book>
+<Book Series="Superman" Number="18" Volume="2016" Year="2017">
+<Database Name="cv" Series="91298" Issue="583707" />
+</Book>
+<Book Series="Action Comics" Number="975" Volume="2016" Year="2017">
+<Database Name="cv" Series="91078" Issue="585052" />
+</Book>
+<Book Series="Superwoman" Number="8" Volume="2016" Year="2017">
+<Database Name="cv" Series="92976" Issue="585071" />
+</Book>
+<Book Series="Superman" Number="19" Volume="2016" Year="2017">
+<Database Name="cv" Series="91298" Issue="587394" />
+</Book>
+<Book Series="Action Comics" Number="976" Volume="2016" Year="2017">
+<Database Name="cv" Series="91078" Issue="588526" />
+</Book>
+<Book Series="Supergirl" Number="8" Volume="2016" Year="2017">
+<Database Name="cv" Series="93948" Issue="591738" />
+</Book>
+<Book Series="Superwoman" Number="9" Volume="2016" Year="2017">
+<Database Name="cv" Series="92976" Issue="592583" />
+</Book>
+<Book Series="Trinity" Number="8" Volume="2016" Year="2017">
+<Database Name="cv" Series="94296" Issue="592584" />
+</Book>
+<Book Series="Action Comics" Number="977" Volume="2016" Year="2017">
+<Database Name="cv" Series="91078" Issue="591716" />
+</Book>
+<Book Series="Action Comics" Number="978" Volume="2016" Year="2017">
+<Database Name="cv" Series="91078" Issue="593218" />
 </Book>
 <Book Series="New Super-Man" Number="9" Volume="2016" Year="2017">
 <Database Name="cv" Series="92192" Issue="585066" />
@@ -1595,6 +1676,21 @@
 </Book>
 <Book Series="Hal Jordan and the Green Lantern Corps" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="597166" />
+</Book>
+<Book Series="Titans" Number="11" Volume="2016" Year="2017">
+<Database Name="cv" Series="92577" Issue="594950" />
+</Book>
+<Book Series="Teen Titans" Number="8" Volume="2016" Year="2017">
+<Database Name="cv" Series="95242" Issue="595678" />
+</Book>
+<Book Series="Deathstroke" Number="19" Volume="2016" Year="2017">
+<Database Name="cv" Series="93375" Issue="597164" />
+</Book>
+<Book Series="Teen Titans: The Lazarus Contract Special" Number="1" Volume="2017" Year="2017">
+<Database Name="cv" Series="101795" Issue="598362" />
+</Book>
+<Book Series="Deathstroke" Number="20" Volume="2016" Year="2017">
+<Database Name="cv" Series="93375" Issue="599835" />
 </Book>
 <Book Series="Wonder Woman Annual" Number="1" Volume="2016" Year="2017">
 <Database Name="cv" Series="101798" Issue="598364" />

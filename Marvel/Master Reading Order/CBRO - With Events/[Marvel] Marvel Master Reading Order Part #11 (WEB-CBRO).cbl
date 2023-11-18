@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #11 (WEB-CBRO)</Name>
-<NumIssues>657</NumIssues>
+<NumIssues>820</NumIssues>
 <Books>
 <Book Series="House of X" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120309" Issue="714236" />
@@ -534,6 +534,24 @@
 <Book Series="Valkyrie: Jane Foster" Number="5" Volume="2019" Year="2020">
 <Database Name="cv" Series="120331" Issue="728982" />
 </Book>
+<Book Series="Annihilation - Scourge Alpha" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="122986" Issue="728414" />
+</Book>
+<Book Series="Annihilation - Scourge: Nova" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123264" Issue="729674" />
+</Book>
+<Book Series="Annihilation - Scourge: Fantastic Four" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123263" Issue="729673" />
+</Book>
+<Book Series="Annihilation - Scourge: Beta Ray Bill" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123407" Issue="730327" />
+</Book>
+<Book Series="Annihilation - Scourge: Silver Surfer" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123408" Issue="730328" />
+</Book>
+<Book Series="Annihilation - Scourge Omega" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123709" Issue="731504" />
+</Book>
 <Book Series="Ghost Rider" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121736" Issue="721153" />
 </Book>
@@ -590,6 +608,48 @@
 </Book>
 <Book Series="The Amazing Spider-Man" Number="31" Volume="2018" Year="2019">
 <Database Name="cv" Series="112161" Issue="721778" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="32" Volume="2018" Year="2019">
+<Database Name="cv" Series="112161" Issue="723850" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="33" Volume="2018" Year="2020">
+<Database Name="cv" Series="112161" Issue="726200" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="34" Volume="2018" Year="2020">
+<Database Name="cv" Series="112161" Issue="728413" />
+</Book>
+<Book Series="2099 Alpha" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="122984" Issue="728408" />
+</Book>
+<Book Series="Conan 2099" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123122" Issue="728971" />
+</Book>
+<Book Series="Doom 2099" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123409" Issue="730332" />
+</Book>
+<Book Series="Fantastic Four 2099" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="122988" Issue="728421" />
+</Book>
+<Book Series="Ghost Rider 2099" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123266" Issue="729680" />
+</Book>
+<Book Series="The Punisher 2099" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123124" Issue="728978" />
+</Book>
+<Book Series="Venom 2099" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123276" Issue="729690" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="35" Volume="2018" Year="2020">
+<Database Name="cv" Series="112161" Issue="729672" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="36" Volume="2018" Year="2020">
+<Database Name="cv" Series="112161" Issue="731503" />
+</Book>
+<Book Series="Spider-Man 2099" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123411" Issue="730344" />
+</Book>
+<Book Series="2099 Omega" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123691" Issue="731422" />
 </Book>
 <Book Series="Miles Morales: Spider-Man" Number="7" Volume="2019" Year="2019">
 <Database Name="cv" Series="115897" Issue="711951" />
@@ -785,6 +845,60 @@
 </Book>
 <Book Series="Venom" Number="25" Volume="2018" Year="2020">
 <Database Name="cv" Series="110770" Issue="763575" />
+</Book>
+<Book Series="Iron Man 2020" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="124276" Issue="733822" />
+</Book>
+<Book Series="Iron Man 2020" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="124276" Issue="737160" />
+</Book>
+<Book Series="2020 Machine Man" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="125119" Issue="737747" />
+</Book>
+<Book Series="2020 Force Works" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="125299" Issue="738602" />
+</Book>
+<Book Series="Iron Man 2020" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="124276" Issue="739559" />
+</Book>
+<Book Series="2020 Machine Man" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="125119" Issue="742360" />
+</Book>
+<Book Series="2020 Force Works" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="125299" Issue="743434" />
+</Book>
+<Book Series="2020 Iron Age" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="125809" Issue="742359" />
+</Book>
+<Book Series="2020 Rescue" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="125474" Issue="739550" />
+</Book>
+<Book Series="2020 Ironheart" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="127179" Issue="762409" />
+</Book>
+<Book Series="Iron Man 2020" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="124276" Issue="769753" />
+</Book>
+<Book Series="2020 Force Works" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="125299" Issue="766403" />
+</Book>
+<Book Series="2020 Rescue" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="125474" Issue="769749" />
+</Book>
+<Book Series="2020 Ironheart" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="127179" Issue="768542" />
+</Book>
+<Book Series="2020 iWolverine" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128614" Issue="779000" />
+</Book>
+<Book Series="Iron Man 2020" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="124276" Issue="784411" />
+</Book>
+<Book Series="2020 iWolverine" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128614" Issue="796291" />
+</Book>
+<Book Series="Iron Man 2020" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="124276" Issue="796299" />
 </Book>
 <Book Series="Valkyrie: Jane Foster" Number="8" Volume="2019" Year="2020">
 <Database Name="cv" Series="120331" Issue="737764" />
@@ -1476,6 +1590,120 @@
 <Book Series="Guardians of the Galaxy" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="124447" Issue="787353" />
 </Book>
+<Book Series="Empyre: Avengers" Number="0" Volume="2020" Year="2020">
+<Database Name="cv" Series="128103" Issue="769751" />
+</Book>
+<Book Series="Empyre: Fantastic Four" Number="0" Volume="2020" Year="2020">
+<Database Name="cv" Series="128447" Issue="775009" />
+</Book>
+<Book Series="Lords of Empyre: Emperor Hulkling" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128881" Issue="781435" />
+</Book>
+<Book Series="Empyre" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="779005" />
+</Book>
+<Book Series="Empyre" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="781431" />
+</Book>
+<Book Series="Fantastic Four" Number="21" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="779006" />
+</Book>
+<Book Series="Fantastic Four" Number="22" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="787351" />
+</Book>
+<Book Series="Lords of Empyre: Swordsman" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129649" Issue="794937" />
+</Book>
+<Book Series="Lords of Empyre: Celestial Messiah" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129246" Issue="787354" />
+</Book>
+<Book Series="Captain Marvel" Number="18" Volume="2019" Year="2020">
+<Database Name="cv" Series="116365" Issue="784407" />
+</Book>
+<Book Series="Captain Marvel" Number="19" Volume="2019" Year="2020">
+<Database Name="cv" Series="116365" Issue="791921" />
+</Book>
+<Book Series="Captain Marvel" Number="20" Volume="2019" Year="2020">
+<Database Name="cv" Series="116365" Issue="794933" />
+</Book>
+<Book Series="Empyre" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="784408" />
+</Book>
+<Book Series="X-Men" Number="10" Volume="2019" Year="2020">
+<Database Name="cv" Series="122077" Issue="784126" />
+</Book>
+<Book Series="Empyre: Savage Avengers" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129095" Issue="784410" />
+</Book>
+<Book Series="Empyre: Avengers" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128103" Issue="781432" />
+</Book>
+<Book Series="Empyre: Captain America" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129094" Issue="784409" />
+</Book>
+<Book Series="Empyre: X-Men" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="781433" />
+</Book>
+<Book Series="Empyre: X-Men" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="787350" />
+</Book>
+<Book Series="Empyre: X-Men" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="791925" />
+</Book>
+<Book Series="Empyre: X-Men" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="794935" />
+</Book>
+<Book Series="Empyre: Captain America" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="129094" Issue="791924" />
+</Book>
+<Book Series="Empyre" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="787348" />
+</Book>
+<Book Series="Empyre" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="791922" />
+</Book>
+<Book Series="Empyre: Captain America" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="129094" Issue="796296" />
+</Book>
+<Book Series="Empyre: Avengers" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128103" Issue="791923" />
+</Book>
+<Book Series="Empyre: Avengers" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="128103" Issue="796295" />
+</Book>
+<Book Series="Empyre" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="797241" />
+</Book>
+<Book Series="Fantastic Four" Number="23" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="797242" />
+</Book>
+<Book Series="X-Men" Number="11" Volume="2019" Year="2020">
+<Database Name="cv" Series="122077" Issue="796303" />
+</Book>
+<Book Series="Captain Marvel" Number="21" Volume="2019" Year="2020">
+<Database Name="cv" Series="116365" Issue="797979" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="797243" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="7" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="813282" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="8" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="816467" />
+</Book>
+<Book Series="Empyre: Aftermath Avengers" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130186" Issue="797980" />
+</Book>
+<Book Series="Empyre: Fallout Fantastic Four" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130187" Issue="797981" />
+</Book>
+<Book Series="Immortal She-Hulk" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130567" Issue="803644" />
+</Book>
+<Book Series="Web of Venom: Empyre's End" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="131733" Issue="816471" />
+</Book>
 <Book Series="Giant-Size X-Men: Fantomex" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="129245" Issue="787352" />
 </Book>
@@ -1520,6 +1748,72 @@
 </Book>
 <Book Series="X-Men" Number="12" Volume="2019" Year="2020">
 <Database Name="cv" Series="122077" Issue="799956" />
+</Book>
+<Book Series="X of Swords: Creation" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130569" Issue="803652" />
+</Book>
+<Book Series="X-Factor" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="129097" Issue="805100" />
+</Book>
+<Book Series="Wolverine" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="125121" Issue="807579" />
+</Book>
+<Book Series="X-Force" Number="13" Volume="2019" Year="2020">
+<Database Name="cv" Series="122668" Issue="807580" />
+</Book>
+<Book Series="Marauders" Number="13" Volume="2019" Year="2020">
+<Database Name="cv" Series="122218" Issue="807571" />
+</Book>
+<Book Series="Hellions" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="126015" Issue="810727" />
+</Book>
+<Book Series="New Mutants" Number="13" Volume="2019" Year="2020">
+<Database Name="cv" Series="122666" Issue="810730" />
+</Book>
+<Book Series="Cable" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="125678" Issue="810724" />
+</Book>
+<Book Series="Excalibur" Number="13" Volume="2019" Year="2020">
+<Database Name="cv" Series="122488" Issue="813279" />
+</Book>
+<Book Series="X-Men" Number="13" Volume="2019" Year="2020">
+<Database Name="cv" Series="122077" Issue="813291" />
+</Book>
+<Book Series="X of Swords: Stasis" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="131525" Issue="814483" />
+</Book>
+<Book Series="X-Men" Number="14" Volume="2019" Year="2021">
+<Database Name="cv" Series="122077" Issue="816456" />
+</Book>
+<Book Series="Marauders" Number="14" Volume="2019" Year="2021">
+<Database Name="cv" Series="122218" Issue="816455" />
+</Book>
+<Book Series="Marauders" Number="15" Volume="2019" Year="2021">
+<Database Name="cv" Series="122218" Issue="817705" />
+</Book>
+<Book Series="Excalibur" Number="14" Volume="2019" Year="2021">
+<Database Name="cv" Series="122488" Issue="817704" />
+</Book>
+<Book Series="Wolverine" Number="7" Volume="2020" Year="2021">
+<Database Name="cv" Series="125121" Issue="817706" />
+</Book>
+<Book Series="X-Force" Number="14" Volume="2019" Year="2021">
+<Database Name="cv" Series="122668" Issue="819097" />
+</Book>
+<Book Series="Hellions" Number="6" Volume="2020" Year="2021">
+<Database Name="cv" Series="126015" Issue="819096" />
+</Book>
+<Book Series="Cable" Number="6" Volume="2020" Year="2021">
+<Database Name="cv" Series="125678" Issue="819095" />
+</Book>
+<Book Series="X-Men" Number="15" Volume="2019" Year="2021">
+<Database Name="cv" Series="122077" Issue="819479" />
+</Book>
+<Book Series="Excalibur" Number="15" Volume="2019" Year="2021">
+<Database Name="cv" Series="122488" Issue="819478" />
+</Book>
+<Book Series="X of Swords: Destruction" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132228" Issue="819480" />
 </Book>
 <Book Series="Thor" Number="7" Volume="2020" Year="2020">
 <Database Name="cv" Series="123862" Issue="799955" />
@@ -1973,6 +2267,201 @@
 </Book>
 <Book Series="S.W.O.R.D." Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132511" Issue="820748" />
+</Book>
+<Book Series="Symbiote Spider-Man: King In Black" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132130" Issue="819124" />
+</Book>
+<Book Series="Symbiote Spider-Man: King In Black" Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132130" Issue="821501" />
+</Book>
+<Book Series="Symbiote Spider-Man: King In Black" Number="3" Volume="2020" Year="2021">
+<Database Name="cv" Series="132130" Issue="824033" />
+</Book>
+<Book Series="Symbiote Spider-Man: King In Black" Number="4" Volume="2020" Year="2021">
+<Database Name="cv" Series="132130" Issue="830032" />
+</Book>
+<Book Series="Symbiote Spider-Man: King In Black" Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="132130" Issue="840958" />
+</Book>
+<Book Series="King In Black: Namor" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132510" Issue="820746" />
+</Book>
+<Book Series="King In Black: Namor" Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132510" Issue="823346" />
+</Book>
+<Book Series="King In Black: Namor" Number="3" Volume="2020" Year="2021">
+<Database Name="cv" Series="132510" Issue="826558" />
+</Book>
+<Book Series="King In Black: Namor" Number="4" Volume="2020" Year="2021">
+<Database Name="cv" Series="132510" Issue="830026" />
+</Book>
+<Book Series="Atlantis Attacks" Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="124446" Issue="820017" />
+</Book>
+<Book Series="King In Black: Wiccan and Hulking" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="134223" Issue="832867" />
+</Book>
+<Book Series="King In Black" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="820024" />
+</Book>
+<Book Series="The Union" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132378" Issue="820029" />
+</Book>
+<Book Series="The Union" Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132378" Issue="824454" />
+</Book>
+<Book Series="Black Cat" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132631" Issue="821491" />
+</Book>
+<Book Series="Spider-Woman" Number="7" Volume="2020" Year="2021">
+<Database Name="cv" Series="125812" Issue="822352" />
+</Book>
+<Book Series="Spider-Woman" Number="8" Volume="2020" Year="2021">
+<Database Name="cv" Series="125812" Issue="824032" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="10" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="824025" />
+</Book>
+<Book Series="King In Black: Ghost Rider" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="135003" Issue="840954" />
+</Book>
+<Book Series="King In Black: Black Knight" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133609" Issue="827524" />
+</Book>
+<Book Series="King In Black: Black Panther" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133724" Issue="828193" />
+</Book>
+<Book Series="Venom" Number="31" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="820751" />
+</Book>
+<Book Series="King In Black" Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="822349" />
+</Book>
+<Book Series="Venom" Number="32" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="824035" />
+</Book>
+<Book Series="King In Black: Iron Man/Doom" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132913" Issue="823345" />
+</Book>
+<Book Series="King In Black: Return of the Valkyries" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133081" Issue="824029" />
+</Book>
+<Book Series="King In Black: Planet of the Symbiotes" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133196" Issue="824450" />
+</Book>
+<Book Series="King In Black: Planet of the Symbiotes" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133196" Issue="828858" />
+</Book>
+<Book Series="King In Black: Thunderbolts" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133197" Issue="824451" />
+</Book>
+<Book Series="King In Black: Thunderbolts" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133197" Issue="828194" />
+</Book>
+<Book Series="King In Black: Thunderbolts" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="133197" Issue="832866" />
+</Book>
+<Book Series="King In Black: Gwenom vs. Carnage" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133195" Issue="824449" />
+</Book>
+<Book Series="King In Black: Gwenom vs. Carnage" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133195" Issue="827525" />
+</Book>
+<Book Series="King In Black: Gwenom vs. Carnage" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="133195" Issue="832864" />
+</Book>
+<Book Series="King In Black: Immortal Hulk" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132632" Issue="821497" />
+</Book>
+<Book Series="S.W.O.R.D." Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132511" Issue="824453" />
+</Book>
+<Book Series="S.W.O.R.D." Number="3" Volume="2020" Year="2021">
+<Database Name="cv" Series="132511" Issue="828197" />
+</Book>
+<Book Series="King In Black" Number="3" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="825507" />
+</Book>
+<Book Series="Daredevil" Number="26" Volume="2019" Year="2021">
+<Database Name="cv" Series="116964" Issue="826554" />
+</Book>
+<Book Series="Daredevil" Number="27" Volume="2019" Year="2021">
+<Database Name="cv" Series="116964" Issue="828189" />
+</Book>
+<Book Series="Deadpool" Number="10" Volume="2019" Year="2021">
+<Database Name="cv" Series="122987" Issue="826555" />
+</Book>
+<Book Series="King In Black: Marauders" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="133610" Issue="827526" />
+</Book>
+<Book Series="Savage Avengers" Number="17" Volume="2019" Year="2021">
+<Database Name="cv" Series="118663" Issue="826561" />
+</Book>
+<Book Series="Savage Avengers" Number="18" Volume="2019" Year="2021">
+<Database Name="cv" Series="118663" Issue="828863" />
+</Book>
+<Book Series="Savage Avengers" Number="19" Volume="2019" Year="2021">
+<Database Name="cv" Series="118663" Issue="839798" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="23" Volume="2019" Year="2021">
+<Database Name="cv" Series="115897" Issue="828862" />
+</Book>
+<Book Series="King In Black: Return of the Valkyries" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="133081" Issue="827527" />
+</Book>
+<Book Series="King In Black: Return of the Valkyries" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="133081" Issue="830027" />
+</Book>
+<Book Series="King In Black: Return of the Valkyries" Number="4" Volume="2021" Year="2021">
+<Database Name="cv" Series="133081" Issue="840956" />
+</Book>
+<Book Series="Black Cat" Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132631" Issue="825504" />
+</Book>
+<Book Series="Black Cat" Number="3" Volume="2020" Year="2021">
+<Database Name="cv" Series="132631" Issue="830022" />
+</Book>
+<Book Series="Venom" Number="33" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="827531" />
+</Book>
+<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="828857" />
+</Book>
+<Book Series="Fantastic Four" Number="29" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="828192" />
+</Book>
+<Book Series="King In Black: Captain America" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="134221" Issue="832863" />
+</Book>
+<Book Series="King In Black: Scream" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="134781" Issue="839795" />
+</Book>
+<Book Series="King In Black: Spider-Man" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="134620" Issue="838866" />
+</Book>
+<Book Series="S.W.O.R.D." Number="4" Volume="2020" Year="2021">
+<Database Name="cv" Series="132511" Issue="838885" />
+</Book>
+<Book Series="Fantastic Four" Number="30" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="842960" />
+</Book>
+<Book Series="Venom" Number="34" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="842208" />
+</Book>
+<Book Series="Avengers" Number="45" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="844966" />
+</Book>
+<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="842204" />
+</Book>
+<Book Series="King In Black: Namor" Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="132510" Issue="842964" />
+</Book>
+<Book Series="King In Black: Planet of the Symbiotes" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="133196" Issue="842205" />
+</Book>
+<Book Series="Venom" Number="35" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="861680" />
 </Book>
 </Books>
 <Matchers />

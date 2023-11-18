@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #01 (WEB-CBRO)</Name>
-<NumIssues>616</NumIssues>
+<NumIssues>745</NumIssues>
 <Books>
 <Book Series="Action Comics" Number="1" Volume="1938" Year="1938">
 <Database Name="cv" Series="18005" Issue="105403" />
@@ -171,51 +171,6 @@
 <Book Series="Superman" Number="143" Volume="1939" Year="1961">
 <Database Name="cv" Series="773" Issue="5189" />
 </Book>
-<Book Series="Adventure Comics" Number="285" Volume="1938" Year="1961">
-<Database Name="cv" Series="3105" Issue="126392" />
-</Book>
-<Book Series="Adventure Comics" Number="286" Volume="1938" Year="1961">
-<Database Name="cv" Series="3105" Issue="126396" />
-</Book>
-<Book Series="Adventure Comics" Number="287" Volume="1938" Year="1961">
-<Database Name="cv" Series="3105" Issue="126393" />
-</Book>
-<Book Series="Adventure Comics" Number="288" Volume="1938" Year="1961">
-<Database Name="cv" Series="3105" Issue="126394" />
-</Book>
-<Book Series="Adventure Comics" Number="289" Volume="1938" Year="1961">
-<Database Name="cv" Series="3105" Issue="126395" />
-</Book>
-<Book Series="Adventure Comics" Number="290" Volume="1938" Year="1961">
-<Database Name="cv" Series="3105" Issue="114606" />
-</Book>
-<Book Series="Adventure Comics" Number="291" Volume="1938" Year="1961">
-<Database Name="cv" Series="3105" Issue="126231" />
-</Book>
-<Book Series="Adventure Comics" Number="292" Volume="1938" Year="1962">
-<Database Name="cv" Series="3105" Issue="126232" />
-</Book>
-<Book Series="Adventure Comics" Number="293" Volume="1938" Year="1962">
-<Database Name="cv" Series="3105" Issue="109847" />
-</Book>
-<Book Series="Adventure Comics" Number="294" Volume="1938" Year="1962">
-<Database Name="cv" Series="3105" Issue="125655" />
-</Book>
-<Book Series="Adventure Comics" Number="295" Volume="1938" Year="1962">
-<Database Name="cv" Series="3105" Issue="125656" />
-</Book>
-<Book Series="Adventure Comics" Number="296" Volume="1938" Year="1962">
-<Database Name="cv" Series="3105" Issue="125657" />
-</Book>
-<Book Series="Adventure Comics" Number="297" Volume="1938" Year="1962">
-<Database Name="cv" Series="3105" Issue="125658" />
-</Book>
-<Book Series="Adventure Comics" Number="298" Volume="1938" Year="1962">
-<Database Name="cv" Series="3105" Issue="125661" />
-</Book>
-<Book Series="Adventure Comics" Number="299" Volume="1938" Year="1962">
-<Database Name="cv" Series="3105" Issue="125659" />
-</Book>
 <Book Series="Superman" Number="147" Volume="1939" Year="1961">
 <Database Name="cv" Series="773" Issue="5415" />
 </Book>
@@ -341,6 +296,24 @@
 </Book>
 <Book Series="The Flash" Number="148" Volume="1959" Year="1964">
 <Database Name="cv" Series="1995" Issue="7397" />
+</Book>
+<Book Series="Hawkman" Number="4" Volume="1993" Year="1993">
+<Database Name="cv" Series="4962" Issue="38198" />
+</Book>
+<Book Series="Detective Comics" Number="336" Volume="1937" Year="1965">
+<Database Name="cv" Series="18058" Issue="112545" />
+</Book>
+<Book Series="The Atom" Number="19" Volume="1962" Year="1965">
+<Database Name="cv" Series="2051" Issue="7805" />
+</Book>
+<Book Series="Green Lantern" Number="42" Volume="1960" Year="1966">
+<Database Name="cv" Series="2839" Issue="8284" />
+</Book>
+<Book Series="Detective Comics" Number="355" Volume="1937" Year="1966">
+<Database Name="cv" Series="18058" Issue="112605" />
+</Book>
+<Book Series="Justice League of America" Number="51" Volume="1960" Year="1967">
+<Database Name="cv" Series="2014" Issue="9131" />
 </Book>
 <Book Series="Metal Men" Number="6" Volume="1963" Year="1964">
 <Database Name="cv" Series="2113" Issue="6966" />
@@ -942,6 +915,174 @@
 <Book Series="Batman" Number="251" Volume="1940" Year="1973">
 <Database Name="cv" Series="796" Issue="13531" />
 </Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="133" Volume="1954" Year="1970">
+<Database Name="cv" Series="19172" Issue="131243" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="134" Volume="1954" Year="1970">
+<Database Name="cv" Series="19172" Issue="115210" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="135" Volume="1954" Year="1971">
+<Database Name="cv" Series="19172" Issue="131289" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="136" Volume="1954" Year="1971">
+<Database Name="cv" Series="19172" Issue="131333" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="137" Volume="1954" Year="1971">
+<Database Name="cv" Series="19172" Issue="131416" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="138" Volume="1954" Year="1971">
+<Database Name="cv" Series="19172" Issue="131449" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="139" Volume="1954" Year="1971">
+<Database Name="cv" Series="19172" Issue="131500" />
+</Book>
+<Book Series="The Forever People" Number="1" Volume="1971" Year="1971">
+<Database Name="cv" Series="2501" Issue="11255" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="141" Volume="1954" Year="1971">
+<Database Name="cv" Series="19172" Issue="131616" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="142" Volume="1954" Year="1971">
+<Database Name="cv" Series="19172" Issue="131679" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="144" Volume="1954" Year="1971">
+<Database Name="cv" Series="19172" Issue="131744" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="145" Volume="1954" Year="1972">
+<Database Name="cv" Series="19172" Issue="131775" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="146" Volume="1954" Year="1972">
+<Database Name="cv" Series="19172" Issue="131823" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="147" Volume="1954" Year="1972">
+<Database Name="cv" Series="19172" Issue="131913" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen" Number="148" Volume="1954" Year="1972">
+<Database Name="cv" Series="19172" Issue="131941" />
+</Book>
+<Book Series="The Forever People" Number="2" Volume="1971" Year="1971">
+<Database Name="cv" Series="2501" Issue="11355" />
+</Book>
+<Book Series="The Forever People" Number="3" Volume="1971" Year="1971">
+<Database Name="cv" Series="2501" Issue="11466" />
+</Book>
+<Book Series="The Forever People" Number="4" Volume="1971" Year="1971">
+<Database Name="cv" Series="2501" Issue="11578" />
+</Book>
+<Book Series="The Forever People" Number="5" Volume="1971" Year="1971">
+<Database Name="cv" Series="2501" Issue="11696" />
+</Book>
+<Book Series="The Forever People" Number="6" Volume="1971" Year="1972">
+<Database Name="cv" Series="2501" Issue="11821" />
+</Book>
+<Book Series="The Forever People" Number="7" Volume="1971" Year="1972">
+<Database Name="cv" Series="2501" Issue="11967" />
+</Book>
+<Book Series="The Forever People" Number="8" Volume="1971" Year="1972">
+<Database Name="cv" Series="2501" Issue="12094" />
+</Book>
+<Book Series="The New Gods" Number="1" Volume="1971" Year="1971">
+<Database Name="cv" Series="2505" Issue="11260" />
+</Book>
+<Book Series="The New Gods" Number="2" Volume="1971" Year="1971">
+<Database Name="cv" Series="2505" Issue="11360" />
+</Book>
+<Book Series="The New Gods" Number="3" Volume="1971" Year="1971">
+<Database Name="cv" Series="2505" Issue="11473" />
+</Book>
+<Book Series="The New Gods" Number="4" Volume="1971" Year="1971">
+<Database Name="cv" Series="2505" Issue="11585" />
+</Book>
+<Book Series="The New Gods" Number="5" Volume="1971" Year="1971">
+<Database Name="cv" Series="2505" Issue="11704" />
+</Book>
+<Book Series="The New Gods" Number="6" Volume="1971" Year="1972">
+<Database Name="cv" Series="2505" Issue="11829" />
+</Book>
+<Book Series="Mister Miracle" Number="1" Volume="1971" Year="1971">
+<Database Name="cv" Series="2504" Issue="11359" />
+</Book>
+<Book Series="Mister Miracle" Number="2" Volume="1971" Year="1971">
+<Database Name="cv" Series="2504" Issue="11472" />
+</Book>
+<Book Series="Mister Miracle" Number="3" Volume="1971" Year="1971">
+<Database Name="cv" Series="2504" Issue="11584" />
+</Book>
+<Book Series="Mister Miracle" Number="4" Volume="1971" Year="1971">
+<Database Name="cv" Series="2504" Issue="11703" />
+</Book>
+<Book Series="Mister Miracle" Number="5" Volume="1971" Year="1971">
+<Database Name="cv" Series="2504" Issue="11828" />
+</Book>
+<Book Series="Mister Miracle" Number="6" Volume="1971" Year="1972">
+<Database Name="cv" Series="2504" Issue="11974" />
+</Book>
+<Book Series="The Forever People" Number="9" Volume="1971" Year="1972">
+<Database Name="cv" Series="2501" Issue="12239" />
+</Book>
+<Book Series="The Forever People" Number="10" Volume="1971" Year="1972">
+<Database Name="cv" Series="2501" Issue="12386" />
+</Book>
+<Book Series="The Forever People" Number="11" Volume="1971" Year="1972">
+<Database Name="cv" Series="2501" Issue="12442" />
+</Book>
+<Book Series="The New Gods" Number="7" Volume="1971" Year="1972">
+<Database Name="cv" Series="2505" Issue="11975" />
+</Book>
+<Book Series="The New Gods" Number="8" Volume="1971" Year="1972">
+<Database Name="cv" Series="2505" Issue="12101" />
+</Book>
+<Book Series="The New Gods" Number="9" Volume="1971" Year="1972">
+<Database Name="cv" Series="2505" Issue="12247" />
+</Book>
+<Book Series="The New Gods" Number="10" Volume="1971" Year="1972">
+<Database Name="cv" Series="2505" Issue="12395" />
+</Book>
+<Book Series="The New Gods" Number="11" Volume="1971" Year="1972">
+<Database Name="cv" Series="2505" Issue="12544" />
+</Book>
+<Book Series="Mister Miracle" Number="7" Volume="1971" Year="1972">
+<Database Name="cv" Series="2504" Issue="12100" />
+</Book>
+<Book Series="Mister Miracle" Number="8" Volume="1971" Year="1972">
+<Database Name="cv" Series="2504" Issue="12246" />
+</Book>
+<Book Series="Mister Miracle" Number="9" Volume="1971" Year="1972">
+<Database Name="cv" Series="2504" Issue="12394" />
+</Book>
+<Book Series="Mister Miracle" Number="10" Volume="1971" Year="1972">
+<Database Name="cv" Series="2504" Issue="12543" />
+</Book>
+<Book Series="Mister Miracle" Number="11" Volume="1971" Year="1972">
+<Database Name="cv" Series="2504" Issue="12715" />
+</Book>
+<Book Series="Mister Miracle" Number="12" Volume="1971" Year="1973">
+<Database Name="cv" Series="2504" Issue="12897" />
+</Book>
+<Book Series="Mister Miracle" Number="13" Volume="1971" Year="1973">
+<Database Name="cv" Series="2504" Issue="13080" />
+</Book>
+<Book Series="Mister Miracle" Number="14" Volume="1971" Year="1973">
+<Database Name="cv" Series="2504" Issue="13353" />
+</Book>
+<Book Series="Mister Miracle" Number="15" Volume="1971" Year="1973">
+<Database Name="cv" Series="2504" Issue="13543" />
+</Book>
+<Book Series="Mister Miracle" Number="16" Volume="1971" Year="1973">
+<Database Name="cv" Series="2504" Issue="13763" />
+</Book>
+<Book Series="Mister Miracle" Number="17" Volume="1971" Year="1974">
+<Database Name="cv" Series="2504" Issue="13956" />
+</Book>
+<Book Series="Mister Miracle" Number="18" Volume="1971" Year="1974">
+<Database Name="cv" Series="2504" Issue="14101" />
+</Book>
+<Book Series="New Gods" Number="6" Volume="1984" Year="1984">
+<Database Name="cv" Series="3314" Issue="24849" />
+</Book>
+<Book Series="DC Graphic Novel" Number="4" Volume="1983" Year="1985">
+<Database Name="cv" Series="3195" Issue="25088" />
+</Book>
 <Book Series="Detective Comics" Number="437" Volume="1937" Year="1973">
 <Database Name="cv" Series="18058" Issue="112711" />
 </Book>
@@ -1115,6 +1256,81 @@
 </Book>
 <Book Series="The Brave and the Bold" Number="136" Volume="1955" Year="1977">
 <Database Name="cv" Series="1683" Issue="17736" />
+</Book>
+<Book Series="Adventure Comics" Number="435" Volume="1938" Year="1974">
+<Database Name="cv" Series="3105" Issue="124869" />
+</Book>
+<Book Series="Adventure Comics" Number="436" Volume="1938" Year="1974">
+<Database Name="cv" Series="3105" Issue="124870" />
+</Book>
+<Book Series="Adventure Comics" Number="437" Volume="1938" Year="1975">
+<Database Name="cv" Series="3105" Issue="124871" />
+</Book>
+<Book Series="Adventure Comics" Number="441" Volume="1938" Year="1975">
+<Database Name="cv" Series="3105" Issue="124858" />
+</Book>
+<Book Series="Adventure Comics" Number="442" Volume="1938" Year="1975">
+<Database Name="cv" Series="3105" Issue="124859" />
+</Book>
+<Book Series="Adventure Comics" Number="443" Volume="1938" Year="1976">
+<Database Name="cv" Series="3105" Issue="124860" />
+</Book>
+<Book Series="Adventure Comics" Number="444" Volume="1938" Year="1976">
+<Database Name="cv" Series="3105" Issue="124861" />
+</Book>
+<Book Series="Adventure Comics" Number="445" Volume="1938" Year="1976">
+<Database Name="cv" Series="3105" Issue="124862" />
+</Book>
+<Book Series="Adventure Comics" Number="446" Volume="1938" Year="1976">
+<Database Name="cv" Series="3105" Issue="124863" />
+</Book>
+<Book Series="Adventure Comics" Number="447" Volume="1938" Year="1976">
+<Database Name="cv" Series="3105" Issue="124864" />
+</Book>
+<Book Series="Adventure Comics" Number="448" Volume="1938" Year="1976">
+<Database Name="cv" Series="3105" Issue="124865" />
+</Book>
+<Book Series="Adventure Comics" Number="449" Volume="1938" Year="1977">
+<Database Name="cv" Series="3105" Issue="124866" />
+</Book>
+<Book Series="Adventure Comics" Number="450" Volume="1938" Year="1977">
+<Database Name="cv" Series="3105" Issue="116126" />
+</Book>
+<Book Series="Adventure Comics" Number="451" Volume="1938" Year="1977">
+<Database Name="cv" Series="3105" Issue="124376" />
+</Book>
+<Book Series="Adventure Comics" Number="452" Volume="1938" Year="1977">
+<Database Name="cv" Series="3105" Issue="124377" />
+</Book>
+<Book Series="Aquaman" Number="57" Volume="1962" Year="1977">
+<Database Name="cv" Series="2050" Issue="137567" />
+</Book>
+<Book Series="Aquaman" Number="58" Volume="1962" Year="1977">
+<Database Name="cv" Series="2050" Issue="115329" />
+</Book>
+<Book Series="Aquaman" Number="59" Volume="1962" Year="1978">
+<Database Name="cv" Series="2050" Issue="137566" />
+</Book>
+<Book Series="Aquaman" Number="60" Volume="1962" Year="1978">
+<Database Name="cv" Series="2050" Issue="137562" />
+</Book>
+<Book Series="Aquaman" Number="61" Volume="1962" Year="1978">
+<Database Name="cv" Series="2050" Issue="137568" />
+</Book>
+<Book Series="Adventure Comics" Number="453" Volume="1938" Year="1977">
+<Database Name="cv" Series="3105" Issue="124383" />
+</Book>
+<Book Series="Adventure Comics" Number="454" Volume="1938" Year="1977">
+<Database Name="cv" Series="3105" Issue="124385" />
+</Book>
+<Book Series="Adventure Comics" Number="455" Volume="1938" Year="1978">
+<Database Name="cv" Series="3105" Issue="124386" />
+</Book>
+<Book Series="Aquaman" Number="62" Volume="1962" Year="1978">
+<Database Name="cv" Series="2050" Issue="137564" />
+</Book>
+<Book Series="Aquaman" Number="63" Volume="1962" Year="1978">
+<Database Name="cv" Series="2050" Issue="137565" />
 </Book>
 <Book Series="Showcase" Number="100" Volume="1956" Year="1978">
 <Database Name="cv" Series="1770" Issue="136201" />
@@ -1668,20 +1884,8 @@
 <Book Series="All-Star Squadron" Number="37" Volume="1981" Year="1984">
 <Database Name="cv" Series="3070" Issue="24647" />
 </Book>
-<Book Series="All New Collectors' Edition" Number="58" Volume="1978" Year="1978">
-<Database Name="cv" Series="21028" Issue="292496" />
-</Book>
-<Book Series="DC Comics Presents" Number="33" Volume="1978" Year="1981">
-<Database Name="cv" Series="2943" Issue="21208" />
-</Book>
-<Book Series="DC Comics Presents" Number="34" Volume="1978" Year="1981">
-<Database Name="cv" Series="2943" Issue="21267" />
-</Book>
-<Book Series="DC Comics Presents" Number="49" Volume="1978" Year="1982">
-<Database Name="cv" Series="2943" Issue="22414" />
-</Book>
-<Book Series="DC Comics Presents Annual" Number="3" Volume="1982" Year="1984">
-<Database Name="cv" Series="3114" Issue="23780" />
+<Book Series="Superman Vs. Shazam!" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="57993" Issue="388692" />
 </Book>
 <Book Series="Tales of the Teen Titans" Number="48" Volume="1984" Year="1984">
 <Database Name="cv" Series="3324" Issue="24859" />
@@ -1808,6 +2012,189 @@
 </Book>
 <Book Series="Batman" Number="400" Volume="1940" Year="1986">
 <Database Name="cv" Series="796" Issue="27222" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="1" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="25335" />
+</Book>
+<Book Series="All-Star Squadron" Number="50" Volume="1981" Year="1985">
+<Database Name="cv" Series="3070" Issue="25919" />
+</Book>
+<Book Series="All-Star Squadron" Number="51" Volume="1981" Year="1985">
+<Database Name="cv" Series="3070" Issue="26025" />
+</Book>
+<Book Series="All-Star Squadron" Number="52" Volume="1981" Year="1985">
+<Database Name="cv" Series="3070" Issue="26132" />
+</Book>
+<Book Series="The Fury of Firestorm" Number="41" Volume="1982" Year="1985">
+<Database Name="cv" Series="3115" Issue="26035" />
+</Book>
+<Book Series="Infinity, Inc." Number="18" Volume="1984" Year="1985">
+<Database Name="cv" Series="3308" Issue="25842" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="2" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="25441" />
+</Book>
+<Book Series="Green Lantern" Number="194" Volume="1960" Year="1985">
+<Database Name="cv" Series="2839" Issue="26037" />
+</Book>
+<Book Series="Infinity, Inc." Number="19" Volume="1984" Year="1985">
+<Database Name="cv" Series="3308" Issue="25933" />
+</Book>
+<Book Series="Justice League of America" Number="244" Volume="1960" Year="1985">
+<Database Name="cv" Series="2014" Issue="26040" />
+</Book>
+<Book Series="Infinity, Inc." Number="20" Volume="1984" Year="1985">
+<Database Name="cv" Series="3308" Issue="26039" />
+</Book>
+<Book Series="Batman" Number="389" Volume="1940" Year="1985">
+<Database Name="cv" Series="796" Issue="26028" />
+</Book>
+<Book Series="Detective Comics" Number="556" Volume="1937" Year="1985">
+<Database Name="cv" Series="18058" Issue="113011" />
+</Book>
+<Book Series="Batman" Number="390" Volume="1940" Year="1985">
+<Database Name="cv" Series="796" Issue="26134" />
+</Book>
+<Book Series="Detective Comics" Number="557" Volume="1937" Year="1985">
+<Database Name="cv" Series="18058" Issue="113012" />
+</Book>
+<Book Series="Batman" Number="391" Volume="1940" Year="1986">
+<Database Name="cv" Series="796" Issue="26343" />
+</Book>
+<Book Series="Detective Comics" Number="558" Volume="1937" Year="1986">
+<Database Name="cv" Series="18058" Issue="113013" />
+</Book>
+<Book Series="Vigilante" Number="22" Volume="1983" Year="1985">
+<Database Name="cv" Series="3208" Issue="25948" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="3" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="25532" />
+</Book>
+<Book Series="DC Comics Presents" Number="86" Volume="1978" Year="1985">
+<Database Name="cv" Series="2943" Issue="25927" />
+</Book>
+<Book Series="The Saga of Swamp Thing" Number="44" Volume="1982" Year="1986">
+<Database Name="cv" Series="38005" Issue="261303" />
+</Book>
+<Book Series="The Saga of Swamp Thing" Number="45" Volume="1982" Year="1986">
+<Database Name="cv" Series="38005" Issue="261304" />
+</Book>
+<Book Series="Wonder Woman" Number="328" Volume="1942" Year="1985">
+<Database Name="cv" Series="18525" Issue="109972" />
+</Book>
+<Book Series="Wonder Woman" Number="329" Volume="1942" Year="1986">
+<Database Name="cv" Series="18525" Issue="109973" />
+</Book>
+<Book Series="Infinity, Inc. Annual" Number="1" Volume="1985" Year="1985">
+<Database Name="cv" Series="3448" Issue="25053" />
+</Book>
+<Book Series="Infinity, Inc." Number="21" Volume="1984" Year="1985">
+<Database Name="cv" Series="3308" Issue="26144" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="4" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="25638" />
+</Book>
+<Book Series="Legends of the DC Universe: Crisis on Infinite Earths" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="25595" Issue="150946" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="5" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="25734" />
+</Book>
+<Book Series="All-Star Squadron" Number="53" Volume="1981" Year="1986">
+<Database Name="cv" Series="3070" Issue="26341" />
+</Book>
+<Book Series="All-Star Squadron" Number="54" Volume="1981" Year="1986">
+<Database Name="cv" Series="3070" Issue="26444" />
+</Book>
+<Book Series="All-Star Squadron" Number="55" Volume="1981" Year="1986">
+<Database Name="cv" Series="3070" Issue="26549" />
+</Book>
+<Book Series="All-Star Squadron" Number="56" Volume="1981" Year="1986">
+<Database Name="cv" Series="3070" Issue="26641" />
+</Book>
+<Book Series="Infinity, Inc." Number="22" Volume="1984" Year="1986">
+<Database Name="cv" Series="3308" Issue="26354" />
+</Book>
+<Book Series="Swamp Thing" Number="46" Volume="1986" Year="1986">
+<Database Name="cv" Series="3465" Issue="26575" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="6" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="25834" />
+</Book>
+<Book Series="Infinity, Inc." Number="23" Volume="1984" Year="1986">
+<Database Name="cv" Series="3308" Issue="26458" />
+</Book>
+<Book Series="Green Lantern" Number="195" Volume="1960" Year="1985">
+<Database Name="cv" Series="2839" Issue="26142" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="7" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="25926" />
+</Book>
+<Book Series="Infinity, Inc." Number="24" Volume="1984" Year="1986">
+<Database Name="cv" Series="3308" Issue="26564" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="16" Volume="1984" Year="1985">
+<Database Name="cv" Series="3310" Issue="26041" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="18" Volume="1984" Year="1986">
+<Database Name="cv" Series="3310" Issue="26356" />
+</Book>
+<Book Series="DC Comics Presents" Number="87" Volume="1978" Year="1985">
+<Database Name="cv" Series="2943" Issue="26033" />
+</Book>
+<Book Series="Superman" Number="414" Volume="1939" Year="1985">
+<Database Name="cv" Series="773" Issue="26154" />
+</Book>
+<Book Series="The Omega Men" Number="31" Volume="1983" Year="1985">
+<Database Name="cv" Series="3199" Issue="25939" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="8" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="26031" />
+</Book>
+<Book Series="Blue Devil" Number="18" Volume="1984" Year="1985">
+<Database Name="cv" Series="3307" Issue="26030" />
+</Book>
+<Book Series="DC Comics Presents" Number="88" Volume="1978" Year="1985">
+<Database Name="cv" Series="2943" Issue="26140" />
+</Book>
+<Book Series="Justice League of America Annual" Number="3" Volume="1983" Year="1985">
+<Database Name="cv" Series="23371" Issue="140268" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="9" Volume="1985" Year="1985">
+<Database Name="cv" Series="3441" Issue="26138" />
+</Book>
+<Book Series="Justice League of America" Number="245" Volume="1960" Year="1985">
+<Database Name="cv" Series="2014" Issue="26145" />
+</Book>
+<Book Series="The Fury of Firestorm" Number="42" Volume="1982" Year="1985">
+<Database Name="cv" Series="3115" Issue="26141" />
+</Book>
+<Book Series="The New Teen Titans" Number="13" Volume="1984" Year="1985">
+<Database Name="cv" Series="3316" Issue="25938" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="10" Volume="1985" Year="1986">
+<Database Name="cv" Series="3441" Issue="26347" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="11" Volume="1985" Year="1986">
+<Database Name="cv" Series="3441" Issue="26452" />
+</Book>
+<Book Series="Amethyst, Princess of Gemworld" Number="13" Volume="1985" Year="1986">
+<Database Name="cv" Series="3437" Issue="26445" />
+</Book>
+<Book Series="Green Lantern" Number="196" Volume="1960" Year="1986">
+<Database Name="cv" Series="2839" Issue="26352" />
+</Book>
+<Book Series="Green Lantern" Number="197" Volume="1960" Year="1986">
+<Database Name="cv" Series="2839" Issue="26456" />
+</Book>
+<Book Series="Crisis on Infinite Earths" Number="12" Volume="1985" Year="1986">
+<Database Name="cv" Series="3441" Issue="26556" />
+</Book>
+<Book Series="Green Lantern" Number="198" Volume="1960" Year="1986">
+<Database Name="cv" Series="2839" Issue="26562" />
+</Book>
+<Book Series="Superman" Number="415" Volume="1939" Year="1986">
+<Database Name="cv" Series="773" Issue="26366" />
 </Book>
 <Book Series="Swamp Thing" Number="47" Volume="1986" Year="1986">
 <Database Name="cv" Series="3465" Issue="26666" />

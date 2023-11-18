@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #13 (WEB-CBRO)</Name>
-<NumIssues>796</NumIssues>
+<NumIssues>873</NumIssues>
 <Books>
 <Book Series="Marvel's Voices: Legacy" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="134052" Issue="830030" />
@@ -792,6 +792,111 @@
 <Book Series="A.X.E.: Eve Of Judgment" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144026" Issue="935759" />
 </Book>
+<Book Series="A.X.E.: Judgment Day" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="937937" />
+</Book>
+<Book Series="X-Men: Red" Number="5" Volume="2022" Year="2022">
+<Database Name="cv" Series="142134" Issue="940222" />
+</Book>
+<Book Series="Immortal X-Men" Number="5" Volume="2022" Year="2022">
+<Database Name="cv" Series="142053" Issue="940226" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="941552" />
+</Book>
+<Book Series="A.X.E.: Death to the Mutants" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144577" Issue="942722" />
+</Book>
+<Book Series="X-Men" Number="13" Volume="2021" Year="2022">
+<Database Name="cv" Series="137402" Issue="942704" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="943804" />
+</Book>
+<Book Series="A.X.E.: Death to the Mutants" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="144577" Issue="946198" />
+</Book>
+<Book Series="X-Men" Number="14" Volume="2021" Year="2022">
+<Database Name="cv" Series="137402" Issue="944674" />
+</Book>
+<Book Series="Wolverine" Number="24" Volume="2020" Year="2022">
+<Database Name="cv" Series="125121" Issue="946208" />
+</Book>
+<Book Series="Wolverine" Number="25" Volume="2020" Year="2022">
+<Database Name="cv" Series="125121" Issue="950794" />
+</Book>
+<Book Series="X-Force" Number="31" Volume="2020" Year="2022">
+<Database Name="cv" Series="122668" Issue="944669" />
+</Book>
+<Book Series="X-Force" Number="32" Volume="2020" Year="2022">
+<Database Name="cv" Series="122668" Issue="950383" />
+</Book>
+<Book Series="X-Force" Number="33" Volume="2020" Year="2022">
+<Database Name="cv" Series="122668" Issue="951451" />
+</Book>
+<Book Series="Immortal X-Men" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="142053" Issue="946148" />
+</Book>
+<Book Series="X-Men: Red" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="142134" Issue="946725" />
+</Book>
+<Book Series="A.X.E.: Iron Fist" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145487" Issue="950486" />
+</Book>
+<Book Series="Avengers" Number="60" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="948104" />
+</Book>
+<Book Series="Fantastic Four" Number="47" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="948107" />
+</Book>
+<Book Series="Fantastic Four" Number="48" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="950375" />
+</Book>
+<Book Series="Amazing Spider-Man" Number="10" Volume="2021" Year="2021">
+<Database Name="cv" Series="152139" Issue="1000360" />
+</Book>
+<Book Series="Captain Marvel" Number="42" Volume="2019" Year="2022">
+<Database Name="cv" Series="116365" Issue="950790" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="4" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="946709" />
+</Book>
+<Book Series="X-Men: Red" Number="7" Volume="2022" Year="2022">
+<Database Name="cv" Series="142134" Issue="949645" />
+</Book>
+<Book Series="Legion of X" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="143115" Issue="950373" />
+</Book>
+<Book Series="Marauders" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="142135" Issue="946133" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="5" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="948102" />
+</Book>
+<Book Series="Immortal X-Men" Number="7" Volume="2022" Year="2022">
+<Database Name="cv" Series="142053" Issue="950483" />
+</Book>
+<Book Series="A.X.E.: Death to the Mutants" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="144577" Issue="950484" />
+</Book>
+<Book Series="A.X.E.: Starfox" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145362" Issue="949633" />
+</Book>
+<Book Series="A.X.E.: Avengers" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145299" Issue="949158" />
+</Book>
+<Book Series="A.X.E.: X-Men" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145363" Issue="949634" />
+</Book>
+<Book Series="A.X.E.: Eternals" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145486" Issue="950485" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="952304" />
+</Book>
+<Book Series="A.X.E.: Judgment Day Omega" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="145974" Issue="954292" />
+</Book>
 <Book Series="Immortal X-Men" Number="8" Volume="2022" Year="2023">
 <Database Name="cv" Series="142053" Issue="955124" />
 </Book>
@@ -1428,6 +1533,36 @@
 <Book Series="Avengers Forever" Number="11" Volume="2021" Year="2023">
 <Database Name="cv" Series="140532" Issue="956786" />
 </Book>
+<Book Series="Avengers Assemble Alpha" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146602" Issue="958047" />
+</Book>
+<Book Series="Avengers" Number="63" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="958977" />
+</Book>
+<Book Series="Avengers Forever" Number="12" Volume="2021" Year="2023">
+<Database Name="cv" Series="140532" Issue="960975" />
+</Book>
+<Book Series="Avengers" Number="64" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="962842" />
+</Book>
+<Book Series="Avengers Forever" Number="13" Volume="2021" Year="2023">
+<Database Name="cv" Series="140532" Issue="964955" />
+</Book>
+<Book Series="Avengers" Number="65" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="967796" />
+</Book>
+<Book Series="Avengers Forever" Number="14" Volume="2021" Year="2023">
+<Database Name="cv" Series="140532" Issue="971888" />
+</Book>
+<Book Series="Avengers" Number="66" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="975706" />
+</Book>
+<Book Series="Avengers Forever" Number="15" Volume="2021" Year="2023">
+<Database Name="cv" Series="140532" Issue="976902" />
+</Book>
+<Book Series="Avengers Assemble Omega" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="149555" Issue="984065" />
+</Book>
 <Book Series="Deadly Neighborhood Spider-Man" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="145625" Issue="951699" />
 </Book>
@@ -1770,6 +1905,69 @@
 <Book Series="Venom" Number="13" Volume="2021" Year="2023">
 <Database Name="cv" Series="140084" Issue="953979" />
 </Book>
+<Book Series="Dark Web" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="150051" Issue="987300" />
+</Book>
+<Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146875" Issue="960026" />
+</Book>
+<Book Series="Amazing Spider-Man" Number="15" Volume="2021" Year="2022">
+<Database Name="cv" Series="152139" Issue="1000368" />
+</Book>
+<Book Series="Mary Jane &#38; Black Cat" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="146987" Issue="960979" />
+</Book>
+<Book Series="Dark Web: Ms. Marvel" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="146986" Issue="960977" />
+</Book>
+<Book Series="Dark Web: Ms. Marvel" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="146986" Issue="963978" />
+</Book>
+<Book Series="Gold Goblin" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="146113" Issue="960978" />
+</Book>
+<Book Series="Amazing Spider-Man" Number="16" Volume="2021" Year="2022">
+<Database Name="cv" Series="152139" Issue="1000369" />
+</Book>
+<Book Series="Venom" Number="14" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="961963" />
+</Book>
+<Book Series="Amazing Spider-Man" Number="17" Volume="2021" Year="2022">
+<Database Name="cv" Series="152139" Issue="1000370" />
+</Book>
+<Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
+<Database Name="cv" Series="146875" Issue="961948" />
+</Book>
+<Book Series="Mary Jane &#38; Black Cat" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="146987" Issue="963990" />
+</Book>
+<Book Series="Mary Jane &#38; Black Cat" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="146987" Issue="971887" />
+</Book>
+<Book Series="Mary Jane &#38; Black Cat" Number="4" Volume="2023" Year="2023">
+<Database Name="cv" Series="146987" Issue="975702" />
+</Book>
+<Book Series="Gold Goblin" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="146113" Issue="962847" />
+</Book>
+<Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
+<Database Name="cv" Series="146875" Issue="964964" />
+</Book>
+<Book Series="Amazing Spider-Man" Number="18" Volume="2021" Year="2022">
+<Database Name="cv" Series="152139" Issue="1000371" />
+</Book>
+<Book Series="Venom" Number="15" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="964958" />
+</Book>
+<Book Series="Venom" Number="16" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="967791" />
+</Book>
+<Book Series="Dark Web: Finale" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="147905" Issue="967787" />
+</Book>
+<Book Series="Mary Jane &#38; Black Cat" Number="5" Volume="2023" Year="2023">
+<Database Name="cv" Series="146987" Issue="985708" />
+</Book>
 <Book Series="The Amazing Spider-Man" Number="19" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="969383" />
 </Book>
@@ -1979,6 +2177,39 @@
 </Book>
 <Book Series="Immortal X-Men" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="142053" Issue="964967" />
+</Book>
+<Book Series="Sins of Sinister" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="153615" Issue="1014917" />
+</Book>
+<Book Series="Storm &#38; The Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="148090" Issue="969390" />
+</Book>
+<Book Series="Nightcrawlers" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="148297" Issue="971894" />
+</Book>
+<Book Series="Immoral X-Men" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="148475" Issue="973001" />
+</Book>
+<Book Series="Nightcrawlers" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="148297" Issue="975699" />
+</Book>
+<Book Series="Immoral X-Men" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="148475" Issue="976915" />
+</Book>
+<Book Series="Storm &#38; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="148090" Issue="978480" />
+</Book>
+<Book Series="Immoral X-Men" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="148475" Issue="981484" />
+</Book>
+<Book Series="Storm &#38; The Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="148090" Issue="982353" />
+</Book>
+<Book Series="Nightcrawlers" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="148297" Issue="984326" />
+</Book>
+<Book Series="Sins of Sinister: Dominion" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="149776" Issue="985704" />
 </Book>
 <Book Series="Captain America and the Winter Soldier Special" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="146087" Issue="954939" />

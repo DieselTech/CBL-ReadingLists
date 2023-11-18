@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #07 (WEB-CBRO)</Name>
-<NumIssues>497</NumIssues>
+<NumIssues>916</NumIssues>
 <Books>
 <Book Series="Trinity" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21777" Issue="131320" />
@@ -279,6 +279,99 @@
 <Book Series="Batman" Number="701" Volume="1940" Year="2010">
 <Database Name="cv" Series="796" Issue="224555" />
 </Book>
+<Book Series="Final Crisis: Rage of the Red Lanterns" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="23536" Issue="141192" />
+</Book>
+<Book Series="Justice League of America" Number="21" Volume="2006" Year="2008">
+<Database Name="cv" Series="18127" Issue="130596" />
+</Book>
+<Book Series="Final Crisis" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="21712" Issue="130994" />
+</Book>
+<Book Series="Final Crisis: Requiem" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22097" Issue="132930" />
+</Book>
+<Book Series="Final Crisis" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="21712" Issue="131869" />
+</Book>
+<Book Series="Final Crisis: Rogues' Revenge" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22238" Issue="133674" />
+</Book>
+<Book Series="Final Crisis: Rogues' Revenge" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="22238" Issue="136522" />
+</Book>
+<Book Series="Final Crisis: Rogues' Revenge" Number="3" Volume="2008" Year="2008">
+<Database Name="cv" Series="22238" Issue="140443" />
+</Book>
+<Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
+<Database Name="cv" Series="21712" Issue="135068" />
+</Book>
+<Book Series="Final Crisis: Superman Beyond 3D" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22763" Issue="136525" />
+</Book>
+<Book Series="Final Crisis: Superman Beyond 3D" Number="2" Volume="2008" Year="2009">
+<Database Name="cv" Series="22763" Issue="150506" />
+</Book>
+<Book Series="Final Crisis: Legion of Three Worlds" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22674" Issue="135985" />
+</Book>
+<Book Series="Final Crisis: Legion of Three Worlds" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="22674" Issue="140458" />
+</Book>
+<Book Series="Final Crisis: Legion of Three Worlds" Number="3" Volume="2008" Year="2009">
+<Database Name="cv" Series="22674" Issue="151134" />
+</Book>
+<Book Series="Final Crisis: Legion of Three Worlds" Number="4" Volume="2008" Year="2009">
+<Database Name="cv" Series="22674" Issue="156118" />
+</Book>
+<Book Series="Final Crisis: Legion of Three Worlds" Number="5" Volume="2008" Year="2009">
+<Database Name="cv" Series="22674" Issue="164795" />
+</Book>
+<Book Series="Final Crisis: Revelations" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22572" Issue="135447" />
+</Book>
+<Book Series="Final Crisis: Revelations" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="22572" Issue="138181" />
+</Book>
+<Book Series="Final Crisis: Revelations" Number="3" Volume="2008" Year="2008">
+<Database Name="cv" Series="22572" Issue="140143" />
+</Book>
+<Book Series="Final Crisis: Revelations" Number="4" Volume="2008" Year="2009">
+<Database Name="cv" Series="22572" Issue="145538" />
+</Book>
+<Book Series="Final Crisis: Revelations" Number="5" Volume="2008" Year="2009">
+<Database Name="cv" Series="22572" Issue="150661" />
+</Book>
+<Book Series="Final Crisis: Secret Files" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="25292" Issue="149282" />
+</Book>
+<Book Series="Final Crisis: Resist" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="23594" Issue="141525" />
+</Book>
+<Book Series="Final Crisis: Submit" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="23487" Issue="140852" />
+</Book>
+<Book Series="Final Crisis" Number="4" Volume="2008" Year="2008">
+<Database Name="cv" Series="21712" Issue="140850" />
+</Book>
+<Book Series="Final Crisis" Number="5" Volume="2008" Year="2008">
+<Database Name="cv" Series="21712" Issue="145368" />
+</Book>
+<Book Series="Batman" Number="682" Volume="1940" Year="2009">
+<Database Name="cv" Series="796" Issue="144296" />
+</Book>
+<Book Series="Batman" Number="683" Volume="1940" Year="2009">
+<Database Name="cv" Series="796" Issue="148610" />
+</Book>
+<Book Series="Final Crisis" Number="6" Volume="2008" Year="2009">
+<Database Name="cv" Series="21712" Issue="150022" />
+</Book>
+<Book Series="Final Crisis" Number="7" Volume="2008" Year="2009">
+<Database Name="cv" Series="21712" Issue="150660" />
+</Book>
+<Book Series="Superman/Batman" Number="76" Volume="2003" Year="2010">
+<Database Name="cv" Series="10938" Issue="235381" />
+</Book>
 <Book Series="Batman" Number="702" Volume="1940" Year="2010">
 <Database Name="cv" Series="796" Issue="231608" />
 </Book>
@@ -362,6 +455,57 @@
 </Book>
 <Book Series="Robin" Number="183" Volume="1993" Year="2009">
 <Database Name="cv" Series="4975" Issue="151292" />
+</Book>
+<Book Series="Gotham Gazette: Batman Dead?" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="25903" Issue="153071" />
+</Book>
+<Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="25959" Issue="153443" />
+</Book>
+<Book Series="Azrael: Death's Dark Knight" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26000" Issue="153683" />
+</Book>
+<Book Series="Oracle: The Cure" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26058" Issue="154027" />
+</Book>
+<Book Series="Batman: Battle for the Cowl: Commissioner Gordon" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26052" Issue="153993" />
+</Book>
+<Book Series="Batman: Battle for the Cowl: Man-Bat" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26098" Issue="154627" />
+</Book>
+<Book Series="Batman: Battle for the Cowl" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="25959" Issue="155147" />
+</Book>
+<Book Series="Azrael: Death's Dark Knight" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="26000" Issue="155917" />
+</Book>
+<Book Series="Oracle: The Cure" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="26058" Issue="155508" />
+</Book>
+<Book Series="Secret Six" Number="9" Volume="2008" Year="2009">
+<Database Name="cv" Series="22841" Issue="157578" />
+</Book>
+<Book Series="Batman: Battle for the Cowl: Arkham Asylum" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26256" Issue="155760" />
+</Book>
+<Book Series="Batman: Battle for the Cowl: The Underground" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26294" Issue="156117" />
+</Book>
+<Book Series="Batman: Battle for the Cowl: The Network" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26323" Issue="156624" />
+</Book>
+<Book Series="Azrael: Death's Dark Knight" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="26000" Issue="157147" />
+</Book>
+<Book Series="Oracle: The Cure" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="26058" Issue="157302" />
+</Book>
+<Book Series="Batman: Battle for the Cowl" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="25959" Issue="157716" />
+</Book>
+<Book Series="Gotham Gazette: Batman Alive?" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26539" Issue="158686" />
 </Book>
 <Book Series="Batman" Number="700" Volume="1940" Year="2010">
 <Database Name="cv" Series="796" Issue="218346" />
@@ -831,6 +975,225 @@
 <Book Series="Green Lantern" Number="42" Volume="2005" Year="2009">
 <Database Name="cv" Series="18216" Issue="161626" />
 </Book>
+<Book Series="Blackest Night: Tales of the Corps" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="27068" Issue="164031" />
+</Book>
+<Book Series="Blackest Night: Tales of the Corps" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="27068" Issue="164776" />
+</Book>
+<Book Series="Blackest Night: Tales of the Corps" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="27068" Issue="165440" />
+</Book>
+<Book Series="Titans" Number="15" Volume="2008" Year="2009">
+<Database Name="cv" Series="21159" Issue="164060" />
+</Book>
+<Book Series="Green Lantern" Number="43" Volume="2005" Year="2009">
+<Database Name="cv" Series="18216" Issue="163297" />
+</Book>
+<Book Series="Blackest Night" Number="0" Volume="2009" Year="2009">
+<Database Name="cv" Series="26266" Issue="155833" />
+</Book>
+<Book Series="Blackest Night" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26266" Issue="164032" />
+</Book>
+<Book Series="Solomon Grundy" Number="7" Volume="2009" Year="2009">
+<Database Name="cv" Series="25902" Issue="169505" />
+</Book>
+<Book Series="Superman/Batman" Number="66" Volume="2003" Year="2010">
+<Database Name="cv" Series="10938" Issue="183776" />
+</Book>
+<Book Series="Superman/Batman" Number="67" Volume="2003" Year="2010">
+<Database Name="cv" Series="10938" Issue="187620" />
+</Book>
+<Book Series="Green Lantern Corps" Number="39" Volume="2006" Year="2009">
+<Database Name="cv" Series="18248" Issue="166886" />
+</Book>
+<Book Series="Green Lantern" Number="44" Volume="2005" Year="2009">
+<Database Name="cv" Series="18216" Issue="164775" />
+</Book>
+<Book Series="Blackest Night" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="26266" Issue="166823" />
+</Book>
+<Book Series="The Phantom Stranger" Number="42" Volume="1969" Year="2010">
+<Database Name="cv" Series="2437" Issue="193390" />
+</Book>
+<Book Series="Blackest Night: Batman" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="27386" Issue="166829" />
+</Book>
+<Book Series="Blackest Night: Superman" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="27470" Issue="167425" />
+</Book>
+<Book Series="Blackest Night: Titans" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="27563" Issue="168458" />
+</Book>
+<Book Series="Green Lantern" Number="45" Volume="2005" Year="2009">
+<Database Name="cv" Series="18216" Issue="168418" />
+</Book>
+<Book Series="Green Lantern Corps" Number="40" Volume="2006" Year="2009">
+<Database Name="cv" Series="18248" Issue="170632" />
+</Book>
+<Book Series="Blackest Night: Batman" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="27386" Issue="170525" />
+</Book>
+<Book Series="Blackest Night: Batman" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="27386" Issue="176015" />
+</Book>
+<Book Series="Blackest Night" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="26266" Issue="171404" />
+</Book>
+<Book Series="Blackest Night: Titans" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="27563" Issue="179005" />
+</Book>
+<Book Series="Adventure Comics" Number="4" Volume="2009" Year="2010">
+<Database Name="cv" Series="25643" Issue="183718" />
+</Book>
+<Book Series="Adventure Comics" Number="5" Volume="2009" Year="2010">
+<Database Name="cv" Series="25643" Issue="186662" />
+</Book>
+<Book Series="Justice League of America" Number="39" Volume="2006" Year="2010">
+<Database Name="cv" Series="18127" Issue="184828" />
+</Book>
+<Book Series="Justice League of America" Number="40" Volume="2006" Year="2010">
+<Database Name="cv" Series="18127" Issue="187617" />
+</Book>
+<Book Series="Blackest Night: Superman" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="27470" Issue="172420" />
+</Book>
+<Book Series="Blackest Night: Superman" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="27470" Issue="177668" />
+</Book>
+<Book Series="Suicide Squad" Number="67" Volume="1987" Year="2010">
+<Database Name="cv" Series="3815" Issue="191315" />
+</Book>
+<Book Series="Secret Six" Number="17" Volume="2008" Year="2010">
+<Database Name="cv" Series="22841" Issue="192446" />
+</Book>
+<Book Series="Secret Six" Number="18" Volume="2008" Year="2010">
+<Database Name="cv" Series="22841" Issue="196593" />
+</Book>
+<Book Series="Green Lantern" Number="46" Volume="2005" Year="2009">
+<Database Name="cv" Series="18216" Issue="173866" />
+</Book>
+<Book Series="Catwoman" Number="83" Volume="2002" Year="2010">
+<Database Name="cv" Series="7328" Issue="192320" />
+</Book>
+<Book Series="Green Lantern Corps" Number="41" Volume="2006" Year="2009">
+<Database Name="cv" Series="18248" Issue="176150" />
+</Book>
+<Book Series="The Outsiders" Number="24" Volume="2009" Year="2010">
+<Database Name="cv" Series="25804" Issue="183777" />
+</Book>
+<Book Series="The Outsiders" Number="25" Volume="2009" Year="2010">
+<Database Name="cv" Series="25804" Issue="187616" />
+</Book>
+<Book Series="Green Lantern" Number="47" Volume="2005" Year="2009">
+<Database Name="cv" Series="18216" Issue="179204" />
+</Book>
+<Book Series="Blackest Night" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="26266" Issue="179009" />
+</Book>
+<Book Series="Green Lantern" Number="48" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="184967" />
+</Book>
+<Book Series="Green Lantern Corps" Number="42" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="182580" />
+</Book>
+<Book Series="Blackest Night: The Flash" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="30162" Issue="185677" />
+</Book>
+<Book Series="R.E.B.E.L.S." Number="11" Volume="2009" Year="2010">
+<Database Name="cv" Series="25833" Issue="186723" />
+</Book>
+<Book Series="Doom Patrol" Number="4" Volume="2009" Year="2010">
+<Database Name="cv" Series="27258" Issue="181246" />
+</Book>
+<Book Series="Doom Patrol" Number="5" Volume="2009" Year="2010">
+<Database Name="cv" Series="27258" Issue="186831" />
+</Book>
+<Book Series="Booster Gold" Number="26" Volume="2007" Year="2010">
+<Database Name="cv" Series="19025" Issue="182940" />
+</Book>
+<Book Series="Booster Gold" Number="27" Volume="2007" Year="2010">
+<Database Name="cv" Series="19025" Issue="186736" />
+</Book>
+<Book Series="Teen Titans" Number="77" Volume="2003" Year="2010">
+<Database Name="cv" Series="10414" Issue="184796" />
+</Book>
+<Book Series="Teen Titans" Number="78" Volume="2003" Year="2010">
+<Database Name="cv" Series="10414" Issue="189489" />
+</Book>
+<Book Series="Weird Western Tales" Number="71" Volume="1972" Year="2010">
+<Database Name="cv" Series="2560" Issue="191314" />
+</Book>
+<Book Series="Starman" Number="81" Volume="1994" Year="2010">
+<Database Name="cv" Series="5259" Issue="193366" />
+</Book>
+<Book Series="The Power of SHAZAM!" Number="48" Volume="1995" Year="2010">
+<Database Name="cv" Series="5515" Issue="192298" />
+</Book>
+<Book Series="The Question" Number="37" Volume="1986" Year="2010">
+<Database Name="cv" Series="3805" Issue="195384" />
+</Book>
+<Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
+<Database Name="cv" Series="30673" Issue="194482" />
+</Book>
+<Book Series="Blackest Night: JSA" Number="3" Volume="2009" Year="2010">
+<Database Name="cv" Series="30673" Issue="198358" />
+</Book>
+<Book Series="Blackest Night: Wonder Woman" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="30163" Issue="185678" />
+</Book>
+<Book Series="Blackest Night" Number="5" Volume="2009" Year="2010">
+<Database Name="cv" Series="26266" Issue="184885" />
+</Book>
+<Book Series="Green Lantern Corps" Number="44" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="193357" />
+</Book>
+<Book Series="Green Lantern" Number="49" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="189481" />
+</Book>
+<Book Series="Blackest Night" Number="6" Volume="2009" Year="2010">
+<Database Name="cv" Series="26266" Issue="189810" />
+</Book>
+<Book Series="Adventure Comics" Number="7" Volume="2009" Year="2010">
+<Database Name="cv" Series="25643" Issue="196590" />
+</Book>
+<Book Series="Green Arrow" Number="30" Volume="2010" Year="2010">
+<Database Name="cv" Series="32002" Issue="200917" />
+</Book>
+<Book Series="Blackest Night: Wonder Woman" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="30163" Issue="191204" />
+</Book>
+<Book Series="Blackest Night: Wonder Woman" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="30163" Issue="195373" />
+</Book>
+<Book Series="Blackest Night: The Flash" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="30162" Issue="197542" />
+</Book>
+<Book Series="Atom and Hawkman" Number="46" Volume="1968" Year="2010">
+<Database Name="cv" Series="2387" Issue="194433" />
+</Book>
+<Book Series="Green Lantern Corps" Number="45" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="197534" />
+</Book>
+<Book Series="Green Lantern" Number="51" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="197529" />
+</Book>
+<Book Series="Blackest Night" Number="7" Volume="2009" Year="2010">
+<Database Name="cv" Series="26266" Issue="198282" />
+</Book>
+<Book Series="Green Lantern Corps" Number="46" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="200763" />
+</Book>
+<Book Series="Green Lantern" Number="52" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="201705" />
+</Book>
+<Book Series="Blackest Night" Number="8" Volume="2009" Year="2010">
+<Database Name="cv" Series="26266" Issue="202607" />
+</Book>
+<Book Series="Green Lantern Corps" Number="47" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="210667" />
+</Book>
 <Book Series="Wonder Woman" Number="40" Volume="2006" Year="2010">
 <Database Name="cv" Series="18208" Issue="194803" />
 </Book>
@@ -1089,8 +1452,662 @@
 <Book Series="Batman: The Return" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36703" Issue="244575" />
 </Book>
+<Book Series="Brightest Day" Number="0" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="206568" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="213410" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="216238" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="218374" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="220788" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="5" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="224654" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="6" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="226905" />
+</Book>
+<Book Series="Green Lantern" Number="53" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="208425" />
+</Book>
+<Book Series="Green Lantern Corps" Number="48" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="216208" />
+</Book>
+<Book Series="Brightest Day" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="211998" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="34838" Issue="228834" />
+</Book>
+<Book Series="Green Lantern" Number="54" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="216101" />
+</Book>
+<Book Series="Green Lantern" Number="55" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="221825" />
+</Book>
+<Book Series="Brightest Day" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="214598" />
+</Book>
+<Book Series="Brightest Day" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="217098" />
+</Book>
+<Book Series="Brightest Day" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="219509" />
+</Book>
+<Book Series="Brightest Day" Number="5" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="223276" />
+</Book>
+<Book Series="Brightest Day" Number="6" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="225800" />
+</Book>
+<Book Series="Green Lantern Corps" Number="49" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="220689" />
+</Book>
+<Book Series="Green Lantern Corps" Number="50" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="226867" />
+</Book>
+<Book Series="Green Lantern Corps" Number="51" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="230324" />
+</Book>
+<Book Series="Green Lantern Corps" Number="52" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="235379" />
+</Book>
+<Book Series="Titans: Villains For Hire Special" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33108" Issue="213640" />
+</Book>
+<Book Series="Titans" Number="24" Volume="2008" Year="2010">
+<Database Name="cv" Series="21159" Issue="218481" />
+</Book>
+<Book Series="Titans" Number="25" Volume="2008" Year="2010">
+<Database Name="cv" Series="21159" Issue="224747" />
+</Book>
+<Book Series="Brightest Day: The Atom Special" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="34248" Issue="223421" />
+</Book>
+<Book Series="The Flash" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="32562" Issue="206585" />
+</Book>
+<Book Series="The Flash" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="32562" Issue="213453" />
+</Book>
+<Book Series="The Flash" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="32562" Issue="221873" />
+</Book>
+<Book Series="The Flash" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="32562" Issue="226871" />
+</Book>
+<Book Series="Green Arrow" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33909" Issue="220710" />
+</Book>
+<Book Series="Green Arrow" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="33909" Issue="226828" />
+</Book>
+<Book Series="Green Arrow" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="33909" Issue="231660" />
+</Book>
+<Book Series="Brightest Day" Number="7" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="227714" />
+</Book>
+<Book Series="Brightest Day" Number="8" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="230135" />
+</Book>
+<Book Series="The Flash" Number="5" Volume="2010" Year="2010">
+<Database Name="cv" Series="32562" Issue="235384" />
+</Book>
+<Book Series="The Flash" Number="6" Volume="2010" Year="2011">
+<Database Name="cv" Series="32562" Issue="244804" />
+</Book>
+<Book Series="Justice League of America" Number="44" Volume="2006" Year="2010">
+<Database Name="cv" Series="18127" Issue="208659" />
+</Book>
+<Book Series="Justice League of America" Number="45" Volume="2006" Year="2010">
+<Database Name="cv" Series="18127" Issue="214910" />
+</Book>
+<Book Series="Justice League of America" Number="46" Volume="2006" Year="2010">
+<Database Name="cv" Series="18127" Issue="221960" />
+</Book>
+<Book Series="Justice Society of America" Number="41" Volume="2007" Year="2010">
+<Database Name="cv" Series="18052" Issue="225863" />
+</Book>
+<Book Series="Justice League of America" Number="47" Volume="2006" Year="2010">
+<Database Name="cv" Series="18127" Issue="227018" />
+</Book>
+<Book Series="Justice Society of America" Number="42" Volume="2007" Year="2010">
+<Database Name="cv" Series="18052" Issue="230327" />
+</Book>
+<Book Series="Justice League of America" Number="48" Volume="2006" Year="2010">
+<Database Name="cv" Series="18127" Issue="231667" />
+</Book>
+<Book Series="Justice Society of America" Number="43" Volume="2007" Year="2010">
+<Database Name="cv" Series="18052" Issue="236440" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="7" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="228916" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="8" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="231611" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="9" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="233763" />
+</Book>
+<Book Series="Brightest Day" Number="9" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="232414" />
+</Book>
+<Book Series="Green Arrow" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="33909" Issue="236259" />
+</Book>
+<Book Series="Green Arrow" Number="5" Volume="2010" Year="2010">
+<Database Name="cv" Series="33909" Issue="239845" />
+</Book>
+<Book Series="Green Arrow" Number="6" Volume="2010" Year="2011">
+<Database Name="cv" Series="33909" Issue="246455" />
+</Book>
+<Book Series="Green Arrow" Number="7" Volume="2010" Year="2011">
+<Database Name="cv" Series="33909" Issue="252820" />
+</Book>
+<Book Series="Birds of Prey" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33087" Issue="213468" />
+</Book>
+<Book Series="Birds of Prey" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="33087" Issue="219574" />
+</Book>
+<Book Series="Birds of Prey" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="33087" Issue="224745" />
+</Book>
+<Book Series="Birds of Prey" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="33087" Issue="228897" />
+</Book>
+<Book Series="Birds of Prey" Number="5" Volume="2010" Year="2010">
+<Database Name="cv" Series="33087" Issue="234625" />
+</Book>
+<Book Series="Birds of Prey" Number="6" Volume="2010" Year="2011">
+<Database Name="cv" Series="33087" Issue="241937" />
+</Book>
+<Book Series="Brightest Day" Number="10" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="234621" />
+</Book>
+<Book Series="Brightest Day" Number="11" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="237039" />
+</Book>
+<Book Series="Brightest Day" Number="12" Volume="2010" Year="2010">
+<Database Name="cv" Series="32561" Issue="239026" />
+</Book>
+<Book Series="Untold Tales of Blackest Night" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="36091" Issue="238257" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="10" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="235442" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="11" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="238241" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="12" Volume="2010" Year="2010">
+<Database Name="cv" Series="33082" Issue="239908" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="13" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="242327" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="14" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="246469" />
+</Book>
+<Book Series="Titans" Number="26" Volume="2008" Year="2010">
+<Database Name="cv" Series="21159" Issue="229027" />
+</Book>
+<Book Series="Titans" Number="27" Volume="2008" Year="2010">
+<Database Name="cv" Series="21159" Issue="235452" />
+</Book>
+<Book Series="Titans" Number="28" Volume="2008" Year="2010">
+<Database Name="cv" Series="21159" Issue="238477" />
+</Book>
+<Book Series="Titans" Number="29" Volume="2008" Year="2011">
+<Database Name="cv" Series="21159" Issue="242206" />
+</Book>
+<Book Series="Titans" Number="30" Volume="2008" Year="2011">
+<Database Name="cv" Series="21159" Issue="249223" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="15" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="248494" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="16" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="250144" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="17" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="255905" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="18" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="259140" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="19" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="261122" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="20" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="263701" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="34838" Issue="234644" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="34838" Issue="238219" />
+</Book>
+<Book Series="Green Lantern" Number="56" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="226849" />
+</Book>
+<Book Series="Green Lantern" Number="57" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="233659" />
+</Book>
+<Book Series="Green Lantern" Number="58" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="238118" />
+</Book>
+<Book Series="Brightest Day" Number="13" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="240636" />
+</Book>
+<Book Series="Brightest Day" Number="14" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="244620" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="21" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="265492" />
+</Book>
+<Book Series="Power Girl" Number="21" Volume="2009" Year="2011">
+<Database Name="cv" Series="26326" Issue="263710" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="22" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="266495" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="23" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="268208" />
+</Book>
+<Book Series="Justice League: Generation Lost" Number="24" Volume="2010" Year="2011">
+<Database Name="cv" Series="33082" Issue="268973" />
+</Book>
+<Book Series="Green Lantern" Number="59" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="244618" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="4" Volume="2010" Year="2011">
+<Database Name="cv" Series="34838" Issue="242017" />
+</Book>
+<Book Series="Green Lantern Corps" Number="53" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="239023" />
+</Book>
+<Book Series="Green Lantern Corps" Number="54" Volume="2006" Year="2011">
+<Database Name="cv" Series="18248" Issue="244844" />
+</Book>
+<Book Series="Brightest Day" Number="15" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="247373" />
+</Book>
+<Book Series="Brightest Day" Number="16" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="249178" />
+</Book>
+<Book Series="Brightest Day" Number="17" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="254580" />
+</Book>
+<Book Series="The Flash" Number="7" Volume="2010" Year="2011">
+<Database Name="cv" Series="32562" Issue="248433" />
+</Book>
+<Book Series="Brightest Day" Number="18" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="258314" />
+</Book>
+<Book Series="Green Lantern" Number="60" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="249215" />
+</Book>
+<Book Series="Green Lantern" Number="61" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="252682" />
+</Book>
+<Book Series="Green Lantern" Number="62" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="262595" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="5" Volume="2010" Year="2011">
+<Database Name="cv" Series="34838" Issue="249229" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="6" Volume="2010" Year="2011">
+<Database Name="cv" Series="34838" Issue="255880" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="7" Volume="2010" Year="2011">
+<Database Name="cv" Series="34838" Issue="261123" />
+</Book>
+<Book Series="Green Lantern Corps" Number="55" Volume="2006" Year="2011">
+<Database Name="cv" Series="18248" Issue="249306" />
+</Book>
+<Book Series="Green Lantern Corps" Number="56" Volume="2006" Year="2011">
+<Database Name="cv" Series="18248" Issue="258333" />
+</Book>
+<Book Series="Brightest Day" Number="19" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="259836" />
+</Book>
+<Book Series="Brightest Day" Number="20" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="262594" />
+</Book>
+<Book Series="Brightest Day" Number="21" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="264585" />
+</Book>
+<Book Series="Green Arrow" Number="8" Volume="2010" Year="2011">
+<Database Name="cv" Series="33909" Issue="259071" />
+</Book>
+<Book Series="Green Arrow" Number="9" Volume="2010" Year="2011">
+<Database Name="cv" Series="33909" Issue="263703" />
+</Book>
+<Book Series="Green Arrow" Number="10" Volume="2010" Year="2011">
+<Database Name="cv" Series="33909" Issue="267079" />
+</Book>
+<Book Series="Green Lantern Corps" Number="57" Volume="2006" Year="2011">
+<Database Name="cv" Series="18248" Issue="262782" />
+</Book>
+<Book Series="Brightest Day" Number="22" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="265989" />
+</Book>
+<Book Series="Green Arrow" Number="11" Volume="2010" Year="2011">
+<Database Name="cv" Series="33909" Issue="268971" />
+</Book>
+<Book Series="Brightest Day" Number="23" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="267554" />
+</Book>
+<Book Series="Brightest Day" Number="24" Volume="2010" Year="2011">
+<Database Name="cv" Series="32561" Issue="268974" />
+</Book>
+<Book Series="Green Arrow" Number="12" Volume="2010" Year="2011">
+<Database Name="cv" Series="33909" Issue="271425" />
+</Book>
+<Book Series="Brightest Day Aftermath: The Search for Swamp Thing" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40863" Issue="275583" />
+</Book>
+<Book Series="Brightest Day Aftermath: The Search for Swamp Thing" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40863" Issue="281763" />
+</Book>
+<Book Series="Brightest Day Aftermath: The Search for Swamp Thing" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40863" Issue="288687" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="7" Volume="2010" Year="2011">
+<Database Name="cv" Series="34838" Issue="261123" />
+</Book>
+<Book Series="Green Lantern" Number="63" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="264584" />
+</Book>
+<Book Series="Green Lantern" Number="64" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="266498" />
+</Book>
+<Book Series="Green Lantern Corps" Number="58" Volume="2006" Year="2011">
+<Database Name="cv" Series="18248" Issue="266497" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="8" Volume="2010" Year="2011">
+<Database Name="cv" Series="34838" Issue="267101" />
+</Book>
+<Book Series="Green Lantern" Number="65" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="268723" />
+</Book>
+<Book Series="Green Lantern Corps" Number="59" Volume="2006" Year="2011">
+<Database Name="cv" Series="18248" Issue="268722" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="9" Volume="2010" Year="2011">
+<Database Name="cv" Series="34838" Issue="268972" />
+</Book>
+<Book Series="Green Lantern" Number="66" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="271429" />
+</Book>
+<Book Series="Green Lantern Corps" Number="60" Volume="2006" Year="2011">
+<Database Name="cv" Series="18248" Issue="271428" />
+</Book>
+<Book Series="Green Lantern: Emerald Warriors" Number="10" Volume="2010" Year="2011">
+<Database Name="cv" Series="34838" Issue="271427" />
+</Book>
+<Book Series="Green Lantern" Number="67" Volume="2005" Year="2011">
+<Database Name="cv" Series="18216" Issue="278617" />
+</Book>
+<Book Series="War of the Green Lanterns: Aftermath" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="41402" Issue="280150" />
+</Book>
+<Book Series="War of the Green Lanterns: Aftermath" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="41402" Issue="285345" />
+</Book>
 <Book Series="Batman: Hidden Treasures" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35875" Issue="237206" />
+</Book>
+<Book Series="Supergirl" Number="34" Volume="2005" Year="2008">
+<Database Name="cv" Series="18012" Issue="139678" />
+</Book>
+<Book Series="Superman's Pal, Jimmy Olsen Special" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="23417" Issue="140459" />
+</Book>
+<Book Series="Superman: New Krypton Special" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="23488" Issue="140868" />
+</Book>
+<Book Series="Superman" Number="681" Volume="1939" Year="2008">
+<Database Name="cv" Series="773" Issue="141190" />
+</Book>
+<Book Series="Adventure Comics Special Featuring: The Guardian" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="23593" Issue="141524" />
+</Book>
+<Book Series="Action Comics" Number="871" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="141990" />
+</Book>
+<Book Series="Supergirl" Number="35" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="142479" />
+</Book>
+<Book Series="Superman" Number="682" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="143267" />
+</Book>
+<Book Series="Action Comics" Number="872" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="145239" />
+</Book>
+<Book Series="Supergirl" Number="36" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="146850" />
+</Book>
+<Book Series="Superman" Number="683" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="149280" />
+</Book>
+<Book Series="Action Comics" Number="873" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="150025" />
+</Book>
+<Book Series="Supergirl" Number="37" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="150500" />
+</Book>
+<Book Series="Superman" Number="684" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="150681" />
+</Book>
+<Book Series="Action Comics" Number="874" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="151810" />
+</Book>
+<Book Series="Supergirl" Number="38" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="152230" />
+</Book>
+<Book Series="Superman" Number="685" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="152712" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="25900" Issue="153065" />
+</Book>
+<Book Series="Action Comics" Number="875" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="153515" />
+</Book>
+<Book Series="Supergirl" Number="39" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="153686" />
+</Book>
+<Book Series="Superman" Number="686" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="153984" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="25900" Issue="155169" />
+</Book>
+<Book Series="Action Comics" Number="876" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="155458" />
+</Book>
+<Book Series="Supergirl" Number="40" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="155786" />
+</Book>
+<Book Series="Superman" Number="687" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="156183" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="25900" Issue="156656" />
+</Book>
+<Book Series="Action Comics" Number="877" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="157158" />
+</Book>
+<Book Series="Supergirl" Number="41" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="157771" />
+</Book>
+<Book Series="Superman" Number="688" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="158792" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="25900" Issue="159275" />
+</Book>
+<Book Series="Action Comics" Number="878" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="159791" />
+</Book>
+<Book Series="Supergirl" Number="42" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="160516" />
+</Book>
+<Book Series="Superman" Number="689" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="161947" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="5" Volume="2009" Year="2009">
+<Database Name="cv" Series="25900" Issue="163385" />
+</Book>
+<Book Series="Action Comics" Number="879" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="164004" />
+</Book>
+<Book Series="Supergirl" Number="43" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="164881" />
+</Book>
+<Book Series="Superman" Number="690" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="165546" />
+</Book>
+<Book Series="Superman: Secret Files 2009" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="27427" Issue="167066" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="6" Volume="2009" Year="2009">
+<Database Name="cv" Series="25900" Issue="166116" />
+</Book>
+<Book Series="Action Comics" Number="880" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="166782" />
+</Book>
+<Book Series="Supergirl" Number="44" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="167362" />
+</Book>
+<Book Series="Superman" Number="691" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="168291" />
+</Book>
+<Book Series="Superman's Pal Jimmy Olsen" Number="2" Volume="2019" Year="2019">
+<Database Name="cv" Series="120215" Issue="716820" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="7" Volume="2009" Year="2009">
+<Database Name="cv" Series="25900" Issue="170732" />
+</Book>
+<Book Series="Action Comics" Number="881" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="171393" />
+</Book>
+<Book Series="Supergirl" Number="45" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="172570" />
+</Book>
+<Book Series="Superman" Number="692" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="173683" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="8" Volume="2009" Year="2009">
+<Database Name="cv" Series="25900" Issue="175246" />
+</Book>
+<Book Series="Action Comics" Number="882" Volume="1938" Year="2009">
+<Database Name="cv" Series="18005" Issue="176791" />
+</Book>
+<Book Series="Supergirl" Number="46" Volume="2005" Year="2009">
+<Database Name="cv" Series="18012" Issue="177693" />
+</Book>
+<Book Series="Superman" Number="693" Volume="1939" Year="2009">
+<Database Name="cv" Series="773" Issue="179940" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="9" Volume="2009" Year="2010">
+<Database Name="cv" Series="25900" Issue="181603" />
+</Book>
+<Book Series="Action Comics" Number="883" Volume="1938" Year="2010">
+<Database Name="cv" Series="18005" Issue="182582" />
+</Book>
+<Book Series="Supergirl" Number="47" Volume="2005" Year="2010">
+<Database Name="cv" Series="18012" Issue="183717" />
+</Book>
+<Book Series="Superman" Number="694" Volume="1939" Year="2010">
+<Database Name="cv" Series="773" Issue="184831" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="10" Volume="2009" Year="2010">
+<Database Name="cv" Series="25900" Issue="185625" />
+</Book>
+<Book Series="Action Comics" Number="884" Volume="1938" Year="2010">
+<Database Name="cv" Series="18005" Issue="186788" />
+</Book>
+<Book Series="Supergirl" Number="48" Volume="2005" Year="2010">
+<Database Name="cv" Series="18012" Issue="187888" />
+</Book>
+<Book Series="Superman" Number="695" Volume="1939" Year="2010">
+<Database Name="cv" Series="773" Issue="189581" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="11" Volume="2009" Year="2010">
+<Database Name="cv" Series="25900" Issue="191321" />
+</Book>
+<Book Series="Action Comics" Number="885" Volume="1938" Year="2010">
+<Database Name="cv" Series="18005" Issue="119120" />
+</Book>
+<Book Series="Supergirl" Number="49" Volume="2005" Year="2010">
+<Database Name="cv" Series="18012" Issue="194700" />
+</Book>
+<Book Series="Superman" Number="696" Volume="1939" Year="2010">
+<Database Name="cv" Series="773" Issue="194801" />
+</Book>
+<Book Series="Superman: World of New Krypton" Number="12" Volume="2009" Year="2010">
+<Database Name="cv" Series="25900" Issue="195394" />
+</Book>
+<Book Series="Action Comics" Number="886" Volume="1938" Year="2010">
+<Database Name="cv" Series="18005" Issue="196735" />
+</Book>
+<Book Series="Supergirl" Number="50" Volume="2005" Year="2010">
+<Database Name="cv" Series="18012" Issue="197530" />
+</Book>
+<Book Series="Superman" Number="697" Volume="1939" Year="2010">
+<Database Name="cv" Series="773" Issue="198642" />
+</Book>
+<Book Series="Adventure Comics" Number="8" Volume="2009" Year="2010">
+<Database Name="cv" Series="25643" Issue="198868" />
+</Book>
+<Book Series="Superman: Last Stand of New Krypton" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="31770" Issue="199218" />
+</Book>
+<Book Series="Action Comics" Number="887" Volume="1938" Year="2010">
+<Database Name="cv" Series="18005" Issue="199871" />
+</Book>
+<Book Series="Supergirl" Number="51" Volume="2005" Year="2010">
+<Database Name="cv" Series="18012" Issue="200851" />
+</Book>
+<Book Series="Superman" Number="698" Volume="1939" Year="2010">
+<Database Name="cv" Series="773" Issue="201748" />
+</Book>
+<Book Series="Adventure Comics" Number="9" Volume="2009" Year="2010">
+<Database Name="cv" Series="25643" Issue="203170" />
+</Book>
+<Book Series="Superman: Last Stand of New Krypton" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="31770" Issue="204664" />
+</Book>
+<Book Series="Action Comics" Number="888" Volume="1938" Year="2010">
+<Database Name="cv" Series="18005" Issue="207341" />
+</Book>
+<Book Series="Adventure Comics" Number="10" Volume="2009" Year="2010">
+<Database Name="cv" Series="25643" Issue="207745" />
+</Book>
+<Book Series="Supergirl" Number="52" Volume="2005" Year="2010">
+<Database Name="cv" Series="18012" Issue="208681" />
+</Book>
+<Book Series="Superman" Number="699" Volume="1939" Year="2010">
+<Database Name="cv" Series="773" Issue="210632" />
+</Book>
+<Book Series="Superman: Last Stand of New Krypton" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="31770" Issue="210841" />
+</Book>
+<Book Series="Action Comics" Number="889" Volume="1938" Year="2010">
+<Database Name="cv" Series="18005" Issue="210785" />
+</Book>
+<Book Series="Adventure Comics" Number="11" Volume="2009" Year="2010">
+<Database Name="cv" Series="25643" Issue="213425" />
 </Book>
 <Book Series="Superman: War of the Supermen" Number="0" Volume="2010" Year="2010">
 <Database Name="cv" Series="32865" Issue="211475" />
@@ -1227,6 +2244,18 @@
 <Book Series="Gotham City Sirens" Number="21" Volume="2009" Year="2011">
 <Database Name="cv" Series="26891" Issue="267099" />
 </Book>
+<Book Series="Batman" Number="708" Volume="1940" Year="2011">
+<Database Name="cv" Series="796" Issue="265991" />
+</Book>
+<Book Series="Red Robin" Number="22" Volume="2009" Year="2011">
+<Database Name="cv" Series="26651" Issue="268211" />
+</Book>
+<Book Series="Gotham City Sirens" Number="22" Volume="2009" Year="2011">
+<Database Name="cv" Series="26891" Issue="268724" />
+</Book>
+<Book Series="Batman" Number="709" Volume="1940" Year="2011">
+<Database Name="cv" Series="796" Issue="268725" />
+</Book>
 <Book Series="Gotham City Sirens" Number="23" Volume="2009" Year="2011">
 <Database Name="cv" Series="26891" Issue="271426" />
 </Book>
@@ -1349,6 +2378,36 @@
 </Book>
 <Book Series="Action Comics" Number="899" Volume="1938" Year="2011">
 <Database Name="cv" Series="18005" Issue="267098" />
+</Book>
+<Book Series="Steel" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="38090" Issue="254581" />
+</Book>
+<Book Series="The Outsiders" Number="37" Volume="2009" Year="2011">
+<Database Name="cv" Series="25804" Issue="265488" />
+</Book>
+<Book Series="Justice League of America" Number="55" Volume="2006" Year="2011">
+<Database Name="cv" Series="18127" Issue="266494" />
+</Book>
+<Book Series="Superman/Batman Annual" Number="5" Volume="2006" Year="2011">
+<Database Name="cv" Series="19020" Issue="267552" />
+</Book>
+<Book Series="Superboy" Number="6" Volume="2011" Year="2012">
+<Database Name="cv" Series="42685" Issue="314976" />
+</Book>
+<Book Series="Action Comics" Number="900" Volume="1938" Year="2011">
+<Database Name="cv" Series="18005" Issue="268931" />
+</Book>
+<Book Series="Action Comics" Number="901" Volume="1938" Year="2011">
+<Database Name="cv" Series="18005" Issue="271424" />
+</Book>
+<Book Series="Action Comics" Number="902" Volume="1938" Year="2011">
+<Database Name="cv" Series="18005" Issue="275581" />
+</Book>
+<Book Series="Action Comics" Number="903" Volume="1938" Year="2011">
+<Database Name="cv" Series="18005" Issue="281655" />
+</Book>
+<Book Series="Action Comics" Number="904" Volume="1938" Year="2011">
+<Database Name="cv" Series="18005" Issue="288760" />
 </Book>
 <Book Series="Batman and Robin" Number="20" Volume="2009" Year="2011">
 <Database Name="cv" Series="26584" Issue="261127" />
@@ -1493,6 +2552,204 @@
 </Book>
 <Book Series="Booster Gold" Number="43" Volume="2007" Year="2011">
 <Database Name="cv" Series="19025" Issue="268202" />
+</Book>
+<Book Series="The Flash" Number="8" Volume="2010" Year="2011">
+<Database Name="cv" Series="32562" Issue="252622" />
+</Book>
+<Book Series="The Flash" Number="9" Volume="2010" Year="2011">
+<Database Name="cv" Series="32562" Issue="261124" />
+</Book>
+<Book Series="The Flash" Number="10" Volume="2010" Year="2011">
+<Database Name="cv" Series="32562" Issue="268209" />
+</Book>
+<Book Series="The Flash" Number="11" Volume="2010" Year="2011">
+<Database Name="cv" Series="32562" Issue="268970" />
+</Book>
+<Book Series="The Flash" Number="12" Volume="2010" Year="2011">
+<Database Name="cv" Series="32562" Issue="269821" />
+</Book>
+<Book Series="Flashpoint: Reverse Flash" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40779" Issue="275584" />
+</Book>
+<Book Series="Flashpoint: Project Superman" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40926" Issue="276566" />
+</Book>
+<Book Series="Flashpoint: Project Superman" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40926" Issue="281521" />
+</Book>
+<Book Series="Flashpoint: Wonder Woman and the Furies" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40688" Issue="274393" />
+</Book>
+<Book Series="Flashpoint: Green Arrow Industries" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40924" Issue="276567" />
+</Book>
+<Book Series="Flashpoint: Wonder Woman and the Furies" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40688" Issue="279958" />
+</Book>
+<Book Series="Flashpoint: Lois Lane and the Resistance" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40762" Issue="275587" />
+</Book>
+<Book Series="Flashpoint: The Canterbury Cricket" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40927" Issue="276571" />
+</Book>
+<Book Series="Flashpoint: Deadman and the Flying Graysons" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40683" Issue="274394" />
+</Book>
+<Book Series="Flashpoint: Deadman and the Flying Graysons" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40683" Issue="279957" />
+</Book>
+<Book Series="Flashpoint: Deadman and the Flying Graysons" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40683" Issue="285171" />
+</Book>
+<Book Series="Flashpoint: Grodd of War" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40691" Issue="274392" />
+</Book>
+<Book Series="Flashpoint: Legion of Doom" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40689" Issue="274391" />
+</Book>
+<Book Series="Flashpoint: Legion of Doom" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40689" Issue="279962" />
+</Book>
+<Book Series="Flashpoint: Legion of Doom" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40689" Issue="286682" />
+</Book>
+<Book Series="Flashpoint: Abin Sur - The Green Lantern" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40367" Issue="272344" />
+</Book>
+<Book Series="Flashpoint: Hal Jordan" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40928" Issue="276570" />
+</Book>
+<Book Series="Flashpoint: Abin Sur - The Green Lantern" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40367" Issue="277427" />
+</Book>
+<Book Series="Flashpoint: Hal Jordan" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40928" Issue="281526" />
+</Book>
+<Book Series="Flashpoint" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="39997" Issue="269827" />
+</Book>
+<Book Series="Flashpoint: The Outsider" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40766" Issue="275585" />
+</Book>
+<Book Series="Flashpoint: Secret Seven" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40365" Issue="272348" />
+</Book>
+<Book Series="Flashpoint: Citizen Cold" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40522" Issue="273082" />
+</Book>
+<Book Series="Flashpoint: Secret Seven" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40365" Issue="277433" />
+</Book>
+<Book Series="Flashpoint: Secret Seven" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40365" Issue="282910" />
+</Book>
+<Book Series="Flashpoint: Citizen Cold" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40522" Issue="278555" />
+</Book>
+<Book Series="Flashpoint: Citizen Cold" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40522" Issue="285179" />
+</Book>
+<Book Series="Flashpoint: Deathstroke and the Curse of the Ravager" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40523" Issue="273081" />
+</Book>
+<Book Series="Flashpoint" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="39997" Issue="272411" />
+</Book>
+<Book Series="Flashpoint: Deathstroke and the Curse of the Ravager" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40523" Issue="278558" />
+</Book>
+<Book Series="Flashpoint: The Outsider" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40766" Issue="279960" />
+</Book>
+<Book Series="Flashpoint: Batman Knight of Vengeance" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40364" Issue="272346" />
+</Book>
+<Book Series="Flashpoint: Batman Knight of Vengeance" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40364" Issue="277419" />
+</Book>
+<Book Series="Flashpoint: Batman Knight of Vengeance" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40364" Issue="282900" />
+</Book>
+<Book Series="Flashpoint: Deathstroke and the Curse of the Ravager" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40523" Issue="282906" />
+</Book>
+<Book Series="Flashpoint" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="39997" Issue="277377" />
+</Book>
+<Book Series="Flashpoint: Lois Lane and the Resistance" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40762" Issue="281525" />
+</Book>
+<Book Series="Booster Gold" Number="44" Volume="2007" Year="2011">
+<Database Name="cv" Series="19025" Issue="270444" />
+</Book>
+<Book Series="Booster Gold" Number="45" Volume="2007" Year="2011">
+<Database Name="cv" Series="19025" Issue="273079" />
+</Book>
+<Book Series="Booster Gold" Number="46" Volume="2007" Year="2011">
+<Database Name="cv" Series="19025" Issue="278559" />
+</Book>
+<Book Series="Flashpoint: Frankenstein and the Creatures of the Unknown" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40459" Issue="273080" />
+</Book>
+<Book Series="Flashpoint: Frankenstein and the Creatures of the Unknown" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40459" Issue="278557" />
+</Book>
+<Book Series="Flashpoint: Frankenstein and the Creatures of the Unknown" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40459" Issue="285174" />
+</Book>
+<Book Series="Flashpoint: The Outsider" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40766" Issue="286679" />
+</Book>
+<Book Series="Flashpoint: The World of Flashpoint" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40366" Issue="272345" />
+</Book>
+<Book Series="Flashpoint: The World of Flashpoint" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40366" Issue="277432" />
+</Book>
+<Book Series="Flashpoint: Hal Jordan" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40928" Issue="288130" />
+</Book>
+<Book Series="Flashpoint: Emperor Aquaman" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40524" Issue="273083" />
+</Book>
+<Book Series="Flashpoint: Emperor Aquaman" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40524" Issue="278556" />
+</Book>
+<Book Series="Flashpoint: Wonder Woman and the Furies" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40688" Issue="286681" />
+</Book>
+<Book Series="Flashpoint: Emperor Aquaman" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40524" Issue="285172" />
+</Book>
+<Book Series="Flashpoint: Abin Sur - The Green Lantern" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40367" Issue="286680" />
+</Book>
+<Book Series="Flashpoint" Number="4" Volume="2011" Year="2011">
+<Database Name="cv" Series="39997" Issue="282568" />
+</Book>
+<Book Series="Booster Gold" Number="47" Volume="2007" Year="2011">
+<Database Name="cv" Series="19025" Issue="285340" />
+</Book>
+<Book Series="Flashpoint: The World of Flashpoint" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40366" Issue="282903" />
+</Book>
+<Book Series="Flashpoint: Lois Lane and the Resistance" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40762" Issue="288131" />
+</Book>
+<Book Series="Flashpoint: Project Superman" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40926" Issue="288129" />
+</Book>
+<Book Series="Flashpoint: Kid Flash Lost" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40769" Issue="275586" />
+</Book>
+<Book Series="Flashpoint: Kid Flash Lost" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="40769" Issue="281527" />
+</Book>
+<Book Series="Flashpoint: Kid Flash Lost" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40769" Issue="288132" />
+</Book>
+<Book Series="Flashpoint" Number="5" Volume="2011" Year="2011">
+<Database Name="cv" Series="39997" Issue="290102" />
 </Book>
 </Books>
 <Matchers />

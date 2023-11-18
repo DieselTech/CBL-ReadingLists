@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #12 (WEB-CBRO)</Name>
-<NumIssues>636</NumIssues>
+<NumIssues>704</NumIssues>
 <Books>
 <Book Series="Spider-Woman" Number="9" Volume="2020" Year="2021">
 <Database Name="cv" Series="125812" Issue="828864" />
@@ -303,6 +303,60 @@
 <Book Series="U.S.Agent" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="131732" Issue="846093" />
 </Book>
+<Book Series="Heroes Reborn" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="135903" Issue="847511" />
+</Book>
+<Book Series="Heroes Reborn: Hyperion &#38; the Imperial Guard" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136023" Issue="848853" />
+</Book>
+<Book Series="Heroes Reborn: Peter Parker, The Amazing Shutterbug" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136024" Issue="848854" />
+</Book>
+<Book Series="Heroes Reborn" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="135903" Issue="848852" />
+</Book>
+<Book Series="Heroes Reborn" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="135903" Issue="851308" />
+</Book>
+<Book Series="Heroes Reborn" Number="4" Volume="2021" Year="2021">
+<Database Name="cv" Series="135903" Issue="855615" />
+</Book>
+<Book Series="Heroes Reborn: Magneto &#38; the Mutant Force" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136388" Issue="855617" />
+</Book>
+<Book Series="Heroes Reborn: Siege Society" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136389" Issue="855618" />
+</Book>
+<Book Series="Heroes Reborn: Young Squadron" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136390" Issue="855621" />
+</Book>
+<Book Series="Heroes Reborn" Number="5" Volume="2021" Year="2021">
+<Database Name="cv" Series="135903" Issue="857651" />
+</Book>
+<Book Series="Heroes Reborn: American Knights" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136618" Issue="857652" />
+</Book>
+<Book Series="Heroes Reborn: Marvel Double Action" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136619" Issue="857653" />
+</Book>
+<Book Series="Heroes Reborn" Number="6" Volume="2021" Year="2021">
+<Database Name="cv" Series="135903" Issue="858875" />
+</Book>
+<Book Series="Heroes Reborn: Squadron Savage" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136814" Issue="858877" />
+</Book>
+<Book Series="Heroes Reborn: Night-Gwen" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136813" Issue="858876" />
+</Book>
+<Book Series="Heroes Reborn" Number="7" Volume="2021" Year="2021">
+<Database Name="cv" Series="135903" Issue="861676" />
+</Book>
+<Book Series="Heroes Reborn: Weapon X &#38; Final Flight" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136946" Issue="861677" />
+</Book>
+<Book Series="Heroes Return" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="137049" Issue="863929" />
+</Book>
 <Book Series="Eternals" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133080" Issue="824024" />
 </Book>
@@ -578,6 +632,45 @@
 </Book>
 <Book Series="Marauders" Number="20" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="847514" />
+</Book>
+<Book Series="Marauders" Number="21" Volume="2019" Year="2021">
+<Database Name="cv" Series="122218" Issue="857597" />
+</Book>
+<Book Series="X-Force" Number="20" Volume="2019" Year="2021">
+<Database Name="cv" Series="122668" Issue="857598" />
+</Book>
+<Book Series="Hellions" Number="12" Volume="2020" Year="2021">
+<Database Name="cv" Series="126015" Issue="857596" />
+</Book>
+<Book Series="Excalibur" Number="21" Volume="2019" Year="2021">
+<Database Name="cv" Series="122488" Issue="858872" />
+</Book>
+<Book Series="X-Men" Number="21" Volume="2019" Year="2021">
+<Database Name="cv" Series="122077" Issue="858873" />
+</Book>
+<Book Series="Planet-Size X-Men" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136937" Issue="861642" />
+</Book>
+<Book Series="New Mutants" Number="19" Volume="2019" Year="2021">
+<Database Name="cv" Series="122666" Issue="861639" />
+</Book>
+<Book Series="Children of the Atom" Number="6" Volume="2021" Year="2021">
+<Database Name="cv" Series="134388" Issue="878791" />
+</Book>
+<Book Series="X-Corp" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="136025" Issue="861644" />
+</Book>
+<Book Series="Wolverine" Number="13" Volume="2020" Year="2021">
+<Database Name="cv" Series="125121" Issue="863865" />
+</Book>
+<Book Series="S.W.O.R.D." Number="6" Volume="2020" Year="2021">
+<Database Name="cv" Series="132511" Issue="863852" />
+</Book>
+<Book Series="Way of X" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="135583" Issue="863854" />
+</Book>
+<Book Series="X-Factor" Number="10" Volume="2020" Year="2021">
+<Database Name="cv" Series="129097" Issue="866581" />
 </Book>
 <Book Series="Marauders" Number="22" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="872876" />
@@ -1242,6 +1335,42 @@
 <Book Series="Miles Morales: Spider-Man" Number="32" Volume="2019" Year="2022">
 <Database Name="cv" Series="115897" Issue="893941" />
 </Book>
+<Book Series="Death of Doctor Strange" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="139125" Issue="885608" />
+</Book>
+<Book Series="Death of Doctor Strange" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="139125" Issue="890606" />
+</Book>
+<Book Series="Death of Doctor Strange: The Avengers" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="139949" Issue="892245" />
+</Book>
+<Book Series="Strange Academy Presents: The Death of Doctor Strange" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="139950" Issue="892246" />
+</Book>
+<Book Series="Death of Doctor Strange" Number="3" Volume="2021" Year="2022">
+<Database Name="cv" Series="139125" Issue="895343" />
+</Book>
+<Book Series="Death of Doctor Strange: Spider-Man" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="140282" Issue="896132" />
+</Book>
+<Book Series="Death of Doctor Strange: White Fox" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="140283" Issue="896133" />
+</Book>
+<Book Series="Death of Doctor Strange: Blade" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="140357" Issue="897359" />
+</Book>
+<Book Series="Death of Doctor Strange: X-Men/Black Knight" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141326" Issue="903907" />
+</Book>
+<Book Series="Death of Doctor Strange" Number="4" Volume="2021" Year="2022">
+<Database Name="cv" Series="139125" Issue="900389" />
+</Book>
+<Book Series="Death of Doctor Strange: Bloodstone" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141176" Issue="902681" />
+</Book>
+<Book Series="Death of Doctor Strange" Number="5" Volume="2021" Year="2022">
+<Database Name="cv" Series="139125" Issue="904774" />
+</Book>
 <Book Series="Eternals Forever" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139565" Issue="889471" />
 </Book>
@@ -1865,6 +1994,81 @@
 </Book>
 <Book Series="Spider-Woman" Number="17" Volume="2020" Year="2022">
 <Database Name="cv" Series="125812" Issue="894363" />
+</Book>
+<Book Series="Devil's Reign" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="897325" />
+</Book>
+<Book Series="Devil's Reign: Villains for Hire" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141327" Issue="903909" />
+</Book>
+<Book Series="Devil's Reign: Villains for Hire" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="141327" Issue="908698" />
+</Book>
+<Book Series="Devil's Reign: X-Men" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141328" Issue="903910" />
+</Book>
+<Book Series="Devil's Reign: X-Men" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="141328" Issue="909677" />
+</Book>
+<Book Series="Devil's Reign: X-Men" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="141328" Issue="912248" />
+</Book>
+<Book Series="Devil's Reign" Number="2" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="900390" />
+</Book>
+<Book Series="Devil's Reign: Superior Four" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141177" Issue="902682" />
+</Book>
+<Book Series="Devil's Reign: Superior Four" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="141177" Issue="907439" />
+</Book>
+<Book Series="Devil's Reign: Superior Four" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="141177" Issue="910749" />
+</Book>
+<Book Series="Devil's Reign: Moon Knight" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141844" Issue="910619" />
+</Book>
+<Book Series="Moon Knight" Number="8" Volume="2021" Year="2022">
+<Database Name="cv" Series="137698" Issue="906633" />
+</Book>
+<Book Series="Spider-Woman" Number="18" Volume="2020" Year="2022">
+<Database Name="cv" Series="125812" Issue="902704" />
+</Book>
+<Book Series="Devil's Reign: Winter Soldier" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141458" Issue="904766" />
+</Book>
+<Book Series="Daredevil: The Man Without Fear" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="5000" Issue="37946" />
+</Book>
+<Book Series="Devil's Reign" Number="3" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="904775" />
+</Book>
+<Book Series="Daredevil: The Man Without Fear" Number="2" Volume="1993" Year="1993">
+<Database Name="cv" Series="5000" Issue="38094" />
+</Book>
+<Book Series="Devil's Reign: Spider-Man" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141785" Issue="909805" />
+</Book>
+<Book Series="Spider-Woman" Number="19" Volume="2020" Year="2022">
+<Database Name="cv" Series="125812" Issue="905795" />
+</Book>
+<Book Series="Devil's Reign" Number="4" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="906630" />
+</Book>
+<Book Series="Devil's Reign: Villains for Hire" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="141327" Issue="912257" />
+</Book>
+<Book Series="Devil's Reign" Number="5" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="910627" />
+</Book>
+<Book Series="Daredevil: The Man Without Fear" Number="3" Volume="1993" Year="1993">
+<Database Name="cv" Series="5000" Issue="38252" />
+</Book>
+<Book Series="Devil's Reign" Number="6" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="914649" />
+</Book>
+<Book Series="Devil's Reign: Omega" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="130207" Issue="926189" />
 </Book>
 <Book Series="X-Force" Number="21" Volume="2019" Year="2021">
 <Database Name="cv" Series="122668" Issue="868600" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #03 (WEB-CBRO)</Name>
-<NumIssues>655</NumIssues>
+<NumIssues>1072</NumIssues>
 <Books>
 <Book Series="Robin" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4563" Issue="33743" />
@@ -288,6 +288,126 @@
 <Book Series="Justice League Europe" Number="28" Volume="1989" Year="1991">
 <Database Name="cv" Series="4199" Issue="34377" />
 </Book>
+<Book Series="Action Comics" Number="674" Volume="1938" Year="1992">
+<Database Name="cv" Series="18005" Issue="116891" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="9" Volume="1991" Year="1992">
+<Database Name="cv" Series="4571" Issue="35500" />
+</Book>
+<Book Series="Superman" Number="65" Volume="1987" Year="1992">
+<Database Name="cv" Series="3816" Issue="68535" />
+</Book>
+<Book Series="Adventures of Superman" Number="488" Volume="1987" Year="1992">
+<Database Name="cv" Series="3778" Issue="35429" />
+</Book>
+<Book Series="Action Comics" Number="675" Volume="1938" Year="1992">
+<Database Name="cv" Series="18005" Issue="112003" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="10" Volume="1991" Year="1992">
+<Database Name="cv" Series="4571" Issue="35604" />
+</Book>
+<Book Series="Superman" Number="66" Volume="1987" Year="1992">
+<Database Name="cv" Series="3816" Issue="68536" />
+</Book>
+<Book Series="Adventures of Superman" Number="489" Volume="1987" Year="1992">
+<Database Name="cv" Series="3778" Issue="35527" />
+</Book>
+<Book Series="Justice League America" Number="53" Volume="1989" Year="1991">
+<Database Name="cv" Series="4198" Issue="34495" />
+</Book>
+<Book Series="Justice League Europe" Number="29" Volume="1989" Year="1991">
+<Database Name="cv" Series="4199" Issue="34496" />
+</Book>
+<Book Series="Justice League America" Number="54" Volume="1989" Year="1991">
+<Database Name="cv" Series="4198" Issue="34608" />
+</Book>
+<Book Series="Justice League Europe" Number="30" Volume="1989" Year="1991">
+<Database Name="cv" Series="4199" Issue="34609" />
+</Book>
+<Book Series="Justice League America" Number="55" Volume="1989" Year="1991">
+<Database Name="cv" Series="4198" Issue="34729" />
+</Book>
+<Book Series="Justice League Europe" Number="31" Volume="1989" Year="1991">
+<Database Name="cv" Series="4199" Issue="34730" />
+</Book>
+<Book Series="Justice League America" Number="56" Volume="1989" Year="1991">
+<Database Name="cv" Series="4198" Issue="34845" />
+</Book>
+<Book Series="Green Lantern" Number="18" Volume="1990" Year="1991">
+<Database Name="cv" Series="4363" Issue="34841" />
+</Book>
+<Book Series="Justice League Europe" Number="32" Volume="1989" Year="1991">
+<Database Name="cv" Series="4199" Issue="34846" />
+</Book>
+<Book Series="Justice League America" Number="57" Volume="1989" Year="1991">
+<Database Name="cv" Series="4198" Issue="34966" />
+</Book>
+<Book Series="Justice League Europe" Number="33" Volume="1989" Year="1991">
+<Database Name="cv" Series="4199" Issue="34967" />
+</Book>
+<Book Series="Justice League America" Number="58" Volume="1989" Year="1992">
+<Database Name="cv" Series="4198" Issue="35229" />
+</Book>
+<Book Series="Justice League Europe" Number="34" Volume="1989" Year="1992">
+<Database Name="cv" Series="4199" Issue="35230" />
+</Book>
+<Book Series="Justice League America" Number="59" Volume="1989" Year="1992">
+<Database Name="cv" Series="4198" Issue="35335" />
+</Book>
+<Book Series="Justice League Europe" Number="35" Volume="1989" Year="1992">
+<Database Name="cv" Series="4199" Issue="35336" />
+</Book>
+<Book Series="Justice League America" Number="60" Volume="1989" Year="1992">
+<Database Name="cv" Series="4198" Issue="35446" />
+</Book>
+<Book Series="Justice League Europe" Number="36" Volume="1989" Year="1992">
+<Database Name="cv" Series="4199" Issue="35447" />
+</Book>
+<Book Series="Armageddon 2001" Number="1" Volume="1991" Year="1991">
+<Database Name="cv" Series="4540" Issue="34156" />
+</Book>
+<Book Series="Superman Annual" Number="3" Volume="1987" Year="1991">
+<Database Name="cv" Series="3817" Issue="71043" />
+</Book>
+<Book Series="Batman Annual" Number="15" Volume="1961" Year="1991">
+<Database Name="cv" Series="3109" Issue="82300" />
+</Book>
+<Book Series="Justice League America Annual" Number="5" Volume="1991" Year="1991">
+<Database Name="cv" Series="4368" Issue="33655" />
+</Book>
+<Book Series="Action Comics Annual" Number="3" Volume="1987" Year="1991">
+<Database Name="cv" Series="3776" Issue="33642" />
+</Book>
+<Book Series="The Flash Annual" Number="4" Volume="1987" Year="1991">
+<Database Name="cv" Series="3791" Issue="33648" />
+</Book>
+<Book Series="Hawkworld Annual" Number="2" Volume="1990" Year="1991">
+<Database Name="cv" Series="4366" Issue="33633" />
+</Book>
+<Book Series="The New Titans Annual" Number="7" Volume="1989" Year="1991">
+<Database Name="cv" Series="4204" Issue="33659" />
+</Book>
+<Book Series="Detective Comics Annual" Number="4" Volume="1988" Year="1991">
+<Database Name="cv" Series="3993" Issue="33683" />
+</Book>
+<Book Series="Adventures of Superman Annual" Number="3" Volume="1987" Year="1991">
+<Database Name="cv" Series="3777" Issue="113946" />
+</Book>
+<Book Series="L.E.G.I.O.N. Annual" Number="2" Volume="1990" Year="1991">
+<Database Name="cv" Series="23015" Issue="138777" />
+</Book>
+<Book Series="Hawk and Dove Annual" Number="2" Volume="1990" Year="1991">
+<Database Name="cv" Series="4364" Issue="33632" />
+</Book>
+<Book Series="Justice League Europe Annual" Number="2" Volume="1990" Year="1991">
+<Database Name="cv" Series="4369" Issue="33634" />
+</Book>
+<Book Series="Armageddon 2001" Number="2" Volume="1991" Year="1991">
+<Database Name="cv" Series="4540" Issue="34717" />
+</Book>
+<Book Series="Action Comics" Number="670" Volume="1938" Year="1991">
+<Database Name="cv" Series="18005" Issue="113845" />
+</Book>
 <Book Series="Batman: Son of the Demon" Number="1" Volume="1987" Year="1987">
 <Database Name="cv" Series="26065" Issue="154206" />
 </Book>
@@ -404,6 +524,81 @@
 </Book>
 <Book Series="Doom Patrol" Number="48" Volume="1987" Year="1991">
 <Database Name="cv" Series="3786" Issue="34722" />
+</Book>
+<Book Series="Starman" Number="42" Volume="1988" Year="1992">
+<Database Name="cv" Series="4028" Issue="35240" />
+</Book>
+<Book Series="Starman" Number="43" Volume="1988" Year="1992">
+<Database Name="cv" Series="4028" Issue="35347" />
+</Book>
+<Book Series="Starman" Number="44" Volume="1988" Year="1992">
+<Database Name="cv" Series="4028" Issue="35456" />
+</Book>
+<Book Series="Starman" Number="45" Volume="1988" Year="1992">
+<Database Name="cv" Series="4028" Issue="35556" />
+</Book>
+<Book Series="Eclipso: The Darkness Within" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="4736" Issue="35869" />
+</Book>
+<Book Series="Superman: The Man of Steel Annual" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="21108" Issue="126736" />
+</Book>
+<Book Series="Green Lantern Annual" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="4740" Issue="35105" />
+</Book>
+<Book Series="Detective Comics Annual" Number="5" Volume="1988" Year="1992">
+<Database Name="cv" Series="3993" Issue="111258" />
+</Book>
+<Book Series="Superman Annual" Number="4" Volume="1987" Year="1992">
+<Database Name="cv" Series="3817" Issue="71044" />
+</Book>
+<Book Series="Justice League America Annual" Number="6" Volume="1991" Year="1992">
+<Database Name="cv" Series="4368" Issue="35147" />
+</Book>
+<Book Series="Demon Annual" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="18553" Issue="109257" />
+</Book>
+<Book Series="The Flash Annual" Number="5" Volume="1987" Year="1992">
+<Database Name="cv" Series="3791" Issue="35143" />
+</Book>
+<Book Series="Action Comics Annual" Number="4" Volume="1987" Year="1992">
+<Database Name="cv" Series="3776" Issue="35140" />
+</Book>
+<Book Series="Wonder Woman Annual" Number="3" Volume="1989" Year="1992">
+<Database Name="cv" Series="4216" Issue="76658" />
+</Book>
+<Book Series="Green Arrow Annual" Number="5" Volume="1988" Year="1992">
+<Database Name="cv" Series="4004" Issue="51238" />
+</Book>
+<Book Series="Robin Annual" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="9220" Issue="153387" />
+</Book>
+<Book Series="Hawkworld Annual" Number="3" Volume="1990" Year="1992">
+<Database Name="cv" Series="4366" Issue="35133" />
+</Book>
+<Book Series="Deathstroke the Terminator Annual" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="24490" Issue="149497" />
+</Book>
+<Book Series="The New Titans Annual" Number="8" Volume="1989" Year="1992">
+<Database Name="cv" Series="4204" Issue="35155" />
+</Book>
+<Book Series="Justice League Europe Annual" Number="3" Volume="1990" Year="1992">
+<Database Name="cv" Series="4369" Issue="35134" />
+</Book>
+<Book Series="Batman Annual" Number="16" Volume="1961" Year="1992">
+<Database Name="cv" Series="3109" Issue="82301" />
+</Book>
+<Book Series="L.E.G.I.O.N. Annual" Number="3" Volume="1990" Year="1992">
+<Database Name="cv" Series="23015" Issue="138779" />
+</Book>
+<Book Series="Adventures of Superman Annual" Number="4" Volume="1987" Year="1992">
+<Database Name="cv" Series="3777" Issue="70997" />
+</Book>
+<Book Series="Eclipso: The Darkness Within" Number="2" Volume="1992" Year="1992">
+<Database Name="cv" Series="4736" Issue="36233" />
+</Book>
+<Book Series="Valor" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="4759" Issue="36377" />
 </Book>
 <Book Series="Animal Man" Number="51" Volume="1988" Year="1992">
 <Database Name="cv" Series="3976" Issue="36108" />
@@ -729,6 +924,165 @@
 <Book Series="Superman: Speeding Bullets" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="26829" Issue="161049" />
 </Book>
+<Book Series="DC Universe: Trinity" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="4958" Issue="37602" />
+</Book>
+<Book Series="Green Lantern" Number="44" Volume="1990" Year="1993">
+<Database Name="cv" Series="4363" Issue="37605" />
+</Book>
+<Book Series="L.E.G.I.O.N." Number="57" Volume="1989" Year="1993">
+<Database Name="cv" Series="18909" Issue="114814" />
+</Book>
+<Book Series="Darkstars" Number="11" Volume="1992" Year="1993">
+<Database Name="cv" Series="7273" Issue="114533" />
+</Book>
+<Book Series="Green Lantern" Number="45" Volume="1990" Year="1993">
+<Database Name="cv" Series="4363" Issue="37743" />
+</Book>
+<Book Series="L.E.G.I.O.N." Number="58" Volume="1989" Year="1993">
+<Database Name="cv" Series="18909" Issue="114815" />
+</Book>
+<Book Series="Darkstars" Number="12" Volume="1992" Year="1993">
+<Database Name="cv" Series="7273" Issue="114534" />
+</Book>
+<Book Series="DC Universe: Trinity" Number="2" Volume="1993" Year="1993">
+<Database Name="cv" Series="4958" Issue="37739" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="17" Volume="1991" Year="1992">
+<Database Name="cv" Series="4571" Issue="36430" />
+</Book>
+<Book Series="Superman" Number="73" Volume="1987" Year="1992">
+<Database Name="cv" Series="3816" Issue="68543" />
+</Book>
+<Book Series="Adventures of Superman" Number="496" Volume="1987" Year="1992">
+<Database Name="cv" Series="3778" Issue="36350" />
+</Book>
+<Book Series="Action Comics" Number="683" Volume="1938" Year="1992">
+<Database Name="cv" Series="18005" Issue="115905" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="18" Volume="1991" Year="1992">
+<Database Name="cv" Series="4571" Issue="36544" />
+</Book>
+<Book Series="Justice League America" Number="69" Volume="1989" Year="1992">
+<Database Name="cv" Series="4198" Issue="36485" />
+</Book>
+<Book Series="Superman" Number="74" Volume="1987" Year="1992">
+<Database Name="cv" Series="3816" Issue="68544" />
+</Book>
+<Book Series="Adventures of Superman" Number="497" Volume="1987" Year="1992">
+<Database Name="cv" Series="3778" Issue="36467" />
+</Book>
+<Book Series="Action Comics" Number="684" Volume="1938" Year="1992">
+<Database Name="cv" Series="18005" Issue="105943" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="19" Volume="1991" Year="1993">
+<Database Name="cv" Series="4571" Issue="36781" />
+</Book>
+<Book Series="Superman" Number="75" Volume="1987" Year="1993">
+<Database Name="cv" Series="3816" Issue="68545" />
+</Book>
+<Book Series="Justice League America" Number="70" Volume="1989" Year="1993">
+<Database Name="cv" Series="4198" Issue="36721" />
+</Book>
+<Book Series="Adventures of Superman" Number="498" Volume="1987" Year="1993">
+<Database Name="cv" Series="3778" Issue="36708" />
+</Book>
+<Book Series="Action Comics" Number="685" Volume="1938" Year="1993">
+<Database Name="cv" Series="18005" Issue="110934" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="20" Volume="1991" Year="1993">
+<Database Name="cv" Series="4571" Issue="36890" />
+</Book>
+<Book Series="Superman" Number="76" Volume="1987" Year="1993">
+<Database Name="cv" Series="3816" Issue="68546" />
+</Book>
+<Book Series="Adventures of Superman" Number="499" Volume="1987" Year="1993">
+<Database Name="cv" Series="3778" Issue="36814" />
+</Book>
+<Book Series="Action Comics" Number="686" Volume="1938" Year="1993">
+<Database Name="cv" Series="18005" Issue="110957" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="21" Volume="1991" Year="1993">
+<Database Name="cv" Series="4571" Issue="37003" />
+</Book>
+<Book Series="Superman" Number="77" Volume="1987" Year="1993">
+<Database Name="cv" Series="3816" Issue="68547" />
+</Book>
+<Book Series="Superman: The Legacy of Superman" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="31761" Issue="199201" />
+</Book>
+<Book Series="Supergirl/Lex Luthor Special" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="30431" Issue="187424" />
+</Book>
+<Book Series="Adventures of Superman" Number="500" Volume="1987" Year="1993">
+<Database Name="cv" Series="3778" Issue="37303" />
+</Book>
+<Book Series="Action Comics" Number="687" Volume="1938" Year="1993">
+<Database Name="cv" Series="18005" Issue="108544" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="22" Volume="1991" Year="1993">
+<Database Name="cv" Series="4571" Issue="37405" />
+</Book>
+<Book Series="Superman" Number="78" Volume="1987" Year="1993">
+<Database Name="cv" Series="3816" Issue="68548" />
+</Book>
+<Book Series="Adventures of Superman" Number="501" Volume="1987" Year="1993">
+<Database Name="cv" Series="3778" Issue="37425" />
+</Book>
+<Book Series="Action Comics" Number="688" Volume="1938" Year="1993">
+<Database Name="cv" Series="18005" Issue="108545" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="23" Volume="1991" Year="1993">
+<Database Name="cv" Series="4571" Issue="37555" />
+</Book>
+<Book Series="Superman" Number="79" Volume="1987" Year="1993">
+<Database Name="cv" Series="3816" Issue="68549" />
+</Book>
+<Book Series="Adventures of Superman" Number="502" Volume="1987" Year="1993">
+<Database Name="cv" Series="3778" Issue="37455" />
+</Book>
+<Book Series="Action Comics" Number="689" Volume="1938" Year="1993">
+<Database Name="cv" Series="18005" Issue="108546" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="24" Volume="1991" Year="1993">
+<Database Name="cv" Series="4571" Issue="37692" />
+</Book>
+<Book Series="Superman" Number="80" Volume="1987" Year="1993">
+<Database Name="cv" Series="3816" Issue="68550" />
+</Book>
+<Book Series="Adventures of Superman" Number="503" Volume="1987" Year="1993">
+<Database Name="cv" Series="3778" Issue="37597" />
+</Book>
+<Book Series="Action Comics" Number="690" Volume="1938" Year="1993">
+<Database Name="cv" Series="18005" Issue="108547" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="25" Volume="1991" Year="1993">
+<Database Name="cv" Series="4571" Issue="37833" />
+</Book>
+<Book Series="Superman" Number="81" Volume="1987" Year="1993">
+<Database Name="cv" Series="3816" Issue="68551" />
+</Book>
+<Book Series="Adventures of Superman" Number="504" Volume="1987" Year="1993">
+<Database Name="cv" Series="3778" Issue="37733" />
+</Book>
+<Book Series="Action Comics" Number="691" Volume="1938" Year="1993">
+<Database Name="cv" Series="18005" Issue="116349" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="26" Volume="1991" Year="1993">
+<Database Name="cv" Series="4571" Issue="37983" />
+</Book>
+<Book Series="Superman" Number="82" Volume="1987" Year="1993">
+<Database Name="cv" Series="3816" Issue="68552" />
+</Book>
+<Book Series="Green Lantern" Number="46" Volume="1990" Year="1993">
+<Database Name="cv" Series="4363" Issue="37886" />
+</Book>
+<Book Series="Adventures of Superman" Number="505" Volume="1987" Year="1993">
+<Database Name="cv" Series="3778" Issue="37879" />
+</Book>
+<Book Series="Action Comics" Number="692" Volume="1938" Year="1993">
+<Database Name="cv" Series="18005" Issue="116268" />
+</Book>
 <Book Series="The Flash" Number="73" Volume="1987" Year="1993">
 <Database Name="cv" Series="3790" Issue="36821" />
 </Book>
@@ -945,6 +1299,381 @@
 <Book Series="Batman: Vengeance of Bane Special" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="21857" Issue="131755" />
 </Book>
+<Book Series="Batman" Number="484" Volume="1940" Year="1992">
+<Database Name="cv" Series="796" Issue="36110" />
+</Book>
+<Book Series="Batman" Number="485" Volume="1940" Year="1992">
+<Database Name="cv" Series="796" Issue="36228" />
+</Book>
+<Book Series="Batman" Number="486" Volume="1940" Year="1992">
+<Database Name="cv" Series="796" Issue="36353" />
+</Book>
+<Book Series="Batman" Number="487" Volume="1940" Year="1992">
+<Database Name="cv" Series="796" Issue="36470" />
+</Book>
+<Book Series="Batman" Number="488" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="36710" />
+</Book>
+<Book Series="Batman" Number="489" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="36816" />
+</Book>
+<Book Series="Batman" Number="490" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="36921" />
+</Book>
+<Book Series="Detective Comics" Number="654" Volume="1937" Year="1992">
+<Database Name="cv" Series="18058" Issue="113125" />
+</Book>
+<Book Series="Detective Comics" Number="655" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="113127" />
+</Book>
+<Book Series="Detective Comics" Number="656" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="113128" />
+</Book>
+<Book Series="Detective Comics" Number="657" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="113129" />
+</Book>
+<Book Series="Batman" Number="491" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37038" />
+</Book>
+<Book Series="Batman" Number="492" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37172" />
+</Book>
+<Book Series="Detective Comics" Number="659" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="105926" />
+</Book>
+<Book Series="Batman" Number="493" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37273" />
+</Book>
+<Book Series="Detective Comics" Number="660" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108471" />
+</Book>
+<Book Series="Batman" Number="494" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37305" />
+</Book>
+<Book Series="Detective Comics" Number="661" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108494" />
+</Book>
+<Book Series="Batman" Number="495" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37419" />
+</Book>
+<Book Series="Detective Comics" Number="662" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108495" />
+</Book>
+<Book Series="Batman" Number="496" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37457" />
+</Book>
+<Book Series="Detective Comics" Number="663" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108496" />
+</Book>
+<Book Series="Batman" Number="497" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37566" />
+</Book>
+<Book Series="Detective Comics" Number="664" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108497" />
+</Book>
+<Book Series="Showcase '93" Number="7" Volume="1993" Year="1993">
+<Database Name="cv" Series="18340" Issue="107456" />
+</Book>
+<Book Series="Showcase '93" Number="8" Volume="1993" Year="1993">
+<Database Name="cv" Series="18340" Issue="107494" />
+</Book>
+<Book Series="Batman" Number="498" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37599" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="16" Volume="1992" Year="1993">
+<Database Name="cv" Series="4724" Issue="37711" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="17" Volume="1992" Year="1993">
+<Database Name="cv" Series="4724" Issue="37850" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="18" Volume="1992" Year="1993">
+<Database Name="cv" Series="4724" Issue="37854" />
+</Book>
+<Book Series="Detective Comics" Number="665" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108498" />
+</Book>
+<Book Series="Batman" Number="499" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37735" />
+</Book>
+<Book Series="Detective Comics" Number="666" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108499" />
+</Book>
+<Book Series="Batman" Number="500" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="37881" />
+</Book>
+<Book Series="Detective Comics" Number="667" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108519" />
+</Book>
+<Book Series="Detective Comics" Number="668" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="108520" />
+</Book>
+<Book Series="Robin" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="4975" Issue="38052" />
+</Book>
+<Book Series="Robin" Number="2" Volume="1991" Year="1991">
+<Database Name="cv" Series="4563" Issue="33845" />
+</Book>
+<Book Series="Robin" Number="5" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="38899" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="19" Volume="1992" Year="1993">
+<Database Name="cv" Series="4724" Issue="37997" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="20" Volume="1992" Year="1993">
+<Database Name="cv" Series="4724" Issue="38006" />
+</Book>
+<Book Series="Batman" Number="501" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="38033" />
+</Book>
+<Book Series="Batman" Number="502" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="38191" />
+</Book>
+<Book Series="Detective Comics" Number="669" Volume="1937" Year="1993">
+<Database Name="cv" Series="18058" Issue="106823" />
+</Book>
+<Book Series="Detective Comics" Number="670" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="106839" />
+</Book>
+<Book Series="Catwoman" Number="6" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="38558" />
+</Book>
+<Book Series="Batman" Number="503" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="38440" />
+</Book>
+<Book Series="Batman" Number="504" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="38591" />
+</Book>
+<Book Series="Catwoman" Number="7" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="38595" />
+</Book>
+<Book Series="Detective Comics" Number="671" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="108525" />
+</Book>
+<Book Series="Detective Comics" Number="672" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="108526" />
+</Book>
+<Book Series="Detective Comics" Number="673" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="113130" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="24" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="38688" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="25" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="38838" />
+</Book>
+<Book Series="Batman" Number="505" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="38735" />
+</Book>
+<Book Series="Batman" Number="506" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="38884" />
+</Book>
+<Book Series="Batman" Number="507" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="39026" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="26" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="38976" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="27" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="39122" />
+</Book>
+<Book Series="Detective Comics" Number="674" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="108527" />
+</Book>
+<Book Series="Batman" Number="508" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="39165" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="28" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="39275" />
+</Book>
+<Book Series="Detective Comics" Number="675" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="108528" />
+</Book>
+<Book Series="Justice League Task Force" Number="5" Volume="1993" Year="1993">
+<Database Name="cv" Series="4967" Issue="37894" />
+</Book>
+<Book Series="Justice League Task Force" Number="6" Volume="1993" Year="1993">
+<Database Name="cv" Series="4967" Issue="38045" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="21" Volume="1992" Year="1993">
+<Database Name="cv" Series="4724" Issue="38160" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="22" Volume="1992" Year="1993">
+<Database Name="cv" Series="4724" Issue="38293" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="23" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="38549" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="59" Volume="1992" Year="1994">
+<Database Name="cv" Series="4720" Issue="38970" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="60" Volume="1992" Year="1994">
+<Database Name="cv" Series="4720" Issue="39110" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="61" Volume="1992" Year="1994">
+<Database Name="cv" Series="4720" Issue="39260" />
+</Book>
+<Book Series="Robin" Number="7" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="39182" />
+</Book>
+<Book Series="Batman" Number="509" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="39315" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="29" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="39417" />
+</Book>
+<Book Series="Detective Comics" Number="676" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="108529" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="62" Volume="1992" Year="1994">
+<Database Name="cv" Series="4720" Issue="39403" />
+</Book>
+<Book Series="Robin" Number="8" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="39332" />
+</Book>
+<Book Series="Catwoman" Number="12" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="39413" />
+</Book>
+<Book Series="Batman" Number="510" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="39454" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="30" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="39561" />
+</Book>
+<Book Series="Detective Comics" Number="677" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="108530" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="63" Volume="1992" Year="1994">
+<Database Name="cv" Series="4720" Issue="39545" />
+</Book>
+<Book Series="Robin" Number="9" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="39471" />
+</Book>
+<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Database Name="cv" Series="21865" Issue="134775" />
+</Book>
+<Book Series="Lobo Annual" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="24492" Issue="145104" />
+</Book>
+<Book Series="Superman: The Man of Steel Annual" Number="2" Volume="1992" Year="1993">
+<Database Name="cv" Series="21108" Issue="145092" />
+</Book>
+<Book Series="Batman: Shadow of the Bat Annual" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="9219" Issue="130466" />
+</Book>
+<Book Series="The Flash Annual" Number="6" Volume="1987" Year="1993">
+<Database Name="cv" Series="3791" Issue="36646" />
+</Book>
+<Book Series="The New Titans Annual" Number="9" Volume="1989" Year="1993">
+<Database Name="cv" Series="4204" Issue="36652" />
+</Book>
+<Book Series="Superman Annual" Number="5" Volume="1987" Year="1993">
+<Database Name="cv" Series="3817" Issue="71045" />
+</Book>
+<Book Series="Green Lantern Annual" Number="2" Volume="1992" Year="1993">
+<Database Name="cv" Series="4740" Issue="36631" />
+</Book>
+<Book Series="Batman Annual" Number="17" Volume="1961" Year="1993">
+<Database Name="cv" Series="3109" Issue="82302" />
+</Book>
+<Book Series="Justice League International Annual" Number="4" Volume="1988" Year="1993">
+<Database Name="cv" Series="23398" Issue="140380" />
+</Book>
+<Book Series="Robin Annual" Number="2" Volume="1992" Year="1993">
+<Database Name="cv" Series="9220" Issue="130467" />
+</Book>
+<Book Series="Action Comics Annual" Number="5" Volume="1987" Year="1993">
+<Database Name="cv" Series="3776" Issue="36643" />
+</Book>
+<Book Series="The Legion of Super-Heroes Annual" Number="4" Volume="1990" Year="1993">
+<Database Name="cv" Series="4371" Issue="38317" />
+</Book>
+<Book Series="Green Arrow Annual" Number="6" Volume="1988" Year="1993">
+<Database Name="cv" Series="4004" Issue="51239" />
+</Book>
+<Book Series="Detective Comics Annual" Number="6" Volume="1988" Year="1993">
+<Database Name="cv" Series="3993" Issue="36660" />
+</Book>
+<Book Series="Justice League America Annual" Number="7" Volume="1991" Year="1993">
+<Database Name="cv" Series="4368" Issue="36648" />
+</Book>
+<Book Series="Adventures of Superman Annual" Number="5" Volume="1987" Year="1993">
+<Database Name="cv" Series="3777" Issue="70998" />
+</Book>
+<Book Series="Hawkman Annual" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="30824" Issue="190504" />
+</Book>
+<Book Series="Deathstroke the Terminator Annual" Number="2" Volume="1992" Year="1993">
+<Database Name="cv" Series="24490" Issue="145091" />
+</Book>
+<Book Series="Eclipso Annual" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="27259" Issue="166127" />
+</Book>
+<Book Series="Demon Annual" Number="2" Volume="1992" Year="1993">
+<Database Name="cv" Series="18553" Issue="109292" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight Annual" Number="3" Volume="1993" Year="1993">
+<Database Name="cv" Series="4950" Issue="36608" />
+</Book>
+<Book Series="Team Titans Annual" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="9321" Issue="74631" />
+</Book>
+<Book Series="L.E.G.I.O.N. Annual" Number="4" Volume="1990" Year="1993">
+<Database Name="cv" Series="23015" Issue="138783" />
+</Book>
+<Book Series="Bloodbath Special" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="4954" Issue="38194" />
+</Book>
+<Book Series="Bloodbath Special" Number="2" Volume="1993" Year="1993">
+<Database Name="cv" Series="4954" Issue="38312" />
+</Book>
+<Book Series="Batman" Number="512" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="39887" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="32" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="39990" />
+</Book>
+<Book Series="Detective Comics" Number="679" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="113132" />
+</Book>
+<Book Series="Robin" Number="11" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="39902" />
+</Book>
+<Book Series="Batman" Number="513" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="40020" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="33" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="40129" />
+</Book>
+<Book Series="Detective Comics" Number="680" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="113133" />
+</Book>
+<Book Series="Robin" Number="12" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="40036" />
+</Book>
+<Book Series="Batman" Number="514" Volume="1940" Year="1995">
+<Database Name="cv" Series="796" Issue="40261" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="34" Volume="1992" Year="1995">
+<Database Name="cv" Series="4724" Issue="40371" />
+</Book>
+<Book Series="Detective Comics" Number="681" Volume="1937" Year="1995">
+<Database Name="cv" Series="18058" Issue="113143" />
+</Book>
+<Book Series="Robin" Number="13" Volume="1993" Year="1995">
+<Database Name="cv" Series="4975" Issue="40277" />
+</Book>
+<Book Series="Batman" Number="515" Volume="1940" Year="1995">
+<Database Name="cv" Series="796" Issue="40406" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="35" Volume="1992" Year="1995">
+<Database Name="cv" Series="4724" Issue="40505" />
+</Book>
+<Book Series="Detective Comics" Number="682" Volume="1937" Year="1995">
+<Database Name="cv" Series="18058" Issue="113144" />
+</Book>
+<Book Series="Robin" Number="14" Volume="1993" Year="1995">
+<Database Name="cv" Series="4975" Issue="40423" />
+</Book>
 <Book Series="The Flash" Number="91" Volume="1987" Year="1994">
 <Database Name="cv" Series="3790" Issue="39172" />
 </Book>
@@ -1058,6 +1787,159 @@
 </Book>
 <Book Series="Green Lantern" Number="54" Volume="1990" Year="1994">
 <Database Name="cv" Series="4363" Issue="39462" />
+</Book>
+<Book Series="Showcase '94" Number="8" Volume="1994" Year="1994">
+<Database Name="cv" Series="21865" Issue="134773" />
+</Book>
+<Book Series="Showcase '94" Number="9" Volume="1994" Year="1994">
+<Database Name="cv" Series="21865" Issue="134774" />
+</Book>
+<Book Series="Outsiders" Number="10" Volume="1993" Year="1994">
+<Database Name="cv" Series="22453" Issue="134914" />
+</Book>
+<Book Series="The Flash" Number="92" Volume="1987" Year="1994">
+<Database Name="cv" Series="3790" Issue="39322" />
+</Book>
+<Book Series="The Flash" Number="93" Volume="1987" Year="1994">
+<Database Name="cv" Series="3790" Issue="39461" />
+</Book>
+<Book Series="Valor" Number="21" Volume="1992" Year="1994">
+<Database Name="cv" Series="4759" Issue="39619" />
+</Book>
+<Book Series="Legionnaires" Number="16" Volume="1993" Year="1994">
+<Database Name="cv" Series="4971" Issue="39330" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="59" Volume="1989" Year="1994">
+<Database Name="cv" Series="4201" Issue="39420" />
+</Book>
+<Book Series="Legionnaires" Number="17" Volume="1993" Year="1994">
+<Database Name="cv" Series="4971" Issue="39469" />
+</Book>
+<Book Series="Valor" Number="22" Volume="1992" Year="1994">
+<Database Name="cv" Series="4759" Issue="39765" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="60" Volume="1989" Year="1994">
+<Database Name="cv" Series="4201" Issue="39564" />
+</Book>
+<Book Series="The Flash" Number="94" Volume="1987" Year="1994">
+<Database Name="cv" Series="3790" Issue="39600" />
+</Book>
+<Book Series="Outsiders" Number="11" Volume="1993" Year="1994">
+<Database Name="cv" Series="22453" Issue="134772" />
+</Book>
+<Book Series="Zero Hour: Crisis in Time" Number="0" Volume="1994" Year="1994">
+<Database Name="cv" Series="5271" Issue="39711" />
+</Book>
+<Book Series="Darkstars" Number="24" Volume="1992" Year="1994">
+<Database Name="cv" Series="7273" Issue="76343" />
+</Book>
+<Book Series="Batman" Number="511" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="39595" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="37" Volume="1991" Year="1994">
+<Database Name="cv" Series="4571" Issue="39698" />
+</Book>
+<Book Series="Green Lantern" Number="55" Volume="1990" Year="1994">
+<Database Name="cv" Series="4363" Issue="39601" />
+</Book>
+<Book Series="Legionnaires" Number="18" Volume="1993" Year="1994">
+<Database Name="cv" Series="4971" Issue="39609" />
+</Book>
+<Book Series="Valor" Number="23" Volume="1992" Year="1994">
+<Database Name="cv" Series="4759" Issue="39911" />
+</Book>
+<Book Series="Superboy" Number="8" Volume="1994" Year="1994">
+<Database Name="cv" Series="5261" Issue="39617" />
+</Book>
+<Book Series="Superman" Number="93" Volume="1987" Year="1994">
+<Database Name="cv" Series="3816" Issue="113931" />
+</Book>
+<Book Series="Hawkman" Number="13" Volume="1993" Year="1994">
+<Database Name="cv" Series="4962" Issue="39602" />
+</Book>
+<Book Series="Steel" Number="8" Volume="1994" Year="1994">
+<Database Name="cv" Series="5260" Issue="136313" />
+</Book>
+<Book Series="Zero Hour: Crisis in Time" Number="3" Volume="1994" Year="1994">
+<Database Name="cv" Series="5271" Issue="39705" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="31" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="39697" />
+</Book>
+<Book Series="Justice League America" Number="92" Volume="1989" Year="1994">
+<Database Name="cv" Series="4198" Issue="39605" />
+</Book>
+<Book Series="L.E.G.I.O.N." Number="70" Volume="1989" Year="1994">
+<Database Name="cv" Series="18909" Issue="114827" />
+</Book>
+<Book Series="Justice League Task Force" Number="16" Volume="1993" Year="1994">
+<Database Name="cv" Series="4967" Issue="39607" />
+</Book>
+<Book Series="Detective Comics" Number="678" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="113131" />
+</Book>
+<Book Series="Team Titans" Number="24" Volume="1992" Year="1994">
+<Database Name="cv" Series="9320" Issue="74630" />
+</Book>
+<Book Series="Zero Hour: Crisis in Time" Number="2" Volume="1994" Year="1994">
+<Database Name="cv" Series="5271" Issue="39709" />
+</Book>
+<Book Series="Adventures of Superman" Number="516" Volume="1987" Year="1994">
+<Database Name="cv" Series="3778" Issue="39593" />
+</Book>
+<Book Series="Green Arrow" Number="90" Volume="1988" Year="1994">
+<Database Name="cv" Series="4003" Issue="66781" />
+</Book>
+<Book Series="Guy Gardner: Warrior" Number="24" Volume="1994" Year="1994">
+<Database Name="cv" Series="11894" Issue="104092" />
+</Book>
+<Book Series="Zero Hour: Crisis in Time" Number="1" Volume="1994" Year="1994">
+<Database Name="cv" Series="5271" Issue="39710" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="61" Volume="1989" Year="1994">
+<Database Name="cv" Series="4201" Issue="39700" />
+</Book>
+<Book Series="Justice League International" Number="68" Volume="1993" Year="1994">
+<Database Name="cv" Series="4966" Issue="39606" />
+</Book>
+<Book Series="Damage" Number="6" Volume="1994" Year="1994">
+<Database Name="cv" Series="5242" Issue="39598" />
+</Book>
+<Book Series="Anima" Number="7" Volume="1994" Year="1994">
+<Database Name="cv" Series="5229" Issue="39699" />
+</Book>
+<Book Series="Robin" Number="10" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="39611" />
+</Book>
+<Book Series="Action Comics" Number="703" Volume="1938" Year="1994">
+<Database Name="cv" Series="18005" Issue="115770" />
+</Book>
+<Book Series="Catwoman" Number="14" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="39692" />
+</Book>
+<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Database Name="cv" Series="21865" Issue="134775" />
+</Book>
+<Book Series="Zero Hour: Crisis in Time" Number="0" Volume="1994" Year="1994">
+<Database Name="cv" Series="5271" Issue="39711" />
+</Book>
+<Book Series="The Flash" Number="0" Volume="1987" Year="1994">
+<Database Name="cv" Series="3790" Issue="39748" />
+</Book>
+<Book Series="Green Lantern" Number="0" Volume="1990" Year="1994">
+<Database Name="cv" Series="4363" Issue="39749" />
+</Book>
+<Book Series="Damage" Number="0" Volume="1994" Year="1994">
+<Database Name="cv" Series="5242" Issue="39745" />
+</Book>
+<Book Series="Darkstars" Number="0" Volume="1992" Year="1994">
+<Database Name="cv" Series="7273" Issue="76320" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="0" Volume="1991" Year="1994">
+<Database Name="cv" Series="4571" Issue="39846" />
+</Book>
+<Book Series="Fate" Number="0" Volume="1994" Year="1994">
+<Database Name="cv" Series="5243" Issue="39747" />
 </Book>
 <Book Series="The Flash" Number="95" Volume="1987" Year="1994">
 <Database Name="cv" Series="3790" Issue="39893" />
@@ -1428,6 +2310,213 @@
 <Book Series="Detective Comics" Number="690" Volume="1937" Year="1995">
 <Database Name="cv" Series="18058" Issue="113152" />
 </Book>
+<Book Series="Action Comics" Number="715" Volume="1938" Year="1995">
+<Database Name="cv" Series="18005" Issue="115556" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="50" Volume="1991" Year="1995">
+<Database Name="cv" Series="4571" Issue="41693" />
+</Book>
+<Book Series="Superman" Number="106" Volume="1987" Year="1995">
+<Database Name="cv" Series="3816" Issue="70811" />
+</Book>
+<Book Series="Adventures of Superman" Number="529" Volume="1987" Year="1995">
+<Database Name="cv" Series="3778" Issue="41596" />
+</Book>
+<Book Series="Action Comics" Number="716" Volume="1938" Year="1995">
+<Database Name="cv" Series="18005" Issue="115518" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="51" Volume="1991" Year="1995">
+<Database Name="cv" Series="4571" Issue="41816" />
+</Book>
+<Book Series="Superman" Number="107" Volume="1987" Year="1995">
+<Database Name="cv" Series="3816" Issue="70812" />
+</Book>
+<Book Series="Adventures of Superman" Number="530" Volume="1987" Year="1995">
+<Database Name="cv" Series="3778" Issue="41723" />
+</Book>
+<Book Series="Superman: The Man of Tomorrow" Number="3" Volume="1995" Year="1995">
+<Database Name="cv" Series="5523" Issue="41793" />
+</Book>
+<Book Series="Action Comics" Number="717" Volume="1938" Year="1996">
+<Database Name="cv" Series="18005" Issue="115517" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="52" Volume="1991" Year="1996">
+<Database Name="cv" Series="4571" Issue="42029" />
+</Book>
+<Book Series="Superman" Number="108" Volume="1987" Year="1996">
+<Database Name="cv" Series="3816" Issue="70813" />
+</Book>
+<Book Series="Adventures of Superman" Number="531" Volume="1987" Year="1996">
+<Database Name="cv" Series="3778" Issue="70916" />
+</Book>
+<Book Series="Underworld Unleashed" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="5526" Issue="41625" />
+</Book>
+<Book Series="Aquaman" Number="14" Volume="1994" Year="1995">
+<Database Name="cv" Series="5230" Issue="41661" />
+</Book>
+<Book Series="Underworld Unleashed: Apokolips" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="22670" Issue="135962" />
+</Book>
+<Book Series="Azrael" Number="10" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="41598" />
+</Book>
+<Book Series="Manhunter" Number="12" Volume="1988" Year="1989">
+<Database Name="cv" Series="4009" Issue="31067" />
+</Book>
+<Book Series="Damage" Number="18" Volume="1994" Year="1995">
+<Database Name="cv" Series="5242" Issue="41602" />
+</Book>
+<Book Series="Guy Gardner: Warrior" Number="36" Volume="1994" Year="1995">
+<Database Name="cv" Series="11894" Issue="104104" />
+</Book>
+<Book Series="Extreme Justice" Number="10" Volume="1995" Year="1995">
+<Database Name="cv" Series="5505" Issue="41603" />
+</Book>
+<Book Series="The Flash" Number="107" Volume="1987" Year="1995">
+<Database Name="cv" Series="3790" Issue="41604" />
+</Book>
+<Book Series="Primal Force" Number="13" Volume="1994" Year="1995">
+<Database Name="cv" Series="5253" Issue="41666" />
+</Book>
+<Book Series="The Spectre" Number="35" Volume="1992" Year="1995">
+<Database Name="cv" Series="4754" Issue="41618" />
+</Book>
+<Book Series="Starman" Number="12" Volume="1994" Year="1995">
+<Database Name="cv" Series="5259" Issue="41496" />
+</Book>
+<Book Series="Starman" Number="13" Volume="1994" Year="1995">
+<Database Name="cv" Series="5259" Issue="41622" />
+</Book>
+<Book Series="Starman" Number="14" Volume="1994" Year="1995">
+<Database Name="cv" Series="5259" Issue="41749" />
+</Book>
+<Book Series="Starman" Number="15" Volume="1994" Year="1996">
+<Database Name="cv" Series="5259" Issue="41971" />
+</Book>
+<Book Series="Starman" Number="16" Volume="1994" Year="1996">
+<Database Name="cv" Series="5259" Issue="42081" />
+</Book>
+<Book Series="Robin" Number="23" Volume="1993" Year="1995">
+<Database Name="cv" Series="4975" Issue="41741" />
+</Book>
+<Book Series="Robin" Number="24" Volume="1993" Year="1996">
+<Database Name="cv" Series="4975" Issue="41963" />
+</Book>
+<Book Series="Hawkman" Number="26" Volume="1993" Year="1995">
+<Database Name="cv" Series="4962" Issue="137402" />
+</Book>
+<Book Series="Justice League America" Number="105" Volume="1989" Year="1995">
+<Database Name="cv" Series="4198" Issue="41609" />
+</Book>
+<Book Series="R.E.B.E.L.S." Number="13" Volume="1994" Year="1995">
+<Database Name="cv" Series="18426" Issue="122322" />
+</Book>
+<Book Series="Steel" Number="21" Volume="1994" Year="1995">
+<Database Name="cv" Series="5260" Issue="136324" />
+</Book>
+<Book Series="Green Lantern" Number="68" Volume="1990" Year="1995">
+<Database Name="cv" Series="4363" Issue="41605" />
+</Book>
+<Book Series="Green Arrow" Number="102" Volume="1988" Year="1995">
+<Database Name="cv" Series="4003" Issue="66788" />
+</Book>
+<Book Series="Impulse" Number="8" Volume="1995" Year="1995">
+<Database Name="cv" Series="5509" Issue="41607" />
+</Book>
+<Book Series="Detective Comics" Number="691" Volume="1937" Year="1995">
+<Database Name="cv" Series="18058" Issue="113153" />
+</Book>
+<Book Series="The Ray" Number="18" Volume="1994" Year="1995">
+<Database Name="cv" Series="20587" Issue="123402" />
+</Book>
+<Book Series="Fate" Number="13" Volume="1994" Year="1995">
+<Database Name="cv" Series="5243" Issue="226478" />
+</Book>
+<Book Series="Underworld Unleashed" Number="2" Volume="1995" Year="1995">
+<Database Name="cv" Series="5526" Issue="41753" />
+</Book>
+<Book Series="Adventures of Superman" Number="530" Volume="1987" Year="1995">
+<Database Name="cv" Series="3778" Issue="41723" />
+</Book>
+<Book Series="Superman: The Man of Tomorrow" Number="3" Volume="1995" Year="1995">
+<Database Name="cv" Series="5523" Issue="41793" />
+</Book>
+<Book Series="Underworld Unleashed: Abyss - Hell's Sentinel" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="22671" Issue="135963" />
+</Book>
+<Book Series="Batman" Number="525" Volume="1940" Year="1995">
+<Database Name="cv" Series="796" Issue="41725" />
+</Book>
+<Book Series="Underworld Unleashed: Batman - Devil's Asylum" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="22656" Issue="135921" />
+</Book>
+<Book Series="Catwoman" Number="27" Volume="1993" Year="1995">
+<Database Name="cv" Series="4955" Issue="41798" />
+</Book>
+<Book Series="Damage" Number="19" Volume="1994" Year="1995">
+<Database Name="cv" Series="5242" Issue="41729" />
+</Book>
+<Book Series="Deathstroke the Terminator" Number="53" Volume="1991" Year="1995">
+<Database Name="cv" Series="9645" Issue="109163" />
+</Book>
+<Book Series="Extreme Justice" Number="11" Volume="1995" Year="1995">
+<Database Name="cv" Series="5505" Issue="41731" />
+</Book>
+<Book Series="Green Arrow" Number="103" Volume="1988" Year="1995">
+<Database Name="cv" Series="4003" Issue="66789" />
+</Book>
+<Book Series="Green Lantern" Number="69" Volume="1990" Year="1995">
+<Database Name="cv" Series="4363" Issue="41733" />
+</Book>
+<Book Series="Guy Gardner: Warrior" Number="37" Volume="1994" Year="1995">
+<Database Name="cv" Series="11894" Issue="104105" />
+</Book>
+<Book Series="Hawkman" Number="27" Volume="1993" Year="1995">
+<Database Name="cv" Series="4962" Issue="137403" />
+</Book>
+<Book Series="Justice League America" Number="106" Volume="1989" Year="1995">
+<Database Name="cv" Series="4198" Issue="41737" />
+</Book>
+<Book Series="Justice League Task Force" Number="30" Volume="1993" Year="1995">
+<Database Name="cv" Series="4967" Issue="41738" />
+</Book>
+<Book Series="The Spectre" Number="36" Volume="1992" Year="1995">
+<Database Name="cv" Series="4754" Issue="41745" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="75" Volume="1989" Year="1995">
+<Database Name="cv" Series="4201" Issue="41817" />
+</Book>
+<Book Series="Legionnaires" Number="32" Volume="1993" Year="1995">
+<Database Name="cv" Series="4971" Issue="48450" />
+</Book>
+<Book Series="Lobo" Number="22" Volume="1993" Year="1995">
+<Database Name="cv" Series="18356" Issue="115242" />
+</Book>
+<Book Series="Underworld Unleashed: Patterns of Fear" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="22672" Issue="135964" />
+</Book>
+<Book Series="R.E.B.E.L.S." Number="14" Volume="1994" Year="1995">
+<Database Name="cv" Series="18426" Issue="122324" />
+</Book>
+<Book Series="Detective Comics" Number="692" Volume="1937" Year="1995">
+<Database Name="cv" Series="18058" Issue="113154" />
+</Book>
+<Book Series="The Ray" Number="19" Volume="1994" Year="1995">
+<Database Name="cv" Series="20587" Issue="123403" />
+</Book>
+<Book Series="Fate" Number="14" Volume="1994" Year="1995">
+<Database Name="cv" Series="5243" Issue="152134" />
+</Book>
+<Book Series="Showcase '95" Number="12" Volume="1995" Year="1995">
+<Database Name="cv" Series="22878" Issue="137440" />
+</Book>
+<Book Series="Superboy" Number="22" Volume="1994" Year="1995">
+<Database Name="cv" Series="5261" Issue="41750" />
+</Book>
+<Book Series="Underworld Unleashed" Number="3" Volume="1995" Year="1995">
+<Database Name="cv" Series="5526" Issue="41826" />
+</Book>
 <Book Series="Starman" Number="17" Volume="1994" Year="1996">
 <Database Name="cv" Series="5259" Issue="42191" />
 </Book>
@@ -1442,6 +2531,24 @@
 </Book>
 <Book Series="Kingdom Come" Number="4" Volume="1996" Year="1996">
 <Database Name="cv" Series="5753" Issue="42649" />
+</Book>
+<Book Series="The Flash" Number="108" Volume="1987" Year="1995">
+<Database Name="cv" Series="3790" Issue="41732" />
+</Book>
+<Book Series="The Flash" Number="109" Volume="1987" Year="1996">
+<Database Name="cv" Series="3790" Issue="41954" />
+</Book>
+<Book Series="Impulse" Number="10" Volume="1995" Year="1996">
+<Database Name="cv" Series="5509" Issue="41957" />
+</Book>
+<Book Series="The Flash" Number="110" Volume="1987" Year="1996">
+<Database Name="cv" Series="3790" Issue="42063" />
+</Book>
+<Book Series="Impulse" Number="11" Volume="1995" Year="1996">
+<Database Name="cv" Series="5509" Issue="42066" />
+</Book>
+<Book Series="The Flash" Number="111" Volume="1987" Year="1996">
+<Database Name="cv" Series="3790" Issue="42176" />
 </Book>
 <Book Series="The Flash" Number="112" Volume="1987" Year="1996">
 <Database Name="cv" Series="3790" Issue="42269" />
@@ -1506,6 +2613,42 @@
 <Book Series="Robin" Number="26" Volume="1993" Year="1996">
 <Database Name="cv" Series="4975" Issue="42185" />
 </Book>
+<Book Series="Batman: Shadow of the Bat" Number="48" Volume="1992" Year="1996">
+<Database Name="cv" Series="4724" Issue="42232" />
+</Book>
+<Book Series="Detective Comics" Number="695" Volume="1937" Year="1996">
+<Database Name="cv" Series="18058" Issue="108469" />
+</Book>
+<Book Series="Robin" Number="27" Volume="1993" Year="1996">
+<Database Name="cv" Series="4975" Issue="42245" />
+</Book>
+<Book Series="Catwoman" Number="31" Volume="1993" Year="1996">
+<Database Name="cv" Series="4955" Issue="42249" />
+</Book>
+<Book Series="Azrael" Number="15" Volume="1995" Year="1996">
+<Database Name="cv" Series="5490" Issue="108467" />
+</Book>
+<Book Series="Batman" Number="529" Volume="1940" Year="1996">
+<Database Name="cv" Series="796" Issue="42265" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="49" Volume="1992" Year="1996">
+<Database Name="cv" Series="4724" Issue="42336" />
+</Book>
+<Book Series="Detective Comics" Number="696" Volume="1937" Year="1996">
+<Database Name="cv" Series="18058" Issue="108470" />
+</Book>
+<Book Series="The Batman Chronicles" Number="4" Volume="1995" Year="1996">
+<Database Name="cv" Series="6598" Issue="75530" />
+</Book>
+<Book Series="Catwoman" Number="32" Volume="1993" Year="1996">
+<Database Name="cv" Series="4955" Issue="42334" />
+</Book>
+<Book Series="Azrael" Number="16" Volume="1995" Year="1996">
+<Database Name="cv" Series="5490" Issue="108468" />
+</Book>
+<Book Series="Robin" Number="28" Volume="1993" Year="1996">
+<Database Name="cv" Series="4975" Issue="42276" />
+</Book>
 <Book Series="Robin" Number="29" Volume="1993" Year="1996">
 <Database Name="cv" Series="4975" Issue="42380" />
 </Book>
@@ -1526,6 +2669,39 @@
 </Book>
 <Book Series="Batman: Bane of the Demon" Number="4" Volume="1998" Year="1998">
 <Database Name="cv" Series="9382" Issue="76081" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="53" Volume="1992" Year="1996">
+<Database Name="cv" Series="4724" Issue="42728" />
+</Book>
+<Book Series="Batman" Number="533" Volume="1940" Year="1996">
+<Database Name="cv" Series="796" Issue="42666" />
+</Book>
+<Book Series="Detective Comics" Number="700" Volume="1937" Year="1996">
+<Database Name="cv" Series="18058" Issue="106843" />
+</Book>
+<Book Series="Catwoman" Number="36" Volume="1993" Year="1996">
+<Database Name="cv" Series="4955" Issue="46564" />
+</Book>
+<Book Series="Robin" Number="32" Volume="1993" Year="1996">
+<Database Name="cv" Series="4975" Issue="42683" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="54" Volume="1992" Year="1996">
+<Database Name="cv" Series="4724" Issue="42827" />
+</Book>
+<Book Series="Batman" Number="534" Volume="1940" Year="1996">
+<Database Name="cv" Series="796" Issue="42766" />
+</Book>
+<Book Series="Detective Comics" Number="701" Volume="1937" Year="1996">
+<Database Name="cv" Series="18058" Issue="113160" />
+</Book>
+<Book Series="Robin" Number="33" Volume="1993" Year="1996">
+<Database Name="cv" Series="4975" Issue="42780" />
+</Book>
+<Book Series="Detective Comics" Number="702" Volume="1937" Year="1996">
+<Database Name="cv" Series="18058" Issue="113163" />
+</Book>
+<Book Series="Batman: Bane" Number="1" Volume="1997" Year="1997">
+<Database Name="cv" Series="33242" Issue="214855" />
 </Book>
 <Book Series="Robin" Number="34" Volume="1993" Year="1996">
 <Database Name="cv" Series="4975" Issue="42867" />
@@ -1757,6 +2933,81 @@
 </Book>
 <Book Series="The Spectre" Number="46" Volume="1992" Year="1996">
 <Database Name="cv" Series="4754" Issue="42870" />
+</Book>
+<Book Series="The Final Night" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="5747" Issue="42930" />
+</Book>
+<Book Series="Green Lantern" Number="80" Volume="1990" Year="1996">
+<Database Name="cv" Series="4363" Issue="42956" />
+</Book>
+<Book Series="The Power of Shazam!" Number="20" Volume="1994" Year="1996">
+<Database Name="cv" Series="5515" Issue="42962" />
+</Book>
+<Book Series="Sovereign Seven" Number="16" Volume="1995" Year="1996">
+<Database Name="cv" Series="5518" Issue="166885" />
+</Book>
+<Book Series="Superman" Number="117" Volume="1987" Year="1996">
+<Database Name="cv" Series="3816" Issue="115548" />
+</Book>
+<Book Series="The Final Night" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="5747" Issue="42937" />
+</Book>
+<Book Series="Adventures of Superman" Number="540" Volume="1987" Year="1996">
+<Database Name="cv" Series="3778" Issue="115162" />
+</Book>
+<Book Series="Batman" Number="536" Volume="1940" Year="1996">
+<Database Name="cv" Series="796" Issue="42949" />
+</Book>
+<Book Series="Green Arrow" Number="114" Volume="1988" Year="1996">
+<Database Name="cv" Series="4003" Issue="66800" />
+</Book>
+<Book Series="Supergirl" Number="3" Volume="1996" Year="1996">
+<Database Name="cv" Series="5766" Issue="43015" />
+</Book>
+<Book Series="The Final Night" Number="3" Volume="1996" Year="1996">
+<Database Name="cv" Series="5747" Issue="42939" />
+</Book>
+<Book Series="Action Comics" Number="727" Volume="1938" Year="1996">
+<Database Name="cv" Series="18005" Issue="115463" />
+</Book>
+<Book Series="Aquaman" Number="26" Volume="1994" Year="1996">
+<Database Name="cv" Series="5230" Issue="43005" />
+</Book>
+<Book Series="Detective Comics" Number="703" Volume="1937" Year="1996">
+<Database Name="cv" Series="18058" Issue="113164" />
+</Book>
+<Book Series="Superboy" Number="33" Volume="1994" Year="1996">
+<Database Name="cv" Series="5261" Issue="42969" />
+</Book>
+<Book Series="Parallax: Emerald Night" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="27394" Issue="166892" />
+</Book>
+<Book Series="The Flash" Number="119" Volume="1987" Year="1996">
+<Database Name="cv" Series="3790" Issue="42955" />
+</Book>
+<Book Series="Hitman" Number="8" Volume="1996" Year="1996">
+<Database Name="cv" Series="5750" Issue="42938" />
+</Book>
+<Book Series="Legion of Super-Heroes" Number="86" Volume="1989" Year="1996">
+<Database Name="cv" Series="4201" Issue="43023" />
+</Book>
+<Book Series="Robin" Number="35" Volume="1993" Year="1996">
+<Database Name="cv" Series="4975" Issue="42964" />
+</Book>
+<Book Series="The Spectre" Number="47" Volume="1992" Year="1996">
+<Database Name="cv" Series="4754" Issue="42967" />
+</Book>
+<Book Series="Superman: The Man of Steel" Number="62" Volume="1991" Year="1996">
+<Database Name="cv" Series="4571" Issue="46635" />
+</Book>
+<Book Series="Takion" Number="6" Volume="1996" Year="1996">
+<Database Name="cv" Series="11257" Issue="98854" />
+</Book>
+<Book Series="The Final Night" Number="4" Volume="1996" Year="1996">
+<Database Name="cv" Series="5747" Issue="42940" />
+</Book>
+<Book Series="Green Lantern" Number="81" Volume="1990" Year="1996">
+<Database Name="cv" Series="4363" Issue="43049" />
 </Book>
 <Book Series="Supergirl" Number="4" Volume="1996" Year="1996">
 <Database Name="cv" Series="5766" Issue="43116" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel NOW!- Marvel NOW! Part #1 (WEB-CBRO)</Name>
-<NumIssues>748</NumIssues>
+<NumIssues>860</NumIssues>
 <Books>
 <Book Series="Marvel NOW! Point One" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="53097" Issue="362257" />
@@ -1140,6 +1140,63 @@
 <Book Series="FF" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="54295" Issue="413657" />
 </Book>
+<Book Series="Avengers Assemble" Number="14AU" Volume="2012" Year="2013">
+<Database Name="cv" Series="46569" Issue="396424" />
+</Book>
+<Book Series="Avengers Assemble" Number="15AU" Volume="2012" Year="2013">
+<Database Name="cv" Series="46569" Issue="401203" />
+</Book>
+<Book Series="Fantastic Four" Number="5AU" Volume="2013" Year="2013">
+<Database Name="cv" Series="53921" Issue="395247" />
+</Book>
+<Book Series="Age of Ultron" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="390442" />
+</Book>
+<Book Series="Age of Ultron" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="392349" />
+</Book>
+<Book Series="Superior Spider-Man" Number="6AU" Volume="2013" Year="2013">
+<Database Name="cv" Series="55552" Issue="395256" />
+</Book>
+<Book Series="Age of Ultron" Number="3" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="395244" />
+</Book>
+<Book Series="Age of Ultron" Number="4" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="395699" />
+</Book>
+<Book Series="Ultron" Number="1AU" Volume="2013" Year="2013">
+<Database Name="cv" Series="49505" Issue="396434" />
+</Book>
+<Book Series="Age of Ultron" Number="5" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="396420" />
+</Book>
+<Book Series="Wolverine &#38; the X-Men" Number="27AU" Volume="2011" Year="2013">
+<Database Name="cv" Series="43539" Issue="397554" />
+</Book>
+<Book Series="Age of Ultron" Number="6" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="397539" />
+</Book>
+<Book Series="Fearless Defenders" Number="4AU" Volume="2013" Year="2013">
+<Database Name="cv" Series="56878" Issue="404697" />
+</Book>
+<Book Series="Uncanny Avengers" Number="8AU" Volume="2012" Year="2013">
+<Database Name="cv" Series="52880" Issue="404704" />
+</Book>
+<Book Series="Age of Ultron" Number="7" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="400144" />
+</Book>
+<Book Series="Age of Ultron" Number="8" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="402283" />
+</Book>
+<Book Series="Age of Ultron" Number="9" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="408988" />
+</Book>
+<Book Series="Age of Ultron" Number="10" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="411824" />
+</Book>
+<Book Series="Age of Ultron" Number="10AI" Volume="2013" Year="2013">
+<Database Name="cv" Series="58436" Issue="413651" />
+</Book>
 <Book Series="Fantastic Four" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="53921" Issue="396426" />
 </Book>
@@ -1596,6 +1653,168 @@
 <Book Series="Thunderbolts Annual" Number="1" Volume="2013" Year="2014">
 <Database Name="cv" Series="70061" Issue="437498" />
 </Book>
+<Book Series="Avengers" Number="14" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="411825" />
+</Book>
+<Book Series="Avengers" Number="15" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="415233" />
+</Book>
+<Book Series="Avengers" Number="16" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="417831" />
+</Book>
+<Book Series="Avengers" Number="17" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="420634" />
+</Book>
+<Book Series="Infinity" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="66319" Issue="421691" />
+</Book>
+<Book Series="Infinity: Against the Tide" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="66403" Issue="421892" />
+</Book>
+<Book Series="Infinity: Against the Tide" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="66403" Issue="426123" />
+</Book>
+<Book Series="Thunderbolts" Number="14" Volume="2013" Year="2013">
+<Database Name="cv" Series="54429" Issue="422502" />
+</Book>
+<Book Series="Nova" Number="8" Volume="2013" Year="2013">
+<Database Name="cv" Series="57535" Issue="426879" />
+</Book>
+<Book Series="Nova" Number="9" Volume="2013" Year="2013">
+<Database Name="cv" Series="57535" Issue="430759" />
+</Book>
+<Book Series="Infinity: The Hunt" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="67222" Issue="425029" />
+</Book>
+<Book Series="Infinity: The Hunt" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="67222" Issue="427688" />
+</Book>
+<Book Series="New Avengers" Number="8" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="418821" />
+</Book>
+<Book Series="New Avengers" Number="9" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="423677" />
+</Book>
+<Book Series="Thunderbolts" Number="15" Volume="2013" Year="2013">
+<Database Name="cv" Series="54429" Issue="425942" />
+</Book>
+<Book Series="Thunderbolts" Number="16" Volume="2013" Year="2013">
+<Database Name="cv" Series="54429" Issue="427696" />
+</Book>
+<Book Series="Mighty Avengers" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="67223" Issue="425032" />
+</Book>
+<Book Series="Mighty Avengers" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="67223" Issue="427692" />
+</Book>
+<Book Series="Mighty Avengers" Number="3" Volume="2013" Year="2014">
+<Database Name="cv" Series="67223" Issue="432335" />
+</Book>
+<Book Series="Avengers" Number="18" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="422493" />
+</Book>
+<Book Series="Avengers Assemble" Number="18" Volume="2012" Year="2013">
+<Database Name="cv" Series="46569" Issue="422494" />
+</Book>
+<Book Series="Captain Marvel" Number="15" Volume="2012" Year="2013">
+<Database Name="cv" Series="50575" Issue="423672" />
+</Book>
+<Book Series="Infinity" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="66319" Issue="424535" />
+</Book>
+<Book Series="New Avengers" Number="10" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="425935" />
+</Book>
+<Book Series="Avengers" Number="19" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="425022" />
+</Book>
+<Book Series="Infinity" Number="3" Volume="2013" Year="2013">
+<Database Name="cv" Series="66319" Issue="425933" />
+</Book>
+<Book Series="Infinity: Heist" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="67698" Issue="426877" />
+</Book>
+<Book Series="Infinity: The Hunt" Number="3" Volume="2013" Year="2013">
+<Database Name="cv" Series="67222" Issue="430756" />
+</Book>
+<Book Series="Captain Marvel" Number="16" Volume="2012" Year="2013">
+<Database Name="cv" Series="50575" Issue="425931" />
+</Book>
+<Book Series="Avengers Assemble" Number="19" Volume="2012" Year="2013">
+<Database Name="cv" Series="46569" Issue="426872" />
+</Book>
+<Book Series="Avengers" Number="20" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="426871" />
+</Book>
+<Book Series="Infinity" Number="4" Volume="2013" Year="2013">
+<Database Name="cv" Series="66319" Issue="428297" />
+</Book>
+<Book Series="Avengers" Number="21" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="428855" />
+</Book>
+<Book Series="New Avengers" Number="11" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="428865" />
+</Book>
+<Book Series="Infinity: Heist" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="67698" Issue="430755" />
+</Book>
+<Book Series="Superior Spider-Man Team-Up" Number="3" Volume="2013" Year="2013">
+<Database Name="cv" Series="65629" Issue="426882" />
+</Book>
+<Book Series="Superior Spider-Man Team-Up" Number="4" Volume="2013" Year="2013">
+<Database Name="cv" Series="65629" Issue="428299" />
+</Book>
+<Book Series="Fearless Defenders" Number="10" Volume="2013" Year="2013">
+<Database Name="cv" Series="56878" Issue="428296" />
+</Book>
+<Book Series="Infinity" Number="5" Volume="2013" Year="2013">
+<Database Name="cv" Series="66319" Issue="431441" />
+</Book>
+<Book Series="Avengers" Number="22" Volume="2012" Year="2013">
+<Database Name="cv" Series="54428" Issue="431435" />
+</Book>
+<Book Series="Infinity: Heist" Number="3" Volume="2013" Year="2014">
+<Database Name="cv" Series="67698" Issue="435056" />
+</Book>
+<Book Series="Infinity: Heist" Number="4" Volume="2013" Year="2014">
+<Database Name="cv" Series="67698" Issue="441414" />
+</Book>
+<Book Series="Secret Avengers" Number="10" Volume="2013" Year="2013">
+<Database Name="cv" Series="57180" Issue="430761" />
+</Book>
+<Book Series="Secret Avengers" Number="11" Volume="2013" Year="2014">
+<Database Name="cv" Series="57180" Issue="433848" />
+</Book>
+<Book Series="Avengers Assemble" Number="20" Volume="2012" Year="2013">
+<Database Name="cv" Series="46569" Issue="428856" />
+</Book>
+<Book Series="Thunderbolts" Number="17" Volume="2013" Year="2013">
+<Database Name="cv" Series="54429" Issue="430764" />
+</Book>
+<Book Series="Thunderbolts" Number="18" Volume="2013" Year="2014">
+<Database Name="cv" Series="54429" Issue="433851" />
+</Book>
+<Book Series="Infinity: The Hunt" Number="4" Volume="2013" Year="2014">
+<Database Name="cv" Series="67222" Issue="435057" />
+</Book>
+<Book Series="Avengers" Number="23" Volume="2012" Year="2014">
+<Database Name="cv" Series="54428" Issue="433840" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="8" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="431440" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="9" Volume="2013" Year="2014">
+<Database Name="cv" Series="57960" Issue="435580" />
+</Book>
+<Book Series="Infinity" Number="6" Volume="2013" Year="2014">
+<Database Name="cv" Series="66319" Issue="435055" />
+</Book>
+<Book Series="New Avengers" Number="12" Volume="2013" Year="2014">
+<Database Name="cv" Series="55330" Issue="435060" />
+</Book>
+<Book Series="Wolverine &#38; the X-Men Annual" Number="1" Volume="2013" Year="2014">
+<Database Name="cv" Series="69573" Issue="435070" />
+</Book>
 <Book Series="Thanos: A God Up There Listening" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="75391" Issue="458705" />
 </Book>
@@ -1640,6 +1859,36 @@
 </Book>
 <Book Series="Daredevil" Number="33" Volume="2011" Year="2014">
 <Database Name="cv" Series="41410" Issue="433844" />
+</Book>
+<Book Series="X-Men: Battle of the Atom" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="67028" Issue="424543" />
+</Book>
+<Book Series="All-New X-Men" Number="16" Volume="2012" Year="2013">
+<Database Name="cv" Series="53919" Issue="424528" />
+</Book>
+<Book Series="X-Men" Number="5" Volume="2013" Year="2013">
+<Database Name="cv" Series="62383" Issue="425036" />
+</Book>
+<Book Series="Uncanny X-Men" Number="12" Volume="2013" Year="2013">
+<Database Name="cv" Series="57181" Issue="425944" />
+</Book>
+<Book Series="Wolverine &#38; the X-Men" Number="36" Volume="2011" Year="2013">
+<Database Name="cv" Series="43539" Issue="426886" />
+</Book>
+<Book Series="All-New X-Men" Number="17" Volume="2012" Year="2013">
+<Database Name="cv" Series="53919" Issue="427682" />
+</Book>
+<Book Series="X-Men" Number="6" Volume="2013" Year="2013">
+<Database Name="cv" Series="62383" Issue="428304" />
+</Book>
+<Book Series="Uncanny X-Men" Number="13" Volume="2013" Year="2013">
+<Database Name="cv" Series="57181" Issue="428867" />
+</Book>
+<Book Series="Wolverine &#38; the X-Men" Number="37" Volume="2011" Year="2013">
+<Database Name="cv" Series="43539" Issue="430768" />
+</Book>
+<Book Series="X-Men: Battle of the Atom" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="67028" Issue="431449" />
 </Book>
 <Book Series="Uncanny X-Men" Number="14" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="433852" />
@@ -1703,6 +1952,69 @@
 </Book>
 <Book Series="Superior Spider-Man Annual" Number="1" Volume="2013" Year="2014">
 <Database Name="cv" Series="69348" Issue="433849" />
+</Book>
+<Book Series="Inhumanity" Number="1" Volume="2013" Year="2014">
+<Database Name="cv" Series="69688" Issue="435583" />
+</Book>
+<Book Series="Inhumanity: The Awakening" Number="1" Volume="2013" Year="2014">
+<Database Name="cv" Series="69866" Issue="436199" />
+</Book>
+<Book Series="Inhumanity: The Awakening" Number="2" Volume="2013" Year="2014">
+<Database Name="cv" Series="69866" Issue="441415" />
+</Book>
+<Book Series="Uncanny X-Men" Number="15" Volume="2013" Year="2014">
+<Database Name="cv" Series="57181" Issue="436208" />
+</Book>
+<Book Series="Inhumanity" Number="2" Volume="2013" Year="2014">
+<Database Name="cv" Series="69688" Issue="443983" />
+</Book>
+<Book Series="Avengers Assemble" Number="21" Volume="2012" Year="2014">
+<Database Name="cv" Series="46569" Issue="435049" />
+</Book>
+<Book Series="Avengers Assemble" Number="22" Volume="2012" Year="2014">
+<Database Name="cv" Series="46569" Issue="437485" />
+</Book>
+<Book Series="Avengers A.I." Number="7" Volume="2013" Year="2014">
+<Database Name="cv" Series="64683" Issue="436192" />
+</Book>
+<Book Series="Inhumanity: Superior Spider-Man" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="70898" Issue="442168" />
+</Book>
+<Book Series="Avengers Assemble" Number="23" Volume="2012" Year="2014">
+<Database Name="cv" Series="46569" Issue="443979" />
+</Book>
+<Book Series="Mighty Avengers" Number="4" Volume="2013" Year="2014">
+<Database Name="cv" Series="67223" Issue="436204" />
+</Book>
+<Book Series="Mighty Avengers" Number="5" Volume="2013" Year="2014">
+<Database Name="cv" Series="67223" Issue="442926" />
+</Book>
+<Book Series="Avengers Assemble" Number="24" Volume="2012" Year="2014">
+<Database Name="cv" Series="46569" Issue="446477" />
+</Book>
+<Book Series="Avengers Assemble" Number="25" Volume="2012" Year="2014">
+<Database Name="cv" Series="46569" Issue="448963" />
+</Book>
+<Book Series="Iron Man" Number="20.INH" Volume="2013" Year="2014">
+<Database Name="cv" Series="53725" Issue="442923" />
+</Book>
+<Book Series="Indestructible Hulk" Number="16" Volume="2012" Year="2014">
+<Database Name="cv" Series="54112" Issue="435054" />
+</Book>
+<Book Series="Indestructible Hulk" Number="17" Volume="2012" Year="2014">
+<Database Name="cv" Series="54112" Issue="437491" />
+</Book>
+<Book Series="Indestructible Hulk" Number="18" Volume="2012" Year="2014">
+<Database Name="cv" Series="54112" Issue="442922" />
+</Book>
+<Book Series="Indestructible Hulk" Number="19" Volume="2012" Year="2014">
+<Database Name="cv" Series="54112" Issue="446484" />
+</Book>
+<Book Series="Indestructible Hulk" Number="20" Volume="2012" Year="2014">
+<Database Name="cv" Series="54112" Issue="448969" />
+</Book>
+<Book Series="New Avengers" Number="13" Volume="2013" Year="2014">
+<Database Name="cv" Series="55330" Issue="440250" />
 </Book>
 <Book Series="Ms. Marvel" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="71457" Issue="444534" />
@@ -2246,6 +2558,30 @@
 </Book>
 <Book Series="Daredevil" Number="0.1" Volume="2014" Year="2014">
 <Database Name="cv" Series="72417" Issue="458614" />
+</Book>
+<Book Series="Revolutionary War: Alpha" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="70706" Issue="441419" />
+</Book>
+<Book Series="Revolutionary War: Dark Angel" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="70899" Issue="442173" />
+</Book>
+<Book Series="Revolutionary War: Knights of Pendragon" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="71322" Issue="443986" />
+</Book>
+<Book Series="Revolutionary War: Death's Head II" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="71611" Issue="445181" />
+</Book>
+<Book Series="Revolutionary War: SuperSoldiers" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="71950" Issue="446488" />
+</Book>
+<Book Series="Revolutionary War: Motormouth" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="72273" Issue="447513" />
+</Book>
+<Book Series="Revolutionary War: Warheads" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="72419" Issue="448001" />
+</Book>
+<Book Series="Revolutionary War: Omega" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="72581" Issue="448975" />
 </Book>
 </Books>
 <Matchers />
