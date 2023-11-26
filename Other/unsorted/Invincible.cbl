@@ -681,8 +681,8 @@
 <Book Series="Invincible" Number="122" Volume="2003" Year="2015">
 <Database Name="cv" Series="17993" Issue="497990" />
 </Book>
-<Book Series="Invincible" Number="122" Volume="2003" Year="2015">
-<Database Name="cv" Series="17993" Issue="497990" />
+<Book Series="Invincible" Number="123" Volume="2003" Year="2015">
+<Database Name="cv" Series="17993" Issue="500332" />
 </Book>
 <Book Series="Invincible" Number="124" Volume="2003" Year="2015">
 <Database Name="cv" Series="17993" Issue="503588" />
