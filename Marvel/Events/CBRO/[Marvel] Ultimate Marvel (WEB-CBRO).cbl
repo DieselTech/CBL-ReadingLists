@@ -1554,13 +1554,13 @@
 <Book Series="Ultimate Avengers" Number="15" Volume="2009" Year="2010">
 <Database Name="cv" Series="27388" Issue="239979" />
 </Book>
-<Book Series="Ultimate Avengers" Number="16" Volume="2009" Year="2010">
+<Book Series="Ultimate Avengers" Number="16" Volume="2009" Year="2011">
 <Database Name="cv" Series="27388" Issue="246615" />
 </Book>
-<Book Series="Ultimate Avengers" Number="17" Volume="2009" Year="2010">
+<Book Series="Ultimate Avengers" Number="17" Volume="2009" Year="2011">
 <Database Name="cv" Series="27388" Issue="254097" />
 </Book>
-<Book Series="Ultimate Avengers" Number="18" Volume="2009" Year="2010">
+<Book Series="Ultimate Avengers" Number="18" Volume="2009" Year="2011">
 <Database Name="cv" Series="27388" Issue="259129" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="156" Volume="2009" Year="2011">
