@@ -1545,23 +1545,23 @@
 <Book Series="Ultimate Spider-Man" Number="155" Volume="2009" Year="2011">
 <Database Name="cv" Series="27381" Issue="265514" />
 </Book>
-<Book Series="Ultimate Avengers" Number="7" Volume="2009" Year="2010">
-<Database Name="cv" Series="27388" Issue="210220" />
+<Book Series="Ultimate Avengers" Number="13" Volume="2009" Year="2010">
+<Database Name="cv" Series="27388" Issue="228970" />
 </Book>
-<Book Series="Ultimate Avengers" Number="8" Volume="2009" Year="2010">
-<Database Name="cv" Series="27388" Issue="214733" />
+<Book Series="Ultimate Avengers" Number="14" Volume="2009" Year="2010">
+<Database Name="cv" Series="27388" Issue="233937" />
 </Book>
-<Book Series="Ultimate Avengers" Number="9" Volume="2009" Year="2010">
-<Database Name="cv" Series="27388" Issue="218351" />
+<Book Series="Ultimate Avengers" Number="15" Volume="2009" Year="2010">
+<Database Name="cv" Series="27388" Issue="239979" />
 </Book>
-<Book Series="Ultimate Avengers" Number="10" Volume="2009" Year="2010">
-<Database Name="cv" Series="27388" Issue="220746" />
+<Book Series="Ultimate Avengers" Number="16" Volume="2009" Year="2011">
+<Database Name="cv" Series="27388" Issue="246615" />
 </Book>
-<Book Series="Ultimate Avengers" Number="11" Volume="2009" Year="2010">
-<Database Name="cv" Series="27388" Issue="225711" />
+<Book Series="Ultimate Avengers" Number="17" Volume="2009" Year="2011">
+<Database Name="cv" Series="27388" Issue="254097" />
 </Book>
-<Book Series="Ultimate Avengers" Number="12" Volume="2009" Year="2010">
-<Database Name="cv" Series="27388" Issue="227873" />
+<Book Series="Ultimate Avengers" Number="18" Volume="2009" Year="2011">
+<Database Name="cv" Series="27388" Issue="259129" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="156" Volume="2009" Year="2011">
 <Database Name="cv" Series="27381" Issue="266487" />
