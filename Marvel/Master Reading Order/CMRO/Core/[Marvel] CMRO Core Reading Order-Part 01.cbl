@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 01</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>994</NumIssues>
 <Books>
 <Book Series="Fantastic Four" Number="1" Volume="1961" Year="1961">
 <Database Name="cv" Series="2045" Issue="5558" />
@@ -1097,24 +1097,6 @@
 </Book>
 <Book Series="Tales to Astonish" Number="87" Volume="1959" Year="1967">
 <Database Name="cv" Series="2008" Issue="9096" />
-</Book>
-<Book Series="Journey into Mystery" Number="119" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="7962" />
-</Book>
-<Book Series="Journey into Mystery" Number="120" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8031" />
-</Book>
-<Book Series="Journey into Mystery" Number="121" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8104" />
-</Book>
-<Book Series="Journey into Mystery" Number="123" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8232" />
-</Book>
-<Book Series="Journey into Mystery" Number="124" Volume="1952" Year="1966">
-<Database Name="cv" Series="1497" Issue="8309" />
-</Book>
-<Book Series="Journey into Mystery" Number="125" Volume="1952" Year="1966">
-<Database Name="cv" Series="1497" Issue="8369" />
 </Book>
 <Book Series="Thor" Number="131" Volume="1966" Year="1966">
 <Database Name="cv" Series="2294" Issue="8739" />
