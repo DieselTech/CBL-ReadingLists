@@ -3,6 +3,11 @@ Started off as the Marvel Master Reading Order + Others but has rapidly changed 
 
 These lists are not created by me. Credit goes to the orginal authors. I'm just curating them into a single place to hopefully make it easier for people to find what they want to read. 
 
+# Discord
+We now have a discord server to help cordinate changes and discus things in an open and public place. Join us!
+
+https://discord.gg/DQmHfzFdGG
+
 # About This Project
 - The main intention of this project is to create an organised source of reading lists for use with comic readers/management software
 - All reading lists are provided in CBL format, with book data verified on ComicVine
