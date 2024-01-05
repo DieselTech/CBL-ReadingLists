@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[X-Men Krakoa 3.1] Fall of X</Name>
-<NumIssues>76</NumIssues>
+<NumIssues>77</NumIssues>
 <Books>
-<Book Series="X-Men Hellfire Gala 2023 Infinity Comic" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="153043" Issue="1009197" />
+<Book Series="X-Men: Hellfire Gala" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="152567" Issue="1003871" />
 </Book>
 <Book Series="X-Force" Number="43" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="1010057" />
@@ -230,6 +230,9 @@
 </Book>
 <Book Series="X-Force" Number="47" Volume="2020" Year="2024">
 <Database Name="cv" Series="122668" Issue="1038291" />
+</Book>
+<Book Series="Fall of the House of X" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="155874" Issue="1038990" />
 </Book>
 </Books>
 <Matchers />
