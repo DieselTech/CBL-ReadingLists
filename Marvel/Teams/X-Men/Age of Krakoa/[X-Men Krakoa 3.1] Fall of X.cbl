@@ -3,8 +3,8 @@
 <Name>[X-Men Krakoa 3.1] Fall of X</Name>
 <NumIssues>78</NumIssues>
 <Books>
-<Book Series="X-Men Hellfire Gala 2023 Infinity Comic" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="153043" Issue="1009197" />
+<Book Series="X-Men: Hellfire Gala" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="152567" Issue="1003871" />
 </Book>
 <Book Series="X-Force" Number="43" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="1010057" />
