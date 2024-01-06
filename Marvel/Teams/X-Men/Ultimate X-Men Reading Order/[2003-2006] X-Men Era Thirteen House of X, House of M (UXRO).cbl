@@ -207,9 +207,6 @@
 <Book Series="Nightcrawler" Number="6" Volume="2004" Year="2005">
 <Database Name="cv" Series="18700" Issue="111147" />
 </Book>
-<Book Series="X-Men Unlimited" Number="1" Volume="2004" Year="2004">
-<Database Name="cv" Series="10745" Issue="90577" />
-</Book>
 <Book Series="X-Force" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="10761" Issue="91363" />
 </Book>

@@ -255,18 +255,6 @@
 <Book Series="X-Men: Deadly Genesis" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="18091" Issue="105971" />
 </Book>
-<Book Series="X-Men: Deadly Genesis" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18091" Issue="120892" />
-</Book>
-<Book Series="X-Men: Deadly Genesis" Number="2" Volume="2006" Year="2006">
-<Database Name="cv" Series="18091" Issue="120882" />
-</Book>
-<Book Series="X-Men: Deadly Genesis" Number="3" Volume="2006" Year="2006">
-<Database Name="cv" Series="18091" Issue="120891" />
-</Book>
-<Book Series="X-Men: Deadly Genesis" Number="4" Volume="2006" Year="2006">
-<Database Name="cv" Series="18091" Issue="105971" />
-</Book>
 <Book Series="X-Men: Deadly Genesis" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="18091" Issue="106024" />
 </Book>

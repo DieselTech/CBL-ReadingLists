@@ -138,9 +138,6 @@
 <Book Series="X-Men: Manifest Destiny: Nightcrawler" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25963" Issue="153449" />
 </Book>
-<Book Series="The Uncanny X-Men" Number="500" Volume="1981" Year="2008">
-<Database Name="cv" Series="3092" Issue="134012" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="501" Volume="1981" Year="2008">
 <Database Name="cv" Series="3092" Issue="136044" />
 </Book>
@@ -330,9 +327,6 @@
 <Book Series="X-Force" Number="11" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="150595" />
 </Book>
-<Book Series="The Uncanny X-Men" Number="504" Volume="1981" Year="2009">
-<Database Name="cv" Series="3092" Issue="142534" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="505" Volume="1981" Year="2009">
 <Database Name="cv" Series="3092" Issue="146890" />
 </Book>
@@ -395,9 +389,6 @@
 </Book>
 <Book Series="The Uncanny X-Men" Number="507" Volume="1981" Year="2009">
 <Database Name="cv" Series="3092" Issue="105657" />
-</Book>
-<Book Series="Wolverine: Origins" Number="32" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="150541" />
 </Book>
 <Book Series="Wolverine: Origins" Number="33" Volume="2006" Year="2009">
 <Database Name="cv" Series="18130" Issue="152716" />
@@ -627,9 +618,6 @@
 <Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="25714" Issue="155782" />
 </Book>
-<Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="25714" Issue="151439" />
-</Book>
 <Book Series="Cable" Number="13" Volume="2008" Year="2009">
 <Database Name="cv" Series="20805" Issue="154460" />
 </Book>
@@ -659,9 +647,6 @@
 </Book>
 <Book Series="X-Force" Number="20" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="179171" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="511" Volume="1981" Year="2009">
-<Database Name="cv" Series="3092" Issue="159712" />
 </Book>
 <Book Series="Cable" Number="16" Volume="2008" Year="2009">
 <Database Name="cv" Series="20805" Issue="162621" />

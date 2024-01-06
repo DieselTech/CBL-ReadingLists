@@ -81,9 +81,6 @@
 <Book Series="The New Mutants" Number="86" Volume="1983" Year="1990">
 <Database Name="cv" Series="3234" Issue="32456" />
 </Book>
-<Book Series="X-Men Annual" Number="13" Volume="1970" Year="1989">
-<Database Name="cv" Series="22988" Issue="107609" />
-</Book>
 <Book Series="Marvel Super-Heroes" Number="6" Volume="1990" Year="1991">
 <Database Name="cv" Series="4404" Issue="86088" />
 </Book>
@@ -159,9 +156,6 @@
 <Book Series="X-Factor" Number="51" Volume="1986" Year="1990">
 <Database Name="cv" Series="3657" Issue="32448" />
 </Book>
-<Book Series="The New Mutants" Number="87" Volume="1983" Year="1990">
-<Database Name="cv" Series="3234" Issue="32559" />
-</Book>
 <Book Series="The New Mutants" Number="88" Volume="1983" Year="1990">
 <Database Name="cv" Series="3234" Issue="32669" />
 </Book>
@@ -176,24 +170,6 @@
 </Book>
 <Book Series="X-Factor Annual" Number="4" Volume="1986" Year="1989">
 <Database Name="cv" Series="3658" Issue="30609" />
-</Book>
-<Book Series="The New Mutants" Number="83" Volume="1983" Year="1989">
-<Database Name="cv" Series="3234" Issue="32044" />
-</Book>
-<Book Series="The New Mutants" Number="84" Volume="1983" Year="1989">
-<Database Name="cv" Series="3234" Issue="32078" />
-</Book>
-<Book Series="The New Mutants" Number="85" Volume="1983" Year="1990">
-<Database Name="cv" Series="3234" Issue="32356" />
-</Book>
-<Book Series="The New Mutants" Number="86" Volume="1983" Year="1990">
-<Database Name="cv" Series="3234" Issue="32456" />
-</Book>
-<Book Series="The New Mutants" Number="87" Volume="1983" Year="1990">
-<Database Name="cv" Series="3234" Issue="32559" />
-</Book>
-<Book Series="The New Mutants" Number="88" Volume="1983" Year="1990">
-<Database Name="cv" Series="3234" Issue="32669" />
 </Book>
 <Book Series="The New Mutants" Number="89" Volume="1983" Year="1990">
 <Database Name="cv" Series="3234" Issue="32766" />
@@ -362,18 +338,6 @@
 </Book>
 <Book Series="X-Men Annual" Number="15" Volume="1970" Year="1991">
 <Database Name="cv" Series="22988" Issue="108825" />
-</Book>
-<Book Series="X-Factor Annual" Number="6" Volume="1986" Year="1991">
-<Database Name="cv" Series="3658" Issue="66337" />
-</Book>
-<Book Series="The New Mutants Annual" Number="7" Volume="1984" Year="1991">
-<Database Name="cv" Series="3356" Issue="33658" />
-</Book>
-<Book Series="X-Men Annual" Number="15" Volume="1970" Year="1991">
-<Database Name="cv" Series="22988" Issue="108825" />
-</Book>
-<Book Series="X-Factor Annual" Number="6" Volume="1986" Year="1991">
-<Database Name="cv" Series="3658" Issue="66337" />
 </Book>
 <Book Series="X-Factor" Number="65" Volume="1986" Year="1991">
 <Database Name="cv" Series="3657" Issue="34123" />

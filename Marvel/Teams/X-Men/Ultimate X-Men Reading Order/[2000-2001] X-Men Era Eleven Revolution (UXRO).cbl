@@ -333,9 +333,6 @@
 <Book Series="X-Men" Number="109" Volume="1991" Year="2001">
 <Database Name="cv" Series="4605" Issue="65808" />
 </Book>
-<Book Series="X-Men Unlimited" Number="29" Volume="1993" Year="2000">
-<Database Name="cv" Series="5066" Issue="106106" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="390" Volume="1981" Year="2001">
 <Database Name="cv" Series="3092" Issue="65170" />
 </Book>

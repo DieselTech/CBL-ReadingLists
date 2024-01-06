@@ -87,9 +87,6 @@
 <Book Series="Fallen Angels" Number="1" Volume="2019" Year="2020">
 <Database Name="cv" Series="122814" Issue="727257" />
 </Book>
-<Book Series="X-Force" Number="2" Volume="2020" Year="2020">
-<Database Name="cv" Series="122668" Issue="728984" />
-</Book>
 <Book Series="X-Force" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="730351" />
 </Book>
@@ -200,9 +197,6 @@
 </Book>
 <Book Series="X-Force" Number="10" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="775013" />
-</Book>
-<Book Series="Wolverine" Number="1" Volume="2020" Year="2020">
-<Database Name="cv" Series="125121" Issue="737765" />
 </Book>
 <Book Series="Wolverine" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="125121" Issue="743452" />

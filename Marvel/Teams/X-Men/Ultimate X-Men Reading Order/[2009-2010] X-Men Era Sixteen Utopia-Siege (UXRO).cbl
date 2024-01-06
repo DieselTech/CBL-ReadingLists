@@ -123,12 +123,6 @@
 <Book Series="Hulk" Number="19" Volume="2008" Year="2010">
 <Database Name="cv" Series="20291" Issue="193347" />
 </Book>
-<Book Series="Incredible Hulk" Number="606" Volume="2009" Year="2010">
-<Database Name="cv" Series="24715" Issue="193351" />
-</Book>
-<Book Series="Incredible Hulk" Number="607" Volume="2009" Year="2010">
-<Database Name="cv" Series="24715" Issue="197521" />
-</Book>
 <Book Series="Hulk" Number="20" Volume="2008" Year="2010">
 <Database Name="cv" Series="20291" Issue="197524" />
 </Book>
@@ -143,9 +137,6 @@
 </Book>
 <Book Series="Fall of the Hulks: Red Hulk" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="31254" Issue="210698" />
-</Book>
-<Book Series="Incredible Hulk" Number="608" Volume="2009" Year="2010">
-<Database Name="cv" Series="24715" Issue="201038" />
 </Book>
 <Book Series="Hulk" Number="21" Volume="2008" Year="2010">
 <Database Name="cv" Series="20291" Issue="201037" />
@@ -189,62 +180,17 @@
 <Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34001" Issue="221765" />
 </Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
-</Book>
 <Book Series="X-Force" Number="20" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="179171" />
 </Book>
 <Book Series="X-Force" Number="17" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="164780" />
 </Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
-</Book>
-<Book Series="X-Force" Number="18" Volume="2008" Year="2009">
-<Database Name="cv" Series="20511" Issue="168465" />
-</Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
-</Book>
 <Book Series="X-Force" Number="19" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="173708" />
 </Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
-</Book>
-<Book Series="X-Force" Number="20" Volume="2008" Year="2009">
-<Database Name="cv" Series="20511" Issue="179171" />
-</Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
-</Book>
 <Book Series="New Mutants" Number="6" Volume="2009" Year="2009">
 <Database Name="cv" Series="26327" Issue="179208" />
-</Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
-</Book>
-<Book Series="New Mutants" Number="6" Volume="2009" Year="2009">
-<Database Name="cv" Series="26327" Issue="179208" />
-</Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
-</Book>
-<Book Series="X-Force" Number="21" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="182545" />
-</Book>
-<Book Series="X-Necrosha" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34001" Issue="221765" />
-</Book>
-<Book Series="X-Force" Number="21" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="182545" />
-</Book>
-<Book Series="New Mutants" Number="6" Volume="2009" Year="2009">
-<Database Name="cv" Series="26327" Issue="179208" />
-</Book>
-<Book Series="New Mutants" Number="7" Volume="2009" Year="2010">
-<Database Name="cv" Series="26327" Issue="184805" />
 </Book>
 <Book Series="X-Force" Number="21" Volume="2008" Year="2010">
 <Database Name="cv" Series="20511" Issue="182545" />
@@ -255,29 +201,14 @@
 <Book Series="X-Men: Legacy" Number="231" Volume="2008" Year="2010">
 <Database Name="cv" Series="20691" Issue="189520" />
 </Book>
-<Book Series="X-Force" Number="21" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="182545" />
-</Book>
 <Book Series="X-Force" Number="22" Volume="2008" Year="2010">
 <Database Name="cv" Series="20511" Issue="187677" />
 </Book>
 <Book Series="New Mutants" Number="8" Volume="2009" Year="2010">
 <Database Name="cv" Series="26327" Issue="189509" />
-</Book>
-<Book Series="X-Force" Number="22" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="187677" />
-</Book>
-<Book Series="New Mutants" Number="8" Volume="2009" Year="2010">
-<Database Name="cv" Series="26327" Issue="189509" />
-</Book>
-<Book Series="X-Force" Number="22" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="187677" />
 </Book>
 <Book Series="X-Force" Number="23" Volume="2008" Year="2010">
 <Database Name="cv" Series="20511" Issue="194457" />
-</Book>
-<Book Series="X-Men: Legacy" Number="231" Volume="2008" Year="2010">
-<Database Name="cv" Series="20691" Issue="189520" />
 </Book>
 <Book Series="X-Men: Legacy" Number="232" Volume="2008" Year="2010">
 <Database Name="cv" Series="20691" Issue="194468" />
@@ -395,15 +326,6 @@
 </Book>
 <Book Series="New Avengers" Number="64" Volume="2004" Year="2010">
 <Database Name="cv" Series="11497" Issue="210216" />
-</Book>
-<Book Series="Siege" Number="4" Volume="2010" Year="2010">
-<Database Name="cv" Series="30904" Issue="213449" />
-</Book>
-<Book Series="New Avengers" Number="64" Volume="2004" Year="2010">
-<Database Name="cv" Series="11497" Issue="210216" />
-</Book>
-<Book Series="Siege" Number="4" Volume="2010" Year="2010">
-<Database Name="cv" Series="30904" Issue="213449" />
 </Book>
 <Book Series="Siege" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="30904" Issue="213449" />

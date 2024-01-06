@@ -231,15 +231,6 @@
 <Book Series="X-Men" Number="14" Volume="2013" Year="2014">
 <Database Name="cv" Series="62383" Issue="453424" />
 </Book>
-<Book Series="X-Men" Number="13" Volume="2013" Year="2014">
-<Database Name="cv" Series="62383" Issue="450563" />
-</Book>
-<Book Series="X-Men" Number="14" Volume="2013" Year="2014">
-<Database Name="cv" Series="62383" Issue="453424" />
-</Book>
-<Book Series="X-Men" Number="15" Volume="2013" Year="2014">
-<Database Name="cv" Series="62383" Issue="456560" />
-</Book>
 <Book Series="X-Men" Number="15" Volume="2013" Year="2014">
 <Database Name="cv" Series="62383" Issue="456560" />
 </Book>
@@ -467,9 +458,6 @@
 </Book>
 <Book Series="Nightcrawler" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="72934" Issue="464988" />
-</Book>
-<Book Series="Wolverine &#38; the X-Men" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="43539" Issue="299471" />
 </Book>
 <Book Series="Wolverine &#38; the X-Men" Number="2" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="303379" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[X-Men Krakoa 3.1] Fall of X</Name>
-<NumIssues>77</NumIssues>
+<NumIssues>78</NumIssues>
 <Books>
 <Book Series="X-Men: Hellfire Gala" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152567" Issue="1003871" />
@@ -33,8 +33,8 @@
 <Book Series="Children of the Vault" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152893" Issue="1006445" />
 </Book>
-<Book Series="Ghost Rider/Wolverine: Weapons of Vengeance" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="155157" Issue="1033283" />
+<Book Series="Ghost Rider / Wolverine: Weapons of Vengeance – Alpha" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="152897" Issue="1006447" />
 </Book>
 <Book Series="Alpha Flight" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153020" Issue="1008998" />
@@ -44,6 +44,9 @@
 </Book>
 <Book Series="Uncanny Avengers" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153018" Issue="1008929" />
+</Book>
+<Book Series="Ghost Rider" Number="17" Volume="2022" Year="2023">
+<Database Name="cv" Series="141707" Issue="1008949" />
 </Book>
 <Book Series="Realm of X" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153121" Issue="1010053" />

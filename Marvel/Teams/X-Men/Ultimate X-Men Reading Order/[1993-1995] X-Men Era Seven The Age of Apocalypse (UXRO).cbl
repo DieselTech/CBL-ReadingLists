@@ -354,9 +354,6 @@
 <Book Series="X-Man" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5567" Issue="40601" />
 </Book>
-<Book Series="X-Calibre" Number="2" Volume="1995" Year="1995">
-<Database Name="cv" Series="5566" Issue="40735" />
-</Book>
 <Book Series="X-Calibre" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5566" Issue="40861" />
 </Book>
@@ -374,9 +371,6 @@
 </Book>
 <Book Series="Factor X" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5543" Issue="40850" />
-</Book>
-<Book Series="X-Calibre" Number="3" Volume="1995" Year="1995">
-<Database Name="cv" Series="5566" Issue="40861" />
 </Book>
 <Book Series="X-Calibre" Number="4" Volume="1995" Year="1995">
 <Database Name="cv" Series="5566" Issue="40984" />
