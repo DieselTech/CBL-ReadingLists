@@ -222,9 +222,6 @@
 <Book Series="X-Men" Number="64" Volume="1991" Year="1997">
 <Database Name="cv" Series="4605" Issue="65764" />
 </Book>
-<Book Series="Generation X" Number="28" Volume="1994" Year="1997">
-<Database Name="cv" Series="5300" Issue="43772" />
-</Book>
 <Book Series="X-Men" Number="65" Volume="1991" Year="1997">
 <Database Name="cv" Series="4605" Issue="65765" />
 </Book>

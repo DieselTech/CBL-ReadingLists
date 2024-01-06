@@ -504,9 +504,6 @@
 <Book Series="X-Force" Number="23" Volume="1991" Year="1993">
 <Database Name="cv" Series="4604" Issue="64500" />
 </Book>
-<Book Series="X-Force" Number="23" Volume="1991" Year="1993">
-<Database Name="cv" Series="4604" Issue="64500" />
-</Book>
 <Book Series="X-Force" Number="24" Volume="1991" Year="1993">
 <Database Name="cv" Series="4604" Issue="64501" />
 </Book>
@@ -530,9 +527,6 @@
 </Book>
 <Book Series="X-Men" Number="23" Volume="1991" Year="1993">
 <Database Name="cv" Series="4605" Issue="37675" />
-</Book>
-<Book Series="The Uncanny X-Men Annual" Number="17" Volume="1992" Year="1993">
-<Database Name="cv" Series="10757" Issue="91314" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="301" Volume="1981" Year="1993">
 <Database Name="cv" Series="3092" Issue="37402" />

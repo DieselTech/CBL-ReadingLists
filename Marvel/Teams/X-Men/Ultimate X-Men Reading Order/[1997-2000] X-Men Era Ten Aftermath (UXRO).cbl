@@ -57,9 +57,6 @@
 <Book Series="X-Men Unlimited" Number="17" Volume="1993" Year="1997">
 <Database Name="cv" Series="5066" Issue="44409" />
 </Book>
-<Book Series="X-Men Unlimited" Number="18" Volume="1993" Year="1998">
-<Database Name="cv" Series="5066" Issue="44872" />
-</Book>
 <Book Series="Generation X" Number="32" Volume="1994" Year="1997">
 <Database Name="cv" Series="5300" Issue="83097" />
 </Book>
@@ -422,9 +419,6 @@
 </Book>
 <Book Series="Generation X" Number="56" Volume="1994" Year="1999">
 <Database Name="cv" Series="5300" Issue="83121" />
-</Book>
-<Book Series="Gambit" Number="5" Volume="1999" Year="1999">
-<Database Name="cv" Series="9111" Issue="66893" />
 </Book>
 <Book Series="Gambit 1999" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="22700" Issue="136123" />

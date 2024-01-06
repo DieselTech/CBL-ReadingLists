@@ -342,9 +342,6 @@
 <Book Series="New X-Men" Number="138" Volume="2001" Year="2003">
 <Database Name="cv" Series="9121" Issue="114334" />
 </Book>
-<Book Series="The Uncanny X-Men" Number="421" Volume="1981" Year="2003">
-<Database Name="cv" Series="3092" Issue="108246" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="422" Volume="1981" Year="2003">
 <Database Name="cv" Series="3092" Issue="113233" />
 </Book>
@@ -518,9 +515,6 @@
 </Book>
 <Book Series="X-Treme X-Men" Number="39" Volume="2001" Year="2004">
 <Database Name="cv" Series="9411" Issue="106369" />
-</Book>
-<Book Series="New X-Men" Number="138" Volume="2001" Year="2003">
-<Database Name="cv" Series="9121" Issue="114334" />
 </Book>
 <Book Series="New X-Men" Number="139" Volume="2001" Year="2003">
 <Database Name="cv" Series="9121" Issue="114335" />

@@ -582,9 +582,6 @@
 <Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
 <Database Name="cv" Series="4349" Issue="31537" />
 </Book>
-<Book Series="X-Factor Annual" Number="4" Volume="1986" Year="1989">
-<Database Name="cv" Series="3658" Issue="30609" />
-</Book>
 <Book Series="X-Factor" Number="40" Volume="1986" Year="1989">
 <Database Name="cv" Series="3657" Issue="31233" />
 </Book>

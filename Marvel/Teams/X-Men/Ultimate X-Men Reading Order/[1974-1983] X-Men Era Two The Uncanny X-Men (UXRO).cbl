@@ -261,9 +261,6 @@
 <Book Series="X-Men Annual" Number="5" Volume="1970" Year="1981">
 <Database Name="cv" Series="22988" Issue="138854" />
 </Book>
-<Book Series="Bizarre Adventures" Number="27" Volume="1981" Year="1981">
-<Database Name="cv" Series="3082" Issue="21368" />
-</Book>
 <Book Series="Marvel Fanfare" Number="1" Volume="1982" Year="1982">
 <Database Name="cv" Series="3143" Issue="22013" />
 </Book>

@@ -201,14 +201,8 @@
 <Book Series="X-Men: Blue" Number="27" Volume="2017" Year="2018">
 <Database Name="cv" Series="100712" Issue="669466" />
 </Book>
-<Book Series="X-Men: Red" Number="5" Volume="2018" Year="2018">
-<Database Name="cv" Series="108548" Issue="672297" />
-</Book>
 <Book Series="Astonishing X-Men" Number="13" Volume="2017" Year="2018">
 <Database Name="cv" Series="102882" Issue="675968" />
-</Book>
-<Book Series="Cable" Number="159" Volume="2017" Year="2018">
-<Database Name="cv" Series="101767" Issue="677274" />
 </Book>
 <Book Series="Extermination" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112807" Issue="679992" />
@@ -267,20 +261,8 @@
 <Book Series="X-Men: Black - Emma Frost" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="114923" Issue="690825" />
 </Book>
-<Book Series="X-Men: Black - Magneto" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="114104" Issue="687031" />
-</Book>
 <Book Series="X-Men: Black - Mojo" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="114278" Issue="688333" />
-</Book>
-<Book Series="X-Men: Black - Mystique" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="114428" Issue="689064" />
-</Book>
-<Book Series="X-Men: Black - Juggernaut" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="114744" Issue="689883" />
-</Book>
-<Book Series="X-Men: Black - Emma Frost" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="114923" Issue="690825" />
 </Book>
 <Book Series="Iceman" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="101937" Issue="610527" />
@@ -311,9 +293,6 @@
 </Book>
 <Book Series="New Mutants: Dead Souls" Number="6" Volume="2018" Year="2018">
 <Database Name="cv" Series="109202" Issue="682662" />
-</Book>
-<Book Series="Astonishing X-Men" Number="13" Volume="2017" Year="2018">
-<Database Name="cv" Series="102882" Issue="675968" />
 </Book>
 <Book Series="Astonishing X-Men" Number="14" Volume="2017" Year="2018">
 <Database Name="cv" Series="102882" Issue="678524" />
@@ -353,15 +332,6 @@
 </Book>
 <Book Series="Typhoid Fever: Iron Fist" Number="1" Volume="2018" Year="2019">
 <Database Name="cv" Series="115914" Issue="694930" />
-</Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2018" Year="2019">
-<Database Name="cv" Series="115285" Issue="692088" />
-</Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2018" Year="2019">
-<Database Name="cv" Series="115285" Issue="692088" />
-</Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2018" Year="2019">
-<Database Name="cv" Series="115285" Issue="692088" />
 </Book>
 <Book Series="Uncanny X-Men" Number="1" Volume="2018" Year="2019">
 <Database Name="cv" Series="115285" Issue="692088" />
@@ -441,9 +411,6 @@
 <Book Series="Age of X-Man: X-Tremists" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="117339" Issue="704801" />
 </Book>
-<Book Series="Age of X-Man: The Amazing Nightcrawler" Number="3" Volume="2019" Year="2019">
-<Database Name="cv" Series="117190" Issue="706399" />
-</Book>
 <Book Series="Age of X-Man: The Amazing Nightcrawler" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="117190" Issue="709711" />
 </Book>
@@ -452,9 +419,6 @@
 </Book>
 <Book Series="Age of X-Man: Prisoner X" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="117431" Issue="707502" />
-</Book>
-<Book Series="Age of X-Man: X-Tremists" Number="2" Volume="2019" Year="2019">
-<Database Name="cv" Series="117339" Issue="704801" />
 </Book>
 <Book Series="Age of X-Man: X-Tremists" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="117339" Issue="706939" />
@@ -474,9 +438,6 @@
 <Book Series="Age of X-Man: The Marvelous X-Men" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="116954" Issue="703043" />
 </Book>
-<Book Series="Age of X-Man: Apocalypse and the X-Tracts" Number="2" Volume="2019" Year="2019">
-<Database Name="cv" Series="117569" Issue="705909" />
-</Book>
 <Book Series="Age of X-Man: Apocalypse and the X-Tracts" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="117569" Issue="708126" />
 </Book>
@@ -492,32 +453,17 @@
 <Book Series="Age of X-Man: The Marvelous X-Men" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="116954" Issue="709193" />
 </Book>
-<Book Series="Age of X-Man: X-Tremists" Number="3" Volume="2019" Year="2019">
-<Database Name="cv" Series="117339" Issue="706939" />
-</Book>
 <Book Series="Age of X-Man: X-Tremists" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="117339" Issue="710099" />
-</Book>
-<Book Series="Age of X-Man: Apocalypse and the X-Tracts" Number="3" Volume="2019" Year="2019">
-<Database Name="cv" Series="117569" Issue="708126" />
 </Book>
 <Book Series="Age of X-Man: Apocalypse and the X-Tracts" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="117569" Issue="711310" />
-</Book>
-<Book Series="Age of X-Man: X-Tremists" Number="4" Volume="2019" Year="2019">
-<Database Name="cv" Series="117339" Issue="710099" />
-</Book>
-<Book Series="Age of X-Man: The Marvelous X-Men" Number="4" Volume="2019" Year="2019">
-<Database Name="cv" Series="116954" Issue="709193" />
 </Book>
 <Book Series="Age of X-Man: The Marvelous X-Men" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="116954" Issue="711311" />
 </Book>
 <Book Series="Age of X-Man: X-Tremists" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="117339" Issue="712523" />
-</Book>
-<Book Series="Age of X-Man: The Marvelous X-Men" Number="5" Volume="2019" Year="2019">
-<Database Name="cv" Series="116954" Issue="711311" />
 </Book>
 <Book Series="Age of X-Man: Apocalypse and the X-Tracts" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="117569" Issue="713498" />

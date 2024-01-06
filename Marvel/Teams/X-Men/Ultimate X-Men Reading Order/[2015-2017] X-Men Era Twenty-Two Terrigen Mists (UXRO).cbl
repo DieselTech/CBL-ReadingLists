@@ -57,18 +57,6 @@
 <Book Series="Extraordinary X-Men" Number="1" Volume="2015" Year="2016">
 <Database Name="cv" Series="85756" Issue="504937" />
 </Book>
-<Book Series="Old Man Logan" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="87624" Issue="512432" />
-</Book>
-<Book Series="Old Man Logan" Number="2" Volume="2016" Year="2016">
-<Database Name="cv" Series="87624" Issue="514445" />
-</Book>
-<Book Series="Old Man Logan" Number="3" Volume="2016" Year="2016">
-<Database Name="cv" Series="87624" Issue="517834" />
-</Book>
-<Book Series="Old Man Logan" Number="4" Volume="2016" Year="2016">
-<Database Name="cv" Series="87624" Issue="523262" />
-</Book>
 <Book Series="Extraordinary X-Men" Number="2" Volume="2015" Year="2016">
 <Database Name="cv" Series="85756" Issue="506168" />
 </Book>
@@ -143,12 +131,6 @@
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="72272" Issue="462247" />
-</Book>
-<Book Series="Civil War II" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="90521" Issue="533027" />
-</Book>
-<Book Series="Civil War II" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="90521" Issue="533027" />
 </Book>
 <Book Series="Civil War II" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="90521" Issue="535350" />
@@ -402,26 +384,17 @@
 <Book Series="Uncanny X-Men" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="87190" Issue="575887" />
 </Book>
-<Book Series="IvX" Number="3" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="578465" />
-</Book>
 <Book Series="Uncanny X-Men" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="87190" Issue="581574" />
 </Book>
 <Book Series="IvX" Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="96144" Issue="580755" />
 </Book>
-<Book Series="All-New X-Men" Number="18" Volume="2015" Year="2017">
-<Database Name="cv" Series="86334" Issue="579303" />
-</Book>
 <Book Series="IvX" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="96144" Issue="582534" />
 </Book>
 <Book Series="Extraordinary X-Men" Number="19" Volume="2015" Year="2017">
 <Database Name="cv" Series="85756" Issue="582529" />
-</Book>
-<Book Series="IvX" Number="5" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="582534" />
 </Book>
 <Book Series="IvX" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="96144" Issue="585080" />
