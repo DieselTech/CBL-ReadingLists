@@ -210,12 +210,6 @@
 <Book Series="Marauders" Number="20" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="847514" />
 </Book>
-<Book Series="X-Factor" Number="9" Volume="2020" Year="2021">
-<Database Name="cv" Series="129097" Issue="848859" />
-</Book>
-<Book Series="Way of X" Number="2" Volume="2021" Year="2021">
-<Database Name="cv" Series="135583" Issue="851313" />
-</Book>
 <Book Series="Guardians of the Galaxy" Number="15" Volume="2020" Year="2021">
 <Database Name="cv" Series="124447" Issue="863928" />
 </Book>
@@ -240,143 +234,26 @@
 <Book Series="X-Force" Number="20" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="857598" />
 </Book>
-<Book Series="Marauders" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122218" Issue="857597" />
-</Book>
-<Book Series="X-Force" Number="20" Volume="2020" Year="2021">
-<Database Name="cv" Series="122668" Issue="857598" />
-</Book>
 <Book Series="X-Men" Number="21" Volume="2019" Year="2021">
 <Database Name="cv" Series="122077" Issue="858873" />
 </Book>
-<Book Series="X-Force" Number="20" Volume="2020" Year="2021">
-<Database Name="cv" Series="122668" Issue="857598" />
-</Book>
 <Book Series="New Mutants" Number="19" Volume="2020" Year="2021">
 <Database Name="cv" Series="122666" Issue="861639" />
-</Book>
-<Book Series="Children of the Atom" Number="6" Volume="2021" Year="2021">
-<Database Name="cv" Series="134388" Issue="878791" />
-</Book>
-<Book Series="X-Factor" Number="10" Volume="2020" Year="2021">
-<Database Name="cv" Series="129097" Issue="866581" />
-</Book>
-<Book Series="Excalibur" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122488" Issue="858872" />
-</Book>
-<Book Series="X-Force" Number="20" Volume="2020" Year="2021">
-<Database Name="cv" Series="122668" Issue="857598" />
 </Book>
 <Book Series="Wolverine" Number="13" Volume="2020" Year="2021">
 <Database Name="cv" Series="125121" Issue="863865" />
-</Book>
-<Book Series="X-Force" Number="20" Volume="2020" Year="2021">
-<Database Name="cv" Series="122668" Issue="857598" />
-</Book>
-<Book Series="X-Corp" Number="2" Volume="2021" Year="2021">
-<Database Name="cv" Series="136025" Issue="861644" />
-</Book>
-<Book Series="New Mutants" Number="19" Volume="2020" Year="2021">
-<Database Name="cv" Series="122666" Issue="861639" />
-</Book>
-<Book Series="X-Factor" Number="10" Volume="2020" Year="2021">
-<Database Name="cv" Series="129097" Issue="866581" />
-</Book>
-<Book Series="X-Men" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122077" Issue="858873" />
-</Book>
-<Book Series="X-Factor" Number="10" Volume="2020" Year="2021">
-<Database Name="cv" Series="129097" Issue="866581" />
-</Book>
-<Book Series="Excalibur" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122488" Issue="858872" />
-</Book>
-<Book Series="New Mutants" Number="19" Volume="2020" Year="2021">
-<Database Name="cv" Series="122666" Issue="861639" />
-</Book>
-<Book Series="X-Factor" Number="10" Volume="2020" Year="2021">
-<Database Name="cv" Series="129097" Issue="866581" />
-</Book>
-<Book Series="Hellions" Number="12" Volume="2020" Year="2021">
-<Database Name="cv" Series="126015" Issue="857596" />
-</Book>
-<Book Series="X-Corp" Number="2" Volume="2021" Year="2021">
-<Database Name="cv" Series="136025" Issue="861644" />
-</Book>
-<Book Series="Hellions" Number="12" Volume="2020" Year="2021">
-<Database Name="cv" Series="126015" Issue="857596" />
-</Book>
-<Book Series="Excalibur" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122488" Issue="858872" />
-</Book>
-<Book Series="Wolverine" Number="13" Volume="2020" Year="2021">
-<Database Name="cv" Series="125121" Issue="863865" />
-</Book>
-<Book Series="Hellions" Number="12" Volume="2020" Year="2021">
-<Database Name="cv" Series="126015" Issue="857596" />
-</Book>
-<Book Series="X-Factor" Number="10" Volume="2020" Year="2021">
-<Database Name="cv" Series="129097" Issue="866581" />
-</Book>
-<Book Series="Hellions" Number="12" Volume="2020" Year="2021">
-<Database Name="cv" Series="126015" Issue="857596" />
-</Book>
-<Book Series="Excalibur" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122488" Issue="858872" />
-</Book>
-<Book Series="X-Corp" Number="2" Volume="2021" Year="2021">
-<Database Name="cv" Series="136025" Issue="861644" />
-</Book>
-<Book Series="X-Factor" Number="10" Volume="2020" Year="2021">
-<Database Name="cv" Series="129097" Issue="866581" />
-</Book>
-<Book Series="X-Men" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122077" Issue="858873" />
-</Book>
-<Book Series="Hellions" Number="12" Volume="2020" Year="2021">
-<Database Name="cv" Series="126015" Issue="857596" />
 </Book>
 <Book Series="Planet-Size X-Men" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="136937" Issue="861642" />
 </Book>
-<Book Series="Marauders" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122218" Issue="857597" />
-</Book>
-<Book Series="Wolverine" Number="13" Volume="2020" Year="2021">
-<Database Name="cv" Series="125121" Issue="863865" />
-</Book>
-<Book Series="New Mutants" Number="19" Volume="2020" Year="2021">
-<Database Name="cv" Series="122666" Issue="861639" />
-</Book>
 <Book Series="S.W.O.R.D." Number="6" Volume="2020" Year="2021">
 <Database Name="cv" Series="132511" Issue="863852" />
-</Book>
-<Book Series="Wolverine" Number="13" Volume="2020" Year="2021">
-<Database Name="cv" Series="125121" Issue="863865" />
-</Book>
-<Book Series="S.W.O.R.D." Number="6" Volume="2020" Year="2021">
-<Database Name="cv" Series="132511" Issue="863852" />
-</Book>
-<Book Series="Excalibur" Number="21" Volume="2019" Year="2021">
-<Database Name="cv" Series="122488" Issue="858872" />
-</Book>
-<Book Series="New Mutants" Number="19" Volume="2020" Year="2021">
-<Database Name="cv" Series="122666" Issue="861639" />
-</Book>
-<Book Series="X-Factor" Number="10" Volume="2020" Year="2021">
-<Database Name="cv" Series="129097" Issue="866581" />
-</Book>
-<Book Series="Children of the Atom" Number="6" Volume="2021" Year="2021">
-<Database Name="cv" Series="134388" Issue="878791" />
 </Book>
 <Book Series="Way of X" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="135583" Issue="863854" />
 </Book>
 <Book Series="Marauders" Number="22" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="872876" />
-</Book>
-<Book Series="Guardians of the Galaxy" Number="15" Volume="2020" Year="2021">
-<Database Name="cv" Series="124447" Issue="863928" />
 </Book>
 <Book Series="Guardians of the Galaxy" Number="16" Volume="2020" Year="2021">
 <Database Name="cv" Series="124447" Issue="872882" />
@@ -420,9 +297,6 @@
 <Book Series="X-Men: The Trial of Magneto" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="138343" Issue="899168" />
 </Book>
-<Book Series="New Mutants" Number="21" Volume="2020" Year="2021">
-<Database Name="cv" Series="122666" Issue="882897" />
-</Book>
 <Book Series="New Mutants" Number="22" Volume="2020" Year="2021">
 <Database Name="cv" Series="122666" Issue="888638" />
 </Book>
@@ -431,12 +305,6 @@
 </Book>
 <Book Series="X-Men" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="122077" Issue="723121" />
-</Book>
-<Book Series="X-Men: The Trial of Magneto" Number="5" Volume="2021" Year="2022">
-<Database Name="cv" Series="138343" Issue="899168" />
-</Book>
-<Book Series="Children of the Atom" Number="6" Volume="2021" Year="2021">
-<Database Name="cv" Series="134388" Issue="878791" />
 </Book>
 <Book Series="Hellions" Number="13" Volume="2020" Year="2021">
 <Database Name="cv" Series="126015" Issue="868599" />
@@ -519,9 +387,6 @@
 <Book Series="X-Men" Number="3" Volume="2019" Year="2020">
 <Database Name="cv" Series="122077" Issue="729692" />
 </Book>
-<Book Series="X-Men: The Onslaught Revelation" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="139124" Issue="885606" />
-</Book>
 <Book Series="X-Force" Number="21" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="868600" />
 </Book>
@@ -594,9 +459,6 @@
 <Book Series="Death of Doctor Strange: X-Men/Black Knight" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141326" Issue="903907" />
 </Book>
-<Book Series="Death of Doctor Strange" Number="3" Volume="2021" Year="2022">
-<Database Name="cv" Series="139125" Issue="895343" />
-</Book>
 <Book Series="Death of Doctor Strange" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="139125" Issue="900389" />
 </Book>
@@ -626,9 +488,6 @@
 </Book>
 <Book Series="X-Force" Number="24" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="889465" />
-</Book>
-<Book Series="Inferno" Number="2" Volume="2021" Year="2021">
-<Database Name="cv" Series="139289" Issue="891562" />
 </Book>
 <Book Series="Inferno" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="139289" Issue="897331" />
@@ -668,9 +527,6 @@
 </Book>
 <Book Series="X-Men Unlimited Infinity Comic" Number="10" Volume="2021" Year="2021">
 <Database Name="cv" Series="139055" Issue="892232" />
-</Book>
-<Book Series="X Lives of Wolverine" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="141332" Issue="903920" />
 </Book>
 <Book Series="X Deaths of Wolverine" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141460" Issue="904769" />

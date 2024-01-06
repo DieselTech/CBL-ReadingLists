@@ -222,9 +222,6 @@
 <Book Series="Secret Empire" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="100840" Issue="598383" />
 </Book>
-<Book Series="Secret Warriors" Number="2" Volume="2017" Year="2017">
-<Database Name="cv" Series="101411" Issue="597200" />
-</Book>
 <Book Series="Secret Warriors" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="101411" Issue="601802" />
 </Book>
@@ -272,9 +269,6 @@
 </Book>
 <Book Series="Secret Empire" Number="10" Volume="2017" Year="2017">
 <Database Name="cv" Series="100840" Issue="617849" />
-</Book>
-<Book Series="X-Men: Gold" Number="8" Volume="2017" Year="2017">
-<Database Name="cv" Series="100603" Issue="609368" />
 </Book>
 <Book Series="X-Men: Gold" Number="9" Volume="2017" Year="2017">
 <Database Name="cv" Series="100603" Issue="612056" />
@@ -492,12 +486,6 @@
 <Book Series="X-Men: Gold" Number="26" Volume="2017" Year="2018">
 <Database Name="cv" Series="100603" Issue="666820" />
 </Book>
-<Book Series="X-Men: The Wedding Special" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="110945" Issue="670129" />
-</Book>
-<Book Series="X-Men: Gold" Number="26" Volume="2017" Year="2018">
-<Database Name="cv" Series="100603" Issue="666820" />
-</Book>
 <Book Series="X-Men: Gold" Number="27" Volume="2017" Year="2018">
 <Database Name="cv" Series="100603" Issue="668791" />
 </Book>
@@ -557,9 +545,6 @@
 </Book>
 <Book Series="Jean Grey" Number="11" Volume="2017" Year="2018">
 <Database Name="cv" Series="101195" Issue="656706" />
-</Book>
-<Book Series="X-Men: The Wedding Special" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="110945" Issue="670129" />
 </Book>
 <Book Series="X-Men: Gold" Number="30" Volume="2017" Year="2018">
 <Database Name="cv" Series="100603" Issue="674147" />

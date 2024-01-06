@@ -24,9 +24,6 @@
 <Book Series="New Mutants" Number="15" Volume="2009" Year="2010">
 <Database Name="cv" Series="26327" Issue="225698" />
 </Book>
-<Book Series="The Uncanny X-Men" Number="526" Volume="1981" Year="2010">
-<Database Name="cv" Series="3092" Issue="226786" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="527" Volume="1981" Year="2010">
 <Database Name="cv" Series="3092" Issue="230305" />
 </Book>
@@ -62,12 +59,6 @@
 </Book>
 <Book Series="The Uncanny X-Men" Number="534" Volume="1981" Year="2011">
 <Database Name="cv" Series="3092" Issue="266488" />
-</Book>
-<Book Series="X-23" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="32044" Issue="201027" />
-</Book>
-<Book Series="New Mutants" Number="15" Volume="2009" Year="2010">
-<Database Name="cv" Series="26327" Issue="225698" />
 </Book>
 <Book Series="New Mutants" Number="16" Volume="2009" Year="2010">
 <Database Name="cv" Series="26327" Issue="230323" />
@@ -264,18 +255,6 @@
 <Book Series="Generation Hope" Number="9" Volume="2011" Year="2011">
 <Database Name="cv" Series="36469" Issue="279973" />
 </Book>
-<Book Series="X-Men: To Serve and Protect" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="36470" Issue="240745" />
-</Book>
-<Book Series="X-Men: To Serve and Protect" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="36470" Issue="252756" />
-</Book>
-<Book Series="X-Men: To Serve and Protect" Number="3" Volume="2011" Year="2011">
-<Database Name="cv" Series="36470" Issue="259133" />
-</Book>
-<Book Series="X-Men: To Serve and Protect" Number="4" Volume="2011" Year="2011">
-<Database Name="cv" Series="36470" Issue="263750" />
-</Book>
 <Book Series="X-Men" Number="11" Volume="2010" Year="2011">
 <Database Name="cv" Series="34221" Issue="269818" />
 </Book>
@@ -339,17 +318,11 @@
 <Book Series="Uncanny X-Force" Number="9" Volume="2010" Year="2011">
 <Database Name="cv" Series="35835" Issue="269471" />
 </Book>
-<Book Series="X-23" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="32044" Issue="201027" />
-</Book>
 <Book Series="X-23" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="35496" Issue="239137" />
 </Book>
 <Book Series="X-23" Number="3" Volume="2010" Year="2011">
 <Database Name="cv" Series="35496" Issue="244789" />
-</Book>
-<Book Series="Wolverine: The Road to Hell" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="35279" Issue="232620" />
 </Book>
 <Book Series="Wolverine" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="10809" Issue="92137" />
@@ -401,9 +374,6 @@
 </Book>
 <Book Series="Namor: The First Mutant" Number="8" Volume="2010" Year="2011">
 <Database Name="cv" Series="34839" Issue="266490" />
-</Book>
-<Book Series="X-Men: To Serve and Protect" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="36470" Issue="252756" />
 </Book>
 <Book Series="X-23" Number="4" Volume="2010" Year="2011">
 <Database Name="cv" Series="35496" Issue="252992" />
@@ -666,9 +636,6 @@
 <Book Series="Generation Hope" Number="12" Volume="2011" Year="2011">
 <Database Name="cv" Series="36469" Issue="295072" />
 </Book>
-<Book Series="X-Men: Schism" Number="5" Volume="2011" Year="2011">
-<Database Name="cv" Series="41281" Issue="294049" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="544" Volume="1981" Year="2011">
 <Database Name="cv" Series="3092" Issue="297216" />
 </Book>
@@ -680,21 +647,6 @@
 </Book>
 <Book Series="X-Men: Legacy" Number="260" Volume="2008" Year="2012">
 <Database Name="cv" Series="20691" Issue="308418" />
-</Book>
-<Book Series="X-Men: Regenesis" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="43223" Issue="294888" />
-</Book>
-<Book Series="Generation Hope" Number="12" Volume="2011" Year="2011">
-<Database Name="cv" Series="36469" Issue="295072" />
-</Book>
-<Book Series="X-Men: Legacy" Number="260" Volume="2008" Year="2012">
-<Database Name="cv" Series="20691" Issue="308418" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="544" Volume="1981" Year="2011">
-<Database Name="cv" Series="3092" Issue="297216" />
-</Book>
-<Book Series="X-Men: Schism" Number="5" Volume="2011" Year="2011">
-<Database Name="cv" Series="41281" Issue="294049" />
 </Book>
 </Books>
 <Matchers />

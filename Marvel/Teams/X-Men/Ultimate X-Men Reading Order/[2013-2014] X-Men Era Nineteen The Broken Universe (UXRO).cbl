@@ -162,9 +162,6 @@
 <Book Series="Uncanny X-Men" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="386141" />
 </Book>
-<Book Series="Uncanny Avengers" Number="5" Volume="2012" Year="2013">
-<Database Name="cv" Series="52880" Issue="395258" />
-</Book>
 <Book Series="Uncanny Avengers" Number="7" Volume="2012" Year="2013">
 <Database Name="cv" Series="52880" Issue="398993" />
 </Book>
@@ -176,24 +173,6 @@
 </Book>
 <Book Series="All-New X-Men" Number="9" Volume="2012" Year="2013">
 <Database Name="cv" Series="53919" Issue="394700" />
-</Book>
-<Book Series="All-New X-Men" Number="10" Volume="2012" Year="2013">
-<Database Name="cv" Series="53919" Issue="395700" />
-</Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="396436" />
-</Book>
-<Book Series="All-New X-Men" Number="10" Volume="2012" Year="2013">
-<Database Name="cv" Series="53919" Issue="395700" />
-</Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="396436" />
-</Book>
-<Book Series="All-New X-Men" Number="10" Volume="2012" Year="2013">
-<Database Name="cv" Series="53919" Issue="395700" />
-</Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="396436" />
 </Book>
 <Book Series="All-New X-Men" Number="10" Volume="2012" Year="2013">
 <Database Name="cv" Series="53919" Issue="395700" />
@@ -578,9 +557,6 @@
 </Book>
 <Book Series="Marvel Knights: X-Men" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="69123" Issue="448971" />
-</Book>
-<Book Series="Uncanny Avengers" Number="7" Volume="2012" Year="2013">
-<Database Name="cv" Series="52880" Issue="398993" />
 </Book>
 <Book Series="Uncanny Avengers" Number="8" Volume="2012" Year="2013">
 <Database Name="cv" Series="52880" Issue="401212" />
