@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 04</Name>
-<NumIssues>999</NumIssues>
+<NumIssues>1000</NumIssues>
 <Books>
 <Book Series="Fantastic Four Annual" Number="12" Volume="1963" Year="1977">
 <Database Name="cv" Series="2129" Issue="17036" />
@@ -734,6 +734,9 @@
 </Book>
 <Book Series="The Human Fly" Number="19" Volume="1977" Year="1979">
 <Database Name="cv" Series="2903" Issue="19368" />
+</Book>
+<Book Series="Marvel Comics Super Special" Number="10" Volume="1977" Year="1979">
+<Database Name="cv" Series="2909" Issue="19198" />
 </Book>
 <Book Series="Shogun Warriors" Number="4" Volume="1979" Year="1979">
 <Database Name="cv" Series="3011" Issue="99889" />
@@ -1626,9 +1629,6 @@
 <Book Series="Hulk!" Number="20" Volume="1978" Year="1980">
 <Database Name="cv" Series="2954" Issue="20310" />
 </Book>
-<Book Series="Power Man and Iron Fist" Number="56" Volume="1978" Year="1979">
-<Database Name="cv" Series="2959" Issue="19445" />
-</Book>
 <Book Series="Power Man and Iron Fist" Number="57" Volume="1978" Year="1979">
 <Database Name="cv" Series="2959" Issue="19584" />
 </Book>
@@ -1776,9 +1776,6 @@
 <Book Series="Marvel Spotlight" Number="4" Volume="1979" Year="1980">
 <Database Name="cv" Series="3007" Issue="20103" />
 </Book>
-<Book Series="Marvel Comics Super Special" Number="10" Volume="1977" Year="1979">
-<Database Name="cv" Series="2909" Issue="19198" />
-</Book>
 <Book Series="Shogun Warriors" Number="18" Volume="1979" Year="1980">
 <Database Name="cv" Series="3011" Issue="100380" />
 </Book>
@@ -1839,7 +1836,7 @@
 <Book Series="Epic Illustrated" Number="1" Volume="1980" Year="1980">
 <Database Name="cv" Series="3049" Issue="20239" />
 </Book>
-<Book Series="Fantastic Four Annual" Number="1980" Volume="1969" Year="0">
+<Book Series="Fantastic Four Annual" Number="1980" Volume="1969" Year="1980">
 <Database Name="cv" Series="53647" Issue="364873" />
 </Book>
 <Book Series="Master of Kung Fu" Number="80" Volume="1974" Year="1979">
@@ -2729,9 +2726,6 @@
 </Book>
 <Book Series="Fantastic Four" Number="228" Volume="1961" Year="1981">
 <Database Name="cv" Series="2045" Issue="21108" />
-</Book>
-<Book Series="Incredible Hulk Annual" Number="1981" Volume="1977" Year="0">
-<Database Name="cv" Series="142306" Issue="917245" />
 </Book>
 <Book Series="Moon Knight" Number="7" Volume="1980" Year="1981">
 <Database Name="cv" Series="3052" Issue="21250" />

@@ -183,9 +183,6 @@
 <Book Series="Marvel Two-in-One" Number="78" Volume="1974" Year="1981">
 <Database Name="cv" Series="2696" Issue="21447" />
 </Book>
-<Book Series="Incredible Hulk Annual" Number="1982" Volume="1977" Year="1982">
-<Database Name="cv" Series="142306" Issue="917246" />
-</Book>
 <Book Series="Ghost Rider" Number="58" Volume="1973" Year="1981">
 <Database Name="cv" Series="2636" Issue="21375" />
 </Book>
@@ -2265,9 +2262,6 @@
 <Book Series="Iron Man" Number="174" Volume="1968" Year="1983">
 <Database Name="cv" Series="2407" Issue="23455" />
 </Book>
-<Book Series="Incredible Hulk Annual" Number="1983" Volume="1977" Year="0">
-<Database Name="cv" Series="142306" Issue="917247" />
-</Book>
 <Book Series="Iron Man" Number="175" Volume="1968" Year="1983">
 <Database Name="cv" Series="2407" Issue="23544" />
 </Book>
@@ -2982,6 +2976,9 @@
 <Book Series="Thor" Number="344" Volume="1966" Year="1984">
 <Database Name="cv" Series="2294" Issue="24418" />
 </Book>
+<Book Series="Phoenix: The Untold Story" Number="1" Volume="1984" Year="1984">
+<Database Name="cv" Series="27080" Issue="164213" />
+</Book>
 <Book Series="Alpha Flight" Number="9" Volume="1983" Year="1984">
 <Database Name="cv" Series="3217" Issue="24190" />
 </Book>
@@ -2996,12 +2993,6 @@
 </Book>
 <Book Series="Doctor Who Magazine" Number="87" Volume="1979" Year="1984">
 <Database Name="cv" Series="26877" Issue="161706" />
-</Book>
-<Book Series="Daredevil" Number="208" Volume="1964" Year="1984">
-<Database Name="cv" Series="2190" Issue="24500" />
-</Book>
-<Book Series="Daredevil" Number="209" Volume="1964" Year="1984">
-<Database Name="cv" Series="2190" Issue="24596" />
 </Book>
 </Books>
 <Matchers />

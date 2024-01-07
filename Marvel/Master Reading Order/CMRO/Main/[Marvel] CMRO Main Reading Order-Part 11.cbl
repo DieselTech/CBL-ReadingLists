@@ -3,6 +3,30 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 11</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="Nomad" Number="22" Volume="1992" Year="1994">
+<Database Name="cv" Series="4803" Issue="47853" />
+</Book>
+<Book Series="Nomad" Number="23" Volume="1992" Year="1994">
+<Database Name="cv" Series="4803" Issue="47854" />
+</Book>
+<Book Series="Nomad" Number="24" Volume="1992" Year="1994">
+<Database Name="cv" Series="4803" Issue="47855" />
+</Book>
+<Book Series="Nomad" Number="25" Volume="1992" Year="1994">
+<Database Name="cv" Series="4803" Issue="47856" />
+</Book>
+<Book Series="The Mighty Thor" Number="472" Volume="1989" Year="1994">
+<Database Name="cv" Series="61213" Issue="38808" />
+</Book>
+<Book Series="The Mighty Thor" Number="473" Volume="1989" Year="1994">
+<Database Name="cv" Series="61213" Issue="38950" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="386" Volume="1963" Year="1994">
+<Database Name="cv" Series="2127" Issue="38702" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="387" Volume="1963" Year="1994">
+<Database Name="cv" Series="2127" Issue="38852" />
+</Book>
 <Book Series="Web of Spider-Man" Number="110" Volume="1985" Year="1994">
 <Database Name="cv" Series="3519" Issue="38809" />
 </Book>
@@ -2978,30 +3002,6 @@
 </Book>
 <Book Series="Green Goblin" Number="4" Volume="1995" Year="1996">
 <Database Name="cv" Series="18471" Issue="109321" />
-</Book>
-<Book Series="Scarlet Spider" Number="2" Volume="1995" Year="1995">
-<Database Name="cv" Series="22212" Issue="141786" />
-</Book>
-<Book Series="The Spectacular Scarlet Spider" Number="2" Volume="1995" Year="1995">
-<Database Name="cv" Series="23666" Issue="141791" />
-</Book>
-<Book Series="Professor Xavier and the X-Men" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="5553" Issue="41644" />
-</Book>
-<Book Series="Over the Edge" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="11182" Issue="97936" />
-</Book>
-<Book Series="Sensational Spider-Man Wizard Mini Comic" Number="3" Volume="1995" Year="1995">
-<Database Name="cv" Series="64901" Issue="415946" />
-</Book>
-<Book Series="The Sensational Spider-Man" Number="0" Volume="1996" Year="1996">
-<Database Name="cv" Series="5788" Issue="77941" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="407" Volume="1963" Year="1996">
-<Database Name="cv" Series="2127" Issue="64445" />
-</Book>
-<Book Series="X-Factor" Number="116" Volume="1986" Year="1995">
-<Database Name="cv" Series="3657" Issue="65696" />
 </Book>
 </Books>
 <Matchers />

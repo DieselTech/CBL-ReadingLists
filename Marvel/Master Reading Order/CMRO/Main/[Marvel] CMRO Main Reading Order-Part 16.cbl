@@ -1,8 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 16</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>999</NumIssues>
 <Books>
+<Book Series="Avengers" Number="73" Volume="1998" Year="2003">
+<Database Name="cv" Series="7084" Issue="114477" />
+</Book>
+<Book Series="Avengers" Number="74" Volume="1998" Year="2004">
+<Database Name="cv" Series="7084" Issue="114478" />
+</Book>
+<Book Series="Avengers" Number="75" Volume="1998" Year="2004">
+<Database Name="cv" Series="7084" Issue="114479" />
+</Book>
+<Book Series="Avengers" Number="76" Volume="1998" Year="2004">
+<Database Name="cv" Series="7084" Issue="114480" />
+</Book>
+<Book Series="Avengers/Thunderbolts" Number="1" Volume="2004" Year="2004">
+<Database Name="cv" Series="11486" Issue="101300" />
+</Book>
+<Book Series="Avengers/Thunderbolts" Number="2" Volume="2004" Year="2004">
+<Database Name="cv" Series="11486" Issue="101301" />
+</Book>
+<Book Series="Avengers/Thunderbolts" Number="3" Volume="2004" Year="2004">
+<Database Name="cv" Series="11486" Issue="101302" />
+</Book>
+<Book Series="Avengers/Thunderbolts" Number="4" Volume="2004" Year="2004">
+<Database Name="cv" Series="11486" Issue="101303" />
+</Book>
+<Book Series="Avengers/Thunderbolts" Number="5" Volume="2004" Year="2004">
+<Database Name="cv" Series="11486" Issue="101304" />
+</Book>
+<Book Series="Avengers/Thunderbolts" Number="6" Volume="2004" Year="2004">
+<Database Name="cv" Series="11486" Issue="101305" />
+</Book>
+<Book Series="X-Statix" Number="19" Volume="2002" Year="2004">
+<Database Name="cv" Series="9478" Issue="108666" />
+</Book>
+<Book Series="X-Statix" Number="20" Volume="2002" Year="2004">
+<Database Name="cv" Series="9478" Issue="108669" />
+</Book>
+<Book Series="X-Statix" Number="21" Volume="2002" Year="2004">
+<Database Name="cv" Series="9478" Issue="108671" />
+</Book>
+<Book Series="X-Statix" Number="22" Volume="2002" Year="2004">
+<Database Name="cv" Series="9478" Issue="108672" />
+</Book>
+<Book Series="X-Statix" Number="23" Volume="2002" Year="2004">
+<Database Name="cv" Series="9478" Issue="90023" />
+</Book>
+<Book Series="X-Statix" Number="24" Volume="2002" Year="2004">
+<Database Name="cv" Series="9478" Issue="90024" />
+</Book>
+<Book Series="X-Statix" Number="25" Volume="2002" Year="2004">
+<Database Name="cv" Series="9478" Issue="90025" />
+</Book>
+<Book Series="X-Statix" Number="26" Volume="2002" Year="2004">
+<Database Name="cv" Series="9478" Issue="90026" />
+</Book>
+<Book Series="Hawkeye" Number="1" Volume="2003" Year="2003">
+<Database Name="cv" Series="23481" Issue="140794" />
+</Book>
 <Book Series="Hawkeye" Number="2" Volume="2003" Year="2004">
 <Database Name="cv" Series="23481" Issue="140795" />
 </Book>
@@ -299,9 +356,6 @@
 </Book>
 <Book Series="Elektra" Number="31" Volume="2001" Year="2004">
 <Database Name="cv" Series="9408" Issue="89983" />
-</Book>
-<Book Series="Marvels 25th Anniversary" Number="1" Volume="2020" Year="2020">
-<Database Name="cv" Series="125820" Issue="742427" />
 </Book>
 <Book Series="Human Torch" Number="7" Volume="2003" Year="2004">
 <Database Name="cv" Series="23492" Issue="140922" />
@@ -2562,6 +2616,21 @@
 <Book Series="Spectacular Spider-Man" Number="27" Volume="2003" Year="2005">
 <Database Name="cv" Series="11069" Issue="101143" />
 </Book>
+<Book Series="Machine Teen" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105866" />
+</Book>
+<Book Series="Machine Teen" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105870" />
+</Book>
+<Book Series="Machine Teen" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105871" />
+</Book>
+<Book Series="Machine Teen" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105872" />
+</Book>
+<Book Series="Machine Teen" Number="5" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105873" />
+</Book>
 <Book Series="Giant-Size X-Men" Number="4" Volume="1975" Year="2008">
 <Database Name="cv" Series="2763" Issue="195981" />
 </Book>
@@ -2930,78 +2999,6 @@
 </Book>
 <Book Series="New Thunderbolts" Number="10" Volume="2005" Year="2005">
 <Database Name="cv" Series="11298" Issue="99222" />
-</Book>
-<Book Series="New Thunderbolts" Number="11" Volume="2005" Year="2005">
-<Database Name="cv" Series="11298" Issue="99223" />
-</Book>
-<Book Series="New Thunderbolts" Number="12" Volume="2005" Year="2005">
-<Database Name="cv" Series="11298" Issue="99224" />
-</Book>
-<Book Series="Captain America" Number="8" Volume="2004" Year="2005">
-<Database Name="cv" Series="11499" Issue="115268" />
-</Book>
-<Book Series="Captain America" Number="9" Volume="2004" Year="2005">
-<Database Name="cv" Series="11499" Issue="115269" />
-</Book>
-<Book Series="Captain America" Number="10" Volume="2004" Year="2005">
-<Database Name="cv" Series="11499" Issue="115271" />
-</Book>
-<Book Series="Captain America" Number="11" Volume="2004" Year="2005">
-<Database Name="cv" Series="11499" Issue="115273" />
-</Book>
-<Book Series="Captain America" Number="12" Volume="2004" Year="2005">
-<Database Name="cv" Series="11499" Issue="115303" />
-</Book>
-<Book Series="Captain America" Number="13" Volume="2004" Year="2006">
-<Database Name="cv" Series="11499" Issue="115308" />
-</Book>
-<Book Series="Captain America" Number="14" Volume="2004" Year="2006">
-<Database Name="cv" Series="11499" Issue="113175" />
-</Book>
-<Book Series="Giant-Size Ms. Marvel" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="22510" Issue="135114" />
-</Book>
-<Book Series="X-Men" Number="175" Volume="2004" Year="2005">
-<Database Name="cv" Series="10731" Issue="106174" />
-</Book>
-<Book Series="Black Panther" Number="8" Volume="2005" Year="2005">
-<Database Name="cv" Series="11502" Issue="126179" />
-</Book>
-<Book Series="X-Men" Number="176" Volume="2004" Year="2005">
-<Database Name="cv" Series="10731" Issue="106175" />
-</Book>
-<Book Series="Black Panther" Number="9" Volume="2005" Year="2005">
-<Database Name="cv" Series="11502" Issue="126180" />
-</Book>
-<Book Series="Decimation: House of M - The Day After" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18132" Issue="106215" />
-</Book>
-<Book Series="X-Men" Number="177" Volume="2004" Year="2006">
-<Database Name="cv" Series="10731" Issue="106207" />
-</Book>
-<Book Series="X-Men" Number="178" Volume="2004" Year="2006">
-<Database Name="cv" Series="10731" Issue="106208" />
-</Book>
-<Book Series="X-Men" Number="179" Volume="2004" Year="2006">
-<Database Name="cv" Series="10731" Issue="106209" />
-</Book>
-<Book Series="Sentinel Squad O*N*E" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="23276" Issue="139879" />
-</Book>
-<Book Series="Sentinel Squad O*N*E" Number="2" Volume="2006" Year="2006">
-<Database Name="cv" Series="23276" Issue="139882" />
-</Book>
-<Book Series="Sentinel Squad O*N*E" Number="3" Volume="2006" Year="2006">
-<Database Name="cv" Series="23276" Issue="139884" />
-</Book>
-<Book Series="Sentinel Squad O*N*E" Number="4" Volume="2006" Year="2006">
-<Database Name="cv" Series="23276" Issue="139887" />
-</Book>
-<Book Series="Sentinel Squad O*N*E" Number="5" Volume="2006" Year="2006">
-<Database Name="cv" Series="23276" Issue="139889" />
-</Book>
-<Book Series="Mutopia X" Number="5" Volume="2005" Year="2006">
-<Database Name="cv" Series="22712" Issue="136178" />
 </Book>
 </Books>
 <Matchers />

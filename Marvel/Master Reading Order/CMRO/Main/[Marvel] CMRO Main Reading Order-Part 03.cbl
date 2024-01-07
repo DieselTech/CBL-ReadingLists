@@ -600,8 +600,8 @@
 <Book Series="Captain America Annual" Number="3" Volume="1971" Year="1976">
 <Database Name="cv" Series="2510" Issue="15923" />
 </Book>
-<Book Series="Captain America's Bicentennial Battles" Number="1" Volume="1976" Year="1976">
-<Database Name="cv" Series="25338" Issue="149555" />
+<Book Series="Adrenalynn: Weapon of War" Number="1" Volume="2000" Year="1976">
+<Database Name="cv" Series="25388" Issue="149555" />
 </Book>
 <Book Series="Master of Kung Fu" Number="38" Volume="1974" Year="1976">
 <Database Name="cv" Series="2697" Issue="16175" />

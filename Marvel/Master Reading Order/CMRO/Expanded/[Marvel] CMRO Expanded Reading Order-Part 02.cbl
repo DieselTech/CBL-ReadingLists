@@ -3,60 +3,6 @@
 <Name>[Marvel] CMRO Expanded Reading Order-Part 02</Name>
 <NumIssues>1000</NumIssues>
 <Books>
-<Book Series="Gay Comics" Number="37" Volume="1944" Year="1949">
-<Database Name="cv" Series="30453" Issue="92208" />
-</Book>
-<Book Series="Hedy De Vine Comics" Number="32" Volume="1947" Year="1949">
-<Database Name="cv" Series="1142" Issue="90820" />
-</Book>
-<Book Series="Lana" Number="5" Volume="1948" Year="1949">
-<Database Name="cv" Series="1201" Issue="94918" />
-</Book>
-<Book Series="Margie Comics" Number="46" Volume="1946" Year="1949">
-<Database Name="cv" Series="1113" Issue="95141" />
-</Book>
-<Book Series="Millie the Model" Number="17" Volume="1945" Year="1949">
-<Database Name="cv" Series="19441" Issue="161274" />
-</Book>
-<Book Series="Miss America Magazine" Number="21" Volume="1944" Year="1946">
-<Database Name="cv" Series="21618" Issue="188796" />
-</Book>
-<Book Series="Mitzi's Boy Friend" Number="7" Volume="1948" Year="1949">
-<Database Name="cv" Series="30574" Issue="188554" />
-</Book>
-<Book Series="Nellie the Nurse" Number="18" Volume="1945" Year="1949">
-<Database Name="cv" Series="1061" Issue="90560" />
-</Book>
-<Book Series="Tessie the Typist" Number="21" Volume="1944" Year="1949">
-<Database Name="cv" Series="1012" Issue="188058" />
-</Book>
-<Book Series="Amazing Mysteries" Number="32" Volume="1949" Year="1949">
-<Database Name="cv" Series="21608" Issue="130521" />
-</Book>
-<Book Series="Captain America Comics" Number="72" Volume="1941" Year="1949">
-<Database Name="cv" Series="1628" Issue="140219" />
-</Book>
-<Book Series="Kid Colt Outlaw" Number="5" Volume="1949" Year="1949">
-<Database Name="cv" Series="1199" Issue="98550" />
-</Book>
-<Book Series="Tex Taylor" Number="5" Volume="1948" Year="1949">
-<Database Name="cv" Series="30586" Issue="188695" />
-</Book>
-<Book Series="Tim Holt" Number="6" Volume="1948" Year="1949">
-<Database Name="cv" Series="1223" Issue="98470" />
-</Book>
-<Book Series="Wild Western" Number="7" Volume="1948" Year="1949">
-<Database Name="cv" Series="1213" Issue="188732" />
-</Book>
-<Book Series="Comedy Comics" Number="7" Volume="1948" Year="1949">
-<Database Name="cv" Series="27168" Issue="188382" />
-</Book>
-<Book Series="Georgie And Judy Comics" Number="22" Volume="1949" Year="1949">
-<Database Name="cv" Series="1266" Issue="188869" />
-</Book>
-<Book Series="Jeanie Comics" Number="25" Volume="1947" Year="1949">
-<Database Name="cv" Series="1143" Issue="93087" />
-</Book>
 <Book Series="Joker Comics" Number="37" Volume="1942" Year="1949">
 <Database Name="cv" Series="27160" Issue="188429" />
 </Book>
@@ -84,6 +30,9 @@
 <Book Series="Sub-Mariner Comics" Number="32" Volume="1941" Year="1949">
 <Database Name="cv" Series="18548" Issue="110348" />
 </Book>
+<Book Series="The Saint" Number="6" Volume="1947" Year="1949">
+<Database Name="cv" Series="12032" Issue="104773" />
+</Book>
 <Book Series="Best Western" Number="58" Volume="1949" Year="1949">
 <Database Name="cv" Series="30502" Issue="187667" />
 </Book>
@@ -106,7 +55,7 @@
 <Database Name="cv" Series="1141" Issue="90611" />
 </Book>
 <Book Series="Gay Comics" Number="38" Volume="1944" Year="1949">
-<Database Name="cv" Series="30453" Issue="92209" />
+<Database Name="cv" Series="1038" Issue="92209" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="33" Volume="1947" Year="1949">
 <Database Name="cv" Series="1142" Issue="90821" />
@@ -133,7 +82,7 @@
 <Database Name="cv" Series="1012" Issue="188059" />
 </Book>
 <Book Series="Georgie Comics" Number="23" Volume="1949" Year="1949">
-<Database Name="cv" Series="1057" Issue="90773" />
+<Database Name="cv" Series="1267" Issue="90773" />
 </Book>
 <Book Series="Amazing Mysteries" Number="33" Volume="1949" Year="1949">
 <Database Name="cv" Series="21608" Issue="188826" />
@@ -205,7 +154,7 @@
 <Database Name="cv" Series="30508" Issue="187696" />
 </Book>
 <Book Series="Gay Comics" Number="39" Volume="1944" Year="1949">
-<Database Name="cv" Series="30453" Issue="92210" />
+<Database Name="cv" Series="1038" Issue="92210" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="34" Volume="1947" Year="1949">
 <Database Name="cv" Series="1142" Issue="90822" />
@@ -277,7 +226,7 @@
 <Database Name="cv" Series="1213" Issue="188734" />
 </Book>
 <Book Series="Gay Comics" Number="40" Volume="1944" Year="1949">
-<Database Name="cv" Series="30453" Issue="92211" />
+<Database Name="cv" Series="1038" Issue="92211" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="35" Volume="1947" Year="1949">
 <Database Name="cv" Series="1142" Issue="90823" />
@@ -322,7 +271,7 @@
 <Database Name="cv" Series="1141" Issue="90613" />
 </Book>
 <Book Series="Georgie Comics" Number="24" Volume="1949" Year="1949">
-<Database Name="cv" Series="1057" Issue="90774" />
+<Database Name="cv" Series="1267" Issue="90774" />
 </Book>
 <Book Series="Frankie Fuddle" Number="17" Volume="1949" Year="1949">
 <Database Name="cv" Series="30508" Issue="187697" />
@@ -335,6 +284,9 @@
 </Book>
 <Book Series="Miss America Magazine" Number="28" Volume="1944" Year="1947">
 <Database Name="cv" Series="21618" Issue="188803" />
+</Book>
+<Book Series="Oscar Comics" Number="13" Volume="1949" Year="1949">
+<Database Name="cv" Series="30422" Issue="187353" />
 </Book>
 <Book Series="Patsy Walker" Number="25" Volume="1945" Year="1949">
 <Database Name="cv" Series="1062" Issue="141014" />
@@ -403,7 +355,7 @@
 <Database Name="cv" Series="1062" Issue="141015" />
 </Book>
 <Book Series="Willie Comics" Number="22" Volume="1950" Year="1950">
-<Database Name="cv" Series="1117" Issue="187797" />
+<Database Name="cv" Series="30532" Issue="187797" />
 </Book>
 <Book Series="Captain America Comics" Number="75" Volume="1941" Year="1950">
 <Database Name="cv" Series="1628" Issue="140225" />
@@ -426,7 +378,7 @@
 <Book Series="Cindy Comics" Number="38" Volume="1947" Year="1950">
 <Database Name="cv" Series="1141" Issue="90614" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="36" Volume="1950" Year="1950">
+<Book Series="Hedy of Hollywood Comics" Number="36" Volume="1950" Year="1950">
 <Database Name="cv" Series="1353" Issue="90824" />
 </Book>
 <Book Series="Miss America Magazine" Number="31" Volume="1944" Year="1947">
@@ -441,11 +393,17 @@
 <Book Series="Wonder Duck" Number="3" Volume="1949" Year="1950">
 <Database Name="cv" Series="30599" Issue="188884" />
 </Book>
+<Book Series="The Monkey and the Bear" Number="1" Volume="1953" Year="1953">
+<Database Name="cv" Series="30601" Issue="188889" />
+</Book>
+<Book Series="Buck Duck" Number="1" Volume="1953" Year="1953">
+<Database Name="cv" Series="1572" Issue="90591" />
+</Book>
 <Book Series="Black Rider" Number="8" Volume="1950" Year="1950">
 <Database Name="cv" Series="30131" Issue="185485" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="362598" />
+<Book Series="A-1 Comics" Number="27" Volume="1944" Year="1950">
+<Database Name="cv" Series="1032" Issue="208839" />
 </Book>
 <Book Series="Tex Taylor" Number="9" Volume="1948" Year="1950">
 <Database Name="cv" Series="30586" Issue="188699" />
@@ -469,10 +427,10 @@
 <Database Name="cv" Series="1062" Issue="141016" />
 </Book>
 <Book Series="Georgie Comics" Number="25" Volume="1949" Year="1950">
-<Database Name="cv" Series="1057" Issue="90775" />
+<Database Name="cv" Series="1267" Issue="90775" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="362600" />
+<Book Series="A-1 Comics" Number="29" Volume="1944" Year="1950">
+<Database Name="cv" Series="1032" Issue="208841" />
 </Book>
 <Book Series="Reno Browne, Hollywood's Greatest Cowgirl" Number="50" Volume="1950" Year="1950">
 <Database Name="cv" Series="30598" Issue="188877" />
@@ -507,7 +465,7 @@
 <Book Series="Cindy Smith" Number="39" Volume="1950" Year="1950">
 <Database Name="cv" Series="1346" Issue="91672" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="37" Volume="1950" Year="1950">
+<Book Series="Hedy of Hollywood Comics" Number="37" Volume="1950" Year="1950">
 <Database Name="cv" Series="1353" Issue="90825" />
 </Book>
 <Book Series="Joker Comics" Number="41" Volume="1942" Year="1950">
@@ -523,7 +481,7 @@
 <Database Name="cv" Series="1148" Issue="57339" />
 </Book>
 <Book Series="Willie Comics" Number="23" Volume="1950" Year="1950">
-<Database Name="cv" Series="1117" Issue="187802" />
+<Database Name="cv" Series="30532" Issue="187802" />
 </Book>
 <Book Series="Marvel Tales" Number="96" Volume="1949" Year="1950">
 <Database Name="cv" Series="1283" Issue="118304" />
@@ -553,7 +511,7 @@
 <Database Name="cv" Series="1061" Issue="188601" />
 </Book>
 <Book Series="Georgie Comics" Number="26" Volume="1949" Year="1950">
-<Database Name="cv" Series="1057" Issue="90776" />
+<Database Name="cv" Series="1267" Issue="90776" />
 </Book>
 <Book Series="Tim Holt" Number="18" Volume="1948" Year="1950">
 <Database Name="cv" Series="1223" Issue="203315" />
@@ -570,7 +528,7 @@
 <Book Series="Cindy Smith" Number="40" Volume="1950" Year="1950">
 <Database Name="cv" Series="1346" Issue="91673" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="38" Volume="1950" Year="1950">
+<Book Series="Hedy of Hollywood Comics" Number="38" Volume="1950" Year="1950">
 <Database Name="cv" Series="1353" Issue="90826" />
 </Book>
 <Book Series="Miss America Magazine" Number="34" Volume="1944" Year="1947">
@@ -609,14 +567,14 @@
 <Book Series="Kid Colt Outlaw" Number="11" Volume="1949" Year="1950">
 <Database Name="cv" Series="1199" Issue="98555" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="39" Volume="1950" Year="1950">
+<Book Series="Hedy of Hollywood Comics" Number="39" Volume="1950" Year="1950">
 <Database Name="cv" Series="1353" Issue="90827" />
 </Book>
 <Book Series="Georgie Comics" Number="27" Volume="1949" Year="1950">
-<Database Name="cv" Series="1057" Issue="90777" />
+<Database Name="cv" Series="1267" Issue="90777" />
 </Book>
-<Book Series="Edgar Rice Burroughs' Tarzan of the Apes" Number="1 [43]" Volume="1963" Year="1950">
-<Database Name="cv" Series="1343" Issue="90465" />
+<Book Series="Adventures into Terror" Number="1 [43]" Volume="1950" Year="1950">
+<Database Name="cv" Series="1419" Issue="90465" />
 </Book>
 <Book Series="Venus" Number="11" Volume="1948" Year="1950">
 <Database Name="cv" Series="18698" Issue="117440" />
@@ -642,7 +600,7 @@
 <Book Series="Patsy Walker" Number="31" Volume="1945" Year="1950">
 <Database Name="cv" Series="1062" Issue="73639" />
 </Book>
-<Book Series="It's A Duck's Life" Number="4" Volume="1950" Year="1950">
+<Book Series="It's a Duck's Life" Number="4" Volume="1950" Year="1950">
 <Database Name="cv" Series="25707" Issue="151387" />
 </Book>
 <Book Series="Tarzan" Number="2 [37]" Volume="1948" Year="1950">
@@ -658,7 +616,7 @@
 <Database Name="cv" Series="1213" Issue="188738" />
 </Book>
 <Book Series="Georgie Comics" Number="28" Volume="1949" Year="1950">
-<Database Name="cv" Series="1057" Issue="90778" />
+<Database Name="cv" Series="1267" Issue="90778" />
 </Book>
 <Book Series="Nellie the Nurse" Number="25" Volume="1945" Year="1950">
 <Database Name="cv" Series="1061" Issue="188602" />
@@ -670,7 +628,7 @@
 <Database Name="cv" Series="20015" Issue="119557" />
 </Book>
 <Book Series="Justice" Number="19" Volume="1949" Year="1951">
-<Database Name="cv" Series="57134" Issue="90934" />
+<Database Name="cv" Series="1144" Issue="90934" />
 </Book>
 <Book Series="Private Eye" Number="1" Volume="1951" Year="1951">
 <Database Name="cv" Series="30577" Issue="188636" />
@@ -687,7 +645,7 @@
 <Book Series="Texas Kid" Number="1" Volume="1951" Year="1951">
 <Database Name="cv" Series="30587" Issue="188700" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="40" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="40" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="90828" />
 </Book>
 <Book Series="Millie the Model" Number="26" Volume="1945" Year="1951">
@@ -699,8 +657,8 @@
 <Book Series="Patsy Walker" Number="32" Volume="1945" Year="1951">
 <Database Name="cv" Series="1062" Issue="73640" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="408142" />
+<Book Series="A-1 Comics" Number="31" Volume="1944" Year="1951">
+<Database Name="cv" Series="1032" Issue="208842" />
 </Book>
 <Book Series="Marvel Boy" Number="2" Volume="1950" Year="1951">
 <Database Name="cv" Series="26572" Issue="159036" />
@@ -723,7 +681,7 @@
 <Book Series="Wild Western" Number="14" Volume="1948" Year="1951">
 <Database Name="cv" Series="1213" Issue="188739" />
 </Book>
-<Book Series="It's A Duck's Life" Number="5" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="5" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151388" />
 </Book>
 <Book Series="My Friend Irma" Number="7" Volume="1950" Year="1951">
@@ -733,7 +691,7 @@
 <Database Name="cv" Series="1061" Issue="188603" />
 </Book>
 <Book Series="Georgie Comics" Number="29" Volume="1949" Year="1951">
-<Database Name="cv" Series="1057" Issue="90779" />
+<Database Name="cv" Series="1267" Issue="90779" />
 </Book>
 <Book Series="Tim Holt" Number="22" Volume="1948" Year="1951">
 <Database Name="cv" Series="1223" Issue="98484" />
@@ -765,7 +723,7 @@
 <Book Series="Texas Kid" Number="2" Volume="1951" Year="1951">
 <Database Name="cv" Series="30587" Issue="188701" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="41" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="41" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="90829" />
 </Book>
 <Book Series="Millie the Model" Number="27" Volume="1945" Year="1951">
@@ -777,8 +735,8 @@
 <Book Series="Patsy Walker" Number="33" Volume="1945" Year="1951">
 <Database Name="cv" Series="1062" Issue="73641" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="362588" />
+<Book Series="A-1 Comics" Number="34" Volume="1944" Year="1951">
+<Database Name="cv" Series="1032" Issue="208844" />
 </Book>
 <Book Series="Astonishing" Number="3" Volume="1951" Year="1951">
 <Database Name="cv" Series="1422" Issue="116426" />
@@ -811,12 +769,12 @@
 <Database Name="cv" Series="1061" Issue="188604" />
 </Book>
 <Book Series="Georgie Comics" Number="30" Volume="1949" Year="1951">
-<Database Name="cv" Series="1057" Issue="90780" />
+<Database Name="cv" Series="1267" Issue="90780" />
 </Book>
 <Book Series="My Friend Irma" Number="8" Volume="1950" Year="1951">
 <Database Name="cv" Series="1357" Issue="188574" />
 </Book>
-<Book Series="It's A Duck's Life" Number="6" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="6" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151389" />
 </Book>
 <Book Series="Tim Holt" Number="23" Volume="1948" Year="1951">
@@ -846,7 +804,7 @@
 <Book Series="Texas Kid" Number="3" Volume="1951" Year="1951">
 <Database Name="cv" Series="30587" Issue="188702" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="42" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="42" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="90830" />
 </Book>
 <Book Series="Millie the Model" Number="28" Volume="1945" Year="1951">
@@ -876,8 +834,8 @@
 <Book Series="The Gunhawk" Number="15" Volume="1950" Year="1951">
 <Database Name="cv" Series="1352" Issue="90810" />
 </Book>
-<Book Series="It's A Duck's Life" Number="7" Volume="1950" Year="1951">
-<Database Name="cv" Series="25707" Issue="151390" />
+<Book Series="Buck Duck" Number="3" Volume="1953" Year="1953">
+<Database Name="cv" Series="1572" Issue="90593" />
 </Book>
 <Book Series="Two Gun Western" Number="8" Volume="1950" Year="1951">
 <Database Name="cv" Series="1364" Issue="151385" />
@@ -886,7 +844,7 @@
 <Database Name="cv" Series="1213" Issue="188741" />
 </Book>
 <Book Series="Georgie Comics" Number="31" Volume="1949" Year="1951">
-<Database Name="cv" Series="1057" Issue="90781" />
+<Database Name="cv" Series="1267" Issue="90781" />
 </Book>
 <Book Series="My Friend Irma" Number="9" Volume="1950" Year="1951">
 <Database Name="cv" Series="1357" Issue="188575" />
@@ -894,8 +852,8 @@
 <Book Series="Nellie the Nurse" Number="28" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="188605" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="362597" />
+<Book Series="A-1 Comics" Number="37" Volume="1944" Year="1951">
+<Database Name="cv" Series="1032" Issue="208846" />
 </Book>
 <Book Series="Tim Holt" Number="24" Volume="1948" Year="1951">
 <Database Name="cv" Series="1223" Issue="203316" />
@@ -930,7 +888,7 @@
 <Book Series="Texas Kid" Number="4" Volume="1951" Year="1951">
 <Database Name="cv" Series="30587" Issue="188703" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="43" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="43" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="187967" />
 </Book>
 <Book Series="Millie the Model" Number="29" Volume="1945" Year="1951">
@@ -961,13 +919,13 @@
 <Database Name="cv" Series="1213" Issue="188742" />
 </Book>
 <Book Series="Georgie Comics" Number="32" Volume="1949" Year="1951">
-<Database Name="cv" Series="1057" Issue="140621" />
+<Database Name="cv" Series="1267" Issue="140621" />
 </Book>
 <Book Series="Nellie the Nurse" Number="29" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="90564" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="408143" />
+<Book Series="A-1 Comics" Number="44" Volume="1944" Year="1951">
+<Database Name="cv" Series="1032" Issue="208852" />
 </Book>
 <Book Series="Tim Holt" Number="25" Volume="1948" Year="1951">
 <Database Name="cv" Series="1223" Issue="98486" />
@@ -999,7 +957,7 @@
 <Book Series="Texas Kid" Number="5" Volume="1951" Year="1951">
 <Database Name="cv" Series="30587" Issue="188704" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="44" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="44" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="187968" />
 </Book>
 <Book Series="Millie the Model" Number="30" Volume="1945" Year="1951">
@@ -1011,8 +969,8 @@
 <Book Series="Patsy Walker" Number="36" Volume="1945" Year="1951">
 <Database Name="cv" Series="1062" Issue="73644" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="42" Volume="1993" Year="1951">
-<Database Name="cv" Series="1441" Issue="163980" />
+<Book Series="A-1 Comics" Number="42" Volume="1944" Year="1951">
+<Database Name="cv" Series="1032" Issue="163980" />
 </Book>
 <Book Series="Adventures into Terror" Number="6" Volume="1950" Year="1951">
 <Database Name="cv" Series="1419" Issue="90470" />
@@ -1042,16 +1000,16 @@
 <Database Name="cv" Series="1213" Issue="188743" />
 </Book>
 <Book Series="Georgie Comics" Number="33" Volume="1949" Year="1951">
-<Database Name="cv" Series="1057" Issue="140501" />
+<Database Name="cv" Series="1267" Issue="140501" />
 </Book>
 <Book Series="Nellie the Nurse" Number="30" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="90565" />
 </Book>
-<Book Series="It's A Duck's Life" Number="9" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="9" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151392" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="362589" />
+<Book Series="A-1 Comics" Number="51" Volume="1944" Year="1951">
+<Database Name="cv" Series="1032" Issue="208860" />
 </Book>
 <Book Series="Tim Holt" Number="26" Volume="1948" Year="1951">
 <Database Name="cv" Series="1223" Issue="98487" />
@@ -1068,7 +1026,7 @@
 <Book Series="Private Eye" Number="6" Volume="1951" Year="1951">
 <Database Name="cv" Series="30577" Issue="188641" />
 </Book>
-<Book Series="It's A Duck's Life" Number="10" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="10" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151393" />
 </Book>
 <Book Series="Apache Kid" Number="9" Volume="1950" Year="1951">
@@ -1086,7 +1044,7 @@
 <Book Series="Texas Kid" Number="6" Volume="1951" Year="1951">
 <Database Name="cv" Series="30587" Issue="188705" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="45" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="45" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="187969" />
 </Book>
 <Book Series="Millie the Model" Number="31" Volume="1945" Year="1951">
@@ -1098,8 +1056,8 @@
 <Book Series="Patsy Walker" Number="37" Volume="1945" Year="1951">
 <Database Name="cv" Series="1062" Issue="73645" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="46" Volume="1993" Year="1951">
-<Database Name="cv" Series="1441" Issue="163981" />
+<Book Series="A-1 Comics" Number="46" Volume="1944" Year="1951">
+<Database Name="cv" Series="1032" Issue="163981" />
 </Book>
 <Book Series="Venus" Number="17" Volume="1948" Year="1951">
 <Database Name="cv" Series="18698" Issue="117526" />
@@ -1117,7 +1075,7 @@
 <Database Name="cv" Series="1213" Issue="188744" />
 </Book>
 <Book Series="Georgie Comics" Number="34" Volume="1949" Year="1951">
-<Database Name="cv" Series="1057" Issue="90782" />
+<Database Name="cv" Series="1267" Issue="90782" />
 </Book>
 <Book Series="Nellie the Nurse" Number="31" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="90566" />
@@ -1152,7 +1110,7 @@
 <Book Series="Texas Kid" Number="7" Volume="1951" Year="1952">
 <Database Name="cv" Series="30587" Issue="188706" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="46" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="46" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90831" />
 </Book>
 <Book Series="Millie the Model" Number="32" Volume="1945" Year="1952">
@@ -1164,8 +1122,8 @@
 <Book Series="Patsy Walker" Number="38" Volume="1945" Year="1952">
 <Database Name="cv" Series="1062" Issue="73646" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="52" Volume="1993" Year="1952">
-<Database Name="cv" Series="1441" Issue="163982" />
+<Book Series="A-1 Comics" Number="52" Volume="1944" Year="1952">
+<Database Name="cv" Series="1032" Issue="163982" />
 </Book>
 <Book Series="Marvel Tales" Number="105" Volume="1949" Year="1952">
 <Database Name="cv" Series="1283" Issue="96161" />
@@ -1185,11 +1143,11 @@
 <Book Series="Wild Western" Number="20" Volume="1948" Year="1952">
 <Database Name="cv" Series="1213" Issue="188745" />
 </Book>
-<Book Series="It's A Duck's Life" Number="11" Volume="1950" Year="1952">
+<Book Series="It's a Duck's Life" Number="11" Volume="1950" Year="1952">
 <Database Name="cv" Series="25707" Issue="151394" />
 </Book>
 <Book Series="Georgie Comics" Number="35" Volume="1949" Year="1952">
-<Database Name="cv" Series="1057" Issue="140493" />
+<Database Name="cv" Series="1267" Issue="140493" />
 </Book>
 <Book Series="Nellie the Nurse" Number="32" Volume="1945" Year="1952">
 <Database Name="cv" Series="1061" Issue="90567" />
@@ -1233,7 +1191,7 @@
 <Book Series="Texas Kid" Number="8" Volume="1951" Year="1952">
 <Database Name="cv" Series="30587" Issue="188707" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="47" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="47" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90832" />
 </Book>
 <Book Series="Millie the Model" Number="33" Volume="1945" Year="1952">
@@ -1267,7 +1225,7 @@
 <Database Name="cv" Series="1061" Issue="90568" />
 </Book>
 <Book Series="Georgie Comics" Number="36" Volume="1949" Year="1952">
-<Database Name="cv" Series="1057" Issue="140491" />
+<Database Name="cv" Series="1267" Issue="140491" />
 </Book>
 <Book Series="Patsy and Hedy" Number="2" Volume="1952" Year="1952">
 <Database Name="cv" Series="8517" Issue="185887" />
@@ -1290,7 +1248,7 @@
 <Book Series="Texas Kid" Number="9" Volume="1951" Year="1952">
 <Database Name="cv" Series="30587" Issue="188708" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="48" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="48" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90833" />
 </Book>
 <Book Series="Millie the Model" Number="34" Volume="1945" Year="1952">
@@ -1330,7 +1288,7 @@
 <Database Name="cv" Series="1213" Issue="188747" />
 </Book>
 <Book Series="Georgie Comics" Number="37" Volume="1949" Year="1952">
-<Database Name="cv" Series="1057" Issue="90783" />
+<Database Name="cv" Series="1267" Issue="90783" />
 </Book>
 <Book Series="Nellie the Nurse" Number="34" Volume="1945" Year="1952">
 <Database Name="cv" Series="1061" Issue="188606" />
@@ -1359,7 +1317,7 @@
 <Book Series="Texas Kid" Number="10" Volume="1951" Year="1952">
 <Database Name="cv" Series="30587" Issue="188709" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="49" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="49" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90834" />
 </Book>
 <Book Series="Millie the Model" Number="35" Volume="1945" Year="1952">
@@ -1386,17 +1344,17 @@
 <Book Series="Strange Tales" Number="9" Volume="1951" Year="1952">
 <Database Name="cv" Series="18066" Issue="108645" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="59" Volume="1993" Year="1952">
-<Database Name="cv" Series="1441" Issue="163983" />
+<Book Series="A-1 Comics" Number="59" Volume="1944" Year="1952">
+<Database Name="cv" Series="1032" Issue="163983" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="408144" />
+<Book Series="A-1 Comics" Number="57" Volume="1944" Year="1952">
+<Database Name="cv" Series="1032" Issue="208866" />
 </Book>
 <Book Series="Wild Western" Number="23" Volume="1948" Year="1952">
 <Database Name="cv" Series="1213" Issue="188748" />
 </Book>
 <Book Series="Georgie Comics" Number="38" Volume="1949" Year="1952">
-<Database Name="cv" Series="1057" Issue="140489" />
+<Database Name="cv" Series="1267" Issue="140489" />
 </Book>
 <Book Series="Nellie the Nurse" Number="35" Volume="1945" Year="1952">
 <Database Name="cv" Series="1061" Issue="90569" />
@@ -1425,7 +1383,7 @@
 <Book Series="Kid Colt Outlaw" Number="22" Volume="1949" Year="1952">
 <Database Name="cv" Series="1199" Issue="139540" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="50" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="50" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90835" />
 </Book>
 <Book Series="Millie the Model" Number="36" Volume="1945" Year="1952">
@@ -1455,17 +1413,17 @@
 <Book Series="Suspense" Number="23" Volume="1949" Year="1952">
 <Database Name="cv" Series="20790" Issue="188656" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="66" Volume="1993" Year="1952">
-<Database Name="cv" Series="1441" Issue="13" />
+<Book Series="A-1 Comics" Number="66" Volume="1944" Year="1952">
+<Database Name="cv" Series="1032" Issue="13" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="362595" />
+<Book Series="A-1 Comics" Number="67" Volume="1944" Year="1952">
+<Database Name="cv" Series="1032" Issue="208879" />
 </Book>
 <Book Series="Wild Western" Number="24" Volume="1948" Year="1952">
 <Database Name="cv" Series="1213" Issue="20" />
 </Book>
 <Book Series="Georgie Comics" Number="39" Volume="1949" Year="1952">
-<Database Name="cv" Series="1057" Issue="90784" />
+<Database Name="cv" Series="1267" Issue="90784" />
 </Book>
 <Book Series="Nellie the Nurse" Number="36" Volume="1945" Year="1952">
 <Database Name="cv" Series="1061" Issue="90570" />
@@ -1533,11 +1491,11 @@
 <Book Series="Strange Tales" Number="13" Volume="1951" Year="1952">
 <Database Name="cv" Series="18066" Issue="108650" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="70" Volume="1993" Year="1952">
-<Database Name="cv" Series="1441" Issue="137" />
+<Book Series="A-1 Comics" Number="70" Volume="1944" Year="1952">
+<Database Name="cv" Series="1032" Issue="137" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="362591" />
+<Book Series="A-1 Comics" Number="71" Volume="1944" Year="1952">
+<Database Name="cv" Series="1032" Issue="208878" />
 </Book>
 <Book Series="Wild Western" Number="25" Volume="1948" Year="1952">
 <Database Name="cv" Series="1213" Issue="143" />
@@ -1701,11 +1659,11 @@
 <Book Series="War Action" Number="12" Volume="1952" Year="1953">
 <Database Name="cv" Series="1504" Issue="187965" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="76" Volume="1993" Year="1953">
-<Database Name="cv" Series="1441" Issue="339" />
+<Book Series="A-1 Comics" Number="76" Volume="1944" Year="1953">
+<Database Name="cv" Series="1032" Issue="339" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="408145" />
+<Book Series="A-1 Comics" Number="75" Volume="1944" Year="1953">
+<Database Name="cv" Series="1032" Issue="208883" />
 </Book>
 <Book Series="Kid Colt Outlaw" Number="25" Volume="1949" Year="1953">
 <Database Name="cv" Series="1199" Issue="342" />
@@ -1771,7 +1729,7 @@
 <Database Name="cv" Series="19441" Issue="185773" />
 </Book>
 <Book Series="Miss America" Number="51" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="135383" />
+<Database Name="cv" Series="7071" Issue="135383" />
 </Book>
 <Book Series="Patsy and Hedy" Number="14" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185899" />
@@ -1813,22 +1771,22 @@
 <Database Name="cv" Series="19441" Issue="185774" />
 </Book>
 <Book Series="Miss America" Number="52" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="135382" />
+<Database Name="cv" Series="7071" Issue="135382" />
 </Book>
 <Book Series="Patsy and Hedy" Number="15" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185900" />
 </Book>
-<Book Series="Patsy and her Pals" Number="1" Volume="1953" Year="1953">
+<Book Series="Patsy and Her Pals" Number="1" Volume="1953" Year="1953">
 <Database Name="cv" Series="30576" Issue="188607" />
 </Book>
 <Book Series="Patsy Walker" Number="46" Volume="1945" Year="1953">
 <Database Name="cv" Series="1062" Issue="141029" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="81" Volume="1993" Year="1953">
-<Database Name="cv" Series="1441" Issue="476" />
+<Book Series="A-1 Comics" Number="81" Volume="1944" Year="1953">
+<Database Name="cv" Series="1032" Issue="476" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="408146" />
+<Book Series="A-1 Comics" Number="80" Volume="1944" Year="1953">
+<Database Name="cv" Series="1032" Issue="208888" />
 </Book>
 <Book Series="Battle Brady" Number="14" Volume="1953" Year="1953">
 <Database Name="cv" Series="18194" Issue="109015" />
@@ -1858,7 +1816,7 @@
 <Database Name="cv" Series="19441" Issue="185775" />
 </Book>
 <Book Series="Miss America" Number="53" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="94348" />
+<Database Name="cv" Series="7071" Issue="94348" />
 </Book>
 <Book Series="Patsy and Hedy" Number="16" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185901" />
@@ -1885,12 +1843,12 @@
 <Database Name="cv" Series="19441" Issue="185776" />
 </Book>
 <Book Series="Miss America" Number="54" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="135380" />
+<Database Name="cv" Series="7071" Issue="135380" />
 </Book>
 <Book Series="Patsy and Hedy" Number="17" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185902" />
 </Book>
-<Book Series="Patsy and her Pals" Number="2" Volume="1953" Year="1953">
+<Book Series="Patsy and Her Pals" Number="2" Volume="1953" Year="1953">
 <Database Name="cv" Series="30576" Issue="188608" />
 </Book>
 <Book Series="Patsy Walker" Number="47" Volume="1945" Year="1953">
@@ -1899,16 +1857,16 @@
 <Book Series="Wendy Parker" Number="1" Volume="1953" Year="1953">
 <Database Name="cv" Series="1584" Issue="57733" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="85" Volume="1993" Year="1953">
-<Database Name="cv" Series="1441" Issue="589" />
+<Book Series="A-1 Comics" Number="85" Volume="1944" Year="1953">
+<Database Name="cv" Series="1032" Issue="589" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="408147" />
+<Book Series="A-1 Comics" Number="84" Volume="1944" Year="1953">
+<Database Name="cv" Series="1032" Issue="208892" />
 </Book>
 <Book Series="Adventures into Weird Worlds" Number="21" Volume="1952" Year="1953">
 <Database Name="cv" Series="1492" Issue="56991" />
 </Book>
-<Book Series="Bible Tales For Young Folk" Number="1" Volume="1953" Year="1953">
+<Book Series="Bible Tales for Young Folk" Number="1" Volume="1953" Year="1953">
 <Database Name="cv" Series="30563" Issue="188199" />
 </Book>
 <Book Series="Combat Casey" Number="11" Volume="1953" Year="1953">
@@ -1939,7 +1897,7 @@
 <Database Name="cv" Series="19441" Issue="185777" />
 </Book>
 <Book Series="Miss America" Number="55" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="94349" />
+<Database Name="cv" Series="7071" Issue="94349" />
 </Book>
 <Book Series="Patsy and Hedy" Number="18" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185903" />
@@ -1984,15 +1942,12 @@
 <Database Name="cv" Series="19441" Issue="155818" />
 </Book>
 <Book Series="Miss America" Number="56" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="94350" />
-</Book>
-<Book Series="The Monkey And The Bear" Number="1" Volume="1953" Year="1953">
-<Database Name="cv" Series="30601" Issue="188889" />
+<Database Name="cv" Series="7071" Issue="94350" />
 </Book>
 <Book Series="Patsy and Hedy" Number="19" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185904" />
 </Book>
-<Book Series="Patsy and her Pals" Number="3" Volume="1953" Year="1953">
+<Book Series="Patsy and Her Pals" Number="3" Volume="1953" Year="1953">
 <Database Name="cv" Series="30576" Issue="188609" />
 </Book>
 <Book Series="Patsy Walker" Number="48" Volume="1945" Year="1953">
@@ -2001,10 +1956,10 @@
 <Book Series="Wendy Parker" Number="3" Volume="1953" Year="1953">
 <Database Name="cv" Series="1584" Issue="57735" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="87" Volume="1993" Year="1953">
-<Database Name="cv" Series="1441" Issue="693" />
+<Book Series="A-1 Comics" Number="87" Volume="1944" Year="1953">
+<Database Name="cv" Series="1032" Issue="693" />
 </Book>
-<Book Series="Bible Tales For Young Folk" Number="2" Volume="1953" Year="1953">
+<Book Series="Bible Tales for Young Folk" Number="2" Volume="1953" Year="1953">
 <Database Name="cv" Series="30563" Issue="188200" />
 </Book>
 <Book Series="Combat Casey" Number="12" Volume="1953" Year="1953">
@@ -2029,7 +1984,7 @@
 <Database Name="cv" Series="19441" Issue="185778" />
 </Book>
 <Book Series="Miss America" Number="57" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="135384" />
+<Database Name="cv" Series="7071" Issue="135384" />
 </Book>
 <Book Series="Patsy and Hedy" Number="20" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185905" />
@@ -2059,19 +2014,19 @@
 <Database Name="cv" Series="19441" Issue="185780" />
 </Book>
 <Book Series="Miss America" Number="58" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="135385" />
+<Database Name="cv" Series="7071" Issue="135385" />
 </Book>
 <Book Series="Patsy and Hedy" Number="21" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185906" />
 </Book>
-<Book Series="Patsy and her Pals" Number="4" Volume="1953" Year="1953">
+<Book Series="Patsy and Her Pals" Number="4" Volume="1953" Year="1953">
 <Database Name="cv" Series="30576" Issue="188610" />
 </Book>
 <Book Series="Patsy Walker" Number="49" Volume="1945" Year="1953">
 <Database Name="cv" Series="1062" Issue="164501" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="97" Volume="1993" Year="1953">
-<Database Name="cv" Series="1441" Issue="801" />
+<Book Series="A-1 Comics" Number="97" Volume="1944" Year="1953">
+<Database Name="cv" Series="1032" Issue="801" />
 </Book>
 <Book Series="Adventures into Terror" Number="26" Volume="1950" Year="1953">
 <Database Name="cv" Series="1419" Issue="90490" />
@@ -2079,7 +2034,7 @@
 <Book Series="Adventures into Weird Worlds" Number="24" Volume="1952" Year="1953">
 <Database Name="cv" Series="1492" Issue="56994" />
 </Book>
-<Book Series="Bible Tales For Young Folk" Number="3" Volume="1953" Year="1953">
+<Book Series="Bible Tales for Young Folk" Number="3" Volume="1953" Year="1953">
 <Database Name="cv" Series="30563" Issue="188201" />
 </Book>
 <Book Series="Combat Casey" Number="13" Volume="1953" Year="1953">
@@ -2116,7 +2071,7 @@
 <Database Name="cv" Series="1213" Issue="853" />
 </Book>
 <Book Series="Miss America" Number="59" Volume="1953" Year="1953">
-<Database Name="cv" Series="21618" Issue="94351" />
+<Database Name="cv" Series="7071" Issue="94351" />
 </Book>
 <Book Series="Patsy and Hedy" Number="22" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185907" />
@@ -2158,12 +2113,12 @@
 <Database Name="cv" Series="19441" Issue="185781" />
 </Book>
 <Book Series="Miss America" Number="60" Volume="1953" Year="1954">
-<Database Name="cv" Series="21618" Issue="135386" />
+<Database Name="cv" Series="7071" Issue="135386" />
 </Book>
 <Book Series="Patsy and Hedy" Number="23" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185908" />
 </Book>
-<Book Series="Patsy and her Pals" Number="5" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="5" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188611" />
 </Book>
 <Book Series="Patsy Walker" Number="50" Volume="1945" Year="1954">
@@ -2172,8 +2127,8 @@
 <Book Series="Wendy Parker" Number="5" Volume="1953" Year="1954">
 <Database Name="cv" Series="1584" Issue="57737" />
 </Book>
-<Book Series="Ghost in the Shell" Number="" Volume="1995" Year="0">
-<Database Name="cv" Series="53079" Issue="362592" />
+<Book Series="A-1 Comics" Number="112" Volume="1944" Year="1954">
+<Database Name="cv" Series="1032" Issue="208918" />
 </Book>
 <Book Series="Battle" Number="26" Volume="1951" Year="1954">
 <Database Name="cv" Series="1423" Issue="972" />
@@ -2181,7 +2136,7 @@
 <Book Series="Battlefront" Number="16" Volume="1952" Year="1954">
 <Database Name="cv" Series="1494" Issue="188283" />
 </Book>
-<Book Series="Bible Tales For Young Folk" Number="4" Volume="1953" Year="1954">
+<Book Series="Bible Tales for Young Folk" Number="4" Volume="1953" Year="1954">
 <Database Name="cv" Series="30563" Issue="188202" />
 </Book>
 <Book Series="Combat Casey" Number="14" Volume="1953" Year="1954">
@@ -2215,7 +2170,7 @@
 <Database Name="cv" Series="19441" Issue="185782" />
 </Book>
 <Book Series="Miss America" Number="61" Volume="1953" Year="1954">
-<Database Name="cv" Series="21618" Issue="135387" />
+<Database Name="cv" Series="7071" Issue="135387" />
 </Book>
 <Book Series="Patsy and Hedy" Number="24" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185909" />
@@ -2235,7 +2190,7 @@
 <Book Series="Battlefront" Number="17" Volume="1952" Year="1954">
 <Database Name="cv" Series="1494" Issue="188284" />
 </Book>
-<Book Series="Bible Tales For Young Folk" Number="5" Volume="1953" Year="1954">
+<Book Series="Bible Tales for Young Folk" Number="5" Volume="1953" Year="1954">
 <Database Name="cv" Series="30563" Issue="188203" />
 </Book>
 <Book Series="Combat Kelly" Number="20" Volume="1951" Year="1954">
@@ -2269,12 +2224,12 @@
 <Database Name="cv" Series="19441" Issue="185783" />
 </Book>
 <Book Series="Miss America" Number="62" Volume="1953" Year="1954">
-<Database Name="cv" Series="21618" Issue="94352" />
+<Database Name="cv" Series="7071" Issue="94352" />
 </Book>
 <Book Series="Patsy and Hedy" Number="25" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185910" />
 </Book>
-<Book Series="Patsy and her Pals" Number="6" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="6" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188612" />
 </Book>
 <Book Series="Patsy Walker" Number="51" Volume="1945" Year="1954">
@@ -2283,8 +2238,8 @@
 <Book Series="Wendy Parker" Number="6" Volume="1953" Year="1954">
 <Database Name="cv" Series="1584" Issue="57738" />
 </Book>
-<Book Series="Kids, Kachkéis a Kuddelmuddel!" Number="" Volume="2007" Year="0">
-<Database Name="cv" Series="53670" Issue="365362" />
+<Book Series="A-1 Comics" Number="122" Volume="1944" Year="1954">
+<Database Name="cv" Series="1032" Issue="208923" />
 </Book>
 <Book Series="Adventures into Terror" Number="30" Volume="1950" Year="1954">
 <Database Name="cv" Series="1419" Issue="90494" />
@@ -2311,7 +2266,7 @@
 <Database Name="cv" Series="18066" Issue="108944" />
 </Book>
 <Book Series="Sub-Mariner" Number="33" Volume="1954" Year="1954">
-<Database Name="cv" Series="18548" Issue="1064" />
+<Database Name="cv" Series="1642" Issue="1064" />
 </Book>
 <Book Series="Arrowhead" Number="1" Volume="1954" Year="1954">
 <Database Name="cv" Series="1626" Issue="1059" />
@@ -2329,13 +2284,13 @@
 <Database Name="cv" Series="19441" Issue="185784" />
 </Book>
 <Book Series="Miss America" Number="63" Volume="1953" Year="1954">
-<Database Name="cv" Series="21618" Issue="135389" />
+<Database Name="cv" Series="7071" Issue="135389" />
 </Book>
 <Book Series="Patsy and Hedy" Number="26" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185911" />
 </Book>
-<Book Series="Superjhemp contra Superjhemp" Number="103" Volume="1993" Year="1954">
-<Database Name="cv" Series="1441" Issue="164572" />
+<Book Series="A-1 Comics" Number="103" Volume="1944" Year="1954">
+<Database Name="cv" Series="1032" Issue="164572" />
 </Book>
 <Book Series="Tim Holt" Number="41" Volume="1948" Year="1954">
 <Database Name="cv" Series="1223" Issue="98494" />
@@ -2382,7 +2337,7 @@
 <Book Series="Patsy and Hedy" Number="27" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185912" />
 </Book>
-<Book Series="Patsy and her Pals" Number="7" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="7" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188613" />
 </Book>
 <Book Series="Men's Adventures" Number="27" Volume="1950" Year="1954">
@@ -2428,7 +2383,7 @@
 <Database Name="cv" Series="18066" Issue="108946" />
 </Book>
 <Book Series="Sub-Mariner" Number="34" Volume="1954" Year="1954">
-<Database Name="cv" Series="18548" Issue="1187" />
+<Database Name="cv" Series="1642" Issue="1187" />
 </Book>
 <Book Series="Young Men" Number="28" Volume="1950" Year="1954">
 <Database Name="cv" Series="1368" Issue="188768" />
@@ -2449,7 +2404,7 @@
 <Database Name="cv" Series="19441" Issue="185785" />
 </Book>
 <Book Series="Miss America" Number="64" Volume="1953" Year="1954">
-<Database Name="cv" Series="21618" Issue="135394" />
+<Database Name="cv" Series="7071" Issue="135394" />
 </Book>
 <Book Series="Patsy and Hedy" Number="28" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185913" />
@@ -2493,7 +2448,7 @@
 <Book Series="Patsy and Hedy" Number="29" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185914" />
 </Book>
-<Book Series="Patsy and her Pals" Number="8" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="8" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188614" />
 </Book>
 <Book Series="Patsy Walker" Number="53" Volume="1945" Year="1954">
@@ -2514,14 +2469,14 @@
 <Book Series="The Human Torch" Number="38" Volume="1940" Year="1954">
 <Database Name="cv" Series="832" Issue="1297" />
 </Book>
-<Book Series="Marines In Battle" Number="1" Volume="1954" Year="1954">
+<Book Series="Marines in Battle" Number="1" Volume="1954" Year="1954">
 <Database Name="cv" Series="1633" Issue="118030" />
 </Book>
 <Book Series="Navy Action" Number="1" Volume="1954" Year="1954">
 <Database Name="cv" Series="1634" Issue="90522" />
 </Book>
 <Book Series="Sub-Mariner" Number="35" Volume="1954" Year="1954">
-<Database Name="cv" Series="18548" Issue="1300" />
+<Database Name="cv" Series="1642" Issue="1300" />
 </Book>
 <Book Series="Uncanny Tales" Number="23" Volume="1952" Year="1954">
 <Database Name="cv" Series="1503" Issue="1309" />
@@ -2545,7 +2500,7 @@
 <Database Name="cv" Series="19441" Issue="185786" />
 </Book>
 <Book Series="Miss America" Number="65" Volume="1953" Year="1954">
-<Database Name="cv" Series="21618" Issue="135399" />
+<Database Name="cv" Series="7071" Issue="135399" />
 </Book>
 <Book Series="Patsy and Hedy" Number="30" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185915" />
@@ -2595,7 +2550,7 @@
 <Book Series="Girls' Life" Number="5" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188271" />
 </Book>
-<Book Series="Patsy and her Pals" Number="9" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="9" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188615" />
 </Book>
 <Book Series="Patsy Walker" Number="54" Volume="1945" Year="1954">
@@ -2625,7 +2580,7 @@
 <Book Series="Marvel Tales" Number="127" Volume="1949" Year="1954">
 <Database Name="cv" Series="1283" Issue="96175" />
 </Book>
-<Book Series="Marines In Battle" Number="2" Volume="1954" Year="1954">
+<Book Series="Marines in Battle" Number="2" Volume="1954" Year="1954">
 <Database Name="cv" Series="1633" Issue="124824" />
 </Book>
 <Book Series="Mystery Tales" Number="22" Volume="1952" Year="1954">
@@ -2656,7 +2611,7 @@
 <Database Name="cv" Series="19441" Issue="185787" />
 </Book>
 <Book Series="Miss America" Number="66" Volume="1953" Year="1954">
-<Database Name="cv" Series="21618" Issue="135401" />
+<Database Name="cv" Series="7071" Issue="135401" />
 </Book>
 <Book Series="Patsy and Hedy" Number="31" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185916" />
@@ -2686,7 +2641,7 @@
 <Database Name="cv" Series="31610" Issue="197501" />
 </Book>
 <Book Series="Sub-Mariner" Number="36" Volume="1954" Year="1954">
-<Database Name="cv" Series="18548" Issue="1352" />
+<Database Name="cv" Series="1642" Issue="1352" />
 </Book>
 <Book Series="War Comics" Number="29" Volume="1950" Year="1954">
 <Database Name="cv" Series="1366" Issue="91063" />
@@ -2712,7 +2667,7 @@
 <Book Series="Girls' Life" Number="6" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188272" />
 </Book>
-<Book Series="Patsy and her Pals" Number="10" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="10" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188616" />
 </Book>
 <Book Series="Patsy Walker" Number="55" Volume="1945" Year="1954">
@@ -2730,7 +2685,7 @@
 <Book Series="Jungle Action" Number="2" Volume="1954" Year="1954">
 <Database Name="cv" Series="20835" Issue="188438" />
 </Book>
-<Book Series="Marines In Battle" Number="3" Volume="1954" Year="1954">
+<Book Series="Marines in Battle" Number="3" Volume="1954" Year="1954">
 <Database Name="cv" Series="1633" Issue="124825" />
 </Book>
 <Book Series="Mystery Tales" Number="24" Volume="1952" Year="1954">
@@ -2740,7 +2695,7 @@
 <Database Name="cv" Series="1634" Issue="90524" />
 </Book>
 <Book Series="Sub-Mariner" Number="37" Volume="1954" Year="1954">
-<Database Name="cv" Series="18548" Issue="1515" />
+<Database Name="cv" Series="1642" Issue="1515" />
 </Book>
 <Book Series="War Comics" Number="30" Volume="1950" Year="1954">
 <Database Name="cv" Series="1366" Issue="91064" />
@@ -2767,7 +2722,7 @@
 <Database Name="cv" Series="19441" Issue="185788" />
 </Book>
 <Book Series="Miss America" Number="67" Volume="1953" Year="1954">
-<Database Name="cv" Series="21618" Issue="94353" />
+<Database Name="cv" Series="7071" Issue="94353" />
 </Book>
 <Book Series="Patsy and Hedy" Number="32" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185917" />
@@ -2811,7 +2766,7 @@
 <Book Series="Wild Western" Number="40" Volume="1948" Year="1955">
 <Database Name="cv" Series="1213" Issue="1596" />
 </Book>
-<Book Series="Patsy and her Pals" Number="11" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="11" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188617" />
 </Book>
 <Book Series="Patsy Walker" Number="56" Volume="1945" Year="1955">
@@ -2832,7 +2787,7 @@
 <Book Series="Jungle Action" Number="3" Volume="1954" Year="1955">
 <Database Name="cv" Series="20835" Issue="188439" />
 </Book>
-<Book Series="Marines In Battle" Number="4" Volume="1954" Year="1955">
+<Book Series="Marines in Battle" Number="4" Volume="1954" Year="1955">
 <Database Name="cv" Series="1633" Issue="124827" />
 </Book>
 <Book Series="Mystery Tales" Number="26" Volume="1952" Year="1955">
@@ -2845,7 +2800,7 @@
 <Database Name="cv" Series="18066" Issue="108936" />
 </Book>
 <Book Series="Sub-Mariner" Number="38" Volume="1954" Year="1955">
-<Database Name="cv" Series="18548" Issue="1642" />
+<Database Name="cv" Series="1642" Issue="1642" />
 </Book>
 <Book Series="Kid Colt Outlaw" Number="45" Volume="1949" Year="1955">
 <Database Name="cv" Series="1199" Issue="1639" />
@@ -2869,7 +2824,7 @@
 <Database Name="cv" Series="19441" Issue="185789" />
 </Book>
 <Book Series="Miss America" Number="68" Volume="1953" Year="1955">
-<Database Name="cv" Series="21618" Issue="135390" />
+<Database Name="cv" Series="7071" Issue="135390" />
 </Book>
 <Book Series="Patsy and Hedy" Number="33" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185918" />
@@ -2893,7 +2848,7 @@
 <Database Name="cv" Series="1636" Issue="1695" />
 </Book>
 <Book Series="Rawhide Kid" Number="1" Volume="1955" Year="1955">
-<Database Name="cv" Series="2023" Issue="1696" />
+<Database Name="cv" Series="1712" Issue="1696" />
 </Book>
 <Book Series="Two-Gun Kid" Number="22" Volume="1948" Year="1955">
 <Database Name="cv" Series="1583" Issue="91117" />
@@ -2901,7 +2856,7 @@
 <Book Series="Wild Western" Number="42" Volume="1948" Year="1955">
 <Database Name="cv" Series="1213" Issue="1697" />
 </Book>
-<Book Series="Patsy and her Pals" Number="12" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="12" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188618" />
 </Book>
 <Book Series="Patsy Walker" Number="57" Volume="1945" Year="1955">
@@ -2922,7 +2877,7 @@
 <Book Series="Jungle Action" Number="4" Volume="1954" Year="1955">
 <Database Name="cv" Series="20835" Issue="188440" />
 </Book>
-<Book Series="Marines In Battle" Number="5" Volume="1954" Year="1955">
+<Book Series="Marines in Battle" Number="5" Volume="1954" Year="1955">
 <Database Name="cv" Series="1633" Issue="188061" />
 </Book>
 <Book Series="Marvel Tales" Number="133" Volume="1949" Year="1955">
@@ -2935,7 +2890,7 @@
 <Database Name="cv" Series="18066" Issue="108937" />
 </Book>
 <Book Series="Sub-Mariner" Number="39" Volume="1954" Year="1955">
-<Database Name="cv" Series="18548" Issue="1747" />
+<Database Name="cv" Series="1642" Issue="1747" />
 </Book>
 <Book Series="War Comics" Number="34" Volume="1950" Year="1955">
 <Database Name="cv" Series="1366" Issue="91068" />
@@ -2965,7 +2920,7 @@
 <Database Name="cv" Series="19441" Issue="185790" />
 </Book>
 <Book Series="Miss America" Number="69" Volume="1953" Year="1955">
-<Database Name="cv" Series="21618" Issue="94354" />
+<Database Name="cv" Series="7071" Issue="94354" />
 </Book>
 <Book Series="My Girl Pearl" Number="1" Volume="1955" Year="1955">
 <Database Name="cv" Series="1709" Issue="95316" />
@@ -2992,7 +2947,7 @@
 <Database Name="cv" Series="1636" Issue="1793" />
 </Book>
 <Book Series="Rawhide Kid" Number="2" Volume="1955" Year="1955">
-<Database Name="cv" Series="2023" Issue="1794" />
+<Database Name="cv" Series="1712" Issue="1794" />
 </Book>
 <Book Series="Two-Gun Kid" Number="23" Volume="1948" Year="1955">
 <Database Name="cv" Series="1583" Issue="91118" />
@@ -3002,6 +2957,51 @@
 </Book>
 <Book Series="Wild Western" Number="43" Volume="1948" Year="1955">
 <Database Name="cv" Series="1213" Issue="1796" />
+</Book>
+<Book Series="Meet Miss Bliss" Number="1" Volume="1955" Year="1955">
+<Database Name="cv" Series="1708" Issue="94320" />
+</Book>
+<Book Series="Patsy and Her Pals" Number="13" Volume="1953" Year="1955">
+<Database Name="cv" Series="30576" Issue="188619" />
+</Book>
+<Book Series="Patsy Walker" Number="58" Volume="1945" Year="1955">
+<Database Name="cv" Series="1062" Issue="73666" />
+</Book>
+<Book Series="Red Mask" Number="49" Volume="1954" Year="1955">
+<Database Name="cv" Series="27105" Issue="164546" />
+</Book>
+<Book Series="Battle Action" Number="17" Volume="1952" Year="1955">
+<Database Name="cv" Series="1493" Issue="187458" />
+</Book>
+<Book Series="Combat Casey" Number="22" Volume="1953" Year="1955">
+<Database Name="cv" Series="1573" Issue="90639" />
+</Book>
+<Book Series="Combat Kelly" Number="31" Volume="1951" Year="1955">
+<Database Name="cv" Series="30570" Issue="188365" />
+</Book>
+<Book Series="Jungle Action" Number="5" Volume="1954" Year="1955">
+<Database Name="cv" Series="20835" Issue="188441" />
+</Book>
+<Book Series="Marines in Action" Number="1" Volume="1955" Year="1955">
+<Database Name="cv" Series="30550" Issue="187939" />
+</Book>
+<Book Series="Marines in Battle" Number="6" Volume="1954" Year="1955">
+<Database Name="cv" Series="1633" Issue="188062" />
+</Book>
+<Book Series="Marvel Tales" Number="135" Volume="1949" Year="1955">
+<Database Name="cv" Series="1283" Issue="1843" />
+</Book>
+<Book Series="Mystery Tales" Number="30" Volume="1952" Year="1955">
+<Database Name="cv" Series="1499" Issue="95397" />
+</Book>
+<Book Series="Navy Action" Number="6" Volume="1954" Year="1955">
+<Database Name="cv" Series="1634" Issue="90527" />
+</Book>
+<Book Series="Navy Combat" Number="1" Volume="1955" Year="1955">
+<Database Name="cv" Series="30575" Issue="188578" />
+</Book>
+<Book Series="Sub-Mariner" Number="40" Volume="1954" Year="1955">
+<Database Name="cv" Series="1642" Issue="1846" />
 </Book>
 </Books>
 <Matchers />

@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 19</Name>
-<NumIssues>995</NumIssues>
+<NumIssues>994</NumIssues>
 <Books>
-<Book Series="Web of Scarlet Spider" Number="4" Volume="1995" Year="1996">
-<Database Name="cv" Series="11136" Issue="97653" />
-</Book>
-<Book Series="Siren" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="61185" Issue="108414" />
-</Book>
-<Book Series="Siren" Number="2" Volume="1995" Year="1995">
-<Database Name="cv" Series="61185" Issue="108415" />
-</Book>
-<Book Series="Siren" Number="3" Volume="1995" Year="1995">
-<Database Name="cv" Series="61185" Issue="108416" />
-</Book>
-<Book Series="The Phoenix Resurrection Genesis" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="18474" Issue="108455" />
-</Book>
 <Book Series="The Phoenix Resurrection: Revelations" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18475" Issue="108456" />
 </Book>
@@ -118,10 +103,10 @@
 <Database Name="cv" Series="2870" Issue="65625" />
 </Book>
 <Book Series="Prime" Number="3" Volume="1995" Year="1995">
-<Database Name="cv" Series="61187" Issue="121303" />
+<Database Name="cv" Series="18341" Issue="121303" />
 </Book>
 <Book Series="Prime" Number="4" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121320" />
+<Database Name="cv" Series="18341" Issue="121320" />
 </Book>
 <Book Series="Generation X - Overstreet Fan Edition" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="31998" Issue="200761" />
@@ -139,10 +124,10 @@
 <Database Name="cv" Series="19157" Issue="114652" />
 </Book>
 <Book Series="Rune" Number="4" Volume="1995" Year="1996">
-<Database Name="cv" Series="61186" Issue="68429" />
+<Database Name="cv" Series="9135" Issue="68429" />
 </Book>
 <Book Series="Rune" Number="5" Volume="1995" Year="1996">
-<Database Name="cv" Series="61186" Issue="68430" />
+<Database Name="cv" Series="9135" Issue="68430" />
 </Book>
 <Book Series="Red Sonja: Scavenger Hunt" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="36982" Issue="246636" />
@@ -412,10 +397,10 @@
 <Database Name="cv" Series="5540" Issue="133555" />
 </Book>
 <Book Series="Ultraforce" Number="4" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121218" />
+<Database Name="cv" Series="18422" Issue="121218" />
 </Book>
 <Book Series="The All New Exiles" Number="4" Volume="1995" Year="1996">
-<Database Name="cv" Series="61190" Issue="107497" />
+<Database Name="cv" Series="18338" Issue="107497" />
 </Book>
 <Book Series="The Phoenix Resurrection: Aftermath" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18476" Issue="108457" />
@@ -466,7 +451,7 @@
 <Database Name="cv" Series="5561" Issue="42209" />
 </Book>
 <Book Series="The All New Exiles" Number="5" Volume="1995" Year="1996">
-<Database Name="cv" Series="61190" Issue="118248" />
+<Database Name="cv" Series="18338" Issue="118248" />
 </Book>
 <Book Series="X-Men Adventures" Number="10" Volume="1995" Year="1995">
 <Database Name="cv" Series="5337" Issue="70437" />
@@ -493,7 +478,7 @@
 <Database Name="cv" Series="4049" Issue="42221" />
 </Book>
 <Book Series="The Incredible Hulk" Number="436" Volume="1968" Year="1995">
-<Database Name="cv" Series="2077" Issue="41770" />
+<Database Name="cv" Series="2406" Issue="41770" />
 </Book>
 <Book Series="Cutting Edge" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="27167" Issue="165115" />
@@ -505,10 +490,10 @@
 <Database Name="cv" Series="4049" Issue="42414" />
 </Book>
 <Book Series="The Incredible Hulk" Number="437" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="41989" />
+<Database Name="cv" Series="2406" Issue="41989" />
 </Book>
 <Book Series="The Incredible Hulk" Number="438" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42097" />
+<Database Name="cv" Series="2406" Issue="42097" />
 </Book>
 <Book Series="Captain America" Number="449" Volume="1968" Year="1996">
 <Database Name="cv" Series="2400" Issue="42203" />
@@ -523,10 +508,10 @@
 <Database Name="cv" Series="2128" Issue="42202" />
 </Book>
 <Book Series="The Incredible Hulk" Number="439" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42207" />
+<Database Name="cv" Series="2406" Issue="42207" />
 </Book>
 <Book Series="The Incredible Hulk" Number="440" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42303" />
+<Database Name="cv" Series="2406" Issue="42303" />
 </Book>
 <Book Series="The Avengers" Number="397" Volume="1963" Year="1996">
 <Database Name="cv" Series="2128" Issue="42299" />
@@ -571,7 +556,7 @@
 <Database Name="cv" Series="4249" Issue="41992" />
 </Book>
 <Book Series="Prime" Number="5" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121327" />
+<Database Name="cv" Series="18341" Issue="121327" />
 </Book>
 <Book Series="Foxfire" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18424" Issue="108036" />
@@ -619,13 +604,13 @@
 <Database Name="cv" Series="32094" Issue="201434" />
 </Book>
 <Book Series="Ultraforce" Number="5" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121219" />
+<Database Name="cv" Series="18422" Issue="121219" />
 </Book>
 <Book Series="Ultraforce" Number="6" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121220" />
+<Database Name="cv" Series="18422" Issue="121220" />
 </Book>
 <Book Series="Ultraforce" Number="7" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121263" />
+<Database Name="cv" Series="18422" Issue="121263" />
 </Book>
 <Book Series="Cable" Number="26" Volume="1993" Year="1995">
 <Database Name="cv" Series="4993" Issue="41790" />
@@ -673,10 +658,10 @@
 <Database Name="cv" Series="18424" Issue="121494" />
 </Book>
 <Book Series="X-Men" Number="46" Volume="1991" Year="1995">
-<Database Name="cv" Series="10731" Issue="65747" />
+<Database Name="cv" Series="4605" Issue="65747" />
 </Book>
 <Book Series="X-Men" Number="47" Volume="1991" Year="1995">
-<Database Name="cv" Series="10731" Issue="65748" />
+<Database Name="cv" Series="4605" Issue="65748" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="327" Volume="1981" Year="1995">
 <Database Name="cv" Series="3092" Issue="41787" />
@@ -718,10 +703,10 @@
 <Database Name="cv" Series="5539" Issue="99042" />
 </Book>
 <Book Series="The All New Exiles" Number="6" Volume="1995" Year="1996">
-<Database Name="cv" Series="61190" Issue="118250" />
+<Database Name="cv" Series="18338" Issue="118250" />
 </Book>
 <Book Series="The All New Exiles" Number="7" Volume="1995" Year="1996">
-<Database Name="cv" Series="61190" Issue="118251" />
+<Database Name="cv" Series="18338" Issue="118251" />
 </Book>
 <Book Series="The Sensational Spider-Man" Number="4" Volume="1996" Year="1996">
 <Database Name="cv" Series="5788" Issue="77945" />
@@ -757,10 +742,10 @@
 <Database Name="cv" Series="18073" Issue="107104" />
 </Book>
 <Book Series="The Incredible Hulk" Number="441" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42399" />
+<Database Name="cv" Series="2406" Issue="42399" />
 </Book>
 <Book Series="The Incredible Hulk" Number="442" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42492" />
+<Database Name="cv" Series="2406" Issue="42492" />
 </Book>
 <Book Series="Punisher" Number="7" Volume="1995" Year="1996">
 <Database Name="cv" Series="18328" Issue="107375" />
@@ -772,10 +757,10 @@
 <Database Name="cv" Series="5540" Issue="133556" />
 </Book>
 <Book Series="Mantra" Number="6" Volume="1995" Year="1996">
-<Database Name="cv" Series="61189" Issue="234863" />
+<Database Name="cv" Series="18431" Issue="234863" />
 </Book>
 <Book Series="Mantra" Number="7" Volume="1995" Year="1996">
-<Database Name="cv" Series="61189" Issue="234864" />
+<Database Name="cv" Series="18431" Issue="234864" />
 </Book>
 <Book Series="X-Force / Cable '95" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="20136" Issue="120182" />
@@ -802,10 +787,10 @@
 <Database Name="cv" Series="4421" Issue="113519" />
 </Book>
 <Book Series="X-Men" Number="48" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65749" />
+<Database Name="cv" Series="4605" Issue="65749" />
 </Book>
 <Book Series="X-Men" Number="49" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="106669" />
+<Database Name="cv" Series="4605" Issue="106669" />
 </Book>
 <Book Series="X-Men Unlimited" Number="10" Volume="1993" Year="1996">
 <Database Name="cv" Series="5066" Issue="42213" />
@@ -814,13 +799,13 @@
 <Database Name="cv" Series="5540" Issue="133557" />
 </Book>
 <Book Series="Prime" Number="6" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121496" />
+<Database Name="cv" Series="18341" Issue="121496" />
 </Book>
 <Book Series="Prime" Number="7" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121497" />
+<Database Name="cv" Series="18341" Issue="121497" />
 </Book>
 <Book Series="Prime" Number="8" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121472" />
+<Database Name="cv" Series="18341" Issue="121472" />
 </Book>
 <Book Series="Over the Edge" Number="6" Volume="1995" Year="1996">
 <Database Name="cv" Series="11182" Issue="97941" />
@@ -844,7 +829,7 @@
 <Database Name="cv" Series="11182" Issue="97942" />
 </Book>
 <Book Series="X-Men" Number="50" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65750" />
+<Database Name="cv" Series="4605" Issue="65750" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="331" Volume="1981" Year="1996">
 <Database Name="cv" Series="3092" Issue="107106" />
@@ -901,10 +886,10 @@
 <Database Name="cv" Series="4407" Issue="105510" />
 </Book>
 <Book Series="Rune" Number="6" Volume="1995" Year="1996">
-<Database Name="cv" Series="61186" Issue="68431" />
+<Database Name="cv" Series="9135" Issue="68431" />
 </Book>
 <Book Series="Rune" Number="7" Volume="1995" Year="1996">
-<Database Name="cv" Series="61186" Issue="68432" />
+<Database Name="cv" Series="9135" Issue="68432" />
 </Book>
 <Book Series="Ultraverse Unlimited" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="24349" Issue="144637" />
@@ -937,7 +922,7 @@
 <Database Name="cv" Series="20482" Issue="122661" />
 </Book>
 <Book Series="The All New Exiles" Number="8" Volume="1995" Year="1996">
-<Database Name="cv" Series="61190" Issue="107498" />
+<Database Name="cv" Series="18338" Issue="107498" />
 </Book>
 <Book Series="Marvel Vision" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="20065" Issue="255716" />
@@ -1066,10 +1051,10 @@
 <Database Name="cv" Series="22569" Issue="135533" />
 </Book>
 <Book Series="X-Men" Number="51" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65751" />
+<Database Name="cv" Series="4605" Issue="65751" />
 </Book>
 <Book Series="X-Men" Number="52" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65752" />
+<Database Name="cv" Series="4605" Issue="65752" />
 </Book>
 <Book Series="The Sensational Spider-Man" Number="6" Volume="1996" Year="1996">
 <Database Name="cv" Series="5788" Issue="77947" />
@@ -1117,7 +1102,7 @@
 <Database Name="cv" Series="19159" Issue="114704" />
 </Book>
 <Book Series="Prime" Number="9" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121474" />
+<Database Name="cv" Series="18341" Issue="121474" />
 </Book>
 <Book Series="Iron Man" Number="327" Volume="1968" Year="1996">
 <Database Name="cv" Series="2407" Issue="134831" />
@@ -1170,6 +1155,18 @@
 <Book Series="Tales of the Marvels: Inner Demons" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="34967" Issue="230170" />
 </Book>
+<Book Series="Storm" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="7191" Issue="107612" />
+</Book>
+<Book Series="Storm" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="7191" Issue="51324" />
+</Book>
+<Book Series="Storm" Number="3" Volume="1996" Year="1996">
+<Database Name="cv" Series="7191" Issue="107621" />
+</Book>
+<Book Series="Storm" Number="4" Volume="1996" Year="1996">
+<Database Name="cv" Series="7191" Issue="51325" />
+</Book>
 <Book Series="Captain America" Number="450" Volume="1968" Year="1996">
 <Database Name="cv" Series="2400" Issue="42300" />
 </Book>
@@ -1185,14 +1182,17 @@
 <Book Series="Captain America" Number="454" Volume="1968" Year="1996">
 <Database Name="cv" Series="2400" Issue="42698" />
 </Book>
+<Book Series="X-Men: The Ravages of Apocalypse" Number="1" Volume="1997" Year="1997">
+<Database Name="cv" Series="145684" Issue="952252" />
+</Book>
 <Book Series="Conan the Savage" Number="9" Volume="1995" Year="1996">
 <Database Name="cv" Series="5540" Issue="133558" />
 </Book>
 <Book Series="The All New Exiles" Number="9" Volume="1995" Year="1996">
-<Database Name="cv" Series="61190" Issue="118253" />
+<Database Name="cv" Series="18338" Issue="118253" />
 </Book>
 <Book Series="The All New Exiles" Number="10" Volume="1995" Year="1996">
-<Database Name="cv" Series="61190" Issue="118311" />
+<Database Name="cv" Series="18338" Issue="118311" />
 </Book>
 <Book Series="Marvel Vision" Number="4" Volume="1996" Year="1996">
 <Database Name="cv" Series="20065" Issue="255717" />
@@ -1234,7 +1234,7 @@
 <Database Name="cv" Series="2128" Issue="42488" />
 </Book>
 <Book Series="Prime" Number="10" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121476" />
+<Database Name="cv" Series="18341" Issue="121476" />
 </Book>
 <Book Series="The Adventures of the X-Men" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="11067" Issue="96930" />
@@ -1270,49 +1270,49 @@
 <Database Name="cv" Series="4250" Issue="51171" />
 </Book>
 <Book Series="Ultraforce" Number="8" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121293" />
+<Database Name="cv" Series="18422" Issue="121293" />
 </Book>
 <Book Series="Ultraforce" Number="9" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121294" />
+<Database Name="cv" Series="18422" Issue="121294" />
 </Book>
 <Book Series="Ultraforce" Number="10" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121295" />
+<Database Name="cv" Series="18422" Issue="121295" />
 </Book>
 <Book Series="Ultraforce" Number="11" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121296" />
+<Database Name="cv" Series="18422" Issue="121296" />
 </Book>
 <Book Series="The All New Exiles" Number="11" Volume="1995" Year="1996">
-<Database Name="cv" Series="61190" Issue="118312" />
+<Database Name="cv" Series="18338" Issue="118312" />
 </Book>
 <Book Series="Ultraforce" Number="12" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121297" />
+<Database Name="cv" Series="18422" Issue="121297" />
 </Book>
 <Book Series="Ultraverse Unlimited" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="24349" Issue="144643" />
 </Book>
 <Book Series="Ultraforce" Number="13" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="121298" />
+<Database Name="cv" Series="18422" Issue="121298" />
 </Book>
 <Book Series="Prime" Number="11" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121477" />
+<Database Name="cv" Series="18341" Issue="121477" />
 </Book>
 <Book Series="Prime" Number="12" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121475" />
+<Database Name="cv" Series="18341" Issue="121475" />
 </Book>
 <Book Series="Prime" Number="13" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121471" />
+<Database Name="cv" Series="18341" Issue="121471" />
 </Book>
 <Book Series="Prime" Number="14" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121473" />
+<Database Name="cv" Series="18341" Issue="121473" />
 </Book>
 <Book Series="Prime" Number="15" Volume="1995" Year="1996">
-<Database Name="cv" Series="61187" Issue="121115" />
+<Database Name="cv" Series="18341" Issue="121115" />
 </Book>
 <Book Series="Ultraforce" Number="14" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="120191" />
+<Database Name="cv" Series="18422" Issue="120191" />
 </Book>
 <Book Series="Ultraforce" Number="15" Volume="1995" Year="1996">
-<Database Name="cv" Series="61184" Issue="120188" />
+<Database Name="cv" Series="18422" Issue="120188" />
 </Book>
 <Book Series="Punisher" Number="8" Volume="1995" Year="1996">
 <Database Name="cv" Series="18328" Issue="107376" />
@@ -1522,7 +1522,7 @@
 <Database Name="cv" Series="11182" Issue="97945" />
 </Book>
 <Book Series="The Incredible Hulk" Number="443" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42603" />
+<Database Name="cv" Series="2406" Issue="42603" />
 </Book>
 <Book Series="DV8" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="6537" Issue="46750" />
@@ -1567,22 +1567,10 @@
 <Database Name="cv" Series="4604" Issue="64529" />
 </Book>
 <Book Series="X-Men" Number="53" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65753" />
+<Database Name="cv" Series="4605" Issue="65753" />
 </Book>
 <Book Series="X-Force" Number="56" Volume="1991" Year="1996">
 <Database Name="cv" Series="4604" Issue="64530" />
-</Book>
-<Book Series="Storm" Number="1" Volume="1996" Year="1996">
-<Database Name="cv" Series="7191" Issue="107612" />
-</Book>
-<Book Series="Storm" Number="2" Volume="1996" Year="1996">
-<Database Name="cv" Series="7191" Issue="51324" />
-</Book>
-<Book Series="Storm" Number="3" Volume="1996" Year="1996">
-<Database Name="cv" Series="7191" Issue="107621" />
-</Book>
-<Book Series="Storm" Number="4" Volume="1996" Year="1996">
-<Database Name="cv" Series="7191" Issue="51325" />
 </Book>
 <Book Series="Youngblood" Number="10" Volume="1995" Year="1996">
 <Database Name="cv" Series="134477" Issue="131225" />
@@ -1612,7 +1600,7 @@
 <Database Name="cv" Series="2045" Issue="77594" />
 </Book>
 <Book Series="X-Men" Number="54" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65754" />
+<Database Name="cv" Series="4605" Issue="65754" />
 </Book>
 <Book Series="The Avengers" Number="400" Volume="1963" Year="1996">
 <Database Name="cv" Series="2128" Issue="42599" />
@@ -1636,7 +1624,7 @@
 <Database Name="cv" Series="4993" Issue="42721" />
 </Book>
 <Book Series="The Incredible Hulk" Number="444" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42701" />
+<Database Name="cv" Series="2406" Issue="42701" />
 </Book>
 <Book Series="Wolverine" Number="104" Volume="1988" Year="1996">
 <Database Name="cv" Series="4250" Issue="51172" />
@@ -1672,7 +1660,7 @@
 <Database Name="cv" Series="20065" Issue="138416" />
 </Book>
 <Book Series="X-Men" Number="55" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65755" />
+<Database Name="cv" Series="4605" Issue="65755" />
 </Book>
 <Book Series="Marvel Vision" Number="8" Volume="1996" Year="1996">
 <Database Name="cv" Series="20065" Issue="255718" />
@@ -1720,7 +1708,7 @@
 <Database Name="cv" Series="18328" Issue="107391" />
 </Book>
 <Book Series="The Incredible Hulk" Number="445" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42795" />
+<Database Name="cv" Series="2406" Issue="42795" />
 </Book>
 <Book Series="Iron Man" Number="332" Volume="1968" Year="1996">
 <Database Name="cv" Series="2407" Issue="108417" />
@@ -1738,7 +1726,7 @@
 <Database Name="cv" Series="2294" Issue="42828" />
 </Book>
 <Book Series="X-Men" Number="56" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65756" />
+<Database Name="cv" Series="4605" Issue="65756" />
 </Book>
 <Book Series="Onslaught: Marvel Universe" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18278" Issue="107019" />
@@ -1750,7 +1738,7 @@
 <Database Name="cv" Series="4993" Issue="65631" />
 </Book>
 <Book Series="The Incredible Hulk" Number="446" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42883" />
+<Database Name="cv" Series="2406" Issue="42883" />
 </Book>
 <Book Series="Generation X" Number="20" Volume="1994" Year="1996">
 <Database Name="cv" Series="5300" Issue="42881" />
@@ -1807,10 +1795,10 @@
 <Database Name="cv" Series="5562" Issue="42886" />
 </Book>
 <Book Series="The Incredible Hulk" Number="447" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="42984" />
+<Database Name="cv" Series="2406" Issue="42984" />
 </Book>
 <Book Series="X-Men" Number="57" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65757" />
+<Database Name="cv" Series="4605" Issue="65757" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="338" Volume="1981" Year="1996">
 <Database Name="cv" Series="3092" Issue="43004" />
@@ -1936,7 +1924,7 @@
 <Database Name="cv" Series="20889" Issue="125396" />
 </Book>
 <Book Series="The Incredible Hulk" Number="448" Volume="1968" Year="1996">
-<Database Name="cv" Series="2077" Issue="43078" />
+<Database Name="cv" Series="2406" Issue="43078" />
 </Book>
 <Book Series="X-Men '96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="20710" Issue="178122" />
@@ -2049,6 +2037,9 @@
 <Book Series="The Adventures of Spider-Man" Number="9" Volume="1996" Year="1996">
 <Database Name="cv" Series="19159" Issue="114723" />
 </Book>
+<Book Series="Gen 13" Number="13B" Volume="1994" Year="1996">
+<Database Name="cv" Series="5667" Issue="42899" />
+</Book>
 <Book Series="Gen 13" Number="13C" Volume="1994" Year="1996">
 <Database Name="cv" Series="5667" Issue="43000" />
 </Book>
@@ -2092,7 +2083,7 @@
 <Database Name="cv" Series="18157" Issue="106350" />
 </Book>
 <Book Series="X-Men" Number="58" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65758" />
+<Database Name="cv" Series="4605" Issue="65758" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="339" Volume="1981" Year="1996">
 <Database Name="cv" Series="3092" Issue="43105" />
@@ -2254,10 +2245,10 @@
 <Database Name="cv" Series="26600" Issue="159171" />
 </Book>
 <Book Series="The Incredible Hulk" Number="449" Volume="1968" Year="1997">
-<Database Name="cv" Series="2077" Issue="43273" />
+<Database Name="cv" Series="2406" Issue="43273" />
 </Book>
 <Book Series="The Incredible Hulk" Number="450" Volume="1968" Year="1997">
-<Database Name="cv" Series="2077" Issue="43384" />
+<Database Name="cv" Series="2406" Issue="43384" />
 </Book>
 <Book Series="Untold Tales of Spider-Man '96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="44353" Issue="305538" />
@@ -2340,6 +2331,9 @@
 <Book Series="The Beast" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="22443" Issue="134701" />
 </Book>
+<Book Series="Billy The Marlin" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="23853" Issue="142466" />
+</Book>
 <Book Series="JLA" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="53301" Issue="362856" />
 </Book>
@@ -2347,7 +2341,7 @@
 <Database Name="cv" Series="5561" Issue="43488" />
 </Book>
 <Book Series="X-Men" Number="59" Volume="1991" Year="1996">
-<Database Name="cv" Series="10731" Issue="65759" />
+<Database Name="cv" Series="4605" Issue="65759" />
 </Book>
 <Book Series="Marvel: Shadows and Light" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="21877" Issue="131831" />
@@ -2371,7 +2365,7 @@
 <Database Name="cv" Series="20348" Issue="121631" />
 </Book>
 <Book Series="The Incredible Hulk" Number="451" Volume="1968" Year="1997">
-<Database Name="cv" Series="2077" Issue="43483" />
+<Database Name="cv" Series="2406" Issue="43483" />
 </Book>
 <Book Series="Professor Xavier and the X-Men" Number="15" Volume="1995" Year="1997">
 <Database Name="cv" Series="5553" Issue="43275" />
@@ -2419,10 +2413,10 @@
 <Database Name="cv" Series="2127" Issue="64456" />
 </Book>
 <Book Series="X-Men" Number="60" Volume="1991" Year="1997">
-<Database Name="cv" Series="10731" Issue="65760" />
+<Database Name="cv" Series="4605" Issue="65760" />
 </Book>
 <Book Series="X-Men" Number="61" Volume="1991" Year="1997">
-<Database Name="cv" Series="10731" Issue="65761" />
+<Database Name="cv" Series="4605" Issue="65761" />
 </Book>
 <Book Series="Uncanny Origins" Number="5" Volume="1996" Year="1997">
 <Database Name="cv" Series="7197" Issue="152356" />
@@ -2610,16 +2604,16 @@
 <Book Series="Cyblade / Ghost Rider" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18378" Issue="107763" />
 </Book>
-<Book Series="Ghost Rider/Ballistic" Number="1" Volume="1997" Year="1997">
+<Book Series="Ghost Rider / Ballistic" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18377" Issue="107762" />
 </Book>
-<Book Series="Ballistic/Wolverine" Number="1" Volume="1997" Year="1997">
+<Book Series="Ballistic / Wolverine" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18374" Issue="107759" />
 </Book>
-<Book Series="Wolverine/Witchblade" Number="1" Volume="1997" Year="1997">
+<Book Series="Wolverine / Witchblade" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18391" Issue="107844" />
 </Book>
-<Book Series="Witchblade/Elektra" Number="1" Volume="1997" Year="1997">
+<Book Series="Witchblade / Elektra" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18392" Issue="107845" />
 </Book>
 <Book Series="Elektra / Cyblade" Number="1" Volume="1997" Year="1997">
@@ -2987,6 +2981,9 @@
 </Book>
 <Book Series="Daredevil" Number="367" Volume="1964" Year="1997">
 <Database Name="cv" Series="2190" Issue="44106" />
+</Book>
+<Book Series="Spider-Man: Father's Day is Every Day" Number="1" Volume="1997" Year="1997">
+<Database Name="cv" Series="77786" Issue="468802" />
 </Book>
 </Books>
 <Matchers />

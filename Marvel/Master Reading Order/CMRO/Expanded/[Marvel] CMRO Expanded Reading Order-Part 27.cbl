@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 27</Name>
-<NumIssues>989</NumIssues>
+<NumIssues>991</NumIssues>
 <Books>
+<Book Series="Ultimate Spider-Man" Number="127" Volume="2000" Year="2008">
+<Database Name="cv" Series="7257" Issue="140828" />
+</Book>
+<Book Series="Ultimate Spider-Man" Number="128" Volume="2000" Year="2009">
+<Database Name="cv" Series="7257" Issue="143285" />
+</Book>
+<Book Series="Fantastic Four and Power Pack" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="18896" Issue="111690" />
+</Book>
+<Book Series="Fantastic Four and Power Pack" Number="2" Volume="2007" Year="2007">
+<Database Name="cv" Series="18896" Issue="113102" />
+</Book>
+<Book Series="Fantastic Four and Power Pack" Number="3" Volume="2007" Year="2007">
+<Database Name="cv" Series="18896" Issue="114542" />
+</Book>
+<Book Series="Fantastic Four and Power Pack" Number="4" Volume="2007" Year="2007">
+<Database Name="cv" Series="18896" Issue="115412" />
+</Book>
+<Book Series="The Irredeemable Ant-Man" Number="11" Volume="2006" Year="2007">
+<Database Name="cv" Series="18227" Issue="113101" />
+</Book>
+<Book Series="The Irredeemable Ant-Man" Number="12" Volume="2006" Year="2007">
+<Database Name="cv" Series="18227" Issue="114892" />
+</Book>
+<Book Series="Avengers: The Initiative" Number="7" Volume="2007" Year="2007">
+<Database Name="cv" Series="18419" Issue="117827" />
+</Book>
+<Book Series="Avengers: The Initiative Annual" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="19935" Issue="119280" />
+</Book>
+<Book Series="Avengers: The Initiative" Number="8" Volume="2007" Year="2008">
+<Database Name="cv" Series="18419" Issue="120630" />
+</Book>
+<Book Series="Avengers: The Initiative" Number="9" Volume="2007" Year="2008">
+<Database Name="cv" Series="18419" Issue="122215" />
+</Book>
+<Book Series="Avengers: The Initiative" Number="10" Volume="2007" Year="2008">
+<Database Name="cv" Series="18419" Issue="125193" />
+</Book>
+<Book Series="Avengers: The Initiative" Number="11" Volume="2007" Year="2008">
+<Database Name="cv" Series="18419" Issue="127508" />
+</Book>
+<Book Series="Avengers: The Initiative" Number="12" Volume="2007" Year="2008">
+<Database Name="cv" Series="18419" Issue="128968" />
+</Book>
+<Book Series="Avengers: The Initiative" Number="13" Volume="2007" Year="2008">
+<Database Name="cv" Series="18419" Issue="130636" />
+</Book>
+<Book Series="Iron Man: Director of S.H.I.E.L.D. Annual" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="19750" Issue="118437" />
+</Book>
+<Book Series="Fantastic Four: Isla De La Muerte" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="20230" Issue="120560" />
+</Book>
+<Book Series="Wolverine Origins Annual" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="18924" Issue="111917" />
+</Book>
+<Book Series="Wolverine: Origins" Number="16" Volume="2006" Year="2007">
+<Database Name="cv" Series="18130" Issue="113606" />
+</Book>
+<Book Series="Wolverine: Origins" Number="17" Volume="2006" Year="2007">
+<Database Name="cv" Series="18130" Issue="114666" />
+</Book>
+<Book Series="Wolverine: Origins" Number="18" Volume="2006" Year="2007">
+<Database Name="cv" Series="18130" Issue="115676" />
+</Book>
+<Book Series="Wolverine: Origins" Number="19" Volume="2006" Year="2008">
+<Database Name="cv" Series="18130" Issue="118107" />
+</Book>
+<Book Series="Wolverine: Origins" Number="20" Volume="2006" Year="2008">
+<Database Name="cv" Series="18130" Issue="120277" />
+</Book>
+<Book Series="Wolverine" Number="56" Volume="2003" Year="2007">
+<Database Name="cv" Series="10809" Issue="113777" />
+</Book>
+<Book Series="Wolverine" Number="57" Volume="2003" Year="2007">
+<Database Name="cv" Series="10809" Issue="114205" />
+</Book>
+<Book Series="Wolverine" Number="58" Volume="2003" Year="2007">
+<Database Name="cv" Series="10809" Issue="115414" />
+</Book>
+<Book Series="Wolverine" Number="59" Volume="2003" Year="2008">
+<Database Name="cv" Series="10809" Issue="117828" />
+</Book>
+<Book Series="Wolverine" Number="60" Volume="2003" Year="2008">
+<Database Name="cv" Series="10809" Issue="119797" />
+</Book>
+<Book Series="Wolverine" Number="61" Volume="2003" Year="2008">
+<Database Name="cv" Series="10809" Issue="121051" />
+</Book>
+<Book Series="Franklin Richards: Monster Mash" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="19202" Issue="115031" />
+</Book>
+<Book Series="Marvel Adventures: Avengers" Number="16" Volume="2006" Year="2007">
+<Database Name="cv" Series="18100" Issue="114888" />
+</Book>
+<Book Series="Marvel Adventures Hulk" Number="3" Volume="2007" Year="2007">
+<Database Name="cv" Series="19039" Issue="114890" />
+</Book>
 <Book Series="Marvel Adventures: Iron Man" Number="5" Volume="2007" Year="2007">
 <Database Name="cv" Series="18737" Issue="115091" />
 </Book>
@@ -153,9 +252,6 @@
 <Book Series="Spider-Man 3: The Black" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="20334" Issue="121512" />
 </Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="158" Volume="1995" Year="2007">
-<Database Name="cv" Series="43257" Issue="413251" />
-</Book>
 <Book Series="X-Men: First Class" Number="5" Volume="2007" Year="2007">
 <Database Name="cv" Series="18941" Issue="121891" />
 </Book>
@@ -212,9 +308,6 @@
 </Book>
 <Book Series="Captain America: The Chosen" Number="6" Volume="2007" Year="2008">
 <Database Name="cv" Series="19107" Issue="122071" />
-</Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="159" Volume="1995" Year="2007">
-<Database Name="cv" Series="43257" Issue="413252" />
 </Book>
 <Book Series="Avengers Classic" Number="7" Volume="2007" Year="2008">
 <Database Name="cv" Series="18684" Issue="126352" />
@@ -339,8 +432,8 @@
 <Book Series="New Avengers" Number="39" Volume="2004" Year="2008">
 <Database Name="cv" Series="11497" Issue="125975" />
 </Book>
-<Book Series="Marvel Adventures: Iron Man and Hulk" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="39873" Issue="268940" />
+<Book Series="Free Comic Book Day 2007 (Spider-Man)" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="20300" Issue="121176" />
 </Book>
 <Book Series="Marvel Holiday Special" Number="2007" Volume="1991" Year="2008">
 <Database Name="cv" Series="18442" Issue="120278" />
@@ -480,9 +573,6 @@
 <Book Series="Shanna the She-Devil: Survival of the Fittest" Number="4" Volume="2007" Year="2008">
 <Database Name="cv" Series="18952" Issue="128543" />
 </Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="160" Volume="1995" Year="2007">
-<Database Name="cv" Series="43257" Issue="413253" />
-</Book>
 <Book Series="X-Men: Messiah Complex" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19419" Issue="116360" />
 </Book>
@@ -618,8 +708,8 @@
 <Book Series="Annihilation: Conquest" Number="6" Volume="2008" Year="2008">
 <Database Name="cv" Series="19607" Issue="127584" />
 </Book>
-<Book Series="Spider-Man Magazine" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="31034" Issue="192304" />
+<Book Series="Amazing Spider-Man Magazine" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="53943" Issue="367780" />
 </Book>
 <Book Series="Franklin Richards: Fall Football Fiasco!" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="30444" Issue="187516" />
@@ -720,9 +810,6 @@
 <Book Series="Marvel Adventures: Fantastic Four" Number="30" Volume="2005" Year="2008">
 <Database Name="cv" Series="18095" Issue="118470" />
 </Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="161" Volume="1995" Year="2008">
-<Database Name="cv" Series="43257" Issue="413254" />
-</Book>
 <Book Series="What If? Civil War" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20155" Issue="120241" />
 </Book>
@@ -816,9 +903,6 @@
 <Book Series="Foolkiller" Number="5" Volume="2007" Year="2008">
 <Database Name="cv" Series="20164" Issue="129836" />
 </Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="162" Volume="1995" Year="2008">
-<Database Name="cv" Series="43257" Issue="413255" />
-</Book>
 <Book Series="Terror, Inc." Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19041" Issue="113663" />
 </Book>
@@ -905,9 +989,6 @@
 </Book>
 <Book Series="Marvel Adventures: Fantastic Four" Number="31" Volume="2005" Year="2008">
 <Database Name="cv" Series="18095" Issue="179383" />
-</Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="163" Volume="1995" Year="2008">
-<Database Name="cv" Series="43257" Issue="413256" />
 </Book>
 <Book Series="What If? X-Men - Rise and Fall of the Shi'Ar Empire" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20182" Issue="120420" />
@@ -1092,8 +1173,14 @@
 <Book Series="Thunderbolts" Number="120" Volume="2006" Year="2008">
 <Database Name="cv" Series="18128" Issue="130198" />
 </Book>
+<Book Series="Thunderbolts" Number="121" Volume="2006" Year="2008">
+<Database Name="cv" Series="18128" Issue="131798" />
+</Book>
 <Book Series="The Amazing Spider-Girl" Number="17" Volume="2006" Year="2008">
 <Database Name="cv" Series="18195" Issue="123004" />
+</Book>
+<Book Series="The Amazing Spider-Girl" Number="18" Volume="2006" Year="2008">
+<Database Name="cv" Series="18195" Issue="125195" />
 </Book>
 <Book Series="Marvel Adventures: Avengers" Number="20" Volume="2006" Year="2008">
 <Database Name="cv" Series="18100" Issue="133589" />
@@ -1115,9 +1202,6 @@
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="164" Volume="1995" Year="2008">
 <Database Name="cv" Series="43257" Issue="413257" />
-</Book>
-<Book Series="Thunderbolts" Number="121" Volume="2006" Year="2008">
-<Database Name="cv" Series="18128" Issue="131798" />
 </Book>
 <Book Series="Captain America" Number="39" Volume="2004" Year="2008">
 <Database Name="cv" Series="11499" Issue="131810" />
@@ -1173,10 +1257,7 @@
 <Book Series="Wolverine: Old Man Logan Giant-Size" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28080" Issue="172385" />
 </Book>
-<Book Series="The Amazing Spider-Girl" Number="18" Volume="2006" Year="2008">
-<Database Name="cv" Series="18195" Issue="125195" />
-</Book>
-<Book Series="The Punisher: Force Of Nature" Number="1" Volume="2008" Year="2008">
+<Book Series="The Punisher: Force of Nature" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20535" Issue="123006" />
 </Book>
 <Book Series="What If? Spider-Man Vs. Wolverine" Number="1" Volume="2008" Year="2008">
@@ -1434,6 +1515,9 @@
 <Book Series="The Amazing Spider-Girl" Number="24" Volume="2006" Year="2008">
 <Database Name="cv" Series="18195" Issue="138428" />
 </Book>
+<Book Series="The Amazing Spider-Girl" Number="25" Volume="2006" Year="2008">
+<Database Name="cv" Series="18195" Issue="140146" />
+</Book>
 <Book Series="Dead of Night featuring Man-Thing" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20762" Issue="124490" />
 </Book>
@@ -1584,9 +1668,6 @@
 <Book Series="Moon Knight" Number="20" Volume="2006" Year="2008">
 <Database Name="cv" Series="18105" Issue="133843" />
 </Book>
-<Book Series="The Amazing Spider-Girl" Number="25" Volume="2006" Year="2008">
-<Database Name="cv" Series="18195" Issue="140146" />
-</Book>
 <Book Series="Marvel Adventures: Iron Man, Hulk, and Spider-Man" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="39874" Issue="268941" />
 </Book>
@@ -1638,47 +1719,14 @@
 <Book Series="Thunderbolts: International Incident" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20692" Issue="124062" />
 </Book>
-<Book Series="Marvel Adventures: Iron Man, Hulk, and Spider-Man" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="39874" Issue="268941" />
+<Book Series="X-Men Free Comic Book Day 2008" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="21381" Issue="129119" />
 </Book>
 <Book Series="X-Force Special: Ain't No Dog" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21817" Issue="131468" />
 </Book>
 <Book Series="Wolverine: Dangerous Games" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21779" Issue="131329" />
-</Book>
-<Book Series="The Amazing Spider-Girl" Number="26" Volume="2006" Year="2009">
-<Database Name="cv" Series="18195" Issue="142044" />
-</Book>
-<Book Series="Omega the Unknown" Number="1" Volume="1976" Year="1976">
-<Database Name="cv" Series="2868" Issue="16177" />
-</Book>
-<Book Series="Omega the Unknown" Number="2" Volume="1976" Year="1976">
-<Database Name="cv" Series="2868" Issue="16350" />
-</Book>
-<Book Series="Omega the Unknown" Number="3" Volume="1976" Year="1976">
-<Database Name="cv" Series="2868" Issue="16517" />
-</Book>
-<Book Series="Omega the Unknown" Number="4" Volume="1976" Year="1976">
-<Database Name="cv" Series="2868" Issue="16695" />
-</Book>
-<Book Series="Omega the Unknown" Number="5" Volume="1976" Year="1976">
-<Database Name="cv" Series="2868" Issue="16884" />
-</Book>
-<Book Series="Omega the Unknown" Number="6" Volume="1976" Year="1977">
-<Database Name="cv" Series="2868" Issue="17113" />
-</Book>
-<Book Series="Omega the Unknown" Number="7" Volume="1976" Year="1977">
-<Database Name="cv" Series="2868" Issue="17279" />
-</Book>
-<Book Series="Omega the Unknown" Number="8" Volume="1976" Year="1977">
-<Database Name="cv" Series="2868" Issue="17441" />
-</Book>
-<Book Series="Omega the Unknown" Number="9" Volume="1976" Year="1977">
-<Database Name="cv" Series="2868" Issue="17610" />
-</Book>
-<Book Series="Omega the Unknown" Number="10" Volume="1976" Year="1977">
-<Database Name="cv" Series="2868" Issue="17885" />
 </Book>
 <Book Series="Wolverine: Manifest Destiny" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="23486" Issue="140846" />
@@ -1761,9 +1809,6 @@
 <Book Series="Cable" Number="10" Volume="2008" Year="2009">
 <Database Name="cv" Series="20805" Issue="149796" />
 </Book>
-<Book Series="The Amazing Spider-Girl" Number="27" Volume="2006" Year="2009">
-<Database Name="cv" Series="18195" Issue="145540" />
-</Book>
 <Book Series="Marvel Adventures: Avengers" Number="23" Volume="2006" Year="2008">
 <Database Name="cv" Series="18100" Issue="133996" />
 </Book>
@@ -1842,23 +1887,23 @@
 <Book Series="Invincible Iron Man" Number="7" Volume="2008" Year="2009">
 <Database Name="cv" Series="21487" Issue="141556" />
 </Book>
-<Book Series="The Amazing Spider-Girl" Number="28" Volume="2006" Year="2009">
-<Database Name="cv" Series="18195" Issue="150037" />
-</Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="1" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="127746" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="2" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="127862" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="3" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="130635" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="4" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="4" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="133756" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="5" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="5" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="133774" />
+</Book>
+<Book Series="Spectacular Spider-Man Adventures" Number="168" Volume="1995" Year="2008">
+<Database Name="cv" Series="43257" Issue="715233" />
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="169" Volume="1995" Year="2008">
 <Database Name="cv" Series="43257" Issue="716010" />
@@ -1932,8 +1977,20 @@
 <Book Series="Black Panther" Number="38" Volume="2005" Year="2008">
 <Database Name="cv" Series="11502" Issue="134087" />
 </Book>
+<Book Series="The Amazing Spider-Girl" Number="26" Volume="2006" Year="2009">
+<Database Name="cv" Series="18195" Issue="142044" />
+</Book>
+<Book Series="The Amazing Spider-Girl" Number="27" Volume="2006" Year="2009">
+<Database Name="cv" Series="18195" Issue="145540" />
+</Book>
+<Book Series="The Amazing Spider-Girl" Number="28" Volume="2006" Year="2009">
+<Database Name="cv" Series="18195" Issue="150037" />
+</Book>
 <Book Series="The Amazing Spider-Girl" Number="29" Volume="2006" Year="2009">
 <Database Name="cv" Series="18195" Issue="151957" />
+</Book>
+<Book Series="The Amazing Spider-Girl" Number="30" Volume="2006" Year="2009">
+<Database Name="cv" Series="18195" Issue="153665" />
 </Book>
 <Book Series="Franklin Richards: Not-So-Secret Invasion" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21509" Issue="129837" />
@@ -1973,9 +2030,6 @@
 </Book>
 <Book Series="Young Avengers Presents" Number="6" Volume="2008" Year="2008">
 <Database Name="cv" Series="20380" Issue="132614" />
-</Book>
-<Book Series="The Amazing Spider-Girl" Number="30" Volume="2006" Year="2009">
-<Database Name="cv" Series="18195" Issue="153665" />
 </Book>
 <Book Series="GeNEXT" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21581" Issue="130364" />
@@ -2093,6 +2147,9 @@
 </Book>
 <Book Series="True Believers" Number="5" Volume="2008" Year="2009">
 <Database Name="cv" Series="22406" Issue="143478" />
+</Book>
+<Book Series="Hero Initiative: Mike Wieringo Book:  What if THIS Was the Fantastic Four?" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="21889" Issue="131871" />
 </Book>
 <Book Series="Power Pack: Day One" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21073" Issue="126339" />
@@ -2227,7 +2284,7 @@
 <Database Name="cv" Series="18095" Issue="179390" />
 </Book>
 <Book Series="AAFES 6th Edition" Number="6" Volume="2008" Year="2008">
-<Database Name="cv" Series="23033" Issue="311366" />
+<Database Name="cv" Series="44933" Issue="311366" />
 </Book>
 <Book Series="Haunt of Horror: Lovecraft" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22464" Issue="134863" />
@@ -2739,8 +2796,8 @@
 <Book Series="Marvel Adventures: Fantastic Four" Number="38" Volume="2005" Year="2008">
 <Database Name="cv" Series="18095" Issue="134710" />
 </Book>
-<Book Series="Marvel Adventures Super Heroes" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="32628" Issue="207756" />
+<Book Series="Marvel Adventures Super Heroes" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22319" Issue="134207" />
 </Book>
 <Book Series="Ghost Rider" Number="24" Volume="2006" Year="2008">
 <Database Name="cv" Series="18138" Issue="133681" />
@@ -2918,57 +2975,6 @@
 </Book>
 <Book Series="Newuniversal: Conqueror" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22786" Issue="136751" />
-</Book>
-<Book Series="Marvel Adventures: Avengers" Number="27" Volume="2006" Year="2008">
-<Database Name="cv" Series="18100" Issue="136848" />
-</Book>
-<Book Series="Marvel Adventures Hulk" Number="14" Volume="2007" Year="2008">
-<Database Name="cv" Series="19039" Issue="135672" />
-</Book>
-<Book Series="Marvel Adventures: Spider-Man" Number="42" Volume="2005" Year="2008">
-<Database Name="cv" Series="18094" Issue="136208" />
-</Book>
-<Book Series="Marvel Adventures: Fantastic Four" Number="39" Volume="2005" Year="2008">
-<Database Name="cv" Series="18095" Issue="138815" />
-</Book>
-<Book Series="Marvel Adventures Super Heroes" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="32628" Issue="213814" />
-</Book>
-<Book Series="Avengers: The Initiative Special" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="23602" Issue="141542" />
-</Book>
-<Book Series="Avengers: The Initiative Featuring Reptil" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="26047" Issue="153956" />
-</Book>
-<Book Series="Ultimate Comics Armor Wars" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="28008" Issue="171702" />
-</Book>
-<Book Series="Ultimate Comics Armor Wars" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="28008" Issue="179944" />
-</Book>
-<Book Series="Ultimate Comics Armor Wars" Number="3" Volume="2009" Year="2010">
-<Database Name="cv" Series="28008" Issue="188273" />
-</Book>
-<Book Series="Ultimate Comics Armor Wars" Number="4" Volume="2009" Year="2010">
-<Database Name="cv" Series="28008" Issue="196760" />
-</Book>
-<Book Series="Incredible Hercules" Number="121" Volume="2008" Year="2008">
-<Database Name="cv" Series="20588" Issue="139006" />
-</Book>
-<Book Series="Incredible Hercules" Number="122" Volume="2008" Year="2008">
-<Database Name="cv" Series="20588" Issue="141319" />
-</Book>
-<Book Series="Incredible Hercules" Number="123" Volume="2008" Year="2009">
-<Database Name="cv" Series="20588" Issue="143323" />
-</Book>
-<Book Series="Incredible Hercules" Number="124" Volume="2008" Year="2009">
-<Database Name="cv" Series="20588" Issue="149826" />
-</Book>
-<Book Series="Incredible Hercules" Number="125" Volume="2008" Year="2009">
-<Database Name="cv" Series="20588" Issue="150659" />
-</Book>
-<Book Series="Incredible Hercules" Number="126" Volume="2008" Year="2009">
-<Database Name="cv" Series="20588" Issue="152813" />
 </Book>
 </Books>
 <Matchers />

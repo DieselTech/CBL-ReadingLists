@@ -3,6 +3,12 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 07</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="The Spectacular Spider-Man" Number="124" Volume="1976" Year="1987">
+<Database Name="cv" Series="2870" Issue="27907" />
+</Book>
+<Book Series="Strange Tales" Number="3" Volume="1987" Year="1987">
+<Database Name="cv" Series="3863" Issue="28231" />
+</Book>
 <Book Series="The New Mutants Annual" Number="3" Volume="1984" Year="1987">
 <Database Name="cv" Series="3356" Issue="27570" />
 </Book>
@@ -321,6 +327,21 @@
 <Book Series="Iron Man" Number="224" Volume="1968" Year="1987">
 <Database Name="cv" Series="2407" Issue="28803" />
 </Book>
+<Book Series="Solo Avengers" Number="1" Volume="1987" Year="1987">
+<Database Name="cv" Series="3859" Issue="28930" />
+</Book>
+<Book Series="Solo Avengers" Number="2" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29151" />
+</Book>
+<Book Series="Solo Avengers" Number="3" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29268" />
+</Book>
+<Book Series="Solo Avengers" Number="4" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29377" />
+</Book>
+<Book Series="Solo Avengers" Number="5" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29489" />
+</Book>
 <Book Series="Alpha Flight" Number="52" Volume="1983" Year="1987">
 <Database Name="cv" Series="3217" Issue="28794" />
 </Book>
@@ -348,11 +369,23 @@
 <Book Series="The Spectacular Spider-Man" Number="132" Volume="1976" Year="1987">
 <Database Name="cv" Series="2870" Issue="28805" />
 </Book>
+<Book Series="Solo Avengers" Number="6" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29597" />
+</Book>
+<Book Series="Solo Avengers" Number="7" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29714" />
+</Book>
 <Book Series="Thor" Number="385" Volume="1966" Year="1987">
 <Database Name="cv" Series="2294" Issue="28815" />
 </Book>
 <Book Series="Iron Man Annual" Number="9" Volume="1970" Year="1987">
 <Database Name="cv" Series="2905" Issue="28927" />
+</Book>
+<Book Series="Solo Avengers" Number="8" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29832" />
+</Book>
+<Book Series="Solo Avengers" Number="9" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29951" />
 </Book>
 <Book Series="Strange Tales" Number="5" Volume="1987" Year="1987">
 <Database Name="cv" Series="3863" Issue="28467" />
@@ -378,9 +411,6 @@
 <Book Series="The Uncanny X-Men" Number="220" Volume="1981" Year="1987">
 <Database Name="cv" Series="3092" Issue="28470" />
 </Book>
-<Book Series="Solo Avengers" Number="2" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29151" />
-</Book>
 <Book Series="Web of Spider-Man" Number="34" Volume="1985" Year="1988">
 <Database Name="cv" Series="3519" Issue="29159" />
 </Book>
@@ -392,9 +422,6 @@
 </Book>
 <Book Series="West Coast Avengers" Number="28" Volume="1985" Year="1988">
 <Database Name="cv" Series="3521" Issue="29160" />
-</Book>
-<Book Series="Solo Avengers" Number="3" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29268" />
 </Book>
 <Book Series="West Coast Avengers" Number="29" Volume="1985" Year="1988">
 <Database Name="cv" Series="3521" Issue="29275" />
@@ -783,15 +810,6 @@
 <Book Series="The Punisher" Number="9" Volume="1987" Year="1988">
 <Database Name="cv" Series="3855" Issue="29711" />
 </Book>
-<Book Series="Solo Avengers" Number="1" Volume="1987" Year="1987">
-<Database Name="cv" Series="3859" Issue="28930" />
-</Book>
-<Book Series="Solo Avengers" Number="4" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29377" />
-</Book>
-<Book Series="Solo Avengers" Number="5" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29489" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="231" Volume="1981" Year="1988">
 <Database Name="cv" Series="3092" Issue="29838" />
 </Book>
@@ -800,18 +818,6 @@
 </Book>
 <Book Series="Iron Man" Number="232" Volume="1968" Year="1988">
 <Database Name="cv" Series="2407" Issue="29828" />
-</Book>
-<Book Series="Solo Avengers" Number="6" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29597" />
-</Book>
-<Book Series="Solo Avengers" Number="7" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29714" />
-</Book>
-<Book Series="Solo Avengers" Number="8" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29832" />
-</Book>
-<Book Series="Solo Avengers" Number="9" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29951" />
 </Book>
 <Book Series="The Transformers" Number="146" Volume="1984" Year="1988">
 <Database Name="cv" Series="20559" Issue="123317" />
@@ -1751,6 +1757,9 @@
 </Book>
 <Book Series="The New Mutants" Number="76" Volume="1983" Year="1989">
 <Database Name="cv" Series="3234" Issue="31363" />
+</Book>
+<Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
+<Database Name="cv" Series="4349" Issue="31537" />
 </Book>
 <Book Series="Silver Surfer" Number="22" Volume="1987" Year="1989">
 <Database Name="cv" Series="3857" Issue="31111" />
@@ -2993,15 +3002,6 @@
 </Book>
 <Book Series="X-Factor" Number="45" Volume="1986" Year="1989">
 <Database Name="cv" Series="3657" Issue="31792" />
-</Book>
-<Book Series="X-Factor" Number="46" Volume="1986" Year="1989">
-<Database Name="cv" Series="3657" Issue="31899" />
-</Book>
-<Book Series="X-Factor" Number="47" Volume="1986" Year="1989">
-<Database Name="cv" Series="3657" Issue="31938" />
-</Book>
-<Book Series="X-Factor" Number="48" Volume="1986" Year="1989">
-<Database Name="cv" Series="3657" Issue="32035" />
 </Book>
 </Books>
 <Matchers />

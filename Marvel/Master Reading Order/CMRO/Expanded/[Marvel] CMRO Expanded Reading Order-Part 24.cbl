@@ -1,8 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 24</Name>
-<NumIssues>989</NumIssues>
+<NumIssues>987</NumIssues>
 <Books>
+<Book Series="Silver Surfer" Number="4" Volume="2003" Year="2004">
+<Database Name="cv" Series="23576" Issue="141517" />
+</Book>
+<Book Series="Silver Surfer" Number="5" Volume="2003" Year="2004">
+<Database Name="cv" Series="23576" Issue="141518" />
+</Book>
+<Book Series="Silver Surfer" Number="6" Volume="2003" Year="2004">
+<Database Name="cv" Series="23576" Issue="141557" />
+</Book>
+<Book Series="Iron Man" Number="73" Volume="1998" Year="2003">
+<Database Name="cv" Series="6504" Issue="99906" />
+</Book>
+<Book Series="Iron Man" Number="74" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99907" />
+</Book>
+<Book Series="Iron Man" Number="75" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99908" />
+</Book>
+<Book Series="Iron Man" Number="76" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99909" />
+</Book>
+<Book Series="Iron Man" Number="77" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99910" />
+</Book>
+<Book Series="Iron Man" Number="78" Volume="1998" Year="2004">
+<Database Name="cv" Series="6504" Issue="99911" />
+</Book>
+<Book Series="Crimson Dynamo" Number="1" Volume="2003" Year="2003">
+<Database Name="cv" Series="23588" Issue="151216" />
+</Book>
+<Book Series="Crimson Dynamo" Number="2" Volume="2003" Year="2003">
+<Database Name="cv" Series="23588" Issue="151217" />
+</Book>
+<Book Series="Crimson Dynamo" Number="3" Volume="2003" Year="2003">
+<Database Name="cv" Series="23588" Issue="151218" />
+</Book>
+<Book Series="Crimson Dynamo" Number="4" Volume="2003" Year="2004">
+<Database Name="cv" Series="23588" Issue="151219" />
+</Book>
+<Book Series="Crimson Dynamo" Number="5" Volume="2003" Year="2004">
+<Database Name="cv" Series="23588" Issue="151220" />
+</Book>
+<Book Series="Crimson Dynamo" Number="6" Volume="2003" Year="2004">
+<Database Name="cv" Series="23588" Issue="141508" />
+</Book>
+<Book Series="Spider-Girl" Number="71" Volume="1998" Year="2004">
+<Database Name="cv" Series="6218" Issue="117091" />
+</Book>
+<Book Series="Marvel Age Fantastic Four" Number="1" Volume="2004" Year="2004">
+<Database Name="cv" Series="10865" Issue="93334" />
+</Book>
+<Book Series="Marvel Age: Spider-Man" Number="2" Volume="2004" Year="2004">
+<Database Name="cv" Series="21401" Issue="129270" />
+</Book>
+<Book Series="Punisher: The End" Number="1" Volume="2004" Year="2004">
+<Database Name="cv" Series="21767" Issue="131270" />
+</Book>
+<Book Series="Spectacular Spider-Man Adventures" Number="98" Volume="1995" Year="2004">
+<Database Name="cv" Series="43257" Issue="715640" />
+</Book>
+<Book Series="Runaways" Number="7" Volume="2003" Year="2003">
+<Database Name="cv" Series="17988" Issue="106046" />
+</Book>
+<Book Series="Runaways" Number="8" Volume="2003" Year="2004">
+<Database Name="cv" Series="17988" Issue="106047" />
+</Book>
+<Book Series="Runaways" Number="9" Volume="2003" Year="2004">
+<Database Name="cv" Series="17988" Issue="106048" />
+</Book>
+<Book Series="Runaways" Number="10" Volume="2003" Year="2004">
+<Database Name="cv" Series="17988" Issue="106057" />
+</Book>
+<Book Series="Namor" Number="7" Volume="2003" Year="2003">
+<Database Name="cv" Series="22134" Issue="133176" />
+</Book>
+<Book Series="Namor" Number="8" Volume="2003" Year="2003">
+<Database Name="cv" Series="22134" Issue="133168" />
+</Book>
 <Book Series="Namor" Number="9" Volume="2003" Year="2004">
 <Database Name="cv" Series="22134" Issue="133178" />
 </Book>
@@ -102,9 +180,6 @@
 <Book Series="Ultimate Fantastic Four" Number="12" Volume="2004" Year="2004">
 <Database Name="cv" Series="10379" Issue="100981" />
 </Book>
-<Book Series="Marvels 25th Anniversary" Number="1" Volume="2020" Year="2020">
-<Database Name="cv" Series="125820" Issue="742427" />
-</Book>
 <Book Series="Human Torch" Number="7" Volume="2003" Year="2004">
 <Database Name="cv" Series="23492" Issue="140922" />
 </Book>
@@ -154,16 +229,16 @@
 <Database Name="cv" Series="2127" Issue="113493" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="11" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="96981" />
+<Database Name="cv" Series="11069" Issue="96981" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="12" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="96982" />
+<Database Name="cv" Series="11069" Issue="96982" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="13" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="96983" />
+<Database Name="cv" Series="11069" Issue="96983" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="14" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="96984" />
+<Database Name="cv" Series="11069" Issue="96984" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="506" Volume="1963" Year="2004">
 <Database Name="cv" Series="2127" Issue="113494" />
@@ -985,28 +1060,28 @@
 <Database Name="cv" Series="142096" Issue="913869" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="15" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="96985" />
+<Database Name="cv" Series="11069" Issue="96985" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="16" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="97334" />
+<Database Name="cv" Series="11069" Issue="97334" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="17" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="97335" />
+<Database Name="cv" Series="11069" Issue="97335" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="18" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="97336" />
+<Database Name="cv" Series="11069" Issue="97336" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="19" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="97337" />
+<Database Name="cv" Series="11069" Issue="97337" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="20" Volume="2003" Year="2004">
-<Database Name="cv" Series="2870" Issue="97338" />
+<Database Name="cv" Series="11069" Issue="97338" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="21" Volume="2003" Year="2005">
-<Database Name="cv" Series="2870" Issue="97339" />
+<Database Name="cv" Series="11069" Issue="97339" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="22" Volume="2003" Year="2005">
-<Database Name="cv" Series="2870" Issue="101138" />
+<Database Name="cv" Series="11069" Issue="101138" />
 </Book>
 <Book Series="Iron Man" Number="84" Volume="1998" Year="2004">
 <Database Name="cv" Series="6504" Issue="99917" />
@@ -1160,6 +1235,9 @@
 </Book>
 <Book Series="Spider-Girl" Number="77" Volume="1998" Year="2004">
 <Database Name="cv" Series="6218" Issue="117107" />
+</Book>
+<Book Series="Spider-Girl" Number="78" Volume="1998" Year="2004">
+<Database Name="cv" Series="6218" Issue="93545" />
 </Book>
 <Book Series="Marvel Age: Spider-Man" Number="10" Volume="2004" Year="2004">
 <Database Name="cv" Series="21401" Issue="241142" />
@@ -1406,9 +1484,6 @@
 </Book>
 <Book Series="Sabretooth" Number="4" Volume="2004" Year="2005">
 <Database Name="cv" Series="22216" Issue="133588" />
-</Book>
-<Book Series="Spider-Girl" Number="78" Volume="1998" Year="2004">
-<Database Name="cv" Series="6218" Issue="93545" />
 </Book>
 <Book Series="Marvel Age Fantastic Four" Number="6" Volume="2004" Year="2004">
 <Database Name="cv" Series="10865" Issue="93339" />
@@ -2805,6 +2880,9 @@
 <Book Series="Spectacular Spider-Man Adventures" Number="119" Volume="1995" Year="2005">
 <Database Name="cv" Series="43257" Issue="716019" />
 </Book>
+<Book Series="Spectacular Spider-Man Adventures" Number="120" Volume="1995" Year="2005">
+<Database Name="cv" Series="43257" Issue="715377" />
+</Book>
 <Book Series="Jubilee" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="18650" Issue="110036" />
 </Book>
@@ -2877,9 +2955,6 @@
 <Book Series="Tales of the Thing" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="21698" Issue="130894" />
 </Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="120" Volume="1995" Year="2005">
-<Database Name="cv" Series="43257" Issue="715377" />
-</Book>
 <Book Series="New Warriors" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18016" Issue="105453" />
 </Book>
@@ -2888,87 +2963,6 @@
 </Book>
 <Book Series="Spider-Man/Human Torch" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="11800" Issue="103520" />
-</Book>
-<Book Series="Spider-Man/Human Torch" Number="2" Volume="2005" Year="2005">
-<Database Name="cv" Series="11800" Issue="103521" />
-</Book>
-<Book Series="Spider-Man/Human Torch" Number="3" Volume="2005" Year="2005">
-<Database Name="cv" Series="11800" Issue="103522" />
-</Book>
-<Book Series="Spider-Man/Human Torch" Number="4" Volume="2005" Year="2005">
-<Database Name="cv" Series="11800" Issue="103523" />
-</Book>
-<Book Series="Spider-Man/Human Torch" Number="5" Volume="2005" Year="2005">
-<Database Name="cv" Series="11800" Issue="103524" />
-</Book>
-<Book Series="Hercules" Number="4" Volume="2005" Year="2005">
-<Database Name="cv" Series="19104" Issue="114178" />
-</Book>
-<Book Series="Hercules" Number="5" Volume="2005" Year="2005">
-<Database Name="cv" Series="19104" Issue="116250" />
-</Book>
-<Book Series="Captain America" Number="7" Volume="2004" Year="2005">
-<Database Name="cv" Series="11499" Issue="115267" />
-</Book>
-<Book Series="Livewires" Number="1" Volume="2005" Year="2005">
-<Database Name="cv" Series="24034" Issue="143033" />
-</Book>
-<Book Series="Livewires" Number="2" Volume="2005" Year="2005">
-<Database Name="cv" Series="24034" Issue="143036" />
-</Book>
-<Book Series="Livewires" Number="3" Volume="2005" Year="2005">
-<Database Name="cv" Series="24034" Issue="143037" />
-</Book>
-<Book Series="Livewires" Number="4" Volume="2005" Year="2005">
-<Database Name="cv" Series="24034" Issue="143038" />
-</Book>
-<Book Series="Livewires" Number="5" Volume="2005" Year="2005">
-<Database Name="cv" Series="24034" Issue="143039" />
-</Book>
-<Book Series="Livewires" Number="6" Volume="2005" Year="2005">
-<Database Name="cv" Series="24034" Issue="143040" />
-</Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="1" Volume="2005" Year="2005">
-<Database Name="cv" Series="20131" Issue="120170" />
-</Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="2" Volume="2005" Year="2005">
-<Database Name="cv" Series="20131" Issue="120189" />
-</Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="3" Volume="2005" Year="2005">
-<Database Name="cv" Series="20131" Issue="120192" />
-</Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="4" Volume="2005" Year="2005">
-<Database Name="cv" Series="20131" Issue="120190" />
-</Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="5" Volume="2005" Year="2005">
-<Database Name="cv" Series="20131" Issue="120193" />
-</Book>
-<Book Series="Fantastic Four: The Movie" Number="1" Volume="2005" Year="2005">
-<Database Name="cv" Series="39899" Issue="269157" />
-</Book>
-<Book Series="Marvel Adventures: Fantastic Four" Number="1" Volume="2005" Year="2005">
-<Database Name="cv" Series="18095" Issue="105986" />
-</Book>
-<Book Series="Marvel Adventures: Spider-Man" Number="4" Volume="2005" Year="2005">
-<Database Name="cv" Series="18094" Issue="105976" />
-</Book>
-<Book Series="Rampage" Number="10" Volume="2004" Year="2005">
-<Database Name="cv" Series="142096" Issue="913878" />
-</Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="121" Volume="1995" Year="2005">
-<Database Name="cv" Series="43257" Issue="716035" />
-</Book>
-<Book Series="Rogue" Number="7" Volume="2004" Year="2005">
-<Database Name="cv" Series="19612" Issue="117832" />
-</Book>
-<Book Series="Rogue" Number="8" Volume="2004" Year="2005">
-<Database Name="cv" Series="19612" Issue="117834" />
-</Book>
-<Book Series="Rogue" Number="9" Volume="2004" Year="2005">
-<Database Name="cv" Series="19612" Issue="117835" />
-</Book>
-<Book Series="Rogue" Number="10" Volume="2004" Year="2005">
-<Database Name="cv" Series="19612" Issue="117836" />
 </Book>
 </Books>
 <Matchers />
