@@ -3,9 +3,6 @@
 <Name>[Marvel] CMRO Core Reading Order-Part 05</Name>
 <NumIssues>1000</NumIssues>
 <Books>
-<Book Series="Daredevil" Number="200" Volume="1964" Year="1983">
-<Database Name="cv" Series="2190" Issue="23619" />
-</Book>
 <Book Series="Marvel Team-Up" Number="134" Volume="1972" Year="1983">
 <Database Name="cv" Series="2576" Issue="23548" />
 </Book>
@@ -3002,6 +2999,9 @@
 </Book>
 <Book Series="The Avengers" Number="281" Volume="1963" Year="1987">
 <Database Name="cv" Series="2128" Issue="28333" />
+</Book>
+<Book Series="The Avengers" Number="282" Volume="1963" Year="1987">
+<Database Name="cv" Series="2128" Issue="28454" />
 </Book>
 </Books>
 <Matchers />

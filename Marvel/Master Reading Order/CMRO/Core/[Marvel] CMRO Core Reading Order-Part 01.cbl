@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 01</Name>
-<NumIssues>994</NumIssues>
+<NumIssues>1000</NumIssues>
 <Books>
 <Book Series="Fantastic Four" Number="1" Volume="1961" Year="1961">
 <Database Name="cv" Series="2045" Issue="5558" />
@@ -1041,6 +1041,9 @@
 <Book Series="Thor" Number="130" Volume="1966" Year="1966">
 <Database Name="cv" Series="2294" Issue="8673" />
 </Book>
+<Book Series="Fantastic Four" Number="51" Volume="1961" Year="1966">
+<Database Name="cv" Series="2045" Issue="8613" />
+</Book>
 <Book Series="Tales to Astonish" Number="80" Volume="1959" Year="1966">
 <Database Name="cv" Series="2008" Issue="8619" />
 </Book>
@@ -1058,9 +1061,6 @@
 </Book>
 <Book Series="The Avengers" Number="29" Volume="1963" Year="1966">
 <Database Name="cv" Series="2128" Issue="8611" />
-</Book>
-<Book Series="Fantastic Four" Number="51" Volume="1961" Year="1966">
-<Database Name="cv" Series="2045" Issue="8613" />
 </Book>
 <Book Series="Tales of Suspense" Number="79" Volume="1959" Year="1966">
 <Database Name="cv" Series="2007" Issue="8671" />

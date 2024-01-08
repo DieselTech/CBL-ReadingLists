@@ -405,11 +405,11 @@
 <Book Series="Thor" Number="130" Volume="1966" Year="1966">
 <Database Name="cv" Series="2294" Issue="8673" />
 </Book>
-<Book Series="The Avengers" Number="28" Volume="1963" Year="1966">
-<Database Name="cv" Series="2128" Issue="8544" />
-</Book>
 <Book Series="Fantastic Four" Number="51" Volume="1961" Year="1966">
 <Database Name="cv" Series="2045" Issue="8613" />
+</Book>
+<Book Series="The Avengers" Number="28" Volume="1963" Year="1966">
+<Database Name="cv" Series="2128" Issue="8544" />
 </Book>
 <Book Series="Tales of Suspense" Number="78" Volume="1959" Year="1966">
 <Database Name="cv" Series="2007" Issue="8618" />
@@ -489,6 +489,9 @@
 <Book Series="The Amazing Spider-Man" Number="46" Volume="1963" Year="1967">
 <Database Name="cv" Series="2127" Issue="9223" />
 </Book>
+<Book Series="Strange Tales" Number="156" Volume="1951" Year="1967">
+<Database Name="cv" Series="18066" Issue="111072" />
+</Book>
 <Book Series="Strange Tales" Number="157" Volume="1951" Year="1967">
 <Database Name="cv" Series="18066" Issue="111071" />
 </Book>
@@ -504,6 +507,9 @@
 <Book Series="The Avengers" Number="44" Volume="1963" Year="1967">
 <Database Name="cv" Series="2128" Issue="9612" />
 </Book>
+<Book Series="Fantastic Four Annual" Number="5" Volume="1963" Year="1967">
+<Database Name="cv" Series="2129" Issue="9715" />
+</Book>
 <Book Series="Fantastic Four" Number="65" Volume="1961" Year="1967">
 <Database Name="cv" Series="2045" Issue="9554" />
 </Book>
@@ -512,6 +518,9 @@
 </Book>
 <Book Series="Fantastic Four" Number="67" Volume="1961" Year="1967">
 <Database Name="cv" Series="2045" Issue="9685" />
+</Book>
+<Book Series="Strange Tales" Number="159" Volume="1951" Year="1967">
+<Database Name="cv" Series="18066" Issue="111018" />
 </Book>
 <Book Series="Strange Tales" Number="164" Volume="1951" Year="1968">
 <Database Name="cv" Series="18066" Issue="110837" />
@@ -533,6 +542,9 @@
 </Book>
 <Book Series="Thor" Number="146" Volume="1966" Year="1967">
 <Database Name="cv" Series="2294" Issue="9762" />
+</Book>
+<Book Series="Thor" Number="147" Volume="1966" Year="1967">
+<Database Name="cv" Series="2294" Issue="9824" />
 </Book>
 <Book Series="Thor" Number="148" Volume="1966" Year="1968">
 <Database Name="cv" Series="2294" Issue="9887" />
@@ -911,9 +923,6 @@
 </Book>
 <Book Series="Strange Tales" Number="169" Volume="1973" Year="1973">
 <Database Name="cv" Series="2643" Issue="13598" />
-</Book>
-<Book Series="Amazing Adventures" Number="18" Volume="1970" Year="1973">
-<Database Name="cv" Series="2469" Issue="13168" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="126" Volume="1963" Year="1973">
 <Database Name="cv" Series="2127" Issue="13783" />
@@ -1320,6 +1329,9 @@
 <Book Series="Marvel Team-Up" Number="59" Volume="1972" Year="1977">
 <Database Name="cv" Series="2576" Issue="17605" />
 </Book>
+<Book Series="Marvel Team-Up" Number="60" Volume="1972" Year="1977">
+<Database Name="cv" Series="2576" Issue="17693" />
+</Book>
 <Book Series="Fantastic Four" Number="191" Volume="1961" Year="1978">
 <Database Name="cv" Series="2045" Issue="18244" />
 </Book>
@@ -1406,6 +1418,12 @@
 </Book>
 <Book Series="The X-Men" Number="117" Volume="1963" Year="1979">
 <Database Name="cv" Series="2133" Issue="19210" />
+</Book>
+<Book Series="Ms. Marvel" Number="17" Volume="1977" Year="1978">
+<Database Name="cv" Series="2910" Issue="18506" />
+</Book>
+<Book Series="Ms. Marvel" Number="18" Volume="1977" Year="1978">
+<Database Name="cv" Series="2910" Issue="18589" />
 </Book>
 <Book Series="Thor Annual" Number="7" Volume="1966" Year="1978">
 <Database Name="cv" Series="2295" Issue="18097" />
@@ -1664,9 +1682,6 @@
 </Book>
 <Book Series="The Avengers Annual" Number="10" Volume="1967" Year="1981">
 <Database Name="cv" Series="2350" Issue="20918" />
-</Book>
-<Book Series="Fantastic Four" Number="232" Volume="1961" Year="1981">
-<Database Name="cv" Series="2045" Issue="21374" />
 </Book>
 <Book Series="Iron Man" Number="149" Volume="1968" Year="1981">
 <Database Name="cv" Series="2407" Issue="21443" />
@@ -2655,6 +2670,9 @@
 <Book Series="Power Pack" Number="44" Volume="1984" Year="1989">
 <Database Name="cv" Series="3358" Issue="30994" />
 </Book>
+<Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
+<Database Name="cv" Series="4349" Issue="31537" />
+</Book>
 <Book Series="Captain America" Number="350" Volume="1968" Year="1989">
 <Database Name="cv" Series="2400" Issue="30885" />
 </Book>
@@ -2981,27 +2999,6 @@
 </Book>
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="18" Volume="1988" Year="1990">
 <Database Name="cv" Series="4049" Issue="32868" />
-</Book>
-<Book Series="Marc Spector: Moon Knight" Number="10" Volume="1989" Year="1990">
-<Database Name="cv" Series="4230" Issue="32322" />
-</Book>
-<Book Series="The Punisher War Journal" Number="12" Volume="1988" Year="1989">
-<Database Name="cv" Series="4066" Issue="32009" />
-</Book>
-<Book Series="The Punisher War Journal" Number="13" Volume="1988" Year="1989">
-<Database Name="cv" Series="4066" Issue="32067" />
-</Book>
-<Book Series="Avengers West Coast" Number="54" Volume="1989" Year="1990">
-<Database Name="cv" Series="18494" Issue="114099" />
-</Book>
-<Book Series="The Avengers" Number="313" Volume="1963" Year="1990">
-<Database Name="cv" Series="2128" Issue="32316" />
-</Book>
-<Book Series="Fantastic Four" Number="335" Volume="1961" Year="1989">
-<Database Name="cv" Series="2045" Issue="32418" />
-</Book>
-<Book Series="Fantastic Four" Number="336" Volume="1961" Year="1990">
-<Database Name="cv" Series="2045" Issue="32518" />
 </Book>
 </Books>
 <Matchers />

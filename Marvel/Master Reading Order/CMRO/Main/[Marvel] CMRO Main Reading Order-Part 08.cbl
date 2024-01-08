@@ -3,6 +3,15 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 08</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="X-Factor" Number="46" Volume="1986" Year="1989">
+<Database Name="cv" Series="3657" Issue="31899" />
+</Book>
+<Book Series="X-Factor" Number="47" Volume="1986" Year="1989">
+<Database Name="cv" Series="3657" Issue="31938" />
+</Book>
+<Book Series="X-Factor" Number="48" Volume="1986" Year="1989">
+<Database Name="cv" Series="3657" Issue="32035" />
+</Book>
 <Book Series="X-Factor" Number="49" Volume="1986" Year="1989">
 <Database Name="cv" Series="3657" Issue="32077" />
 </Book>
@@ -2993,15 +3002,6 @@
 </Book>
 <Book Series="Wonder Man" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4603" Issue="34664" />
-</Book>
-<Book Series="X-Factor" Number="71" Volume="1986" Year="1991">
-<Database Name="cv" Series="3657" Issue="34782" />
-</Book>
-<Book Series="X-Factor" Number="72" Volume="1986" Year="1991">
-<Database Name="cv" Series="3657" Issue="34898" />
-</Book>
-<Book Series="X-Factor" Number="73" Volume="1986" Year="1991">
-<Database Name="cv" Series="3657" Issue="35017" />
 </Book>
 </Books>
 <Matchers />

@@ -3,6 +3,12 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 06</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="Daredevil" Number="208" Volume="1964" Year="1984">
+<Database Name="cv" Series="2190" Issue="24500" />
+</Book>
+<Book Series="Daredevil" Number="209" Volume="1964" Year="1984">
+<Database Name="cv" Series="2190" Issue="24596" />
+</Book>
 <Book Series="Power Man and Iron Fist" Number="105" Volume="1978" Year="1984">
 <Database Name="cv" Series="2959" Issue="86068" />
 </Book>
@@ -209,9 +215,6 @@
 </Book>
 <Book Series="The Amazing Spider-Man" Number="255" Volume="1963" Year="1984">
 <Database Name="cv" Series="2127" Issue="24593" />
-</Book>
-<Book Series="Incredible Hulk Annual" Number="1984" Volume="1977" Year="0">
-<Database Name="cv" Series="142306" Issue="917248" />
 </Book>
 <Book Series="The Defenders" Number="136" Volume="1972" Year="1984">
 <Database Name="cv" Series="2569" Issue="24783" />
@@ -615,7 +618,7 @@
 <Book Series="Spider-Man" Number="609" Volume="1984" Year="1984">
 <Database Name="cv" Series="47656" Issue="327862" />
 </Book>
-<Book Series="Spider-Man" Number="610" Volume="1984" Year="0">
+<Book Series="Spider-Man" Number="610" Volume="1984" Year="1984">
 <Database Name="cv" Series="47656" Issue="327863" />
 </Book>
 <Book Series="The Amazing Spider-Man Annual" Number="18" Volume="1964" Year="1984">
@@ -824,9 +827,6 @@
 </Book>
 <Book Series="The Thing" Number="23" Volume="1983" Year="1985">
 <Database Name="cv" Series="3245" Issue="25498" />
-</Book>
-<Book Series="Incredible Hulk Annual" Number="1985" Volume="1977" Year="0">
-<Database Name="cv" Series="142306" Issue="917249" />
 </Book>
 <Book Series="Iron Man" Number="191" Volume="1968" Year="1985">
 <Database Name="cv" Series="2407" Issue="25263" />
@@ -2996,12 +2996,6 @@
 </Book>
 <Book Series="Marvel Graphic Novel" Number="29" Volume="1982" Year="1987">
 <Database Name="cv" Series="3144" Issue="134234" />
-</Book>
-<Book Series="The Spectacular Spider-Man" Number="124" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="27907" />
-</Book>
-<Book Series="Strange Tales" Number="3" Volume="1987" Year="1987">
-<Database Name="cv" Series="3863" Issue="28231" />
 </Book>
 </Books>
 <Matchers />

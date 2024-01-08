@@ -1,62 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 06</Name>
-<NumIssues>842</NumIssues>
+<NumIssues>849</NumIssues>
 <Books>
-<Book Series="Thor" Number="220" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14074" />
-</Book>
-<Book Series="Thor" Number="221" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14142" />
-</Book>
-<Book Series="Thor" Number="222" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14209" />
-</Book>
-<Book Series="Thor" Number="223" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14283" />
-</Book>
-<Book Series="Thor" Number="224" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14355" />
-</Book>
-<Book Series="Thor" Number="225" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14439" />
-</Book>
-<Book Series="Thor" Number="226" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14510" />
-</Book>
-<Book Series="Thor" Number="227" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14605" />
-</Book>
-<Book Series="Thor" Number="228" Volume="1966" Year="1974">
-<Database Name="cv" Series="2294" Issue="14689" />
-</Book>
-<Book Series="The Outlaw Kid" Number="15" Volume="1970" Year="1973">
-<Database Name="cv" Series="2476" Issue="13121" />
-</Book>
-<Book Series="The Outlaw Kid" Number="16" Volume="1970" Year="1973">
-<Database Name="cv" Series="2476" Issue="13289" />
-</Book>
-<Book Series="The Rawhide Kid" Number="110" Volume="1960" Year="1973">
-<Database Name="cv" Series="2023" Issue="13122" />
-</Book>
-<Book Series="Doc Savage" Number="3" Volume="1972" Year="1973">
-<Database Name="cv" Series="2570" Issue="12922" />
-</Book>
-<Book Series="Doc Savage" Number="4" Volume="1972" Year="1973">
-<Database Name="cv" Series="2570" Issue="13105" />
-</Book>
-<Book Series="Where Monsters Dwell" Number="25" Volume="1970" Year="1973">
-<Database Name="cv" Series="2481" Issue="13820" />
-</Book>
-<Book Series="Journey into Mystery" Number="4" Volume="1972" Year="1973">
-<Database Name="cv" Series="2573" Issue="13113" />
-</Book>
-<Book Series="Fantastic Four" Number="133" Volume="1961" Year="1973">
-<Database Name="cv" Series="2045" Issue="13106" />
-</Book>
-<Book Series="Captain America" Number="157" Volume="1968" Year="1973">
-<Database Name="cv" Series="2400" Issue="12824" />
-</Book>
 <Book Series="Captain America" Number="158" Volume="1968" Year="1973">
 <Database Name="cv" Series="2400" Issue="12917" />
 </Book>
@@ -214,10 +160,10 @@
 <Database Name="cv" Series="2568" Issue="13268" />
 </Book>
 <Book Series="The Incredible Hulk" Number="161" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13010" />
+<Database Name="cv" Series="2406" Issue="13010" />
 </Book>
 <Book Series="The Incredible Hulk" Number="162" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13111" />
+<Database Name="cv" Series="2406" Issue="13111" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="119" Volume="1963" Year="1973">
 <Database Name="cv" Series="2127" Issue="13096" />
@@ -334,13 +280,13 @@
 <Database Name="cv" Series="2576" Issue="13589" />
 </Book>
 <Book Series="The Incredible Hulk" Number="163" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13179" />
+<Database Name="cv" Series="2406" Issue="13179" />
 </Book>
 <Book Series="The Incredible Hulk" Number="164" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13279" />
+<Database Name="cv" Series="2406" Issue="13279" />
 </Book>
 <Book Series="The Incredible Hulk" Number="165" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13387" />
+<Database Name="cv" Series="2406" Issue="13387" />
 </Book>
 <Book Series="Captain America" Number="163" Volume="1968" Year="1973">
 <Database Name="cv" Series="2400" Issue="13379" />
@@ -436,7 +382,7 @@
 <Database Name="cv" Series="2128" Issue="13469" />
 </Book>
 <Book Series="The Incredible Hulk" Number="166" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13480" />
+<Database Name="cv" Series="2406" Issue="13480" />
 </Book>
 <Book Series="The Defenders" Number="7" Volume="1972" Year="1973">
 <Database Name="cv" Series="2569" Issue="13474" />
@@ -529,13 +475,13 @@
 <Database Name="cv" Series="2513" Issue="13391" />
 </Book>
 <Book Series="Strange Tales" Number="169" Volume="1973" Year="1973">
-<Database Name="cv" Series="18066" Issue="13598" />
+<Database Name="cv" Series="2643" Issue="13598" />
 </Book>
 <Book Series="Strange Tales" Number="170" Volume="1973" Year="1973">
-<Database Name="cv" Series="18066" Issue="13714" />
+<Database Name="cv" Series="2643" Issue="13714" />
 </Book>
 <Book Series="Strange Tales" Number="171" Volume="1973" Year="1973">
-<Database Name="cv" Series="18066" Issue="13894" />
+<Database Name="cv" Series="2643" Issue="13894" />
 </Book>
 <Book Series="Werewolf by Night" Number="9" Volume="1972" Year="1973">
 <Database Name="cv" Series="2584" Issue="13603" />
@@ -601,16 +547,16 @@
 <Database Name="cv" Series="2635" Issue="13693" />
 </Book>
 <Book Series="The Incredible Hulk" Number="167" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13579" />
+<Database Name="cv" Series="2406" Issue="13579" />
 </Book>
 <Book Series="The Incredible Hulk" Number="168" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13697" />
+<Database Name="cv" Series="2406" Issue="13697" />
 </Book>
 <Book Series="The Incredible Hulk" Number="169" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13795" />
+<Database Name="cv" Series="2406" Issue="13795" />
 </Book>
 <Book Series="The Incredible Hulk" Number="170" Volume="1968" Year="1973">
-<Database Name="cv" Series="2077" Issue="13885" />
+<Database Name="cv" Series="2406" Issue="13885" />
 </Book>
 <Book Series="Conan the Barbarian" Number="30" Volume="1970" Year="1973">
 <Database Name="cv" Series="2471" Issue="13570" />
@@ -643,10 +589,10 @@
 <Database Name="cv" Series="2513" Issue="13583" />
 </Book>
 <Book Series="The Incredible Hulk" Number="171" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="13990" />
+<Database Name="cv" Series="2406" Issue="13990" />
 </Book>
 <Book Series="The Incredible Hulk" Number="172" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14059" />
+<Database Name="cv" Series="2406" Issue="14059" />
 </Book>
 <Book Series="Conan the Barbarian" Number="31" Volume="1970" Year="1973">
 <Database Name="cv" Series="2471" Issue="13686" />
@@ -1006,10 +952,10 @@
 <Database Name="cv" Series="2644" Issue="14989" />
 </Book>
 <Book Series="Strange Tales" Number="172" Volume="1973" Year="1974">
-<Database Name="cv" Series="18066" Issue="14073" />
+<Database Name="cv" Series="2643" Issue="14073" />
 </Book>
 <Book Series="Strange Tales" Number="173" Volume="1973" Year="1974">
-<Database Name="cv" Series="18066" Issue="14208" />
+<Database Name="cv" Series="2643" Issue="14208" />
 </Book>
 <Book Series="Tales of the Zombie" Number="10" Volume="1973" Year="1975">
 <Database Name="cv" Series="2644" Issue="106734" />
@@ -1021,10 +967,10 @@
 <Database Name="cv" Series="2469" Issue="14407" />
 </Book>
 <Book Series="Strange Tales" Number="174" Volume="1973" Year="1974">
-<Database Name="cv" Series="18066" Issue="14353" />
+<Database Name="cv" Series="2643" Issue="14353" />
 </Book>
 <Book Series="Strange Tales" Number="176" Volume="1973" Year="1974">
-<Database Name="cv" Series="18066" Issue="14687" />
+<Database Name="cv" Series="2643" Issue="14687" />
 </Book>
 <Book Series="Sub-Mariner" Number="70" Volume="1968" Year="1974">
 <Database Name="cv" Series="2413" Issue="14281" />
@@ -1230,7 +1176,7 @@
 <Book Series="Aurora Comic Scenes" Number="4" Volume="1974" Year="1974">
 <Database Name="cv" Series="25137" Issue="148430" />
 </Book>
-<Book Series="Aurora Comic Scenes" Number="9" Volume="1974" Year="1975">
+<Book Series="Aurora Comic Scenes" Number="9" Volume="1974" Year="1974">
 <Database Name="cv" Series="25137" Issue="148435" />
 </Book>
 <Book Series="Savage Tales" Number="4" Volume="1971" Year="1974">
@@ -1360,37 +1306,37 @@
 <Database Name="cv" Series="2045" Issue="14487" />
 </Book>
 <Book Series="The Incredible Hulk" Number="173" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14127" />
+<Database Name="cv" Series="2406" Issue="14127" />
 </Book>
 <Book Series="The Incredible Hulk" Number="174" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14196" />
+<Database Name="cv" Series="2406" Issue="14196" />
 </Book>
 <Book Series="The Incredible Hulk" Number="175" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14267" />
+<Database Name="cv" Series="2406" Issue="14267" />
 </Book>
 <Book Series="The Incredible Hulk" Number="176" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14340" />
+<Database Name="cv" Series="2406" Issue="14340" />
 </Book>
 <Book Series="The Incredible Hulk" Number="177" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14423" />
+<Database Name="cv" Series="2406" Issue="14423" />
 </Book>
 <Book Series="The Incredible Hulk" Number="178" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14493" />
+<Database Name="cv" Series="2406" Issue="14493" />
 </Book>
 <Book Series="The Incredible Hulk" Number="179" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14584" />
+<Database Name="cv" Series="2406" Issue="14584" />
 </Book>
 <Book Series="The Incredible Hulk" Number="180" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14667" />
+<Database Name="cv" Series="2406" Issue="14667" />
 </Book>
 <Book Series="The Incredible Hulk" Number="181" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14760" />
+<Database Name="cv" Series="2406" Issue="14760" />
 </Book>
 <Book Series="The Incredible Hulk" Number="182" Volume="1968" Year="1974">
-<Database Name="cv" Series="2077" Issue="14841" />
+<Database Name="cv" Series="2406" Issue="14841" />
 </Book>
 <Book Series="The Incredible Hulk" Number="183" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="14970" />
+<Database Name="cv" Series="2406" Issue="14970" />
 </Book>
 <Book Series="The Occult Files Of Dr. Spektor" Number="10" Volume="1973" Year="1974">
 <Database Name="cv" Series="2655" Issue="14533" />
@@ -1777,7 +1723,7 @@
 <Database Name="cv" Series="2682" Issue="14839" />
 </Book>
 <Book Series="Strange Tales" Number="177" Volume="1973" Year="1974">
-<Database Name="cv" Series="18066" Issue="14858" />
+<Database Name="cv" Series="2643" Issue="14858" />
 </Book>
 <Book Series="Amazing Adventures" Number="28" Volume="1970" Year="1975">
 <Database Name="cv" Series="2469" Issue="14951" />
@@ -1927,7 +1873,7 @@
 <Database Name="cv" Series="2634" Issue="15145" />
 </Book>
 <Book Series="Strange Tales" Number="178" Volume="1973" Year="1975">
-<Database Name="cv" Series="18066" Issue="15076" />
+<Database Name="cv" Series="2643" Issue="15076" />
 </Book>
 <Book Series="Fantastic Four" Number="155" Volume="1961" Year="1975">
 <Database Name="cv" Series="2045" Issue="15054" />
@@ -1995,6 +1941,9 @@
 <Book Series="Dracula Lives" Number="13" Volume="1973" Year="1975">
 <Database Name="cv" Series="2634" Issue="15372" />
 </Book>
+<Book Series="Héroes del Oeste" Number="433" Volume="1952" Year="0">
+<Database Name="cv" Series="78249" Issue="473576" />
+</Book>
 <Book Series="Ka-Zar" Number="8" Volume="1974" Year="1975">
 <Database Name="cv" Series="2692" Issue="125776" />
 </Book>
@@ -2052,35 +2001,38 @@
 <Book Series="Ghost Rider" Number="11" Volume="1973" Year="1975">
 <Database Name="cv" Series="2636" Issue="161134" />
 </Book>
+<Book Series="Héroes del Oeste" Number="437" Volume="1952" Year="0">
+<Database Name="cv" Series="78249" Issue="473946" />
+</Book>
 <Book Series="The Incredible Hulk" Number="184" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15060" />
+<Database Name="cv" Series="2406" Issue="15060" />
 </Book>
 <Book Series="The Incredible Hulk" Number="185" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15151" />
+<Database Name="cv" Series="2406" Issue="15151" />
 </Book>
 <Book Series="The Incredible Hulk" Number="186" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="134872" />
+<Database Name="cv" Series="2406" Issue="134872" />
 </Book>
 <Book Series="The Incredible Hulk" Number="187" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15184" />
+<Database Name="cv" Series="2406" Issue="15184" />
 </Book>
 <Book Series="The Incredible Hulk" Number="188" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15276" />
+<Database Name="cv" Series="2406" Issue="15276" />
 </Book>
 <Book Series="The Incredible Hulk" Number="189" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15381" />
+<Database Name="cv" Series="2406" Issue="15381" />
 </Book>
 <Book Series="The Incredible Hulk" Number="190" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15483" />
+<Database Name="cv" Series="2406" Issue="15483" />
 </Book>
 <Book Series="The Incredible Hulk" Number="191" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15583" />
+<Database Name="cv" Series="2406" Issue="15583" />
 </Book>
 <Book Series="The Incredible Hulk" Number="192" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15683" />
+<Database Name="cv" Series="2406" Issue="15683" />
 </Book>
 <Book Series="The Incredible Hulk" Number="193" Volume="1968" Year="1975">
-<Database Name="cv" Series="2077" Issue="15782" />
+<Database Name="cv" Series="2406" Issue="15782" />
 </Book>
 <Book Series="Giant-Size Invaders" Number="1" Volume="1975" Year="1975">
 <Database Name="cv" Series="18604" Issue="109768" />
@@ -2092,7 +2044,7 @@
 <Database Name="cv" Series="2576" Issue="15067" />
 </Book>
 <Book Series="Strange Tales" Number="179" Volume="1973" Year="1975">
-<Database Name="cv" Series="18066" Issue="108987" />
+<Database Name="cv" Series="2643" Issue="108987" />
 </Book>
 <Book Series="The Mighty Marvel Western" Number="39" Volume="1968" Year="1975">
 <Database Name="cv" Series="2409" Issue="15285" />
@@ -2125,10 +2077,10 @@
 <Database Name="cv" Series="2576" Issue="113536" />
 </Book>
 <Book Series="Strange Tales" Number="180" Volume="1973" Year="1975">
-<Database Name="cv" Series="18066" Issue="15291" />
+<Database Name="cv" Series="2643" Issue="15291" />
 </Book>
 <Book Series="Strange Tales" Number="181" Volume="1973" Year="1975">
-<Database Name="cv" Series="18066" Issue="15500" />
+<Database Name="cv" Series="2643" Issue="15500" />
 </Book>
 <Book Series="Warlock" Number="9" Volume="1972" Year="1975">
 <Database Name="cv" Series="2583" Issue="15708" />
@@ -2138,6 +2090,9 @@
 </Book>
 <Book Series="Warlock" Number="11" Volume="1972" Year="1976">
 <Database Name="cv" Series="2583" Issue="16099" />
+</Book>
+<Book Series="Héroes del Oeste" Number="439" Volume="1952" Year="0">
+<Database Name="cv" Series="78249" Issue="474175" />
 </Book>
 <Book Series="Giant-Size Spider-Man" Number="4" Volume="1974" Year="1975">
 <Database Name="cv" Series="2686" Issue="121299" />
@@ -2355,6 +2310,9 @@
 <Book Series="War is Hell" Number="13" Volume="1973" Year="1975">
 <Database Name="cv" Series="2649" Issue="15296" />
 </Book>
+<Book Series="Héroes del Oeste" Number="449" Volume="1952" Year="0">
+<Database Name="cv" Series="78249" Issue="475217" />
+</Book>
 <Book Series="Werewolf by Night" Number="22" Volume="1972" Year="1974">
 <Database Name="cv" Series="2584" Issue="14693" />
 </Book>
@@ -2481,6 +2439,9 @@
 <Book Series="Kull and the Barbarians" Number="3" Volume="1975" Year="1975">
 <Database Name="cv" Series="2767" Issue="15587" />
 </Book>
+<Book Series="Héroes del Oeste" Number="455" Volume="1952" Year="0">
+<Database Name="cv" Series="78249" Issue="475683" />
+</Book>
 <Book Series="Amazing Adventures" Number="32" Volume="1970" Year="1975">
 <Database Name="cv" Series="2469" Issue="15571" />
 </Book>
@@ -2528,6 +2489,63 @@
 </Book>
 <Book Series="Master of Kung Fu" Number="26" Volume="1974" Year="1975">
 <Database Name="cv" Series="2697" Issue="113390" />
+</Book>
+<Book Series="Master of Kung Fu" Number="27" Volume="1974" Year="1975">
+<Database Name="cv" Series="2697" Issue="169005" />
+</Book>
+<Book Series="Master of Kung Fu" Number="28" Volume="1974" Year="1975">
+<Database Name="cv" Series="2697" Issue="15193" />
+</Book>
+<Book Series="Giant-Size Master of Kung Fu" Number="4" Volume="1974" Year="1975">
+<Database Name="cv" Series="2685" Issue="15274" />
+</Book>
+<Book Series="Captain America" Number="192" Volume="1968" Year="1975">
+<Database Name="cv" Series="2400" Issue="15856" />
+</Book>
+<Book Series="Héroes del Oeste" Number="457" Volume="1952" Year="1975">
+<Database Name="cv" Series="78249" Issue="475732" />
+</Book>
+<Book Series="Giant-Size Werewolf" Number="3" Volume="1974" Year="1975">
+<Database Name="cv" Series="2689" Issue="14967" />
+</Book>
+<Book Series="Werewolf by Night" Number="27" Volume="1972" Year="1975">
+<Database Name="cv" Series="2584" Issue="137496" />
+</Book>
+<Book Series="Werewolf by Night" Number="28" Volume="1972" Year="1975">
+<Database Name="cv" Series="2584" Issue="137495" />
+</Book>
+<Book Series="Werewolf by Night" Number="29" Volume="1972" Year="1975">
+<Database Name="cv" Series="2584" Issue="15201" />
+</Book>
+<Book Series="Werewolf by Night" Number="30" Volume="1972" Year="1975">
+<Database Name="cv" Series="2584" Issue="15297" />
+</Book>
+<Book Series="The Invaders" Number="1" Volume="1975" Year="1975">
+<Database Name="cv" Series="2765" Issue="15484" />
+</Book>
+<Book Series="The Invaders" Number="2" Volume="1975" Year="1975">
+<Database Name="cv" Series="2765" Issue="15685" />
+</Book>
+<Book Series="Marvel Premiere" Number="23" Volume="1972" Year="1975">
+<Database Name="cv" Series="2575" Issue="15489" />
+</Book>
+<Book Series="Giant-Size Werewolf" Number="4" Volume="1974" Year="1975">
+<Database Name="cv" Series="2689" Issue="138640" />
+</Book>
+<Book Series="Adventure into Fear" Number="27" Volume="1970" Year="1975">
+<Database Name="cv" Series="2472" Issue="162793" />
+</Book>
+<Book Series="Adventure into Fear" Number="28" Volume="1970" Year="1975">
+<Database Name="cv" Series="2472" Issue="15268" />
+</Book>
+<Book Series="Adventure into Fear" Number="29" Volume="1970" Year="1975">
+<Database Name="cv" Series="2472" Issue="15479" />
+</Book>
+<Book Series="Adventure into Fear" Number="30" Volume="1970" Year="1975">
+<Database Name="cv" Series="2472" Issue="15679" />
+</Book>
+<Book Series="Adventure into Fear" Number="31" Volume="1970" Year="1975">
+<Database Name="cv" Series="2472" Issue="15863" />
 </Book>
 </Books>
 <Matchers />

@@ -361,7 +361,7 @@
 <Database Name="cv" Series="35688" Issue="236111" />
 </Book>
 <Book Series="Lightning Comics" Number="4" Volume="1940" Year="1940">
-<Database Name="cv" Series="32511" Issue="161741" />
+<Database Name="cv" Series="20194" Issue="161741" />
 </Book>
 <Book Series="Amazing-Man Comics" Number="25" Volume="1939" Year="1941">
 <Database Name="cv" Series="26661" Issue="236122" />
@@ -406,7 +406,7 @@
 <Database Name="cv" Series="19137" Issue="132185" />
 </Book>
 <Book Series="Lightning Comics" Number="5" Volume="1940" Year="1941">
-<Database Name="cv" Series="32511" Issue="161748" />
+<Database Name="cv" Series="20194" Issue="161748" />
 </Book>
 <Book Series="Captain America Comics" Number="12" Volume="1941" Year="1942">
 <Database Name="cv" Series="1628" Issue="117556" />
@@ -440,9 +440,6 @@
 </Book>
 <Book Series="Cat-Man Comics" Number="14" Volume="1941" Year="1942">
 <Database Name="cv" Series="25835" Issue="157282" />
-</Book>
-<Book Series="Lightning Comics" Number="6" Volume="1940" Year="1941">
-<Database Name="cv" Series="32511" Issue="161740" />
 </Book>
 <Book Series="Captain America Comics" Number="14" Volume="1941" Year="1942">
 <Database Name="cv" Series="1628" Issue="117558" />
@@ -485,9 +482,6 @@
 </Book>
 <Book Series="Cat-Man Comics" Number="1" Volume="1941" Year="1941">
 <Database Name="cv" Series="25835" Issue="152607" />
-</Book>
-<Book Series="Sure-Fire Comics" Number="1" Volume="1940" Year="1940">
-<Database Name="cv" Series="32511" Issue="205710" />
 </Book>
 <Book Series="Sub-Mariner Comics" Number="5" Volume="1941" Year="1942">
 <Database Name="cv" Series="18548" Issue="109244" />
@@ -1093,7 +1087,7 @@
 <Database Name="cv" Series="18548" Issue="110287" />
 </Book>
 <Book Series="Gay Comics" Number="18" Volume="1944" Year="1944">
-<Database Name="cv" Series="30453" Issue="92191" />
+<Database Name="cv" Series="1038" Issue="92191" />
 </Book>
 <Book Series="Terry-Toons Comics" Number="23" Volume="1942" Year="1944">
 <Database Name="cv" Series="948" Issue="91161" />
@@ -1216,7 +1210,7 @@
 <Database Name="cv" Series="21618" Issue="188779" />
 </Book>
 <Book Series="Gay Comics" Number="19" Volume="1944" Year="1944">
-<Database Name="cv" Series="30453" Issue="92192" />
+<Database Name="cv" Series="1038" Issue="92192" />
 </Book>
 <Book Series="Joker Comics" Number="17" Volume="1942" Year="1944">
 <Database Name="cv" Series="27160" Issue="188411" />
@@ -1299,14 +1293,11 @@
 <Book Series="Comic Capers" Number="3" Volume="1944" Year="1945">
 <Database Name="cv" Series="1003" Issue="188263" />
 </Book>
-<Book Series="Comics For Kids" Number="1" Volume="1945" Year="1945">
+<Book Series="Comics for Kids" Number="1" Volume="1945" Year="1945">
 <Database Name="cv" Series="30503" Issue="187671" />
 </Book>
 <Book Series="Krazy Komics" Number="17" Volume="1942" Year="1945">
 <Database Name="cv" Series="946" Issue="187380" />
-</Book>
-<Book Series="Miss America Comics" Number="1" Volume="1944" Year="1944">
-<Database Name="cv" Series="50116" Issue="343551" />
 </Book>
 <Book Series="Super Rabbit" Number="3" Volume="1944" Year="1945">
 <Database Name="cv" Series="32169" Issue="201796" />
@@ -1316,9 +1307,6 @@
 </Book>
 <Book Series="Terry-Toons Comics" Number="31" Volume="1942" Year="1945">
 <Database Name="cv" Series="948" Issue="91168" />
-</Book>
-<Book Series="Miss America Magazine" Number="2" Volume="1944" Year="1944">
-<Database Name="cv" Series="50116" Issue="130534" />
 </Book>
 <Book Series="Captain America Comics" Number="47" Volume="1941" Year="1945">
 <Database Name="cv" Series="1628" Issue="140227" />
@@ -1343,9 +1331,6 @@
 </Book>
 <Book Series="Marvel Mystery Comics" Number="64" Volume="1939" Year="1945">
 <Database Name="cv" Series="19137" Issue="135490" />
-</Book>
-<Book Series="Miss America Magazine" Number="3" Volume="1944" Year="1944">
-<Database Name="cv" Series="50116" Issue="188778" />
 </Book>
 <Book Series="Terry-Toons Comics" Number="32" Volume="1942" Year="1945">
 <Database Name="cv" Series="948" Issue="91169" />
@@ -1378,10 +1363,7 @@
 <Database Name="cv" Series="1062" Issue="141000" />
 </Book>
 <Book Series="Gay Comics" Number="20" Volume="1944" Year="1945">
-<Database Name="cv" Series="30453" Issue="92193" />
-</Book>
-<Book Series="Miss America Magazine" Number="4" Volume="1944" Year="1945">
-<Database Name="cv" Series="50116" Issue="188779" />
+<Database Name="cv" Series="1038" Issue="92193" />
 </Book>
 <Book Series="Comedy Comics" Number="28" Volume="1942" Year="1945">
 <Database Name="cv" Series="944" Issue="91704" />
@@ -1389,7 +1371,7 @@
 <Book Series="Comic Capers" Number="4" Volume="1944" Year="1945">
 <Database Name="cv" Series="1003" Issue="188264" />
 </Book>
-<Book Series="Comics For Kids" Number="2" Volume="1945" Year="1945">
+<Book Series="Comics for Kids" Number="2" Volume="1945" Year="1945">
 <Database Name="cv" Series="30503" Issue="187672" />
 </Book>
 <Book Series="Funny Frolics" Number="1" Volume="1945" Year="1945">
@@ -1419,9 +1401,6 @@
 <Book Series="Captain America Comics" Number="49" Volume="1941" Year="1945">
 <Database Name="cv" Series="1628" Issue="140014" />
 </Book>
-<Book Series="Miss America Magazine" Number="5" Volume="1944" Year="1945">
-<Database Name="cv" Series="50116" Issue="188780" />
-</Book>
 <Book Series="The Human Torch" Number="20" Volume="1940" Year="1945">
 <Database Name="cv" Series="832" Issue="135365" />
 </Book>
@@ -1446,11 +1425,8 @@
 <Book Series="Young Allies Comics" Number="17" Volume="1941" Year="1945">
 <Database Name="cv" Series="19571" Issue="139066" />
 </Book>
-<Book Series="Miss America Magazine" Number="6" Volume="1944" Year="1945">
-<Database Name="cv" Series="50116" Issue="188781" />
-</Book>
 <Book Series="Gay Comics" Number="21" Volume="1944" Year="1945">
-<Database Name="cv" Series="30453" Issue="92194" />
+<Database Name="cv" Series="1038" Issue="92194" />
 </Book>
 <Book Series="Joker Comics" Number="20" Volume="1942" Year="1945">
 <Database Name="cv" Series="27160" Issue="188415" />
@@ -1476,8 +1452,8 @@
 <Book Series="Comedy Comics" Number="29" Volume="1942" Year="1945">
 <Database Name="cv" Series="944" Issue="91705" />
 </Book>
-<Book Series="Ōoku: The Inner Chambers" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="30536" Issue="187859" />
+<Book Series="Dopey Duck Comics" Number="1" Volume="1945" Year="1945">
+<Database Name="cv" Series="30506" Issue="187687" />
 </Book>
 <Book Series="Funny Frolics" Number="2" Volume="1945" Year="1945">
 <Database Name="cv" Series="1056" Issue="92186" />
@@ -1525,7 +1501,7 @@
 <Database Name="cv" Series="19571" Issue="139067" />
 </Book>
 <Book Series="Gay Comics" Number="22" Volume="1944" Year="1945">
-<Database Name="cv" Series="30453" Issue="92195" />
+<Database Name="cv" Series="1038" Issue="92195" />
 </Book>
 <Book Series="Millie the Model" Number="1" Volume="1945" Year="1945">
 <Database Name="cv" Series="19441" Issue="125987" />
@@ -1600,7 +1576,7 @@
 <Database Name="cv" Series="19571" Issue="139064" />
 </Book>
 <Book Series="Gay Comics" Number="23" Volume="1944" Year="1946">
-<Database Name="cv" Series="30453" Issue="92196" />
+<Database Name="cv" Series="1038" Issue="92196" />
 </Book>
 <Book Series="Joker Comics" Number="22" Volume="1942" Year="1946">
 <Database Name="cv" Series="27160" Issue="188417" />
@@ -1626,8 +1602,8 @@
 <Book Series="Comic Capers" Number="5" Volume="1944" Year="1946">
 <Database Name="cv" Series="1003" Issue="91729" />
 </Book>
-<Book Series="Ōoku: The Inner Chambers" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="30536" Issue="187860" />
+<Book Series="Dopey Duck Comics" Number="2" Volume="1945" Year="1946">
+<Database Name="cv" Series="30506" Issue="187688" />
 </Book>
 <Book Series="Funny Frolics" Number="3" Volume="1945" Year="1946">
 <Database Name="cv" Series="1056" Issue="92187" />
@@ -1662,9 +1638,6 @@
 <Book Series="Marvel Mystery Comics" Number="72" Volume="1939" Year="1946">
 <Database Name="cv" Series="19137" Issue="118431" />
 </Book>
-<Book Series="Miss America Comics" Number="1" Volume="1944" Year="1944">
-<Database Name="cv" Series="50116" Issue="343551" />
-</Book>
 <Book Series="Krazy Komics" Number="22" Volume="1942" Year="1946">
 <Database Name="cv" Series="946" Issue="187383" />
 </Book>
@@ -1686,9 +1659,6 @@
 <Book Series="Joker Comics" Number="23" Volume="1942" Year="1946">
 <Database Name="cv" Series="27160" Issue="188418" />
 </Book>
-<Book Series="Miss America Magazine" Number="2" Volume="1944" Year="1944">
-<Database Name="cv" Series="50116" Issue="130534" />
-</Book>
 <Book Series="Patsy Walker" Number="5" Volume="1945" Year="1946">
 <Database Name="cv" Series="1062" Issue="141005" />
 </Book>
@@ -1709,9 +1679,6 @@
 </Book>
 <Book Series="Marvel Mystery Comics" Number="74" Volume="1939" Year="1946">
 <Database Name="cv" Series="19137" Issue="118429" />
-</Book>
-<Book Series="Miss America Magazine" Number="3" Volume="1944" Year="1944">
-<Database Name="cv" Series="50116" Issue="188778" />
 </Book>
 <Book Series="All Surprise Comics" Number="10" Volume="1943" Year="1946">
 <Database Name="cv" Series="972" Issue="56968" />
@@ -1741,13 +1708,10 @@
 <Database Name="cv" Series="20016" Issue="130038" />
 </Book>
 <Book Series="Gay Comics" Number="24" Volume="1944" Year="1946">
-<Database Name="cv" Series="30453" Issue="135463" />
+<Database Name="cv" Series="1038" Issue="135463" />
 </Book>
 <Book Series="Joker Comics" Number="24" Volume="1942" Year="1946">
 <Database Name="cv" Series="27160" Issue="188419" />
-</Book>
-<Book Series="Miss America Magazine" Number="4" Volume="1944" Year="1945">
-<Database Name="cv" Series="50116" Issue="188779" />
 </Book>
 <Book Series="Patsy Walker" Number="6" Volume="1945" Year="1946">
 <Database Name="cv" Series="1062" Issue="141004" />
@@ -1775,9 +1739,6 @@
 </Book>
 <Book Series="Sub-Mariner Comics" Number="21" Volume="1941" Year="1946">
 <Database Name="cv" Series="18548" Issue="110347" />
-</Book>
-<Book Series="Miss America Magazine" Number="5" Volume="1944" Year="1945">
-<Database Name="cv" Series="50116" Issue="188780" />
 </Book>
 <Book Series="Nellie the Nurse" Number="3" Volume="1945" Year="1946">
 <Database Name="cv" Series="1061" Issue="90547" />
@@ -1814,9 +1775,6 @@
 </Book>
 <Book Series="Millie the Model" Number="2" Volume="1945" Year="1946">
 <Database Name="cv" Series="19441" Issue="155815" />
-</Book>
-<Book Series="Miss America Magazine" Number="6" Volume="1944" Year="1945">
-<Database Name="cv" Series="50116" Issue="188781" />
 </Book>
 <Book Series="Patsy Walker" Number="7" Volume="1945" Year="1946">
 <Database Name="cv" Series="1062" Issue="141006" />
@@ -1861,7 +1819,7 @@
 <Database Name="cv" Series="19137" Issue="118425" />
 </Book>
 <Book Series="Gay Comics" Number="25" Volume="1944" Year="1946">
-<Database Name="cv" Series="30453" Issue="92197" />
+<Database Name="cv" Series="1038" Issue="92197" />
 </Book>
 <Book Series="Terry-Toons Comics" Number="50" Volume="1942" Year="1946">
 <Database Name="cv" Series="948" Issue="188677" />
@@ -1872,7 +1830,7 @@
 <Book Series="Funny Frolics" Number="5" Volume="1945" Year="1946">
 <Database Name="cv" Series="1056" Issue="92189" />
 </Book>
-<Book Series="Jack In The Box Comics" Number="12" Volume="1946" Year="0">
+<Book Series="Jack-In-The-Box Comics" Number="12" Volume="1946" Year="0">
 <Database Name="cv" Series="25767" Issue="243157" />
 </Book>
 <Book Series="Krazy Komics" Number="25" Volume="1942" Year="1946">
@@ -1929,7 +1887,7 @@
 <Book Series="Patsy Walker" Number="8" Volume="1945" Year="1946">
 <Database Name="cv" Series="1062" Issue="141007" />
 </Book>
-<Book Series="Blonde Phantom" Number="12" Volume="1946" Year="1946">
+<Book Series="Blonde Phantom Comics" Number="12" Volume="1946" Year="1946">
 <Database Name="cv" Series="19401" Issue="129581" />
 </Book>
 <Book Series="The Human Torch" Number="25" Volume="1940" Year="1946">
@@ -1966,7 +1924,7 @@
 <Database Name="cv" Series="1628" Issue="116383" />
 </Book>
 <Book Series="Gay Comics" Number="26" Volume="1944" Year="1946">
-<Database Name="cv" Series="30453" Issue="92198" />
+<Database Name="cv" Series="1038" Issue="92198" />
 </Book>
 <Book Series="Joker Comics" Number="26" Volume="1942" Year="1947">
 <Database Name="cv" Series="27160" Issue="165131" />
@@ -1980,7 +1938,7 @@
 <Book Series="Terry-Toons Comics" Number="53" Volume="1942" Year="1947">
 <Database Name="cv" Series="948" Issue="91185" />
 </Book>
-<Book Series="Blonde Phantom" Number="13" Volume="1946" Year="1947">
+<Book Series="Blonde Phantom Comics" Number="13" Volume="1946" Year="1947">
 <Database Name="cv" Series="19401" Issue="116233" />
 </Book>
 <Book Series="Krazy Komics" Number="26" Volume="1942" Year="1947">
@@ -2008,7 +1966,7 @@
 <Database Name="cv" Series="1111" Issue="90353" />
 </Book>
 <Book Series="Gay Comics" Number="27" Volume="1944" Year="1947">
-<Database Name="cv" Series="30453" Issue="92199" />
+<Database Name="cv" Series="1038" Issue="92199" />
 </Book>
 <Book Series="Georgie Comics" Number="10" Volume="1945" Year="1947">
 <Database Name="cv" Series="1057" Issue="187995" />
@@ -2046,13 +2004,10 @@
 <Book Series="Joker Comics" Number="27" Volume="1942" Year="1947">
 <Database Name="cv" Series="27160" Issue="188420" />
 </Book>
-<Book Series="Miss America Comics" Number="1" Volume="1944" Year="1944">
-<Database Name="cv" Series="21618" Issue="343551" />
-</Book>
 <Book Series="Terry-Toons Comics" Number="56" Volume="1942" Year="1947">
 <Database Name="cv" Series="948" Issue="91187" />
 </Book>
-<Book Series="Blonde Phantom" Number="14" Volume="1946" Year="1947">
+<Book Series="Blonde Phantom Comics" Number="14" Volume="1946" Year="1947">
 <Database Name="cv" Series="19401" Issue="135493" />
 </Book>
 <Book Series="Georgie Comics" Number="11" Volume="1945" Year="1947">
@@ -2063,9 +2018,6 @@
 </Book>
 <Book Series="Millie the Model" Number="6" Volume="1945" Year="1947">
 <Database Name="cv" Series="19441" Issue="161266" />
-</Book>
-<Book Series="Miss America Magazine" Number="2" Volume="1944" Year="1944">
-<Database Name="cv" Series="21618" Issue="130534" />
 </Book>
 <Book Series="Nellie the Nurse" Number="7" Volume="1945" Year="1947">
 <Database Name="cv" Series="1061" Issue="90550" />
@@ -2091,7 +2043,7 @@
 <Book Series="Sub-Mariner Comics" Number="23" Volume="1941" Year="1947">
 <Database Name="cv" Series="18548" Issue="110394" />
 </Book>
-<Book Series="Oscar Comics" Number="1 [24]" Volume="1947" Year="1947">
+<Book Series="Bessatsu Big Comic" Number="1 [24]" Volume="1971" Year="1947">
 <Database Name="cv" Series="1146" Issue="95461" />
 </Book>
 <Book Series="Jeanie Comics" Number="14" Volume="1947" Year="1947">
@@ -2100,16 +2052,13 @@
 <Book Series="Junior Miss" Number="25" Volume="1947" Year="1947">
 <Database Name="cv" Series="10750" Issue="90901" />
 </Book>
-<Book Series="Miss America Magazine" Number="3" Volume="1944" Year="1944">
-<Database Name="cv" Series="21618" Issue="188778" />
-</Book>
 <Book Series="Frankie Comics" Number="6" Volume="1946" Year="1947">
 <Database Name="cv" Series="1111" Issue="90354" />
 </Book>
 <Book Series="Joker Comics" Number="28" Volume="1942" Year="1947">
 <Database Name="cv" Series="27160" Issue="165132" />
 </Book>
-<Book Series="Oscar Comics" Number="2 [25]" Volume="1947" Year="1947">
+<Book Series="Bessatsu Big Comic" Number="2 [25]" Volume="1971" Year="1947">
 <Database Name="cv" Series="1146" Issue="95462" />
 </Book>
 <Book Series="Teen Comics" Number="22" Volume="1947" Year="1947">
@@ -2128,7 +2077,7 @@
 <Database Name="cv" Series="1628" Issue="116384" />
 </Book>
 <Book Series="Gay Comics" Number="28" Volume="1944" Year="1947">
-<Database Name="cv" Series="30453" Issue="92200" />
+<Database Name="cv" Series="1038" Issue="92200" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="22" Volume="1947" Year="1947">
 <Database Name="cv" Series="1142" Issue="187936" />
@@ -2151,7 +2100,7 @@
 <Book Series="The Human Torch" Number="28" Volume="1940" Year="1947">
 <Database Name="cv" Series="832" Issue="166039" />
 </Book>
-<Book Series="Blackstone The Magician" Number="1" Volume="1947" Year="1947">
+<Book Series="Blackstone the Magician" Number="1" Volume="1947" Year="1947">
 <Database Name="cv" Series="18938" Issue="112000" />
 </Book>
 <Book Series="Georgie Comics" Number="12" Volume="1945" Year="1947">
@@ -2166,7 +2115,7 @@
 <Book Series="Patsy Walker" Number="12" Volume="1945" Year="1947">
 <Database Name="cv" Series="1062" Issue="73620" />
 </Book>
-<Book Series="Blonde Phantom" Number="15" Volume="1946" Year="1947">
+<Book Series="Blonde Phantom Comics" Number="15" Volume="1946" Year="1947">
 <Database Name="cv" Series="19401" Issue="135500" />
 </Book>
 <Book Series="Cindy Comics" Number="27" Volume="1947" Year="1947">
@@ -2178,7 +2127,7 @@
 <Book Series="Joker Comics" Number="29" Volume="1942" Year="1947">
 <Database Name="cv" Series="27160" Issue="188421" />
 </Book>
-<Book Series="Oscar Comics" Number="3" Volume="1947" Year="1947">
+<Book Series="Bessatsu Big Comic" Number="3" Volume="1971" Year="1947">
 <Database Name="cv" Series="1146" Issue="187356" />
 </Book>
 <Book Series="Zoo Funnies" Number="12" Volume="1945" Year="0">
@@ -2211,11 +2160,11 @@
 <Book Series="Willie Comics" Number="10" Volume="1946" Year="1947">
 <Database Name="cv" Series="1117" Issue="91017" />
 </Book>
-<Book Series="Blonde Phantom" Number="16" Volume="1946" Year="1947">
+<Book Series="Blonde Phantom Comics" Number="16" Volume="1946" Year="1947">
 <Database Name="cv" Series="19401" Issue="135499" />
 </Book>
 <Book Series="Gay Comics" Number="29" Volume="1944" Year="1947">
-<Database Name="cv" Series="30453" Issue="92201" />
+<Database Name="cv" Series="1038" Issue="92201" />
 </Book>
 <Book Series="Georgie Comics" Number="13" Volume="1945" Year="1947">
 <Database Name="cv" Series="1057" Issue="90766" />
@@ -2225,9 +2174,6 @@
 </Book>
 <Book Series="Junior Miss" Number="27" Volume="1947" Year="1947">
 <Database Name="cv" Series="10750" Issue="90903" />
-</Book>
-<Book Series="Miss America Magazine" Number="4" Volume="1944" Year="1945">
-<Database Name="cv" Series="21618" Issue="188779" />
 </Book>
 <Book Series="Patsy Walker" Number="13" Volume="1945" Year="1947">
 <Database Name="cv" Series="1062" Issue="73621" />
@@ -2247,9 +2193,6 @@
 <Book Series="Millie the Model" Number="9" Volume="1945" Year="1947">
 <Database Name="cv" Series="19441" Issue="161269" />
 </Book>
-<Book Series="Miss America Magazine" Number="5" Volume="1944" Year="1945">
-<Database Name="cv" Series="21618" Issue="188780" />
-</Book>
 <Book Series="Nellie the Nurse" Number="10" Volume="1945" Year="1947">
 <Database Name="cv" Series="1061" Issue="90553" />
 </Book>
@@ -2265,11 +2208,11 @@
 <Book Series="Frankie Comics" Number="8" Volume="1946" Year="1947">
 <Database Name="cv" Series="1111" Issue="90356" />
 </Book>
-<Book Series="Oscar Comics" Number="4" Volume="1947" Year="1947">
+<Book Series="Bessatsu Big Comic" Number="4" Volume="1971" Year="1947">
 <Database Name="cv" Series="1146" Issue="187357" />
 </Book>
 <Book Series="Gay Comics" Number="30" Volume="1944" Year="1947">
-<Database Name="cv" Series="30453" Issue="92202" />
+<Database Name="cv" Series="1038" Issue="92202" />
 </Book>
 <Book Series="Joker Comics" Number="30" Volume="1942" Year="1947">
 <Database Name="cv" Series="27160" Issue="165133" />
@@ -2292,14 +2235,11 @@
 <Book Series="Junior Miss" Number="28" Volume="1947" Year="1948">
 <Database Name="cv" Series="10750" Issue="90904" />
 </Book>
-<Book Series="Miss America Magazine" Number="6" Volume="1944" Year="1945">
-<Database Name="cv" Series="21618" Issue="188781" />
-</Book>
 <Book Series="Patsy Walker" Number="14" Volume="1945" Year="1948">
 <Database Name="cv" Series="1062" Issue="73622" />
 </Book>
-<Book Series="All True Crime Cases Comics" Number="" Volume="1948" Year="0">
-<Database Name="cv" Series="20014" Issue="119484" />
+<Book Series="All True Crime Cases Comics" Number="26" Volume="1948" Year="1948">
+<Database Name="cv" Series="20014" Issue="349710" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="25" Volume="1947" Year="1948">
 <Database Name="cv" Series="1142" Issue="90814" />
@@ -2340,7 +2280,7 @@
 <Book Series="Patsy Walker" Number="15" Volume="1945" Year="1948">
 <Database Name="cv" Series="1062" Issue="73623" />
 </Book>
-<Book Series="Blonde Phantom" Number="17" Volume="1946" Year="1948">
+<Book Series="Blonde Phantom Comics" Number="17" Volume="1946" Year="1948">
 <Database Name="cv" Series="19401" Issue="135497" />
 </Book>
 <Book Series="Lawbreakers Always Lose" Number="1" Volume="1948" Year="1948">
@@ -2353,7 +2293,7 @@
 <Database Name="cv" Series="22232" Issue="133626" />
 </Book>
 <Book Series="Gay Comics" Number="31" Volume="1944" Year="1948">
-<Database Name="cv" Series="30453" Issue="135462" />
+<Database Name="cv" Series="1038" Issue="135462" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="26" Volume="1947" Year="1948">
 <Database Name="cv" Series="1142" Issue="90815" />
@@ -2388,13 +2328,10 @@
 <Book Series="Joker Comics" Number="31" Volume="1942" Year="1948">
 <Database Name="cv" Series="27160" Issue="188422" />
 </Book>
-<Book Series="Junior Miss" Number="29" Volume="1947" Year="1948">
-<Database Name="cv" Series="10750" Issue="90905" />
-</Book>
 <Book Series="Teen Comics" Number="25" Volume="1947" Year="1948">
 <Database Name="cv" Series="1148" Issue="57330" />
 </Book>
-<Book Series="Blackstone The Magician" Number="2" Volume="1947" Year="1948">
+<Book Series="Blackstone the Magician" Number="2" Volume="1947" Year="1948">
 <Database Name="cv" Series="18938" Issue="188867" />
 </Book>
 <Book Series="The Human Torch" Number="30" Volume="1940" Year="1948">
@@ -2440,10 +2377,13 @@
 <Database Name="cv" Series="1141" Issue="90605" />
 </Book>
 <Book Series="Gay Comics" Number="32" Volume="1944" Year="1948">
-<Database Name="cv" Series="30453" Issue="92203" />
+<Database Name="cv" Series="1038" Issue="92203" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="27" Volume="1947" Year="1948">
 <Database Name="cv" Series="1142" Issue="90816" />
+</Book>
+<Book Series="Junior Miss" Number="29" Volume="1947" Year="1948">
+<Database Name="cv" Series="10750" Issue="90905" />
 </Book>
 <Book Series="Margie Comics" Number="41" Volume="1946" Year="1948">
 <Database Name="cv" Series="1113" Issue="95137" />
@@ -2460,7 +2400,7 @@
 <Book Series="Nellie the Nurse" Number="13" Volume="1945" Year="1948">
 <Database Name="cv" Series="1061" Issue="90556" />
 </Book>
-<Book Series="Oscar Comics" Number="5" Volume="1947" Year="1948">
+<Book Series="Bessatsu Big Comic" Number="5" Volume="1971" Year="1948">
 <Database Name="cv" Series="1146" Issue="187358" />
 </Book>
 <Book Series="Tessie the Typist" Number="16" Volume="1944" Year="1948">
@@ -2472,7 +2412,7 @@
 <Book Series="Ideal" Number="1" Volume="1948" Year="1948">
 <Database Name="cv" Series="12039" Issue="104808" />
 </Book>
-<Book Series="Blackstone The Magician" Number="3" Volume="1947" Year="1948">
+<Book Series="Blackstone the Magician" Number="3" Volume="1947" Year="1948">
 <Database Name="cv" Series="18938" Issue="116227" />
 </Book>
 <Book Series="Junior Miss" Number="30" Volume="1947" Year="1948">
@@ -2484,7 +2424,7 @@
 <Book Series="The Human Torch" Number="31" Volume="1940" Year="1948">
 <Database Name="cv" Series="832" Issue="135361" />
 </Book>
-<Book Series="Blonde Phantom" Number="18" Volume="1946" Year="1948">
+<Book Series="Blonde Phantom Comics" Number="18" Volume="1946" Year="1948">
 <Database Name="cv" Series="19401" Issue="135498" />
 </Book>
 <Book Series="Wild West" Number="2" Volume="1948" Year="1948">
@@ -2557,7 +2497,7 @@
 <Database Name="cv" Series="1111" Issue="90358" />
 </Book>
 <Book Series="Gay Comics" Number="33" Volume="1944" Year="1948">
-<Database Name="cv" Series="30453" Issue="92204" />
+<Database Name="cv" Series="1038" Issue="92204" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="28" Volume="1947" Year="1948">
 <Database Name="cv" Series="1142" Issue="90817" />
@@ -2583,7 +2523,7 @@
 <Book Series="Nellie the Nurse" Number="14" Volume="1945" Year="1948">
 <Database Name="cv" Series="1061" Issue="90557" />
 </Book>
-<Book Series="Oscar Comics" Number="6" Volume="1947" Year="1948">
+<Book Series="Bessatsu Big Comic" Number="6" Volume="1971" Year="1948">
 <Database Name="cv" Series="1146" Issue="187359" />
 </Book>
 <Book Series="Rusty Comics" Number="18" Volume="1947" Year="1948">
@@ -2598,7 +2538,7 @@
 <Book Series="Wacky Duck" Number="1" Volume="1948" Year="1948">
 <Database Name="cv" Series="1211" Issue="57672" />
 </Book>
-<Book Series="Blackstone The Magician" Number="4" Volume="1947" Year="1948">
+<Book Series="Blackstone the Magician" Number="4" Volume="1947" Year="1948">
 <Database Name="cv" Series="18938" Issue="188868" />
 </Book>
 <Book Series="Captain America Comics" Number="68" Volume="1941" Year="1948">
@@ -2607,7 +2547,7 @@
 <Book Series="The Human Torch" Number="32" Volume="1940" Year="1948">
 <Database Name="cv" Series="832" Issue="135360" />
 </Book>
-<Book Series="Blonde Phantom" Number="19" Volume="1946" Year="1948">
+<Book Series="Blonde Phantom Comics" Number="19" Volume="1946" Year="1948">
 <Database Name="cv" Series="19401" Issue="116419" />
 </Book>
 <Book Series="Blaze Carson" Number="1" Volume="1948" Year="1948">
@@ -2677,7 +2617,7 @@
 <Database Name="cv" Series="1111" Issue="90359" />
 </Book>
 <Book Series="Gay Comics" Number="34" Volume="1944" Year="1948">
-<Database Name="cv" Series="30453" Issue="92205" />
+<Database Name="cv" Series="1038" Issue="92205" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="29" Volume="1947" Year="1948">
 <Database Name="cv" Series="1142" Issue="90818" />
@@ -2700,7 +2640,7 @@
 <Book Series="Nellie the Nurse" Number="15" Volume="1945" Year="1948">
 <Database Name="cv" Series="1061" Issue="188598" />
 </Book>
-<Book Series="Oscar Comics" Number="7" Volume="1947" Year="1948">
+<Book Series="Bessatsu Big Comic" Number="7" Volume="1971" Year="1948">
 <Database Name="cv" Series="1146" Issue="187360" />
 </Book>
 <Book Series="Tessie the Typist" Number="18" Volume="1944" Year="1948">
@@ -2715,7 +2655,7 @@
 <Book Series="The Human Torch" Number="33" Volume="1940" Year="1948">
 <Database Name="cv" Series="832" Issue="135359" />
 </Book>
-<Book Series="Blonde Phantom" Number="20" Volume="1946" Year="1948">
+<Book Series="Blonde Phantom Comics" Number="20" Volume="1946" Year="1948">
 <Database Name="cv" Series="19401" Issue="135496" />
 </Book>
 <Book Series="Captain America Comics" Number="69" Volume="1941" Year="1948">
@@ -2799,11 +2739,11 @@
 <Book Series="Cindy Comics" Number="32" Volume="1947" Year="1948">
 <Database Name="cv" Series="1141" Issue="90608" />
 </Book>
-<Book Series="Frankie And Lana" Number="12" Volume="1948" Year="1948">
+<Book Series="Frankie and Lana Comics" Number="12" Volume="1948" Year="1948">
 <Database Name="cv" Series="1197" Issue="90360" />
 </Book>
 <Book Series="Gay Comics" Number="35" Volume="1944" Year="1948">
-<Database Name="cv" Series="30453" Issue="92206" />
+<Database Name="cv" Series="1038" Issue="92206" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="30" Volume="1947" Year="1948">
 <Database Name="cv" Series="1142" Issue="187938" />
@@ -2826,7 +2766,7 @@
 <Book Series="Nellie the Nurse" Number="16" Volume="1945" Year="1948">
 <Database Name="cv" Series="1061" Issue="90558" />
 </Book>
-<Book Series="Oscar Comics" Number="8" Volume="1947" Year="1948">
+<Book Series="Bessatsu Big Comic" Number="8" Volume="1971" Year="1948">
 <Database Name="cv" Series="1146" Issue="187361" />
 </Book>
 <Book Series="Tessie the Typist" Number="19" Volume="1944" Year="1948">
@@ -2847,7 +2787,7 @@
 <Book Series="The Human Torch" Number="34" Volume="1940" Year="1949">
 <Database Name="cv" Series="832" Issue="135352" />
 </Book>
-<Book Series="Blonde Phantom" Number="21" Volume="1946" Year="1949">
+<Book Series="Blonde Phantom Comics" Number="21" Volume="1946" Year="1949">
 <Database Name="cv" Series="19401" Issue="135495" />
 </Book>
 <Book Series="Blaze Carson" Number="3" Volume="1948" Year="1949">
@@ -2862,7 +2802,7 @@
 <Book Series="Comedy Comics" Number="5" Volume="1948" Year="1949">
 <Database Name="cv" Series="27168" Issue="188380" />
 </Book>
-<Book Series="Georgie And Judy Comics" Number="20" Volume="1949" Year="1949">
+<Book Series="Georgie and Judy Comics" Number="20" Volume="1949" Year="1949">
 <Database Name="cv" Series="1266" Issue="90785" />
 </Book>
 <Book Series="Jeanie Comics" Number="23" Volume="1947" Year="1949">
@@ -2907,14 +2847,14 @@
 <Book Series="Cindy Comics" Number="33" Volume="1947" Year="1949">
 <Database Name="cv" Series="1141" Issue="90609" />
 </Book>
-<Book Series="Georgie And Judy Comics" Number="21" Volume="1949" Year="1949">
+<Book Series="Georgie and Judy Comics" Number="21" Volume="1949" Year="1949">
 <Database Name="cv" Series="1266" Issue="90786" />
 </Book>
-<Book Series="Frankie And Lana" Number="13" Volume="1948" Year="1949">
+<Book Series="Frankie and Lana Comics" Number="13" Volume="1948" Year="1949">
 <Database Name="cv" Series="1197" Issue="90361" />
 </Book>
 <Book Series="Gay Comics" Number="36" Volume="1944" Year="1949">
-<Database Name="cv" Series="30453" Issue="92207" />
+<Database Name="cv" Series="1038" Issue="92207" />
 </Book>
 <Book Series="Hedy De Vine Comics" Number="31" Volume="1947" Year="1949">
 <Database Name="cv" Series="1142" Issue="90819" />
@@ -2937,13 +2877,13 @@
 <Book Series="Tessie the Typist" Number="20" Volume="1944" Year="1949">
 <Database Name="cv" Series="1012" Issue="91140" />
 </Book>
-<Book Series="Oscar Comics" Number="9" Volume="1947" Year="1949">
+<Book Series="Bessatsu Big Comic" Number="9" Volume="1971" Year="1949">
 <Database Name="cv" Series="1146" Issue="187362" />
 </Book>
 <Book Series="The Human Torch" Number="35" Volume="1940" Year="1949">
 <Database Name="cv" Series="832" Issue="135354" />
 </Book>
-<Book Series="Blonde Phantom" Number="22" Volume="1946" Year="1949">
+<Book Series="Blonde Phantom Comics" Number="22" Volume="1946" Year="1949">
 <Database Name="cv" Series="19401" Issue="135494" />
 </Book>
 <Book Series="Captain America Comics" Number="71" Volume="1941" Year="1949">
@@ -3002,6 +2942,60 @@
 </Book>
 <Book Series="Cindy Comics" Number="34" Volume="1947" Year="1949">
 <Database Name="cv" Series="1141" Issue="90610" />
+</Book>
+<Book Series="Gay Comics" Number="37" Volume="1944" Year="1949">
+<Database Name="cv" Series="1038" Issue="92208" />
+</Book>
+<Book Series="Hedy De Vine Comics" Number="32" Volume="1947" Year="1949">
+<Database Name="cv" Series="1142" Issue="90820" />
+</Book>
+<Book Series="Lana" Number="5" Volume="1948" Year="1949">
+<Database Name="cv" Series="1201" Issue="94918" />
+</Book>
+<Book Series="Margie Comics" Number="46" Volume="1946" Year="1949">
+<Database Name="cv" Series="1113" Issue="95141" />
+</Book>
+<Book Series="Millie the Model" Number="17" Volume="1945" Year="1949">
+<Database Name="cv" Series="19441" Issue="161274" />
+</Book>
+<Book Series="Miss America Magazine" Number="21" Volume="1944" Year="1946">
+<Database Name="cv" Series="21618" Issue="188796" />
+</Book>
+<Book Series="Mitzi's Boy Friend" Number="7" Volume="1948" Year="1949">
+<Database Name="cv" Series="30574" Issue="188554" />
+</Book>
+<Book Series="Nellie the Nurse" Number="18" Volume="1945" Year="1949">
+<Database Name="cv" Series="1061" Issue="90560" />
+</Book>
+<Book Series="Tessie the Typist" Number="21" Volume="1944" Year="1949">
+<Database Name="cv" Series="1012" Issue="188058" />
+</Book>
+<Book Series="Amazing Mysteries" Number="32" Volume="1949" Year="1949">
+<Database Name="cv" Series="21608" Issue="130521" />
+</Book>
+<Book Series="Captain America Comics" Number="72" Volume="1941" Year="1949">
+<Database Name="cv" Series="1628" Issue="140219" />
+</Book>
+<Book Series="Kid Colt Outlaw" Number="5" Volume="1949" Year="1949">
+<Database Name="cv" Series="1199" Issue="98550" />
+</Book>
+<Book Series="Tex Taylor" Number="5" Volume="1948" Year="1949">
+<Database Name="cv" Series="30586" Issue="188695" />
+</Book>
+<Book Series="Tim Holt" Number="6" Volume="1948" Year="1949">
+<Database Name="cv" Series="1223" Issue="98470" />
+</Book>
+<Book Series="Wild Western" Number="7" Volume="1948" Year="1949">
+<Database Name="cv" Series="1213" Issue="188732" />
+</Book>
+<Book Series="Comedy Comics" Number="7" Volume="1948" Year="1949">
+<Database Name="cv" Series="27168" Issue="188382" />
+</Book>
+<Book Series="Georgie and Judy Comics" Number="22" Volume="1949" Year="1949">
+<Database Name="cv" Series="1266" Issue="188869" />
+</Book>
+<Book Series="Jeanie Comics" Number="25" Volume="1947" Year="1949">
+<Database Name="cv" Series="1143" Issue="93087" />
 </Book>
 </Books>
 <Matchers />

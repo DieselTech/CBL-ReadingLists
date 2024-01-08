@@ -3,6 +3,15 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 09</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="X-Factor" Number="71" Volume="1986" Year="1991">
+<Database Name="cv" Series="3657" Issue="34782" />
+</Book>
+<Book Series="X-Factor" Number="72" Volume="1986" Year="1991">
+<Database Name="cv" Series="3657" Issue="34898" />
+</Book>
+<Book Series="X-Factor" Number="73" Volume="1986" Year="1991">
+<Database Name="cv" Series="3657" Issue="35017" />
+</Book>
 <Book Series="X-Factor" Number="74" Volume="1986" Year="1992">
 <Database Name="cv" Series="3657" Issue="35274" />
 </Book>
@@ -405,9 +414,6 @@
 <Book Series="The Amazing Spider-Man" Number="360" Volume="1963" Year="1992">
 <Database Name="cv" Series="2127" Issue="64493" />
 </Book>
-<Book Series="Marvel Super-Heroes Annual" Number="1991" Volume="1978" Year="0">
-<Database Name="cv" Series="50731" Issue="364829" />
-</Book>
 <Book Series="Fantastic Four" Number="357" Volume="1961" Year="1991">
 <Database Name="cv" Series="2045" Issue="77535" />
 </Book>
@@ -473,9 +479,6 @@
 </Book>
 <Book Series="Deathlok" Number="8" Volume="1991" Year="1992">
 <Database Name="cv" Series="4589" Issue="116626" />
-</Book>
-<Book Series="Marvel Super-Heroes Annual" Number="1992" Volume="1978" Year="0">
-<Database Name="cv" Series="50731" Issue="364830" />
 </Book>
 <Book Series="Marvel Super-Heroes Annual" Number="1992" Volume="1978" Year="0">
 <Database Name="cv" Series="50731" Issue="364830" />
@@ -726,6 +729,9 @@
 <Book Series="Knights of Pendragon" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="21071" Issue="126358" />
 </Book>
+<Book Series="Overkill" Number="5" Volume="1992" Year="1992">
+<Database Name="cv" Series="23464" Issue="157566" />
+</Book>
 <Book Series="Knights of Pendragon" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="21071" Issue="126359" />
 </Book>
@@ -911,6 +917,18 @@
 </Book>
 <Book Series="Excalibur" Number="50" Volume="1988" Year="1992">
 <Database Name="cv" Series="4052" Issue="35676" />
+</Book>
+<Book Series="Death's Head II" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="19186" Issue="114879" />
+</Book>
+<Book Series="Death's Head II" Number="2" Volume="1992" Year="1992">
+<Database Name="cv" Series="19186" Issue="114881" />
+</Book>
+<Book Series="Death's Head II" Number="3" Volume="1992" Year="1992">
+<Database Name="cv" Series="19186" Issue="114883" />
+</Book>
+<Book Series="Death's Head II" Number="4" Volume="1992" Year="1992">
+<Database Name="cv" Series="19186" Issue="114884" />
 </Book>
 <Book Series="The New Warriors" Number="18" Volume="1990" Year="1991">
 <Database Name="cv" Series="4407" Issue="35005" />
@@ -1719,7 +1737,7 @@
 <Book Series="X-Factor" Number="81" Volume="1986" Year="1992">
 <Database Name="cv" Series="3657" Issue="36035" />
 </Book>
-<Book Series="Spider-Man/Dr. Strange: The Way to Dusty Death" Number="1" Volume="1992" Year="1992">
+<Book Series="Spider-Man/Dr. Strange: "The Way to Dusty Death"" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="31408" Issue="195705" />
 </Book>
 <Book Series="The Punisher" Number="72" Volume="1987" Year="1992">
@@ -2978,30 +2996,6 @@
 </Book>
 <Book Series="Quasar" Number="46" Volume="1989" Year="1993">
 <Database Name="cv" Series="4242" Issue="37232" />
-</Book>
-<Book Series="The New Warriors" Number="32" Volume="1990" Year="1993">
-<Database Name="cv" Series="4407" Issue="70228" />
-</Book>
-<Book Series="The New Warriors" Number="33" Volume="1990" Year="1993">
-<Database Name="cv" Series="4407" Issue="70229" />
-</Book>
-<Book Series="The New Warriors" Number="34" Volume="1990" Year="1993">
-<Database Name="cv" Series="4407" Issue="70230" />
-</Book>
-<Book Series="The New Warriors Annual" Number="3" Volume="1991" Year="1993">
-<Database Name="cv" Series="11874" Issue="103925" />
-</Book>
-<Book Series="Quasar" Number="47" Volume="1989" Year="1993">
-<Database Name="cv" Series="4242" Issue="37369" />
-</Book>
-<Book Series="Quasar" Number="48" Volume="1989" Year="1993">
-<Database Name="cv" Series="4242" Issue="37523" />
-</Book>
-<Book Series="Quasar" Number="49" Volume="1989" Year="1993">
-<Database Name="cv" Series="4242" Issue="37664" />
-</Book>
-<Book Series="Quasar" Number="50" Volume="1989" Year="1993">
-<Database Name="cv" Series="4242" Issue="37803" />
 </Book>
 </Books>
 <Matchers />
