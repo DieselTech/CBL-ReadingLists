@@ -3,6 +3,84 @@
 <Name>[Marvel] CMRO Core Reading Order-Part 21</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="Ms. Marvel" Number="8" Volume="2015" Year="2016">
+<Database Name="cv" Series="86114" Issue="537240" />
+</Book>
+<Book Series="Ms. Marvel" Number="9" Volume="2015" Year="2016">
+<Database Name="cv" Series="86114" Issue="541214" />
+</Book>
+<Book Series="Ms. Marvel" Number="10" Volume="2015" Year="2016">
+<Database Name="cv" Series="86114" Issue="547287" />
+</Book>
+<Book Series="Ms. Marvel" Number="11" Volume="2015" Year="2016">
+<Database Name="cv" Series="86114" Issue="551310" />
+</Book>
+<Book Series="Civil War II: Kingpin" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="92020" Issue="538503" />
+</Book>
+<Book Series="Civil War II: Kingpin" Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="92020" Issue="542616" />
+</Book>
+<Book Series="Civil War II: Kingpin" Number="3" Volume="2016" Year="2016">
+<Database Name="cv" Series="92020" Issue="551300" />
+</Book>
+<Book Series="Civil War II: Kingpin" Number="4" Volume="2016" Year="2016">
+<Database Name="cv" Series="92020" Issue="553951" />
+</Book>
+<Book Series="All-New Wolverine" Number="8" Volume="2015" Year="2016">
+<Database Name="cv" Series="85930" Issue="530722" />
+</Book>
+<Book Series="All-New Wolverine" Number="9" Volume="2015" Year="2016">
+<Database Name="cv" Series="85930" Issue="533025" />
+</Book>
+<Book Series="All-New Wolverine" Number="10" Volume="2015" Year="2016">
+<Database Name="cv" Series="85930" Issue="540068" />
+</Book>
+<Book Series="All-New Wolverine" Number="11" Volume="2015" Year="2016">
+<Database Name="cv" Series="85930" Issue="544978" />
+</Book>
+<Book Series="All-New Wolverine" Number="12" Volume="2015" Year="2016">
+<Database Name="cv" Series="85930" Issue="550343" />
+</Book>
+<Book Series="Civil War II: X-Men" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="91275" Issue="535351" />
+</Book>
+<Book Series="Civil War II: X-Men" Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="91275" Issue="538504" />
+</Book>
+<Book Series="Civil War II: X-Men" Number="3" Volume="2016" Year="2016">
+<Database Name="cv" Series="91275" Issue="544984" />
+</Book>
+<Book Series="Civil War II: X-Men" Number="4" Volume="2016" Year="2016">
+<Database Name="cv" Series="91275" Issue="550353" />
+</Book>
+<Book Series="The Accused" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="92945" Issue="543739" />
+</Book>
+<Book Series="New Avengers" Number="13" Volume="2015" Year="2016">
+<Database Name="cv" Series="85301" Issue="539247" />
+</Book>
+<Book Series="New Avengers" Number="14" Volume="2015" Year="2016">
+<Database Name="cv" Series="85301" Issue="541215" />
+</Book>
+<Book Series="New Avengers" Number="15" Volume="2015" Year="2016">
+<Database Name="cv" Series="85301" Issue="546062" />
+</Book>
+<Book Series="New Avengers" Number="16" Volume="2015" Year="2016">
+<Database Name="cv" Series="85301" Issue="551311" />
+</Book>
+<Book Series="New Avengers" Number="17" Volume="2015" Year="2016">
+<Database Name="cv" Series="85301" Issue="555533" />
+</Book>
+<Book Series="Power Man and Iron Fist" Number="7" Volume="2016" Year="2016">
+<Database Name="cv" Series="88214" Issue="544991" />
+</Book>
+<Book Series="Power Man and Iron Fist" Number="8" Volume="2016" Year="2016">
+<Database Name="cv" Series="88214" Issue="550367" />
+</Book>
+<Book Series="Power Man and Iron Fist" Number="9" Volume="2016" Year="2016">
+<Database Name="cv" Series="88214" Issue="553018" />
+</Book>
 <Book Series="Mockingbird" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="88764" Issue="544989" />
 </Book>
@@ -105,6 +183,12 @@
 <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2016" Year="2017">
 <Database Name="cv" Series="95808" Issue="558953" />
 </Book>
+<Book Series="Deadpool &#38; The Mercs For Money" Number="4" Volume="2016" Year="2016">
+<Database Name="cv" Series="92360" Issue="552156" />
+</Book>
+<Book Series="Deadpool &#38; The Mercs For Money" Number="5" Volume="2016" Year="2017">
+<Database Name="cv" Series="92360" Issue="556470" />
+</Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="569328" />
 </Book>
@@ -176,6 +260,9 @@
 </Book>
 <Book Series="Doctor Strange: Last Days of Magic" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="89927" Issue="527139" />
+</Book>
+<Book Series="Doctor Strange" Number="7" Volume="2015" Year="2016">
+<Database Name="cv" Series="85094" Issue="527138" />
 </Book>
 <Book Series="Deadpool: Last Days of Magic" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="90523" Issue="530726" />
@@ -798,6 +885,9 @@
 <Book Series="Uncanny Inhumans" Number="15" Volume="2015" Year="2017">
 <Database Name="cv" Series="81092" Issue="558427" />
 </Book>
+<Book Series="Uncanny Inhumans" Number="16" Volume="2015" Year="2017">
+<Database Name="cv" Series="81092" Issue="562608" />
+</Book>
 <Book Series="Uncanny Inhumans" Number="17" Volume="2015" Year="2017">
 <Database Name="cv" Series="81092" Issue="571693" />
 </Book>
@@ -1284,6 +1374,24 @@
 <Book Series="Spider-Man" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="87820" Issue="612050" />
 </Book>
+<Book Series="The Immortal Iron Fists" Number="1" Volume="2017" Year="2017">
+<Database Name="cv" Series="103011" Issue="610017" />
+</Book>
+<Book Series="The Immortal Iron Fists" Number="2" Volume="2017" Year="2017">
+<Database Name="cv" Series="103011" Issue="613792" />
+</Book>
+<Book Series="The Immortal Iron Fists" Number="3" Volume="2017" Year="2017">
+<Database Name="cv" Series="103011" Issue="616195" />
+</Book>
+<Book Series="The Immortal Iron Fists" Number="4" Volume="2017" Year="2017">
+<Database Name="cv" Series="103011" Issue="621667" />
+</Book>
+<Book Series="The Immortal Iron Fists" Number="5" Volume="2017" Year="2017">
+<Database Name="cv" Series="103011" Issue="625310" />
+</Book>
+<Book Series="The Immortal Iron Fists" Number="6" Volume="2017" Year="2017">
+<Database Name="cv" Series="103011" Issue="628582" />
+</Book>
 <Book Series="Old Man Logan" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="87624" Issue="591764" />
 </Book>
@@ -1347,6 +1455,9 @@
 <Book Series="Infamous Iron Man" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="95016" Issue="625312" />
 </Book>
+<Book Series="Free Comic Book Day 2017 (All-New Guardians of the Galaxy)" Number="1" Volume="2017" Year="2017">
+<Database Name="cv" Series="101264" Issue="594539" />
+</Book>
 <Book Series="The Totally Awesome Hulk" Number="13" Volume="2015" Year="2017">
 <Database Name="cv" Series="86408" Issue="566725" />
 </Book>
@@ -1397,6 +1508,9 @@
 </Book>
 <Book Series="Spider-Man 2099" Number="19" Volume="2015" Year="2017">
 <Database Name="cv" Series="85312" Issue="574876" />
+</Book>
+<Book Series="Spider-Man 2099" Number="20" Volume="2015" Year="2017">
+<Database Name="cv" Series="85312" Issue="579323" />
 </Book>
 <Book Series="Spider-Man 2099" Number="21" Volume="2015" Year="2017">
 <Database Name="cv" Series="85312" Issue="583729" />
@@ -1496,6 +1610,9 @@
 </Book>
 <Book Series="Inhumans Prime" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="100372" Issue="589831" />
+</Book>
+<Book Series="Royals" Number="1" Volume="2017" Year="2017">
+<Database Name="cv" Series="100590" Issue="590802" />
 </Book>
 <Book Series="Royals" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="100590" Issue="592607" />
@@ -1746,6 +1863,9 @@
 <Book Series="Rocket" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="101410" Issue="599871" />
 </Book>
+<Book Series="Rocket" Number="3" Volume="2017" Year="2017">
+<Database Name="cv" Series="101410" Issue="608253" />
+</Book>
 <Book Series="Rocket" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="101410" Issue="613800" />
 </Book>
@@ -1784,6 +1904,9 @@
 </Book>
 <Book Series="Doctor Strange and the Sorcerers Supreme" Number="9" Volume="2016" Year="2017">
 <Database Name="cv" Series="95211" Issue="605111" />
+</Book>
+<Book Series="Doctor Strange and the Sorcerers Supreme" Number="10" Volume="2016" Year="2017">
+<Database Name="cv" Series="95211" Issue="608243" />
 </Book>
 <Book Series="Doctor Strange and the Sorcerers Supreme" Number="11" Volume="2016" Year="2017">
 <Database Name="cv" Series="95211" Issue="617841" />
@@ -2490,24 +2613,6 @@
 <Book Series="The Unbeatable Squirrel Girl" Number="26" Volume="2015" Year="2018">
 <Database Name="cv" Series="85601" Issue="636387" />
 </Book>
-<Book Series="Astonishing X-Men" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="102882" Issue="609338" />
-</Book>
-<Book Series="Astonishing X-Men" Number="2" Volume="2017" Year="2017">
-<Database Name="cv" Series="102882" Issue="615015" />
-</Book>
-<Book Series="Astonishing X-Men" Number="3" Volume="2017" Year="2017">
-<Database Name="cv" Series="102882" Issue="619616" />
-</Book>
-<Book Series="Astonishing X-Men" Number="4" Volume="2017" Year="2017">
-<Database Name="cv" Series="102882" Issue="626275" />
-</Book>
-<Book Series="Astonishing X-Men" Number="5" Volume="2017" Year="2018">
-<Database Name="cv" Series="102882" Issue="634524" />
-</Book>
-<Book Series="Astonishing X-Men" Number="6" Volume="2017" Year="2018">
-<Database Name="cv" Series="102882" Issue="644496" />
-</Book>
 <Book Series="The Totally Awesome Hulk" Number="23" Volume="2015" Year="2017">
 <Database Name="cv" Series="86408" Issue="622957" />
 </Book>
@@ -2535,21 +2640,6 @@
 <Book Series="Ms. Marvel" Number="24" Volume="2015" Year="2018">
 <Database Name="cv" Series="86114" Issue="636378" />
 </Book>
-<Book Series="Weapon X" Number="7" Volume="2017" Year="2017">
-<Database Name="cv" Series="100709" Issue="616202" />
-</Book>
-<Book Series="Weapon X" Number="8" Volume="2017" Year="2017">
-<Database Name="cv" Series="100709" Issue="621685" />
-</Book>
-<Book Series="Weapon X" Number="9" Volume="2017" Year="2017">
-<Database Name="cv" Series="100709" Issue="628600" />
-</Book>
-<Book Series="Weapon X" Number="10" Volume="2017" Year="2017">
-<Database Name="cv" Series="100709" Issue="632510" />
-</Book>
-<Book Series="Weapon X" Number="11" Volume="2017" Year="2018">
-<Database Name="cv" Series="100709" Issue="638614" />
-</Book>
 <Book Series="Black Panther" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="89350" Issue="593251" />
 </Book>
@@ -2567,21 +2657,6 @@
 </Book>
 <Book Series="Black Panther" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="89350" Issue="625300" />
-</Book>
-<Book Series="The Defenders" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="102109" Issue="601792" />
-</Book>
-<Book Series="The Defenders" Number="2" Volume="2017" Year="2017">
-<Database Name="cv" Series="102109" Issue="605110" />
-</Book>
-<Book Series="The Defenders" Number="3" Volume="2017" Year="2017">
-<Database Name="cv" Series="102109" Issue="608242" />
-</Book>
-<Book Series="The Defenders" Number="4" Volume="2017" Year="2017">
-<Database Name="cv" Series="102109" Issue="613788" />
-</Book>
-<Book Series="The Defenders" Number="5" Volume="2017" Year="2017">
-<Database Name="cv" Series="102109" Issue="621662" />
 </Book>
 <Book Series="Generation X" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="101478" Issue="615020" />
@@ -2927,81 +3002,6 @@
 </Book>
 <Book Series="Old Man Logan" Number="33" Volume="2016" Year="2018">
 <Database Name="cv" Series="87624" Issue="652634" />
-</Book>
-<Book Series="Spider-Man/Deadpool" Number="23" Volume="2016" Year="2018">
-<Database Name="cv" Series="87182" Issue="636383" />
-</Book>
-<Book Series="Spider-Man/Deadpool" Number="24" Volume="2016" Year="2018">
-<Database Name="cv" Series="87182" Issue="641416" />
-</Book>
-<Book Series="Spider-Man/Deadpool" Number="25" Volume="2016" Year="2018">
-<Database Name="cv" Series="87182" Issue="649743" />
-</Book>
-<Book Series="Spider-Man/Deadpool" Number="26" Volume="2016" Year="2018">
-<Database Name="cv" Series="87182" Issue="652641" />
-</Book>
-<Book Series="Secret Warriors" Number="8" Volume="2017" Year="2018">
-<Database Name="cv" Series="101411" Issue="638606" />
-</Book>
-<Book Series="Secret Warriors" Number="9" Volume="2017" Year="2018">
-<Database Name="cv" Series="101411" Issue="643040" />
-</Book>
-<Book Series="Secret Warriors" Number="10" Volume="2017" Year="2018">
-<Database Name="cv" Series="101411" Issue="646198" />
-</Book>
-<Book Series="Secret Warriors" Number="11" Volume="2017" Year="2018">
-<Database Name="cv" Series="101411" Issue="649742" />
-</Book>
-<Book Series="Secret Warriors" Number="12" Volume="2017" Year="2018">
-<Database Name="cv" Series="101411" Issue="652638" />
-</Book>
-<Book Series="Amazing Spider-Man: Venom Inc. Alpha" Number="1" Volume="2017" Year="2018">
-<Database Name="cv" Series="106662" Issue="644495" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="792" Volume="2015" Year="2018">
-<Database Name="cv" Series="85076" Issue="646179" />
-</Book>
-<Book Series="Venom" Number="159" Volume="2016" Year="2018">
-<Database Name="cv" Series="95845" Issue="647962" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="793" Volume="2015" Year="2018">
-<Database Name="cv" Series="85076" Issue="649722" />
-</Book>
-<Book Series="Venom" Number="160" Volume="2016" Year="2018">
-<Database Name="cv" Series="95845" Issue="652644" />
-</Book>
-<Book Series="Amazing Spider-Man: Venom Inc. Omega" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="107934" Issue="654047" />
-</Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="13" Volume="2016" Year="2018">
-<Database Name="cv" Series="95572" Issue="641397" />
-</Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="14" Volume="2016" Year="2018">
-<Database Name="cv" Series="95572" Issue="649723" />
-</Book>
-<Book Series="Amazing Spider-Man: Renew Your Vows" Number="15" Volume="2016" Year="2018">
-<Database Name="cv" Series="95572" Issue="656695" />
-</Book>
-<Book Series="X-Men: Gold" Number="16" Volume="2017" Year="2018">
-<Database Name="cv" Series="100603" Issue="641422" />
-</Book>
-<Book Series="X-Men: Gold" Number="17" Volume="2017" Year="2018">
-<Database Name="cv" Series="100603" Issue="644521" />
-</Book>
-<Book Series="X-Men: Gold" Number="18" Volume="2017" Year="2018">
-<Database Name="cv" Series="100603" Issue="647963" />
-</Book>
-<Book Series="X-Men: Gold" Number="19" Volume="2017" Year="2018">
-<Database Name="cv" Series="100603" Issue="650929" />
-</Book>
-<Book Series="X-Men: Gold" Number="20" Volume="2017" Year="2018">
-<Database Name="cv" Series="100603" Issue="654065" />
-</Book>
-<Book Series="X-Men: Blue" Number="16" Volume="2017" Year="2018">
-<Database Name="cv" Series="100712" Issue="643049" />
-</Book>
-<Book Series="X-Men: Blue" Number="17" Volume="2017" Year="2018">
-<Database Name="cv" Series="100712" Issue="646207" />
 </Book>
 </Books>
 <Matchers />

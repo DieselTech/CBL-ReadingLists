@@ -1053,6 +1053,9 @@
 <Book Series="Thor" Number="130" Volume="1966" Year="1966">
 <Database Name="cv" Series="2294" Issue="8673" />
 </Book>
+<Book Series="Fantastic Four" Number="51" Volume="1961" Year="1966">
+<Database Name="cv" Series="2045" Issue="8613" />
+</Book>
 <Book Series="Tales to Astonish" Number="80" Volume="1959" Year="1966">
 <Database Name="cv" Series="2008" Issue="8619" />
 </Book>
@@ -1070,9 +1073,6 @@
 </Book>
 <Book Series="The Avengers" Number="29" Volume="1963" Year="1966">
 <Database Name="cv" Series="2128" Issue="8611" />
-</Book>
-<Book Series="Fantastic Four" Number="51" Volume="1961" Year="1966">
-<Database Name="cv" Series="2045" Issue="8613" />
 </Book>
 <Book Series="Tales of Suspense" Number="79" Volume="1959" Year="1966">
 <Database Name="cv" Series="2007" Issue="8671" />
@@ -1109,24 +1109,6 @@
 </Book>
 <Book Series="Tales to Astonish" Number="87" Volume="1959" Year="1967">
 <Database Name="cv" Series="2008" Issue="9096" />
-</Book>
-<Book Series="Journey into Mystery" Number="119" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="7962" />
-</Book>
-<Book Series="Journey into Mystery" Number="120" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8031" />
-</Book>
-<Book Series="Journey into Mystery" Number="121" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8104" />
-</Book>
-<Book Series="Journey into Mystery" Number="123" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8232" />
-</Book>
-<Book Series="Journey into Mystery" Number="124" Volume="1952" Year="1966">
-<Database Name="cv" Series="1497" Issue="8309" />
-</Book>
-<Book Series="Journey into Mystery" Number="125" Volume="1952" Year="1966">
-<Database Name="cv" Series="1497" Issue="8369" />
 </Book>
 <Book Series="Thor" Number="131" Volume="1966" Year="1966">
 <Database Name="cv" Series="2294" Issue="8739" />
@@ -2871,17 +2853,17 @@
 <Book Series="Fantastic Four" Number="101" Volume="1961" Year="1970">
 <Database Name="cv" Series="2045" Issue="10953" />
 </Book>
-<Book Series="Amazing Adventures" Number="1" Volume="1970" Year="1970">
-<Database Name="cv" Series="2469" Issue="10946" />
+<Book Series="Amazing Adventures" Number="1" Volume="1961" Year="1970">
+<Database Name="cv" Series="2044" Issue="5346" />
 </Book>
-<Book Series="Amazing Adventures" Number="2" Volume="1970" Year="1970">
-<Database Name="cv" Series="2469" Issue="11000" />
+<Book Series="Amazing Adventures" Number="2" Volume="1961" Year="1970">
+<Database Name="cv" Series="2044" Issue="5385" />
 </Book>
-<Book Series="Amazing Adventures" Number="3" Volume="1970" Year="1970">
-<Database Name="cv" Series="2469" Issue="11094" />
+<Book Series="Amazing Adventures" Number="3" Volume="1961" Year="1970">
+<Database Name="cv" Series="2044" Issue="5422" />
 </Book>
-<Book Series="Amazing Adventures" Number="4" Volume="1970" Year="1971">
-<Database Name="cv" Series="2469" Issue="11213" />
+<Book Series="Amazing Adventures" Number="4" Volume="1961" Year="1971">
+<Database Name="cv" Series="2044" Issue="5466" />
 </Book>
 <Book Series="Chamber of Darkness" Number="7" Volume="1969" Year="1970">
 <Database Name="cv" Series="2441" Issue="11051" />

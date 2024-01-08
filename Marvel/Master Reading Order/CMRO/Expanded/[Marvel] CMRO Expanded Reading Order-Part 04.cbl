@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 04</Name>
-<NumIssues>962</NumIssues>
+<NumIssues>992</NumIssues>
 <Books>
-<Book Series="Fantastic Four" Number="18" Volume="1961" Year="1963">
-<Database Name="cv" Series="2045" Issue="6687" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="4" Volume="1963" Year="1963">
-<Database Name="cv" Series="2127" Issue="6685" />
-</Book>
-<Book Series="The X-Men" Number="1" Volume="1963" Year="1963">
-<Database Name="cv" Series="2133" Issue="6694" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="5" Volume="1963" Year="1963">
-<Database Name="cv" Series="2127" Issue="6734" />
-</Book>
-<Book Series="Strange Tales" Number="112" Volume="1951" Year="1963">
-<Database Name="cv" Series="18066" Issue="110869" />
-</Book>
-<Book Series="Strange Tales Annual" Number="2" Volume="1962" Year="1963">
-<Database Name="cv" Series="2079" Issue="6240" />
-</Book>
-<Book Series="Fantastic Four Annual" Number="1" Volume="1963" Year="1963">
-<Database Name="cv" Series="2129" Issue="6239" />
-</Book>
-<Book Series="Sgt. Fury" Number="3" Volume="1963" Year="1963">
-<Database Name="cv" Series="6724" Issue="6690" />
-</Book>
-<Book Series="Journey into Mystery" Number="96" Volume="1952" Year="1963">
-<Database Name="cv" Series="1497" Issue="6688" />
-</Book>
-<Book Series="The Avengers" Number="1" Volume="1963" Year="1963">
-<Database Name="cv" Series="2128" Issue="6686" />
-</Book>
-<Book Series="Tales of Suspense" Number="45" Volume="1959" Year="1963">
-<Database Name="cv" Series="2007" Issue="6692" />
-</Book>
-<Book Series="Tales to Astonish" Number="47" Volume="1959" Year="1963">
-<Database Name="cv" Series="2008" Issue="6693" />
-</Book>
-<Book Series="Kid Colt Outlaw" Number="112" Volume="1949" Year="1963">
-<Database Name="cv" Series="1199" Issue="6689" />
-</Book>
-<Book Series="Two-Gun Kid" Number="65" Volume="1948" Year="1963">
-<Database Name="cv" Series="1583" Issue="6695" />
-</Book>
 <Book Series="Millie the Model Annual" Number="2" Volume="1962" Year="1963">
 <Database Name="cv" Series="8510" Issue="157595" />
 </Book>
@@ -86,6 +44,9 @@
 </Book>
 <Book Series="Patsy Walker" Number="110" Volume="1945" Year="1963">
 <Database Name="cv" Series="1062" Issue="141022" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="133" Volume="1952" Year="1963">
+<Database Name="cv" Series="154918" Issue="1032239" />
 </Book>
 <Book Series="Strange Tales" Number="114" Volume="1951" Year="1963">
 <Database Name="cv" Series="18066" Issue="110871" />
@@ -222,6 +183,9 @@
 <Book Series="The Amazing Spider-Man" Number="9" Volume="1963" Year="1964">
 <Database Name="cv" Series="2127" Issue="6985" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="138" Volume="1952" Year="1964">
+<Database Name="cv" Series="154918" Issue="1032240" />
+</Book>
 <Book Series="The Rawhide Kid" Number="38" Volume="1960" Year="1964">
 <Database Name="cv" Series="2023" Issue="6988" />
 </Book>
@@ -281,6 +245,9 @@
 </Book>
 <Book Series="Daredevil" Number="1" Volume="1964" Year="1964">
 <Database Name="cv" Series="2190" Issue="7067" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="140" Volume="1952" Year="1964">
+<Database Name="cv" Series="154918" Issue="1032241" />
 </Book>
 <Book Series="The Rawhide Kid" Number="39" Volume="1960" Year="1964">
 <Database Name="cv" Series="2023" Issue="7070" />
@@ -365,6 +332,9 @@
 </Book>
 <Book Series="Daredevil" Number="2" Volume="1964" Year="1964">
 <Database Name="cv" Series="2190" Issue="7157" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="142" Volume="1952" Year="1964">
+<Database Name="cv" Series="154918" Issue="1032242" />
 </Book>
 <Book Series="The Rawhide Kid" Number="40" Volume="1960" Year="1964">
 <Database Name="cv" Series="2023" Issue="7160" />
@@ -591,6 +561,9 @@
 <Book Series="Fantastic Four" Number="33" Volume="1961" Year="1964">
 <Database Name="cv" Series="2045" Issue="7484" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="148" Volume="1952" Year="1964">
+<Database Name="cv" Series="154918" Issue="1032248" />
+</Book>
 <Book Series="The Rawhide Kid" Number="43" Volume="1960" Year="1964">
 <Database Name="cv" Series="2023" Issue="7486" />
 </Book>
@@ -641,6 +614,9 @@
 </Book>
 <Book Series="Sgt. Fury" Number="13" Volume="1963" Year="1964">
 <Database Name="cv" Series="6724" Issue="7487" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="149" Volume="1952" Year="1965">
+<Database Name="cv" Series="154918" Issue="1032244" />
 </Book>
 <Book Series="Kid Colt Outlaw" Number="120" Volume="1949" Year="1965">
 <Database Name="cv" Series="1199" Issue="7554" />
@@ -722,6 +698,9 @@
 </Book>
 <Book Series="Sgt. Fury" Number="17" Volume="1963" Year="1965">
 <Database Name="cv" Series="6724" Issue="7729" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="151" Volume="1952" Year="1965">
+<Database Name="cv" Series="154918" Issue="1032243" />
 </Book>
 <Book Series="Kid Colt Outlaw" Number="121" Volume="1949" Year="1965">
 <Database Name="cv" Series="1199" Issue="7669" />
@@ -899,6 +878,9 @@
 </Book>
 <Book Series="The Amazing Spider-Man" Number="25" Volume="1963" Year="1965">
 <Database Name="cv" Series="2127" Issue="7834" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="154" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032636" />
 </Book>
 <Book Series="The Rawhide Kid" Number="46" Volume="1960" Year="1965">
 <Database Name="cv" Series="2023" Issue="7839" />
@@ -1104,6 +1086,12 @@
 <Book Series="Sgt. Fury Annual" Number="1" Volume="1965" Year="1965">
 <Database Name="cv" Series="2237" Issue="8257" />
 </Book>
+<Book Series="Patsy Walker" Number="124" Volume="1945" Year="1965">
+<Database Name="cv" Series="1062" Issue="73727" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="160" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032637" />
+</Book>
 <Book Series="The Rawhide Kid" Number="49" Volume="1960" Year="1965">
 <Database Name="cv" Series="2023" Issue="8233" />
 </Book>
@@ -1121,9 +1109,6 @@
 </Book>
 <Book Series="Modeling With Millie" Number="44" Volume="1963" Year="1965">
 <Database Name="cv" Series="19440" Issue="187656" />
-</Book>
-<Book Series="Patsy Walker" Number="124" Volume="1945" Year="1965">
-<Database Name="cv" Series="1062" Issue="73727" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="29" Volume="1963" Year="1965">
 <Database Name="cv" Series="2127" Issue="8100" />
@@ -1230,6 +1215,9 @@
 <Book Series="Two-Gun Kid" Number="80" Volume="1948" Year="1966">
 <Database Name="cv" Series="1583" Issue="8440" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="164" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032638" />
+</Book>
 <Book Series="The X-Men" Number="19" Volume="1963" Year="1966">
 <Database Name="cv" Series="2133" Issue="8498" />
 </Book>
@@ -1314,6 +1302,33 @@
 <Book Series="Thor" Number="130" Volume="1966" Year="1966">
 <Database Name="cv" Series="2294" Issue="8673" />
 </Book>
+<Book Series="Fantastic Four" Number="51" Volume="1961" Year="1966">
+<Database Name="cv" Series="2045" Issue="8613" />
+</Book>
+<Book Series="Sgt. Fury" Number="31" Volume="1963" Year="1966">
+<Database Name="cv" Series="6724" Issue="8616" />
+</Book>
+<Book Series="The Rawhide Kid" Number="52" Volume="1960" Year="1966">
+<Database Name="cv" Series="2023" Issue="8615" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="167" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032639" />
+</Book>
+<Book Series="Millie the Model" Number="138" Volume="1945" Year="1966">
+<Database Name="cv" Series="19441" Issue="185835" />
+</Book>
+<Book Series="Millie the Model" Number="139" Volume="1945" Year="1966">
+<Database Name="cv" Series="19441" Issue="185836" />
+</Book>
+<Book Series="Modeling With Millie" Number="47" Volume="1963" Year="1966">
+<Database Name="cv" Series="19440" Issue="187659" />
+</Book>
+<Book Series="Patsy and Hedy" Number="106" Volume="1952" Year="1966">
+<Database Name="cv" Series="8517" Issue="185976" />
+</Book>
+<Book Series="Patsy and Hedy" Number="107" Volume="1952" Year="1966">
+<Database Name="cv" Series="8517" Issue="185977" />
+</Book>
 <Book Series="Tales to Astonish" Number="80" Volume="1959" Year="1966">
 <Database Name="cv" Series="2008" Issue="8619" />
 </Book>
@@ -1331,30 +1346,6 @@
 </Book>
 <Book Series="The Avengers" Number="29" Volume="1963" Year="1966">
 <Database Name="cv" Series="2128" Issue="8611" />
-</Book>
-<Book Series="Fantastic Four" Number="51" Volume="1961" Year="1966">
-<Database Name="cv" Series="2045" Issue="8613" />
-</Book>
-<Book Series="Sgt. Fury" Number="31" Volume="1963" Year="1966">
-<Database Name="cv" Series="6724" Issue="8616" />
-</Book>
-<Book Series="The Rawhide Kid" Number="52" Volume="1960" Year="1966">
-<Database Name="cv" Series="2023" Issue="8615" />
-</Book>
-<Book Series="Millie the Model" Number="138" Volume="1945" Year="1966">
-<Database Name="cv" Series="19441" Issue="185835" />
-</Book>
-<Book Series="Millie the Model" Number="139" Volume="1945" Year="1966">
-<Database Name="cv" Series="19441" Issue="185836" />
-</Book>
-<Book Series="Modeling With Millie" Number="47" Volume="1963" Year="1966">
-<Database Name="cv" Series="19440" Issue="187659" />
-</Book>
-<Book Series="Patsy and Hedy" Number="106" Volume="1952" Year="1966">
-<Database Name="cv" Series="8517" Issue="185976" />
-</Book>
-<Book Series="Patsy and Hedy" Number="107" Volume="1952" Year="1966">
-<Database Name="cv" Series="8517" Issue="185977" />
 </Book>
 <Book Series="Tales of Suspense" Number="79" Volume="1959" Year="1966">
 <Database Name="cv" Series="2007" Issue="8671" />
@@ -1400,24 +1391,6 @@
 </Book>
 <Book Series="Marvel Mini-Books" Number="" Volume="1966" Year="1966">
 <Database Name="cv" Series="133048" Issue="823883" />
-</Book>
-<Book Series="Journey into Mystery" Number="119" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="7962" />
-</Book>
-<Book Series="Journey into Mystery" Number="120" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8031" />
-</Book>
-<Book Series="Journey into Mystery" Number="121" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8104" />
-</Book>
-<Book Series="Journey into Mystery" Number="123" Volume="1952" Year="1965">
-<Database Name="cv" Series="1497" Issue="8232" />
-</Book>
-<Book Series="Journey into Mystery" Number="124" Volume="1952" Year="1966">
-<Database Name="cv" Series="1497" Issue="8309" />
-</Book>
-<Book Series="Journey into Mystery" Number="125" Volume="1952" Year="1966">
-<Database Name="cv" Series="1497" Issue="8369" />
 </Book>
 <Book Series="Thor" Number="131" Volume="1966" Year="1966">
 <Database Name="cv" Series="2294" Issue="8739" />
@@ -1497,6 +1470,9 @@
 <Book Series="The Avengers" Number="33" Volume="1963" Year="1966">
 <Database Name="cv" Series="2128" Issue="8874" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="170" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032640" />
+</Book>
 <Book Series="Sgt. Fury" Number="33" Volume="1963" Year="1966">
 <Database Name="cv" Series="6724" Issue="8735" />
 </Book>
@@ -1514,6 +1490,9 @@
 </Book>
 <Book Series="Fantastic Four" Number="55" Volume="1961" Year="1966">
 <Database Name="cv" Series="2045" Issue="8876" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="171" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032706" />
 </Book>
 <Book Series="The Rawhide Kid" Number="54" Volume="1960" Year="1966">
 <Database Name="cv" Series="2023" Issue="8879" />
@@ -1535,15 +1514,6 @@
 </Book>
 <Book Series="Modeling With Millie" Number="51" Volume="1963" Year="1966">
 <Database Name="cv" Series="19440" Issue="187663" />
-</Book>
-<Book Series="Marvel Mini-Books" Number="" Volume="1966" Year="1966">
-<Database Name="cv" Series="133048" Issue="823885" />
-</Book>
-<Book Series="Marvel Mini-Books" Number="" Volume="1966" Year="1966">
-<Database Name="cv" Series="133048" Issue="823886" />
-</Book>
-<Book Series="Marvel Mini-Books" Number="" Volume="1966" Year="1966">
-<Database Name="cv" Series="133048" Issue="823884" />
 </Book>
 <Book Series="The X-Men" Number="24" Volume="1963" Year="1966">
 <Database Name="cv" Series="2133" Issue="8819" />
@@ -1635,9 +1605,6 @@
 <Book Series="The X-Men" Number="27" Volume="1963" Year="1966">
 <Database Name="cv" Series="2133" Issue="9025" />
 </Book>
-<Book Series="Marvel Mini-Books" Number="" Volume="1966" Year="1966">
-<Database Name="cv" Series="133048" Issue="823887" />
-</Book>
 <Book Series="Fantastic Four" Number="56" Volume="1961" Year="1966">
 <Database Name="cv" Series="2045" Issue="8943" />
 </Book>
@@ -1669,7 +1636,7 @@
 <Database Name="cv" Series="2294" Issue="9433" />
 </Book>
 <Book Series="Thor Annual" Number="2" Volume="1966" Year="1966">
-<Database Name="cv" Series="79259" Issue="8818" />
+<Database Name="cv" Series="2295" Issue="8818" />
 </Book>
 <Book Series="Fantastic Four Annual" Number="4" Volume="1963" Year="1966">
 <Database Name="cv" Series="2129" Issue="8907" />
@@ -1745,6 +1712,9 @@
 </Book>
 <Book Series="Fantastic Four" Number="63" Volume="1961" Year="1967">
 <Database Name="cv" Series="2045" Issue="9426" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="176" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032707" />
 </Book>
 <Book Series="Ghost Rider" Number="2" Volume="1967" Year="1967">
 <Database Name="cv" Series="2352" Issue="9295" />
@@ -1896,6 +1866,9 @@
 <Book Series="The Avengers" Number="44" Volume="1963" Year="1967">
 <Database Name="cv" Series="2128" Issue="9612" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="178" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032708" />
+</Book>
 <Book Series="Ghost Rider" Number="3" Volume="1967" Year="1967">
 <Database Name="cv" Series="2352" Issue="164573" />
 </Book>
@@ -1916,6 +1889,9 @@
 </Book>
 <Book Series="Two-Gun Kid" Number="88" Volume="1948" Year="1967">
 <Database Name="cv" Series="1583" Issue="153644" />
+</Book>
+<Book Series="All Favourites Comic" Number="61" Volume="1960" Year="1967">
+<Database Name="cv" Series="28320" Issue="174347" />
 </Book>
 <Book Series="Millie the Model" Number="151" Volume="1945" Year="1967">
 <Database Name="cv" Series="19441" Issue="185847" />
@@ -2003,6 +1979,9 @@
 </Book>
 <Book Series="Two-Gun Kid" Number="89" Volume="1948" Year="1967">
 <Database Name="cv" Series="1583" Issue="9629" />
+</Book>
+<Book Series="All Favourites Comic" Number="62" Volume="1960" Year="1967">
+<Database Name="cv" Series="28320" Issue="174348" />
 </Book>
 <Book Series="Not Brand Echh" Number="2" Volume="1967" Year="1967">
 <Database Name="cv" Series="2354" Issue="9619" />
@@ -2111,6 +2090,9 @@
 </Book>
 <Book Series="Daredevil Annual" Number="1" Volume="1967" Year="1967">
 <Database Name="cv" Series="2351" Issue="9614" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="182" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032709" />
 </Book>
 <Book Series="Ghost Rider" Number="6" Volume="1967" Year="1967">
 <Database Name="cv" Series="2352" Issue="9687" />
@@ -2221,7 +2203,7 @@
 <Database Name="cv" Series="2008" Issue="108670" />
 </Book>
 <Book Series="The Incredible Hulk" Number="102" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111601" />
+<Database Name="cv" Series="2406" Issue="111601" />
 </Book>
 <Book Series="Sgt. Fury" Number="51" Volume="1963" Year="1968">
 <Database Name="cv" Series="6724" Issue="9940" />
@@ -2286,6 +2268,9 @@
 <Book Series="Captain Savage" Number="4" Volume="1968" Year="1968">
 <Database Name="cv" Series="2402" Issue="214844" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="187" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032767" />
+</Book>
 <Book Series="Kid Colt Outlaw" Number="138" Volume="1949" Year="1968">
 <Database Name="cv" Series="1199" Issue="9881" />
 </Book>
@@ -2303,6 +2288,9 @@
 </Book>
 <Book Series="Sgt. Fury" Number="52" Volume="1963" Year="1968">
 <Database Name="cv" Series="6724" Issue="111019" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="188" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032714" />
 </Book>
 <Book Series="The Rawhide Kid" Number="62" Volume="1960" Year="1968">
 <Database Name="cv" Series="2023" Issue="9939" />
@@ -2340,11 +2328,17 @@
 <Book Series="Two-Gun Kid" Number="92" Volume="1948" Year="1968">
 <Database Name="cv" Series="1583" Issue="169584" />
 </Book>
+<Book Series="Raio Negro" Number="15" Volume="1967" Year="1969">
+<Database Name="cv" Series="155057" Issue="1032911" />
+</Book>
 <Book Series="Sgt. Fury" Number="53" Volume="1963" Year="1968">
 <Database Name="cv" Series="6724" Issue="111020" />
 </Book>
 <Book Series="The Avengers" Number="52" Volume="1963" Year="1968">
 <Database Name="cv" Series="2128" Issue="113986" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="190" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032712" />
 </Book>
 <Book Series="The Rawhide Kid" Number="63" Volume="1960" Year="1968">
 <Database Name="cv" Series="2023" Issue="140242" />
@@ -2366,6 +2360,9 @@
 </Book>
 <Book Series="The Avengers" Number="53" Volume="1963" Year="1968">
 <Database Name="cv" Series="2128" Issue="113987" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="191" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032766" />
 </Book>
 <Book Series="Marvel Super-Heroes" Number="14" Volume="1967" Year="1968">
 <Database Name="cv" Series="2353" Issue="166074" />
@@ -2457,6 +2454,9 @@
 <Book Series="Sgt. Fury" Number="57" Volume="1963" Year="1968">
 <Database Name="cv" Series="6724" Issue="111107" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="194" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032768" />
+</Book>
 <Book Series="The Rawhide Kid" Number="65" Volume="1960" Year="1968">
 <Database Name="cv" Series="2023" Issue="140243" />
 </Book>
@@ -2476,10 +2476,13 @@
 <Database Name="cv" Series="2133" Issue="123671" />
 </Book>
 <Book Series="The Incredible Hulk" Number="103" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111602" />
+<Database Name="cv" Series="2406" Issue="111602" />
 </Book>
 <Book Series="The Amazing Spider-Man Annual" Number="5" Volume="1964" Year="1968">
 <Database Name="cv" Series="2189" Issue="111514" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="195" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032711" />
 </Book>
 <Book Series="Millie the Model Annual" Number="7" Volume="1962" Year="1968">
 <Database Name="cv" Series="8510" Issue="214831" />
@@ -2504,6 +2507,9 @@
 </Book>
 <Book Series="Doctor Strange" Number="173" Volume="1968" Year="1968">
 <Database Name="cv" Series="2403" Issue="139652" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="196" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032710" />
 </Book>
 <Book Series="The Rawhide Kid" Number="66" Volume="1960" Year="1968">
 <Database Name="cv" Series="2023" Issue="140300" />
@@ -2568,6 +2574,9 @@
 <Book Series="Sgt. Fury" Number="61" Volume="1963" Year="1968">
 <Database Name="cv" Series="6724" Issue="111114" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="197" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032713" />
+</Book>
 <Book Series="Millie the Model" Number="164" Volume="1945" Year="1968">
 <Database Name="cv" Series="19441" Issue="185857" />
 </Book>
@@ -2621,6 +2630,9 @@
 </Book>
 <Book Series="The Rawhide Kid" Number="67" Volume="1960" Year="1968">
 <Database Name="cv" Series="2023" Issue="140299" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="198" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032715" />
 </Book>
 <Book Series="Millie the Model" Number="165" Volume="1945" Year="1968">
 <Database Name="cv" Series="19441" Issue="185858" />
@@ -2684,6 +2696,9 @@
 </Book>
 <Book Series="Not Brand Echh" Number="12" Volume="1967" Year="1969">
 <Database Name="cv" Series="2354" Issue="10050" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="200" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032716" />
 </Book>
 <Book Series="Millie the Model" Number="167" Volume="1945" Year="1969">
 <Database Name="cv" Series="19441" Issue="185860" />
@@ -2809,19 +2824,22 @@
 <Database Name="cv" Series="2400" Issue="10040" />
 </Book>
 <Book Series="The Incredible Hulk" Number="104" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111603" />
+<Database Name="cv" Series="2406" Issue="111603" />
 </Book>
 <Book Series="The Incredible Hulk" Number="105" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111620" />
+<Database Name="cv" Series="2406" Issue="111620" />
 </Book>
 <Book Series="The Incredible Hulk" Number="106" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111619" />
+<Database Name="cv" Series="2406" Issue="111619" />
 </Book>
 <Book Series="The Incredible Hulk" Number="107" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111618" />
+<Database Name="cv" Series="2406" Issue="111618" />
 </Book>
 <Book Series="The Incredible Hulk" Number="108" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111614" />
+<Database Name="cv" Series="2406" Issue="111614" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="202" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032717" />
 </Book>
 <Book Series="Captain Savage" Number="12" Volume="1968" Year="1969">
 <Database Name="cv" Series="2402" Issue="10095" />
@@ -2854,19 +2872,19 @@
 <Database Name="cv" Series="2860" Issue="138328" />
 </Book>
 <Book Series="The Incredible Hulk" Number="109" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111613" />
+<Database Name="cv" Series="2406" Issue="111613" />
 </Book>
 <Book Series="The Incredible Hulk" Number="110" Volume="1968" Year="1968">
-<Database Name="cv" Series="2077" Issue="111632" />
+<Database Name="cv" Series="2406" Issue="111632" />
 </Book>
 <Book Series="The Incredible Hulk" Number="111" Volume="1968" Year="1969">
-<Database Name="cv" Series="2077" Issue="9994" />
+<Database Name="cv" Series="2406" Issue="9994" />
 </Book>
 <Book Series="The Incredible Hulk" Number="112" Volume="1968" Year="1969">
-<Database Name="cv" Series="2077" Issue="10046" />
+<Database Name="cv" Series="2406" Issue="10046" />
 </Book>
 <Book Series="The Incredible Hulk" Number="113" Volume="1968" Year="1969">
-<Database Name="cv" Series="2077" Issue="10099" />
+<Database Name="cv" Series="2406" Issue="10099" />
 </Book>
 <Book Series="Captain Savage" Number="13" Volume="1968" Year="1969">
 <Database Name="cv" Series="2402" Issue="10150" />
@@ -2880,6 +2898,9 @@
 <Book Series="Captain America" Number="112" Volume="1968" Year="1969">
 <Database Name="cv" Series="2400" Issue="10148" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="203" Volume="1952" Year="0">
+<Database Name="cv" Series="154918" Issue="1032718" />
+</Book>
 <Book Series="The Rawhide Kid" Number="69" Volume="1960" Year="1969">
 <Database Name="cv" Series="2023" Issue="10158" />
 </Book>
@@ -2888,6 +2909,42 @@
 </Book>
 <Book Series="Millie the Model" Number="169" Volume="1945" Year="1969">
 <Database Name="cv" Series="19441" Issue="185862" />
+</Book>
+<Book Series="The Incredible Hulk" Number="114" Volume="1968" Year="1969">
+<Database Name="cv" Series="2406" Issue="10154" />
+</Book>
+<Book Series="The Incredible Hulk" Number="115" Volume="1968" Year="1969">
+<Database Name="cv" Series="2406" Issue="10206" />
+</Book>
+<Book Series="Captain America" Number="113" Volume="1968" Year="1969">
+<Database Name="cv" Series="2400" Issue="10200" />
+</Book>
+<Book Series="Doctor Strange" Number="178" Volume="1968" Year="1969">
+<Database Name="cv" Series="2403" Issue="10097" />
+</Book>
+<Book Series="The Avengers" Number="61" Volume="1963" Year="1969">
+<Database Name="cv" Series="2128" Issue="10039" />
+</Book>
+<Book Series="The Avengers" Number="62" Volume="1963" Year="1969">
+<Database Name="cv" Series="2128" Issue="10092" />
+</Book>
+<Book Series="Sgt. Fury" Number="65" Volume="1963" Year="1969">
+<Database Name="cv" Series="6724" Issue="10159" />
+</Book>
+<Book Series="Sgt. Fury" Number="66" Volume="1963" Year="1969">
+<Database Name="cv" Series="6724" Issue="10212" />
+</Book>
+<Book Series="Sgt. Fury" Number="67" Volume="1963" Year="1969">
+<Database Name="cv" Series="6724" Issue="10266" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="68" Volume="1963" Year="1969">
+<Database Name="cv" Series="2127" Issue="9986" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="69" Volume="1963" Year="1969">
+<Database Name="cv" Series="2127" Issue="10038" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="70" Volume="1963" Year="1969">
+<Database Name="cv" Series="2127" Issue="10091" />
 </Book>
 </Books>
 <Matchers />

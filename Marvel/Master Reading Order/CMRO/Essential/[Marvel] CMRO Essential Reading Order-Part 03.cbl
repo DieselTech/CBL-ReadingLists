@@ -3,6 +3,78 @@
 <Name>[Marvel] CMRO Essential Reading Order-Part 03</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="The Amazing Spider-Man" Number="32" Volume="1999" Year="2001">
+<Database Name="cv" Series="78701" Issue="113463" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="33" Volume="1999" Year="2001">
+<Database Name="cv" Series="78701" Issue="113464" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="34" Volume="1999" Year="2001">
+<Database Name="cv" Series="78701" Issue="113465" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="35" Volume="1999" Year="2001">
+<Database Name="cv" Series="78701" Issue="113466" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="36" Volume="1999" Year="2001">
+<Database Name="cv" Series="78701" Issue="113467" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="37" Volume="1999" Year="2002">
+<Database Name="cv" Series="78701" Issue="113468" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="38" Volume="1999" Year="2002">
+<Database Name="cv" Series="78701" Issue="113469" />
+</Book>
+<Book Series="Avengers" Number="41" Volume="1998" Year="2001">
+<Database Name="cv" Series="7084" Issue="50800" />
+</Book>
+<Book Series="Avengers" Number="42" Volume="1998" Year="2001">
+<Database Name="cv" Series="7084" Issue="50801" />
+</Book>
+<Book Series="Avengers" Number="43" Volume="1998" Year="2001">
+<Database Name="cv" Series="7084" Issue="50802" />
+</Book>
+<Book Series="Avengers 2001" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="39917" Issue="269236" />
+</Book>
+<Book Series="Avengers" Number="44" Volume="1998" Year="2001">
+<Database Name="cv" Series="7084" Issue="50803" />
+</Book>
+<Book Series="Fantastic Four 2001" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="60496" Issue="138971" />
+</Book>
+<Book Series="Fantastic Four" Number="46" Volume="1998" Year="2001">
+<Database Name="cv" Series="6211" Issue="52117" />
+</Book>
+<Book Series="Fantastic Four" Number="47" Volume="1998" Year="2001">
+<Database Name="cv" Series="6211" Issue="52118" />
+</Book>
+<Book Series="Fantastic Four" Number="48" Volume="1998" Year="2001">
+<Database Name="cv" Series="6211" Issue="52119" />
+</Book>
+<Book Series="Fantastic Four" Number="49" Volume="1998" Year="2002">
+<Database Name="cv" Series="6211" Issue="52120" />
+</Book>
+<Book Series="Avengers" Number="45" Volume="1998" Year="2001">
+<Database Name="cv" Series="7084" Issue="50804" />
+</Book>
+<Book Series="Avengers" Number="46" Volume="1998" Year="2001">
+<Database Name="cv" Series="7084" Issue="50805" />
+</Book>
+<Book Series="Avengers" Number="47" Volume="1998" Year="2001">
+<Database Name="cv" Series="7084" Issue="50806" />
+</Book>
+<Book Series="Avengers" Number="48" Volume="1998" Year="2002">
+<Database Name="cv" Series="7084" Issue="77492" />
+</Book>
+<Book Series="Avengers" Number="49" Volume="1998" Year="2002">
+<Database Name="cv" Series="7084" Issue="77493" />
+</Book>
+<Book Series="Avengers" Number="50" Volume="1998" Year="2002">
+<Database Name="cv" Series="7084" Issue="77494" />
+</Book>
+<Book Series="Avengers" Number="51" Volume="1998" Year="2002">
+<Database Name="cv" Series="7084" Issue="77495" />
+</Book>
 <Book Series="Avengers" Number="52" Volume="1998" Year="2002">
 <Database Name="cv" Series="7084" Issue="78313" />
 </Book>
@@ -11,6 +83,78 @@
 </Book>
 <Book Series="Avengers" Number="54" Volume="1998" Year="2002">
 <Database Name="cv" Series="7084" Issue="78315" />
+</Book>
+<Book Series="Wolverine: The Origin" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="18649" Issue="110022" />
+</Book>
+<Book Series="Wolverine: The Origin" Number="2" Volume="2001" Year="2001">
+<Database Name="cv" Series="18649" Issue="110026" />
+</Book>
+<Book Series="Wolverine: The Origin" Number="3" Volume="2001" Year="2002">
+<Database Name="cv" Series="18649" Issue="110027" />
+</Book>
+<Book Series="Wolverine: The Origin" Number="4" Volume="2001" Year="2002">
+<Database Name="cv" Series="18649" Issue="110028" />
+</Book>
+<Book Series="Wolverine: The Origin" Number="5" Volume="2001" Year="2002">
+<Database Name="cv" Series="18649" Issue="110029" />
+</Book>
+<Book Series="Wolverine: The Origin" Number="6" Volume="2001" Year="2002">
+<Database Name="cv" Series="18649" Issue="110030" />
+</Book>
+<Book Series="Thunderbolts" Number="65" Volume="1997" Year="2002">
+<Database Name="cv" Series="6020" Issue="78244" />
+</Book>
+<Book Series="Fantastic Four" Number="51" Volume="1998" Year="2002">
+<Database Name="cv" Series="6211" Issue="78172" />
+</Book>
+<Book Series="Fantastic Four" Number="52" Volume="1998" Year="2002">
+<Database Name="cv" Series="6211" Issue="78173" />
+</Book>
+<Book Series="Fantastic Four" Number="53" Volume="1998" Year="2002">
+<Database Name="cv" Series="6211" Issue="78174" />
+</Book>
+<Book Series="Fantastic Four" Number="54" Volume="1998" Year="2002">
+<Database Name="cv" Series="6211" Issue="78175" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="395" Volume="1981" Year="2001">
+<Database Name="cv" Series="3092" Issue="65180" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="396" Volume="1981" Year="2001">
+<Database Name="cv" Series="3092" Issue="65182" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="397" Volume="1981" Year="2001">
+<Database Name="cv" Series="3092" Issue="65184" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="398" Volume="1981" Year="2001">
+<Database Name="cv" Series="3092" Issue="65185" />
+</Book>
+<Book Series="Wolverine" Number="176" Volume="1988" Year="2002">
+<Database Name="cv" Series="4250" Issue="114943" />
+</Book>
+<Book Series="New X-Men 2001" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="21334" Issue="128914" />
+</Book>
+<Book Series="Infinity Abyss" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="9504" Issue="78316" />
+</Book>
+<Book Series="Infinity Abyss" Number="2" Volume="2002" Year="2002">
+<Database Name="cv" Series="9504" Issue="78317" />
+</Book>
+<Book Series="Infinity Abyss" Number="3" Volume="2002" Year="2002">
+<Database Name="cv" Series="9504" Issue="78318" />
+</Book>
+<Book Series="Infinity Abyss" Number="4" Volume="2002" Year="2002">
+<Database Name="cv" Series="9504" Issue="78319" />
+</Book>
+<Book Series="Infinity Abyss" Number="5" Volume="2002" Year="2002">
+<Database Name="cv" Series="9504" Issue="78320" />
+</Book>
+<Book Series="Infinity Abyss" Number="6" Volume="2002" Year="2002">
+<Database Name="cv" Series="9504" Issue="78321" />
+</Book>
+<Book Series="Iron Man" Number="55" Volume="1998" Year="2002">
+<Database Name="cv" Series="6504" Issue="131897" />
 </Book>
 <Book Series="Thor" Number="31" Volume="1998" Year="2001">
 <Database Name="cv" Series="6226" Issue="152680" />
@@ -48,110 +192,8 @@
 <Book Series="Thor" Number="42" Volume="1998" Year="2001">
 <Database Name="cv" Series="6226" Issue="75688" />
 </Book>
-<Book Series="Exiles" Number="1" Volume="2001" Year="2001">
-<Database Name="cv" Series="6983" Issue="49450" />
-</Book>
-<Book Series="Exiles" Number="2" Volume="2001" Year="2001">
-<Database Name="cv" Series="6983" Issue="50744" />
-</Book>
-<Book Series="Exiles" Number="3" Volume="2001" Year="2001">
-<Database Name="cv" Series="6983" Issue="50745" />
-</Book>
-<Book Series="Exiles" Number="4" Volume="2001" Year="2001">
-<Database Name="cv" Series="6983" Issue="50746" />
-</Book>
-<Book Series="X-Treme X-Men" Number="1" Volume="2001" Year="2001">
-<Database Name="cv" Series="9411" Issue="76558" />
-</Book>
-<Book Series="X-Treme X-Men" Number="2" Volume="2001" Year="2001">
-<Database Name="cv" Series="9411" Issue="76559" />
-</Book>
-<Book Series="X-Treme X-Men" Number="3" Volume="2001" Year="2001">
-<Database Name="cv" Series="9411" Issue="76560" />
-</Book>
-<Book Series="X-Treme X-Men" Number="4" Volume="2001" Year="2001">
-<Database Name="cv" Series="9411" Issue="76561" />
-</Book>
-<Book Series="Deadpool" Number="61" Volume="1997" Year="2002">
-<Database Name="cv" Series="6000" Issue="109334" />
-</Book>
-<Book Series="Deadpool" Number="62" Volume="1997" Year="2002">
-<Database Name="cv" Series="6000" Issue="109432" />
-</Book>
-<Book Series="Deadpool" Number="63" Volume="1997" Year="2002">
-<Database Name="cv" Series="6000" Issue="109433" />
-</Book>
-<Book Series="Deadpool" Number="64" Volume="1997" Year="2002">
-<Database Name="cv" Series="6000" Issue="109434" />
-</Book>
-<Book Series="Generation X" Number="75" Volume="1994" Year="2001">
-<Database Name="cv" Series="5300" Issue="83135" />
-</Book>
-<Book Series="New X-Men" Number="114" Volume="2001" Year="2001">
-<Database Name="cv" Series="9121" Issue="66992" />
-</Book>
-<Book Series="New X-Men" Number="115" Volume="2001" Year="2001">
-<Database Name="cv" Series="9121" Issue="66993" />
-</Book>
-<Book Series="New X-Men" Number="116" Volume="2001" Year="2001">
-<Database Name="cv" Series="9121" Issue="66994" />
-</Book>
-<Book Series="X-Force" Number="116" Volume="1991" Year="2001">
-<Database Name="cv" Series="4604" Issue="64586" />
-</Book>
-<Book Series="X-Force" Number="117" Volume="1991" Year="2001">
-<Database Name="cv" Series="4604" Issue="107069" />
-</Book>
-<Book Series="X-Force" Number="118" Volume="1991" Year="2001">
-<Database Name="cv" Series="4604" Issue="107070" />
-</Book>
-<Book Series="X-Force" Number="119" Volume="1991" Year="2001">
-<Database Name="cv" Series="4604" Issue="107071" />
-</Book>
-<Book Series="X-Force" Number="120" Volume="1991" Year="2001">
-<Database Name="cv" Series="4604" Issue="107072" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="395" Volume="1981" Year="2001">
-<Database Name="cv" Series="3092" Issue="65180" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="396" Volume="1981" Year="2001">
-<Database Name="cv" Series="3092" Issue="65182" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="397" Volume="1981" Year="2001">
-<Database Name="cv" Series="3092" Issue="65184" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="398" Volume="1981" Year="2001">
-<Database Name="cv" Series="3092" Issue="65185" />
-</Book>
-<Book Series="Wolverine" Number="176" Volume="1988" Year="2002">
-<Database Name="cv" Series="4250" Issue="114943" />
-</Book>
-<Book Series="Doom: The Emperor Returns" Number="1" Volume="2002" Year="2002">
-<Database Name="cv" Series="18532" Issue="108893" />
-</Book>
-<Book Series="Doom: The Emperor Returns" Number="2" Volume="2002" Year="2002">
-<Database Name="cv" Series="18532" Issue="108904" />
-</Book>
-<Book Series="Doom: The Emperor Returns" Number="3" Volume="2002" Year="2002">
-<Database Name="cv" Series="18532" Issue="108905" />
-</Book>
-<Book Series="Fantastic Four" Number="51" Volume="1998" Year="2002">
-<Database Name="cv" Series="6211" Issue="78172" />
-</Book>
-<Book Series="Fantastic Four" Number="52" Volume="1998" Year="2002">
-<Database Name="cv" Series="6211" Issue="78173" />
-</Book>
-<Book Series="Fantastic Four" Number="53" Volume="1998" Year="2002">
-<Database Name="cv" Series="6211" Issue="78174" />
-</Book>
-<Book Series="Fantastic Four" Number="54" Volume="1998" Year="2002">
-<Database Name="cv" Series="6211" Issue="78175" />
-</Book>
-<Book Series="Iron Man" Number="55" Volume="1998" Year="2002">
-<Database Name="cv" Series="6504" Issue="131897" />
-</Book>
-<Book Series="New X-Men 2001" Number="1" Volume="2001" Year="2001">
-<Database Name="cv" Series="21334" Issue="128914" />
+<Book Series="Black Panther" Number="48" Volume="1998" Year="2002">
+<Database Name="cv" Series="6496" Issue="126058" />
 </Book>
 <Book Series="New X-Men" Number="117" Volume="2001" Year="2001">
 <Database Name="cv" Series="9121" Issue="66995" />
@@ -204,24 +246,6 @@
 <Book Series="Alias" Number="5" Volume="2001" Year="2002">
 <Database Name="cv" Series="9452" Issue="77725" />
 </Book>
-<Book Series="Wolverine: The Origin" Number="1" Volume="2001" Year="2001">
-<Database Name="cv" Series="18649" Issue="110022" />
-</Book>
-<Book Series="Wolverine: The Origin" Number="2" Volume="2001" Year="2001">
-<Database Name="cv" Series="18649" Issue="110026" />
-</Book>
-<Book Series="Wolverine: The Origin" Number="3" Volume="2001" Year="2002">
-<Database Name="cv" Series="18649" Issue="110027" />
-</Book>
-<Book Series="Wolverine: The Origin" Number="4" Volume="2001" Year="2002">
-<Database Name="cv" Series="18649" Issue="110028" />
-</Book>
-<Book Series="Wolverine: The Origin" Number="5" Volume="2001" Year="2002">
-<Database Name="cv" Series="18649" Issue="110029" />
-</Book>
-<Book Series="Wolverine: The Origin" Number="6" Volume="2001" Year="2002">
-<Database Name="cv" Series="18649" Issue="110030" />
-</Book>
 <Book Series="Daredevil" Number="26" Volume="1998" Year="2001">
 <Database Name="cv" Series="6209" Issue="66274" />
 </Book>
@@ -246,6 +270,18 @@
 <Book Series="Daredevil" Number="33" Volume="1998" Year="2002">
 <Database Name="cv" Series="6209" Issue="109984" />
 </Book>
+<Book Series="Daredevil" Number="34" Volume="1998" Year="2002">
+<Database Name="cv" Series="6209" Issue="80279" />
+</Book>
+<Book Series="Daredevil" Number="35" Volume="1998" Year="2002">
+<Database Name="cv" Series="6209" Issue="88708" />
+</Book>
+<Book Series="Daredevil" Number="36" Volume="1998" Year="2002">
+<Database Name="cv" Series="6209" Issue="88710" />
+</Book>
+<Book Series="Daredevil" Number="37" Volume="1998" Year="2002">
+<Database Name="cv" Series="6209" Issue="109986" />
+</Book>
 <Book Series="The Uncanny X-Men" Number="401" Volume="1981" Year="2002">
 <Database Name="cv" Series="3092" Issue="65192" />
 </Book>
@@ -264,6 +300,18 @@
 <Book Series="The Uncanny X-Men" Number="406" Volume="1981" Year="2002">
 <Database Name="cv" Series="3092" Issue="105449" />
 </Book>
+<Book Series="New X-Men" Number="128" Volume="2001" Year="2002">
+<Database Name="cv" Series="9121" Issue="80585" />
+</Book>
+<Book Series="New X-Men" Number="129" Volume="2001" Year="2002">
+<Database Name="cv" Series="9121" Issue="106089" />
+</Book>
+<Book Series="New X-Men" Number="130" Volume="2001" Year="2002">
+<Database Name="cv" Series="9121" Issue="106112" />
+</Book>
+<Book Series="Thunderbolts" Number="66" Volume="1997" Year="2002">
+<Database Name="cv" Series="6020" Issue="80622" />
+</Book>
 <Book Series="X-Force" Number="125" Volume="1991" Year="2002">
 <Database Name="cv" Series="4604" Issue="72642" />
 </Book>
@@ -278,24 +326,6 @@
 </Book>
 <Book Series="X-Force" Number="129" Volume="1991" Year="2002">
 <Database Name="cv" Series="4604" Issue="107076" />
-</Book>
-<Book Series="Daredevil" Number="34" Volume="1998" Year="2002">
-<Database Name="cv" Series="6209" Issue="80279" />
-</Book>
-<Book Series="Daredevil" Number="35" Volume="1998" Year="2002">
-<Database Name="cv" Series="6209" Issue="88708" />
-</Book>
-<Book Series="Daredevil" Number="36" Volume="1998" Year="2002">
-<Database Name="cv" Series="6209" Issue="88710" />
-</Book>
-<Book Series="Daredevil" Number="37" Volume="1998" Year="2002">
-<Database Name="cv" Series="6209" Issue="109986" />
-</Book>
-<Book Series="Thunderbolts" Number="65" Volume="1997" Year="2002">
-<Database Name="cv" Series="6020" Issue="78244" />
-</Book>
-<Book Series="Thunderbolts" Number="66" Volume="1997" Year="2002">
-<Database Name="cv" Series="6020" Issue="80622" />
 </Book>
 <Book Series="Thunderbolts" Number="67" Volume="1997" Year="2002">
 <Database Name="cv" Series="6020" Issue="128900" />
@@ -324,6 +354,39 @@
 <Book Series="Thunderbolts" Number="75" Volume="1997" Year="2003">
 <Database Name="cv" Series="6020" Issue="128987" />
 </Book>
+<Book Series="Avengers Icons: Tigra" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="9378" Issue="128474" />
+</Book>
+<Book Series="Avengers Icons: Tigra" Number="2" Volume="2002" Year="2002">
+<Database Name="cv" Series="9378" Issue="128475" />
+</Book>
+<Book Series="Avengers Icons: Tigra" Number="3" Volume="2002" Year="2002">
+<Database Name="cv" Series="9378" Issue="128476" />
+</Book>
+<Book Series="Avengers Icons: Tigra" Number="4" Volume="2002" Year="2002">
+<Database Name="cv" Series="9378" Issue="128477" />
+</Book>
+<Book Series="Captain Marvel" Number="32" Volume="2000" Year="2002">
+<Database Name="cv" Series="6458" Issue="80570" />
+</Book>
+<Book Series="Captain Marvel" Number="33" Volume="2000" Year="2002">
+<Database Name="cv" Series="6458" Issue="80571" />
+</Book>
+<Book Series="Captain Marvel" Number="34" Volume="2000" Year="2002">
+<Database Name="cv" Series="6458" Issue="106951" />
+</Book>
+<Book Series="Captain Marvel" Number="35" Volume="2000" Year="2002">
+<Database Name="cv" Series="6458" Issue="106952" />
+</Book>
+<Book Series="New X-Men" Number="131" Volume="2001" Year="2002">
+<Database Name="cv" Series="9121" Issue="106161" />
+</Book>
+<Book Series="New X-Men" Number="132" Volume="2001" Year="2002">
+<Database Name="cv" Series="9121" Issue="106564" />
+</Book>
+<Book Series="New X-Men" Number="133" Volume="2001" Year="2002">
+<Database Name="cv" Series="9121" Issue="106301" />
+</Book>
 <Book Series="X-Treme X-Men" Number="10" Volume="2001" Year="2002">
 <Database Name="cv" Series="9411" Issue="105432" />
 </Book>
@@ -351,44 +414,32 @@
 <Book Series="X-Treme X-Men" Number="18" Volume="2001" Year="2002">
 <Database Name="cv" Series="9411" Issue="106019" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="1" Volume="2002" Year="2002">
-<Database Name="cv" Series="9378" Issue="128474" />
+<Book Series="The Uncanny X-Men" Number="414" Volume="1981" Year="2002">
+<Database Name="cv" Series="3092" Issue="107753" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="2" Volume="2002" Year="2002">
-<Database Name="cv" Series="9378" Issue="128475" />
+<Book Series="The Hood" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="9495" Issue="78202" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="3" Volume="2002" Year="2002">
-<Database Name="cv" Series="9378" Issue="128476" />
+<Book Series="The Hood" Number="2" Volume="2002" Year="2002">
+<Database Name="cv" Series="9495" Issue="78203" />
 </Book>
-<Book Series="Avengers Icons: Tigra" Number="4" Volume="2002" Year="2002">
-<Database Name="cv" Series="9378" Issue="128477" />
+<Book Series="The Hood" Number="3" Volume="2002" Year="2002">
+<Database Name="cv" Series="9495" Issue="78204" />
 </Book>
-<Book Series="Captain Marvel" Number="32" Volume="2000" Year="2002">
-<Database Name="cv" Series="6458" Issue="80570" />
+<Book Series="The Hood" Number="4" Volume="2002" Year="2002">
+<Database Name="cv" Series="9495" Issue="78205" />
 </Book>
-<Book Series="Captain Marvel" Number="33" Volume="2000" Year="2002">
-<Database Name="cv" Series="6458" Issue="80571" />
+<Book Series="The Hood" Number="5" Volume="2002" Year="2002">
+<Database Name="cv" Series="9495" Issue="78206" />
 </Book>
-<Book Series="Captain Marvel" Number="34" Volume="2000" Year="2002">
-<Database Name="cv" Series="6458" Issue="106951" />
+<Book Series="The Hood" Number="6" Volume="2002" Year="2002">
+<Database Name="cv" Series="9495" Issue="78207" />
 </Book>
-<Book Series="Captain Marvel" Number="35" Volume="2000" Year="2002">
-<Database Name="cv" Series="6458" Issue="106952" />
+<Book Series="Captain Marvel" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="18296" Issue="107084" />
 </Book>
-<Book Series="New X-Men" Number="128" Volume="2001" Year="2002">
-<Database Name="cv" Series="9121" Issue="80585" />
-</Book>
-<Book Series="New X-Men" Number="129" Volume="2001" Year="2002">
-<Database Name="cv" Series="9121" Issue="106089" />
-</Book>
-<Book Series="New X-Men" Number="130" Volume="2001" Year="2002">
-<Database Name="cv" Series="9121" Issue="106112" />
-</Book>
-<Book Series="Black Panther" Number="48" Volume="1998" Year="2002">
-<Database Name="cv" Series="6496" Issue="126058" />
-</Book>
-<Book Series="Black Panther" Number="49" Volume="1998" Year="2002">
-<Database Name="cv" Series="6496" Issue="126067" />
+<Book Series="Captain Marvel" Number="2" Volume="2002" Year="2002">
+<Database Name="cv" Series="18296" Issue="124084" />
 </Book>
 <Book Series="Avengers" Number="57" Volume="1998" Year="2002">
 <Database Name="cv" Series="7084" Issue="113949" />
@@ -402,8 +453,17 @@
 <Book Series="Avengers" Number="60" Volume="1998" Year="2003">
 <Database Name="cv" Series="7084" Issue="113973" />
 </Book>
+<Book Series="X-Treme X-Men" Number="19" Volume="2001" Year="2002">
+<Database Name="cv" Series="9411" Issue="106074" />
+</Book>
 <Book Series="Avengers" Number="61" Volume="1998" Year="2003">
 <Database Name="cv" Series="7084" Issue="113974" />
+</Book>
+<Book Series="Avengers" Number="62" Volume="1998" Year="2003">
+<Database Name="cv" Series="7084" Issue="114408" />
+</Book>
+<Book Series="Black Panther" Number="49" Volume="1998" Year="2002">
+<Database Name="cv" Series="6496" Issue="126067" />
 </Book>
 <Book Series="Daredevil" Number="38" Volume="1998" Year="2002">
 <Database Name="cv" Series="6209" Issue="109988" />
@@ -429,60 +489,6 @@
 <Book Series="Daredevil" Number="45" Volume="1998" Year="2003">
 <Database Name="cv" Series="6209" Issue="110237" />
 </Book>
-<Book Series="The Hood" Number="1" Volume="2002" Year="2002">
-<Database Name="cv" Series="9495" Issue="78202" />
-</Book>
-<Book Series="The Hood" Number="2" Volume="2002" Year="2002">
-<Database Name="cv" Series="9495" Issue="78203" />
-</Book>
-<Book Series="The Hood" Number="3" Volume="2002" Year="2002">
-<Database Name="cv" Series="9495" Issue="78204" />
-</Book>
-<Book Series="The Hood" Number="4" Volume="2002" Year="2002">
-<Database Name="cv" Series="9495" Issue="78205" />
-</Book>
-<Book Series="The Hood" Number="5" Volume="2002" Year="2002">
-<Database Name="cv" Series="9495" Issue="78206" />
-</Book>
-<Book Series="The Hood" Number="6" Volume="2002" Year="2002">
-<Database Name="cv" Series="9495" Issue="78207" />
-</Book>
-<Book Series="New X-Men" Number="131" Volume="2001" Year="2002">
-<Database Name="cv" Series="9121" Issue="106161" />
-</Book>
-<Book Series="New X-Men" Number="132" Volume="2001" Year="2002">
-<Database Name="cv" Series="9121" Issue="106564" />
-</Book>
-<Book Series="New X-Men" Number="133" Volume="2001" Year="2002">
-<Database Name="cv" Series="9121" Issue="106301" />
-</Book>
-<Book Series="X-Treme X-Men" Number="19" Volume="2001" Year="2002">
-<Database Name="cv" Series="9411" Issue="106074" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="414" Volume="1981" Year="2002">
-<Database Name="cv" Series="3092" Issue="107753" />
-</Book>
-<Book Series="Captain Marvel" Number="1" Volume="2002" Year="2002">
-<Database Name="cv" Series="18296" Issue="107084" />
-</Book>
-<Book Series="Captain Marvel" Number="2" Volume="2002" Year="2002">
-<Database Name="cv" Series="18296" Issue="124084" />
-</Book>
-<Book Series="Avengers" Number="62" Volume="1998" Year="2003">
-<Database Name="cv" Series="7084" Issue="114408" />
-</Book>
-<Book Series="Thor" Number="58" Volume="1998" Year="2003">
-<Database Name="cv" Series="6226" Issue="99304" />
-</Book>
-<Book Series="Iron Man" Number="64" Volume="1998" Year="2003">
-<Database Name="cv" Series="6504" Issue="118530" />
-</Book>
-<Book Series="Avengers" Number="63" Volume="1998" Year="2003">
-<Database Name="cv" Series="7084" Issue="114409" />
-</Book>
-<Book Series="X-Men Unlimited" Number="45" Volume="1993" Year="2003">
-<Database Name="cv" Series="5066" Issue="90017" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="417" Volume="1981" Year="2003">
 <Database Name="cv" Series="3092" Issue="105314" />
 </Book>
@@ -494,6 +500,18 @@
 </Book>
 <Book Series="The Uncanny X-Men" Number="420" Volume="1981" Year="2003">
 <Database Name="cv" Series="3092" Issue="105317" />
+</Book>
+<Book Series="X-Men Unlimited" Number="45" Volume="1993" Year="2003">
+<Database Name="cv" Series="5066" Issue="90017" />
+</Book>
+<Book Series="Thor" Number="58" Volume="1998" Year="2003">
+<Database Name="cv" Series="6226" Issue="99304" />
+</Book>
+<Book Series="Iron Man" Number="64" Volume="1998" Year="2003">
+<Database Name="cv" Series="6504" Issue="118530" />
+</Book>
+<Book Series="Avengers" Number="63" Volume="1998" Year="2003">
+<Database Name="cv" Series="7084" Issue="114409" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="421" Volume="1981" Year="2003">
 <Database Name="cv" Series="3092" Issue="108246" />
@@ -2984,24 +3002,6 @@
 </Book>
 <Book Series="X-23: Target X" Number="2" Volume="2007" Year="2007">
 <Database Name="cv" Series="18171" Issue="106503" />
-</Book>
-<Book Series="X-23: Target X" Number="3" Volume="2007" Year="2007">
-<Database Name="cv" Series="18171" Issue="106401" />
-</Book>
-<Book Series="X-23: Target X" Number="4" Volume="2007" Year="2007">
-<Database Name="cv" Series="18171" Issue="107205" />
-</Book>
-<Book Series="X-23: Target X" Number="5" Volume="2007" Year="2007">
-<Database Name="cv" Series="18171" Issue="108564" />
-</Book>
-<Book Series="X-23: Target X" Number="6" Volume="2007" Year="2007">
-<Database Name="cv" Series="18171" Issue="110025" />
-</Book>
-<Book Series="New X-Men" Number="33" Volume="2004" Year="2007">
-<Database Name="cv" Series="18078" Issue="110486" />
-</Book>
-<Book Series="New X-Men" Number="34" Volume="2004" Year="2007">
-<Database Name="cv" Series="18078" Issue="110487" />
 </Book>
 </Books>
 <Matchers />

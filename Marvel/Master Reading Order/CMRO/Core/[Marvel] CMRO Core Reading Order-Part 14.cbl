@@ -291,12 +291,6 @@
 <Book Series="Marvel Knights: 4" Number="28" Volume="2004" Year="2006">
 <Database Name="cv" Series="21736" Issue="134175" />
 </Book>
-<Book Series="Marvel Knights: 4" Number="29" Volume="2004" Year="2006">
-<Database Name="cv" Series="21736" Issue="134176" />
-</Book>
-<Book Series="Marvel Knights: 4" Number="30" Volume="2004" Year="2006">
-<Database Name="cv" Series="21736" Issue="134177" />
-</Book>
 <Book Series="The Thing" Number="7" Volume="2005" Year="2006">
 <Database Name="cv" Series="18242" Issue="106955" />
 </Book>
@@ -533,6 +527,12 @@
 </Book>
 <Book Series="Incredible Hulk" Number="91" Volume="2000" Year="2006">
 <Database Name="cv" Series="6558" Issue="112741" />
+</Book>
+<Book Series="Marvel Knights: 4" Number="29" Volume="2004" Year="2006">
+<Database Name="cv" Series="21736" Issue="134176" />
+</Book>
+<Book Series="Marvel Knights: 4" Number="30" Volume="2004" Year="2006">
+<Database Name="cv" Series="21736" Issue="134177" />
 </Book>
 <Book Series="Storm" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18260" Issue="106913" />
@@ -1287,7 +1287,7 @@
 <Book Series="The Uncanny X-Men" Number="476" Volume="1981" Year="2006">
 <Database Name="cv" Series="3092" Issue="107939" />
 </Book>
-<Book Series="X-Men" Number="189" Volume="2004" Year="2006">
+<Book Series="X-Men" Number="189" Volume="1991" Year="2006">
 <Database Name="cv" Series="10731" Issue="107955" />
 </Book>
 <Book Series="X-Men" Number="190" Volume="2004" Year="2006">

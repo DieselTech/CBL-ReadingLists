@@ -1,53 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 03</Name>
-<NumIssues>984</NumIssues>
+<NumIssues>999</NumIssues>
 <Books>
-<Book Series="Meet Miss Bliss" Number="1" Volume="1955" Year="1955">
-<Database Name="cv" Series="1708" Issue="94320" />
-</Book>
-<Book Series="Patsy and her Pals" Number="13" Volume="1953" Year="1955">
-<Database Name="cv" Series="30576" Issue="188619" />
-</Book>
-<Book Series="Patsy Walker" Number="58" Volume="1945" Year="1955">
-<Database Name="cv" Series="1062" Issue="73666" />
-</Book>
-<Book Series="Red Mask" Number="49" Volume="1954" Year="1955">
-<Database Name="cv" Series="27105" Issue="164546" />
-</Book>
-<Book Series="Battle Action" Number="17" Volume="1952" Year="1955">
-<Database Name="cv" Series="1493" Issue="187458" />
-</Book>
-<Book Series="Combat Casey" Number="22" Volume="1953" Year="1955">
-<Database Name="cv" Series="1573" Issue="90639" />
-</Book>
-<Book Series="Combat Kelly" Number="31" Volume="1951" Year="1955">
-<Database Name="cv" Series="30570" Issue="188365" />
-</Book>
-<Book Series="Jungle Action" Number="5" Volume="1954" Year="1955">
-<Database Name="cv" Series="20835" Issue="188441" />
-</Book>
-<Book Series="Marines In Action" Number="1" Volume="1955" Year="1955">
-<Database Name="cv" Series="30550" Issue="187939" />
-</Book>
-<Book Series="Marines In Battle" Number="6" Volume="1954" Year="1955">
-<Database Name="cv" Series="1633" Issue="188062" />
-</Book>
-<Book Series="Marvel Tales" Number="135" Volume="1949" Year="1955">
-<Database Name="cv" Series="1283" Issue="1843" />
-</Book>
-<Book Series="Mystery Tales" Number="30" Volume="1952" Year="1955">
-<Database Name="cv" Series="1499" Issue="95397" />
-</Book>
-<Book Series="Navy Action" Number="6" Volume="1954" Year="1955">
-<Database Name="cv" Series="1634" Issue="90527" />
-</Book>
-<Book Series="Navy Combat" Number="1" Volume="1955" Year="1955">
-<Database Name="cv" Series="30575" Issue="188578" />
-</Book>
-<Book Series="Sub-Mariner" Number="40" Volume="1954" Year="1955">
-<Database Name="cv" Series="18548" Issue="1846" />
-</Book>
 <Book Series="Annie Oakley" Number="5" Volume="1948" Year="1955">
 <Database Name="cv" Series="1699" Issue="1838" />
 </Book>
@@ -70,7 +25,7 @@
 <Database Name="cv" Series="19441" Issue="185791" />
 </Book>
 <Book Series="Miss America" Number="70" Volume="1953" Year="1955">
-<Database Name="cv" Series="21618" Issue="135388" />
+<Database Name="cv" Series="7071" Issue="135388" />
 </Book>
 <Book Series="My Girl Pearl" Number="2" Volume="1955" Year="1955">
 <Database Name="cv" Series="1709" Issue="95317" />
@@ -103,7 +58,7 @@
 <Database Name="cv" Series="1636" Issue="1922" />
 </Book>
 <Book Series="Rawhide Kid" Number="3" Volume="1955" Year="1955">
-<Database Name="cv" Series="2023" Issue="1923" />
+<Database Name="cv" Series="1712" Issue="1923" />
 </Book>
 <Book Series="Two-Gun Kid" Number="24" Volume="1948" Year="1955">
 <Database Name="cv" Series="1583" Issue="91119" />
@@ -117,7 +72,7 @@
 <Book Series="Meet Miss Bliss" Number="2" Volume="1955" Year="1955">
 <Database Name="cv" Series="1708" Issue="94321" />
 </Book>
-<Book Series="Patsy and her Pals" Number="14" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="14" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188620" />
 </Book>
 <Book Series="Patsy Walker" Number="59" Volume="1945" Year="1955">
@@ -135,17 +90,17 @@
 <Book Series="Jungle Action" Number="6" Volume="1954" Year="1955">
 <Database Name="cv" Series="20835" Issue="188442" />
 </Book>
-<Book Series="Marines In Action" Number="2" Volume="1955" Year="1955">
+<Book Series="Marines in Action" Number="2" Volume="1955" Year="1955">
 <Database Name="cv" Series="30550" Issue="187940" />
 </Book>
-<Book Series="Marines In Battle" Number="7" Volume="1954" Year="1955">
+<Book Series="Marines in Battle" Number="7" Volume="1954" Year="1955">
 <Database Name="cv" Series="1633" Issue="188063" />
 </Book>
 <Book Series="Navy Action" Number="7" Volume="1954" Year="1955">
 <Database Name="cv" Series="1634" Issue="90528" />
 </Book>
 <Book Series="Sub-Mariner" Number="41" Volume="1954" Year="1955">
-<Database Name="cv" Series="18548" Issue="1970" />
+<Database Name="cv" Series="1642" Issue="1970" />
 </Book>
 <Book Series="Annie Oakley" Number="6" Volume="1948" Year="1955">
 <Database Name="cv" Series="1699" Issue="1964" />
@@ -169,7 +124,7 @@
 <Database Name="cv" Series="19441" Issue="185792" />
 </Book>
 <Book Series="Miss America" Number="71" Volume="1953" Year="1955">
-<Database Name="cv" Series="21618" Issue="94355" />
+<Database Name="cv" Series="7071" Issue="94355" />
 </Book>
 <Book Series="My Girl Pearl" Number="3" Volume="1955" Year="1955">
 <Database Name="cv" Series="1709" Issue="95318" />
@@ -177,7 +132,7 @@
 <Book Series="Patsy and Hedy" Number="36" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185921" />
 </Book>
-<Book Series="Patsy and her Pals" Number="15" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="15" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188621" />
 </Book>
 <Book Series="Battlefront" Number="35" Volume="1952" Year="1955">
@@ -208,7 +163,7 @@
 <Database Name="cv" Series="1636" Issue="2027" />
 </Book>
 <Book Series="Rawhide Kid" Number="4" Volume="1955" Year="1955">
-<Database Name="cv" Series="2023" Issue="2028" />
+<Database Name="cv" Series="1712" Issue="2028" />
 </Book>
 <Book Series="Two-Gun Kid" Number="25" Volume="1948" Year="1955">
 <Database Name="cv" Series="1583" Issue="2037" />
@@ -226,12 +181,12 @@
 <Database Name="cv" Series="19441" Issue="185793" />
 </Book>
 <Book Series="Miss America" Number="72" Volume="1953" Year="1955">
-<Database Name="cv" Series="21618" Issue="135393" />
+<Database Name="cv" Series="7071" Issue="135393" />
 </Book>
 <Book Series="Patsy and Hedy" Number="37" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185922" />
 </Book>
-<Book Series="Patsy and her Pals" Number="16" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="16" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188622" />
 </Book>
 <Book Series="Patsy Walker" Number="60" Volume="1945" Year="1955">
@@ -246,10 +201,10 @@
 <Book Series="Combat Kelly" Number="33" Volume="1951" Year="1955">
 <Database Name="cv" Series="30570" Issue="188367" />
 </Book>
-<Book Series="Marines In Action" Number="3" Volume="1955" Year="1955">
+<Book Series="Marines in Action" Number="3" Volume="1955" Year="1955">
 <Database Name="cv" Series="30550" Issue="187941" />
 </Book>
-<Book Series="Marines In Battle" Number="8" Volume="1954" Year="1955">
+<Book Series="Marines in Battle" Number="8" Volume="1954" Year="1955">
 <Database Name="cv" Series="1633" Issue="2082" />
 </Book>
 <Book Series="Marvel Tales" Number="139" Volume="1949" Year="1955">
@@ -262,7 +217,7 @@
 <Database Name="cv" Series="18066" Issue="108974" />
 </Book>
 <Book Series="Sub-Mariner" Number="42" Volume="1954" Year="1955">
-<Database Name="cv" Series="18548" Issue="2088" />
+<Database Name="cv" Series="1642" Issue="2088" />
 </Book>
 <Book Series="Annie Oakley" Number="7" Volume="1948" Year="1955">
 <Database Name="cv" Series="1699" Issue="188232" />
@@ -286,7 +241,7 @@
 <Database Name="cv" Series="19441" Issue="185794" />
 </Book>
 <Book Series="Miss America" Number="73" Volume="1953" Year="1955">
-<Database Name="cv" Series="21618" Issue="135396" />
+<Database Name="cv" Series="7071" Issue="135396" />
 </Book>
 <Book Series="My Girl Pearl" Number="4" Volume="1955" Year="1955">
 <Database Name="cv" Series="1709" Issue="187313" />
@@ -294,7 +249,7 @@
 <Book Series="Patsy and Hedy" Number="38" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185923" />
 </Book>
-<Book Series="Patsy and her Pals" Number="17" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="17" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188623" />
 </Book>
 <Book Series="Patty Powers" Number="4" Volume="1955" Year="1955">
@@ -331,7 +286,7 @@
 <Database Name="cv" Series="1636" Issue="2141" />
 </Book>
 <Book Series="Rawhide Kid" Number="5" Volume="1955" Year="1955">
-<Database Name="cv" Series="2023" Issue="2142" />
+<Database Name="cv" Series="1712" Issue="2142" />
 </Book>
 <Book Series="Two-Gun Kid" Number="27" Volume="1948" Year="1955">
 <Database Name="cv" Series="1583" Issue="91120" />
@@ -352,12 +307,12 @@
 <Database Name="cv" Series="19441" Issue="185795" />
 </Book>
 <Book Series="Miss America" Number="74" Volume="1953" Year="1955">
-<Database Name="cv" Series="21618" Issue="94356" />
+<Database Name="cv" Series="7071" Issue="94356" />
 </Book>
 <Book Series="Patsy and Hedy" Number="39" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185924" />
 </Book>
-<Book Series="Patsy and her Pals" Number="18" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="18" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188624" />
 </Book>
 <Book Series="Patsy Walker" Number="61" Volume="1945" Year="1955">
@@ -369,10 +324,10 @@
 <Book Series="Combat Kelly" Number="34" Volume="1951" Year="1955">
 <Database Name="cv" Series="30570" Issue="188368" />
 </Book>
-<Book Series="Marines In Action" Number="4" Volume="1955" Year="1955">
+<Book Series="Marines in Action" Number="4" Volume="1955" Year="1955">
 <Database Name="cv" Series="30550" Issue="187942" />
 </Book>
-<Book Series="Marines In Battle" Number="9" Volume="1954" Year="1955">
+<Book Series="Marines in Battle" Number="9" Volume="1954" Year="1955">
 <Database Name="cv" Series="1633" Issue="124828" />
 </Book>
 <Book Series="Navy Action" Number="9" Volume="1954" Year="1955">
@@ -406,12 +361,12 @@
 <Database Name="cv" Series="19441" Issue="185796" />
 </Book>
 <Book Series="Miss America" Number="75" Volume="1953" Year="1955">
-<Database Name="cv" Series="21618" Issue="94357" />
+<Database Name="cv" Series="7071" Issue="94357" />
 </Book>
 <Book Series="Patsy and Hedy" Number="40" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185925" />
 </Book>
-<Book Series="Patsy and her Pals" Number="19" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="19" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188625" />
 </Book>
 <Book Series="Battle" Number="44" Volume="1951" Year="1956">
@@ -436,7 +391,7 @@
 <Database Name="cv" Series="1636" Issue="2267" />
 </Book>
 <Book Series="Rawhide Kid" Number="6" Volume="1955" Year="1956">
-<Database Name="cv" Series="2023" Issue="2268" />
+<Database Name="cv" Series="1712" Issue="2268" />
 </Book>
 <Book Series="Wild Western" Number="47" Volume="1948" Year="1956">
 <Database Name="cv" Series="1213" Issue="2270" />
@@ -448,12 +403,12 @@
 <Database Name="cv" Series="19441" Issue="185797" />
 </Book>
 <Book Series="Miss America" Number="76" Volume="1953" Year="1956">
-<Database Name="cv" Series="21618" Issue="188777" />
+<Database Name="cv" Series="7071" Issue="188777" />
 </Book>
 <Book Series="Patsy and Hedy" Number="41" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185927" />
 </Book>
-<Book Series="Patsy and her Pals" Number="20" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="20" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188626" />
 </Book>
 <Book Series="Patsy Walker" Number="62" Volume="1945" Year="1956">
@@ -468,16 +423,16 @@
 <Book Series="Journey into Mystery" Number="31" Volume="1952" Year="1956">
 <Database Name="cv" Series="1497" Issue="2310" />
 </Book>
-<Book Series="Marines In Action" Number="5" Volume="1955" Year="1956">
+<Book Series="Marines in Action" Number="5" Volume="1955" Year="1956">
 <Database Name="cv" Series="30550" Issue="187943" />
 </Book>
-<Book Series="Marines In Battle" Number="10" Volume="1954" Year="1956">
+<Book Series="Marines in Battle" Number="10" Volume="1954" Year="1956">
 <Database Name="cv" Series="1633" Issue="124829" />
 </Book>
 <Book Series="Navy Action" Number="10" Volume="1954" Year="1956">
 <Database Name="cv" Series="1634" Issue="90529" />
 </Book>
-<Book Series="Strange Tales Of The Unusual" Number="2" Volume="1955" Year="1956">
+<Book Series="Strange Tales of the Unusual" Number="2" Volume="1955" Year="1956">
 <Database Name="cv" Series="30548" Issue="187903" />
 </Book>
 <Book Series="Annie Oakley" Number="9" Volume="1948" Year="1956">
@@ -532,7 +487,7 @@
 <Database Name="cv" Series="1636" Issue="188001" />
 </Book>
 <Book Series="Rawhide Kid" Number="7" Volume="1955" Year="1956">
-<Database Name="cv" Series="2023" Issue="2365" />
+<Database Name="cv" Series="1712" Issue="2365" />
 </Book>
 <Book Series="Wild Western" Number="48" Volume="1948" Year="1956">
 <Database Name="cv" Series="1213" Issue="2368" />
@@ -544,12 +499,12 @@
 <Database Name="cv" Series="19441" Issue="185798" />
 </Book>
 <Book Series="Miss America" Number="77" Volume="1953" Year="1956">
-<Database Name="cv" Series="21618" Issue="135402" />
+<Database Name="cv" Series="7071" Issue="135402" />
 </Book>
 <Book Series="Patsy and Hedy" Number="42" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185928" />
 </Book>
-<Book Series="Patsy and her Pals" Number="21" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="21" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188627" />
 </Book>
 <Book Series="Patsy Walker" Number="63" Volume="1945" Year="1956">
@@ -570,16 +525,16 @@
 <Book Series="Journey into Mystery" Number="33" Volume="1952" Year="1956">
 <Database Name="cv" Series="1497" Issue="2410" />
 </Book>
-<Book Series="Marines In Action" Number="6" Volume="1955" Year="1956">
+<Book Series="Marines in Action" Number="6" Volume="1955" Year="1956">
 <Database Name="cv" Series="30550" Issue="187944" />
 </Book>
-<Book Series="Marines In Battle" Number="11" Volume="1954" Year="1956">
+<Book Series="Marines in Battle" Number="11" Volume="1954" Year="1956">
 <Database Name="cv" Series="1633" Issue="2411" />
 </Book>
 <Book Series="Navy Action" Number="11" Volume="1954" Year="1956">
 <Database Name="cv" Series="1634" Issue="90530" />
 </Book>
-<Book Series="Strange Tales Of The Unusual" Number="3" Volume="1955" Year="1956">
+<Book Series="Strange Tales of the Unusual" Number="3" Volume="1955" Year="1956">
 <Database Name="cv" Series="30548" Issue="187904" />
 </Book>
 <Book Series="Annie Oakley" Number="10" Volume="1948" Year="1956">
@@ -643,7 +598,7 @@
 <Database Name="cv" Series="1790" Issue="188389" />
 </Book>
 <Book Series="Rawhide Kid" Number="8" Volume="1955" Year="1956">
-<Database Name="cv" Series="2023" Issue="2458" />
+<Database Name="cv" Series="1712" Issue="2458" />
 </Book>
 <Book Series="Wild Western" Number="49" Volume="1948" Year="1956">
 <Database Name="cv" Series="1213" Issue="2460" />
@@ -655,12 +610,12 @@
 <Database Name="cv" Series="19441" Issue="185799" />
 </Book>
 <Book Series="Miss America" Number="78" Volume="1953" Year="1956">
-<Database Name="cv" Series="21618" Issue="135409" />
+<Database Name="cv" Series="7071" Issue="135409" />
 </Book>
 <Book Series="Patsy and Hedy" Number="43" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185929" />
 </Book>
-<Book Series="Patsy and her Pals" Number="22" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="22" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188628" />
 </Book>
 <Book Series="Patsy Walker" Number="64" Volume="1945" Year="1956">
@@ -675,7 +630,7 @@
 <Book Series="Combat Kelly" Number="37" Volume="1951" Year="1956">
 <Database Name="cv" Series="30570" Issue="188371" />
 </Book>
-<Book Series="Marines In Battle" Number="12" Volume="1954" Year="1956">
+<Book Series="Marines in Battle" Number="12" Volume="1954" Year="1956">
 <Database Name="cv" Series="1633" Issue="188064" />
 </Book>
 <Book Series="Riot" Number="6" Volume="1954" Year="1956">
@@ -729,7 +684,7 @@
 <Book Series="Lorna, The Jungle Girl" Number="20" Volume="1954" Year="1956">
 <Database Name="cv" Series="1632" Issue="2561" />
 </Book>
-<Book Series="Marines In Action" Number="7" Volume="1955" Year="1956">
+<Book Series="Marines in Action" Number="7" Volume="1955" Year="1956">
 <Database Name="cv" Series="30550" Issue="187945" />
 </Book>
 <Book Series="Marvel Tales" Number="148" Volume="1949" Year="1956">
@@ -748,7 +703,7 @@
 <Database Name="cv" Series="1636" Issue="2563" />
 </Book>
 <Book Series="Rawhide Kid" Number="9" Volume="1955" Year="1956">
-<Database Name="cv" Series="2023" Issue="2565" />
+<Database Name="cv" Series="1712" Issue="2565" />
 </Book>
 <Book Series="Two-Gun Western" Number="5" Volume="1956" Year="1956">
 <Database Name="cv" Series="1796" Issue="91109" />
@@ -763,12 +718,12 @@
 <Database Name="cv" Series="19441" Issue="185800" />
 </Book>
 <Book Series="Miss America" Number="79" Volume="1953" Year="1956">
-<Database Name="cv" Series="21618" Issue="94358" />
+<Database Name="cv" Series="7071" Issue="94358" />
 </Book>
 <Book Series="Patsy and Hedy" Number="44" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185930" />
 </Book>
-<Book Series="Patsy and her Pals" Number="23" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="23" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188629" />
 </Book>
 <Book Series="Patsy Walker" Number="65" Volume="1945" Year="1956">
@@ -783,7 +738,7 @@
 <Book Series="Combat Kelly" Number="38" Volume="1951" Year="1956">
 <Database Name="cv" Series="30570" Issue="188372" />
 </Book>
-<Book Series="Marines In Battle" Number="13" Volume="1954" Year="1956">
+<Book Series="Marines in Battle" Number="13" Volume="1954" Year="1956">
 <Database Name="cv" Series="1633" Issue="188065" />
 </Book>
 <Book Series="Sergeant Barney Barker" Number="1" Volume="1956" Year="1956">
@@ -816,7 +771,7 @@
 <Book Series="Lorna, The Jungle Girl" Number="21" Volume="1954" Year="1956">
 <Database Name="cv" Series="1632" Issue="2677" />
 </Book>
-<Book Series="Marines In Action" Number="8" Volume="1955" Year="1956">
+<Book Series="Marines in Action" Number="8" Volume="1955" Year="1956">
 <Database Name="cv" Series="30550" Issue="187946" />
 </Book>
 <Book Series="Kid Colt Outlaw" Number="64" Volume="1949" Year="1956">
@@ -829,7 +784,7 @@
 <Database Name="cv" Series="1636" Issue="2681" />
 </Book>
 <Book Series="Rawhide Kid" Number="10" Volume="1955" Year="1956">
-<Database Name="cv" Series="2023" Issue="2683" />
+<Database Name="cv" Series="1712" Issue="2683" />
 </Book>
 <Book Series="Wild Western" Number="51" Volume="1948" Year="1956">
 <Database Name="cv" Series="1213" Issue="2685" />
@@ -841,12 +796,12 @@
 <Database Name="cv" Series="19441" Issue="185801" />
 </Book>
 <Book Series="Miss America" Number="80" Volume="1953" Year="1956">
-<Database Name="cv" Series="21618" Issue="135391" />
+<Database Name="cv" Series="7071" Issue="135391" />
 </Book>
 <Book Series="Patsy and Hedy" Number="45" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185931" />
 </Book>
-<Book Series="Patsy and her Pals" Number="24" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="24" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188630" />
 </Book>
 <Book Series="Patsy Walker" Number="66" Volume="1945" Year="1956">
@@ -864,7 +819,7 @@
 <Book Series="Combat Kelly" Number="39" Volume="1951" Year="1956">
 <Database Name="cv" Series="30570" Issue="188373" />
 </Book>
-<Book Series="Marines In Battle" Number="14" Volume="1954" Year="1956">
+<Book Series="Marines in Battle" Number="14" Volume="1954" Year="1956">
 <Database Name="cv" Series="1633" Issue="188066" />
 </Book>
 <Book Series="Mystic" Number="52" Volume="1951" Year="1956">
@@ -912,7 +867,7 @@
 <Book Series="Journey into Mystery" Number="40" Volume="1952" Year="1956">
 <Database Name="cv" Series="1497" Issue="2767" />
 </Book>
-<Book Series="Marines In Action" Number="9" Volume="1955" Year="1956">
+<Book Series="Marines in Action" Number="9" Volume="1955" Year="1956">
 <Database Name="cv" Series="30550" Issue="187947" />
 </Book>
 <Book Series="Sailor Sweeney" Number="14" Volume="1956" Year="1956">
@@ -928,7 +883,7 @@
 <Database Name="cv" Series="1636" Issue="2770" />
 </Book>
 <Book Series="Rawhide Kid" Number="11" Volume="1955" Year="1956">
-<Database Name="cv" Series="2023" Issue="2771" />
+<Database Name="cv" Series="1712" Issue="2771" />
 </Book>
 <Book Series="Wild Western" Number="52" Volume="1948" Year="1956">
 <Database Name="cv" Series="1213" Issue="2774" />
@@ -940,7 +895,7 @@
 <Database Name="cv" Series="19441" Issue="185803" />
 </Book>
 <Book Series="Miss America" Number="81" Volume="1953" Year="1956">
-<Database Name="cv" Series="21618" Issue="94359" />
+<Database Name="cv" Series="7071" Issue="94359" />
 </Book>
 <Book Series="Patsy and Hedy" Number="47" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185933" />
@@ -957,7 +912,7 @@
 <Book Series="Lorna, The Jungle Girl" Number="22" Volume="1954" Year="1956">
 <Database Name="cv" Series="1632" Issue="2811" />
 </Book>
-<Book Series="Marines In Battle" Number="15" Volume="1954" Year="1956">
+<Book Series="Marines in Battle" Number="15" Volume="1954" Year="1956">
 <Database Name="cv" Series="1633" Issue="124831" />
 </Book>
 <Book Series="Spellbound" Number="31" Volume="1952" Year="1956">
@@ -993,7 +948,7 @@
 <Book Series="Patsy and Hedy" Number="48" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185934" />
 </Book>
-<Book Series="Patsy and her Pals" Number="25" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="25" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188631" />
 </Book>
 <Book Series="Sherry the Showgirl" Number="3" Volume="1956" Year="1956">
@@ -1002,14 +957,14 @@
 <Book Series="Combat Casey" Number="31" Volume="1953" Year="1957">
 <Database Name="cv" Series="1573" Issue="90647" />
 </Book>
-<Book Series="Marines In Action" Number="10" Volume="1955" Year="1957">
+<Book Series="Marines in Action" Number="10" Volume="1955" Year="1957">
 <Database Name="cv" Series="30550" Issue="187948" />
 </Book>
 <Book Series="Mystic" Number="55" Volume="1951" Year="1957">
 <Database Name="cv" Series="1429" Issue="98009" />
 </Book>
 <Book Series="Navy Action" Number="15" Volume="1957" Year="1957">
-<Database Name="cv" Series="1634" Issue="188866" />
+<Database Name="cv" Series="1851" Issue="188866" />
 </Book>
 <Book Series="War Comics" Number="45" Volume="1950" Year="1957">
 <Database Name="cv" Series="1366" Issue="91078" />
@@ -1024,7 +979,7 @@
 <Database Name="cv" Series="1636" Issue="2878" />
 </Book>
 <Book Series="Rawhide Kid" Number="12" Volume="1955" Year="1957">
-<Database Name="cv" Series="2023" Issue="2879" />
+<Database Name="cv" Series="1712" Issue="2879" />
 </Book>
 <Book Series="Wild Western" Number="53" Volume="1948" Year="1957">
 <Database Name="cv" Series="1213" Issue="2883" />
@@ -1036,7 +991,7 @@
 <Database Name="cv" Series="19441" Issue="185805" />
 </Book>
 <Book Series="Miss America" Number="82" Volume="1953" Year="1957">
-<Database Name="cv" Series="21618" Issue="135406" />
+<Database Name="cv" Series="7071" Issue="135406" />
 </Book>
 <Book Series="Patsy and Hedy" Number="49" Volume="1952" Year="1957">
 <Database Name="cv" Series="8517" Issue="185935" />
@@ -1053,10 +1008,10 @@
 <Book Series="Lorna, The Jungle Girl" Number="23" Volume="1954" Year="1957">
 <Database Name="cv" Series="1632" Issue="2925" />
 </Book>
-<Book Series="Marines In Battle" Number="16" Volume="1954" Year="1957">
+<Book Series="Marines in Battle" Number="16" Volume="1954" Year="1957">
 <Database Name="cv" Series="1633" Issue="124830" />
 </Book>
-<Book Series="Tales Of The Marines" Number="4" Volume="1957" Year="1957">
+<Book Series="Tales of the Marines" Number="4" Volume="1957" Year="1957">
 <Database Name="cv" Series="30492" Issue="187605" />
 </Book>
 <Book Series="Yellow Claw" Number="3" Volume="1956" Year="1957">
@@ -1086,7 +1041,7 @@
 <Book Series="Patsy and Hedy" Number="50" Volume="1952" Year="1957">
 <Database Name="cv" Series="8517" Issue="185936" />
 </Book>
-<Book Series="Patsy and her Pals" Number="26" Volume="1953" Year="1957">
+<Book Series="Patsy and Her Pals" Number="26" Volume="1953" Year="1957">
 <Database Name="cv" Series="30576" Issue="188632" />
 </Book>
 <Book Series="Showgirls" Number="4" Volume="1957" Year="1957">
@@ -1095,7 +1050,7 @@
 <Book Series="Combat Casey" Number="32" Volume="1953" Year="1957">
 <Database Name="cv" Series="1573" Issue="90648" />
 </Book>
-<Book Series="Marines In Action" Number="11" Volume="1955" Year="1957">
+<Book Series="Marines in Action" Number="11" Volume="1955" Year="1957">
 <Database Name="cv" Series="30550" Issue="187949" />
 </Book>
 <Book Series="War Comics" Number="46" Volume="1950" Year="1957">
@@ -1111,7 +1066,7 @@
 <Database Name="cv" Series="1636" Issue="2980" />
 </Book>
 <Book Series="Rawhide Kid" Number="13" Volume="1955" Year="1957">
-<Database Name="cv" Series="2023" Issue="2981" />
+<Database Name="cv" Series="1712" Issue="2981" />
 </Book>
 <Book Series="Wild Western" Number="54" Volume="1948" Year="1957">
 <Database Name="cv" Series="1213" Issue="2987" />
@@ -1123,7 +1078,7 @@
 <Database Name="cv" Series="19441" Issue="185807" />
 </Book>
 <Book Series="Miss America" Number="83" Volume="1953" Year="1957">
-<Database Name="cv" Series="21618" Issue="135407" />
+<Database Name="cv" Series="7071" Issue="135407" />
 </Book>
 <Book Series="Patsy and Hedy" Number="51" Volume="1952" Year="1957">
 <Database Name="cv" Series="8517" Issue="185937" />
@@ -1140,11 +1095,11 @@
 <Book Series="Lorna, The Jungle Girl" Number="24" Volume="1954" Year="1957">
 <Database Name="cv" Series="1632" Issue="3029" />
 </Book>
-<Book Series="Marines In Battle" Number="17" Volume="1954" Year="1957">
+<Book Series="Marines in Battle" Number="17" Volume="1954" Year="1957">
 <Database Name="cv" Series="1633" Issue="124649" />
 </Book>
 <Book Series="Navy Action" Number="16" Volume="1957" Year="1957">
-<Database Name="cv" Series="1634" Issue="90531" />
+<Database Name="cv" Series="1851" Issue="90531" />
 </Book>
 <Book Series="Uncanny Tales" Number="54" Volume="1952" Year="1957">
 <Database Name="cv" Series="1503" Issue="3038" />
@@ -1179,16 +1134,16 @@
 <Book Series="Patsy and Hedy" Number="52" Volume="1952" Year="1957">
 <Database Name="cv" Series="8517" Issue="185938" />
 </Book>
-<Book Series="Patsy and her Pals" Number="27" Volume="1953" Year="1957">
+<Book Series="Patsy and Her Pals" Number="27" Volume="1953" Year="1957">
 <Database Name="cv" Series="30576" Issue="188633" />
 </Book>
 <Book Series="Sherry the Showgirl" Number="5" Volume="1957" Year="1957">
-<Database Name="cv" Series="1793" Issue="91250" />
+<Database Name="cv" Series="10755" Issue="91250" />
 </Book>
 <Book Series="Combat Casey" Number="33" Volume="1953" Year="1957">
 <Database Name="cv" Series="1573" Issue="90649" />
 </Book>
-<Book Series="Marines In Action" Number="12" Volume="1955" Year="1957">
+<Book Series="Marines in Action" Number="12" Volume="1955" Year="1957">
 <Database Name="cv" Series="30550" Issue="187950" />
 </Book>
 <Book Series="Kid Colt Outlaw" Number="72" Volume="1949" Year="1957">
@@ -1201,7 +1156,7 @@
 <Database Name="cv" Series="1636" Issue="3079" />
 </Book>
 <Book Series="Rawhide Kid" Number="14" Volume="1955" Year="1957">
-<Database Name="cv" Series="2023" Issue="3080" />
+<Database Name="cv" Series="1712" Issue="3080" />
 </Book>
 <Book Series="Two-Gun Western" Number="10" Volume="1956" Year="1957">
 <Database Name="cv" Series="1796" Issue="3082" />
@@ -1222,7 +1177,7 @@
 <Database Name="cv" Series="19441" Issue="185809" />
 </Book>
 <Book Series="Miss America" Number="84" Volume="1953" Year="1957">
-<Database Name="cv" Series="21618" Issue="135408" />
+<Database Name="cv" Series="7071" Issue="135408" />
 </Book>
 <Book Series="Patsy and Hedy" Number="53" Volume="1952" Year="1957">
 <Database Name="cv" Series="8517" Issue="185939" />
@@ -1242,7 +1197,7 @@
 <Book Series="Lorna, The Jungle Girl" Number="25" Volume="1954" Year="1957">
 <Database Name="cv" Series="1632" Issue="3120" />
 </Book>
-<Book Series="Marines In Battle" Number="18" Volume="1954" Year="1957">
+<Book Series="Marines in Battle" Number="18" Volume="1954" Year="1957">
 <Database Name="cv" Series="1633" Issue="124648" />
 </Book>
 <Book Series="Gunsmoke Western" Number="41" Volume="1955" Year="1957">
@@ -1251,7 +1206,7 @@
 <Book Series="Kid Colt Outlaw" Number="73" Volume="1949" Year="1957">
 <Database Name="cv" Series="1199" Issue="3119" />
 </Book>
-<Book Series="The Kid From Texas" Number="1" Volume="1957" Year="1957">
+<Book Series="The Kid from Texas" Number="1" Volume="1957" Year="1957">
 <Database Name="cv" Series="1847" Issue="46447" />
 </Book>
 <Book Series="Ringo Kid" Number="18" Volume="1954" Year="1957">
@@ -1272,19 +1227,19 @@
 <Book Series="Millie the Model" Number="79" Volume="1945" Year="1957">
 <Database Name="cv" Series="19441" Issue="185810" />
 </Book>
-<Book Series="Patsy and her Pals" Number="28" Volume="1953" Year="1957">
+<Book Series="Patsy and Her Pals" Number="28" Volume="1953" Year="1957">
 <Database Name="cv" Series="30576" Issue="188634" />
 </Book>
 <Book Series="Sherry the Showgirl" Number="6" Volume="1957" Year="1957">
-<Database Name="cv" Series="1793" Issue="91251" />
+<Database Name="cv" Series="10755" Issue="91251" />
 </Book>
 <Book Series="Showgirls" Number="1" Volume="1957" Year="1957">
-<Database Name="cv" Series="30483" Issue="91245" />
+<Database Name="cv" Series="1855" Issue="91245" />
 </Book>
 <Book Series="Combat Casey" Number="34" Volume="1953" Year="1957">
 <Database Name="cv" Series="1573" Issue="90650" />
 </Book>
-<Book Series="Marines In Action" Number="13" Volume="1955" Year="1957">
+<Book Series="Marines in Action" Number="13" Volume="1955" Year="1957">
 <Database Name="cv" Series="30550" Issue="187951" />
 </Book>
 <Book Series="Kid Colt Outlaw" Number="74" Volume="1949" Year="1957">
@@ -1297,7 +1252,7 @@
 <Database Name="cv" Series="1636" Issue="3168" />
 </Book>
 <Book Series="Rawhide Kid" Number="15" Volume="1955" Year="1957">
-<Database Name="cv" Series="2023" Issue="3169" />
+<Database Name="cv" Series="1712" Issue="3169" />
 </Book>
 <Book Series="Ringo Kid" Number="19" Volume="1954" Year="1957">
 <Database Name="cv" Series="1638" Issue="3170" />
@@ -1312,7 +1267,7 @@
 <Database Name="cv" Series="1213" Issue="3174" />
 </Book>
 <Book Series="Miss America" Number="85" Volume="1953" Year="1957">
-<Database Name="cv" Series="21618" Issue="135397" />
+<Database Name="cv" Series="7071" Issue="135397" />
 </Book>
 <Book Series="My Girl Pearl" Number="5" Volume="1955" Year="1957">
 <Database Name="cv" Series="1709" Issue="187314" />
@@ -1323,7 +1278,7 @@
 <Book Series="Patsy Walker" Number="71" Volume="1945" Year="1957">
 <Database Name="cv" Series="1062" Issue="73679" />
 </Book>
-<Book Series="Nellie The Nurse" Number="1" Volume="1957" Year="1957">
+<Book Series="Nellie the Nurse" Number="1" Volume="1957" Year="1957">
 <Database Name="cv" Series="30472" Issue="187579" />
 </Book>
 <Book Series="Battle Action" Number="30" Volume="1952" Year="1957">
@@ -1335,13 +1290,13 @@
 <Book Series="Lorna, The Jungle Girl" Number="26" Volume="1954" Year="1957">
 <Database Name="cv" Series="1632" Issue="3232" />
 </Book>
-<Book Series="Marines In Battle" Number="19" Volume="1954" Year="1957">
+<Book Series="Marines in Battle" Number="19" Volume="1954" Year="1957">
 <Database Name="cv" Series="1633" Issue="124647" />
 </Book>
 <Book Series="Gunsmoke Western" Number="42" Volume="1955" Year="1957">
 <Database Name="cv" Series="1704" Issue="3229" />
 </Book>
-<Book Series="The Kid From Texas" Number="2" Volume="1957" Year="1957">
+<Book Series="The Kid from Texas" Number="2" Volume="1957" Year="1957">
 <Database Name="cv" Series="1847" Issue="3231" />
 </Book>
 <Book Series="Ringo Kid" Number="20" Volume="1954" Year="1957">
@@ -1365,16 +1320,16 @@
 <Book Series="Millie the Model" Number="80" Volume="1945" Year="1957">
 <Database Name="cv" Series="19441" Issue="165664" />
 </Book>
-<Book Series="Patsy and her Pals" Number="29" Volume="1953" Year="1957">
+<Book Series="Patsy and Her Pals" Number="29" Volume="1953" Year="1957">
 <Database Name="cv" Series="30576" Issue="188635" />
 </Book>
 <Book Series="Sherry the Showgirl" Number="7" Volume="1957" Year="1957">
-<Database Name="cv" Series="1793" Issue="91252" />
+<Database Name="cv" Series="10755" Issue="91252" />
 </Book>
 <Book Series="Showgirls" Number="2" Volume="1957" Year="1957">
-<Database Name="cv" Series="30483" Issue="91246" />
+<Database Name="cv" Series="1855" Issue="91246" />
 </Book>
-<Book Series="Marines In Action" Number="14" Volume="1955" Year="1957">
+<Book Series="Marines in Action" Number="14" Volume="1955" Year="1957">
 <Database Name="cv" Series="30550" Issue="187952" />
 </Book>
 <Book Series="The Black Rider Rides Again!" Number="1" Volume="1957" Year="1957">
@@ -1384,7 +1339,7 @@
 <Database Name="cv" Series="1636" Issue="3309" />
 </Book>
 <Book Series="Rawhide Kid" Number="16" Volume="1955" Year="1957">
-<Database Name="cv" Series="2023" Issue="3310" />
+<Database Name="cv" Series="1712" Issue="3310" />
 </Book>
 <Book Series="Ringo Kid" Number="21" Volume="1954" Year="1957">
 <Database Name="cv" Series="1638" Issue="3311" />
@@ -1396,7 +1351,7 @@
 <Database Name="cv" Series="30358" Issue="187090" />
 </Book>
 <Book Series="Miss America" Number="86" Volume="1953" Year="1957">
-<Database Name="cv" Series="21618" Issue="135398" />
+<Database Name="cv" Series="7071" Issue="135398" />
 </Book>
 <Book Series="My Girl Pearl" Number="6" Volume="1955" Year="1957">
 <Database Name="cv" Series="1709" Issue="187315" />
@@ -1407,7 +1362,7 @@
 <Book Series="Patsy Walker" Number="73" Volume="1945" Year="1957">
 <Database Name="cv" Series="1062" Issue="73681" />
 </Book>
-<Book Series="Marines In Battle" Number="20" Volume="1954" Year="1957">
+<Book Series="Marines in Battle" Number="20" Volume="1954" Year="1957">
 <Database Name="cv" Series="1633" Issue="51261" />
 </Book>
 <Book Series="Gunsmoke Western" Number="43" Volume="1955" Year="1957">
@@ -1420,7 +1375,7 @@
 <Database Name="cv" Series="19441" Issue="165665" />
 </Book>
 <Book Series="Miss America" Number="87" Volume="1953" Year="1957">
-<Database Name="cv" Series="21618" Issue="135403" />
+<Database Name="cv" Series="7071" Issue="135403" />
 </Book>
 <Book Series="Two-Gun Kid" Number="39" Volume="1948" Year="1957">
 <Database Name="cv" Series="1583" Issue="3433" />
@@ -1444,7 +1399,7 @@
 <Database Name="cv" Series="19441" Issue="165666" />
 </Book>
 <Book Series="Miss America" Number="88" Volume="1953" Year="1958">
-<Database Name="cv" Series="21618" Issue="135405" />
+<Database Name="cv" Series="7071" Issue="135405" />
 </Book>
 <Book Series="Two-Gun Kid" Number="40" Volume="1948" Year="1958">
 <Database Name="cv" Series="1583" Issue="3702" />
@@ -1458,7 +1413,7 @@
 <Book Series="Patsy Walker" Number="75" Volume="1945" Year="1958">
 <Database Name="cv" Series="1062" Issue="73683" />
 </Book>
-<Book Series="Marines In Battle" Number="22" Volume="1954" Year="1958">
+<Book Series="Marines in Battle" Number="22" Volume="1954" Year="1958">
 <Database Name="cv" Series="1633" Issue="3752" />
 </Book>
 <Book Series="Gunsmoke Western" Number="45" Volume="1955" Year="1958">
@@ -1471,7 +1426,7 @@
 <Database Name="cv" Series="19441" Issue="165667" />
 </Book>
 <Book Series="Miss America" Number="89" Volume="1953" Year="1958">
-<Database Name="cv" Series="21618" Issue="50692" />
+<Database Name="cv" Series="7071" Issue="50692" />
 </Book>
 <Book Series="Battle" Number="57" Volume="1951" Year="1958">
 <Database Name="cv" Series="1423" Issue="3790" />
@@ -1491,7 +1446,7 @@
 <Book Series="Patsy Walker" Number="76" Volume="1945" Year="1958">
 <Database Name="cv" Series="1062" Issue="73684" />
 </Book>
-<Book Series="Marines In Battle" Number="23" Volume="1954" Year="1958">
+<Book Series="Marines in Battle" Number="23" Volume="1954" Year="1958">
 <Database Name="cv" Series="1633" Issue="51263" />
 </Book>
 <Book Series="Gunsmoke Western" Number="46" Volume="1955" Year="1958">
@@ -1504,7 +1459,7 @@
 <Database Name="cv" Series="19441" Issue="165668" />
 </Book>
 <Book Series="Miss America" Number="90" Volume="1953" Year="1958">
-<Database Name="cv" Series="21618" Issue="50693" />
+<Database Name="cv" Series="7071" Issue="50693" />
 </Book>
 <Book Series="Battle" Number="58" Volume="1951" Year="1958">
 <Database Name="cv" Series="1423" Issue="3794" />
@@ -1531,7 +1486,7 @@
 <Database Name="cv" Series="19441" Issue="165669" />
 </Book>
 <Book Series="Miss America" Number="91" Volume="1953" Year="1958">
-<Database Name="cv" Series="21618" Issue="50694" />
+<Database Name="cv" Series="7071" Issue="50694" />
 </Book>
 <Book Series="Two-Gun Kid" Number="43" Volume="1948" Year="1958">
 <Database Name="cv" Series="1583" Issue="3938" />
@@ -1555,7 +1510,7 @@
 <Database Name="cv" Series="19441" Issue="185811" />
 </Book>
 <Book Series="Miss America" Number="92" Volume="1953" Year="1958">
-<Database Name="cv" Series="21618" Issue="135410" />
+<Database Name="cv" Series="7071" Issue="135410" />
 </Book>
 <Book Series="Two-Gun Kid" Number="44" Volume="1948" Year="1958">
 <Database Name="cv" Series="1583" Issue="4054" />
@@ -1579,7 +1534,7 @@
 <Database Name="cv" Series="19441" Issue="185812" />
 </Book>
 <Book Series="Miss America" Number="93" Volume="1953" Year="1958">
-<Database Name="cv" Series="21618" Issue="135411" />
+<Database Name="cv" Series="7071" Issue="135411" />
 </Book>
 <Book Series="Battle" Number="61" Volume="1951" Year="1958">
 <Database Name="cv" Series="1423" Issue="4093" />
@@ -1746,6 +1701,9 @@
 <Book Series="Wyatt Earp" Number="25" Volume="1955" Year="1959">
 <Database Name="cv" Series="1718" Issue="4543" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="86" Volume="1952" Year="1959">
+<Database Name="cv" Series="154918" Issue="1031958" />
+</Book>
 <Book Series="A Date with Millie" Number="1" Volume="1959" Year="1959">
 <Database Name="cv" Series="19442" Issue="116432" />
 </Book>
@@ -1838,6 +1796,9 @@
 </Book>
 <Book Series="Tales to Astonish" Number="8" Volume="1959" Year="1960">
 <Database Name="cv" Series="2008" Issue="4755" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="91" Volume="1952" Year="1960">
+<Database Name="cv" Series="154918" Issue="1031959" />
 </Book>
 <Book Series="Gunsmoke Western" Number="57" Volume="1955" Year="1960">
 <Database Name="cv" Series="1704" Issue="4751" />
@@ -1980,6 +1941,9 @@
 <Book Series="Tales to Astonish" Number="12" Volume="1959" Year="1960">
 <Database Name="cv" Series="2008" Issue="5010" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="98" Volume="1952" Year="1960">
+<Database Name="cv" Series="154918" Issue="1032158" />
+</Book>
 <Book Series="Kid Colt Outlaw" Number="93" Volume="1949" Year="1960">
 <Database Name="cv" Series="1199" Issue="5008" />
 </Book>
@@ -2051,6 +2015,9 @@
 </Book>
 <Book Series="My Girl Pearl" Number="9" Volume="1955" Year="1960">
 <Database Name="cv" Series="1709" Issue="164581" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="100" Volume="1952" Year="1960">
+<Database Name="cv" Series="154918" Issue="1031960" />
 </Book>
 <Book Series="Patsy and Hedy" Number="73" Volume="1952" Year="1960">
 <Database Name="cv" Series="8517" Issue="164588" />
@@ -2250,6 +2217,9 @@
 <Book Series="Tales to Astonish" Number="22" Volume="1959" Year="1961">
 <Database Name="cv" Series="2008" Issue="5427" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="108" Volume="1952" Year="1961">
+<Database Name="cv" Series="154918" Issue="1031961" />
+</Book>
 <Book Series="The Rawhide Kid" Number="23" Volume="1960" Year="1961">
 <Database Name="cv" Series="2023" Issue="5424" />
 </Book>
@@ -2307,6 +2277,9 @@
 <Book Series="Tales to Astonish" Number="24" Volume="1959" Year="1961">
 <Database Name="cv" Series="2008" Issue="5519" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="110" Volume="1952" Year="1961">
+<Database Name="cv" Series="154918" Issue="1031956" />
+</Book>
 <Book Series="The Rawhide Kid" Number="24" Volume="1960" Year="1961">
 <Database Name="cv" Series="2023" Issue="5516" />
 </Book>
@@ -2321,6 +2294,9 @@
 </Book>
 <Book Series="Patsy Walker" Number="97" Volume="1945" Year="1961">
 <Database Name="cv" Series="1062" Issue="73705" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="111" Volume="1952" Year="1961">
+<Database Name="cv" Series="154918" Issue="1031955" />
 </Book>
 <Book Series="Amazing Adventures" Number="6" Volume="1961" Year="1961">
 <Database Name="cv" Series="2044" Issue="5557" />
@@ -2442,6 +2418,9 @@
 <Book Series="Patsy Walker" Number="98" Volume="1945" Year="1961">
 <Database Name="cv" Series="1062" Issue="73706" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="113" Volume="1952" Year="1962">
+<Database Name="cv" Series="154918" Issue="1032087" />
+</Book>
 <Book Series="Fantastic Four" Number="2" Volume="1961" Year="1962">
 <Database Name="cv" Series="2045" Issue="5712" />
 </Book>
@@ -2459,6 +2438,9 @@
 </Book>
 <Book Series="Millie the Model" Number="106" Volume="1945" Year="1962">
 <Database Name="cv" Series="19441" Issue="156081" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="114" Volume="1952" Year="1962">
+<Database Name="cv" Series="154918" Issue="1032140" />
 </Book>
 <Book Series="The Rawhide Kid" Number="26" Volume="1960" Year="1962">
 <Database Name="cv" Series="2023" Issue="5755" />
@@ -2483,6 +2465,9 @@
 </Book>
 <Book Series="Tales to Astonish" Number="29" Volume="1959" Year="1962">
 <Database Name="cv" Series="2008" Issue="5802" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="115" Volume="1952" Year="1962">
+<Database Name="cv" Series="154918" Issue="1032141" />
 </Book>
 <Book Series="Gunsmoke Western" Number="69" Volume="1955" Year="1962">
 <Database Name="cv" Series="1704" Issue="5797" />
@@ -2544,6 +2529,9 @@
 <Book Series="Life With Millie" Number="17" Volume="1960" Year="1962">
 <Database Name="cv" Series="8496" Issue="156869" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="118" Volume="1952" Year="1962">
+<Database Name="cv" Series="154918" Issue="1032142" />
+</Book>
 <Book Series="Patsy and Hedy" Number="82" Volume="1952" Year="1962">
 <Database Name="cv" Series="8517" Issue="156867" />
 </Book>
@@ -2583,6 +2571,9 @@
 <Book Series="Tales to Astonish" Number="34" Volume="1959" Year="1962">
 <Database Name="cv" Series="2008" Issue="6026" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="120" Volume="1952" Year="1962">
+<Database Name="cv" Series="154918" Issue="1032143" />
+</Book>
 <Book Series="The Rawhide Kid" Number="29" Volume="1960" Year="1962">
 <Database Name="cv" Series="2023" Issue="6024" />
 </Book>
@@ -2610,6 +2601,9 @@
 <Book Series="Tales to Astonish" Number="35" Volume="1959" Year="1962">
 <Database Name="cv" Series="2008" Issue="6070" />
 </Book>
+<Book Series="Cavaleiro Negro" Number="121" Volume="1952" Year="1962">
+<Database Name="cv" Series="154918" Issue="1032231" />
+</Book>
 <Book Series="Gunsmoke Western" Number="72" Volume="1955" Year="1962">
 <Database Name="cv" Series="1704" Issue="6064" />
 </Book>
@@ -2636,6 +2630,9 @@
 </Book>
 <Book Series="Tales to Astonish" Number="36" Volume="1959" Year="1962">
 <Database Name="cv" Series="2008" Issue="6120" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="122" Volume="1952" Year="1962">
+<Database Name="cv" Series="154918" Issue="1032247" />
 </Book>
 <Book Series="The Rawhide Kid" Number="30" Volume="1960" Year="1962">
 <Database Name="cv" Series="2023" Issue="6117" />
@@ -2723,6 +2720,9 @@
 </Book>
 <Book Series="Tales to Astonish" Number="39" Volume="1959" Year="1963">
 <Database Name="cv" Series="2008" Issue="6335" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="125" Volume="1952" Year="1963">
+<Database Name="cv" Series="154918" Issue="1032232" />
 </Book>
 <Book Series="Gunsmoke Western" Number="74" Volume="1955" Year="1963">
 <Database Name="cv" Series="1704" Issue="6329" />
@@ -2828,6 +2828,9 @@
 </Book>
 <Book Series="Modeling With Millie" Number="22" Volume="1963" Year="1963">
 <Database Name="cv" Series="19440" Issue="123908" />
+</Book>
+<Book Series="Cavaleiro Negro" Number="128" Volume="1952" Year="1963">
+<Database Name="cv" Series="154918" Issue="1032236" />
 </Book>
 <Book Series="Patsy and Hedy" Number="87" Volume="1952" Year="1963">
 <Database Name="cv" Series="8517" Issue="185956" />
@@ -2954,6 +2957,48 @@
 </Book>
 <Book Series="Patsy Walker" Number="108" Volume="1945" Year="1963">
 <Database Name="cv" Series="1062" Issue="172340" />
+</Book>
+<Book Series="Fantastic Four" Number="18" Volume="1961" Year="1963">
+<Database Name="cv" Series="2045" Issue="6687" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="4" Volume="1963" Year="1963">
+<Database Name="cv" Series="2127" Issue="6685" />
+</Book>
+<Book Series="The X-Men" Number="1" Volume="1963" Year="1963">
+<Database Name="cv" Series="2133" Issue="6694" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="5" Volume="1963" Year="1963">
+<Database Name="cv" Series="2127" Issue="6734" />
+</Book>
+<Book Series="Strange Tales" Number="112" Volume="1951" Year="1963">
+<Database Name="cv" Series="18066" Issue="110869" />
+</Book>
+<Book Series="Strange Tales Annual" Number="2" Volume="1962" Year="1963">
+<Database Name="cv" Series="2079" Issue="6240" />
+</Book>
+<Book Series="Fantastic Four Annual" Number="1" Volume="1963" Year="1963">
+<Database Name="cv" Series="2129" Issue="6239" />
+</Book>
+<Book Series="Sgt. Fury" Number="3" Volume="1963" Year="1963">
+<Database Name="cv" Series="6724" Issue="6690" />
+</Book>
+<Book Series="Journey into Mystery" Number="96" Volume="1952" Year="1963">
+<Database Name="cv" Series="1497" Issue="6688" />
+</Book>
+<Book Series="The Avengers" Number="1" Volume="1963" Year="1963">
+<Database Name="cv" Series="2128" Issue="6686" />
+</Book>
+<Book Series="Tales of Suspense" Number="45" Volume="1959" Year="1963">
+<Database Name="cv" Series="2007" Issue="6692" />
+</Book>
+<Book Series="Tales to Astonish" Number="47" Volume="1959" Year="1963">
+<Database Name="cv" Series="2008" Issue="6693" />
+</Book>
+<Book Series="Kid Colt Outlaw" Number="112" Volume="1949" Year="1963">
+<Database Name="cv" Series="1199" Issue="6689" />
+</Book>
+<Book Series="Two-Gun Kid" Number="65" Volume="1948" Year="1963">
+<Database Name="cv" Series="1583" Issue="6695" />
 </Book>
 </Books>
 <Matchers />

@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 18</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>998</NumIssues>
 <Books>
+<Book Series="Age of Apocalypse" Number="3" Volume="2012" Year="2012">
+<Database Name="cv" Series="46347" Issue="334324" />
+</Book>
+<Book Series="Age of Apocalypse" Number="4" Volume="2012" Year="2012">
+<Database Name="cv" Series="46347" Issue="338547" />
+</Book>
+<Book Series="Age of Apocalypse" Number="5" Volume="2012" Year="2012">
+<Database Name="cv" Series="46347" Issue="344090" />
+</Book>
+<Book Series="Age of Apocalypse" Number="6" Volume="2012" Year="2012">
+<Database Name="cv" Series="46347" Issue="348066" />
+</Book>
 <Book Series="Age of Apocalypse" Number="7" Volume="2012" Year="2012">
 <Database Name="cv" Series="46347" Issue="355903" />
 </Book>
@@ -2299,22 +2311,16 @@
 <Database Name="cv" Series="69573" Issue="435070" />
 </Book>
 <Book Series="Thanos: A God Up There Listening" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="75391" Issue="458705" />
+<Database Name="cv" Series="77425" Issue="467657" />
 </Book>
 <Book Series="Thanos: A God Up There Listening" Number="2" Volume="2014" Year="2014">
-<Database Name="cv" Series="75391" Issue="458706" />
+<Database Name="cv" Series="77425" Issue="468090" />
 </Book>
 <Book Series="Thanos: A God Up There Listening" Number="3" Volume="2014" Year="2014">
-<Database Name="cv" Series="75391" Issue="458707" />
+<Database Name="cv" Series="77425" Issue="468466" />
 </Book>
 <Book Series="Thanos: A God Up There Listening" Number="4" Volume="2014" Year="2014">
-<Database Name="cv" Series="75391" Issue="458708" />
-</Book>
-<Book Series="Thanos: A God Up There Listening" Number="5" Volume="2014" Year="2014">
-<Database Name="cv" Series="75391" Issue="458709" />
-</Book>
-<Book Series="Thanos: A God Up There Listening" Number="6" Volume="2014" Year="2014">
-<Database Name="cv" Series="75391" Issue="458710" />
+<Database Name="cv" Series="77425" Issue="468913" />
 </Book>
 <Book Series="Thunderbolts" Number="19" Volume="2013" Year="2014">
 <Database Name="cv" Series="54429" Issue="436207" />
@@ -2990,18 +2996,6 @@
 </Book>
 <Book Series="Iron Man Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="71801" Issue="445815" />
-</Book>
-<Book Series="Deadpool: The Gauntlet" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="70756" Issue="441551" />
-</Book>
-<Book Series="Deadpool: The Gauntlet" Number="2" Volume="2014" Year="2014">
-<Database Name="cv" Series="70756" Issue="442302" />
-</Book>
-<Book Series="Deadpool: The Gauntlet" Number="3" Volume="2014" Year="2014">
-<Database Name="cv" Series="70756" Issue="443006" />
-</Book>
-<Book Series="Deadpool: The Gauntlet" Number="4" Volume="2014" Year="2014">
-<Database Name="cv" Series="70756" Issue="443981" />
 </Book>
 </Books>
 <Matchers />

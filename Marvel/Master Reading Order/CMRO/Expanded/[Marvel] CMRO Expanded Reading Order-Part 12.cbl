@@ -1,65 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 12</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>999</NumIssues>
 <Books>
-<Book Series="The Savage Sword of Conan" Number="129" Volume="1974" Year="1986">
-<Database Name="cv" Series="2701" Issue="135238" />
-</Book>
-<Book Series="The Transformers" Number="76" Volume="1984" Year="1986">
-<Database Name="cv" Series="20559" Issue="172032" />
-</Book>
-<Book Series="The Incredible Hulk" Number="325" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="27385" />
-</Book>
-<Book Series="The Incredible Hulk" Number="326" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="27490" />
-</Book>
-<Book Series="The Incredible Hulk" Number="327" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="27680" />
-</Book>
-<Book Series="The Spectacular Spider-Man" Number="121" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="27497" />
-</Book>
-<Book Series="The Incredible Hulk" Number="328" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="27793" />
-</Book>
-<Book Series="The Incredible Hulk" Number="329" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="27902" />
-</Book>
-<Book Series="The Incredible Hulk" Number="330" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28014" />
-</Book>
-<Book Series="The Incredible Hulk" Number="331" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28114" />
-</Book>
-<Book Series="The Incredible Hulk" Number="332" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28225" />
-</Book>
-<Book Series="The Incredible Hulk" Number="333" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28338" />
-</Book>
-<Book Series="The Incredible Hulk" Number="334" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28459" />
-</Book>
-<Book Series="Action Force" Number="6" Volume="1987" Year="1987">
-<Database Name="cv" Series="22813" Issue="136939" />
-</Book>
-<Book Series="The Transformers" Number="21" Volume="1984" Year="1986">
-<Database Name="cv" Series="3370" Issue="57440" />
-</Book>
-<Book Series="The Transformers" Number="22" Volume="1984" Year="1986">
-<Database Name="cv" Series="3370" Issue="57441" />
-</Book>
-<Book Series="The Transformers" Number="23" Volume="1984" Year="1986">
-<Database Name="cv" Series="3370" Issue="57442" />
-</Book>
-<Book Series="Peter Porker, The Spectacular Spider-Ham" Number="14" Volume="1985" Year="1987">
-<Database Name="cv" Series="3499" Issue="93534" />
-</Book>
-<Book Series="Marvel Tales" Number="197" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64962" />
-</Book>
 <Book Series="Cloak and Dagger" Number="5" Volume="1985" Year="1986">
 <Database Name="cv" Series="3475" Issue="26596" />
 </Book>
@@ -526,7 +469,7 @@
 <Database Name="cv" Series="3217" Issue="28107" />
 </Book>
 <Book Series="The Incredible Hulk" Number="335" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28566" />
+<Database Name="cv" Series="2406" Issue="28566" />
 </Book>
 <Book Series="Web of Spider-Man" Number="27" Volume="1985" Year="1987">
 <Database Name="cv" Series="3519" Issue="28235" />
@@ -1054,13 +997,13 @@
 <Database Name="cv" Series="3657" Issue="28582" />
 </Book>
 <Book Series="The Incredible Hulk" Number="336" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28688" />
+<Database Name="cv" Series="2406" Issue="28688" />
 </Book>
 <Book Series="The Incredible Hulk" Number="337" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28802" />
+<Database Name="cv" Series="2406" Issue="28802" />
 </Book>
 <Book Series="The Incredible Hulk" Number="338" Volume="1968" Year="1987">
-<Database Name="cv" Series="2077" Issue="28925" />
+<Database Name="cv" Series="2406" Issue="28925" />
 </Book>
 <Book Series="Justice" Number="12" Volume="1986" Year="1987">
 <Database Name="cv" Series="3640" Issue="51713" />
@@ -1139,18 +1082,6 @@
 </Book>
 <Book Series="The Transformers Annual" Number="1987" Volume="1984" Year="1987">
 <Database Name="cv" Series="27889" Issue="170960" />
-</Book>
-<Book Series="The Transformers" Number="117" Volume="1984" Year="1987">
-<Database Name="cv" Series="20559" Issue="123104" />
-</Book>
-<Book Series="The Transformers" Number="118" Volume="1984" Year="1987">
-<Database Name="cv" Series="20559" Issue="123107" />
-</Book>
-<Book Series="The Transformers" Number="119" Volume="1984" Year="1987">
-<Database Name="cv" Series="20559" Issue="123109" />
-</Book>
-<Book Series="The Transformers" Number="120" Volume="1984" Year="1987">
-<Database Name="cv" Series="20559" Issue="172072" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="130" Volume="1976" Year="1987">
 <Database Name="cv" Series="2870" Issue="28569" />
@@ -1353,6 +1284,21 @@
 <Book Series="Iron Man" Number="224" Volume="1968" Year="1987">
 <Database Name="cv" Series="2407" Issue="28803" />
 </Book>
+<Book Series="Solo Avengers" Number="1" Volume="1987" Year="1987">
+<Database Name="cv" Series="3859" Issue="28930" />
+</Book>
+<Book Series="Solo Avengers" Number="2" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29151" />
+</Book>
+<Book Series="Solo Avengers" Number="3" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29268" />
+</Book>
+<Book Series="Solo Avengers" Number="4" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29377" />
+</Book>
+<Book Series="Solo Avengers" Number="5" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29489" />
+</Book>
 <Book Series="Alpha Flight" Number="52" Volume="1983" Year="1987">
 <Database Name="cv" Series="3217" Issue="28794" />
 </Book>
@@ -1389,6 +1335,12 @@
 <Book Series="The Spectacular Spider-Man" Number="132" Volume="1976" Year="1987">
 <Database Name="cv" Series="2870" Issue="28805" />
 </Book>
+<Book Series="Solo Avengers" Number="6" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29597" />
+</Book>
+<Book Series="Solo Avengers" Number="7" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29714" />
+</Book>
 <Book Series="The Savage Sword of Conan" Number="139" Volume="1974" Year="1987">
 <Database Name="cv" Series="2701" Issue="135228" />
 </Book>
@@ -1397,6 +1349,12 @@
 </Book>
 <Book Series="Iron Man Annual" Number="9" Volume="1970" Year="1987">
 <Database Name="cv" Series="2905" Issue="28927" />
+</Book>
+<Book Series="Solo Avengers" Number="8" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29832" />
+</Book>
+<Book Series="Solo Avengers" Number="9" Volume="1987" Year="1988">
+<Database Name="cv" Series="3859" Issue="29951" />
 </Book>
 <Book Series="The Transformers" Number="126" Volume="1984" Year="1987">
 <Database Name="cv" Series="20559" Issue="172078" />
@@ -1440,9 +1398,6 @@
 <Book Series="The Uncanny X-Men" Number="220" Volume="1981" Year="1987">
 <Database Name="cv" Series="3092" Issue="28470" />
 </Book>
-<Book Series="Solo Avengers" Number="2" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29151" />
-</Book>
 <Book Series="Web of Spider-Man" Number="34" Volume="1985" Year="1988">
 <Database Name="cv" Series="3519" Issue="29159" />
 </Book>
@@ -1460,9 +1415,6 @@
 </Book>
 <Book Series="West Coast Avengers" Number="28" Volume="1985" Year="1988">
 <Database Name="cv" Series="3521" Issue="29160" />
-</Book>
-<Book Series="Solo Avengers" Number="3" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29268" />
 </Book>
 <Book Series="West Coast Avengers" Number="29" Volume="1985" Year="1988">
 <Database Name="cv" Series="3521" Issue="29275" />
@@ -1609,7 +1561,7 @@
 <Database Name="cv" Series="3640" Issue="177455" />
 </Book>
 <Book Series="The Star Brand" Number="11" Volume="1988" Year="1988">
-<Database Name="cv" Series="3652" Issue="352306" />
+<Database Name="cv" Series="51406" Issue="352306" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="143" Volume="1974" Year="1987">
 <Database Name="cv" Series="2701" Issue="135266" />
@@ -1648,7 +1600,7 @@
 <Database Name="cv" Series="3855" Issue="29374" />
 </Book>
 <Book Series="The Incredible Hulk" Number="339" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="29144" />
+<Database Name="cv" Series="2406" Issue="29144" />
 </Book>
 <Book Series="The 'Nam" Number="13" Volume="1986" Year="1987">
 <Database Name="cv" Series="19757" Issue="132160" />
@@ -1771,7 +1723,7 @@
 <Database Name="cv" Series="3092" Issue="28935" />
 </Book>
 <Book Series="The Incredible Hulk" Number="340" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="29262" />
+<Database Name="cv" Series="2406" Issue="29262" />
 </Book>
 <Book Series="X-Factor" Number="21" Volume="1986" Year="1987">
 <Database Name="cv" Series="3657" Issue="28703" />
@@ -1876,7 +1828,7 @@
 <Database Name="cv" Series="22813" Issue="137256" />
 </Book>
 <Book Series="The Star Brand" Number="12" Volume="1988" Year="1988">
-<Database Name="cv" Series="3652" Issue="352307" />
+<Database Name="cv" Series="51406" Issue="352307" />
 </Book>
 <Book Series="Marvel Graphic Novel: The Pitt" Number="1" Volume="1987" Year="1988">
 <Database Name="cv" Series="26314" Issue="156440" />
@@ -2043,9 +1995,6 @@
 <Book Series="Action Force" Number="50" Volume="1987" Year="1988">
 <Database Name="cv" Series="22813" Issue="137264" />
 </Book>
-<Book Series="Amazing Adventures" Number="1" Volume="1988" Year="1988">
-<Database Name="cv" Series="31631" Issue="197701" />
-</Book>
 <Book Series="Heathcliff's Funhouse" Number="8" Volume="1987" Year="1988">
 <Database Name="cv" Series="32929" Issue="211933" />
 </Book>
@@ -2080,7 +2029,7 @@
 <Database Name="cv" Series="20559" Issue="123652" />
 </Book>
 <Book Series="The Star Brand" Number="13" Volume="1988" Year="1988">
-<Database Name="cv" Series="3652" Issue="352308" />
+<Database Name="cv" Series="51406" Issue="352308" />
 </Book>
 <Book Series="Psi-Force" Number="21" Volume="1986" Year="1988">
 <Database Name="cv" Series="11495" Issue="101386" />
@@ -2134,16 +2083,7 @@
 <Database Name="cv" Series="3627" Issue="29939" />
 </Book>
 <Book Series="The Star Brand" Number="14" Volume="1988" Year="1988">
-<Database Name="cv" Series="3652" Issue="352309" />
-</Book>
-<Book Series="Solo Avengers" Number="1" Volume="1987" Year="1987">
-<Database Name="cv" Series="3859" Issue="28930" />
-</Book>
-<Book Series="Solo Avengers" Number="4" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29377" />
-</Book>
-<Book Series="Solo Avengers" Number="5" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29489" />
+<Database Name="cv" Series="51406" Issue="352309" />
 </Book>
 <Book Series="Marvel Graphic Novel" Number="37" Volume="1982" Year="1988">
 <Database Name="cv" Series="3144" Issue="134240" />
@@ -2159,18 +2099,6 @@
 </Book>
 <Book Series="Iron Man" Number="232" Volume="1968" Year="1988">
 <Database Name="cv" Series="2407" Issue="29828" />
-</Book>
-<Book Series="Solo Avengers" Number="6" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29597" />
-</Book>
-<Book Series="Solo Avengers" Number="7" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29714" />
-</Book>
-<Book Series="Solo Avengers" Number="8" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29832" />
-</Book>
-<Book Series="Solo Avengers" Number="9" Volume="1987" Year="1988">
-<Database Name="cv" Series="3859" Issue="29951" />
 </Book>
 <Book Series="The 'Nam" Number="16" Volume="1986" Year="1988">
 <Database Name="cv" Series="19757" Issue="132225" />
@@ -2209,7 +2137,7 @@
 <Database Name="cv" Series="3654" Issue="29601" />
 </Book>
 <Book Series="The Star Brand" Number="15" Volume="1988" Year="1988">
-<Database Name="cv" Series="3652" Issue="352310" />
+<Database Name="cv" Series="51406" Issue="352310" />
 </Book>
 <Book Series="Heathcliff" Number="26" Volume="1985" Year="1988">
 <Database Name="cv" Series="3486" Issue="94669" />
@@ -2494,19 +2422,19 @@
 <Database Name="cv" Series="20559" Issue="172672" />
 </Book>
 <Book Series="The Incredible Hulk" Number="341" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="29372" />
+<Database Name="cv" Series="2406" Issue="29372" />
 </Book>
 <Book Series="The Incredible Hulk" Number="342" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="29483" />
+<Database Name="cv" Series="2406" Issue="29483" />
 </Book>
 <Book Series="The Incredible Hulk" Number="343" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="29591" />
+<Database Name="cv" Series="2406" Issue="29591" />
 </Book>
 <Book Series="The Incredible Hulk" Number="344" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="29708" />
+<Database Name="cv" Series="2406" Issue="29708" />
 </Book>
 <Book Series="The Incredible Hulk" Number="345" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="29827" />
+<Database Name="cv" Series="2406" Issue="29827" />
 </Book>
 <Book Series="Dragon's Claws" Number="6" Volume="1988" Year="1988">
 <Database Name="cv" Series="39798" Issue="268528" />
@@ -2560,7 +2488,7 @@
 <Database Name="cv" Series="3859" Issue="30320" />
 </Book>
 <Book Series="The Incredible Hulk" Number="346" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="29943" />
+<Database Name="cv" Series="2406" Issue="29943" />
 </Book>
 <Book Series="Marvel Fanfare" Number="39" Volume="1982" Year="1988">
 <Database Name="cv" Series="3143" Issue="29945" />
@@ -2803,7 +2731,7 @@
 <Database Name="cv" Series="2190" Issue="30054" />
 </Book>
 <Book Series="The Star Brand" Number="16" Volume="1988" Year="1988">
-<Database Name="cv" Series="3652" Issue="352311" />
+<Database Name="cv" Series="51406" Issue="352311" />
 </Book>
 <Book Series="Strikeforce: Morituri" Number="20" Volume="1986" Year="1988">
 <Database Name="cv" Series="3654" Issue="29836" />
@@ -2968,10 +2896,10 @@
 <Database Name="cv" Series="3143" Issue="30184" />
 </Book>
 <Book Series="The Incredible Hulk" Number="347" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="30056" />
+<Database Name="cv" Series="2406" Issue="30056" />
 </Book>
 <Book Series="The Incredible Hulk" Number="348" Volume="1968" Year="1988">
-<Database Name="cv" Series="2077" Issue="30180" />
+<Database Name="cv" Series="2406" Issue="30180" />
 </Book>
 <Book Series="St. George" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="4075" Issue="57165" />
@@ -3002,6 +2930,63 @@
 </Book>
 <Book Series="Marvel Age Annual" Number="4" Volume="1985" Year="1988">
 <Database Name="cv" Series="19177" Issue="197621" />
+</Book>
+<Book Series="The Silver Surfer" Number="1" Volume="1988" Year="1988">
+<Database Name="cv" Series="4070" Issue="30442" />
+</Book>
+<Book Series="The Silver Surfer" Number="2" Volume="1988" Year="1989">
+<Database Name="cv" Series="4070" Issue="30790" />
+</Book>
+<Book Series="The Transformers" Number="195" Volume="1984" Year="1988">
+<Database Name="cv" Series="20559" Issue="172693" />
+</Book>
+<Book Series="Conan the King" Number="48" Volume="1984" Year="1988">
+<Database Name="cv" Series="3336" Issue="77788" />
+</Book>
+<Book Series="Conan the King" Number="49" Volume="1984" Year="1988">
+<Database Name="cv" Series="3336" Issue="77789" />
+</Book>
+<Book Series="Excalibur" Number="3" Volume="1988" Year="1988">
+<Database Name="cv" Series="4052" Issue="30429" />
+</Book>
+<Book Series="Marvel Fanfare" Number="41" Volume="1982" Year="1988">
+<Database Name="cv" Series="3143" Issue="30434" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="307" Volume="1963" Year="1988">
+<Database Name="cv" Series="2127" Issue="30230" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="308" Volume="1963" Year="1988">
+<Database Name="cv" Series="2127" Issue="30301" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="309" Volume="1963" Year="1988">
+<Database Name="cv" Series="2127" Issue="30358" />
+</Book>
+<Book Series="Doctor Zero" Number="4" Volume="1988" Year="1988">
+<Database Name="cv" Series="4050" Issue="30177" />
+</Book>
+<Book Series="Psi-Force" Number="27" Volume="1986" Year="1989">
+<Database Name="cv" Series="11495" Issue="101392" />
+</Book>
+<Book Series="Conan the Barbarian" Number="211" Volume="1970" Year="1988">
+<Database Name="cv" Series="2471" Issue="186448" />
+</Book>
+<Book Series="Conan the Barbarian" Number="212" Volume="1970" Year="1988">
+<Database Name="cv" Series="2471" Issue="186449" />
+</Book>
+<Book Series="Conan the Barbarian" Number="213" Volume="1970" Year="1988">
+<Database Name="cv" Series="2471" Issue="186450" />
+</Book>
+<Book Series="Wolfpack" Number="5" Volume="1988" Year="1988">
+<Database Name="cv" Series="4081" Issue="57799" />
+</Book>
+<Book Series="Classic X-Men" Number="29" Volume="1986" Year="1989">
+<Database Name="cv" Series="3626" Issue="110292" />
+</Book>
+<Book Series="Classic X-Men" Number="30" Volume="1986" Year="1989">
+<Database Name="cv" Series="3626" Issue="47417" />
+</Book>
+<Book Series="Fantastic Four" Number="318" Volume="1961" Year="1988">
+<Database Name="cv" Series="2045" Issue="30055" />
 </Book>
 </Books>
 <Matchers />

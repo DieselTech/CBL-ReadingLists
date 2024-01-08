@@ -3,63 +3,6 @@
 <Name>[Marvel] CMRO Expanded Reading Order-Part 11</Name>
 <NumIssues>998</NumIssues>
 <Books>
-<Book Series="Iron Man" Number="190" Volume="1968" Year="1985">
-<Database Name="cv" Series="2407" Issue="25165" />
-</Book>
-<Book Series="Rom Annual" Number="3" Volume="1982" Year="1984">
-<Database Name="cv" Series="3148" Issue="24903" />
-</Book>
-<Book Series="Marvel Team-Up" Number="147" Volume="1972" Year="1984">
-<Database Name="cv" Series="2576" Issue="24897" />
-</Book>
-<Book Series="Marvel Team-Up" Number="148" Volume="1972" Year="1984">
-<Database Name="cv" Series="2576" Issue="25002" />
-</Book>
-<Book Series="Captain America" Number="302" Volume="1968" Year="1985">
-<Database Name="cv" Series="2400" Issue="25253" />
-</Book>
-<Book Series="Captain America" Number="303" Volume="1968" Year="1985">
-<Database Name="cv" Series="2400" Issue="133683" />
-</Book>
-<Book Series="Captain America" Number="304" Volume="1968" Year="1985">
-<Database Name="cv" Series="2400" Issue="25382" />
-</Book>
-<Book Series="The Transformers" Number="18" Volume="1984" Year="1985">
-<Database Name="cv" Series="20559" Issue="171925" />
-</Book>
-<Book Series="Conan the King" Number="20" Volume="1984" Year="1984">
-<Database Name="cv" Series="3336" Issue="23867" />
-</Book>
-<Book Series="Conan the King" Number="21" Volume="1984" Year="1984">
-<Database Name="cv" Series="3336" Issue="77762" />
-</Book>
-<Book Series="Conan the King" Number="22" Volume="1984" Year="1984">
-<Database Name="cv" Series="3336" Issue="77763" />
-</Book>
-<Book Series="Conan the King" Number="23" Volume="1984" Year="1984">
-<Database Name="cv" Series="3336" Issue="77764" />
-</Book>
-<Book Series="Conan the King" Number="24" Volume="1984" Year="1984">
-<Database Name="cv" Series="3336" Issue="77765" />
-</Book>
-<Book Series="Conan the King" Number="25" Volume="1984" Year="1984">
-<Database Name="cv" Series="3336" Issue="77766" />
-</Book>
-<Book Series="Conan the King" Number="26" Volume="1984" Year="1985">
-<Database Name="cv" Series="3336" Issue="77767" />
-</Book>
-<Book Series="Marvel Comics Super Special" Number="37" Volume="1977" Year="1985">
-<Database Name="cv" Series="2909" Issue="25039" />
-</Book>
-<Book Series="The New Mutants Annual" Number="1" Volume="1984" Year="1984">
-<Database Name="cv" Series="3356" Issue="23775" />
-</Book>
-<Book Series="The Incredible Hulk" Number="302" Volume="1968" Year="1984">
-<Database Name="cv" Series="2077" Issue="24994" />
-</Book>
-<Book Series="The Incredible Hulk" Number="303" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25164" />
-</Book>
 <Book Series="The Transformers" Number="19" Volume="1984" Year="1985">
 <Database Name="cv" Series="20559" Issue="171926" />
 </Book>
@@ -163,10 +106,10 @@
 <Database Name="cv" Series="47760" Issue="329118" />
 </Book>
 <Book Series="The Incredible Hulk" Number="304" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25262" />
+<Database Name="cv" Series="2406" Issue="25262" />
 </Book>
 <Book Series="The Incredible Hulk" Number="305" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25288" />
+<Database Name="cv" Series="2406" Issue="25288" />
 </Book>
 <Book Series="The Transformers" Number="22" Volume="1984" Year="1985">
 <Database Name="cv" Series="20559" Issue="171929" />
@@ -220,19 +163,19 @@
 <Database Name="cv" Series="2959" Issue="86074" />
 </Book>
 <Book Series="Red Sonja" Number="5" Volume="1983" Year="1985">
-<Database Name="cv" Series="3238" Issue="67547" />
+<Database Name="cv" Series="9122" Issue="67547" />
 </Book>
 <Book Series="Spider-Man" Number="607" Volume="1984" Year="1984">
-<Database Name="cv" Series="31023" Issue="327860" />
+<Database Name="cv" Series="47656" Issue="327860" />
 </Book>
 <Book Series="Spider-Man" Number="608" Volume="1984" Year="1984">
-<Database Name="cv" Series="31023" Issue="327861" />
+<Database Name="cv" Series="47656" Issue="327861" />
 </Book>
 <Book Series="Spider-Man" Number="609" Volume="1984" Year="1984">
-<Database Name="cv" Series="31023" Issue="327862" />
+<Database Name="cv" Series="47656" Issue="327862" />
 </Book>
-<Book Series="Spider-Man" Number="610" Volume="1984" Year="0">
-<Database Name="cv" Series="31023" Issue="327863" />
+<Book Series="Spider-Man" Number="610" Volume="1984" Year="1984">
+<Database Name="cv" Series="47656" Issue="327863" />
 </Book>
 <Book Series="The Amazing Spider-Man Annual" Number="18" Volume="1964" Year="1984">
 <Database Name="cv" Series="2189" Issue="64426" />
@@ -286,16 +229,16 @@
 <Database Name="cv" Series="3144" Issue="129016" />
 </Book>
 <Book Series="The Incredible Hulk" Number="306" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25391" />
+<Database Name="cv" Series="2406" Issue="25391" />
 </Book>
 <Book Series="The Incredible Hulk" Number="307" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25487" />
+<Database Name="cv" Series="2406" Issue="25487" />
 </Book>
 <Book Series="Dazzler" Number="36" Volume="1981" Year="1985">
 <Database Name="cv" Series="3083" Issue="51691" />
 </Book>
 <Book Series="Red Sonja" Number="6" Volume="1983" Year="1985">
-<Database Name="cv" Series="3238" Issue="67548" />
+<Database Name="cv" Series="9122" Issue="67548" />
 </Book>
 <Book Series="Power Pack" Number="6" Volume="1984" Year="1985">
 <Database Name="cv" Series="3358" Issue="25172" />
@@ -400,10 +343,10 @@
 <Database Name="cv" Series="3353" Issue="217565" />
 </Book>
 <Book Series="The Incredible Hulk" Number="308" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25588" />
+<Database Name="cv" Series="2406" Issue="25588" />
 </Book>
 <Book Series="The Incredible Hulk" Number="309" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25686" />
+<Database Name="cv" Series="2406" Issue="25686" />
 </Book>
 <Book Series="Savage Sword of Conan" Number="87" Volume="1977" Year="0">
 <Database Name="cv" Series="47760" Issue="329120" />
@@ -439,7 +382,7 @@
 <Database Name="cv" Series="20559" Issue="171937" />
 </Book>
 <Book Series="Red Sonja" Number="7" Volume="1983" Year="1985">
-<Database Name="cv" Series="3238" Issue="67549" />
+<Database Name="cv" Series="9122" Issue="67549" />
 </Book>
 <Book Series="Wally the Wizard" Number="1" Volume="1985" Year="1985">
 <Database Name="cv" Series="3518" Issue="57674" />
@@ -494,9 +437,6 @@
 </Book>
 <Book Series="The Thing" Number="23" Volume="1983" Year="1985">
 <Database Name="cv" Series="3245" Issue="25498" />
-</Book>
-<Book Series="Incredible Hulk Annual" Number="1985" Volume="1977" Year="0">
-<Database Name="cv" Series="142306" Issue="917249" />
 </Book>
 <Book Series="Iron Man" Number="191" Volume="1968" Year="1985">
 <Database Name="cv" Series="2407" Issue="25263" />
@@ -561,7 +501,7 @@
 <Book Series="Royal Roy" Number="1" Volume="1985" Year="1985">
 <Database Name="cv" Series="3504" Issue="95631" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="635" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="635" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327813" />
 </Book>
 <Book Series="The Spider-Man Comic" Number="636" Volume="1985" Year="1985">
@@ -609,7 +549,7 @@
 <Book Series="Rom" Number="67" Volume="1979" Year="1985">
 <Database Name="cv" Series="3010" Issue="25594" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="637" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="637" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327816" />
 </Book>
 <Book Series="Savage Sword of Conan" Number="88" Volume="1977" Year="0">
@@ -645,7 +585,7 @@
 <Book Series="Rocket Raccoon" Number="4" Volume="1985" Year="1985">
 <Database Name="cv" Series="3503" Issue="25792" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="638" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="638" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327817" />
 </Book>
 <Book Series="Wally the Wizard" Number="3" Volume="1985" Year="1985">
@@ -714,13 +654,13 @@
 <Book Series="X-Men/Alpha Flight" Number="2" Volume="1985" Year="1986">
 <Database Name="cv" Series="3522" Issue="57852" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="639" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="639" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327818" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="640" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="640" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327819" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="641" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="641" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327820" />
 </Book>
 <Book Series="Dazzler" Number="38" Volume="1981" Year="1985">
@@ -747,7 +687,7 @@
 <Book Series="Captain America" Number="307" Volume="1968" Year="1985">
 <Database Name="cv" Series="2400" Issue="25676" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="642" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="642" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327821" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="193" Volume="1981" Year="1985">
@@ -783,10 +723,10 @@
 <Book Series="Nightcrawler" Number="4" Volume="1985" Year="1986">
 <Database Name="cv" Series="18835" Issue="111366" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="643" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="643" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327822" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="644" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="644" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="779565" />
 </Book>
 <Book Series="Moon Knight: Fist of Khonshu" Number="1" Volume="1985" Year="1985">
@@ -891,13 +831,13 @@
 <Book Series="Daredevil" Number="222" Volume="1964" Year="1985">
 <Database Name="cv" Series="2190" Issue="25873" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="645" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="645" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327823" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="647" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="647" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327825" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="646" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="646" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327824" />
 </Book>
 <Book Series="Micronauts: The New Voyages" Number="9" Volume="1984" Year="1985">
@@ -942,7 +882,7 @@
 <Book Series="Moon Knight: Fist of Khonshu" Number="2" Volume="1985" Year="1985">
 <Database Name="cv" Series="3492" Issue="25683" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="648" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="648" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="465600" />
 </Book>
 <Book Series="Savage Tales" Number="1" Volume="1985" Year="1985">
@@ -981,7 +921,7 @@
 <Book Series="Moon Knight: Fist of Khonshu" Number="3" Volume="1985" Year="1985">
 <Database Name="cv" Series="3492" Issue="25877" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="649" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="649" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327826" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="116" Volume="1974" Year="1985">
@@ -1062,7 +1002,7 @@
 <Book Series="Rom" Number="71" Volume="1979" Year="1985">
 <Database Name="cv" Series="3010" Issue="25989" />
 </Book>
-<Book Series="The Spider-Man Comic" Number="650" Volume="1985" Year="0">
+<Book Series="The Spider-Man Comic" Number="650" Volume="1985" Year="1985">
 <Database Name="cv" Series="47655" Issue="327814" />
 </Book>
 <Book Series="Marvel Graphic Novel" Number="19" Volume="1982" Year="1985">
@@ -1135,15 +1075,15 @@
 <Database Name="cv" Series="3217" Issue="25672" />
 </Book>
 <Book Series="Spidey Comic" Number="651" Volume="1985" Year="1985">
-<Database Name="cv" Series="47655" Issue="327797" />
+<Database Name="cv" Series="47653" Issue="327797" />
 </Book>
 <Book Series="Spidey Comic" Number="652" Volume="1985" Year="1985">
-<Database Name="cv" Series="47655" Issue="327798" />
+<Database Name="cv" Series="47653" Issue="327798" />
 </Book>
 <Book Series="Spidey Comic" Number="653" Volume="1985" Year="1985">
-<Database Name="cv" Series="47655" Issue="327799" />
+<Database Name="cv" Series="47653" Issue="327799" />
 </Book>
-<Book Series="Mad Dog" Number="1" Volume="1985" Year="0">
+<Book Series="Mad Dog" Number="10" Volume="1981" Year="1985">
 <Database Name="cv" Series="40329" Issue="271366" />
 </Book>
 <Book Series="Squadron Supreme" Number="1" Volume="1985" Year="1985">
@@ -1276,10 +1216,10 @@
 <Database Name="cv" Series="3518" Issue="57682" />
 </Book>
 <Book Series="The Incredible Hulk" Number="310" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25787" />
+<Database Name="cv" Series="2406" Issue="25787" />
 </Book>
 <Book Series="The Incredible Hulk" Number="311" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25880" />
+<Database Name="cv" Series="2406" Issue="25880" />
 </Book>
 <Book Series="Cloak and Dagger" Number="1" Volume="1985" Year="1985">
 <Database Name="cv" Series="3475" Issue="25678" />
@@ -1345,22 +1285,22 @@
 <Database Name="cv" Series="2190" Issue="26080" />
 </Book>
 <Book Series="Red Sonja" Number="8" Volume="1983" Year="1985">
-<Database Name="cv" Series="3238" Issue="67550" />
+<Database Name="cv" Series="9122" Issue="67550" />
 </Book>
 <Book Series="Red Sonja" Number="9" Volume="1983" Year="1985">
-<Database Name="cv" Series="3238" Issue="67551" />
+<Database Name="cv" Series="9122" Issue="67551" />
 </Book>
 <Book Series="Red Sonja" Number="10" Volume="1983" Year="1985">
-<Database Name="cv" Series="3238" Issue="67552" />
+<Database Name="cv" Series="9122" Issue="67552" />
 </Book>
 <Book Series="Red Sonja" Number="11" Volume="1983" Year="1985">
-<Database Name="cv" Series="3238" Issue="67553" />
+<Database Name="cv" Series="9122" Issue="67553" />
 </Book>
 <Book Series="Red Sonja" Number="12" Volume="1983" Year="1986">
-<Database Name="cv" Series="3238" Issue="67554" />
+<Database Name="cv" Series="9122" Issue="67554" />
 </Book>
 <Book Series="Red Sonja" Number="13" Volume="1983" Year="1986">
-<Database Name="cv" Series="3238" Issue="67555" />
+<Database Name="cv" Series="9122" Issue="67555" />
 </Book>
 <Book Series="The Punisher" Number="1" Volume="1986" Year="1986">
 <Database Name="cv" Series="3649" Issue="26405" />
@@ -1387,7 +1327,7 @@
 <Database Name="cv" Series="3083" Issue="25874" />
 </Book>
 <Book Series="The Incredible Hulk" Number="312" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="25984" />
+<Database Name="cv" Series="2406" Issue="25984" />
 </Book>
 <Book Series="Alpha Flight" Number="26" Volume="1983" Year="1985">
 <Database Name="cv" Series="3217" Issue="25865" />
@@ -1405,7 +1345,7 @@
 <Database Name="cv" Series="3217" Issue="26070" />
 </Book>
 <Book Series="The Incredible Hulk" Number="313" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="26086" />
+<Database Name="cv" Series="2406" Issue="26086" />
 </Book>
 <Book Series="Alpha Flight" Number="29" Volume="1983" Year="1985">
 <Database Name="cv" Series="3217" Issue="26182" />
@@ -1501,7 +1441,7 @@
 <Database Name="cv" Series="2860" Issue="26196" />
 </Book>
 <Book Series="The Incredible Hulk" Number="314" Volume="1968" Year="1985">
-<Database Name="cv" Series="2077" Issue="26197" />
+<Database Name="cv" Series="2406" Issue="26197" />
 </Book>
 <Book Series="Captain America" Number="312" Volume="1968" Year="1985">
 <Database Name="cv" Series="2400" Issue="26186" />
@@ -1716,10 +1656,10 @@
 <Book Series="Squadron Supreme" Number="7" Volume="1985" Year="1986">
 <Database Name="cv" Series="3511" Issue="26609" />
 </Book>
-<Book Series="Secret Wars II" Number="42" Volume="1986" Year="1986">
+<Book Series="Secret Wars" Number="42" Volume="1985" Year="1986">
 <Database Name="cv" Series="51453" Issue="408154" />
 </Book>
-<Book Series="Secret Wars II" Number="44" Volume="1986" Year="1986">
+<Book Series="Secret Wars" Number="44" Volume="1985" Year="1986">
 <Database Name="cv" Series="51453" Issue="408156" />
 </Book>
 <Book Series="Top Dog" Number="7" Volume="1985" Year="1986">
@@ -1756,7 +1696,7 @@
 <Database Name="cv" Series="3083" Issue="51694" />
 </Book>
 <Book Series="The Incredible Hulk" Number="315" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="26399" />
+<Database Name="cv" Series="2406" Issue="26399" />
 </Book>
 <Book Series="The New Mutants" Number="36" Volume="1983" Year="1986">
 <Database Name="cv" Series="3234" Issue="26542" />
@@ -1777,13 +1717,13 @@
 <Database Name="cv" Series="3521" Issue="26616" />
 </Book>
 <Book Series="The Incredible Hulk" Number="316" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="26506" />
+<Database Name="cv" Series="2406" Issue="26506" />
 </Book>
 <Book Series="West Coast Avengers" Number="7" Volume="1985" Year="1986">
 <Database Name="cv" Series="3521" Issue="26713" />
 </Book>
 <Book Series="The Incredible Hulk" Number="317" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="26601" />
+<Database Name="cv" Series="2406" Issue="26601" />
 </Book>
 <Book Series="West Coast Avengers" Number="8" Volume="1985" Year="1986">
 <Database Name="cv" Series="3521" Issue="26807" />
@@ -1792,10 +1732,10 @@
 <Database Name="cv" Series="3521" Issue="26905" />
 </Book>
 <Book Series="The Incredible Hulk" Number="318" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="26700" />
+<Database Name="cv" Series="2406" Issue="26700" />
 </Book>
 <Book Series="The Incredible Hulk" Number="319" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="26792" />
+<Database Name="cv" Series="2406" Issue="26792" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="202" Volume="1981" Year="1986">
 <Database Name="cv" Series="3092" Issue="26519" />
@@ -1959,10 +1899,10 @@
 <Book Series="Misty" Number="4" Volume="1985" Year="1986">
 <Database Name="cv" Series="33538" Issue="217638" />
 </Book>
-<Book Series="Secret Wars II" Number="51" Volume="1986" Year="1986">
+<Book Series="Secret Wars" Number="51" Volume="1985" Year="1986">
 <Database Name="cv" Series="51453" Issue="408178" />
 </Book>
-<Book Series="Secret Wars II" Number="52" Volume="1986" Year="1986">
+<Book Series="Secret Wars" Number="52" Volume="1985" Year="1986">
 <Database Name="cv" Series="51453" Issue="408175" />
 </Book>
 <Book Series="Top Dog" Number="8" Volume="1985" Year="1986">
@@ -2076,7 +2016,7 @@
 <Book Series="Peter Porker, The Spectacular Spider-Ham" Number="8" Volume="1985" Year="1986">
 <Database Name="cv" Series="3499" Issue="93528" />
 </Book>
-<Book Series="Secret Wars II" Number="53" Volume="1986" Year="1986">
+<Book Series="Secret Wars" Number="53" Volume="1985" Year="1986">
 <Database Name="cv" Series="51453" Issue="408176" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="206" Volume="1981" Year="1986">
@@ -2265,7 +2205,7 @@
 <Book Series="Captain America Annual" Number="8" Volume="1971" Year="1986">
 <Database Name="cv" Series="2510" Issue="26303" />
 </Book>
-<Book Series="Secret Wars II" Number="58" Volume="1986" Year="1986">
+<Book Series="Secret Wars" Number="58" Volume="1985" Year="1986">
 <Database Name="cv" Series="51453" Issue="408181" />
 </Book>
 <Book Series="Web of Spider-Man" Number="16" Volume="1985" Year="1986">
@@ -2326,16 +2266,16 @@
 <Database Name="cv" Series="2471" Issue="186447" />
 </Book>
 <Book Series="The Incredible Hulk" Number="320" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="26891" />
+<Database Name="cv" Series="2406" Issue="26891" />
 </Book>
 <Book Series="The Incredible Hulk" Number="321" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="26989" />
+<Database Name="cv" Series="2406" Issue="26989" />
 </Book>
 <Book Series="The Incredible Hulk" Number="322" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="27084" />
+<Database Name="cv" Series="2406" Issue="27084" />
 </Book>
 <Book Series="The Incredible Hulk" Number="323" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="27183" />
+<Database Name="cv" Series="2406" Issue="27183" />
 </Book>
 <Book Series="Heathcliff" Number="10" Volume="1985" Year="1986">
 <Database Name="cv" Series="3486" Issue="94653" />
@@ -2343,8 +2283,8 @@
 <Book Series="Peter Porker, The Spectacular Spider-Ham" Number="10" Volume="1985" Year="1986">
 <Database Name="cv" Series="3499" Issue="93530" />
 </Book>
-<Book Series="Secret Wars II" Number="63" Volume="1986" Year="1986">
-<Database Name="cv" Series="51453" Issue="412695" />
+<Book Series="Secret Wars" Number="63" Volume="1985" Year="1986">
+<Database Name="cv" Series="51453" Issue="408190" />
 </Book>
 <Book Series="The New Mutants" Number="43" Volume="1983" Year="1986">
 <Database Name="cv" Series="3234" Issue="27207" />
@@ -2514,8 +2454,8 @@
 <Book Series="Misty" Number="6" Volume="1985" Year="1986">
 <Database Name="cv" Series="33538" Issue="217640" />
 </Book>
-<Book Series="Secret Wars II" Number="67" Volume="1986" Year="1986">
-<Database Name="cv" Series="51453" Issue="412699" />
+<Book Series="Secret Wars" Number="67" Volume="1985" Year="1986">
+<Database Name="cv" Series="51453" Issue="408194" />
 </Book>
 <Book Series="Marvel Graphic Novel" Number="26" Volume="1982" Year="1987">
 <Database Name="cv" Series="3144" Issue="123228" />
@@ -2586,8 +2526,8 @@
 <Book Series="X-Factor" Number="7" Volume="1986" Year="1986">
 <Database Name="cv" Series="3657" Issue="27097" />
 </Book>
-<Book Series="Secret Wars II" Number="69" Volume="1986" Year="1986">
-<Database Name="cv" Series="51453" Issue="412701" />
+<Book Series="Secret Wars" Number="69" Volume="1985" Year="1986">
+<Database Name="cv" Series="51453" Issue="408202" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="122" Volume="1974" Year="1986">
 <Database Name="cv" Series="2701" Issue="135245" />
@@ -2803,7 +2743,7 @@
 <Database Name="cv" Series="3656" Issue="26259" />
 </Book>
 <Book Series="The Incredible Hulk" Number="324" Volume="1968" Year="1986">
-<Database Name="cv" Series="2077" Issue="27278" />
+<Database Name="cv" Series="2406" Issue="27278" />
 </Book>
 <Book Series="The Sword of Solomon Kane" Number="6" Volume="1985" Year="1986">
 <Database Name="cv" Series="3510" Issue="57058" />
@@ -2829,7 +2769,7 @@
 <Book Series="Heathcliff" Number="13" Volume="1985" Year="1986">
 <Database Name="cv" Series="3486" Issue="94656" />
 </Book>
-<Book Series="Secret Wars II" Number="75" Volume="1986" Year="1986">
+<Book Series="Secret Wars" Number="75" Volume="1985" Year="1986">
 <Database Name="cv" Series="51453" Issue="408208" />
 </Book>
 <Book Series="Top Dog" Number="11" Volume="1985" Year="1986">
@@ -2919,7 +2859,7 @@
 <Book Series="Peter Porker, The Spectacular Spider-Ham" Number="13" Volume="1985" Year="1987">
 <Database Name="cv" Series="3499" Issue="93533" />
 </Book>
-<Book Series="Secret Wars II" Number="79" Volume="1986" Year="1987">
+<Book Series="Secret Wars" Number="79" Volume="1985" Year="1987">
 <Database Name="cv" Series="51453" Issue="408214" />
 </Book>
 <Book Series="Thor" Number="375" Volume="1966" Year="1987">
@@ -2996,6 +2936,63 @@
 </Book>
 <Book Series="Dakota North" Number="5" Volume="1986" Year="1987">
 <Database Name="cv" Series="18425" Issue="108156" />
+</Book>
+<Book Series="The Savage Sword of Conan" Number="129" Volume="1974" Year="1986">
+<Database Name="cv" Series="2701" Issue="135238" />
+</Book>
+<Book Series="The Transformers" Number="76" Volume="1984" Year="1986">
+<Database Name="cv" Series="20559" Issue="172032" />
+</Book>
+<Book Series="The Incredible Hulk" Number="325" Volume="1968" Year="1986">
+<Database Name="cv" Series="2406" Issue="27385" />
+</Book>
+<Book Series="The Incredible Hulk" Number="326" Volume="1968" Year="1986">
+<Database Name="cv" Series="2406" Issue="27490" />
+</Book>
+<Book Series="The Incredible Hulk" Number="327" Volume="1968" Year="1987">
+<Database Name="cv" Series="2406" Issue="27680" />
+</Book>
+<Book Series="The Spectacular Spider-Man" Number="121" Volume="1976" Year="1986">
+<Database Name="cv" Series="2870" Issue="27497" />
+</Book>
+<Book Series="The Incredible Hulk" Number="328" Volume="1968" Year="1987">
+<Database Name="cv" Series="2406" Issue="27793" />
+</Book>
+<Book Series="The Incredible Hulk" Number="329" Volume="1968" Year="1987">
+<Database Name="cv" Series="2406" Issue="27902" />
+</Book>
+<Book Series="The Incredible Hulk" Number="330" Volume="1968" Year="1987">
+<Database Name="cv" Series="2406" Issue="28014" />
+</Book>
+<Book Series="The Incredible Hulk" Number="331" Volume="1968" Year="1987">
+<Database Name="cv" Series="2406" Issue="28114" />
+</Book>
+<Book Series="The Incredible Hulk" Number="332" Volume="1968" Year="1987">
+<Database Name="cv" Series="2406" Issue="28225" />
+</Book>
+<Book Series="The Incredible Hulk" Number="333" Volume="1968" Year="1987">
+<Database Name="cv" Series="2406" Issue="28338" />
+</Book>
+<Book Series="The Incredible Hulk" Number="334" Volume="1968" Year="1987">
+<Database Name="cv" Series="2406" Issue="28459" />
+</Book>
+<Book Series="Action Force" Number="6" Volume="1987" Year="1987">
+<Database Name="cv" Series="22813" Issue="136939" />
+</Book>
+<Book Series="The Transformers" Number="21" Volume="1984" Year="1986">
+<Database Name="cv" Series="3370" Issue="57440" />
+</Book>
+<Book Series="The Transformers" Number="22" Volume="1984" Year="1986">
+<Database Name="cv" Series="3370" Issue="57441" />
+</Book>
+<Book Series="The Transformers" Number="23" Volume="1984" Year="1986">
+<Database Name="cv" Series="3370" Issue="57442" />
+</Book>
+<Book Series="Peter Porker, The Spectacular Spider-Ham" Number="14" Volume="1985" Year="1987">
+<Database Name="cv" Series="3499" Issue="93534" />
+</Book>
+<Book Series="Marvel Tales" Number="197" Volume="1966" Year="1987">
+<Database Name="cv" Series="2293" Issue="64962" />
 </Book>
 </Books>
 <Matchers />

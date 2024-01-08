@@ -1149,9 +1149,6 @@
 <Book Series="New Warriors" Number="20" Volume="2007" Year="2009">
 <Database Name="cv" Series="18671" Issue="151924" />
 </Book>
-<Book Series="Avengers: The Initiative Special" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="23602" Issue="141542" />
-</Book>
 <Book Series="Incredible Hercules" Number="121" Volume="2008" Year="2008">
 <Database Name="cv" Series="20588" Issue="139006" />
 </Book>
@@ -1175,6 +1172,9 @@
 </Book>
 <Book Series="Thunderbolts" Number="127" Volume="2006" Year="2009">
 <Database Name="cv" Series="18128" Issue="146793" />
+</Book>
+<Book Series="Avengers: The Initiative Special" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="23602" Issue="141542" />
 </Book>
 <Book Series="X-Force" Number="7" Volume="2008" Year="2008">
 <Database Name="cv" Series="20511" Issue="139327" />
@@ -1973,6 +1973,15 @@
 </Book>
 <Book Series="Amazing Spider-Man Family" Number="4" Volume="2008" Year="2009">
 <Database Name="cv" Series="22669" Issue="152928" />
+</Book>
+<Book Series="Hulk" Number="10" Volume="2008" Year="2009">
+<Database Name="cv" Series="20291" Issue="152710" />
+</Book>
+<Book Series="Hulk" Number="11" Volume="2008" Year="2009">
+<Database Name="cv" Series="20291" Issue="155776" />
+</Book>
+<Book Series="Hulk" Number="12" Volume="2008" Year="2009">
+<Database Name="cv" Series="20291" Issue="157780" />
 </Book>
 <Book Series="Young X-Men" Number="7" Volume="2008" Year="2008">
 <Database Name="cv" Series="21082" Issue="140445" />
@@ -2993,15 +3002,6 @@
 </Book>
 <Book Series="Cable" Number="11" Volume="2008" Year="2009">
 <Database Name="cv" Series="20805" Issue="151130" />
-</Book>
-<Book Series="Cable" Number="12" Volume="2008" Year="2009">
-<Database Name="cv" Series="20805" Issue="153060" />
-</Book>
-<Book Series="Dark X-Men" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="29623" Issue="182542" />
-</Book>
-<Book Series="X-Force" Number="12" Volume="2008" Year="2009">
-<Database Name="cv" Series="20511" Issue="152605" />
 </Book>
 </Books>
 <Matchers />

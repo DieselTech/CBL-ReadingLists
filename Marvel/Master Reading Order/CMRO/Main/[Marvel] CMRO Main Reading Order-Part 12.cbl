@@ -3,6 +3,30 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 12</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="Scarlet Spider" Number="2" Volume="1995" Year="1995">
+<Database Name="cv" Series="22212" Issue="141786" />
+</Book>
+<Book Series="The Spectacular Scarlet Spider" Number="2" Volume="1995" Year="1995">
+<Database Name="cv" Series="23666" Issue="141791" />
+</Book>
+<Book Series="Professor Xavier and the X-Men" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="5553" Issue="41644" />
+</Book>
+<Book Series="Over the Edge" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="11182" Issue="97936" />
+</Book>
+<Book Series="Sensational Spider-Man Wizard Mini Comic" Number="3" Volume="1995" Year="1995">
+<Database Name="cv" Series="64901" Issue="415946" />
+</Book>
+<Book Series="The Sensational Spider-Man" Number="0" Volume="1996" Year="1996">
+<Database Name="cv" Series="5788" Issue="77941" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="407" Volume="1963" Year="1996">
+<Database Name="cv" Series="2127" Issue="64445" />
+</Book>
+<Book Series="X-Factor" Number="116" Volume="1986" Year="1995">
+<Database Name="cv" Series="3657" Issue="65696" />
+</Book>
 <Book Series="Green Lantern/Silver Surfer: Unholy Alliances" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18035" Issue="105603" />
 </Book>
@@ -828,6 +852,18 @@
 <Book Series="Tales of the Marvels: Inner Demons" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="34967" Issue="230170" />
 </Book>
+<Book Series="Storm" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="7191" Issue="107612" />
+</Book>
+<Book Series="Storm" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="7191" Issue="51324" />
+</Book>
+<Book Series="Storm" Number="3" Volume="1996" Year="1996">
+<Database Name="cv" Series="7191" Issue="107621" />
+</Book>
+<Book Series="Storm" Number="4" Volume="1996" Year="1996">
+<Database Name="cv" Series="7191" Issue="51325" />
+</Book>
 <Book Series="Captain America" Number="450" Volume="1968" Year="1996">
 <Database Name="cv" Series="2400" Issue="42300" />
 </Book>
@@ -1103,18 +1139,6 @@
 </Book>
 <Book Series="X-Force" Number="56" Volume="1991" Year="1996">
 <Database Name="cv" Series="4604" Issue="64530" />
-</Book>
-<Book Series="Storm" Number="1" Volume="1996" Year="1996">
-<Database Name="cv" Series="7191" Issue="107612" />
-</Book>
-<Book Series="Storm" Number="2" Volume="1996" Year="1996">
-<Database Name="cv" Series="7191" Issue="51324" />
-</Book>
-<Book Series="Storm" Number="3" Volume="1996" Year="1996">
-<Database Name="cv" Series="7191" Issue="107621" />
-</Book>
-<Book Series="Storm" Number="4" Volume="1996" Year="1996">
-<Database Name="cv" Series="7191" Issue="51325" />
 </Book>
 <Book Series="Youngblood/X-Force" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="19421" Issue="116378" />
@@ -1986,6 +2010,9 @@
 <Book Series="Uncanny Origins" Number="7" Volume="1996" Year="1997">
 <Database Name="cv" Series="7197" Issue="135774" />
 </Book>
+<Book Series="Maverick" Number="1" Volume="1997" Year="1997">
+<Database Name="cv" Series="18150" Issue="106317" />
+</Book>
 <Book Series="X-Men '97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="60464" Issue="161832" />
 </Book>
@@ -2046,16 +2073,16 @@
 <Book Series="Cyblade / Ghost Rider" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18378" Issue="107763" />
 </Book>
-<Book Series="Ghost Rider/Ballistic" Number="1" Volume="1997" Year="1997">
+<Book Series="Ghost Rider / Ballistic" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18377" Issue="107762" />
 </Book>
-<Book Series="Ballistic/Wolverine" Number="1" Volume="1997" Year="1997">
+<Book Series="Ballistic / Wolverine" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18374" Issue="107759" />
 </Book>
-<Book Series="Wolverine/Witchblade" Number="1" Volume="1997" Year="1997">
+<Book Series="Wolverine / Witchblade" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18391" Issue="107844" />
 </Book>
-<Book Series="Witchblade/Elektra" Number="1" Volume="1997" Year="1997">
+<Book Series="Witchblade / Elektra" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="18392" Issue="107845" />
 </Book>
 <Book Series="Elektra / Cyblade" Number="1" Volume="1997" Year="1997">
@@ -2817,15 +2844,6 @@
 <Book Series="X-Man '97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="39814" Issue="269206" />
 </Book>
-<Book Series="Journey into Mystery" Number="514" Volume="1996" Year="1997">
-<Database Name="cv" Series="7168" Issue="73739" />
-</Book>
-<Book Series="Journey into Mystery" Number="515" Volume="1996" Year="1997">
-<Database Name="cv" Series="7168" Issue="73740" />
-</Book>
-<Book Series="Journey into Mystery" Number="516" Volume="1996" Year="1998">
-<Database Name="cv" Series="7168" Issue="73741" />
-</Book>
 <Book Series="Spider-Man: The Venom Agenda" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="26777" Issue="160700" />
 </Book>
@@ -2984,24 +3002,6 @@
 </Book>
 <Book Series="Ka-Zar" Number="8" Volume="1997" Year="1997">
 <Database Name="cv" Series="6006" Issue="44393" />
-</Book>
-<Book Series="Ka-Zar" Number="9" Volume="1997" Year="1998">
-<Database Name="cv" Series="6006" Issue="44563" />
-</Book>
-<Book Series="Ka-Zar" Number="10" Volume="1997" Year="1998">
-<Database Name="cv" Series="6006" Issue="44676" />
-</Book>
-<Book Series="Ka-Zar" Number="11" Volume="1997" Year="1998">
-<Database Name="cv" Series="6006" Issue="44768" />
-</Book>
-<Book Series="Venom: The Finale" Number="1" Volume="1997" Year="1997">
-<Database Name="cv" Series="29056" Issue="178807" />
-</Book>
-<Book Series="Venom: The Finale" Number="2" Volume="1997" Year="1997">
-<Database Name="cv" Series="29056" Issue="178808" />
-</Book>
-<Book Series="Venom: The Finale" Number="3" Volume="1997" Year="1998">
-<Database Name="cv" Series="29056" Issue="178809" />
 </Book>
 </Books>
 <Matchers />

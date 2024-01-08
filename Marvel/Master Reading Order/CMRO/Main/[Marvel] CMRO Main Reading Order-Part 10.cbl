@@ -3,6 +3,30 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 10</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="The New Warriors" Number="32" Volume="1990" Year="1993">
+<Database Name="cv" Series="4407" Issue="70228" />
+</Book>
+<Book Series="The New Warriors" Number="33" Volume="1990" Year="1993">
+<Database Name="cv" Series="4407" Issue="70229" />
+</Book>
+<Book Series="The New Warriors" Number="34" Volume="1990" Year="1993">
+<Database Name="cv" Series="4407" Issue="70230" />
+</Book>
+<Book Series="The New Warriors Annual" Number="3" Volume="1991" Year="1993">
+<Database Name="cv" Series="11874" Issue="103925" />
+</Book>
+<Book Series="Quasar" Number="47" Volume="1989" Year="1993">
+<Database Name="cv" Series="4242" Issue="37369" />
+</Book>
+<Book Series="Quasar" Number="48" Volume="1989" Year="1993">
+<Database Name="cv" Series="4242" Issue="37523" />
+</Book>
+<Book Series="Quasar" Number="49" Volume="1989" Year="1993">
+<Database Name="cv" Series="4242" Issue="37664" />
+</Book>
+<Book Series="Quasar" Number="50" Volume="1989" Year="1993">
+<Database Name="cv" Series="4242" Issue="37803" />
+</Book>
 <Book Series="Quasar" Number="51" Volume="1989" Year="1993">
 <Database Name="cv" Series="4242" Issue="37954" />
 </Book>
@@ -2978,30 +3002,6 @@
 </Book>
 <Book Series="Thunderstrike" Number="8" Volume="1993" Year="1994">
 <Database Name="cv" Series="5055" Issue="39121" />
-</Book>
-<Book Series="Nomad" Number="22" Volume="1992" Year="1994">
-<Database Name="cv" Series="4803" Issue="47853" />
-</Book>
-<Book Series="Nomad" Number="23" Volume="1992" Year="1994">
-<Database Name="cv" Series="4803" Issue="47854" />
-</Book>
-<Book Series="Nomad" Number="24" Volume="1992" Year="1994">
-<Database Name="cv" Series="4803" Issue="47855" />
-</Book>
-<Book Series="Nomad" Number="25" Volume="1992" Year="1994">
-<Database Name="cv" Series="4803" Issue="47856" />
-</Book>
-<Book Series="The Mighty Thor" Number="472" Volume="1989" Year="1994">
-<Database Name="cv" Series="61213" Issue="38808" />
-</Book>
-<Book Series="The Mighty Thor" Number="473" Volume="1989" Year="1994">
-<Database Name="cv" Series="61213" Issue="38950" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="386" Volume="1963" Year="1994">
-<Database Name="cv" Series="2127" Issue="38702" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="387" Volume="1963" Year="1994">
-<Database Name="cv" Series="2127" Issue="38852" />
 </Book>
 </Books>
 <Matchers />

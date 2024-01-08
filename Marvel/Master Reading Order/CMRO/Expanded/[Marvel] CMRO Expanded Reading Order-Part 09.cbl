@@ -1,65 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 09</Name>
-<NumIssues>905</NumIssues>
+<NumIssues>903</NumIssues>
 <Books>
-<Book Series="Howard the Duck" Number="2" Volume="1979" Year="1979">
-<Database Name="cv" Series="3005" Issue="20010" />
-</Book>
-<Book Series="Machine Man" Number="14" Volume="1978" Year="1980">
-<Database Name="cv" Series="2956" Issue="20313" />
-</Book>
-<Book Series="Machine Man" Number="15" Volume="1978" Year="1980">
-<Database Name="cv" Series="2956" Issue="20458" />
-</Book>
-<Book Series="The Savage Sword of Conan" Number="44" Volume="1974" Year="1979">
-<Database Name="cv" Series="2701" Issue="19788" />
-</Book>
-<Book Series="Marvel Team-Up" Number="86" Volume="1972" Year="1979">
-<Database Name="cv" Series="2576" Issue="19851" />
-</Book>
-<Book Series="Marvel Team-Up" Number="87" Volume="1972" Year="1979">
-<Database Name="cv" Series="2576" Issue="19925" />
-</Book>
-<Book Series="Marvel Team-Up" Number="88" Volume="1972" Year="1979">
-<Database Name="cv" Series="2576" Issue="19991" />
-</Book>
-<Book Series="What If?" Number="17" Volume="1977" Year="1979">
-<Database Name="cv" Series="2918" Issue="19864" />
-</Book>
-<Book Series="Captain America" Number="240" Volume="1968" Year="1979">
-<Database Name="cv" Series="2400" Issue="19978" />
-</Book>
-<Book Series="Marvel Team-Up" Number="89" Volume="1972" Year="1980">
-<Database Name="cv" Series="2576" Issue="20104" />
-</Book>
-<Book Series="X-Men Annual" Number="3" Volume="1970" Year="1979">
-<Database Name="cv" Series="22988" Issue="138857" />
-</Book>
-<Book Series="Ghost Rider" Number="35" Volume="1973" Year="1979">
-<Database Name="cv" Series="2636" Issue="19429" />
-</Book>
-<Book Series="Ghost Rider" Number="36" Volume="1973" Year="1979">
-<Database Name="cv" Series="2636" Issue="19575" />
-</Book>
-<Book Series="Ghost Rider" Number="37" Volume="1973" Year="1979">
-<Database Name="cv" Series="2636" Issue="19705" />
-</Book>
-<Book Series="Ghost Rider" Number="38" Volume="1973" Year="1979">
-<Database Name="cv" Series="2636" Issue="19843" />
-</Book>
-<Book Series="Ghost Rider" Number="39" Volume="1973" Year="1979">
-<Database Name="cv" Series="2636" Issue="19983" />
-</Book>
-<Book Series="Ghost Rider" Number="40" Volume="1973" Year="1980">
-<Database Name="cv" Series="2636" Issue="20098" />
-</Book>
-<Book Series="Marvel Team-Up" Number="90" Volume="1972" Year="1980">
-<Database Name="cv" Series="2576" Issue="20171" />
-</Book>
-<Book Series="Marvel Team-Up Annual" Number="2" Volume="1976" Year="1979">
-<Database Name="cv" Series="2863" Issue="19085" />
-</Book>
 <Book Series="Marvel Team-Up" Number="91" Volume="1972" Year="1980">
 <Database Name="cv" Series="2576" Issue="20247" />
 </Book>
@@ -93,11 +36,11 @@
 <Book Series="Power Man and Iron Fist" Number="60" Volume="1978" Year="1979">
 <Database Name="cv" Series="2959" Issue="19996" />
 </Book>
-<Book Series="Power Man and Iron Fist" Number="61" Volume="1978" Year="1980">
-<Database Name="cv" Series="2959" Issue="20175" />
+<Book Series="Power Man" Number="1" Volume="1974" Year="2009">
+<Database Name="cv" Series="2700" Issue="163274" />
 </Book>
-<Book Series="Power Man and Iron Fist" Number="62" Volume="1978" Year="1980">
-<Database Name="cv" Series="2959" Issue="20321" />
+<Book Series="Power Man" Number="2" Volume="1974" Year="2009">
+<Database Name="cv" Series="2700" Issue="172563" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="45" Volume="1974" Year="1979">
 <Database Name="cv" Series="2701" Issue="19856" />
@@ -155,9 +98,6 @@
 </Book>
 <Book Series="Marvel Spotlight" Number="4" Volume="1979" Year="1980">
 <Database Name="cv" Series="3007" Issue="20103" />
-</Book>
-<Book Series="Marvel Comics Super Special" Number="10" Volume="1977" Year="1979">
-<Database Name="cv" Series="2909" Issue="19198" />
 </Book>
 <Book Series="Shogun Warriors" Number="18" Volume="1979" Year="1980">
 <Database Name="cv" Series="3011" Issue="100380" />
@@ -264,7 +204,7 @@
 <Book Series="Epic Illustrated" Number="1" Volume="1980" Year="1980">
 <Database Name="cv" Series="3049" Issue="20239" />
 </Book>
-<Book Series="Fantastic Four Annual" Number="1980" Volume="1969" Year="0">
+<Book Series="Fantastic Four Annual" Number="1980" Volume="1969" Year="1980">
 <Database Name="cv" Series="53647" Issue="364873" />
 </Book>
 <Book Series="Marvel Comics Super Special" Number="11" Volume="1977" Year="1979">
@@ -328,61 +268,58 @@
 <Database Name="cv" Series="37309" Issue="251069" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="47" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251070" />
+<Database Name="cv" Series="37822" Issue="251070" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="48" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251071" />
+<Database Name="cv" Series="37822" Issue="251071" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="49" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251072" />
+<Database Name="cv" Series="37822" Issue="251072" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="50" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251073" />
+<Database Name="cv" Series="37822" Issue="251073" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="51" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251074" />
+<Database Name="cv" Series="37822" Issue="251074" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="52" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251075" />
+<Database Name="cv" Series="37822" Issue="251075" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="53" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251076" />
+<Database Name="cv" Series="37822" Issue="251076" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="54" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251077" />
+<Database Name="cv" Series="37822" Issue="251077" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="55" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251078" />
+<Database Name="cv" Series="37822" Issue="251078" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="57" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251080" />
+<Database Name="cv" Series="37822" Issue="251080" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="58" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="251081" />
+<Database Name="cv" Series="37822" Issue="251081" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="59" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="266876" />
+<Database Name="cv" Series="37822" Issue="266876" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="60" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="267228" />
+<Database Name="cv" Series="37822" Issue="267228" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="61" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="267229" />
+<Database Name="cv" Series="37822" Issue="267229" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="62" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="267230" />
+<Database Name="cv" Series="37822" Issue="267230" />
 </Book>
 <Book Series="The Incredible Hulk Weekly" Number="63" Volume="1980" Year="1980">
-<Database Name="cv" Series="37309" Issue="267231" />
+<Database Name="cv" Series="37822" Issue="267231" />
 </Book>
 <Book Series="Marvel Preview" Number="21" Volume="1975" Year="1980">
 <Database Name="cv" Series="2774" Issue="20316" />
 </Book>
 <Book Series="Man-Thing" Number="6" Volume="1979" Year="1980">
 <Database Name="cv" Series="3006" Issue="20667" />
-</Book>
-<Book Series="Incredible Hulk Annual" Number="1980" Volume="1977" Year="0">
-<Database Name="cv" Series="142306" Issue="917244" />
 </Book>
 <Book Series="Captain America" Number="246" Volume="1968" Year="1980">
 <Database Name="cv" Series="2400" Issue="20447" />
@@ -496,7 +433,7 @@
 <Database Name="cv" Series="2407" Issue="20312" />
 </Book>
 <Book Series="The Incredible Hulk" Number="244" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20167" />
+<Database Name="cv" Series="2406" Issue="20167" />
 </Book>
 <Book Series="The Savage She-Hulk" Number="1" Volume="1980" Year="1980">
 <Database Name="cv" Series="3053" Issue="20177" />
@@ -910,31 +847,31 @@
 <Database Name="cv" Series="2774" Issue="20532" />
 </Book>
 <Book Series="The Incredible Hulk" Number="245" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20242" />
+<Database Name="cv" Series="2406" Issue="20242" />
 </Book>
 <Book Series="The Incredible Hulk" Number="246" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20311" />
+<Database Name="cv" Series="2406" Issue="20311" />
 </Book>
 <Book Series="The Incredible Hulk" Number="247" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20387" />
+<Database Name="cv" Series="2406" Issue="20387" />
 </Book>
 <Book Series="The Incredible Hulk" Number="248" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20455" />
+<Database Name="cv" Series="2406" Issue="20455" />
 </Book>
 <Book Series="The Incredible Hulk" Number="249" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20528" />
+<Database Name="cv" Series="2406" Issue="20528" />
 </Book>
 <Book Series="The Incredible Hulk" Number="250" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20592" />
+<Database Name="cv" Series="2406" Issue="20592" />
 </Book>
 <Book Series="The Incredible Hulk" Number="251" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20664" />
+<Database Name="cv" Series="2406" Issue="20664" />
 </Book>
 <Book Series="The Incredible Hulk" Number="252" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20731" />
+<Database Name="cv" Series="2406" Issue="20731" />
 </Book>
 <Book Series="The Incredible Hulk" Number="253" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20795" />
+<Database Name="cv" Series="2406" Issue="20795" />
 </Book>
 <Book Series="King Conan" Number="5" Volume="1980" Year="1981">
 <Database Name="cv" Series="3051" Issue="21111" />
@@ -1143,11 +1080,11 @@
 <Book Series="Fantastic Four" Number="227" Volume="1961" Year="1981">
 <Database Name="cv" Series="2045" Issue="21034" />
 </Book>
-<Book Series="Power Man and Iron Fist" Number="63" Volume="1978" Year="1980">
-<Database Name="cv" Series="2959" Issue="20464" />
+<Book Series="Power Man" Number="3" Volume="1974" Year="2009">
+<Database Name="cv" Series="2700" Issue="210443" />
 </Book>
-<Book Series="Power Man and Iron Fist" Number="64" Volume="1978" Year="1980">
-<Database Name="cv" Series="2959" Issue="20600" />
+<Book Series="Power Man" Number="4" Volume="1974" Year="2010">
+<Database Name="cv" Series="2700" Issue="210440" />
 </Book>
 <Book Series="Moon Knight" Number="5" Volume="1980" Year="1981">
 <Database Name="cv" Series="3052" Issue="110190" />
@@ -1200,11 +1137,11 @@
 <Book Series="Micronauts" Number="23" Volume="1979" Year="1980">
 <Database Name="cv" Series="3008" Issue="20802" />
 </Book>
-<Book Series="Power Man and Iron Fist" Number="65" Volume="1978" Year="1980">
-<Database Name="cv" Series="2959" Issue="20740" />
+<Book Series="Power Man" Number="5" Volume="1974" Year="2010">
+<Database Name="cv" Series="2700" Issue="224506" />
 </Book>
-<Book Series="Power Man and Iron Fist" Number="66" Volume="1978" Year="1980">
-<Database Name="cv" Series="2959" Issue="20872" />
+<Book Series="Power Man" Number="6" Volume="1974" Year="2010">
+<Database Name="cv" Series="2700" Issue="251508" />
 </Book>
 <Book Series="Iron Man" Number="140" Volume="1968" Year="1980">
 <Database Name="cv" Series="2407" Issue="20796" />
@@ -1298,9 +1235,6 @@
 </Book>
 <Book Series="Fantastic Four" Number="228" Volume="1961" Year="1981">
 <Database Name="cv" Series="2045" Issue="21108" />
-</Book>
-<Book Series="Incredible Hulk Annual" Number="1981" Volume="1977" Year="0">
-<Database Name="cv" Series="142306" Issue="917245" />
 </Book>
 <Book Series="Moon Knight" Number="7" Volume="1980" Year="1981">
 <Database Name="cv" Series="3052" Issue="21250" />
@@ -1794,9 +1728,6 @@
 <Book Series="Marvel Two-in-One" Number="78" Volume="1974" Year="1981">
 <Database Name="cv" Series="2696" Issue="21447" />
 </Book>
-<Book Series="Incredible Hulk Annual" Number="1982" Volume="1977" Year="1982">
-<Database Name="cv" Series="142306" Issue="917246" />
-</Book>
 <Book Series="Ghost Rider" Number="58" Volume="1973" Year="1981">
 <Database Name="cv" Series="2636" Issue="21375" />
 </Book>
@@ -1993,10 +1924,10 @@
 <Database Name="cv" Series="3010" Issue="21524" />
 </Book>
 <Book Series="The Incredible Hulk" Number="254" Volume="1968" Year="1980">
-<Database Name="cv" Series="2077" Issue="20861" />
+<Database Name="cv" Series="2406" Issue="20861" />
 </Book>
 <Book Series="The Incredible Hulk" Number="255" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="20969" />
+<Database Name="cv" Series="2406" Issue="20969" />
 </Book>
 <Book Series="Spider-Woman" Number="41" Volume="1978" Year="1981">
 <Database Name="cv" Series="2960" Issue="21748" />
@@ -2005,19 +1936,19 @@
 <Database Name="cv" Series="3082" Issue="21721" />
 </Book>
 <Book Series="The Incredible Hulk" Number="256" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21037" />
+<Database Name="cv" Series="2406" Issue="21037" />
 </Book>
 <Book Series="The Incredible Hulk" Number="257" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21109" />
+<Database Name="cv" Series="2406" Issue="21109" />
 </Book>
 <Book Series="The Incredible Hulk" Number="258" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21178" />
+<Database Name="cv" Series="2406" Issue="21178" />
 </Book>
 <Book Series="The Incredible Hulk" Number="259" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21242" />
+<Database Name="cv" Series="2406" Issue="21242" />
 </Book>
 <Book Series="The Incredible Hulk" Number="260" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21302" />
+<Database Name="cv" Series="2406" Issue="21302" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="70" Volume="1978" Year="1981">
 <Database Name="cv" Series="2959" Issue="21311" />
@@ -2035,10 +1966,10 @@
 <Database Name="cv" Series="2863" Issue="20904" />
 </Book>
 <Book Series="The Incredible Hulk" Number="261" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21376" />
+<Database Name="cv" Series="2406" Issue="21376" />
 </Book>
 <Book Series="The Incredible Hulk" Number="262" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21442" />
+<Database Name="cv" Series="2406" Issue="21442" />
 </Book>
 <Book Series="Rampage Monthly" Number="40" Volume="1978" Year="1981">
 <Database Name="cv" Series="34318" Issue="327008" />
@@ -2113,13 +2044,13 @@
 <Database Name="cv" Series="2701" Issue="21745" />
 </Book>
 <Book Series="The Incredible Hulk" Number="263" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21513" />
+<Database Name="cv" Series="2406" Issue="21513" />
 </Book>
 <Book Series="The Incredible Hulk" Number="264" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21595" />
+<Database Name="cv" Series="2406" Issue="21595" />
 </Book>
 <Book Series="The Incredible Hulk" Number="265" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21662" />
+<Database Name="cv" Series="2406" Issue="21662" />
 </Book>
 <Book Series="Fantastic Four Annual" Number="16" Volume="1963" Year="1981">
 <Database Name="cv" Series="2129" Issue="20920" />
@@ -2260,7 +2191,7 @@
 <Database Name="cv" Series="2400" Issue="21922" />
 </Book>
 <Book Series="Thor Annual" Number="9" Volume="1966" Year="1981">
-<Database Name="cv" Series="79259" Issue="20913" />
+<Database Name="cv" Series="2295" Issue="20913" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="220" Volume="1963" Year="1981">
 <Database Name="cv" Series="2127" Issue="21504" />
@@ -2470,7 +2401,7 @@
 <Database Name="cv" Series="2407" Issue="21859" />
 </Book>
 <Book Series="Spider-Man and the Incredible Hulk" Number="1" Volume="1982" Year="1982">
-<Database Name="cv" Series="52382" Issue="358695" />
+<Database Name="cv" Series="26813" Issue="160964" />
 </Book>
 <Book Series="Power Man and Iron Fist" Number="78" Volume="1978" Year="1982">
 <Database Name="cv" Series="2959" Issue="21941" />
@@ -2488,7 +2419,7 @@
 <Database Name="cv" Series="3052" Issue="22240" />
 </Book>
 <Book Series="Spider-Man and the Incredible Hulk" Number="1" Volume="1982" Year="1982">
-<Database Name="cv" Series="52382" Issue="358695" />
+<Database Name="cv" Series="52381" Issue="358694" />
 </Book>
 <Book Series="Dazzler" Number="13" Volume="1981" Year="1982">
 <Database Name="cv" Series="3083" Issue="108344" />
@@ -2530,10 +2461,10 @@
 <Database Name="cv" Series="2701" Issue="22388" />
 </Book>
 <Book Series="The Incredible Hulk" Number="266" Volume="1968" Year="1981">
-<Database Name="cv" Series="2077" Issue="21731" />
+<Database Name="cv" Series="2406" Issue="21731" />
 </Book>
 <Book Series="The Incredible Hulk" Number="267" Volume="1968" Year="1982">
-<Database Name="cv" Series="2077" Issue="21858" />
+<Database Name="cv" Series="2406" Issue="21858" />
 </Book>
 <Book Series="Starlord, The Special Edition" Number="1" Volume="1982" Year="1982">
 <Database Name="cv" Series="27178" Issue="165348" />
@@ -2605,7 +2536,7 @@
 <Database Name="cv" Series="2045" Issue="21929" />
 </Book>
 <Book Series="Spider-Man and the Incredible Hulk" Number="1" Volume="1982" Year="1982">
-<Database Name="cv" Series="42606" Issue="358696" />
+<Database Name="cv" Series="52383" Issue="358696" />
 </Book>
 <Book Series="Marvel Fanfare" Number="5" Volume="1982" Year="1982">
 <Database Name="cv" Series="3143" Issue="22597" />
@@ -2717,6 +2648,60 @@
 </Book>
 <Book Series="Conan the Barbarian" Number="132" Volume="1970" Year="1982">
 <Database Name="cv" Series="2471" Issue="22003" />
+</Book>
+<Book Series="Conan the Barbarian" Number="133" Volume="1970" Year="1982">
+<Database Name="cv" Series="2471" Issue="22076" />
+</Book>
+<Book Series="Fantastic Four Roast" Number="1" Volume="1982" Year="1982">
+<Database Name="cv" Series="19100" Issue="114149" />
+</Book>
+<Book Series="Marvel Two-in-One" Number="85" Volume="1974" Year="1982">
+<Database Name="cv" Series="2696" Issue="22017" />
+</Book>
+<Book Series="Marvel Two-in-One" Number="86" Volume="1974" Year="1982">
+<Database Name="cv" Series="2696" Issue="22089" />
+</Book>
+<Book Series="Doctor Strange" Number="48" Volume="1974" Year="1981">
+<Database Name="cv" Series="2676" Issue="21438" />
+</Book>
+<Book Series="Spidey Super Stories" Number="57" Volume="1974" Year="1982">
+<Database Name="cv" Series="2702" Issue="67542" />
+</Book>
+<Book Series="Micronauts" Number="40" Volume="1979" Year="1982">
+<Database Name="cv" Series="3008" Issue="22091" />
+</Book>
+<Book Series="Micronauts" Number="41" Volume="1979" Year="1982">
+<Database Name="cv" Series="3008" Issue="22171" />
+</Book>
+<Book Series="Fantastic Four" Number="246" Volume="1961" Year="1982">
+<Database Name="cv" Series="2045" Issue="22442" />
+</Book>
+<Book Series="Fantastic Four" Number="247" Volume="1961" Year="1982">
+<Database Name="cv" Series="2045" Issue="22518" />
+</Book>
+<Book Series="Crazy Magazine" Number="85" Volume="1973" Year="1982">
+<Database Name="cv" Series="23630" Issue="217320" />
+</Book>
+<Book Series="Rom Annual" Number="1" Volume="1982" Year="1982">
+<Database Name="cv" Series="3148" Issue="22606" />
+</Book>
+<Book Series="Marvel Two-in-One" Number="87" Volume="1974" Year="1982">
+<Database Name="cv" Series="2696" Issue="22169" />
+</Book>
+<Book Series="Marvel Two-in-One" Number="88" Volume="1974" Year="1982">
+<Database Name="cv" Series="2696" Issue="22237" />
+</Book>
+<Book Series="Doctor Strange" Number="49" Volume="1974" Year="1981">
+<Database Name="cv" Series="2676" Issue="21591" />
+</Book>
+<Book Series="Doctor Strange" Number="50" Volume="1974" Year="1981">
+<Database Name="cv" Series="2676" Issue="21727" />
+</Book>
+<Book Series="Doctor Strange" Number="51" Volume="1974" Year="1982">
+<Database Name="cv" Series="2676" Issue="21927" />
+</Book>
+<Book Series="Doctor Strange" Number="52" Volume="1974" Year="1982">
+<Database Name="cv" Series="2676" Issue="22080" />
 </Book>
 </Books>
 <Matchers />

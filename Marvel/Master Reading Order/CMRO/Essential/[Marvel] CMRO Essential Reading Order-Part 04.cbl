@@ -3,6 +3,24 @@
 <Name>[Marvel] CMRO Essential Reading Order-Part 04</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="X-23: Target X" Number="3" Volume="2007" Year="2007">
+<Database Name="cv" Series="18171" Issue="106401" />
+</Book>
+<Book Series="X-23: Target X" Number="4" Volume="2007" Year="2007">
+<Database Name="cv" Series="18171" Issue="107205" />
+</Book>
+<Book Series="X-23: Target X" Number="5" Volume="2007" Year="2007">
+<Database Name="cv" Series="18171" Issue="108564" />
+</Book>
+<Book Series="X-23: Target X" Number="6" Volume="2007" Year="2007">
+<Database Name="cv" Series="18171" Issue="110025" />
+</Book>
+<Book Series="New X-Men" Number="33" Volume="2004" Year="2007">
+<Database Name="cv" Series="18078" Issue="110486" />
+</Book>
+<Book Series="New X-Men" Number="34" Volume="2004" Year="2007">
+<Database Name="cv" Series="18078" Issue="110487" />
+</Book>
 <Book Series="New X-Men" Number="35" Volume="2004" Year="2007">
 <Database Name="cv" Series="18078" Issue="106500" />
 </Book>
@@ -2984,24 +3002,6 @@
 </Book>
 <Book Series="The Amazing Spider-Man" Number="615" Volume="1963" Year="2010">
 <Database Name="cv" Series="2127" Issue="187607" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="616" Volume="1963" Year="2010">
-<Database Name="cv" Series="2127" Issue="189487" />
-</Book>
-<Book Series="Dark Wolverine" Number="81" Volume="2009" Year="2010">
-<Database Name="cv" Series="26883" Issue="187614" />
-</Book>
-<Book Series="Secret Warriors" Number="11" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="189566" />
-</Book>
-<Book Series="Secret Warriors" Number="12" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="194443" />
-</Book>
-<Book Series="Secret Warriors" Number="13" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="198262" />
-</Book>
-<Book Series="Secret Warriors" Number="14" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="201848" />
 </Book>
 </Books>
 <Matchers />

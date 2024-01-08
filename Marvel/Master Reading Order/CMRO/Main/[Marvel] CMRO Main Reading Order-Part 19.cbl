@@ -3,6 +3,87 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 19</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="X-Men: Legacy" Number="216" Volume="2008" Year="2008">
+<Database Name="cv" Series="20691" Issue="139392" />
+</Book>
+<Book Series="X-Men: Original Sin" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="23350" Issue="140141" />
+</Book>
+<Book Series="X-Men: Legacy" Number="217" Volume="2008" Year="2008">
+<Database Name="cv" Series="20691" Issue="140847" />
+</Book>
+<Book Series="Wolverine: Origins" Number="29" Volume="2006" Year="2008">
+<Database Name="cv" Series="18130" Issue="141684" />
+</Book>
+<Book Series="X-Men: Legacy" Number="218" Volume="2008" Year="2009">
+<Database Name="cv" Series="20691" Issue="142503" />
+</Book>
+<Book Series="Wolverine: Origins" Number="30" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="143160" />
+</Book>
+<Book Series="Wolverine: Origins" Number="31" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="148691" />
+</Book>
+<Book Series="Wolverine: Origins" Number="32" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="150541" />
+</Book>
+<Book Series="Wolverine: Origins" Number="33" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="152716" />
+</Book>
+<Book Series="Wolverine: Origins" Number="34" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="153679" />
+</Book>
+<Book Series="Wolverine: Origins" Number="35" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="155774" />
+</Book>
+<Book Series="Wolverine: Origins" Number="36" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="158624" />
+</Book>
+<Book Series="Dark Reign: Young Avengers" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26390" Issue="157288" />
+</Book>
+<Book Series="Dark Reign: Young Avengers" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="26390" Issue="160692" />
+</Book>
+<Book Series="Dark Reign: Young Avengers" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="26390" Issue="165499" />
+</Book>
+<Book Series="Dark Reign: Young Avengers" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="26390" Issue="170635" />
+</Book>
+<Book Series="Dark Reign: Young Avengers" Number="5" Volume="2009" Year="2009">
+<Database Name="cv" Series="26390" Issue="179198" />
+</Book>
+<Book Series="Secret Invasion: Requiem" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="25190" Issue="148634" />
+</Book>
+<Book Series="The Mighty Avengers" Number="21" Volume="2007" Year="2009">
+<Database Name="cv" Series="18239" Issue="150512" />
+</Book>
+<Book Series="The Mighty Avengers" Number="22" Volume="2007" Year="2009">
+<Database Name="cv" Series="18239" Issue="152709" />
+</Book>
+<Book Series="The Mighty Avengers" Number="23" Volume="2007" Year="2009">
+<Database Name="cv" Series="18239" Issue="153980" />
+</Book>
+<Book Series="Invincible Iron Man" Number="8" Volume="2008" Year="2009">
+<Database Name="cv" Series="21487" Issue="146865" />
+</Book>
+<Book Series="Invincible Iron Man" Number="9" Volume="2008" Year="2009">
+<Database Name="cv" Series="21487" Issue="149793" />
+</Book>
+<Book Series="Invincible Iron Man" Number="10" Volume="2008" Year="2009">
+<Database Name="cv" Series="21487" Issue="151148" />
+</Book>
+<Book Series="Invincible Iron Man" Number="11" Volume="2008" Year="2009">
+<Database Name="cv" Series="21487" Issue="153452" />
+</Book>
+<Book Series="Invincible Iron Man" Number="12" Volume="2008" Year="2009">
+<Database Name="cv" Series="21487" Issue="154619" />
+</Book>
+<Book Series="Invincible Iron Man" Number="13" Volume="2008" Year="2009">
+<Database Name="cv" Series="21487" Issue="156696" />
+</Book>
 <Book Series="Wolverine" Number="73" Volume="2003" Year="2009">
 <Database Name="cv" Series="10809" Issue="157332" />
 </Book>
@@ -2921,87 +3002,6 @@
 </Book>
 <Book Series="Incredible Hulk" Number="605" Volume="2009" Year="2010">
 <Database Name="cv" Series="24715" Issue="186768" />
-</Book>
-<Book Series="Dark Avengers Annual" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="30172" Issue="185750" />
-</Book>
-<Book Series="Hulk: Winter Guard" Number="0" Volume="2010" Year="2009">
-<Database Name="cv" Series="56090" Issue="466220" />
-</Book>
-<Book Series="Hulk: Winter Guard" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="56090" Issue="381313" />
-</Book>
-<Book Series="Spider-Man: A Chemical Romance" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="29932" Issue="184083" />
-</Book>
-<Book Series="Iron Man vs. Whiplash" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="30213" Issue="186281" />
-</Book>
-<Book Series="Iron Man vs. Whiplash" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="30213" Issue="189607" />
-</Book>
-<Book Series="Iron Man vs. Whiplash" Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="30213" Issue="194584" />
-</Book>
-<Book Series="Iron Man vs. Whiplash" Number="4" Volume="2010" Year="2010">
-<Database Name="cv" Series="30213" Issue="198625" />
-</Book>
-<Book Series="Breaking Into Comics The Marvel Way!" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="31899" Issue="200191" />
-</Book>
-<Book Series="Marvel Boy: The Uranian" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="30940" Issue="191457" />
-</Book>
-<Book Series="Marvel Boy: The Uranian" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="30940" Issue="196761" />
-</Book>
-<Book Series="Marvel Boy: The Uranian" Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="30940" Issue="201386" />
-</Book>
-<Book Series="Captain America Theater of War: Prisoners of Duty" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="30232" Issue="186403" />
-</Book>
-<Book Series="Deadpool Team-Up" Number="898" Volume="2009" Year="2010">
-<Database Name="cv" Series="29329" Issue="185975" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="615" Volume="1963" Year="2010">
-<Database Name="cv" Series="2127" Issue="187607" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="616" Volume="1963" Year="2010">
-<Database Name="cv" Series="2127" Issue="189487" />
-</Book>
-<Book Series="Dark Wolverine" Number="81" Volume="2009" Year="2010">
-<Database Name="cv" Series="26883" Issue="187614" />
-</Book>
-<Book Series="Secret Warriors" Number="11" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="189566" />
-</Book>
-<Book Series="Secret Warriors" Number="12" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="194443" />
-</Book>
-<Book Series="Secret Warriors" Number="13" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="198262" />
-</Book>
-<Book Series="Secret Warriors" Number="14" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="201848" />
-</Book>
-<Book Series="Secret Warriors" Number="15" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="210239" />
-</Book>
-<Book Series="Secret Warriors" Number="16" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="216235" />
-</Book>
-<Book Series="Deadpool Team-Up" Number="897" Volume="2009" Year="2010">
-<Database Name="cv" Series="29329" Issue="191189" />
-</Book>
-<Book Series="Wolverine vs Thor" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="28604" Issue="176286" />
-</Book>
-<Book Series="Wolverine vs Thor" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="28604" Issue="232339" />
-</Book>
-<Book Series="Wolverine vs Thor" Number="3" Volume="2009" Year="2010">
-<Database Name="cv" Series="28604" Issue="232341" />
 </Book>
 </Books>
 <Matchers />

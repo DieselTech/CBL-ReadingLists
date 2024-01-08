@@ -3,63 +3,6 @@
 <Name>[Marvel] CMRO Expanded Reading Order-Part 14</Name>
 <NumIssues>1000</NumIssues>
 <Books>
-<Book Series="The Savage Sword of Conan" Number="173" Volume="1974" Year="1990">
-<Database Name="cv" Series="2701" Issue="135247" />
-</Book>
-<Book Series="Quasar" Number="11" Volume="1989" Year="1990">
-<Database Name="cv" Series="4242" Issue="32855" />
-</Book>
-<Book Series="The Mighty Thor" Number="415" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="32534" />
-</Book>
-<Book Series="Wolverine" Number="24" Volume="1988" Year="1990">
-<Database Name="cv" Series="4250" Issue="64288" />
-</Book>
-<Book Series="Captain America Goes to War Against Drugs" Number="1" Volume="1990" Year="1990">
-<Database Name="cv" Series="25336" Issue="149553" />
-</Book>
-<Book Series="Quasar" Number="12" Volume="1989" Year="1990">
-<Database Name="cv" Series="4242" Issue="32976" />
-</Book>
-<Book Series="Daredevil" Number="278" Volume="1964" Year="1990">
-<Database Name="cv" Series="2190" Issue="32517" />
-</Book>
-<Book Series="Daredevil" Number="279" Volume="1964" Year="1990">
-<Database Name="cv" Series="2190" Issue="32626" />
-</Book>
-<Book Series="Daredevil" Number="280" Volume="1964" Year="1990">
-<Database Name="cv" Series="2190" Issue="32724" />
-</Book>
-<Book Series="Daredevil" Number="281" Volume="1964" Year="1990">
-<Database Name="cv" Series="2190" Issue="32835" />
-</Book>
-<Book Series="Daredevil" Number="282" Volume="1964" Year="1990">
-<Database Name="cv" Series="2190" Issue="32961" />
-</Book>
-<Book Series="The Transformers" Number="253" Volume="1984" Year="1990">
-<Database Name="cv" Series="20559" Issue="172754" />
-</Book>
-<Book Series="The Transformers" Number="254" Volume="1984" Year="1990">
-<Database Name="cv" Series="20559" Issue="172755" />
-</Book>
-<Book Series="The Transformers" Number="255" Volume="1984" Year="1990">
-<Database Name="cv" Series="20559" Issue="172756" />
-</Book>
-<Book Series="The Transformers" Number="256" Volume="1984" Year="1990">
-<Database Name="cv" Series="20559" Issue="172757" />
-</Book>
-<Book Series="The Transformers" Number="257" Volume="1984" Year="1990">
-<Database Name="cv" Series="20559" Issue="172758" />
-</Book>
-<Book Series="The Transformers" Number="258" Volume="1984" Year="1990">
-<Database Name="cv" Series="20559" Issue="172759" />
-</Book>
-<Book Series="The Transformers" Number="259" Volume="1984" Year="1990">
-<Database Name="cv" Series="20559" Issue="172760" />
-</Book>
-<Book Series="Destroyer" Number="7" Volume="1989" Year="1990">
-<Database Name="cv" Series="4222" Issue="94533" />
-</Book>
 <Book Series="Marvel Age" Number="87" Volume="1983" Year="1990">
 <Database Name="cv" Series="19176" Issue="172207" />
 </Book>
@@ -82,13 +25,13 @@
 <Database Name="cv" Series="4420" Issue="32977" />
 </Book>
 <Book Series="The Mighty Thor" Number="416" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="32646" />
+<Database Name="cv" Series="61213" Issue="32646" />
 </Book>
 <Book Series="The Mighty Thor" Number="417" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="32740" />
+<Database Name="cv" Series="61213" Issue="32740" />
 </Book>
 <Book Series="The Mighty Thor" Number="418" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="32860" />
+<Database Name="cv" Series="61213" Issue="32860" />
 </Book>
 <Book Series="The Transformers" Number="260" Volume="1984" Year="1990">
 <Database Name="cv" Series="20559" Issue="172761" />
@@ -307,25 +250,25 @@
 <Database Name="cv" Series="19176" Issue="172208" />
 </Book>
 <Book Series="The Mighty Thor" Number="419" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="32981" />
+<Database Name="cv" Series="61213" Issue="32981" />
 </Book>
 <Book Series="The Mighty Thor" Number="420" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="33098" />
+<Database Name="cv" Series="61213" Issue="33098" />
 </Book>
 <Book Series="The Mighty Thor" Number="421" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="33136" />
+<Database Name="cv" Series="61213" Issue="33136" />
 </Book>
 <Book Series="The Mighty Thor" Number="422" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="33212" />
+<Database Name="cv" Series="61213" Issue="33212" />
 </Book>
 <Book Series="The Mighty Thor" Number="423" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="33255" />
+<Database Name="cv" Series="61213" Issue="33255" />
 </Book>
 <Book Series="The Mighty Thor" Number="424" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="33333" />
+<Database Name="cv" Series="61213" Issue="33333" />
 </Book>
 <Book Series="The Mighty Thor" Number="425" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="33368" />
+<Database Name="cv" Series="61213" Issue="33368" />
 </Book>
 <Book Series="Steeltown Rockers" Number="4" Volume="1990" Year="1990">
 <Database Name="cv" Series="4423" Issue="220695" />
@@ -358,10 +301,10 @@
 <Database Name="cv" Series="2400" Issue="33309" />
 </Book>
 <Book Series="Ka-Zar: Guns of the Savage Land" Number="1" Volume="1990" Year="1990">
-<Database Name="cv" Series="3144" Issue="122388" />
+<Database Name="cv" Series="20442" Issue="122388" />
 </Book>
 <Book Series="The Mighty Thor" Number="426" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="33442" />
+<Database Name="cv" Series="61213" Issue="33442" />
 </Book>
 <Book Series="Marc Spector: Moon Knight" Number="19" Volume="1989" Year="1990">
 <Database Name="cv" Series="4230" Issue="33318" />
@@ -427,7 +370,7 @@
 <Database Name="cv" Series="20559" Issue="172770" />
 </Book>
 <Book Series="Spider-Man: Spirits of the Earth" Number="1" Volume="1990" Year="1990">
-<Database Name="cv" Series="3144" Issue="251050" />
+<Database Name="cv" Series="37819" Issue="251050" />
 </Book>
 <Book Series="Black Knight" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="4386" Issue="32833" />
@@ -664,7 +607,7 @@
 <Database Name="cv" Series="4387" Issue="94451" />
 </Book>
 <Book Series="Punisher: Kingdom Gone" Number="1" Volume="1990" Year="1990">
-<Database Name="cv" Series="3144" Issue="189672" />
+<Database Name="cv" Series="30714" Issue="189672" />
 </Book>
 <Book Series="Marvel Super-Heroes" Number="2" Volume="1990" Year="1990">
 <Database Name="cv" Series="4404" Issue="86084" />
@@ -841,22 +784,22 @@
 <Database Name="cv" Series="4404" Issue="86086" />
 </Book>
 <Book Series="The Incredible Hulk" Number="370" Volume="1968" Year="1990">
-<Database Name="cv" Series="2077" Issue="32840" />
+<Database Name="cv" Series="2406" Issue="32840" />
 </Book>
 <Book Series="The Incredible Hulk" Number="371" Volume="1968" Year="1990">
-<Database Name="cv" Series="2077" Issue="32965" />
+<Database Name="cv" Series="2406" Issue="32965" />
 </Book>
 <Book Series="The Incredible Hulk" Number="372" Volume="1968" Year="1990">
-<Database Name="cv" Series="2077" Issue="33079" />
+<Database Name="cv" Series="2406" Issue="33079" />
 </Book>
 <Book Series="The Incredible Hulk" Number="373" Volume="1968" Year="1990">
-<Database Name="cv" Series="2077" Issue="33195" />
+<Database Name="cv" Series="2406" Issue="33195" />
 </Book>
 <Book Series="New Mutants Summer Special" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="20601" Issue="123502" />
 </Book>
 <Book Series="Wolverine: Bloodlust" Number="1" Volume="1990" Year="1990">
-<Database Name="cv" Series="3144" Issue="142318" />
+<Database Name="cv" Series="23816" Issue="142318" />
 </Book>
 <Book Series="Ghost Rider" Number="5" Volume="1990" Year="1990">
 <Database Name="cv" Series="4397" Issue="66421" />
@@ -1255,7 +1198,7 @@
 <Database Name="cv" Series="4595" Issue="33677" />
 </Book>
 <Book Series="Excalibur: Weird War III" Number="1" Volume="1990" Year="1990">
-<Database Name="cv" Series="3144" Issue="201514" />
+<Database Name="cv" Series="32120" Issue="201514" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="340" Volume="1963" Year="1990">
 <Database Name="cv" Series="2127" Issue="33306" />
@@ -1288,10 +1231,10 @@
 <Database Name="cv" Series="4398" Issue="33194" />
 </Book>
 <Book Series="The Incredible Hulk" Number="374" Volume="1968" Year="1990">
-<Database Name="cv" Series="2077" Issue="33316" />
+<Database Name="cv" Series="2406" Issue="33316" />
 </Book>
 <Book Series="The Incredible Hulk" Number="375" Volume="1968" Year="1990">
-<Database Name="cv" Series="2077" Issue="33427" />
+<Database Name="cv" Series="2406" Issue="33427" />
 </Book>
 <Book Series="The New Mutants" Number="93" Volume="1983" Year="1990">
 <Database Name="cv" Series="3234" Issue="33243" />
@@ -1336,10 +1279,13 @@
 <Database Name="cv" Series="3092" Issue="33256" />
 </Book>
 <Book Series="The Incredible Hulk" Number="376" Volume="1968" Year="1990">
-<Database Name="cv" Series="2077" Issue="33533" />
+<Database Name="cv" Series="2406" Issue="33533" />
 </Book>
 <Book Series="Wolverine" Number="34" Volume="1988" Year="1990">
 <Database Name="cv" Series="4250" Issue="64297" />
+</Book>
+<Book Series="The Transformers" Number="2" Volume="1984" Year="1952">
+<Database Name="cv" Series="3370" Issue="219048" />
 </Book>
 <Book Series="The Transformers" Number="73" Volume="1984" Year="1990">
 <Database Name="cv" Series="3370" Issue="57492" />
@@ -1513,16 +1459,16 @@
 <Database Name="cv" Series="3855" Issue="33543" />
 </Book>
 <Book Series="The Mighty Thor" Number="427" Volume="1989" Year="1990">
-<Database Name="cv" Series="2294" Issue="33550" />
+<Database Name="cv" Series="61213" Issue="33550" />
 </Book>
 <Book Series="The Mighty Thor" Number="428" Volume="1989" Year="1991">
-<Database Name="cv" Series="2294" Issue="33792" />
+<Database Name="cv" Series="61213" Issue="33792" />
 </Book>
 <Book Series="The Mighty Thor" Number="429" Volume="1989" Year="1991">
-<Database Name="cv" Series="2294" Issue="33892" />
+<Database Name="cv" Series="61213" Issue="33892" />
 </Book>
 <Book Series="The Mighty Thor" Number="430" Volume="1989" Year="1991">
-<Database Name="cv" Series="2294" Issue="34006" />
+<Database Name="cv" Series="61213" Issue="34006" />
 </Book>
 <Book Series="Quasar" Number="18" Volume="1989" Year="1991">
 <Database Name="cv" Series="4242" Issue="33788" />
@@ -1849,22 +1795,22 @@
 <Database Name="cv" Series="20559" Issue="172897" />
 </Book>
 <Book Series="The Incredible Hulk" Number="377" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="33777" />
+<Database Name="cv" Series="2406" Issue="33777" />
 </Book>
 <Book Series="The Incredible Hulk" Number="378" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="33875" />
+<Database Name="cv" Series="2406" Issue="33875" />
 </Book>
 <Book Series="The Incredible Hulk" Number="379" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="33992" />
+<Database Name="cv" Series="2406" Issue="33992" />
 </Book>
 <Book Series="The Incredible Hulk" Number="380" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="34096" />
+<Database Name="cv" Series="2406" Issue="34096" />
 </Book>
 <Book Series="The Incredible Hulk" Number="381" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="34200" />
+<Database Name="cv" Series="2406" Issue="34200" />
 </Book>
 <Book Series="The Incredible Hulk" Number="382" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="34298" />
+<Database Name="cv" Series="2406" Issue="34298" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="174" Volume="1976" Year="1991">
 <Database Name="cv" Series="2870" Issue="65568" />
@@ -2284,13 +2230,13 @@
 <Database Name="cv" Series="2510" Issue="33676" />
 </Book>
 <Book Series="The Mighty Thor" Number="431" Volume="1989" Year="1991">
-<Database Name="cv" Series="2294" Issue="34110" />
+<Database Name="cv" Series="61213" Issue="34110" />
 </Book>
 <Book Series="The Mighty Thor" Number="432" Volume="1989" Year="1991">
-<Database Name="cv" Series="2294" Issue="34213" />
+<Database Name="cv" Series="61213" Issue="34213" />
 </Book>
 <Book Series="The Mighty Thor" Number="433" Volume="1989" Year="1991">
-<Database Name="cv" Series="2294" Issue="113847" />
+<Database Name="cv" Series="61213" Issue="113847" />
 </Book>
 <Book Series="What If...?" Number="27" Volume="1989" Year="1991">
 <Database Name="cv" Series="4249" Issue="34432" />
@@ -2485,7 +2431,7 @@
 <Database Name="cv" Series="2870" Issue="65571" />
 </Book>
 <Book Series="Wolverine Bloody Choices" Number="1" Volume="1991" Year="1991">
-<Database Name="cv" Series="3144" Issue="202148" />
+<Database Name="cv" Series="32212" Issue="202148" />
 </Book>
 <Book Series="The Sensational She-Hulk" Number="28" Volume="1989" Year="1991">
 <Database Name="cv" Series="4243" Issue="73798" />
@@ -2662,7 +2608,7 @@
 <Database Name="cv" Series="4596" Issue="34415" />
 </Book>
 <Book Series="The Incredible Hulk" Number="383" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="34414" />
+<Database Name="cv" Series="2406" Issue="34414" />
 </Book>
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="31" Volume="1988" Year="1991">
 <Database Name="cv" Series="4049" Issue="34444" />
@@ -2716,7 +2662,7 @@
 <Database Name="cv" Series="4049" Issue="34792" />
 </Book>
 <Book Series="The Incredible Hulk" Number="384" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="34528" />
+<Database Name="cv" Series="2406" Issue="34528" />
 </Book>
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="35" Volume="1988" Year="1991">
 <Database Name="cv" Series="4049" Issue="34908" />
@@ -2731,7 +2677,7 @@
 <Database Name="cv" Series="4596" Issue="35000" />
 </Book>
 <Book Series="The Incredible Hulk" Number="385" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="34646" />
+<Database Name="cv" Series="2406" Issue="34646" />
 </Book>
 <Book Series="Sleepwalker" Number="7" Volume="1991" Year="1991">
 <Database Name="cv" Series="4600" Issue="52012" />
@@ -2776,10 +2722,10 @@
 <Database Name="cv" Series="3855" Issue="34539" />
 </Book>
 <Book Series="The Mighty Thor" Number="434" Volume="1989" Year="1991">
-<Database Name="cv" Series="2294" Issue="34429" />
+<Database Name="cv" Series="61213" Issue="34429" />
 </Book>
 <Book Series="The Mighty Thor" Number="435" Volume="1989" Year="1991">
-<Database Name="cv" Series="2294" Issue="34544" />
+<Database Name="cv" Series="61213" Issue="34544" />
 </Book>
 <Book Series="NFL Superpro" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="20476" Issue="122582" />
@@ -2854,7 +2800,7 @@
 <Database Name="cv" Series="4402" Issue="93520" />
 </Book>
 <Book Series="Avengers: Death Trap, The Vault" Number="1" Volume="1991" Year="1991">
-<Database Name="cv" Series="3144" Issue="125068" />
+<Database Name="cv" Series="20893" Issue="125068" />
 </Book>
 <Book Series="Daredevil" Number="294" Volume="1964" Year="1991">
 <Database Name="cv" Series="2190" Issue="34409" />
@@ -2917,7 +2863,7 @@
 <Database Name="cv" Series="3217" Issue="35252" />
 </Book>
 <Book Series="Conan the Rogue" Number="1" Volume="1991" Year="1991">
-<Database Name="cv" Series="3144" Issue="219475" />
+<Database Name="cv" Series="33759" Issue="219475" />
 </Book>
 <Book Series="Web of Spider-Man" Number="81" Volume="1985" Year="1991">
 <Database Name="cv" Series="3519" Issue="34780" />
@@ -2950,16 +2896,16 @@
 <Database Name="cv" Series="4404" Issue="86091" />
 </Book>
 <Book Series="The Incredible Hulk" Number="386" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="34763" />
+<Database Name="cv" Series="2406" Issue="34763" />
 </Book>
 <Book Series="The Incredible Hulk" Number="387" Volume="1968" Year="1991">
-<Database Name="cv" Series="2077" Issue="34879" />
+<Database Name="cv" Series="2406" Issue="34879" />
 </Book>
 <Book Series="Web of Spider-Man" Number="82" Volume="1985" Year="1991">
 <Database Name="cv" Series="3519" Issue="34896" />
 </Book>
 <Book Series="Punisher: Blood on the Moors" Number="1" Volume="1991" Year="1991">
-<Database Name="cv" Series="3144" Issue="169710" />
+<Database Name="cv" Series="27751" Issue="169710" />
 </Book>
 <Book Series="Wonder Man" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4603" Issue="34664" />
@@ -2980,13 +2926,13 @@
 <Database Name="cv" Series="3657" Issue="35377" />
 </Book>
 <Book Series="X-Men" Number="1" Volume="1991" Year="1991">
-<Database Name="cv" Series="10731" Issue="34784" />
+<Database Name="cv" Series="4605" Issue="34784" />
 </Book>
 <Book Series="X-Men" Number="2" Volume="1991" Year="1991">
-<Database Name="cv" Series="10731" Issue="34900" />
+<Database Name="cv" Series="4605" Issue="34900" />
 </Book>
 <Book Series="X-Men" Number="3" Volume="1991" Year="1991">
-<Database Name="cv" Series="10731" Issue="35019" />
+<Database Name="cv" Series="4605" Issue="35019" />
 </Book>
 <Book Series="Web of Spider-Man" Number="83" Volume="1985" Year="1991">
 <Database Name="cv" Series="3519" Issue="35015" />
@@ -3002,6 +2948,60 @@
 </Book>
 <Book Series="Marvel Fanfare" Number="59" Volume="1982" Year="1991">
 <Database Name="cv" Series="3143" Issue="34768" />
+</Book>
+<Book Series="Marvel Super-Heroes" Number="10" Volume="1990" Year="1992">
+<Database Name="cv" Series="4404" Issue="86092" />
+</Book>
+<Book Series="Marvel Super-Heroes" Number="11" Volume="1990" Year="1992">
+<Database Name="cv" Series="4404" Issue="86093" />
+</Book>
+<Book Series="The Incredible Hulk" Number="388" Volume="1968" Year="1991">
+<Database Name="cv" Series="2406" Issue="34999" />
+</Book>
+<Book Series="Spider-Man" Number="15" Volume="1990" Year="1991">
+<Database Name="cv" Series="4421" Issue="64617" />
+</Book>
+<Book Series="What If...?" Number="31" Volume="1989" Year="1991">
+<Database Name="cv" Series="4249" Issue="34897" />
+</Book>
+<Book Series="Marvel Age" Number="105" Volume="1983" Year="1991">
+<Database Name="cv" Series="19176" Issue="157246" />
+</Book>
+<Book Series="The Punisher War Journal" Number="34" Volume="1988" Year="1991">
+<Database Name="cv" Series="4066" Issue="34657" />
+</Book>
+<Book Series="Avengers West Coast" Number="76" Volume="1989" Year="1991">
+<Database Name="cv" Series="18494" Issue="114161" />
+</Book>
+<Book Series="Avengers West Coast" Number="77" Volume="1989" Year="1991">
+<Database Name="cv" Series="18494" Issue="114172" />
+</Book>
+<Book Series="Avengers West Coast" Number="78" Volume="1989" Year="1992">
+<Database Name="cv" Series="18494" Issue="114173" />
+</Book>
+<Book Series="Avengers West Coast" Number="79" Volume="1989" Year="1992">
+<Database Name="cv" Series="18494" Issue="114174" />
+</Book>
+<Book Series="Namor, the Sub-Mariner" Number="14" Volume="1990" Year="1991">
+<Database Name="cv" Series="4406" Issue="34205" />
+</Book>
+<Book Series="X-Force" Number="1" Volume="1991" Year="1991">
+<Database Name="cv" Series="4604" Issue="34549" />
+</Book>
+<Book Series="X-Force" Number="2" Volume="1991" Year="1991">
+<Database Name="cv" Series="4604" Issue="34666" />
+</Book>
+<Book Series="X-Force" Number="3" Volume="1991" Year="1991">
+<Database Name="cv" Series="4604" Issue="34783" />
+</Book>
+<Book Series="Spider-Man" Number="16" Volume="1990" Year="1991">
+<Database Name="cv" Series="4421" Issue="64618" />
+</Book>
+<Book Series="X-Force" Number="4" Volume="1991" Year="1991">
+<Database Name="cv" Series="4604" Issue="34899" />
+</Book>
+<Book Series="X-Force" Number="5" Volume="1991" Year="1991">
+<Database Name="cv" Series="4604" Issue="35018" />
 </Book>
 </Books>
 <Matchers />

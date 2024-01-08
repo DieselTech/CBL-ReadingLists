@@ -1203,9 +1203,6 @@
 <Book Series="Marvel Spotlight" Number="13" Volume="1971" Year="1974">
 <Database Name="cv" Series="2516" Issue="13997" />
 </Book>
-<Book Series="Amazing Adventures" Number="18" Volume="1970" Year="1973">
-<Database Name="cv" Series="2469" Issue="13168" />
-</Book>
 <Book Series="Man-Thing" Number="2" Volume="1974" Year="1974">
 <Database Name="cv" Series="2693" Issue="14063" />
 </Book>
@@ -3002,6 +2999,9 @@
 </Book>
 <Book Series="The Defenders" Number="32" Volume="1972" Year="1976">
 <Database Name="cv" Series="2569" Issue="16076" />
+</Book>
+<Book Series="The Defenders" Number="33" Volume="1972" Year="1976">
+<Database Name="cv" Series="2569" Issue="16165" />
 </Book>
 </Books>
 <Matchers />

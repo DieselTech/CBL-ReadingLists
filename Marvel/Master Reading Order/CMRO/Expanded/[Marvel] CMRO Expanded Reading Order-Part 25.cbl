@@ -3,6 +3,87 @@
 <Name>[Marvel] CMRO Expanded Reading Order-Part 25</Name>
 <NumIssues>992</NumIssues>
 <Books>
+<Book Series="Spider-Man/Human Torch" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="11800" Issue="103521" />
+</Book>
+<Book Series="Spider-Man/Human Torch" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="11800" Issue="103522" />
+</Book>
+<Book Series="Spider-Man/Human Torch" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="11800" Issue="103523" />
+</Book>
+<Book Series="Spider-Man/Human Torch" Number="5" Volume="2005" Year="2005">
+<Database Name="cv" Series="11800" Issue="103524" />
+</Book>
+<Book Series="Hercules" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="19104" Issue="114178" />
+</Book>
+<Book Series="Hercules" Number="5" Volume="2005" Year="2005">
+<Database Name="cv" Series="19104" Issue="116250" />
+</Book>
+<Book Series="Captain America" Number="7" Volume="2004" Year="2005">
+<Database Name="cv" Series="11499" Issue="115267" />
+</Book>
+<Book Series="Livewires" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="24034" Issue="143033" />
+</Book>
+<Book Series="Livewires" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="24034" Issue="143036" />
+</Book>
+<Book Series="Livewires" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="24034" Issue="143037" />
+</Book>
+<Book Series="Livewires" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="24034" Issue="143038" />
+</Book>
+<Book Series="Livewires" Number="5" Volume="2005" Year="2005">
+<Database Name="cv" Series="24034" Issue="143039" />
+</Book>
+<Book Series="Livewires" Number="6" Volume="2005" Year="2005">
+<Database Name="cv" Series="24034" Issue="143040" />
+</Book>
+<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="20131" Issue="120170" />
+</Book>
+<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="20131" Issue="120189" />
+</Book>
+<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="20131" Issue="120192" />
+</Book>
+<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="20131" Issue="120190" />
+</Book>
+<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="5" Volume="2005" Year="2005">
+<Database Name="cv" Series="20131" Issue="120193" />
+</Book>
+<Book Series="Fantastic Four: The Movie" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="39899" Issue="269157" />
+</Book>
+<Book Series="Marvel Adventures: Fantastic Four" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="18095" Issue="105986" />
+</Book>
+<Book Series="Marvel Adventures: Spider-Man" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="18094" Issue="105976" />
+</Book>
+<Book Series="Rampage" Number="10" Volume="2004" Year="2005">
+<Database Name="cv" Series="142096" Issue="913878" />
+</Book>
+<Book Series="Spectacular Spider-Man Adventures" Number="121" Volume="1995" Year="2005">
+<Database Name="cv" Series="43257" Issue="716035" />
+</Book>
+<Book Series="Rogue" Number="7" Volume="2004" Year="2005">
+<Database Name="cv" Series="19612" Issue="117832" />
+</Book>
+<Book Series="Rogue" Number="8" Volume="2004" Year="2005">
+<Database Name="cv" Series="19612" Issue="117834" />
+</Book>
+<Book Series="Rogue" Number="9" Volume="2004" Year="2005">
+<Database Name="cv" Series="19612" Issue="117835" />
+</Book>
+<Book Series="Rogue" Number="10" Volume="2004" Year="2005">
+<Database Name="cv" Series="19612" Issue="117836" />
+</Book>
 <Book Series="Rogue" Number="11" Volume="2004" Year="2005">
 <Database Name="cv" Series="19612" Issue="117838" />
 </Book>
@@ -124,19 +205,34 @@
 <Database Name="cv" Series="2127" Issue="113512" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="23" Volume="2003" Year="2005">
-<Database Name="cv" Series="2870" Issue="101139" />
+<Database Name="cv" Series="11069" Issue="101139" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="24" Volume="2003" Year="2005">
-<Database Name="cv" Series="2870" Issue="101140" />
+<Database Name="cv" Series="11069" Issue="101140" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="25" Volume="2003" Year="2005">
-<Database Name="cv" Series="2870" Issue="101141" />
+<Database Name="cv" Series="11069" Issue="101141" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="26" Volume="2003" Year="2005">
-<Database Name="cv" Series="2870" Issue="101142" />
+<Database Name="cv" Series="11069" Issue="101142" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="27" Volume="2003" Year="2005">
-<Database Name="cv" Series="2870" Issue="101143" />
+<Database Name="cv" Series="11069" Issue="101143" />
+</Book>
+<Book Series="Machine Teen" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105866" />
+</Book>
+<Book Series="Machine Teen" Number="2" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105870" />
+</Book>
+<Book Series="Machine Teen" Number="3" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105871" />
+</Book>
+<Book Series="Machine Teen" Number="4" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105872" />
+</Book>
+<Book Series="Machine Teen" Number="5" Volume="2005" Year="2005">
+<Database Name="cv" Series="18076" Issue="105873" />
 </Book>
 <Book Series="The Punisher" Number="19" Volume="2004" Year="2005">
 <Database Name="cv" Series="11164" Issue="107171" />
@@ -978,21 +1074,6 @@
 <Book Series="X-Men/Runaways" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18056" Issue="105745" />
 </Book>
-<Book Series="Machine Teen" Number="1" Volume="2005" Year="2005">
-<Database Name="cv" Series="18076" Issue="105866" />
-</Book>
-<Book Series="Machine Teen" Number="2" Volume="2005" Year="2005">
-<Database Name="cv" Series="18076" Issue="105870" />
-</Book>
-<Book Series="Machine Teen" Number="3" Volume="2005" Year="2005">
-<Database Name="cv" Series="18076" Issue="105871" />
-</Book>
-<Book Series="Machine Teen" Number="4" Volume="2005" Year="2005">
-<Database Name="cv" Series="18076" Issue="105872" />
-</Book>
-<Book Series="Machine Teen" Number="5" Volume="2005" Year="2005">
-<Database Name="cv" Series="18076" Issue="105873" />
-</Book>
 <Book Series="Spider-Girl" Number="90" Volume="1998" Year="2005">
 <Database Name="cv" Series="6218" Issue="117278" />
 </Book>
@@ -1227,6 +1308,21 @@
 <Book Series="Amazing Fantasy" Number="14" Volume="2004" Year="2005">
 <Database Name="cv" Series="18663" Issue="117220" />
 </Book>
+<Book Series="Captain Universe / The Incredible Hulk" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18633" Issue="109911" />
+</Book>
+<Book Series="Captain Universe / Daredevil" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18636" Issue="109936" />
+</Book>
+<Book Series="Captain Universe / X-23" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18637" Issue="109937" />
+</Book>
+<Book Series="Captain Universe / Invisible Woman" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18635" Issue="109935" />
+</Book>
+<Book Series="Captain Universe / Silver Surfer" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18638" Issue="109938" />
+</Book>
 <Book Series="Spider-Girl" Number="91" Volume="1998" Year="2005">
 <Database Name="cv" Series="6218" Issue="117282" />
 </Book>
@@ -1250,18 +1346,6 @@
 </Book>
 <Book Series="Fantastic Four Special" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="29423" Issue="181638" />
-</Book>
-<Book Series="Captain Universe / The Incredible Hulk" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18633" Issue="109911" />
-</Book>
-<Book Series="Captain Universe / Daredevil" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18636" Issue="109936" />
-</Book>
-<Book Series="Captain Universe / X-23" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18637" Issue="109937" />
-</Book>
-<Book Series="Captain Universe / Invisible Woman" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18635" Issue="109935" />
 </Book>
 <Book Series="Ultimate Spider-Man" Number="86" Volume="2000" Year="2006">
 <Database Name="cv" Series="7257" Issue="113588" />
@@ -1304,9 +1388,6 @@
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="128" Volume="1995" Year="2006">
 <Database Name="cv" Series="43257" Issue="716041" />
-</Book>
-<Book Series="Captain Universe / Silver Surfer" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18638" Issue="109938" />
 </Book>
 <Book Series="Araña: Heart of the Spider" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106144" />
@@ -1542,6 +1623,9 @@
 <Book Series="Spider-Girl" Number="94" Volume="1998" Year="2006">
 <Database Name="cv" Series="6218" Issue="117314" />
 </Book>
+<Book Series="Spider-Girl" Number="95" Volume="1998" Year="2006">
+<Database Name="cv" Series="6218" Issue="117317" />
+</Book>
 <Book Series="What If: Thor" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="31176" Issue="193817" />
 </Book>
@@ -1641,8 +1725,23 @@
 <Book Series="Beyond!" Number="6" Volume="2006" Year="2007">
 <Database Name="cv" Series="18221" Issue="111333" />
 </Book>
-<Book Series="Spider-Girl" Number="95" Volume="1998" Year="2006">
-<Database Name="cv" Series="6218" Issue="117317" />
+<Book Series="Spider-Man/Black Cat: The Evil that Men Do" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="9469" Issue="77953" />
+</Book>
+<Book Series="Spider-Man/Black Cat: The Evil that Men Do" Number="2" Volume="2002" Year="2002">
+<Database Name="cv" Series="9469" Issue="77954" />
+</Book>
+<Book Series="Spider-Man/Black Cat: The Evil that Men Do" Number="3" Volume="2002" Year="2002">
+<Database Name="cv" Series="9469" Issue="77955" />
+</Book>
+<Book Series="Spider-Man/Black Cat: The Evil that Men Do" Number="4" Volume="2002" Year="2006">
+<Database Name="cv" Series="9469" Issue="77956" />
+</Book>
+<Book Series="Spider-Man/Black Cat: The Evil that Men Do" Number="5" Volume="2002" Year="2006">
+<Database Name="cv" Series="9469" Issue="103301" />
+</Book>
+<Book Series="Spider-Man/Black Cat: The Evil that Men Do" Number="6" Volume="2002" Year="2006">
+<Database Name="cv" Series="9469" Issue="120327" />
 </Book>
 <Book Series="Franklin Richards One Shot" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="30451" Issue="187529" />
@@ -1673,6 +1772,15 @@
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="132" Volume="1995" Year="2006">
 <Database Name="cv" Series="43257" Issue="715679" />
+</Book>
+<Book Series="Rampage" Number="20" Volume="2004" Year="2006">
+<Database Name="cv" Series="142096" Issue="917840" />
+</Book>
+<Book Series="Rampage" Number="22" Volume="2004" Year="0">
+<Database Name="cv" Series="142096" Issue="917841" />
+</Book>
+<Book Series="Rampage" Number="23" Volume="2004" Year="0">
+<Database Name="cv" Series="142096" Issue="917842" />
 </Book>
 <Book Series="Daredevil: Father" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="21096" Issue="126668" />
@@ -1812,29 +1920,23 @@
 <Book Series="I (heart) Marvel: Web of Romance" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="50786" Issue="347366" />
 </Book>
-<Book Series="I (heart) Marvel: Web of Romance" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="50786" Issue="347366" />
+<Book Series="I (heart) Marvel: My Mutant Heart" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="50789" Issue="347369" />
 </Book>
-<Book Series="I (heart) Marvel: Web of Romance" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="50786" Issue="347366" />
+<Book Series="I (heart) Marvel: Masked Intentions" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="50788" Issue="347368" />
 </Book>
-<Book Series="I (heart) Marvel: Web of Romance" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="50786" Issue="347366" />
+<Book Series="I (heart) Marvel: Outlaw Love" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="50787" Issue="347367" />
 </Book>
-<Book Series="I (heart) Marvel: Web of Romance" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="50786" Issue="347366" />
+<Book Series="I (heart) Marvel: Marvel Ai" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="50785" Issue="347365" />
 </Book>
 <Book Series="Spider-Man Loves Mary Jane" Number="4" Volume="2005" Year="2006">
 <Database Name="cv" Series="18104" Issue="106966" />
 </Book>
-<Book Series="The Art of X-Men: The Last Stand" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="75647" Issue="459440" />
-</Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="133" Volume="1995" Year="2006">
 <Database Name="cv" Series="43257" Issue="355447" />
-</Book>
-<Book Series="Rampage" Number="20" Volume="2004" Year="2006">
-<Database Name="cv" Series="142096" Issue="917840" />
 </Book>
 <Book Series="Punisher: Bloody Valentine" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="30745" Issue="189818" />
@@ -2028,9 +2130,6 @@
 <Book Series="Marvel Adventures: Spider-Man" Number="14" Volume="2005" Year="2006">
 <Database Name="cv" Series="18094" Issue="121236" />
 </Book>
-<Book Series="Marvel Previews" Number="32" Volume="2003" Year="2006">
-<Database Name="cv" Series="28516" Issue="274268" />
-</Book>
 <Book Series="X-Men" Number="180" Volume="2004" Year="2006">
 <Database Name="cv" Series="10731" Issue="105901" />
 </Book>
@@ -2084,9 +2183,6 @@
 </Book>
 <Book Series="Spider-Man Loves Mary Jane" Number="5" Volume="2005" Year="2006">
 <Database Name="cv" Series="18104" Issue="113647" />
-</Book>
-<Book Series="Rampage" Number="22" Volume="2004" Year="0">
-<Database Name="cv" Series="142096" Issue="917841" />
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="134" Volume="1995" Year="2006">
 <Database Name="cv" Series="43257" Issue="716044" />
@@ -2217,6 +2313,12 @@
 <Book Series="Spider-Girl" Number="98" Volume="1998" Year="2006">
 <Database Name="cv" Series="6218" Issue="117320" />
 </Book>
+<Book Series="Spider-Girl" Number="99" Volume="1998" Year="2006">
+<Database Name="cv" Series="6218" Issue="117321" />
+</Book>
+<Book Series="Spider-Girl" Number="100" Volume="1998" Year="2006">
+<Database Name="cv" Series="6218" Issue="117324" />
+</Book>
 <Book Series="Marvel Adventures: Avengers" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18100" Issue="111401" />
 </Book>
@@ -2274,9 +2376,6 @@
 <Book Series="Spider-Man Loves Mary Jane" Number="7" Volume="2005" Year="2006">
 <Database Name="cv" Series="18104" Issue="106981" />
 </Book>
-<Book Series="Rampage" Number="23" Volume="2004" Year="0">
-<Database Name="cv" Series="142096" Issue="917842" />
-</Book>
 <Book Series="Ultimate X-Men" Number="72" Volume="2001" Year="2006">
 <Database Name="cv" Series="7258" Issue="111609" />
 </Book>
@@ -2321,12 +2420,6 @@
 </Book>
 <Book Series="Marvel Knights: 4" Number="28" Volume="2004" Year="2006">
 <Database Name="cv" Series="21736" Issue="134175" />
-</Book>
-<Book Series="Marvel Knights: 4" Number="29" Volume="2004" Year="2006">
-<Database Name="cv" Series="21736" Issue="134176" />
-</Book>
-<Book Series="Marvel Knights: 4" Number="30" Volume="2004" Year="2006">
-<Database Name="cv" Series="21736" Issue="134177" />
 </Book>
 <Book Series="The Thing" Number="7" Volume="2005" Year="2006">
 <Database Name="cv" Series="18242" Issue="106955" />
@@ -2384,9 +2477,6 @@
 </Book>
 <Book Series="New Avengers Annual" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18198" Issue="106582" />
-</Book>
-<Book Series="Spider-Girl" Number="99" Volume="1998" Year="2006">
-<Database Name="cv" Series="6218" Issue="117321" />
 </Book>
 <Book Series="Marvel Adventures: Avengers" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18100" Issue="111402" />
@@ -2484,9 +2574,6 @@
 <Book Series="Marvel Westerns: Outlaw Files" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="22231" Issue="133624" />
 </Book>
-<Book Series="Spider-Girl" Number="100" Volume="1998" Year="2006">
-<Database Name="cv" Series="6218" Issue="117324" />
-</Book>
 <Book Series="Actor Comics Presents" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="23790" Issue="142219" />
 </Book>
@@ -2495,6 +2582,9 @@
 </Book>
 <Book Series="Franklin Richards: Super Summer Spectacular" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="30441" Issue="187511" />
+</Book>
+<Book Series="Marvel Previews" Number="32" Volume="2003" Year="2006">
+<Database Name="cv" Series="28516" Issue="274268" />
 </Book>
 <Book Series="Moon Knight" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18105" Issue="106380" />
@@ -2802,6 +2892,12 @@
 <Book Series="Incredible Hulk" Number="91" Volume="2000" Year="2006">
 <Database Name="cv" Series="6558" Issue="112741" />
 </Book>
+<Book Series="Marvel Knights: 4" Number="29" Volume="2004" Year="2006">
+<Database Name="cv" Series="21736" Issue="134176" />
+</Book>
+<Book Series="Marvel Knights: 4" Number="30" Volume="2004" Year="2006">
+<Database Name="cv" Series="21736" Issue="134177" />
+</Book>
 <Book Series="Storm" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18260" Issue="106913" />
 </Book>
@@ -2819,24 +2915,6 @@
 </Book>
 <Book Series="Storm" Number="6" Volume="2006" Year="2006">
 <Database Name="cv" Series="18260" Issue="109540" />
-</Book>
-<Book Series="Ultimate Fantastic Four" Number="33" Volume="2004" Year="2006">
-<Database Name="cv" Series="10379" Issue="107854" />
-</Book>
-<Book Series="Ultimate Fantastic Four" Number="34" Volume="2004" Year="2006">
-<Database Name="cv" Series="10379" Issue="111786" />
-</Book>
-<Book Series="Ultimate Fantastic Four" Number="35" Volume="2004" Year="2006">
-<Database Name="cv" Series="10379" Issue="111787" />
-</Book>
-<Book Series="Ultimate Fantastic Four" Number="36" Volume="2004" Year="2007">
-<Database Name="cv" Series="10379" Issue="111788" />
-</Book>
-<Book Series="Ultimate Fantastic Four" Number="37" Volume="2004" Year="2007">
-<Database Name="cv" Series="10379" Issue="111789" />
-</Book>
-<Book Series="Ultimate Fantastic Four" Number="38" Volume="2004" Year="2007">
-<Database Name="cv" Series="10379" Issue="106353" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="472" Volume="1981" Year="2006">
 <Database Name="cv" Series="3092" Issue="106198" />
@@ -2858,6 +2936,24 @@
 </Book>
 <Book Series="Black Panther" Number="16" Volume="2005" Year="2006">
 <Database Name="cv" Series="11502" Issue="110528" />
+</Book>
+<Book Series="Ultimate Fantastic Four" Number="33" Volume="2004" Year="2006">
+<Database Name="cv" Series="10379" Issue="107854" />
+</Book>
+<Book Series="Ultimate Fantastic Four" Number="34" Volume="2004" Year="2006">
+<Database Name="cv" Series="10379" Issue="111786" />
+</Book>
+<Book Series="Ultimate Fantastic Four" Number="35" Volume="2004" Year="2006">
+<Database Name="cv" Series="10379" Issue="111787" />
+</Book>
+<Book Series="Ultimate Fantastic Four" Number="36" Volume="2004" Year="2007">
+<Database Name="cv" Series="10379" Issue="111788" />
+</Book>
+<Book Series="Ultimate Fantastic Four" Number="37" Volume="2004" Year="2007">
+<Database Name="cv" Series="10379" Issue="111789" />
+</Book>
+<Book Series="Ultimate Fantastic Four" Number="38" Volume="2004" Year="2007">
+<Database Name="cv" Series="10379" Issue="106353" />
 </Book>
 <Book Series="Spider-Man Loves Mary Jane" Number="9" Volume="2005" Year="2006">
 <Database Name="cv" Series="18104" Issue="113648" />
@@ -2882,102 +2978,6 @@
 </Book>
 <Book Series="X-Statix Presents: Dead Girl" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="18483" Issue="108577" />
-</Book>
-<Book Series="Doctor Strange: The Oath" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18096" Issue="105989" />
-</Book>
-<Book Series="Doctor Strange: The Oath" Number="2" Volume="2006" Year="2007">
-<Database Name="cv" Series="18096" Issue="105988" />
-</Book>
-<Book Series="Doctor Strange: The Oath" Number="3" Volume="2006" Year="2007">
-<Database Name="cv" Series="18096" Issue="105990" />
-</Book>
-<Book Series="Doctor Strange: The Oath" Number="4" Volume="2006" Year="2007">
-<Database Name="cv" Series="18096" Issue="106026" />
-</Book>
-<Book Series="Doctor Strange: The Oath" Number="5" Volume="2006" Year="2007">
-<Database Name="cv" Series="18096" Issue="106721" />
-</Book>
-<Book Series="Fantastic Four: The End" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18175" Issue="106460" />
-</Book>
-<Book Series="Fantastic Four: The End" Number="2" Volume="2006" Year="2006">
-<Database Name="cv" Series="18175" Issue="118525" />
-</Book>
-<Book Series="Fantastic Four: The End" Number="3" Volume="2006" Year="2007">
-<Database Name="cv" Series="18175" Issue="118526" />
-</Book>
-<Book Series="Fantastic Four: The End" Number="4" Volume="2006" Year="2007">
-<Database Name="cv" Series="18175" Issue="118527" />
-</Book>
-<Book Series="Fantastic Four: The End" Number="5" Volume="2006" Year="2007">
-<Database Name="cv" Series="18175" Issue="118529" />
-</Book>
-<Book Series="Fantastic Four: The End" Number="6" Volume="2006" Year="2007">
-<Database Name="cv" Series="18175" Issue="118528" />
-</Book>
-<Book Series="Thunderbolts" Number="102" Volume="2006" Year="2006">
-<Database Name="cv" Series="18128" Issue="106251" />
-</Book>
-<Book Series="Cable &#38; Deadpool" Number="28" Volume="2004" Year="2006">
-<Database Name="cv" Series="18070" Issue="106442" />
-</Book>
-<Book Series="Cable &#38; Deadpool" Number="29" Volume="2004" Year="2006">
-<Database Name="cv" Series="18070" Issue="106443" />
-</Book>
-<Book Series="Nextwave: Agents of H.A.T.E." Number="7" Volume="2006" Year="2006">
-<Database Name="cv" Series="18133" Issue="107978" />
-</Book>
-<Book Series="Nextwave: Agents of H.A.T.E." Number="8" Volume="2006" Year="2006">
-<Database Name="cv" Series="18133" Issue="107359" />
-</Book>
-<Book Series="Nextwave: Agents of H.A.T.E." Number="9" Volume="2006" Year="2006">
-<Database Name="cv" Series="18133" Issue="107979" />
-</Book>
-<Book Series="Nextwave: Agents of H.A.T.E." Number="10" Volume="2006" Year="2007">
-<Database Name="cv" Series="18133" Issue="107980" />
-</Book>
-<Book Series="Nextwave: Agents of H.A.T.E." Number="11" Volume="2006" Year="2007">
-<Database Name="cv" Series="18133" Issue="106221" />
-</Book>
-<Book Series="Nextwave: Agents of H.A.T.E." Number="12" Volume="2006" Year="2007">
-<Database Name="cv" Series="18133" Issue="107981" />
-</Book>
-<Book Series="Ultimate Vision" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="20149" Issue="151022" />
-</Book>
-<Book Series="Ultimate Vision" Number="2" Volume="2007" Year="2007">
-<Database Name="cv" Series="20149" Issue="151023" />
-</Book>
-<Book Series="Ultimate Vision" Number="3" Volume="2007" Year="2007">
-<Database Name="cv" Series="20149" Issue="147610" />
-</Book>
-<Book Series="Ultimate Vision" Number="4" Volume="2007" Year="2007">
-<Database Name="cv" Series="20149" Issue="151024" />
-</Book>
-<Book Series="Ultimate Vision" Number="5" Volume="2007" Year="2008">
-<Database Name="cv" Series="20149" Issue="120232" />
-</Book>
-<Book Series="Spider-Man Loves Mary Jane" Number="10" Volume="2005" Year="2006">
-<Database Name="cv" Series="18104" Issue="113649" />
-</Book>
-<Book Series="Marvel Adventures: Avengers" Number="5" Volume="2006" Year="2006">
-<Database Name="cv" Series="18100" Issue="111404" />
-</Book>
-<Book Series="Marvel Adventures: Spider-Man" Number="19" Volume="2005" Year="2006">
-<Database Name="cv" Series="18094" Issue="108235" />
-</Book>
-<Book Series="Marvel Adventures: Fantastic Four" Number="16" Volume="2005" Year="2006">
-<Database Name="cv" Series="18095" Issue="119571" />
-</Book>
-<Book Series="Spectacular Spider-Man Adventures" Number="142" Volume="1995" Year="2006">
-<Database Name="cv" Series="43257" Issue="413236" />
-</Book>
-<Book Series="The New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18180" Issue="106482" />
-</Book>
-<Book Series="Fantastic Four" Number="536" Volume="1998" Year="2006">
-<Database Name="cv" Series="6211" Issue="108475" />
 </Book>
 </Books>
 <Matchers />

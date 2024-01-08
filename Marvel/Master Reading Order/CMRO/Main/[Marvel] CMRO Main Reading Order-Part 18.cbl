@@ -3,6 +3,87 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 18</Name>
 <NumIssues>1000</NumIssues>
 <Books>
+<Book Series="Friendly Neighborhood Spider-Man" Number="21" Volume="2005" Year="2007">
+<Database Name="cv" Series="17998" Issue="110441" />
+</Book>
+<Book Series="Friendly Neighborhood Spider-Man" Number="22" Volume="2005" Year="2007">
+<Database Name="cv" Series="17998" Issue="113624" />
+</Book>
+<Book Series="Friendly Neighborhood Spider-Man" Number="23" Volume="2005" Year="2007">
+<Database Name="cv" Series="17998" Issue="113549" />
+</Book>
+<Book Series="Avengers Classic" Number="3" Volume="2007" Year="2007">
+<Database Name="cv" Series="18684" Issue="113613" />
+</Book>
+<Book Series="Ms. Marvel" Number="15" Volume="2006" Year="2007">
+<Database Name="cv" Series="17990" Issue="109131" />
+</Book>
+<Book Series="Ms. Marvel" Number="16" Volume="2006" Year="2007">
+<Database Name="cv" Series="17990" Issue="110265" />
+</Book>
+<Book Series="Ms. Marvel" Number="17" Volume="2006" Year="2007">
+<Database Name="cv" Series="17990" Issue="111348" />
+</Book>
+<Book Series="Blade" Number="6" Volume="2006" Year="2007">
+<Database Name="cv" Series="18117" Issue="108515" />
+</Book>
+<Book Series="Blade" Number="7" Volume="2006" Year="2007">
+<Database Name="cv" Series="18117" Issue="108517" />
+</Book>
+<Book Series="Blade" Number="8" Volume="2006" Year="2007">
+<Database Name="cv" Series="18117" Issue="108518" />
+</Book>
+<Book Series="Blade" Number="9" Volume="2006" Year="2007">
+<Database Name="cv" Series="18117" Issue="111354" />
+</Book>
+<Book Series="Blade" Number="10" Volume="2006" Year="2007">
+<Database Name="cv" Series="18117" Issue="110490" />
+</Book>
+<Book Series="Blade" Number="11" Volume="2006" Year="2007">
+<Database Name="cv" Series="18117" Issue="111635" />
+</Book>
+<Book Series="Blade" Number="12" Volume="2006" Year="2007">
+<Database Name="cv" Series="18117" Issue="114137" />
+</Book>
+<Book Series="The Order" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="18911" Issue="111762" />
+</Book>
+<Book Series="The Order" Number="2" Volume="2007" Year="2007">
+<Database Name="cv" Series="18911" Issue="113736" />
+</Book>
+<Book Series="The Order" Number="3" Volume="2007" Year="2007">
+<Database Name="cv" Series="18911" Issue="114968" />
+</Book>
+<Book Series="The Order" Number="4" Volume="2007" Year="2007">
+<Database Name="cv" Series="18911" Issue="116942" />
+</Book>
+<Book Series="Moon Knight" Number="11" Volume="2006" Year="2007">
+<Database Name="cv" Series="18105" Issue="110672" />
+</Book>
+<Book Series="Moon Knight" Number="12" Volume="2006" Year="2007">
+<Database Name="cv" Series="18105" Issue="114432" />
+</Book>
+<Book Series="Moon Knight" Number="13" Volume="2006" Year="2007">
+<Database Name="cv" Series="18105" Issue="117585" />
+</Book>
+<Book Series="Giant-Size Avengers" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="20232" Issue="120636" />
+</Book>
+<Book Series="Silent War" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="18107" Issue="106025" />
+</Book>
+<Book Series="Silent War" Number="2" Volume="2007" Year="2007">
+<Database Name="cv" Series="18107" Issue="106636" />
+</Book>
+<Book Series="Silent War" Number="3" Volume="2007" Year="2007">
+<Database Name="cv" Series="18107" Issue="107648" />
+</Book>
+<Book Series="Silent War" Number="4" Volume="2007" Year="2007">
+<Database Name="cv" Series="18107" Issue="108841" />
+</Book>
+<Book Series="Silent War" Number="5" Volume="2007" Year="2007">
+<Database Name="cv" Series="18107" Issue="110024" />
+</Book>
 <Book Series="Silent War" Number="6" Volume="2007" Year="2007">
 <Database Name="cv" Series="18107" Issue="111389" />
 </Book>
@@ -2781,12 +2862,6 @@
 <Book Series="Marvel Zombies 3" Number="4" Volume="2008" Year="2009">
 <Database Name="cv" Series="23335" Issue="149819" />
 </Book>
-<Book Series="Avengers: The Initiative Special" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="23602" Issue="141542" />
-</Book>
-<Book Series="Avengers: The Initiative Featuring Reptil" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="26047" Issue="153956" />
-</Book>
 <Book Series="Incredible Hercules" Number="121" Volume="2008" Year="2008">
 <Database Name="cv" Series="20588" Issue="139006" />
 </Book>
@@ -2810,6 +2885,12 @@
 </Book>
 <Book Series="Thunderbolts" Number="127" Volume="2006" Year="2009">
 <Database Name="cv" Series="18128" Issue="146793" />
+</Book>
+<Book Series="Avengers: The Initiative Special" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="23602" Issue="141542" />
+</Book>
+<Book Series="Avengers: The Initiative Featuring Reptil" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26047" Issue="153956" />
 </Book>
 <Book Series="X-Force" Number="7" Volume="2008" Year="2008">
 <Database Name="cv" Series="20511" Issue="139327" />
@@ -2921,87 +3002,6 @@
 </Book>
 <Book Series="X-Men: Legacy" Number="215" Volume="2008" Year="2008">
 <Database Name="cv" Series="20691" Issue="136584" />
-</Book>
-<Book Series="X-Men: Legacy" Number="216" Volume="2008" Year="2008">
-<Database Name="cv" Series="20691" Issue="139392" />
-</Book>
-<Book Series="X-Men: Original Sin" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="23350" Issue="140141" />
-</Book>
-<Book Series="X-Men: Legacy" Number="217" Volume="2008" Year="2008">
-<Database Name="cv" Series="20691" Issue="140847" />
-</Book>
-<Book Series="Wolverine: Origins" Number="29" Volume="2006" Year="2008">
-<Database Name="cv" Series="18130" Issue="141684" />
-</Book>
-<Book Series="X-Men: Legacy" Number="218" Volume="2008" Year="2009">
-<Database Name="cv" Series="20691" Issue="142503" />
-</Book>
-<Book Series="Wolverine: Origins" Number="30" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="143160" />
-</Book>
-<Book Series="Wolverine: Origins" Number="31" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="148691" />
-</Book>
-<Book Series="Wolverine: Origins" Number="32" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="150541" />
-</Book>
-<Book Series="Wolverine: Origins" Number="33" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="152716" />
-</Book>
-<Book Series="Wolverine: Origins" Number="34" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="153679" />
-</Book>
-<Book Series="Wolverine: Origins" Number="35" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="155774" />
-</Book>
-<Book Series="Wolverine: Origins" Number="36" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="158624" />
-</Book>
-<Book Series="Dark Reign: Young Avengers" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="26390" Issue="157288" />
-</Book>
-<Book Series="Dark Reign: Young Avengers" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="26390" Issue="160692" />
-</Book>
-<Book Series="Dark Reign: Young Avengers" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="26390" Issue="165499" />
-</Book>
-<Book Series="Dark Reign: Young Avengers" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="26390" Issue="170635" />
-</Book>
-<Book Series="Dark Reign: Young Avengers" Number="5" Volume="2009" Year="2009">
-<Database Name="cv" Series="26390" Issue="179198" />
-</Book>
-<Book Series="Secret Invasion: Requiem" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="25190" Issue="148634" />
-</Book>
-<Book Series="The Mighty Avengers" Number="21" Volume="2007" Year="2009">
-<Database Name="cv" Series="18239" Issue="150512" />
-</Book>
-<Book Series="The Mighty Avengers" Number="22" Volume="2007" Year="2009">
-<Database Name="cv" Series="18239" Issue="152709" />
-</Book>
-<Book Series="The Mighty Avengers" Number="23" Volume="2007" Year="2009">
-<Database Name="cv" Series="18239" Issue="153980" />
-</Book>
-<Book Series="Invincible Iron Man" Number="8" Volume="2008" Year="2009">
-<Database Name="cv" Series="21487" Issue="146865" />
-</Book>
-<Book Series="Invincible Iron Man" Number="9" Volume="2008" Year="2009">
-<Database Name="cv" Series="21487" Issue="149793" />
-</Book>
-<Book Series="Invincible Iron Man" Number="10" Volume="2008" Year="2009">
-<Database Name="cv" Series="21487" Issue="151148" />
-</Book>
-<Book Series="Invincible Iron Man" Number="11" Volume="2008" Year="2009">
-<Database Name="cv" Series="21487" Issue="153452" />
-</Book>
-<Book Series="Invincible Iron Man" Number="12" Volume="2008" Year="2009">
-<Database Name="cv" Series="21487" Issue="154619" />
-</Book>
-<Book Series="Invincible Iron Man" Number="13" Volume="2008" Year="2009">
-<Database Name="cv" Series="21487" Issue="156696" />
 </Book>
 </Books>
 <Matchers />
