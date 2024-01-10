@@ -16,7 +16,7 @@
         <Book Series="Excalibur" Number="21" Volume="2019" Year="2021">
             <Database Name="cv" Series="122488" Issue="858872" />
         </Book>
-        <Book Series="X-Men" Number="21" Volume="2021" Year="2021">
+        <Book Series="X-Men" Number="21" Volume="2019" Year="2021">
             <Database Name="cv" Series="122077" Issue="858873" />
         </Book>
         <Book Series="Children of the Atom" Number="4" Volume="2021" Year="2021">
