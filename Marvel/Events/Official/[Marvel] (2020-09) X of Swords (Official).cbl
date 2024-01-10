@@ -7,7 +7,7 @@
         <Book Series="Excalibur" Number="12" Volume="2020" Year="2020">
             <Database Name="cv" Series="122488" Issue="799947" />
         </Book>
-        <Book Series="X-Men" Number="12" Volume="2021" Year="2020">
+        <Book Series="X-Men" Number="12" Volume="2019" Year="2020">
             <Database Name="cv" Series="122077" Issue="799956" />
         </Book>
         <Book Series="X of Swords: Creation" Number="1" Volume="2020" Year="2020">
@@ -37,13 +37,13 @@
         <Book Series="Excalibur" Number="13" Volume="2019" Year="2020">
             <Database Name="cv" Series="122488" Issue="813279" />
         </Book>
-        <Book Series="X-Men" Number="13" Volume="2021" Year="2020">
+        <Book Series="X-Men" Number="13" Volume="2019" Year="2020">
             <Database Name="cv" Series="122077" Issue="813291" />
         </Book>
         <Book Series="X of Swords: Stasis" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="131525" Issue="814483" />
         </Book>
-        <Book Series="X-Men" Number="14" Volume="2021" Year="2021">
+        <Book Series="X-Men" Number="14" Volume="2019" Year="2021">
             <Database Name="cv" Series="122077" Issue="816456" />
         </Book>
         <Book Series="Marauders" Number="14" Volume="2019" Year="2021">
@@ -70,7 +70,7 @@
         <Book Series="Excalibur" Number="15" Volume="2019" Year="2021">
             <Database Name="cv" Series="122488" Issue="819478" />
         </Book>
-        <Book Series="X-Men" Number="15" Volume="2021" Year="2021">
+        <Book Series="X-Men" Number="15" Volume="2019" Year="2021">
             <Database Name="cv" Series="122077" Issue="819479" />
         </Book>
         <Book Series="X of Swords: Destruction" Number="1" Volume="2020" Year="2021">
