@@ -6,8 +6,8 @@ Support their Patreon at:
 https://marvelguides.com/support-us
 
 ## Updated:
-January 6 2024
-Added latest updates to the Bronze Age (Part 2)
+January 11, 2024
+Added Marvel Now Update: Part 6: All-New Marvel NOW!
 
 ## Notes:
 Marvel Guide provides a nice concise summary of the various timelines and is quite a bit more manageable to read than some other websites.
