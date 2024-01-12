@@ -770,28 +770,28 @@
     <Book Series="Fall of the Hulks: The Savage She-Hulks" Number="3" Volume="2010" Year="2010" Format="Limited Series">
       <Id>0e5cd3b4-c208-4bb3-9587-fe85d63148f6</Id>
     </Book>
-    <Book Series="Skaar - Son of Hulk" Number="1" Volume="2008" Year="2008" Format="Main Series">
+    <Book Series="Skaar: Son of Hulk" Number="1" Volume="2008" Year="2008" Format="Main Series">
       <Id>2ed87283-720d-40f6-a037-42f831448a82</Id>
     </Book>
-    <Book Series="Skaar - Son of Hulk" Number="2" Volume="2008" Year="2008" Format="Main Series">
+    <Book Series="Skaar: Son of Hulk" Number="2" Volume="2008" Year="2008" Format="Main Series">
       <Id>1dac5e8c-34bf-4d72-b87d-00b119b0d308</Id>
     </Book>
-    <Book Series="Skaar - Son of Hulk" Number="3" Volume="2008" Year="2008" Format="Main Series">
+    <Book Series="Skaar: Son of Hulk" Number="3" Volume="2008" Year="2008" Format="Main Series">
       <Id>443fd459-7444-461c-a7f0-c598550c198d</Id>
     </Book>
-    <Book Series="Skaar - Son of Hulk" Number="4" Volume="2008" Year="2008" Format="Main Series">
+    <Book Series="Skaar: Son of Hulk" Number="4" Volume="2008" Year="2008" Format="Main Series">
       <Id>1271acab-eefa-47f2-a620-13f1e91804e9</Id>
     </Book>
-    <Book Series="Skaar - Son of Hulk" Number="5" Volume="2008" Year="2009" Format="Main Series">
+    <Book Series="Skaar: Son of Hulk" Number="5" Volume="2008" Year="2009" Format="Main Series">
       <Id>0d8f187a-f9a5-461c-a1cb-c842fa28f09d</Id>
     </Book>
-    <Book Series="Skaar - Son of Hulk" Number="6" Volume="2008" Year="2009" Format="Main Series">
+    <Book Series="Skaar: Son of Hulk" Number="6" Volume="2008" Year="2009" Format="Main Series">
       <Id>6959d592-04ba-4fd2-85f9-58b229124633</Id>
     </Book>
     <Book Series="Skaar: Son of Hulk Presents - Savage World of Sakaar" Number="1" Volume="2008" Year="2008" Format="One-Shot">
       <Id>9685e876-91fc-4f4f-9e59-accd1c11eb8e</Id>
     </Book>
-    <Book Series="Skaar - Son of Hulk" Number="7" Volume="2008" Year="2009" Format="Main Series">
+    <Book Series="Skaar: Son of Hulk" Number="7" Volume="2008" Year="2009" Format="Main Series">
       <Id>784d272e-d20d-4a08-90a5-11a2297d90bd</Id>
     </Book>
     <Book Series="Skaar: Son of Hulk" Number="8" Volume="2008" Year="2009" Format="Main Series">
