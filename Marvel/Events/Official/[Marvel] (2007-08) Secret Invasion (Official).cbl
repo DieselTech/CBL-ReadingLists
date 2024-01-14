@@ -293,7 +293,7 @@
         <Book Series="New Avengers" Number="47" Volume="2004" Year="2009">
             <Database Name="cv" Series="11497" Issue="144345" />
         </Book>
-        <Book Series="Secret Invasion: Dark Reign" Number="8" Volume="2009" Year="2009">
+        <Book Series="Secret Invasion: Dark Reign" Number="1" Volume="2009" Year="2009">
             <Database Name="cv" Series="24578" Issue="145449" />
         </Book>
         <Book Series="Avengers: The Initiative" Number="19" Volume="2007" Year="2009">
