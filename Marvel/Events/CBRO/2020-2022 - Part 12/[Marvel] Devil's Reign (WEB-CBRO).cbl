@@ -45,14 +45,14 @@
 <Book Series="Devil's Reign: Winter Soldier" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141458" Issue="904766" />
 </Book>
-<Book Series="Daredevil: The Man Without Fear" Number="1" Volume="1993" Year="1993">
-<Database Name="cv" Series="5000" Issue="37946" />
+<Book Series="Daredevil: Woman Without Fear" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141175" Issue="902678" />
 </Book>
 <Book Series="Devil's Reign" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="140354" Issue="904775" />
 </Book>
-<Book Series="Daredevil: The Man Without Fear" Number="2" Volume="1993" Year="1993">
-<Database Name="cv" Series="5000" Issue="38094" />
+<Book Series="Daredevil: Woman Without Fear" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="141175" Issue="905713" />
 </Book>
 <Book Series="Devil's Reign: Spider-Man" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141785" Issue="909805" />
@@ -69,8 +69,8 @@
 <Book Series="Devil's Reign" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="140354" Issue="910627" />
 </Book>
-<Book Series="Daredevil: The Man Without Fear" Number="3" Volume="1993" Year="1993">
-<Database Name="cv" Series="5000" Issue="38252" />
+<Book Series="Daredevil: Woman Without Fear" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="141175" Issue="909676" />
 </Book>
 <Book Series="Devil's Reign" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="140354" Issue="914649" />
