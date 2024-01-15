@@ -42,8 +42,8 @@
 <Book Series="Outsiders" Number="11" Volume="1993" Year="1994">
 <Database Name="cv" Series="22453" Issue="134772" />
 </Book>
-<Book Series="Zero Hour: Crisis in Time" Number="0" Volume="1994" Year="1994">
-<Database Name="cv" Series="5271" Issue="39711" />
+<Book Series="Zero Hour: Crisis in Time" Number="4" Volume="1994" Year="1994">
+<Database Name="cv" Series="5271" Issue="39622" />
 </Book>
 <Book Series="Darkstars" Number="24" Volume="1992" Year="1994">
 <Database Name="cv" Series="7273" Issue="76343" />

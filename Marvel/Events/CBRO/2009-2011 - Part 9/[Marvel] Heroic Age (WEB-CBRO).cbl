@@ -204,8 +204,8 @@
 <Book Series="Steve Rogers: Super Soldier" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="34244" Issue="239042" />
 </Book>
-<Book Series="Death of Dracula" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34003" Issue="221774" />
+<Book Series="Death of Dracula" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40785" Issue="275026" />
 </Book>
 <Book Series="Uncanny X-Men: The Heroic Age" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34412" Issue="224585" />
