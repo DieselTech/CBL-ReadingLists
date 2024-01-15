@@ -132,14 +132,14 @@
 <Book Series="Incredible Hercules" Number="115" Volume="2008" Year="2008">
 <Database Name="cv" Series="20588" Issue="125757" />
 </Book>
-<Book Series="Damage Control" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="144734" Issue="943876" />
+<Book Series="World War Hulk Aftersmash: Damage Control" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="20402" Issue="122005" />
 </Book>
-<Book Series="Damage Control" Number="2" Volume="2022" Year="2022">
-<Database Name="cv" Series="144734" Issue="949060" />
+<Book Series="World War Hulk Aftersmash: Damage Control" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="20402" Issue="124233" />
 </Book>
-<Book Series="Damage Control" Number="3" Volume="2022" Year="2023">
-<Database Name="cv" Series="144734" Issue="953020" />
+<Book Series="World War Hulk Aftersmash: Damage Control" Number="3" Volume="2008" Year="2008">
+<Database Name="cv" Series="20402" Issue="126245" />
 </Book>
 <Book Series="World War Hulk Aftersmash: Warbound" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20153" Issue="120239" />

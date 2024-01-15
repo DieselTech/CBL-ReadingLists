@@ -33,7 +33,7 @@
 <Book Series="Ultimates" Number="7" Volume="2015" Year="2016">
 <Database Name="cv" Series="85972" Issue="529664" />
 </Book>
-<Book Series="Civil War II" Number="0" Volume="2017" Year="2016">
+<Book Series="Civil War II" Number="0" Volume="2016" Year="2016">
 <Database Name="cv" Series="90521" Issue="530725" />
 </Book>
 <Book Series="All-New Wolverine" Number="8" Volume="2015" Year="2016">

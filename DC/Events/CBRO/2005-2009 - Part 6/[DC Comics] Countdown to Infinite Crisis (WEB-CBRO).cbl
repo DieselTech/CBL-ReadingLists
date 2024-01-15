@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Countdown to Infinite Crisis (WEB-CBRO)</Name>
-<NumIssues>250</NumIssues>
+<NumIssues>254</NumIssues>
 <Books>
 <Book Series="Wonder Woman" Number="206" Volume="1987" Year="2004">
 <Database Name="cv" Series="3824" Issue="101020" />
@@ -9,8 +9,8 @@
 <Book Series="Wonder Woman" Number="207" Volume="1987" Year="2004">
 <Database Name="cv" Series="3824" Issue="101021" />
 </Book>
-<Book Series="Manhunter" Number="6" Volume="1988" Year="1988">
-<Database Name="cv" Series="4009" Issue="30395" />
+<Book Series="Manhunter" Number="6" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="103507" />
 </Book>
 <Book Series="Wonder Woman" Number="208" Volume="1987" Year="2004">
 <Database Name="cv" Series="3824" Issue="101022" />
@@ -129,17 +129,17 @@
 <Book Series="Action Comics" Number="825" Volume="1938" Year="2005">
 <Database Name="cv" Series="18005" Issue="112414" />
 </Book>
-<Book Series="Manhunter" Number="7" Volume="1988" Year="1988">
-<Database Name="cv" Series="4009" Issue="30492" />
+<Book Series="Manhunter" Number="7" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="103508" />
 </Book>
-<Book Series="Manhunter" Number="8" Volume="1988" Year="1988">
-<Database Name="cv" Series="4009" Issue="30520" />
+<Book Series="Manhunter" Number="8" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="103509" />
 </Book>
-<Book Series="Manhunter" Number="9" Volume="1988" Year="1989">
-<Database Name="cv" Series="4009" Issue="30741" />
+<Book Series="Manhunter" Number="9" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="103510" />
 </Book>
-<Book Series="Manhunter" Number="10" Volume="1988" Year="1989">
-<Database Name="cv" Series="4009" Issue="30860" />
+<Book Series="Manhunter" Number="10" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="119955" />
 </Book>
 <Book Series="Superman/Batman" Number="14" Volume="2003" Year="2005">
 <Database Name="cv" Series="10938" Issue="100960" />
@@ -315,6 +315,18 @@
 <Book Series="Action Comics" Number="828" Volume="1938" Year="2005">
 <Database Name="cv" Series="18005" Issue="111696" />
 </Book>
+<Book Series="Detective Comics" Number="809" Volume="1937" Year="2005">
+<Database Name="cv" Series="18058" Issue="113405" />
+</Book>
+<Book Series="Batman" Number="643" Volume="1940" Year="2005">
+<Database Name="cv" Series="796" Issue="122252" />
+</Book>
+<Book Series="Detective Comics" Number="810" Volume="1937" Year="2005">
+<Database Name="cv" Series="18058" Issue="113406" />
+</Book>
+<Book Series="Batman" Number="644" Volume="1940" Year="2005">
+<Database Name="cv" Series="796" Issue="122287" />
+</Book>
 <Book Series="Villains United" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18403" Issue="114548" />
 </Book>
@@ -414,17 +426,17 @@
 <Book Series="Day of Vengeance" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="22747" Issue="136420" />
 </Book>
-<Book Series="Manhunter" Number="11" Volume="1988" Year="1989">
-<Database Name="cv" Series="4009" Issue="30970" />
+<Book Series="Manhunter" Number="11" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="119982" />
 </Book>
-<Book Series="Manhunter" Number="12" Volume="1988" Year="1989">
-<Database Name="cv" Series="4009" Issue="31067" />
+<Book Series="Manhunter" Number="12" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="119994" />
 </Book>
-<Book Series="Manhunter" Number="13" Volume="1988" Year="1989">
-<Database Name="cv" Series="4009" Issue="31182" />
+<Book Series="Manhunter" Number="13" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="119996" />
 </Book>
-<Book Series="Manhunter" Number="14" Volume="1988" Year="1989">
-<Database Name="cv" Series="4009" Issue="31291" />
+<Book Series="Manhunter" Number="14" Volume="2004" Year="2005">
+<Database Name="cv" Series="11797" Issue="119997" />
 </Book>
 <Book Series="Batgirl" Number="63" Volume="2000" Year="2005">
 <Database Name="cv" Series="7205" Issue="100885" />
