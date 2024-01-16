@@ -18,35 +18,35 @@
 <Book Series="Star Wars" Number="19" Volume="2015" Year="2016">
 <Database Name="cv" Series="79398" Issue="531901" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="16" Volume="2015" Year="2016">
-<Database Name="cv" Series="106049" Issue="637552" />
+<Book Series="Darth Vader" Number="16" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="514434" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="17" Volume="2015" Year="2016">
-<Database Name="cv" Series="106049" Issue="637553" />
+<Book Series="Darth Vader" Number="17" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="517826" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="18" Volume="2015" Year="2016">
-<Database Name="cv" Series="106049" Issue="637554" />
+<Book Series="Darth Vader" Number="18" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="522427" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="19" Volume="2015" Year="2016">
-<Database Name="cv" Series="106049" Issue="637555" />
+<Book Series="Darth Vader" Number="19" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="525023" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="20" Volume="2015" Year="2016">
-<Database Name="cv" Series="106049" Issue="637556" />
+<Book Series="Darth Vader" Number="20" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="529654" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="21" Volume="2015" Year="2016">
-<Database Name="cv" Series="106049" Issue="637557" />
+<Book Series="Darth Vader" Number="21" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="534284" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="22" Volume="2015" Year="2017">
-<Database Name="cv" Series="106049" Issue="637558" />
+<Book Series="Darth Vader" Number="22" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="537937" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="23" Volume="2015" Year="2017">
-<Database Name="cv" Series="106049" Issue="637559" />
+<Book Series="Darth Vader" Number="23" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="540073" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="24" Volume="2015" Year="2017">
-<Database Name="cv" Series="106049" Issue="637560" />
+<Book Series="Darth Vader" Number="24" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="543750" />
 </Book>
-<Book Series="Star Wars: Darth Vader" Number="25" Volume="2015" Year="2017">
-<Database Name="cv" Series="106049" Issue="637561" />
+<Book Series="Darth Vader" Number="25" Volume="2015" Year="2016">
+<Database Name="cv" Series="79990" Issue="553006" />
 </Book>
 <Book Series="Star Wars" Number="20" Volume="2015" Year="2016">
 <Database Name="cv" Series="79398" Issue="535367" />
