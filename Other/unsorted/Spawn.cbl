@@ -483,8 +483,8 @@
 <Book Series="Spawn: The Undead" Number="9" Volume="1999" Year="2000">
 <Database Name="cv" Series="6391" Issue="104003" />
 </Book>
-<Book Series="Spawn: Blood and Salvation" Number="1" Volume="1999" Year="1999">
-<Database Name="cv" Series="33616" Issue="218227" />
+<Book Series="Spawn Annual" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="33615" Issue="218228" />
 </Book>
 <Book Series="Curse of the Spawn" Number="20" Volume="1996" Year="1998">
 <Database Name="cv" Series="11297" Issue="99181" />
