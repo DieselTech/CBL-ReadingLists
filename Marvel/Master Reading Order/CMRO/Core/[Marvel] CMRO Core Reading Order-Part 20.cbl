@@ -537,8 +537,8 @@
 <Book Series="Korvac Saga" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82841" Issue="499745" />
 </Book>
-<Book Series="" Number="1" Volume="" Year="2016">
-<Database Name="cv" Series="547290" Issue="506180" />
+<Book Series="Secret Wars, Too" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="86122" Issue="506180" />
 </Book>
 <Book Series="Secret Wars" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="81833" Issue="493798" />
