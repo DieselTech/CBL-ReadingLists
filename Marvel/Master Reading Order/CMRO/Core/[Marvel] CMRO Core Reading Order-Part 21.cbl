@@ -2859,8 +2859,8 @@
 <Book Series="Silver Sable and the Wild Pack" Number="36" Volume="2017" Year="2018">
 <Database Name="cv" Series="106307" Issue="641415" />
 </Book>
-<Book Series="" Number="51" Volume="" Year="2018">
-<Database Name="cv" Series="106501" Issue="643030" />
+<Book Series="Darkhawk" Number="51" Volume="1991" Year="2018">
+<Database Name="cv" Series="4587" Issue="643030" />
 </Book>
 <Book Series="The Unbelievable Gwenpool" Number="21" Volume="2016" Year="2017">
 <Database Name="cv" Series="89627" Issue="628597" />
