@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Valiant Universe</Name>
-<NumIssues>515</NumIssues>
+<NumIssues>524</NumIssues>
 <Books>
 <Book Series="X-O Manowar" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="48559" Issue="334344" />
@@ -1092,14 +1092,29 @@
 <Book Series="Bloodshot U.S.A." Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="95203" Issue="578445" />
 </Book>
-<Book Series="Faith: California Scheming" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="95413" Issue="556466" />
+<Book Series="Faith" Number="5" Volume="2016" Year="2016">
+<Database Name="cv" Series="92362" Issue="556465" />
 </Book>
-<Book Series="Faith: Superstar" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="101389" Issue="594953" />
+<Book Series="Faith" Number="6" Volume="2016" Year="2016">
+<Database Name="cv" Series="92362" Issue="563713" />
 </Book>
-<Book Series="Faith: The Faithless" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="103232" Issue="611988" />
+<Book Series="Faith" Number="7" Volume="2016" Year="2017">
+<Database Name="cv" Series="92362" Issue="574858" />
+</Book>
+<Book Series="Faith" Number="8" Volume="2016" Year="2017">
+<Database Name="cv" Series="92362" Issue="579302" />
+</Book>
+<Book Series="Faith" Number="9" Volume="2016" Year="2017">
+<Database Name="cv" Series="92362" Issue="583710" />
+</Book>
+<Book Series="Faith" Number="10" Volume="2016" Year="2017">
+<Database Name="cv" Series="92362" Issue="590784" />
+</Book>
+<Book Series="Faith" Number="11" Volume="2016" Year="2017">
+<Database Name="cv" Series="92362" Issue="594102" />
+</Book>
+<Book Series="Faith" Number="12" Volume="2016" Year="2017">
+<Database Name="cv" Series="92362" Issue="599853" />
 </Book>
 <Book Series="Harbinger Renegade" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="95734" Issue="558406" />
@@ -1203,8 +1218,8 @@
 <Book Series="Rapture" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="101631" Issue="617812" />
 </Book>
-<Book Series="Shadowman/Rae Sremmurd" Number="51" Volume="2017" Year="1969">
-<Database Name="cv" Series="104814" Issue="102480" />
+<Book Series="Shadowman/Rae Sremmurd" Number="1" Volume="2017" Year="2017">
+<Database Name="cv" Series="104814" Issue="626273" />
 </Book>
 <Book Series="Secret Weapons" Number="0" Volume="2017" Year="2018">
 <Database Name="cv" Series="102480" Issue="650909" />
