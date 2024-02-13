@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Valiant Universe</Name>
-<NumIssues>524</NumIssues>
+<NumIssues>527</NumIssues>
 <Books>
 <Book Series="X-O Manowar" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="48559" Issue="334344" />
@@ -1128,8 +1128,17 @@
 <Book Series="Harbinger Renegade" Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="95734" Issue="582513" />
 </Book>
-<Book Series="Savage" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="100704" Issue="591744" />
+<Book Series="Savage" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="96158" Issue="562590" />
+</Book>
+<Book Series="Savage" Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="96158" Issue="571656" />
+</Book>
+<Book Series="Savage" Number="3" Volume="2016" Year="2017">
+<Database Name="cv" Series="96158" Issue="578449" />
+</Book>
+<Book Series="Savage" Number="4" Volume="2016" Year="2017">
+<Database Name="cv" Series="96158" Issue="581546" />
 </Book>
 <Book Series="A&#38;A: The Adventures of Archer &#38; Armstrong" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="88911" Issue="557351" />
