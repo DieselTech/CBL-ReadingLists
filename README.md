@@ -4,7 +4,7 @@ Started off as the Marvel Master Reading Order + Others but has rapidly changed 
 These lists are not created by me. Credit goes to the orginal authors. I'm just curating them into a single place to hopefully make it easier for people to find what they want to read. 
 
 # Discord
-We now have a discord server to help cordinate changes and discus things in an open and public place. Join us!
+We now have a discord server to help cordinate changes and discuss things in an open and public place. Join us!
 
 https://discord.gg/DQmHfzFdGG
 
@@ -40,4 +40,4 @@ Different ways to help include:
 - If you have any constructive feedback on the data structure, how reading lists are handled, or issues within the reading-lists themselves, please create an issue on Github which clearly explains your thoughts, or join our discord to talk it over. 
 
 ## Creating tools 
-- If you have programming abilities there is always some small script that could be useful. 
+- If you have programming abilities there is always some small script that could be useful. Join the discord and ask in the #tools channel. 
