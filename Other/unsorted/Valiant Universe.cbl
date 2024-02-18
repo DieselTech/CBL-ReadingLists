@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Valiant Universe</Name>
-<NumIssues>527</NumIssues>
+<NumIssues>530</NumIssues>
 <Books>
 <Book Series="X-O Manowar" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="48559" Issue="334344" />
@@ -1317,8 +1317,17 @@
 <Book Series="War Mother" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="103628" Issue="643025" />
 </Book>
-<Book Series="Eternity" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="109603" Issue="664903" />
+<Book Series="Eternity" Number="1" Volume="2017" Year="2017">
+<Database Name="cv" Series="105519" Issue="632484" />
+</Book>
+<Book Series="Eternity" Number="2" Volume="2017" Year="2017">
+<Database Name="cv" Series="105519" Issue="643024" />
+</Book>
+<Book Series="Eternity" Number="3" Volume="2017" Year="2017">
+<Database Name="cv" Series="105519" Issue="649720" />
+</Book>
+<Book Series="Eternity" Number="4" Volume="2017" Year="2018">
+<Database Name="cv" Series="105519" Issue="656692" />
 </Book>
 <Book Series="Bloodshot Salvation" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104355" Issue="621965" />
