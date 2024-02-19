@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Hellboy (Mignolaverse) TPB Reading Order</Name>
+<Name>[Dark Horse] Hellboy (Mignolaverse) TPB Reading Order</Name>
 <NumIssues>101</NumIssues>
 <Books>
 <Book Series="Hellboy: Seed of Destruction" Number="1" Volume="1994" Year="1994">
