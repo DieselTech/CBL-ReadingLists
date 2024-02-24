@@ -123,17 +123,17 @@
 <Book Series="G.I. Joe: Origins" Number="23" Volume="2009" Year="2011">
 <Database Name="cv" Series="25818" Issue="256289" />
 </Book>
-<Book Series="G.I. Joe: Cobra" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="31328" Issue="195085" />
+<Book Series="G.I. Joe: Cobra" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26003" Issue="153700" />
 </Book>
-<Book Series="G.I. Joe: Cobra" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="31328" Issue="197378" />
+<Book Series="G.I. Joe: Cobra" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="26003" Issue="155449" />
 </Book>
-<Book Series="G.I. Joe: Cobra" Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="31328" Issue="203703" />
+<Book Series="G.I. Joe: Cobra" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="26003" Issue="157189" />
 </Book>
-<Book Series="G.I. Joe: Cobra" Number="4" Volume="2010" Year="2010">
-<Database Name="cv" Series="31328" Issue="211482" />
+<Book Series="G.I. Joe: Cobra" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="26003" Issue="160450" />
 </Book>
 <Book Series="G.I. Joe Cobra Special" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="32925" Issue="212042" />
@@ -174,17 +174,17 @@
 <Book Series="G.I. Joe" Number="27" Volume="2008" Year="2011">
 <Database Name="cv" Series="23490" Issue="264735" />
 </Book>
-<Book Series="G.I. Joe: Cobra" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="26003" Issue="153700" />
+<Book Series="G.I. Joe: Cobra" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="31328" Issue="195085" />
 </Book>
-<Book Series="G.I. Joe: Cobra" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="26003" Issue="155449" />
+<Book Series="G.I. Joe: Cobra" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="31328" Issue="197378" />
 </Book>
-<Book Series="G.I. Joe: Cobra" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="26003" Issue="157189" />
+<Book Series="G.I. Joe: Cobra" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="31328" Issue="203703" />
 </Book>
-<Book Series="G.I. Joe: Cobra" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="26003" Issue="160450" />
+<Book Series="G.I. Joe: Cobra" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="31328" Issue="211482" />
 </Book>
 <Book Series="G.I. Joe: Hearts &#38; Minds" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33549" Issue="217686" />
