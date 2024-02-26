@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Spawn</Name>
-<NumIssues>505</NumIssues>
+<NumIssues>504</NumIssues>
 <Books>
 <Book Series="Spawn" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="4937" Issue="35666" />
@@ -993,9 +993,6 @@
 <Book Series="Spawn" Number="165" Volume="1992" Year="2007">
 <Database Name="cv" Series="4937" Issue="131388" />
 </Book>
-<Book Series="Spawn Godslayer" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="19878" Issue="119067" />
-</Book>
 <Book Series="Spawn: Godslayer" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19879" Issue="119068" />
 </Book>
@@ -1401,8 +1398,8 @@
 <Book Series="Spawn" Number="262" Volume="1992" Year="2016">
 <Database Name="cv" Series="4937" Issue="525067" />
 </Book>
-<Book Series="Spawn Kills Everyone: The Complete Collection" Number="1" Volume="2019" Year="2019">
-<Database Name="cv" Series="119161" Issue="709113" />
+<Book Series="Spawn Kills Everyone!" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="93203" Issue="545017" />
 </Book>
 <Book Series="Spawn" Number="263" Volume="1992" Year="2016">
 <Database Name="cv" Series="4937" Issue="530763" />
