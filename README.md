@@ -23,6 +23,7 @@ There are a number of websites that host reading lists in a visual display (no C
 - [Comicvine](https://comicvine.gamespot.com/story-arcs/)
 - [The Marvel Comics Guide](http://marvelcrossovers.blogspot.com/)
 - [Marvel Fandom](https://marvel.fandom.com/wiki/Marvel_Universe_Reading_Order)
+- [How To Love Comics (HTLC)](https://www.howtolovecomics.com/)
 
 # Contributing
 We are looking for people who want to assist in the efforts to make the best reading lists possible.
