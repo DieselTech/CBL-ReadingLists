@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Fables</Name>
-<NumIssues>278</NumIssues>
+<Name>[Vertigo] [2002-Present] Fables (CBRO)</Name>
+<NumIssues>286</NumIssues>
 <Books>
 <Book Series="Fables" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="9723" Issue="110323" />
@@ -836,6 +836,30 @@
 </Book>
 <Book Series="Fables" Number="159" Volume="2002" Year="2023">
 <Database Name="cv" Series="9723" Issue="997186" />
+</Book>
+<Book Series="Fables" Number="160" Volume="2002" Year="2023">
+<Database Name="cv" Series="9723" Issue="1025100" />
+</Book>
+<Book Series="Fables" Number="161" Volume="2002" Year="2024">
+<Database Name="cv" Series="9723" Issue="1039457" />
+</Book>
+<Book Series="Batman vs. Bigby! A Wolf In Gotham" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="139230" Issue="886367" />
+</Book>
+<Book Series="Batman vs. Bigby! A Wolf In Gotham" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="139230" Issue="890007" />
+</Book>
+<Book Series="Batman vs. Bigby! A Wolf In Gotham" Number="3" Volume="2021" Year="2022">
+<Database Name="cv" Series="139230" Issue="894437" />
+</Book>
+<Book Series="Batman vs. Bigby! A Wolf In Gotham" Number="4" Volume="2021" Year="2022">
+<Database Name="cv" Series="139230" Issue="899047" />
+</Book>
+<Book Series="Batman vs. Bigby! A Wolf In Gotham" Number="5" Volume="2021" Year="2022">
+<Database Name="cv" Series="139230" Issue="903457" />
+</Book>
+<Book Series="Batman vs. Bigby! A Wolf In Gotham" Number="6" Volume="2021" Year="2022">
+<Database Name="cv" Series="139230" Issue="908834" />
 </Book>
 </Books>
 <Matchers />
