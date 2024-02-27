@@ -18,12 +18,14 @@ There are a number of websites that host reading lists in a visual display (no C
 - [Comic Book Reading Orders (CBRO)](https://comicbookreadingorders.com/)
 - [Complete Marvel Reading Orders (CMRO)](https://cmro.travis-starnes.com/)
 - [Comic Book Herald (CBH)](https://www.comicbookherald.com/)
-- [Comic Book Treasury](https://www.comicbooktreasury.com/)
-- [Marvel Guides](https://marvelguides.com/)
+- [Comic Book Treasury (CBT)](https://www.comicbooktreasury.com/)
+- [Marvel Guides (MG)](https://marvelguides.com/)
 - [Comicvine](https://comicvine.gamespot.com/story-arcs/)
 - [The Marvel Comics Guide](http://marvelcrossovers.blogspot.com/)
 - [Marvel Fandom](https://marvel.fandom.com/wiki/Marvel_Universe_Reading_Order)
 - [How To Love Comics (HTLC)](https://www.howtolovecomics.com/)
+- [League of ComicGeeks (LoCG)](https://leagueofcomicgeeks.com/)
+- [Marvel.com Reading Orders (Official)](https://www.marvel.com/comics/discover)
 
 # Contributing
 We are looking for people who want to assist in the efforts to make the best reading lists possible.
