@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Valiant Universe</Name>
+<Name>[Valiant] [2012-2019] Valiant Universe (CBRO)</Name>
 <NumIssues>530</NumIssues>
 <Books>
 <Book Series="X-O Manowar" Number="1" Volume="2012" Year="2012">
