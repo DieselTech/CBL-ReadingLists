@@ -615,8 +615,8 @@
 <Book Series="The Transformers: More Than Meets the Eye" Number="22" Volume="2012" Year="2013">
 <Database Name="cv" Series="45154" Issue="428883" />
 </Book>
-<Book Series="The Transformers: Dark Cybertron" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="73107" Issue="450583" />
+<Book Series="The Transformers: Dark Cybertron" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="68932" Issue="432359" />
 </Book>
 <Book Series="The Transformers: More Than Meets the Eye" Number="23" Volume="2012" Year="2013">
 <Database Name="cv" Series="45154" Issue="433874" />
@@ -651,17 +651,17 @@
 <Book Series="The Transformers: Dark Cybertron Finale" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="72592" Issue="449001" />
 </Book>
-<Book Series="The Transformers: Windblade" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="80904" Issue="483395" />
+<Book Series="The Transformers: Windblade" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="73108" Issue="450584" />
 </Book>
-<Book Series="The Transformers: Windblade" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="80904" Issue="486765" />
+<Book Series="The Transformers: Windblade" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="73108" Issue="453445" />
 </Book>
-<Book Series="The Transformers: Windblade" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="80904" Issue="491550" />
+<Book Series="The Transformers: Windblade" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="73108" Issue="457676" />
 </Book>
-<Book Series="The Transformers: Windblade" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="80904" Issue="493075" />
+<Book Series="The Transformers: Windblade" Number="4" Volume="2014" Year="2014">
+<Database Name="cv" Series="73108" Issue="459867" />
 </Book>
 <Book Series="The Transformers: Robots in Disguise" Number="28" Volume="2012" Year="2014">
 <Database Name="cv" Series="45397" Issue="451123" />
@@ -762,14 +762,26 @@
 <Book Series="The Transformers" Number="39" Volume="2014" Year="2015">
 <Database Name="cv" Series="78066" Issue="482720" />
 </Book>
+<Book Series="The Transformers: Windblade" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="80904" Issue="483395" />
+</Book>
 <Book Series="The Transformers" Number="40" Volume="2014" Year="2015">
 <Database Name="cv" Series="78066" Issue="486179" />
+</Book>
+<Book Series="The Transformers: Windblade" Number="2" Volume="2015" Year="2015">
+<Database Name="cv" Series="80904" Issue="486765" />
 </Book>
 <Book Series="The Transformers" Number="41" Volume="2014" Year="2015">
 <Database Name="cv" Series="78066" Issue="489357" />
 </Book>
+<Book Series="The Transformers: Windblade" Number="3" Volume="2015" Year="2015">
+<Database Name="cv" Series="80904" Issue="491550" />
+</Book>
 <Book Series="The Transformers" Number="42" Volume="2014" Year="2015">
 <Database Name="cv" Series="78066" Issue="492249" />
+</Book>
+<Book Series="The Transformers: Windblade" Number="4" Volume="2015" Year="2015">
+<Database Name="cv" Series="80904" Issue="493075" />
 </Book>
 <Book Series="Transformers: Combiner Hunters" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="83598" Issue="496414" />
@@ -891,8 +903,8 @@
 <Book Series="The Transformers" Number="55" Volume="2014" Year="2016">
 <Database Name="cv" Series="78066" Issue="540826" />
 </Book>
-<Book Series="The Transformers: Titans Return" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="98034" Issue="576558" />
+<Book Series="The Transformers: Titans Return One-Shot" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="92487" Issue="540828" />
 </Book>
 <Book Series="The Transformers: Till All Are One" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="91269" Issue="535271" />
@@ -939,17 +951,17 @@
 <Book Series="Optimus Prime" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="96201" Issue="588464" />
 </Book>
-<Book Series="The Transformers: Lost Light" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="105561" Issue="632545" />
+<Book Series="The Transformers: Lost Light" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="96642" Issue="566590" />
 </Book>
-<Book Series="The Transformers: Lost Light" Number="2" Volume="2017" Year="2018">
-<Database Name="cv" Series="105561" Issue="659938" />
+<Book Series="The Transformers: Lost Light" Number="2" Volume="2016" Year="2017">
+<Database Name="cv" Series="96642" Issue="578658" />
 </Book>
-<Book Series="The Transformers: Lost Light" Number="3" Volume="2017" Year="2018">
-<Database Name="cv" Series="105561" Issue="679793" />
+<Book Series="The Transformers: Lost Light" Number="3" Volume="2016" Year="2017">
+<Database Name="cv" Series="96642" Issue="582285" />
 </Book>
-<Book Series="The Transformers: Lost Light" Number="4" Volume="2017" Year="2019">
-<Database Name="cv" Series="105561" Issue="699124" />
+<Book Series="The Transformers: Lost Light" Number="4" Volume="2016" Year="2017">
+<Database Name="cv" Series="96642" Issue="589700" />
 </Book>
 <Book Series="The Transformers: Till All Are One" Number="7" Volume="2016" Year="2017">
 <Database Name="cv" Series="91269" Issue="580649" />
