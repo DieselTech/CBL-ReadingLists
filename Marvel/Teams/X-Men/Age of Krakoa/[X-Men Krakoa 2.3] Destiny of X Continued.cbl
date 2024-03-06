@@ -81,20 +81,20 @@
 <Book Series="X-Force" Number="38" Volume="2020" Year="2023">
 <Database Name="cv" Series="122668" Issue="974096" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="1" Volume="2018" Year="2018">
-<Database Name="cv" Series="107513" Issue="650924" />
+<Book Series="Rogue &#38; Gambit" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="148664" Issue="974106" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="2" Volume="2018" Year="2018">
-<Database Name="cv" Series="107513" Issue="658728" />
+<Book Series="Rogue &#38; Gambit" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="148664" Issue="981478" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="3" Volume="2018" Year="2018">
-<Database Name="cv" Series="107513" Issue="662094" />
+<Book Series="Rogue &#38; Gambit" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="148664" Issue="988125" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="4" Volume="2018" Year="2018">
-<Database Name="cv" Series="107513" Issue="664920" />
+<Book Series="Rogue &#38; Gambit" Number="4" Volume="2023" Year="2023">
+<Database Name="cv" Series="148664" Issue="994364" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="5" Volume="2018" Year="2018">
-<Database Name="cv" Series="107513" Issue="668780" />
+<Book Series="Rogue &#38; Gambit" Number="5" Volume="2023" Year="2023">
+<Database Name="cv" Series="148664" Issue="1000237" />
 </Book>
 <Book Series="Captain Marvel" Number="43" Volume="2019" Year="2023">
 <Database Name="cv" Series="116365" Issue="953019" />
