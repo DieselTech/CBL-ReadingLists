@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[X-Men Krakoa 1.5] Reign of X Continued</Name>
-<NumIssues>78</NumIssues>
+<NumIssues>62</NumIssues>
 <Books>
 <Book Series="Marauders" Number="22" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="872876" />
@@ -78,23 +78,11 @@
 <Book Series="New Mutants" Number="21" Volume="2020" Year="2021">
 <Database Name="cv" Series="122666" Issue="882897" />
 </Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="885206" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="2" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="885207" />
-</Book>
 <Book Series="Excalibur" Number="23" Volume="2019" Year="2021">
 <Database Name="cv" Series="122488" Issue="884068" />
 </Book>
 <Book Series="X-Force" Number="23" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="884069" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="3" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="885208" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="4" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="885209" />
 </Book>
 <Book Series="X-Men: The Trial of Magneto" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="138343" Issue="884830" />
@@ -102,20 +90,11 @@
 <Book Series="Marauders" Number="24" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="884828" />
 </Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="5" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="886395" />
-</Book>
 <Book Series="X-Men" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="137402" Issue="885604" />
 </Book>
 <Book Series="S.W.O.R.D." Number="8" Volume="2020" Year="2021">
 <Database Name="cv" Series="132511" Issue="886939" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="6" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="887735" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="7" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="889109" />
 </Book>
 <Book Series="Inferno" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139289" Issue="886937" />
@@ -128,9 +107,6 @@
 </Book>
 <Book Series="New Mutants" Number="22" Volume="2020" Year="2021">
 <Database Name="cv" Series="122666" Issue="888638" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="8" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="889855" />
 </Book>
 <Book Series="X-Men" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="137402" Issue="889466" />
@@ -147,26 +123,14 @@
 <Book Series="X-Men: The Trial of Magneto" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="138343" Issue="890603" />
 </Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="9" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="891045" />
-</Book>
 <Book Series="Marauders" Number="25" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="891563" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="10" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="892232" />
 </Book>
 <Book Series="Inferno" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="139289" Issue="891562" />
 </Book>
 <Book Series="Excalibur" Number="25" Volume="2019" Year="2022">
 <Database Name="cv" Series="122488" Issue="893974" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="11" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="894425" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="12" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="895690" />
 </Book>
 <Book Series="Hellions" Number="17" Volume="2020" Year="2022">
 <Database Name="cv" Series="126015" Issue="893934" />
@@ -189,9 +153,6 @@
 <Book Series="X-Men: The Trial of Magneto" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="138343" Issue="896094" />
 </Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="13" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="899122" />
-</Book>
 <Book Series="Marauders" Number="26" Volume="2019" Year="2022">
 <Database Name="cv" Series="122218" Issue="896131" />
 </Book>
@@ -210,26 +171,17 @@
 <Book Series="X-Force" Number="26" Volume="2020" Year="2022">
 <Database Name="cv" Series="122668" Issue="898353" />
 </Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="14" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="903141" />
-</Book>
 <Book Series="Wolverine" Number="19" Volume="2020" Year="2022">
 <Database Name="cv" Series="125121" Issue="899167" />
 </Book>
 <Book Series="S.W.O.R.D." Number="11" Volume="2020" Year="2022">
 <Database Name="cv" Series="132511" Issue="899166" />
 </Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="15" Volume="2021" Year="2021">
-<Database Name="cv" Series="139055" Issue="903152" />
-</Book>
 <Book Series="X-Men" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="137402" Issue="901350" />
 </Book>
 <Book Series="X-Men: The Trial of Magneto" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="138343" Issue="899168" />
-</Book>
-<Book Series="X-Men Unlimited Infinity Comic" Number="16" Volume="2021" Year="2022">
-<Database Name="cv" Series="139055" Issue="903153" />
 </Book>
 <Book Series="Marauders" Number="27" Volume="2019" Year="2022">
 <Database Name="cv" Series="122218" Issue="902690" />
