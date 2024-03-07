@@ -63,8 +63,8 @@
 <Book Series="Fantastic Four" Number="48" Volume="2018" Year="2022">
 <Database Name="cv" Series="112685" Issue="950375" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="10" Volume="2021" Year="2021">
-<Database Name="cv" Series="152139" Issue="1000360" />
+<Book Series="The Amazing Spider-Man" Number="10" Volume="2022" Year="2022">
+<Database Name="cv" Series="142577" Issue="949133" />
 </Book>
 <Book Series="Captain Marvel" Number="42" Volume="2019" Year="2022">
 <Database Name="cv" Series="116365" Issue="950790" />
