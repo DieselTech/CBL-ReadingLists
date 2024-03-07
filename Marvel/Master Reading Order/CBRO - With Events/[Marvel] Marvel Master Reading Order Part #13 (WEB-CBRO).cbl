@@ -561,9 +561,6 @@
 <Book Series="Avengers Beyond" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="149051" Issue="1003570" />
 </Book>
-<Book Series="Avengers Beyond" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="149051" Issue="979428" />
-</Book>
 <Book Series="Strange" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141784" Issue="909804" />
 </Book>
@@ -852,8 +849,8 @@
 <Book Series="Fantastic Four" Number="48" Volume="2018" Year="2022">
 <Database Name="cv" Series="112685" Issue="950375" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="10" Volume="2021" Year="2021">
-<Database Name="cv" Series="152139" Issue="1000360" />
+<Book Series="The Amazing Spider-Man" Number="10" Volume="2022" Year="2022">
+<Database Name="cv" Series="142577" Issue="949133" />
 </Book>
 <Book Series="Captain Marvel" Number="42" Volume="2019" Year="2022">
 <Database Name="cv" Series="116365" Issue="950790" />
@@ -1911,8 +1908,8 @@
 <Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="15" Volume="2021" Year="2022">
-<Database Name="cv" Series="152139" Issue="1000368" />
+<Book Series="The Amazing Spider-Man" Number="15" Volume="2022" Year="2023">
+<Database Name="cv" Series="142577" Issue="960003" />
 </Book>
 <Book Series="Mary Jane &#38; Black Cat" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="960979" />
@@ -1926,14 +1923,14 @@
 <Book Series="Gold Goblin" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146113" Issue="960978" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="16" Volume="2021" Year="2022">
-<Database Name="cv" Series="152139" Issue="1000369" />
+<Book Series="The Amazing Spider-Man" Number="16" Volume="2022" Year="2023">
+<Database Name="cv" Series="142577" Issue="961936" />
 </Book>
 <Book Series="Venom" Number="14" Volume="2021" Year="2023">
 <Database Name="cv" Series="140084" Issue="961963" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="17" Volume="2021" Year="2022">
-<Database Name="cv" Series="152139" Issue="1000370" />
+<Book Series="The Amazing Spider-Man" Number="17" Volume="2022" Year="2023">
+<Database Name="cv" Series="142577" Issue="963986" />
 </Book>
 <Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
 <Database Name="cv" Series="146875" Issue="961948" />
@@ -1953,8 +1950,8 @@
 <Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
 <Database Name="cv" Series="146875" Issue="964964" />
 </Book>
-<Book Series="Amazing Spider-Man" Number="18" Volume="2021" Year="2022">
-<Database Name="cv" Series="152139" Issue="1000371" />
+<Book Series="The Amazing Spider-Man" Number="18" Volume="2022" Year="2023">
+<Database Name="cv" Series="142577" Issue="966421" />
 </Book>
 <Book Series="Venom" Number="15" Volume="2021" Year="2023">
 <Database Name="cv" Series="140084" Issue="964958" />
@@ -2472,9 +2469,6 @@
 <Book Series="Spider-Man 2099: Dark Genesis" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="150027" Issue="992290" />
 </Book>
-<Book Series="Marvel's Voices: Pride" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="151966" Issue="999054" />
-</Book>
 <Book Series="Venom" Number="17" Volume="2021" Year="2023">
 <Database Name="cv" Series="140084" Issue="974097" />
 </Book>
@@ -2612,9 +2606,6 @@
 </Book>
 <Book Series="Venom Annual" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153472" Issue="1013501" />
-</Book>
-<Book Series="X-Men Annual" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="146988" Issue="960987" />
 </Book>
 <Book Series="Avengers Annual" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153723" Issue="1018017" />
