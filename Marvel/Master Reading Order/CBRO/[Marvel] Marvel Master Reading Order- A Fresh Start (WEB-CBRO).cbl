@@ -1087,7 +1087,7 @@
 <Database Name="cv" Series="115905" Issue="694921" />
 </Book>
 <Book Series="Defenders: The Best Defense" Number="1" Volume="2019" Year="2019">
-<Database Name="cv" Series="117581" Issue="703050" />
+<Database Name="cv" Series="116067" Issue="695631" />
 </Book>
 <Book Series="Shuri" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="114421" Issue="689054" />
