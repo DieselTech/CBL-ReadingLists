@@ -291,8 +291,8 @@
 <Book Series="Excalibur" Number="10" Volume="2004" Year="2005">
 <Database Name="cv" Series="11292" Issue="101044" />
 </Book>
-<Book Series="Excalibur" Number="11" Volume="1988" Year="1989">
-<Database Name="cv" Series="4052" Issue="66342" />
+<Book Series="Excalibur" Number="11" Volume="2004" Year="2005">
+<Database Name="cv" Series="11292" Issue="101045" />
 </Book>
 <Book Series="X-Men/Fantastic Four" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="29576" Issue="182338" />
@@ -590,9 +590,6 @@
 </Book>
 <Book Series="Black Panther" Number="9" Volume="2005" Year="2005">
 <Database Name="cv" Series="11502" Issue="126180" />
-</Book>
-<Book Series="Excalibur" Number="11" Volume="2004" Year="2005">
-<Database Name="cv" Series="11292" Issue="101045" />
 </Book>
 <Book Series="Excalibur" Number="12" Volume="2004" Year="2005">
 <Database Name="cv" Series="11292" Issue="101046" />
