@@ -678,8 +678,8 @@
 <Book Series="X-Men: Legacy" Number="225" Volume="2008" Year="2009">
 <Database Name="cv" Series="20691" Issue="160536" />
 </Book>
-<Book Series="Avengers/X-Men: Utopia" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="30200" Issue="186229" />
+<Book Series="Dark Avengers/Uncanny X-Men: Utopia" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26888" Issue="161518" />
 </Book>
 <Book Series="X-Men: Legacy" Number="226" Volume="2008" Year="2009">
 <Database Name="cv" Series="20691" Issue="163253" />
