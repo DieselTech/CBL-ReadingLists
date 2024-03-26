@@ -30,10 +30,10 @@
 <Book Series="Batman: Shadow of the Bat" Number="44" Volume="1992" Year="1995">
 <Database Name="cv" Series="4724" Issue="41677" />
 </Book>
-<Book Series="Batman/Judge Dredd "Die Laughing"" Number="1" Volume="1998" Year="1998">
+<Book Series="Batman/Judge Dredd &quot;Die Laughing&quot;" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="22312" Issue="134161" />
 </Book>
-<Book Series="Batman/Judge Dredd "Die Laughing"" Number="2" Volume="1998" Year="1999">
+<Book Series="Batman/Judge Dredd &quot;Die Laughing&quot;" Number="2" Volume="1998" Year="1999">
 <Database Name="cv" Series="22312" Issue="134181" />
 </Book>
 <Book Series="Batman" Number="516" Volume="1940" Year="1995">
