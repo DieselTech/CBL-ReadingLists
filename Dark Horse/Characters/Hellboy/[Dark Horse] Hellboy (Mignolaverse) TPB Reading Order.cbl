@@ -42,11 +42,11 @@
 <Book Series="B.P.R.D.: The Dead" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="64103" Issue="413136" />
 </Book>
-<Book Series="B.P.R.D.: War on Frogs" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="49111" Issue="336498" />
-</Book>
 <Book Series="B.P.R.D.: The Black Flame" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="50552" Issue="346142" />
+</Book>
+<Book Series="B.P.R.D.: War on Frogs" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="49111" Issue="336498" />
 </Book>
 <Book Series="B.P.R.D.: The Universal Machine" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="50551" Issue="346140" />
@@ -126,6 +126,9 @@
 <Book Series="Young Hellboy: The Hidden Land" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139491" Issue="888887" />
 </Book>
+<Book Series="Young Hellboy: Assault on Castle Death" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="151985" Issue="999161" />
+</Book>
 <Book Series="Hellboy: The Midnight Circus" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="68517" Issue="430741" />
 </Book>
@@ -150,6 +153,9 @@
 <Book Series="Hellboy: The Bones of Giants" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144965" Issue="946115" />
 </Book>
+<Book Series="The Amazing Screw-On Head and Other Curious Objects (Anniversary Edition)" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144429" Issue="941529" />
+</Book>
 <Book Series="B.P.R.D.: Hell on Earth - New World" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="64095" Issue="413118" />
 </Book>
@@ -167,9 +173,6 @@
 </Book>
 <Book Series="B.P.R.D. Hell On Earth: The Return of the Master" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="66317" Issue="421673" />
-</Book>
-<Book Series="The Amazing Screw-On Head and Other Curious Objects (Anniversary Edition)" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="144429" Issue="941529" />
 </Book>
 <Book Series="Hellboy in Hell: The Descent" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="73886" Issue="452819" />
@@ -276,20 +279,8 @@
 <Book Series="Hellboy and the B.P.R.D.: 1956" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121079" Issue="718023" />
 </Book>
-<Book Series="Hellboy and the B.P.R.D.: Family Ties" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="138943" Issue="884933" />
-</Book>
-<Book Series="Hellboy And The B.P.R.D.: 1957 - Falling Sky" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="144428" Issue="941528" />
-</Book>
-<Book Series="Hellboy and the B.P.R.D.: 1957: Forgotten Lives" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="141605" Issue="907086" />
-</Book>
-<Book Series="Hellboy and the B.P.R.D.: 1957 - From Below" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="152796" Issue="1005528" />
-</Book>
-<Book Series="Hellboy and the B.P.R.D.: 1957: Fearful Symmetry" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="151782" Issue="997764" />
+<Book Series="Hellboy and the B.P.R.D.: 1957" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="157026" Issue="1046213" />
 </Book>
 <Book Series="Hellboy and the B.P.R.D.: The Beast of Vargu and Others" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="128316" Issue="772641" />
@@ -297,8 +288,26 @@
 <Book Series="Hellboy and the B.P.R.D.: The Return of Effie Kolb and Others" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="147040" Issue="961377" />
 </Book>
+<Book Series="Hellboy and the B.P.R.D.: The Secret of Chesbro House and Others" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="156317" Issue="1041942" />
+</Book>
+<Book Series="Castle Full of Blackbirds" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="152598" Issue="1004017" />
+</Book>
+<Book Series="Hellboy in Love" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="156316" Issue="1041941" />
+</Book>
+<Book Series="Panya: The Mummy's Curse" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="157531" Issue="1050660" />
+</Book>
+<Book Series="Miss Truesdale and the Fall of Hyperborea" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="157458" Issue="1050064" />
+</Book>
 <Book Series="The British Paranormal Society: Time Out of Mind" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148130" Issue="969813" />
+</Book>
+<Book Series="Koshchei in Hell" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="154393" Issue="1027461" />
 </Book>
 <Book Series="The Sword of Hyperborea" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="145074" Issue="946853" />
