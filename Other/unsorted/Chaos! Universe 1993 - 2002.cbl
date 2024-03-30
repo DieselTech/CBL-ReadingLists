@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>ladydeath</Name>
+<Name>Chaos! Universe 1993 - 2002</Name>
 <NumIssues>248</NumIssues>
 <Books>
 <Book Series="Evil Ernie" Number="1" Volume="1991" Year="1991">
