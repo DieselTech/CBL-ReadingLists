@@ -24,9 +24,6 @@
 <Book Series="Batman: Legends of the Dark Knight" Number="171" Volume="1992" Year="2003">
 <Database Name="cv" Series="4720" Issue="145369" />
 </Book>
-<Book Series="Hourman" Number="22" Volume="1999" Year="2001">
-<Database Name="cv" Series="6329" Issue="48240" />
-</Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="85" Volume="1992" Year="1996">
 <Database Name="cv" Series="4720" Issue="42669" />
 </Book>
