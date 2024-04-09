@@ -84,20 +84,23 @@
 <Book Series="Batman: Legends of the Dark Knight" Number="163" Volume="1992" Year="2003">
 <Database Name="cv" Series="4720" Issue="150121" />
 </Book>
-<Book Series="Beware the Creeper" Number="1" Volume="2003" Year="2003">
-<Database Name="cv" Series="11225" Issue="98434" />
+<Book Series="The Creeper" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="18140" Issue="123608" />
 </Book>
-<Book Series="Beware the Creeper" Number="2" Volume="2003" Year="2003">
-<Database Name="cv" Series="11225" Issue="98435" />
+<Book Series="The Creeper" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="18140" Issue="135340" />
 </Book>
-<Book Series="Beware the Creeper" Number="3" Volume="2003" Year="2003">
-<Database Name="cv" Series="11225" Issue="98436" />
+<Book Series="The Creeper" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="18140" Issue="135343" />
 </Book>
-<Book Series="Beware the Creeper" Number="4" Volume="2003" Year="2003">
-<Database Name="cv" Series="11225" Issue="98437" />
+<Book Series="The Creeper" Number="4" Volume="2006" Year="2006">
+<Database Name="cv" Series="18140" Issue="135344" />
 </Book>
-<Book Series="Beware the Creeper" Number="5" Volume="2003" Year="2003">
-<Database Name="cv" Series="11225" Issue="98438" />
+<Book Series="The Creeper" Number="5" Volume="2006" Year="2006">
+<Database Name="cv" Series="18140" Issue="135345" />
+</Book>
+<Book Series="The Creeper" Number="6" Volume="2006" Year="2006">
+<Database Name="cv" Series="18140" Issue="106286" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="102" Volume="1992" Year="1998">
 <Database Name="cv" Series="4720" Issue="44536" />
