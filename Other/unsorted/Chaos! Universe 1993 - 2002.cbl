@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Chaos! Universe 1993 - 2002</Name>
+<Name>Chaos Universe</Name>
 <NumIssues>248</NumIssues>
 <Books>
 <Book Series="Evil Ernie" Number="1" Volume="1991" Year="1991">
@@ -36,13 +36,13 @@
 <Book Series="Evil Ernie: Revenge" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="20018" Issue="119543" />
 </Book>
-<Book Series="Evil Ernie: Revenge" Number="2" Volume="1995" Year="1994">
+<Book Series="Evil Ernie: Revenge" Number="2" Volume="1994" Year="1994">
 <Database Name="cv" Series="20018" Issue="127176" />
 </Book>
-<Book Series="Evil Ernie: Revenge" Number="3" Volume="1995" Year="1995">
+<Book Series="Evil Ernie: Revenge" Number="3" Volume="1994" Year="1995">
 <Database Name="cv" Series="20018" Issue="127178" />
 </Book>
-<Book Series="Evil Ernie: Revenge" Number="4" Volume="1995" Year="1995">
+<Book Series="Evil Ernie: Revenge" Number="4" Volume="1994" Year="1995">
 <Database Name="cv" Series="20018" Issue="127179" />
 </Book>
 <Book Series="Lady Death" Number="1" Volume="1994" Year="1994">
