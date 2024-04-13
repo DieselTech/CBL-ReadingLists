@@ -139,22 +139,22 @@
         <Book Series="Wolverine" Number="19" Volume="2020" Year="2022">
             <Database Name="cv" Series="125121" Issue="899167" />
         </Book>
-        <Book Series="X-Force" Number="21" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="21" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="868600" />
         </Book>
-        <Book Series="X-Force" Number="22" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="22" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="878792" />
         </Book>
-        <Book Series="X-Force" Number="23" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="23" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="884069" />
         </Book>
-        <Book Series="X-Force" Number="24" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="24" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="889465" />
         </Book>
-        <Book Series="X-Force" Number="25" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="25" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="894133" />
         </Book>
-        <Book Series="X-Force" Number="26" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="26" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="898353" />
         </Book>
         <Book Series="Excalibur" Number="22" Volume="2019" Year="2021">

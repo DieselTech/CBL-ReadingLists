@@ -31,7 +31,7 @@
         <Book Series="New Mutants" Number="1" Volume="2019" Year="2020">
             <Database Name="cv" Series="122666" Issue="726210" />
         </Book>
-        <Book Series="X-Force" Number="1" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="726217" />
         </Book>
         <Book Series="Marauders" Number="2" Volume="2019" Year="2020">
@@ -55,10 +55,10 @@
         <Book Series="Fallen Angels" Number="4" Volume="2019" Year="2020">
             <Database Name="cv" Series="122814" Issue="731511" />
         </Book>
-        <Book Series="X-Force" Number="2" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="728984" />
         </Book>
-        <Book Series="X-Force" Number="3" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="730351" />
         </Book>
         <Book Series="New Mutants" Number="2" Volume="2019" Year="2020">
@@ -124,25 +124,25 @@
         <Book Series="New Mutants" Number="11" Volume="2019" Year="2020">
             <Database Name="cv" Series="122666" Issue="781436" />
         </Book>
-        <Book Series="X-Force" Number="4" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="731530" />
         </Book>
-        <Book Series="X-Force" Number="5" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="732895" />
         </Book>
-        <Book Series="X-Force" Number="6" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="6" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="735534" />
         </Book>
-        <Book Series="X-Force" Number="7" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="7" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="737172" />
         </Book>
-        <Book Series="X-Force" Number="8" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="8" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="738622" />
         </Book>
-        <Book Series="X-Force" Number="9" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="9" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="742380" />
         </Book>
-        <Book Series="X-Force" Number="10" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="10" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="775013" />
         </Book>
         <Book Series="X-Men" Number="5" Volume="2019" Year="2020">

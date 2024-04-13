@@ -52,13 +52,13 @@
         <Book Series="Wolverine" Number="25" Volume="2020" Year="2022">
             <Database Name="cv" Series="125121" Issue="950794" />
         </Book>
-        <Book Series="X-Force" Number="31" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="31" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="944669" />
         </Book>
-        <Book Series="X-Force" Number="32" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="32" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="950383" />
         </Book>
-        <Book Series="X-Force" Number="33" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="33" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="951451" />
         </Book>
         <Book Series="A.X.E.: Judgment Day" Number="4" Volume="2022" Year="2022">

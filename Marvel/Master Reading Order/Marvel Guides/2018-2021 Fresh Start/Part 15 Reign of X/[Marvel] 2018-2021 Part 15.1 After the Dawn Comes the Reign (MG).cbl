@@ -34,10 +34,10 @@
         <Book Series="Hellions" Number="11" Volume="2020" Year="2021">
             <Database Name="cv" Series="126015" Issue="847510" />
         </Book>
-        <Book Series="X-Force" Number="15" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="15" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="821504" />
         </Book>
-        <Book Series="X-Force" Number="16" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="16" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="825509" />
         </Book>
         <Book Series="Wolverine: Black, White &#38; Blood" Number="1" Volume="2020" Year="2021">
@@ -61,13 +61,13 @@
         <Book Series="Wolverine" Number="10" Volume="2020" Year="2021">
             <Database Name="cv" Series="125121" Issue="830035" />
         </Book>
-        <Book Series="X-Force" Number="17" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="17" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="828200" />
         </Book>
-        <Book Series="X-Force" Number="18" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="18" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="838891" />
         </Book>
-        <Book Series="X-Force" Number="19" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="19" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="844977" />
         </Book>
         <Book Series="Wolverine" Number="11" Volume="2020" Year="2021">

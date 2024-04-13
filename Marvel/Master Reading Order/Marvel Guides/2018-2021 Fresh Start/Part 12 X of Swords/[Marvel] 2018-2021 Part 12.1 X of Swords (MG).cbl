@@ -25,10 +25,10 @@
         <Book Series="X-Men" Number="12" Volume="2019" Year="2020">
             <Database Name="cv" Series="122077" Issue="799956" />
         </Book>
-        <Book Series="X-Force" Number="11" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="11" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="791931" />
         </Book>
-        <Book Series="X-Force" Number="12" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="12" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="797987" />
         </Book>
         <Book Series="X of Swords Handbook" Number="1" Volume="2020" Year="2020">
@@ -43,7 +43,7 @@
         <Book Series="Wolverine" Number="6" Volume="2020" Year="2020">
             <Database Name="cv" Series="125121" Issue="807579" />
         </Book>
-        <Book Series="X-Force" Number="13" Volume="2019" Year="2020">
+        <Book Series="X-Force" Number="13" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="807580" />
         </Book>
         <Book Series="Marauders" Number="13" Volume="2019" Year="2020">
@@ -82,7 +82,7 @@
         <Book Series="Wolverine" Number="7" Volume="2020" Year="2021">
             <Database Name="cv" Series="125121" Issue="817706" />
         </Book>
-        <Book Series="X-Force" Number="14" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="14" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="819097" />
         </Book>
         <Book Series="Hellions" Number="6" Volume="2020" Year="2021">
