@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 01 Year One [1987-2009]</Name>
-<NumIssues>60</NumIssues>
+<NumIssues>61</NumIssues>
 <Books>
 <Book Series="Batman" Number="404" Volume="1940" Year="1987">
 <Database Name="cv" Series="796" Issue="27733" />
@@ -95,6 +95,9 @@
 </Book>
 <Book Series="Legends of the Dark Knight" Number="15" Volume="1989" Year="1991">
 <Database Name="cv" Series="4200" Issue="33902" />
+</Book>
+<Book Series="Batman: The Man Who Laughs" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="22099" Issue="132956" />
 </Book>
 <Book Series="Batman: Journey Into Knight" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18389" Issue="109626" />

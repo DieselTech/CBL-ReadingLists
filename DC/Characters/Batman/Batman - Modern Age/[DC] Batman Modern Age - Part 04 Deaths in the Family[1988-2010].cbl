@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 04 Deaths in the Family[1988-2010]</Name>
-<NumIssues>82</NumIssues>
+<NumIssues>93</NumIssues>
 <Books>
 <Book Series="The Batman Chronicles" Number="9" Volume="1995" Year="1997">
 <Database Name="cv" Series="6598" Issue="173359" />
@@ -26,6 +26,12 @@
 </Book>
 <Book Series="Batman Confidential" Number="21" Volume="2007" Year="2008">
 <Database Name="cv" Series="18231" Issue="138367" />
+</Book>
+<Book Series="Batman: Ego" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="20592" Issue="123427" />
+</Book>
+<Book Series="Catwoman: Selina's Big Score" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="34842" Issue="228853" />
 </Book>
 <Book Series="Batman: Gotham Knights" Number="23" Volume="2000" Year="2002">
 <Database Name="cv" Series="7207" Issue="55317" />
@@ -72,6 +78,12 @@
 <Book Series="Nightwing" Number="106" Volume="1996" Year="2005">
 <Database Name="cv" Series="5755" Issue="96778" />
 </Book>
+<Book Series="Batman: Batgirl" Number="1" Volume="1998" Year="1998">
+<Database Name="cv" Series="25378" Issue="149829" />
+</Book>
+<Book Series="Batman: Hong Kong" Number="1" Volume="2003" Year="2003">
+<Database Name="cv" Series="19124" Issue="19124" />
+</Book>
 <Book Series="Batman Confidential" Number="13" Volume="2007" Year="2008">
 <Database Name="cv" Series="18231" Issue="127421" />
 </Book>
@@ -96,8 +108,14 @@
 <Book Series="Batman: The Cult" Number="4" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="29028" />
 </Book>
+<Book Series="Batman: The Killing Joke" Number="1" Volume="1988" Year="1988">
+<Database Name="cv" Series="19967" Issue="119383" />
+</Book>
 <Book Series="The Batman Chronicles" Number="5" Volume="1995" Year="1996">
 <Database Name="cv" Series="6598" Issue="75531" />
+</Book>
+<Book Series="Arkham Asylum" Number="1" Volume="1989" Year="1989">
+<Database Name="cv" Series="128951" Issue="1045156" />
 </Book>
 <Book Series="Batman" Number="426" Volume="1940" Year="1988">
 <Database Name="cv" Series="796" Issue="30377" />
@@ -135,14 +153,14 @@
 <Book Series="Black Orchid" Number="3" Volume="1988" Year="1989">
 <Database Name="cv" Series="3982" Issue="32118" />
 </Book>
-<Book Series="World's Finest" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="29128" Issue="179255" />
+<Book Series="World's Finest" Number="1" Volume="1990" Year="1990">
+<Database Name="cv" Series="31792" Issue="199247" />
 </Book>
-<Book Series="World's Finest" Number="2" Volume="2009" Year="2010">
-<Database Name="cv" Series="29128" Issue="184825" />
+<Book Series="World's Finest" Number="2" Volume="1990" Year="1990">
+<Database Name="cv" Series="31792" Issue="199248" />
 </Book>
-<Book Series="World's Finest" Number="3" Volume="2009" Year="2010">
-<Database Name="cv" Series="29128" Issue="189518" />
+<Book Series="World's Finest" Number="3" Volume="1990" Year="1990">
+<Database Name="cv" Series="31792" Issue="199249" />
 </Book>
 <Book Series="Batman" Number="455" Volume="1940" Year="1990">
 <Database Name="cv" Series="796" Issue="33268" />
@@ -180,6 +198,9 @@
 <Book Series="Robin" Number="5" Volume="1991" Year="1991">
 <Database Name="cv" Series="4563" Issue="34172" />
 </Book>
+<Book Series="Batman/Judge Dredd: Judgment on Gotham" Number="1" Volume="1991" Year="1991">
+<Database Name="cv" Series="19621" Issue="117703" />
+</Book>
 <Book Series="Batman: Shadow of the Bat" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="4724" Issue="35822" />
 </Book>
@@ -216,6 +237,15 @@
 <Book Series="Batman: Shadow of the Bat" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="4724" Issue="37262" />
 </Book>
+<Book Series="Batman: Birth of the Demon" Number="1" Volume="1992" Year="1993">
+<Database Name="cv" Series="34993" Issue="230752" />
+</Book>
+<Book Series="Batman: Bride of the Demon" Number="1" Volume="1990" Year="1990">
+<Database Name="cv" Series="34977" Issue="230554" />
+</Book>
+<Book Series="Batman: Son of the Demon" Number="1" Volume="1987" Year="1987">
+<Database Name="cv" Series="26065" Issue="154206" />
+</Book>
 <Book Series="Legends of the World's Finest" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199202" />
 </Book>
@@ -224,6 +254,9 @@
 </Book>
 <Book Series="Legends of the World's Finest" Number="3" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199204" />
+</Book>
+<Book Series="Detective Comics" Number="641" Volume="1937" Year="1992">
+<Database Name="cv" Series="18058" Issue="113112" />
 </Book>
 <Book Series="Detective Comics" Number="642" Volume="1937" Year="1992">
 <Database Name="cv" Series="18058" Issue="113113" />

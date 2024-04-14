@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 05 Knightfall [1991-2019]</Name>
-<NumIssues>135</NumIssues>
+<NumIssues>149</NumIssues>
 <Books>
 <Book Series="Batman: Sword of Azrael" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="9223" Issue="107898" />
@@ -15,26 +15,29 @@
 <Book Series="Batman: Sword of Azrael" Number="4" Volume="1992" Year="1993">
 <Database Name="cv" Series="9223" Issue="107901" />
 </Book>
-<Book Series="Azrael" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="28873" Issue="177921" />
+<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Database Name="cv" Series="21865" Issue="134775" />
 </Book>
-<Book Series="Azrael" Number="2" Volume="2009" Year="2010">
-<Database Name="cv" Series="28873" Issue="184041" />
+<Book Series="Azrael" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="40405" />
 </Book>
-<Book Series="Azrael" Number="3" Volume="2009" Year="2010">
-<Database Name="cv" Series="28873" Issue="187874" />
+<Book Series="Azrael" Number="2" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="40540" />
 </Book>
-<Book Series="Azrael" Number="4" Volume="2009" Year="2010">
-<Database Name="cv" Series="28873" Issue="193774" />
+<Book Series="Azrael" Number="3" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="120233" />
 </Book>
-<Book Series="Azrael" Number="5" Volume="2009" Year="2010">
-<Database Name="cv" Series="28873" Issue="197815" />
+<Book Series="Azrael" Number="4" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="121364" />
 </Book>
-<Book Series="Azrael" Number="6" Volume="2009" Year="2010">
-<Database Name="cv" Series="28873" Issue="201176" />
+<Book Series="Azrael" Number="5" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="40927" />
 </Book>
-<Book Series="Azrael" Number="7" Volume="2009" Year="2010">
-<Database Name="cv" Series="28873" Issue="208631" />
+<Book Series="Azrael" Number="6" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="41063" />
+</Book>
+<Book Series="Azrael" Number="7" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="41206" />
 </Book>
 <Book Series="Batman Unseen" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28478" Issue="175484" />
@@ -50,6 +53,9 @@
 </Book>
 <Book Series="Batman Unseen" Number="5" Volume="2009" Year="2010">
 <Database Name="cv" Series="28478" Issue="186215" />
+</Book>
+<Book Series="Batman/Judge Dredd: Vendetta In Gotham" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="19623" Issue="117705" />
 </Book>
 <Book Series="Batman: Vengeance of Bane Special" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="21857" Issue="131755" />
@@ -69,26 +75,26 @@
 <Book Series="Detective Comics" Number="654" Volume="1937" Year="1992">
 <Database Name="cv" Series="18058" Issue="113125" />
 </Book>
-<Book Series="Batman" Number="488" Volume="1940" Year="1993">
-<Database Name="cv" Series="796" Issue="36710" />
-</Book>
 <Book Series="Detective Comics" Number="655" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="113127" />
 </Book>
-<Book Series="Batman" Number="489" Volume="1940" Year="1993">
-<Database Name="cv" Series="796" Issue="36816" />
-</Book>
-<Book Series="Batman" Number="490" Volume="1940" Year="1993">
-<Database Name="cv" Series="796" Issue="36921" />
-</Book>
 <Book Series="Detective Comics" Number="656" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="113128" />
+</Book>
+<Book Series="Batman" Number="488" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="36710" />
 </Book>
 <Book Series="Detective Comics" Number="657" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="113129" />
 </Book>
 <Book Series="Detective Comics" Number="658" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="106803" />
+</Book>
+<Book Series="Batman" Number="489" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="36816" />
+</Book>
+<Book Series="Batman" Number="490" Volume="1940" Year="1993">
+<Database Name="cv" Series="796" Issue="36921" />
 </Book>
 <Book Series="Batman" Number="491" Volume="1940" Year="1993">
 <Database Name="cv" Series="796" Issue="37038" />
@@ -126,6 +132,9 @@
 <Book Series="Batman" Number="497" Volume="1940" Year="1993">
 <Database Name="cv" Series="796" Issue="37566" />
 </Book>
+<Book Series="Batman Villains Secret Files" Number="1" Volume="1998" Year="1998">
+<Database Name="cv" Series="19966" Issue="119382" />
+</Book>
 <Book Series="Detective Comics" Number="664" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="108497" />
 </Book>
@@ -159,17 +168,17 @@
 <Book Series="Batman" Number="500" Volume="1940" Year="1993">
 <Database Name="cv" Series="796" Issue="37881" />
 </Book>
-<Book Series="Robin" Number="1" Volume="1993" Year="1993">
-<Database Name="cv" Series="4975" Issue="38052" />
-</Book>
-<Book Series="Robin" Number="2" Volume="1993" Year="1993">
-<Database Name="cv" Series="4975" Issue="38208" />
-</Book>
 <Book Series="Detective Comics" Number="667" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="108519" />
 </Book>
 <Book Series="Detective Comics" Number="668" Volume="1937" Year="1993">
 <Database Name="cv" Series="18058" Issue="108520" />
+</Book>
+<Book Series="Robin" Number="1" Volume="1993" Year="1993">
+<Database Name="cv" Series="4975" Issue="38052" />
+</Book>
+<Book Series="Robin" Number="2" Volume="1993" Year="1993">
+<Database Name="cv" Series="4975" Issue="38208" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="19" Volume="1992" Year="1993">
 <Database Name="cv" Series="4724" Issue="37997" />
@@ -189,8 +198,8 @@
 <Book Series="Detective Comics" Number="670" Volume="1937" Year="1994">
 <Database Name="cv" Series="18058" Issue="106839" />
 </Book>
-<Book Series="Catwoman" Number="6" Volume="2018" Year="2019">
-<Database Name="cv" Series="112028" Issue="695603" />
+<Book Series="Catwoman" Number="6" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="38558" />
 </Book>
 <Book Series="Batman" Number="503" Volume="1940" Year="1994">
 <Database Name="cv" Series="796" Issue="38440" />
@@ -198,8 +207,8 @@
 <Book Series="Batman" Number="504" Volume="1940" Year="1994">
 <Database Name="cv" Series="796" Issue="38591" />
 </Book>
-<Book Series="Catwoman" Number="7" Volume="2018" Year="2019">
-<Database Name="cv" Series="112028" Issue="697604" />
+<Book Series="Catwoman" Number="7" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="38595" />
 </Book>
 <Book Series="Detective Comics" Number="671" Volume="1937" Year="1994">
 <Database Name="cv" Series="18058" Issue="108525" />
@@ -231,6 +240,9 @@
 <Book Series="Batman: Shadow of the Bat" Number="27" Volume="1992" Year="1994">
 <Database Name="cv" Series="4724" Issue="39122" />
 </Book>
+<Book Series="Showcase '94" Number="7" Volume="1994" Year="1994">
+<Database Name="cv" Series="21865" Issue="155532" />
+</Book>
 <Book Series="Detective Comics" Number="674" Volume="1937" Year="1994">
 <Database Name="cv" Series="18058" Issue="108527" />
 </Book>
@@ -242,9 +254,6 @@
 </Book>
 <Book Series="Detective Comics" Number="675" Volume="1937" Year="1994">
 <Database Name="cv" Series="18058" Issue="108528" />
-</Book>
-<Book Series="Showcase '94" Number="7" Volume="1994" Year="1994">
-<Database Name="cv" Series="21865" Issue="155532" />
 </Book>
 <Book Series="Justice League Task Force" Number="5" Volume="1993" Year="1993">
 <Database Name="cv" Series="4967" Issue="37894" />
@@ -288,8 +297,8 @@
 <Book Series="Robin" Number="8" Volume="1993" Year="1994">
 <Database Name="cv" Series="4975" Issue="39332" />
 </Book>
-<Book Series="Catwoman" Number="12" Volume="2018" Year="2019">
-<Database Name="cv" Series="112028" Issue="711241" />
+<Book Series="Catwoman" Number="12" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="39413" />
 </Book>
 <Book Series="Batman" Number="510" Volume="1940" Year="1994">
 <Database Name="cv" Series="796" Issue="39454" />
@@ -306,14 +315,11 @@
 <Book Series="Robin" Number="9" Volume="1993" Year="1994">
 <Database Name="cv" Series="4975" Issue="39471" />
 </Book>
-<Book Series="Catwoman" Number="13" Volume="2018" Year="2019">
-<Database Name="cv" Series="112028" Issue="713404" />
+<Book Series="Catwoman" Number="13" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="39458" />
 </Book>
-<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
-<Database Name="cv" Series="21865" Issue="134775" />
-</Book>
-<Book Series="Robin" Number="10" Volume="1993" Year="1994">
-<Database Name="cv" Series="4975" Issue="39611" />
+<Book Series="Robin" Number="0" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="39755" />
 </Book>
 <Book Series="Batman" Number="512" Volume="1940" Year="1994">
 <Database Name="cv" Series="796" Issue="39887" />
@@ -363,6 +369,9 @@
 <Book Series="Robin" Number="14" Volume="1993" Year="1995">
 <Database Name="cv" Series="4975" Issue="40423" />
 </Book>
+<Book Series="Nightwing: Alfred's Return" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="31190" Issue="194016" />
+</Book>
 <Book Series="Batman: Vengeance of Bane II" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="28220" Issue="173539" />
 </Book>
@@ -407,6 +416,42 @@
 </Book>
 <Book Series="Robin III: Cry of the Huntress" Number="6" Volume="1992" Year="1993">
 <Database Name="cv" Series="4752" Issue="36936" />
+</Book>
+<Book Series="Batman: Mitefall" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="33593" Issue="218090" />
+</Book>
+<Book Series="Batman" Number="0" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="39743" />
+</Book>
+<Book Series="Batman" Number="511" Volume="1940" Year="1994">
+<Database Name="cv" Series="796" Issue="39595" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="0" Volume="1992" Year="0">
+<Database Name="cv" Series="4724" Issue="39845" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="31" Volume="1992" Year="1994">
+<Database Name="cv" Series="4724" Issue="39697" />
+</Book>
+<Book Series="Detective Comics" Number="0" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="111985" />
+</Book>
+<Book Series="Detective Comics" Number="678" Volume="1937" Year="1994">
+<Database Name="cv" Series="18058" Issue="113131" />
+</Book>
+<Book Series="Catwoman" Number="0" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="39840" />
+</Book>
+<Book Series="Catwoman" Number="14" Volume="1993" Year="1994">
+<Database Name="cv" Series="4955" Issue="39692" />
+</Book>
+<Book Series="Batman: Legends of the Dark Knight" Number="0" Volume="1992" Year="1994">
+<Database Name="cv" Series="4720" Issue="39832" />
+</Book>
+<Book Series="Robin" Number="10" Volume="1993" Year="1994">
+<Database Name="cv" Series="4975" Issue="39611" />
+</Book>
+<Book Series="Batman/Judge Dredd: The Ultimate Riddle" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="20298" Issue="121161" />
 </Book>
 </Books>
 <Matchers />
