@@ -7,7 +7,7 @@
         <Book Series="Marauders" Number="21" Volume="2019" Year="2021">
             <Database Name="cv" Series="122218" Issue="857597" />
         </Book>
-        <Book Series="X-Force" Number="20" Volume="2019" Year="2021">
+        <Book Series="X-Force" Number="20" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="857598" />
         </Book>
         <Book Series="Hellions" Number="12" Volume="2020" Year="2021">

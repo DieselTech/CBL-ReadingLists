@@ -24,7 +24,7 @@
         <Book Series="A.X.E.: Death to the Mutants" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="144577" Issue="942722" />
         </Book>
-        <Book Series="X-Force" Number="30" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="30" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="942706" />
         </Book>
         <Book Series="X-Men" Number="13" Volume="2021" Year="2022">
@@ -36,7 +36,7 @@
         <Book Series="Wolverine" Number="24" Volume="2020" Year="2022">
             <Database Name="cv" Series="125121" Issue="946208" />
         </Book>
-        <Book Series="X-Force" Number="31" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="31" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="944669" />
         </Book>
         <Book Series="X-Men" Number="14" Volume="2021" Year="2022">
@@ -57,7 +57,7 @@
         <Book Series="A.X.E.: Judgment Day" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="144123" Issue="946709" />
         </Book>
-        <Book Series="X-Force" Number="32" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="32" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="950383" />
         </Book>
         <Book Series="X-Men: Red" Number="6" Volume="2022" Year="2022">
@@ -99,7 +99,7 @@
         <Book Series="Immortal X-Men" Number="7" Volume="2022" Year="2022">
             <Database Name="cv" Series="142053" Issue="950483" />
         </Book>
-        <Book Series="X-Force" Number="33" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="33" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="951451" />
         </Book>
         <Book Series="X-Men: Red" Number="7" Volume="2022" Year="2022">
