@@ -153,20 +153,20 @@
 <Book Series="Dark Tower: The Gunslinger - The Way Station" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="45071" Issue="333538" />
 </Book>
-<Book Series="Grimm Fairy Tales Angel: One-Shot" Number="1" Volume="2012" Year="2012">
-<Database Name="cv" Series="49878" Issue="342293" />
+<Book Series="Dark Tower: The Gunslinger - The Man in Black" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="49876" Issue="342293" />
 </Book>
-<Book Series="Grimm Fairy Tales Angel: One-Shot" Number="2" Volume="2012" Year="2012">
-<Database Name="cv" Series="49878" Issue="346946" />
+<Book Series="Dark Tower: The Gunslinger - The Man in Black" Number="2" Volume="2012" Year="2012">
+<Database Name="cv" Series="49876" Issue="346946" />
 </Book>
-<Book Series="Grimm Fairy Tales Angel: One-Shot" Number="3" Volume="2012" Year="2012">
-<Database Name="cv" Series="49878" Issue="351098" />
+<Book Series="Dark Tower: The Gunslinger - The Man in Black" Number="3" Volume="2012" Year="2012">
+<Database Name="cv" Series="49876" Issue="351098" />
 </Book>
-<Book Series="Grimm Fairy Tales Angel: One-Shot" Number="4" Volume="2012" Year="2012">
-<Database Name="cv" Series="49878" Issue="357778" />
+<Book Series="Dark Tower: The Gunslinger - The Man in Black" Number="4" Volume="2012" Year="2012">
+<Database Name="cv" Series="49876" Issue="357778" />
 </Book>
-<Book Series="Grimm Fairy Tales Angel: One-Shot" Number="5" Volume="2012" Year="2012">
-<Database Name="cv" Series="49878" Issue="362425" />
+<Book Series="Dark Tower: The Gunslinger - The Man in Black" Number="5" Volume="2012" Year="2012">
+<Database Name="cv" Series="49876" Issue="362425" />
 </Book>
 <Book Series="Dark Tower: The Gunslinger - Sheemie's Tale" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="57296" Issue="386476" />
