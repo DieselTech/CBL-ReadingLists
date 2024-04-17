@@ -13,7 +13,7 @@
         <Book Series="Immortal X-Men" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="142053" Issue="935751" />
         </Book>
-        <Book Series="X-Force" Number="30" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="30" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="942706" />
         </Book>
         <Book Series="X-Terminators" Number="1" Volume="2022" Year="2022">

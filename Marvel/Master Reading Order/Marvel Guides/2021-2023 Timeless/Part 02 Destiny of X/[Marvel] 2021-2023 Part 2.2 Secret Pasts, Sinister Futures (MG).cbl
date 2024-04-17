@@ -10,13 +10,13 @@
         <Book Series="Sabretooth" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="141524" Issue="934984" />
         </Book>
-        <Book Series="X-Force" Number="27" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="27" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="914648" />
         </Book>
-        <Book Series="X-Force" Number="28" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="28" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="924786" />
         </Book>
-        <Book Series="X-Force" Number="29" Volume="2019" Year="2022">
+        <Book Series="X-Force" Number="29" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="933078" />
         </Book>
         <Book Series="Wolverine" Number="20" Volume="2020" Year="2022">
