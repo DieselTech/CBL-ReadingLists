@@ -561,8 +561,8 @@
 <Book Series="Avengers Beyond" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="149051" Issue="1003570" />
 </Book>
-<Book Series="Avengers Beyond" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="149051" Issue="979428" />
+<Book Series="Thor: Lightning and Lament" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="143859" Issue="933094" />
 </Book>
 <Book Series="Strange" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141784" Issue="909804" />
@@ -765,8 +765,8 @@
 <Book Series="Genis-Vell: Captain Marvel" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="144206" Issue="956850" />
 </Book>
-<Book Series="Marvel's Voices: Pride" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="151966" Issue="999054" />
+<Book Series="Marvel's Voices: Pride" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="143815" Issue="932238" />
 </Book>
 <Book Series="X-Men: Red" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="142134" Issue="933084" />
@@ -1575,8 +1575,8 @@
 <Book Series="Spider-Man" Number="7" Volume="2022" Year="2023">
 <Database Name="cv" Series="145364" Issue="981445" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="152899" Issue="1006553" />
+<Book Series="The Avengers: War Across Time" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="147434" Issue="964214" />
 </Book>
 <Book Series="Avengers: War Across Time" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="969378" />
@@ -2383,7 +2383,7 @@
 <Database Name="cv" Series="153472" Issue="1013501" />
 </Book>
 <Book Series="X-Men Annual" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="146988" Issue="960987" />
+<Database Name="cv" Series="153608" Issue="1014914" />
 </Book>
 <Book Series="Avengers Annual" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="153723" Issue="1018017" />
