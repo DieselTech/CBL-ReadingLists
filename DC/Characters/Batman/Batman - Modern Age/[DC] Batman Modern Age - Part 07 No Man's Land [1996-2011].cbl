@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 07 No Man's Land [1996-2011]</Name>
-<NumIssues>152</NumIssues>
+<NumIssues>157</NumIssues>
 <Books>
 <Book Series="Nightwing" Number="9" Volume="1996" Year="1997">
 <Database Name="cv" Series="5755" Issue="43814" />
-</Book>
-<Book Series="Nightwing Annual" Number="1" Volume="1997" Year="1997">
-<Database Name="cv" Series="18491" Issue="119274" />
 </Book>
 <Book Series="Nightwing" Number="10" Volume="1996" Year="1997">
 <Database Name="cv" Series="5755" Issue="43926" />
@@ -35,6 +32,9 @@
 </Book>
 <Book Series="Nightwing" Number="18" Volume="1996" Year="1998">
 <Database Name="cv" Series="5755" Issue="44825" />
+</Book>
+<Book Series="Nightwing Annual" Number="1" Volume="1997" Year="1997">
+<Database Name="cv" Series="18491" Issue="119274" />
 </Book>
 <Book Series="Batman: Gordon of Gotham" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="9390" Issue="76138" />
@@ -102,6 +102,9 @@
 <Book Series="Robin" Number="52" Volume="1993" Year="1998">
 <Database Name="cv" Series="4975" Issue="44853" />
 </Book>
+<Book Series="Batman: Blackgate, Isle of Men" Number="1" Volume="1998" Year="1998">
+<Database Name="cv" Series="18932" Issue="111986" />
+</Book>
 <Book Series="Batman: Shadow of the Bat" Number="74" Volume="1992" Year="1998">
 <Database Name="cv" Series="4724" Issue="75569" />
 </Book>
@@ -119,6 +122,9 @@
 </Book>
 <Book Series="Catwoman" Number="57" Volume="1993" Year="1998">
 <Database Name="cv" Series="4955" Issue="46572" />
+</Book>
+<Book Series="Batman: Arkham Asylum - Tales of Madness" Number="1" Volume="1998" Year="1998">
+<Database Name="cv" Series="24748" Issue="145992" />
 </Book>
 <Book Series="Robin" Number="53" Volume="1993" Year="1998">
 <Database Name="cv" Series="4975" Issue="44933" />
@@ -213,6 +219,11 @@
 <Book Series="Azrael: Agent of the Bat" Number="50" Volume="1998" Year="1999">
 <Database Name="cv" Series="19721" Issue="123238" />
 </Book>
+<!-- The TPBs pick individual stories from Secret Files as it is an anthology.  This is the first reference. -->
+<Book Series="Batman: No Man's Land Secret Files" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="33363" Issue="238533" />
+</Book>
+<!-- These TPBs were based off the 4 volume 2011/2012 release, which have the NML comics that aren't just Bat-comics.  This is the way. -->
 <Book Series="Batman: No Man's Land" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="44947" Issue="309367" />
 </Book>
@@ -291,12 +302,16 @@
 <Book Series="Detective Comics" Number="734" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="113208" />
 </Book>
+<Book Series="Young Justice in No Man's Land" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="21891" Issue="131873" />
+</Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="120" Volume="1992" Year="1999">
 <Database Name="cv" Series="4720" Issue="45953" />
 </Book>
 <Book Series="Robin" Number="67" Volume="1993" Year="1999">
 <Database Name="cv" Series="4975" Issue="45982" />
 </Book>
+<!-- While this JLA issue isn't in this TPB series, it's standalone and relevant to the NML stories being told. -->
 <Book Series="JLA" Number="32" Volume="1997" Year="1999">
 <Database Name="cv" Series="5957" Issue="45979" />
 </Book>
@@ -339,8 +354,18 @@
 <Book Series="Batman: Legends of the Dark Knight" Number="121" Volume="1992" Year="1999">
 <Database Name="cv" Series="4720" Issue="45997" />
 </Book>
-<Book Series="The Batman Chronicles" Number="18" Volume="1995" Year="1999">
-<Database Name="cv" Series="6598" Issue="75543" />
+<Book Series="Batman: Harley Quinn" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="20721" Issue="124253" />
+</Book>
+<!-- The original source inserts Nightwing 30-39 here, but these are already blended into the NML TPBs -->
+<Book Series="Batman: Shadow of the Bat" Number="89" Volume="1992" Year="1999">
+<Database Name="cv" Series="4724" Issue="75584" />
+</Book>
+<Book Series="Batman" Number="569" Volume="1940" Year="1999">
+<Database Name="cv" Series="796" Issue="45995" />
+</Book>
+<Book Series="Detective Comics" Number="736" Volume="1937" Year="1999">
+<Database Name="cv" Series="18058" Issue="113209" />
 </Book>
 <Book Series="Robin" Number="68" Volume="1993" Year="1999">
 <Database Name="cv" Series="4975" Issue="46023" />
@@ -351,14 +376,8 @@
 <Book Series="Robin" Number="70" Volume="1993" Year="1999">
 <Database Name="cv" Series="4975" Issue="46116" />
 </Book>
-<Book Series="Batman: Shadow of the Bat" Number="89" Volume="1992" Year="1999">
-<Database Name="cv" Series="4724" Issue="75584" />
-</Book>
-<Book Series="Batman" Number="569" Volume="1940" Year="1999">
-<Database Name="cv" Series="796" Issue="45995" />
-</Book>
-<Book Series="Detective Comics" Number="736" Volume="1937" Year="1999">
-<Database Name="cv" Series="18058" Issue="113209" />
+<Book Series="Azrael: Agent of the Bat" Number="58" Volume="1998" Year="1999">
+<Database Name="cv" Series="19721" Issue="123291" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="122" Volume="1992" Year="1999">
 <Database Name="cv" Series="4720" Issue="46046" />
@@ -372,8 +391,11 @@
 <Book Series="Detective Comics" Number="737" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="113210" />
 </Book>
-<Book Series="Azrael: Agent of the Bat" Number="58" Volume="1998" Year="1999">
-<Database Name="cv" Series="19721" Issue="123291" />
+<Book Series="Batman: Legends of the Dark Knight" Number="123" Volume="1992" Year="1999">
+<Database Name="cv" Series="4720" Issue="46090" />
+</Book>
+<Book Series="Batman: Shadow of the Bat" Number="91" Volume="1992" Year="1999">
+<Database Name="cv" Series="4724" Issue="75586" />
 </Book>
 <Book Series="Batman" Number="571" Volume="1940" Year="1999">
 <Database Name="cv" Series="796" Issue="46088" />
@@ -381,23 +403,22 @@
 <Book Series="Detective Comics" Number="738" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="107358" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="123" Volume="1992" Year="1999">
-<Database Name="cv" Series="4720" Issue="46090" />
-</Book>
-<Book Series="Batman: Shadow of the Bat" Number="91" Volume="1992" Year="1999">
-<Database Name="cv" Series="4724" Issue="75586" />
-</Book>
-<Book Series="Nightwing" Number="38" Volume="1996" Year="1999">
-<Database Name="cv" Series="5755" Issue="46169" />
-</Book>
-<Book Series="Nightwing" Number="39" Volume="1996" Year="2000">
-<Database Name="cv" Series="5755" Issue="46229" />
-</Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="124" Volume="1992" Year="1999">
 <Database Name="cv" Series="4720" Issue="46982" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="92" Volume="1992" Year="1999">
 <Database Name="cv" Series="4724" Issue="75587" />
+</Book>
+<!-- No Man's Land Secret Files is referenced already in an earlier section -->
+<Book Series="Robin" Number="71" Volume="1993" Year="1999">
+<Database Name="cv" Series="4975" Issue="46164" />
+</Book>
+<Book Series="Robin" Number="72" Volume="1993" Year="2000">
+<Database Name="cv" Series="4975" Issue="46225" />
+</Book>
+
+<Book Series="The Batman Chronicles" Number="18" Volume="1995" Year="1999">
+<Database Name="cv" Series="6598" Issue="75543" />
 </Book>
 <Book Series="Batman" Number="572" Volume="1940" Year="1999">
 <Database Name="cv" Series="796" Issue="46131" />
@@ -408,26 +429,20 @@
 <Book Series="Batman: Legends of the Dark Knight" Number="125" Volume="1992" Year="2000">
 <Database Name="cv" Series="4720" Issue="46983" />
 </Book>
-<Book Series="Robin" Number="71" Volume="1993" Year="1999">
-<Database Name="cv" Series="4975" Issue="46164" />
-</Book>
-<Book Series="Robin" Number="72" Volume="1993" Year="2000">
-<Database Name="cv" Series="4975" Issue="46225" />
-</Book>
-<Book Series="Robin" Number="73" Volume="1993" Year="2000">
-<Database Name="cv" Series="4975" Issue="46269" />
+<Book Series="Azrael: Agent of the Bat" Number="59" Volume="1998" Year="1999">
+<Database Name="cv" Series="19721" Issue="123292" />
 </Book>
 <Book Series="Catwoman" Number="75" Volume="1993" Year="1999">
 <Database Name="cv" Series="4955" Issue="46591" />
 </Book>
-<Book Series="Azrael: Agent of the Bat" Number="59" Volume="1998" Year="1999">
-<Database Name="cv" Series="19721" Issue="123292" />
-</Book>
 <Book Series="Batman: Shadow of the Bat" Number="93" Volume="1992" Year="2000">
 <Database Name="cv" Series="4724" Issue="75588" />
 </Book>
-<Book Series="Azrael: Agent of the Bat" Number="60" Volume="1998" Year="2000">
-<Database Name="cv" Series="19721" Issue="123294" />
+<Book Series="Nightwing" Number="38" Volume="1996" Year="1999">
+<Database Name="cv" Series="5755" Issue="46169" />
+</Book>
+<Book Series="Nightwing" Number="39" Volume="1996" Year="2000">
+<Database Name="cv" Series="5755" Issue="46229" />
 </Book>
 <Book Series="Batman: No Man's Land" Number="0" Volume="1999" Year="1999">
 <Database Name="cv" Series="21890" Issue="131872" />
@@ -438,11 +453,17 @@
 <Book Series="Detective Comics" Number="740" Volume="1937" Year="2000">
 <Database Name="cv" Series="18058" Issue="113211" />
 </Book>
+<Book Series="Azrael: Agent of the Bat" Number="60" Volume="1998" Year="2000">
+<Database Name="cv" Series="19721" Issue="123294" />
+</Book>
 <Book Series="Catwoman" Number="76" Volume="1993" Year="2000">
 <Database Name="cv" Series="4955" Issue="46592" />
 </Book>
 <Book Series="Catwoman" Number="77" Volume="1993" Year="2000">
 <Database Name="cv" Series="4955" Issue="46593" />
+</Book>
+<Book Series="Azrael: Agent of the Bat" Number="61" Volume="1998" Year="2000">
+<Database Name="cv" Series="19721" Issue="123296" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="126" Volume="1992" Year="2000">
 <Database Name="cv" Series="4720" Issue="46984" />
@@ -453,8 +474,8 @@
 <Book Series="Detective Comics" Number="741" Volume="1937" Year="2000">
 <Database Name="cv" Series="18058" Issue="113212" />
 </Book>
-<Book Series="Azrael: Agent of the Bat" Number="61" Volume="1998" Year="2000">
-<Database Name="cv" Series="19721" Issue="123296" />
+<Book Series="Robin" Number="73" Volume="1993" Year="2000">
+<Database Name="cv" Series="4975" Issue="46269" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="94" Volume="1992" Year="2000">
 <Database Name="cv" Series="4724" Issue="75589" />

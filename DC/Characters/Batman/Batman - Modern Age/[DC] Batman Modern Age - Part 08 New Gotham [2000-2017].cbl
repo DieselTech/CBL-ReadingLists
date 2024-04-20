@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 08 New Gotham [2000-2017]</Name>
-<NumIssues>117</NumIssues>
+<NumIssues>124</NumIssues>
 <Books>
 <Book Series="Batman: Gotham Knights" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="7207" Issue="55295" />
@@ -39,42 +39,40 @@
 <Book Series="Batman: Gotham Knights" Number="12" Volume="2000" Year="2001">
 <Database Name="cv" Series="7207" Issue="55306" />
 </Book>
-<Book Series="Batgirl" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="92542" Issue="541156" />
+<Book Series="Batgirl" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="75503" />
 </Book>
-<Book Series="Batgirl" Number="2" Volume="2016" Year="2016">
-<Database Name="cv" Series="92542" Issue="546025" />
+<Book Series="Batgirl" Number="2" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="75504" />
 </Book>
-<Book Series="Batgirl" Number="3" Volume="2016" Year="2016">
-<Database Name="cv" Series="92542" Issue="551263" />
+<Book Series="Batgirl" Number="3" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="121118" />
 </Book>
-<Book Series="Batgirl" Number="4" Volume="2016" Year="2016">
-<Database Name="cv" Series="92542" Issue="555481" />
+<Book Series="Batgirl" Number="4" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="75505" />
 </Book>
-<Book Series="Batgirl" Number="5" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="558926" />
+<Book Series="Batgirl" Number="5" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="75506" />
 </Book>
-<Book Series="Batgirl" Number="6" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="571625" />
+<Book Series="Batgirl" Number="6" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="75507" />
 </Book>
-<Book Series="Batgirl" Number="7" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="578416" />
+<Book Series="Batgirl" Number="7" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="75508" />
 </Book>
-<Book Series="Batgirl" Number="8" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="582486" />
+<Book Series="Batgirl" Number="8" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="75509" />
 </Book>
-<Book Series="Batgirl" Number="9" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="588527" />
+<Book Series="Batgirl" Number="9" Volume="2000" Year="2000">
+<Database Name="cv" Series="7205" Issue="75510" />
 </Book>
-<Book Series="Batgirl" Number="10" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="593219" />
+<Book Series="Batgirl" Number="10" Volume="2000" Year="2001">
+<Database Name="cv" Series="7205" Issue="75511" />
 </Book>
-<Book Series="Batgirl" Number="11" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="597155" />
+<Book Series="Batgirl" Number="11" Volume="2000" Year="2001">
+<Database Name="cv" Series="7205" Issue="75512" />
 </Book>
-<Book Series="Batgirl" Number="12" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="605047" />
-</Book>
+<!-- Batgirl issue 12 moved to follow Robin #86 to align with Officer Down story -->
 <Book Series="Detective Comics" Number="742" Volume="1937" Year="2000">
 <Database Name="cv" Series="18058" Issue="113213" />
 </Book>
@@ -147,6 +145,9 @@
 <Book Series="Batman: Turning Points" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="7507" Issue="54550" />
 </Book>
+<Book Series="Batman/Joker: Switch" Number="1" Volume="2003" Year="2003">
+<Database Name="cv" Series="21145" Issue="126986" />
+</Book>
 <Book Series="Batman" Number="582" Volume="1940" Year="2000">
 <Database Name="cv" Series="796" Issue="98697" />
 </Book>
@@ -161,6 +162,9 @@
 </Book>
 <Book Series="Batman" Number="586" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="98701" />
+</Book>
+<Book Series="Batman/Scarface: A Psychodrama" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="25423" Issue="150024" />
 </Book>
 <Book Series="Batman: The Ankh" Number="1" Volume="2001" Year="2002">
 <Database Name="cv" Series="34427" Issue="224810" />
@@ -213,14 +217,24 @@
 <Book Series="Nightwing" Number="50" Volume="1996" Year="2000">
 <Database Name="cv" Series="5755" Issue="47046" />
 </Book>
+<Book Series="Nightwing Secret Files" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="33367" Issue="218617" />
+</Book>
 <Book Series="Nightwing 80-Page Giant" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="33274" Issue="215088" />
+</Book>
+<Book Series="Batman: Room Full of Strangers" Number="1" Volume="2004" Year="2004">
+<Database Name="cv" Series="34994" Issue="230557" />
 </Book>
 <Book Series="Batman" Number="587" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="98702" />
 </Book>
 <Book Series="Robin" Number="86" Volume="1993" Year="2001">
 <Database Name="cv" Series="4975" Issue="46631" />
+</Book>
+<!-- See earlier note for positioning of Batgirl #12 -->
+<Book Series="Batgirl" Number="12" Volume="2000" Year="2001">
+<Database Name="cv" Series="7205" Issue="121088" />
 </Book>
 <Book Series="Birds of Prey" Number="27" Volume="1999" Year="2001">
 <Database Name="cv" Series="6498" Issue="73280" />
@@ -236,6 +250,9 @@
 </Book>
 <Book Series="Batman: Gotham Knights" Number="13" Volume="2000" Year="2001">
 <Database Name="cv" Series="7207" Issue="55307" />
+</Book>
+<Book Series="Batman: 80-Page Giant 2010" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="37100" Issue="247472" />
 </Book>
 <Book Series="Batman" Number="588" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="51380" />
@@ -255,8 +272,15 @@
 <Book Series="Wonder Woman" Number="161" Volume="1987" Year="2000">
 <Database Name="cv" Series="3824" Issue="53552" />
 </Book>
+<Book Series="Batman: Gotham City Secret Files" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="29698" Issue="182833" />
+</Book>
 <Book Series="Detective Comics" Number="755" Volume="1937" Year="2001">
 <Database Name="cv" Series="18058" Issue="113221" />
+</Book>
+<!-- This is the beginning of the story that concludes in DC #756 -->
+<Book Series="Superman" Number="168" Volume="1987" Year="2001">
+<Database Name="cv" Series="3816" Issue="70872" />
 </Book>
 <Book Series="Detective Comics" Number="756" Volume="1937" Year="2001">
 <Database Name="cv" Series="18058" Issue="113222" />
@@ -294,6 +318,7 @@
 <Book Series="Batman" Number="592" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="83260" />
 </Book>
+<!-- This just about stands alone without the rest of the Our Worlds at War events, and was part of the original TPB. -->
 <Book Series="Batman: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="30756" Issue="189888" />
 </Book>
@@ -350,6 +375,9 @@
 </Book>
 <Book Series="Harley Quinn" Number="13" Volume="2000" Year="2001">
 <Database Name="cv" Series="9494" Issue="78194" />
+</Book>
+<Book Series="Harley Quinn: Our Worlds at War" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="27784" Issue="170128" />
 </Book>
 </Books>
 <Matchers />
