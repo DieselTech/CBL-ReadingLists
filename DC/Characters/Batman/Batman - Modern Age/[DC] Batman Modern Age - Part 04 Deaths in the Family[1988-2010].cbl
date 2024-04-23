@@ -162,15 +162,6 @@
 <Book Series="World's Finest" Number="3" Volume="1990" Year="1990">
 <Database Name="cv" Series="31792" Issue="199249" />
 </Book>
-<Book Series="Batman" Number="455" Volume="1940" Year="1990">
-<Database Name="cv" Series="796" Issue="33268" />
-</Book>
-<Book Series="Batman" Number="456" Volume="1940" Year="1990">
-<Database Name="cv" Series="796" Issue="33384" />
-</Book>
-<Book Series="Batman" Number="457" Volume="1940" Year="1990">
-<Database Name="cv" Series="796" Issue="33486" />
-</Book>
 <Book Series="Detective Comics" Number="618" Volume="1937" Year="1990">
 <Database Name="cv" Series="18058" Issue="113077" />
 </Book>
@@ -182,6 +173,15 @@
 </Book>
 <Book Series="Detective Comics" Number="621" Volume="1937" Year="1990">
 <Database Name="cv" Series="18058" Issue="113081" />
+</Book>
+<Book Series="Batman" Number="455" Volume="1940" Year="1990">
+<Database Name="cv" Series="796" Issue="33268" />
+</Book>
+<Book Series="Batman" Number="456" Volume="1940" Year="1990">
+<Database Name="cv" Series="796" Issue="33384" />
+</Book>
+<Book Series="Batman" Number="457" Volume="1940" Year="1990">
+<Database Name="cv" Series="796" Issue="33486" />
 </Book>
 <Book Series="Robin" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4563" Issue="33743" />
@@ -237,14 +237,14 @@
 <Book Series="Batman: Shadow of the Bat" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="4724" Issue="37262" />
 </Book>
-<Book Series="Batman: Birth of the Demon" Number="1" Volume="1992" Year="1993">
-<Database Name="cv" Series="34993" Issue="230752" />
+<Book Series="Batman: Son of the Demon" Number="1" Volume="1987" Year="1987">
+<Database Name="cv" Series="26065" Issue="154206" />
 </Book>
 <Book Series="Batman: Bride of the Demon" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="34977" Issue="230554" />
 </Book>
-<Book Series="Batman: Son of the Demon" Number="1" Volume="1987" Year="1987">
-<Database Name="cv" Series="26065" Issue="154206" />
+<Book Series="Batman: Birth of the Demon" Number="1" Volume="1992" Year="1993">
+<Database Name="cv" Series="34993" Issue="230752" />
 </Book>
 <Book Series="Legends of the World's Finest" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199202" />
