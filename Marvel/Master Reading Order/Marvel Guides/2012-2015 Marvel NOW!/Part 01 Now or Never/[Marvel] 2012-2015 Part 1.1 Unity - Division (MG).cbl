@@ -6,17 +6,17 @@
 <Book Series="Marvel NOW! Point One" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="53097" Issue="362257" />
 </Book>
-<Book Series="Uncanny Avengers" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="85318" Issue="477857" />
+<Book Series="Uncanny Avengers" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="52880" Issue="360884" />
 </Book>
-<Book Series="Uncanny Avengers" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="85318" Issue="480685" />
+<Book Series="Uncanny Avengers" Number="2" Volume="2012" Year="2013">
+<Database Name="cv" Series="52880" Issue="370249" />
 </Book>
-<Book Series="Uncanny Avengers" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="85318" Issue="484908" />
+<Book Series="Uncanny Avengers" Number="3" Volume="2012" Year="2013">
+<Database Name="cv" Series="52880" Issue="381419" />
 </Book>
-<Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="85318" Issue="488663" />
+<Book Series="Uncanny Avengers" Number="4" Volume="2012" Year="2013">
+<Database Name="cv" Series="52880" Issue="388564" />
 </Book>
 <Book Series="Nova" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="57535" Issue="387242" />
@@ -300,8 +300,8 @@
 <Book Series="Wolverine &#38; the X-Men" Number="24" Volume="2011" Year="2013">
 <Database Name="cv" Series="43539" Issue="381421" />
 </Book>
-<Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2015">
-<Database Name="cv" Series="85318" Issue="493053" />
+<Book Series="Uncanny Avengers" Number="5" Volume="2012" Year="2013">
+<Database Name="cv" Series="52880" Issue="395258" />
 </Book>
 <Book Series="Uncanny X-Men" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="386141" />
