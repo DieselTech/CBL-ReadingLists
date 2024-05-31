@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 10 Hush [1995-2006]</Name>
-<NumIssues>82</NumIssues>
+<NumIssues>86</NumIssues>
 <Books>
+<Book Series="Batman/Nightwing: Bloodborne" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="28199" Issue="173416" />
+</Book>
 <Book Series="Batman" Number="608" Volume="1940" Year="2002">
 <Database Name="cv" Series="796" Issue="124939" />
 </Book>
@@ -33,6 +36,9 @@
 <Book Series="Detective Comics" Number="789" Volume="1937" Year="2004">
 <Database Name="cv" Series="18058" Issue="113358" />
 </Book>
+<Book Series="Detective Comics" Number="790" Volume="1937" Year="2004">
+<Database Name="cv" Series="18058" Issue="113359" />
+</Book>
 <Book Series="Batman" Number="613" Volume="1940" Year="2003">
 <Database Name="cv" Series="796" Issue="121730" />
 </Book>
@@ -53,6 +59,9 @@
 </Book>
 <Book Series="Batman" Number="619" Volume="1940" Year="2003">
 <Database Name="cv" Series="796" Issue="91388" />
+</Book>
+<Book Series="Wizard: The Comics Magazine" Number="0" Volume="1991" Year="2003">
+<Database Name="cv" Series="18692" Issue="110476" />
 </Book>
 <Book Series="Detective Comics" Number="800" Volume="1937" Year="2005">
 <Database Name="cv" Series="18058" Issue="112049" />
@@ -129,9 +138,6 @@
 <Book Series="Batman: Gotham Knights" Number="55" Volume="2000" Year="2004">
 <Database Name="cv" Series="7207" Issue="121508" />
 </Book>
-<Book Series="Batman: Gotham Knights" Number="56" Volume="2000" Year="2004">
-<Database Name="cv" Series="7207" Issue="100898" />
-</Book>
 <Book Series="Batman: Gotham Knights" Number="66" Volume="2000" Year="2005">
 <Database Name="cv" Series="7207" Issue="141730" />
 </Book>
@@ -153,44 +159,50 @@
 <Book Series="Superman/Batman" Number="6" Volume="2003" Year="2004">
 <Database Name="cv" Series="10938" Issue="93957" />
 </Book>
-<Book Series="Catwoman" Number="25" Volume="1993" Year="1995">
-<Database Name="cv" Series="4955" Issue="41548" />
+<Book Series="Superman/Batman Secret Files 2003" Number="1" Volume="2003" Year="2003">
+<Database Name="cv" Series="27679" Issue="169280" />
 </Book>
-<Book Series="Catwoman" Number="26" Volume="1993" Year="1995">
-<Database Name="cv" Series="4955" Issue="41671" />
+<Book Series="Catwoman" Number="25" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="109423" />
 </Book>
-<Book Series="Catwoman" Number="27" Volume="1993" Year="1995">
-<Database Name="cv" Series="4955" Issue="41798" />
+<Book Series="Catwoman" Number="26" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="109424" />
 </Book>
-<Book Series="Catwoman" Number="28" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="42014" />
+<Book Series="Catwoman" Number="27" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="109425" />
 </Book>
-<Book Series="Catwoman" Number="29" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="42122" />
+<Book Series="Catwoman" Number="28" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="109426" />
 </Book>
-<Book Series="Catwoman" Number="30" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="42156" />
+<Book Series="Catwoman" Number="29" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="109427" />
 </Book>
-<Book Series="Catwoman" Number="31" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="42249" />
+<Book Series="Catwoman" Number="30" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="109428" />
 </Book>
-<Book Series="Catwoman" Number="32" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="42334" />
+<Book Series="Catwoman" Number="31" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="96316" />
 </Book>
-<Book Series="Catwoman" Number="33" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="42423" />
+<Book Series="Catwoman" Number="32" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="96317" />
 </Book>
-<Book Series="Catwoman" Number="34" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="42525" />
+<Book Series="Catwoman" Number="33" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="98297" />
 </Book>
-<Book Series="Catwoman" Number="35" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="42628" />
+<Book Series="Catwoman" Number="34" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="98298" />
 </Book>
-<Book Series="Catwoman" Number="36" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="46564" />
+<Book Series="Catwoman" Number="35" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="98299" />
 </Book>
-<Book Series="Catwoman" Number="37" Volume="1993" Year="1996">
-<Database Name="cv" Series="4955" Issue="46565" />
+<Book Series="Catwoman" Number="36" Volume="2002" Year="2004">
+<Database Name="cv" Series="7328" Issue="98300" />
+</Book>
+<Book Series="Catwoman" Number="37" Volume="2002" Year="2005">
+<Database Name="cv" Series="7328" Issue="98301" />
+</Book>
+<Book Series="Batman/Poison Ivy: Cast Shadows" Number="1" Volume="2004" Year="2004">
+<Database Name="cv" Series="22338" Issue="134294" />
 </Book>
 <Book Series="Batman" Number="626" Volume="1940" Year="2004">
 <Database Name="cv" Series="796" Issue="91395" />

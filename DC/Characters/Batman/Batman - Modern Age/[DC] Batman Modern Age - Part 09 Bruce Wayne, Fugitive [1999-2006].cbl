@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 09 Bruce Wayne, Fugitive [1999-2006]</Name>
-<NumIssues>161</NumIssues>
+<NumIssues>167</NumIssues>
 <Books>
 <Book Series="Batman: Gotham Knights" Number="14" Volume="2000" Year="2001">
 <Database Name="cv" Series="7207" Issue="55308" />
@@ -27,18 +27,7 @@
 <Book Series="Batman: Gotham Knights" Number="21" Volume="2000" Year="2001">
 <Database Name="cv" Series="7207" Issue="55315" />
 </Book>
-<Book Series="Batman: Gotham Knights" Number="22" Volume="2000" Year="2001">
-<Database Name="cv" Series="7207" Issue="55316" />
-</Book>
-<Book Series="Batman: Gotham Knights" Number="23" Volume="2000" Year="2002">
-<Database Name="cv" Series="7207" Issue="55317" />
-</Book>
-<Book Series="Batman: Gotham Knights" Number="24" Volume="2000" Year="2002">
-<Database Name="cv" Series="7207" Issue="55318" />
-</Book>
-<Book Series="Batman: Gotham Knights" Number="32" Volume="2000" Year="2002">
-<Database Name="cv" Series="7207" Issue="119363" />
-</Book>
+<!-- Moved to Last Laugh sequence -->
 <Book Series="Nightwing" Number="52" Volume="1996" Year="2001">
 <Database Name="cv" Series="5755" Issue="47048" />
 </Book>
@@ -66,26 +55,28 @@
 <Book Series="Nightwing" Number="61" Volume="1996" Year="2001">
 <Database Name="cv" Series="5755" Issue="51801" />
 </Book>
-<Book Series="Nightwing" Number="62" Volume="1996" Year="2001">
-<Database Name="cv" Series="5755" Issue="51802" />
-</Book>
-<Book Series="Nightwing" Number="63" Volume="1996" Year="2002">
-<Database Name="cv" Series="5755" Issue="51803" />
-</Book>
-<Book Series="Nightwing" Number="64" Volume="1996" Year="2002">
-<Database Name="cv" Series="5755" Issue="114296" />
-</Book>
-<Book Series="Nightwing" Number="65" Volume="1996" Year="2002">
-<Database Name="cv" Series="5755" Issue="114297" />
-</Book>
-<Book Series="Nightwing" Number="66" Volume="1996" Year="2002">
-<Database Name="cv" Series="5755" Issue="114298" />
+<!-- Moved Nightwing 62 to position in Joker: Last Laugh section, and remaining Nightwing to follow -->
+<!-- Enhanced Last Laugh with Bat-Family tie ins covered at https://www.comicbooktreasury.com/the-jokers-last-laugh-reading-order/ -->
+<Book Series="Joker: Last Laugh Secret Files" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="34835" Issue="228818" />
 </Book>
 <Book Series="Joker: Last Laugh" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="19991" Issue="119440" />
 </Book>
+<Book Series="Nightwing" Number="62" Volume="1996" Year="2001">
+<Database Name="cv" Series="5755" Issue="51802" />
+</Book>
 <Book Series="Joker: Last Laugh" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="19991" Issue="119526" />
+</Book>
+<Book Series="Birds of Prey" Number="36" Volume="1999" Year="2001">
+<Database Name="cv" Series="6498" Issue="80280" />
+</Book>
+<Book Series="Batgirl" Number="21" Volume="2000" Year="2001">
+<Database Name="cv" Series="7205" Issue="121090" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="22" Volume="2000" Year="2001">
+<Database Name="cv" Series="7207" Issue="55316" />
 </Book>
 <Book Series="Joker: Last Laugh" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="19991" Issue="119505" />
@@ -93,11 +84,44 @@
 <Book Series="Joker: Last Laugh" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="19991" Issue="119506" />
 </Book>
+<Book Series="Action Comics" Number="784" Volume="1938" Year="2001">
+<Database Name="cv" Series="18005" Issue="114143" />
+</Book>
+<Book Series="Superboy" Number="93" Volume="1994" Year="2001">
+<Database Name="cv" Series="5261" Issue="118923" />
+</Book>
+<Book Series="Batman" Number="596" Volume="1940" Year="2001">
+<Database Name="cv" Series="796" Issue="83264" />
+</Book>
 <Book Series="Joker: Last Laugh" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="19991" Issue="119507" />
 </Book>
+<Book Series="JLA" Number="5" Volume="1997" Year="2001">
+<Database Name="cv" Series="5957" Issue="110975" />
+</Book>
+<Book Series="Robin" Number="95" Volume="1993" Year="2001">
+<Database Name="cv" Series="4975" Issue="51055" />
+</Book>
 <Book Series="Joker: Last Laugh" Number="6" Volume="2001" Year="2002">
 <Database Name="cv" Series="19991" Issue="119523" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="23" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="55317" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="24" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="55318" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="32" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="119363" />
+</Book>
+<Book Series="Nightwing" Number="63" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="51803" />
+</Book>
+<Book Series="Nightwing" Number="64" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="114296" />
+</Book>
+<Book Series="Nightwing: The Target" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="32358" Issue="203601" />
 </Book>
 <Book Series="Harley Quinn" Number="14" Volume="2000" Year="2002">
 <Database Name="cv" Series="9494" Issue="78195" />
@@ -135,6 +159,9 @@
 <Book Series="Harley Quinn" Number="25" Volume="2000" Year="2002">
 <Database Name="cv" Series="9494" Issue="121469" />
 </Book>
+<Book Series="Harley and Ivy: Love on the Lam" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="26511" Issue="158454" />
+</Book>
 <Book Series="Batgirl" Number="13" Volume="2000" Year="2001">
 <Database Name="cv" Series="7205" Issue="149985" />
 </Book>
@@ -159,21 +186,14 @@
 <Book Series="Batgirl" Number="20" Volume="2000" Year="2001">
 <Database Name="cv" Series="7205" Issue="121102" />
 </Book>
-<Book Series="Batgirl" Number="21" Volume="2000" Year="2001">
-<Database Name="cv" Series="7205" Issue="121090" />
-</Book>
+<!-- Issue 21 previously covered in Last Laugh sequence -->
 <Book Series="Batgirl" Number="22" Volume="2000" Year="2002">
 <Database Name="cv" Series="7205" Issue="75523" />
 </Book>
 <Book Series="Batgirl" Number="23" Volume="2000" Year="2002">
 <Database Name="cv" Series="7205" Issue="75524" />
 </Book>
-<Book Series="Batgirl" Number="24" Volume="2000" Year="2002">
-<Database Name="cv" Series="7205" Issue="51379" />
-</Book>
-<Book Series="Batgirl" Number="25" Volume="2000" Year="2002">
-<Database Name="cv" Series="7205" Issue="121085" />
-</Book>
+<!-- Batgirl issue 24 moved to "Murderer", 25 moved before "Fugitive" -->
 <Book Series="Batman: Gotham County Line" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="19180" Issue="114794" />
 </Book>
@@ -183,8 +203,21 @@
 <Book Series="Batman: Gotham County Line" Number="3" Volume="2005" Year="2006">
 <Database Name="cv" Series="19180" Issue="115006" />
 </Book>
+<!-- The original list was based on the 2002 TPBs.  Both they and their re-releases are ... iffy.  For Fugitive + Murderer, this section is based on the cover numbering issue for each story (https://dc.fandom.com/wiki/Bruce_Wayne:_Fugitive) with any partial storylines rounded off -->
+<Book Series="Batman: The 10-Cent Adventure" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="26209" Issue="155488" />
+</Book>
 <Book Series="Detective Comics" Number="766" Volume="1937" Year="2002">
 <Database Name="cv" Series="18058" Issue="113281" />
+</Book>
+<Book Series="Batgirl" Number="24" Volume="2000" Year="2002">
+<Database Name="cv" Series="7205" Issue="51379" />
+</Book>
+<Book Series="Batgirl" Number="25" Volume="2000" Year="2002">
+<Database Name="cv" Series="7205" Issue="121085" />
+</Book>
+<Book Series="Nightwing" Number="65" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="114297" />
 </Book>
 <Book Series="Batman: Gotham Knights" Number="25" Volume="2000" Year="2002">
 <Database Name="cv" Series="7207" Issue="51384" />
@@ -201,8 +234,8 @@
 <Book Series="Detective Comics" Number="767" Volume="1937" Year="2002">
 <Database Name="cv" Series="18058" Issue="113282" />
 </Book>
-<Book Series="Nightwing" Number="67" Volume="1996" Year="2002">
-<Database Name="cv" Series="5755" Issue="114299" />
+<Book Series="Nightwing" Number="66" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="114298" />
 </Book>
 <Book Series="Batman: Gotham Knights" Number="26" Volume="2000" Year="2002">
 <Database Name="cv" Series="7207" Issue="55319" />
@@ -225,6 +258,7 @@
 <Book Series="Batman" Number="601" Volume="1940" Year="2002">
 <Database Name="cv" Series="796" Issue="83258" />
 </Book>
+<!-- Completion of the part 1 story from #601 -->
 <Book Series="Batman" Number="602" Volume="1940" Year="2002">
 <Database Name="cv" Series="796" Issue="83267" />
 </Book>
@@ -236,6 +270,9 @@
 </Book>
 <Book Series="Batgirl" Number="27" Volume="2000" Year="2002">
 <Database Name="cv" Series="7205" Issue="121092" />
+</Book>
+<Book Series="Nightwing" Number="67" Volume="1996" Year="2002">
+<Database Name="cv" Series="5755" Issue="114299" />
 </Book>
 <Book Series="Nightwing" Number="68" Volume="1996" Year="2002">
 <Database Name="cv" Series="5755" Issue="114300" />
@@ -258,6 +295,9 @@
 <Book Series="Batman" Number="603" Volume="1940" Year="2002">
 <Database Name="cv" Series="796" Issue="83268" />
 </Book>
+<Book Series="Batman" Number="604" Volume="1940" Year="2002">
+<Database Name="cv" Series="796" Issue="83269" />
+</Book>
 <Book Series="Detective Comics" Number="771" Volume="1937" Year="2002">
 <Database Name="cv" Series="18058" Issue="113323" />
 </Book>
@@ -270,17 +310,11 @@
 <Book Series="Azrael: Agent of the Bat" Number="91" Volume="1998" Year="2002">
 <Database Name="cv" Series="19721" Issue="135661" />
 </Book>
-<Book Series="Azrael: Agent of the Bat" Number="92" Volume="1998" Year="2002">
-<Database Name="cv" Series="19721" Issue="135662" />
-</Book>
 <Book Series="Detective Comics" Number="772" Volume="1937" Year="2002">
 <Database Name="cv" Series="18058" Issue="113324" />
 </Book>
 <Book Series="Batman: Gotham Knights" Number="31" Volume="2000" Year="2002">
 <Database Name="cv" Series="7207" Issue="119362" />
-</Book>
-<Book Series="Batman" Number="604" Volume="1940" Year="2002">
-<Database Name="cv" Series="796" Issue="83269" />
 </Book>
 <Book Series="Batman" Number="605" Volume="1940" Year="2002">
 <Database Name="cv" Series="796" Issue="84874" />
@@ -303,6 +337,7 @@
 <Book Series="Batgirl" Number="33" Volume="2000" Year="2002">
 <Database Name="cv" Series="7205" Issue="91324" />
 </Book>
+
 <Book Series="Catwoman" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="7328" Issue="52122" />
 </Book>
@@ -449,6 +484,9 @@
 </Book>
 <Book Series="Catwoman" Number="24" Volume="2002" Year="2003">
 <Database Name="cv" Series="7328" Issue="109422" />
+</Book>
+<Book Series="Catwoman Secret Files and Origins" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="34614" Issue="226592" />
 </Book>
 <Book Series="Gotham Central" Number="12" Volume="2003" Year="2003">
 <Database Name="cv" Series="9958" Issue="98321" />

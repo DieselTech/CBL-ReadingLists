@@ -255,15 +255,7 @@
 <Book Series="Legends of the World's Finest" Number="3" Volume="1994" Year="1994">
 <Database Name="cv" Series="31762" Issue="199204" />
 </Book>
-<Book Series="Detective Comics" Number="641" Volume="1937" Year="1992">
-<Database Name="cv" Series="18058" Issue="113112" />
-</Book>
-<Book Series="Detective Comics" Number="642" Volume="1937" Year="1992">
-<Database Name="cv" Series="18058" Issue="113113" />
-</Book>
-<Book Series="Detective Comics" Number="643" Volume="1937" Year="1992">
-<Database Name="cv" Series="18058" Issue="113114" />
-</Book>
+<!-- The issues for these following arcs are listed incorrectly in the original source and have been corrected -->
 <Book Series="Detective Comics" Number="644" Volume="1937" Year="1992">
 <Database Name="cv" Series="18058" Issue="113115" />
 </Book>

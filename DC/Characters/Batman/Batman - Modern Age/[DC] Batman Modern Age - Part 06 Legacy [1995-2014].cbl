@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 06 Legacy [1995-2014]</Name>
-<NumIssues>139</NumIssues>
+<NumIssues>135</NumIssues>
 <Books>
 <Book Series="Batman: Shadow of the Bat" Number="36" Volume="1992" Year="1995">
 <Database Name="cv" Series="4724" Issue="40637" />
@@ -71,18 +71,6 @@
 </Book>
 <Book Series="Batman" Number="528" Volume="1940" Year="1996">
 <Database Name="cv" Series="796" Issue="42169" />
-</Book>
-<Book Series="Batman" Number="530" Volume="1940" Year="1996">
-<Database Name="cv" Series="796" Issue="42368" />
-</Book>
-<Book Series="Batman" Number="531" Volume="1940" Year="1996">
-<Database Name="cv" Series="796" Issue="42458" />
-</Book>
-<Book Series="Batman" Number="532" Volume="1940" Year="1996">
-<Database Name="cv" Series="796" Issue="42568" />
-</Book>
-<Book Series="Batman" Number="535" Volume="1940" Year="1996">
-<Database Name="cv" Series="796" Issue="42854" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="45" Volume="1992" Year="1995">
 <Database Name="cv" Series="4724" Issue="41804" />

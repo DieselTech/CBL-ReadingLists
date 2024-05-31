@@ -15,30 +15,6 @@
 <Book Series="Batman: Sword of Azrael" Number="4" Volume="1992" Year="1993">
 <Database Name="cv" Series="9223" Issue="107901" />
 </Book>
-<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
-<Database Name="cv" Series="21865" Issue="134775" />
-</Book>
-<Book Series="Azrael" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="5490" Issue="40405" />
-</Book>
-<Book Series="Azrael" Number="2" Volume="1995" Year="1995">
-<Database Name="cv" Series="5490" Issue="40540" />
-</Book>
-<Book Series="Azrael" Number="3" Volume="1995" Year="1995">
-<Database Name="cv" Series="5490" Issue="120233" />
-</Book>
-<Book Series="Azrael" Number="4" Volume="1995" Year="1995">
-<Database Name="cv" Series="5490" Issue="121364" />
-</Book>
-<Book Series="Azrael" Number="5" Volume="1995" Year="1995">
-<Database Name="cv" Series="5490" Issue="40927" />
-</Book>
-<Book Series="Azrael" Number="6" Volume="1995" Year="1995">
-<Database Name="cv" Series="5490" Issue="41063" />
-</Book>
-<Book Series="Azrael" Number="7" Volume="1995" Year="1995">
-<Database Name="cv" Series="5490" Issue="41206" />
-</Book>
 <Book Series="Batman Unseen" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28478" Issue="175484" />
 </Book>
@@ -374,6 +350,30 @@
 </Book>
 <Book Series="Batman: Vengeance of Bane II" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="28220" Issue="173539" />
+</Book>
+<Book Series="Showcase '94" Number="10" Volume="1994" Year="1994">
+<Database Name="cv" Series="21865" Issue="134775" />
+</Book>
+<Book Series="Azrael" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="40405" />
+</Book>
+<Book Series="Azrael" Number="2" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="40540" />
+</Book>
+<Book Series="Azrael" Number="3" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="120233" />
+</Book>
+<Book Series="Azrael" Number="4" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="121364" />
+</Book>
+<Book Series="Azrael" Number="5" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="40927" />
+</Book>
+<Book Series="Azrael" Number="6" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="41063" />
+</Book>
+<Book Series="Azrael" Number="7" Volume="1995" Year="1995">
+<Database Name="cv" Series="5490" Issue="41206" />
 </Book>
 <Book Series="Batman" Number="465" Volume="1940" Year="1991">
 <Database Name="cv" Series="796" Issue="34461" />
