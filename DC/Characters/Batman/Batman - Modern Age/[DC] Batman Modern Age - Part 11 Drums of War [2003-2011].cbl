@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 11 Drums of War [2003-2011]</Name>
-<NumIssues>165</NumIssues>
+<NumIssues>168</NumIssues>
 <Books>
 <Book Series="Batman: Legends of the Dark Knight" Number="185" Volume="1992" Year="2005">
 <Database Name="cv" Series="4720" Issue="100909" />
@@ -84,6 +84,9 @@
 <Book Series="Batman: Legends of the Dark Knight" Number="191" Volume="1992" Year="2005">
 <Database Name="cv" Series="4720" Issue="142314" />
 </Book>
+<Book Series="Batman: The 12 Cent Adventure" Number="1" Volume="2004" Year="2004">
+<Database Name="cv" Series="26546" Issue="158701" />
+</Book>
 <Book Series="Detective Comics" Number="797" Volume="1937" Year="2004">
 <Database Name="cv" Series="18058" Issue="113382" />
 </Book>
@@ -161,6 +164,9 @@
 </Book>
 <Book Series="Batman" Number="633" Volume="1940" Year="2004">
 <Database Name="cv" Series="796" Issue="100888" />
+</Book>
+<Book Series="Detective Comics" Number="800" Volume="1937" Year="2005">
+<Database Name="cv" Series="18058" Issue="112049" />
 </Book>
 <Book Series="Batman" Number="634" Volume="1940" Year="2005">
 <Database Name="cv" Series="796" Issue="100889" />
@@ -368,6 +374,9 @@
 </Book>
 <Book Series="Batgirl" Number="73" Volume="2000" Year="2006">
 <Database Name="cv" Series="7205" Issue="121117" />
+</Book>
+<Book Series="Countdown to Infinite Crisis" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="18410" Issue="107912" />
 </Book>
 <Book Series="The OMAC Project" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="22731" Issue="136353" />
