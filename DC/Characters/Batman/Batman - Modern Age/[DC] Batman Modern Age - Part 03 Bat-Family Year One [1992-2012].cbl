@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 03 Bat-Family Year One [1980-2010]</Name>
+<Name>[DC] Batman Modern Age - Part 03 Bat-Family Year One [1992-2012]</Name>
 <NumIssues>101</NumIssues>
 <Books>
 <Book Series="Batman: Legends of the Dark Knight" Number="64" Volume="1992" Year="1994">

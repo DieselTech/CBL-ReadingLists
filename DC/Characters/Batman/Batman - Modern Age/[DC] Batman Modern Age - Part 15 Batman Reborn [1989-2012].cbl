@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 15 Batman Reborn [1989-2013]</Name>
+<Name>[DC] Batman Modern Age - Part 15 Batman Reborn [1989-2012]</Name>
 <NumIssues>154</NumIssues>
 <Books>
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">

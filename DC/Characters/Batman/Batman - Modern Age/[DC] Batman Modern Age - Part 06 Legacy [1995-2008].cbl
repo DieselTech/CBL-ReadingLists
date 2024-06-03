@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 06 Legacy [1995-2014]</Name>
+<Name>[DC] Batman Modern Age - Part 06 Legacy [1995-2008]</Name>
 <NumIssues>135</NumIssues>
 <Books>
 <Book Series="Batman: Shadow of the Bat" Number="36" Volume="1992" Year="1995">

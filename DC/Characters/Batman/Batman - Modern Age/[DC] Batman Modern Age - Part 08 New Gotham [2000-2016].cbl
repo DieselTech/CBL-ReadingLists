@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 08 New Gotham [2000-2017]</Name>
+<Name>[DC] Batman Modern Age - Part 08 New Gotham [2000-2016]</Name>
 <NumIssues>124</NumIssues>
 <Books>
 <Book Series="Batman: Gotham Knights" Number="1" Volume="2000" Year="2000">

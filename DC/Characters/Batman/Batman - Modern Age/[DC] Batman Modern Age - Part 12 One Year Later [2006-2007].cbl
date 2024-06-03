@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 12 One Year Later [1999-2007]</Name>
+<Name>[DC] Batman Modern Age - Part 12 One Year Later [2006-2007]</Name>
 <NumIssues>151</NumIssues>
 <Books>
 <Book Series="52" Number="1" Volume="2006" Year="2006">

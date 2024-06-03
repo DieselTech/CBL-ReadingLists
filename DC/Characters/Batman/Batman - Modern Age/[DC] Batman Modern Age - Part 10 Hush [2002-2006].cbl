@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 10 Hush [1995-2006]</Name>
+<Name>[DC] Batman Modern Age - Part 10 Hush [2002-2006]</Name>
 <NumIssues>86</NumIssues>
 <Books>
 <Book Series="Batman/Nightwing: Bloodborne" Number="1" Volume="2002" Year="2002">
