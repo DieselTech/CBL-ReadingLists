@@ -223,9 +223,6 @@
 <Book Series="Nightwing 80-Page Giant" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="33274" Issue="215088" />
 </Book>
-<Book Series="Batman: Room Full of Strangers" Number="1" Volume="2004" Year="2004">
-<Database Name="cv" Series="34994" Issue="230557" />
-</Book>
 <Book Series="Batman" Number="587" Volume="1940" Year="2001">
 <Database Name="cv" Series="796" Issue="98702" />
 </Book>
@@ -250,6 +247,10 @@
 </Book>
 <Book Series="Batman: Gotham Knights" Number="13" Volume="2000" Year="2001">
 <Database Name="cv" Series="7207" Issue="55307" />
+</Book>
+<!-- Room Full of Strangers occurs after Officer Down - Moving Here -->
+<Book Series="Batman: Room Full of Strangers" Number="1" Volume="2004" Year="2004">
+<Database Name="cv" Series="34994" Issue="230557" />
 </Book>
 <Book Series="Batman: 80-Page Giant 2010" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="37100" Issue="247472" />
