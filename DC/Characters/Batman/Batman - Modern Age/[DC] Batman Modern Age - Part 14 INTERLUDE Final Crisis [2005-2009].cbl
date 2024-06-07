@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 14 INTERLUDE Final Crisis - Full Reading Order [2005-2009]</Name>
+<Name>[DC] Batman Modern Age - Part 14 INTERLUDE Final Crisis [2005-2009]</Name>
 <!-- This is a blend of the First Timers and Full Reading Order (to include the relevant Batman issues) -->
 <NumIssues>64</NumIssues>
 <Books>
