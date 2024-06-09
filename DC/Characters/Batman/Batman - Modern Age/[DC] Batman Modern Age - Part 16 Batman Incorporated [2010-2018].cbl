@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 16 Batman Incorporated [2010-2018]</Name>
-<NumIssues>104</NumIssues>
+<NumIssues>111</NumIssues>
 <Books>
 <Book Series="Gotham City Sirens" Number="14" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="226879" />
@@ -68,6 +68,21 @@
 </Book>
 <Book Series="Batman" Number="712" Volume="1940" Year="2011">
 <Database Name="cv" Series="796" Issue="280287" />
+</Book>
+<Book Series="Azrael" Number="14" Volume="2009" Year="2011">
+<Database Name="cv" Series="28873" Issue="244820" />
+</Book>
+<Book Series="Azrael" Number="15" Volume="2009" Year="2011">
+<Database Name="cv" Series="28873" Issue="250636" />
+</Book>
+<Book Series="Azrael" Number="16" Volume="2009" Year="2011">
+<Database Name="cv" Series="28873" Issue="254664" />
+</Book>
+<Book Series="Azrael" Number="17" Volume="2009" Year="2011">
+<Database Name="cv" Series="28873" Issue="259835" />
+</Book>
+<Book Series="Azrael" Number="18" Volume="2009" Year="2011">
+<Database Name="cv" Series="28873" Issue="264633" />
 </Book>
 <Book Series="Batman" Number="708" Volume="1940" Year="2011">
 <Database Name="cv" Series="796" Issue="265991" />
@@ -150,35 +165,38 @@
 <Book Series="Batman Incorporated" Number="8" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="288416" />
 </Book>
-<Book Series="Batgirl" Number="15" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="625269" />
+<Book Series="Batman, Incorporated: Leviathan Strikes" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="44575" Issue="307442" />
 </Book>
-<Book Series="Batgirl" Number="16" Volume="2016" Year="2017">
-<Database Name="cv" Series="92542" Issue="632455" />
+<Book Series="Batgirl" Number="15" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="241776" />
 </Book>
-<Book Series="Batgirl" Number="17" Volume="2016" Year="2018">
-<Database Name="cv" Series="92542" Issue="641369" />
+<Book Series="Batgirl" Number="16" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="248430" />
 </Book>
-<Book Series="Batgirl" Number="18" Volume="2016" Year="2018">
-<Database Name="cv" Series="92542" Issue="649691" />
+<Book Series="Batgirl" Number="17" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="255878" />
 </Book>
-<Book Series="Batgirl" Number="19" Volume="2016" Year="2018">
-<Database Name="cv" Series="92542" Issue="655466" />
+<Book Series="Batgirl" Number="18" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="261219" />
 </Book>
-<Book Series="Batgirl" Number="20" Volume="2016" Year="2018">
-<Database Name="cv" Series="92542" Issue="661107" />
+<Book Series="Batgirl" Number="19" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="265494" />
 </Book>
-<Book Series="Batgirl" Number="21" Volume="2016" Year="2018">
-<Database Name="cv" Series="92542" Issue="664254" />
+<Book Series="Batgirl" Number="20" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="268210" />
 </Book>
-<Book Series="Batgirl" Number="22" Volume="2016" Year="2018">
-<Database Name="cv" Series="92542" Issue="667596" />
+<Book Series="Batgirl" Number="21" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="269823" />
 </Book>
-<Book Series="Batgirl" Number="23" Volume="2016" Year="2018">
-<Database Name="cv" Series="92542" Issue="670714" />
+<Book Series="Batgirl" Number="22" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="247395" />
 </Book>
-<Book Series="Batgirl" Number="24" Volume="2016" Year="2018">
-<Database Name="cv" Series="92542" Issue="675111" />
+<Book Series="Batgirl" Number="23" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="278609" />
+</Book>
+<Book Series="Batgirl" Number="24" Volume="2009" Year="2011">
+<Database Name="cv" Series="27457" Issue="285342" />
 </Book>
 <Book Series="Red Robin" Number="18" Volume="2009" Year="2011">
 <Database Name="cv" Series="26651" Issue="248429" />
@@ -205,19 +223,19 @@
 <Database Name="cv" Series="26651" Issue="285339" />
 </Book>
 <Book Series="Batman: The Dark Knight" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="42719" Issue="293565" />
+<Database Name="cv" Series="37880" Issue="252298" />
 </Book>
 <Book Series="Batman: The Dark Knight" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="42719" Issue="299478" />
+<Database Name="cv" Series="37880" Issue="266500" />
 </Book>
 <Book Series="Batman: The Dark Knight" Number="3" Volume="2011" Year="2012">
-<Database Name="cv" Series="42719" Issue="303324" />
+<Database Name="cv" Series="37880" Issue="278551" />
 </Book>
 <Book Series="Batman: The Dark Knight" Number="4" Volume="2011" Year="2012">
-<Database Name="cv" Series="42719" Issue="308401" />
+<Database Name="cv" Series="37880" Issue="281531" />
 </Book>
 <Book Series="Batman: The Dark Knight" Number="5" Volume="2011" Year="2012">
-<Database Name="cv" Series="42719" Issue="312634" />
+<Database Name="cv" Series="37880" Issue="288367" />
 </Book>
 <Book Series="Superman/Batman" Number="75" Volume="2003" Year="2010">
 <Database Name="cv" Series="10938" Issue="231705" />
@@ -314,6 +332,9 @@
 </Book>
 <Book Series="Batman, Incorporated" Number="13" Volume="2012" Year="2013">
 <Database Name="cv" Series="49112" Issue="419954" />
+</Book>
+<Book Series="Batman, Incorporated Special" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="66765" Issue="423617" />
 </Book>
 </Books>
 <Matchers />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 13 Countdown[2006-2011]</Name>
-<NumIssues>252</NumIssues>
+<NumIssues>259</NumIssues>
 <Books>
 <Book Series="Superman/Batman" Number="37" Volume="2003" Year="2007">
 <Database Name="cv" Series="10938" Issue="111126" />
@@ -153,8 +153,20 @@
 <Book Series="Superman/Batman" Number="49" Volume="2003" Year="2008">
 <Database Name="cv" Series="10938" Issue="131588" />
 </Book>
-<Book Series="The Helmet of Fate" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="41216" Issue="278223" />
+<Book Series="Helmet of Fate: Detective Chimp" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="19200" Issue="115014" />
+</Book>
+<Book Series="Helmet of Fate: Ibis the Invincible" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="31441" Issue="196003" />
+</Book>
+<Book Series="The Helmet of Fate: Sargon the Sorcerer" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="38827" Issue="260587" />
+</Book>
+<Book Series="Helmet of Fate: Black Alice" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="19199" Issue="114989" />
+</Book>
+<Book Series="Helmet of Fate: Zauriel" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="19201" Issue="115016" />
 </Book>
 <Book Series="Batman" Number="655" Volume="1940" Year="2006">
 <Database Name="cv" Series="796" Issue="114075" />
@@ -384,6 +396,24 @@
 <Book Series="Detective Comics" Number="845" Volume="1937" Year="2008">
 <Database Name="cv" Series="18058" Issue="113354" />
 </Book>
+<Book Series="DC Infinite Halloween Special" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="19596" Issue="117519" />
+</Book>
+<Book Series="Joker's Asylum: The Joker" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="33802" Issue="219769" />
+</Book>
+<Book Series="Joker's Asylum: Penguin" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22285" Issue="134004" />
+</Book>
+<Book Series="Joker's Asylum: Poison Ivy" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22259" Issue="133775" />
+</Book>
+<Book Series="Joker's Asylum: Scarecrow" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="33803" Issue="219770" />
+</Book>
+<Book Series="Joker's Asylum: TWo-Face" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22402" Issue="134589" />
+</Book>
 <Book Series="Nightwing" Number="133" Volume="1996" Year="2007">
 <Database Name="cv" Series="5755" Issue="110293" />
 </Book>
@@ -444,23 +474,23 @@
 <Book Series="Superman/Batman" Number="56" Volume="2003" Year="2009">
 <Database Name="cv" Series="10938" Issue="153464" />
 </Book>
-<Book Series="Batgirl" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="27457" Issue="167360" />
+<Book Series="Batgirl" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22245" Issue="133731" />
 </Book>
-<Book Series="Batgirl" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="27457" Issue="171414" />
+<Book Series="Batgirl" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="22245" Issue="136050" />
 </Book>
-<Book Series="Batgirl" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="27457" Issue="176018" />
+<Book Series="Batgirl" Number="3" Volume="2008" Year="2008">
+<Database Name="cv" Series="22245" Issue="138994" />
 </Book>
-<Book Series="Batgirl" Number="4" Volume="2009" Year="2010">
-<Database Name="cv" Series="27457" Issue="182564" />
+<Book Series="Batgirl" Number="4" Volume="2008" Year="2008">
+<Database Name="cv" Series="22245" Issue="141214" />
 </Book>
-<Book Series="Batgirl" Number="5" Volume="2009" Year="2010">
-<Database Name="cv" Series="27457" Issue="186732" />
+<Book Series="Batgirl" Number="5" Volume="2008" Year="2009">
+<Database Name="cv" Series="22245" Issue="142740" />
 </Book>
-<Book Series="Batgirl" Number="6" Volume="2009" Year="2010">
-<Database Name="cv" Series="27457" Issue="192403" />
+<Book Series="Batgirl" Number="6" Volume="2008" Year="2009">
+<Database Name="cv" Series="22245" Issue="148356" />
 </Book>
 <Book Series="Superman/Batman" Number="60" Volume="2003" Year="2009">
 <Database Name="cv" Series="10938" Issue="157903" />
@@ -470,6 +500,9 @@
 </Book>
 <Book Series="Superman/Batman" Number="62" Volume="2003" Year="2009">
 <Database Name="cv" Series="10938" Issue="164005" />
+</Book>
+<Book Series="Superman/Batman" Number="63" Volume="2003" Year="2009">
+<Database Name="cv" Series="10938" Issue="167363" />
 </Book>
 <Book Series="Superman/Batman" Number="65" Volume="2003" Year="2009">
 <Database Name="cv" Series="10938" Issue="177933" />
@@ -572,6 +605,9 @@
 </Book>
 <Book Series="Superman/Batman" Number="84" Volume="2003" Year="2011">
 <Database Name="cv" Series="10938" Issue="270579" />
+</Book>
+<Book Series="Batman 80-Page Giant 2011" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="41928" Issue="285343" />
 </Book>
 <Book Series="Detective Comics" Number="846" Volume="1937" Year="2008">
 <Database Name="cv" Series="18058" Issue="132963" />
@@ -696,6 +732,7 @@
 <Book Series="Batman" Number="683" Volume="1940" Year="2009">
 <Database Name="cv" Series="796" Issue="148610" />
 </Book>
+<!-- Intentional omission of DC Universe #0 (a Final Crisis preview) -->
 <Book Series="Robin" Number="175" Volume="1993" Year="2008">
 <Database Name="cv" Series="4975" Issue="134074" />
 </Book>

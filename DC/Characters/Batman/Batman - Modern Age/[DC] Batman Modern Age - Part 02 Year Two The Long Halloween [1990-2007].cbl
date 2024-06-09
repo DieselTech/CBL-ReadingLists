@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 02 Year Two The Long Halloween [1990-2007]</Name>
-<NumIssues>63</NumIssues>
+<NumIssues>64</NumIssues>
 <Books>
 <Book Series="Legends of the Dark Knight" Number="6" Volume="1989" Year="1990">
 <Database Name="cv" Series="4200" Issue="32654" />
@@ -41,6 +41,9 @@
 </Book>
 <Book Series="Batman/Catwoman: Trail Of The Gun" Number="2" Volume="2004" Year="2004">
 <Database Name="cv" Series="23538" Issue="243921" />
+</Book>
+<Book Series="Batman: War on Crime" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="19628" Issue="117721" />
 </Book>
 <Book Series="The Batman Chronicles" Number="8" Volume="1995" Year="1997">
 <Database Name="cv" Series="6598" Issue="173348" />

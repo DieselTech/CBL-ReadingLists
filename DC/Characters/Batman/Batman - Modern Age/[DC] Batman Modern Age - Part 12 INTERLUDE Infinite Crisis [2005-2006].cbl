@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 12 INTERLUDE Infinite Crisis [2005-2006]</Name>
-<NumIssues>33</NumIssues>
+<NumIssues>37</NumIssues>
 <Books>
 <Book Series="Superman" Number="218" Volume="1987" Year="2005">
 <Database Name="cv" Series="3816" Issue="107887" />
@@ -90,6 +90,12 @@
 <Book Series="Infinite Crisis" Number="3" Volume="2005" Year="2006">
 <Database Name="cv" Series="17983" Issue="107881" />
 </Book>
+<Book Series="Day of Vengeance: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="24042" Issue="143052" />
+</Book>
+<Book Series="Rann/Thanagar War: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="25736" Issue="151667" />
+</Book>
 <Book Series="Infinite Crisis" Number="4" Volume="2005" Year="2006">
 <Database Name="cv" Series="17983" Issue="105306" />
 </Book>
@@ -98,6 +104,12 @@
 </Book>
 <Book Series="Infinite Crisis" Number="6" Volume="2005" Year="2006">
 <Database Name="cv" Series="17983" Issue="122054" />
+</Book>
+<Book Series="The OMAC Project: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="25731" Issue="151631" />
+</Book>
+<Book Series="Villains United: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="20668" Issue="123921" />
 </Book>
 <Book Series="Infinite Crisis" Number="7" Volume="2005" Year="2006">
 <Database Name="cv" Series="17983" Issue="121466" />

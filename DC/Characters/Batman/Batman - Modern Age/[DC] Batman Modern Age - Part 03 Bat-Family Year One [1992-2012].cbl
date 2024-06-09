@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 03 Bat-Family Year One [1980-2010]</Name>
-<NumIssues>102</NumIssues>
+<Name>[DC] Batman Modern Age - Part 03 Bat-Family Year One [1992-2012]</Name>
+<NumIssues>101</NumIssues>
 <Books>
 <Book Series="Batman: Legends of the Dark Knight" Number="64" Volume="1992" Year="1994">
 <Database Name="cv" Series="4720" Issue="39682" />
@@ -83,6 +83,9 @@
 </Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="163" Volume="1992" Year="2003">
 <Database Name="cv" Series="4720" Issue="150121" />
+</Book>
+<Book Series="Batman: Night Cries" Number="1" Volume="1992" Year="1992">
+<Database Name="cv" Series="32646" Issue="208547" />
 </Book>
 <Book Series="The Creeper" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18140" Issue="123608" />
@@ -195,6 +198,9 @@
 <Book Series="Batman: Dark Victory" Number="13" Volume="1999" Year="2001">
 <Database Name="cv" Series="6312" Issue="106667" />
 </Book>
+<Book Series="Batman: The Long Halloween Special" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="139799" Issue="891113" />
+</Book>
 <Book Series="Catwoman: When in Rome" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="19181" Issue="114800" />
 </Book>
@@ -270,14 +276,8 @@
 <Book Series="Batman Confidential" Number="28" Volume="2007" Year="2009">
 <Database Name="cv" Series="18231" Issue="155262" />
 </Book>
-<Book Series="The Brave and the Bold" Number="164" Volume="1955" Year="1980">
-<Database Name="cv" Series="1683" Issue="20496" />
-</Book>
-<Book Series="The Brave and the Bold" Number="171" Volume="1955" Year="1981">
-<Database Name="cv" Series="1683" Issue="21003" />
-</Book>
-<Book Series="Batman" Number="353" Volume="1940" Year="1982">
-<Database Name="cv" Series="796" Issue="22557" />
+<Book Series="The Judas Coin" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="52149" Issue="357256" />
 </Book>
 <Book Series="Batgirl Year One" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="10088" Issue="134881" />
@@ -305,9 +305,6 @@
 </Book>
 <Book Series="Batgirl Year One" Number="9" Volume="2003" Year="2003">
 <Database Name="cv" Series="10088" Issue="94200" />
-</Book>
-<Book Series="The Batman Chronicles" Number="9" Volume="1995" Year="1997">
-<Database Name="cv" Series="6598" Issue="173359" />
 </Book>
 </Books>
 <Matchers />

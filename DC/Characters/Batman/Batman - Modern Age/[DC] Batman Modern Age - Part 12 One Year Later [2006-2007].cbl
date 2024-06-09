@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Batman Modern Age - Part 12 One Year Later [1999-2007]</Name>
-<NumIssues>154</NumIssues>
+<Name>[DC] Batman Modern Age - Part 12 One Year Later [2006-2007]</Name>
+<NumIssues>151</NumIssues>
 <Books>
 <Book Series="52" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18053" Issue="105733" />
@@ -150,6 +150,18 @@
 <Book Series="52" Number="49" Volume="2006" Year="2007">
 <Database Name="cv" Series="18053" Issue="108536" />
 </Book>
+<Book Series="52/WW III" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="18485" Issue="108562" />
+</Book>
+<Book Series="52/WW III" Number="2" Volume="2007" Year="2007">
+<Database Name="cv" Series="18485" Issue="108561" />
+</Book>
+<Book Series="52/WW III" Number="3" Volume="2007" Year="2007">
+<Database Name="cv" Series="18485" Issue="108560" />
+</Book>
+<Book Series="52/WW III" Number="4" Volume="2007" Year="2007">
+<Database Name="cv" Series="18485" Issue="108559" />
+</Book>
 <Book Series="52" Number="50" Volume="2006" Year="2007">
 <Database Name="cv" Series="18053" Issue="108606" />
 </Book>
@@ -159,56 +171,23 @@
 <Book Series="52" Number="52" Volume="2006" Year="2007">
 <Database Name="cv" Series="18053" Issue="108928" />
 </Book>
-<Book Series="JLA" Number="36" Volume="1997" Year="1999">
-<Database Name="cv" Series="5957" Issue="109289" />
-</Book>
-<Book Series="JLA" Number="37" Volume="1997" Year="2000">
-<Database Name="cv" Series="5957" Issue="46220" />
-</Book>
-<Book Series="JLA" Number="38" Volume="1997" Year="2000">
-<Database Name="cv" Series="5957" Issue="46264" />
-</Book>
-<Book Series="JLA" Number="39" Volume="1997" Year="2000">
-<Database Name="cv" Series="5957" Issue="46297" />
-</Book>
-<Book Series="JLA" Number="40" Volume="1997" Year="2000">
-<Database Name="cv" Series="5957" Issue="46314" />
-</Book>
-<Book Series="JLA" Number="41" Volume="1997" Year="2000">
-<Database Name="cv" Series="5957" Issue="46339" />
-</Book>
-<Book Series="Robin" Number="138" Volume="1993" Year="2005">
-<Database Name="cv" Series="4975" Issue="99205" />
-</Book>
-<Book Series="Robin" Number="139" Volume="1993" Year="2005">
-<Database Name="cv" Series="4975" Issue="99206" />
-</Book>
-<Book Series="Robin" Number="140" Volume="1993" Year="2005">
-<Database Name="cv" Series="4975" Issue="99207" />
-</Book>
-<Book Series="Robin" Number="141" Volume="1993" Year="2005">
-<Database Name="cv" Series="4975" Issue="99208" />
-</Book>
-<Book Series="Robin" Number="142" Volume="1993" Year="2005">
-<Database Name="cv" Series="4975" Issue="99209" />
-</Book>
-<Book Series="Robin" Number="143" Volume="1993" Year="2005">
-<Database Name="cv" Series="4975" Issue="99210" />
-</Book>
-<Book Series="Robin" Number="144" Volume="1993" Year="2006">
-<Database Name="cv" Series="4975" Issue="99211" />
-</Book>
-<Book Series="Robin" Number="145" Volume="1993" Year="2006">
-<Database Name="cv" Series="4975" Issue="99212" />
-</Book>
-<Book Series="Robin" Number="146" Volume="1993" Year="2006">
-<Database Name="cv" Series="4975" Issue="110047" />
-</Book>
-<Book Series="Robin" Number="147" Volume="1993" Year="2006">
-<Database Name="cv" Series="4975" Issue="110048" />
-</Book>
 <Book Series="Robin" Number="148" Volume="1993" Year="2006">
 <Database Name="cv" Series="4975" Issue="110098" />
+</Book>
+<Book Series="Robin" Number="149" Volume="1993" Year="2006">
+<Database Name="cv" Series="4975" Issue="110167" />
+</Book>
+<Book Series="Robin" Number="150" Volume="1993" Year="2006">
+<Database Name="cv" Series="4975" Issue="110089" />
+</Book>
+<Book Series="Robin" Number="151" Volume="1993" Year="2006">
+<Database Name="cv" Series="4975" Issue="110243" />
+</Book>
+<Book Series="Robin" Number="152" Volume="1993" Year="2006">
+<Database Name="cv" Series="4975" Issue="110244" />
+</Book>
+<Book Series="Robin" Number="153" Volume="1993" Year="2006">
+<Database Name="cv" Series="4975" Issue="110245" />
 </Book>
 <Book Series="Detective Comics" Number="817" Volume="1937" Year="2006">
 <Database Name="cv" Series="18058" Issue="113414" />
@@ -317,6 +296,18 @@
 </Book>
 <Book Series="Detective Comics" Number="826" Volume="1937" Year="2007">
 <Database Name="cv" Series="18058" Issue="111257" />
+</Book>
+<Book Series="Batman" Number="659" Volume="1940" Year="2007">
+<Database Name="cv" Series="796" Issue="108510" />
+</Book>
+<Book Series="Batman" Number="660" Volume="1940" Year="2007">
+<Database Name="cv" Series="796" Issue="121732" />
+</Book>
+<Book Series="Batman" Number="661" Volume="1940" Year="2007">
+<Database Name="cv" Series="796" Issue="121733" />
+</Book>
+<Book Series="Batman" Number="662" Volume="1940" Year="2007">
+<Database Name="cv" Series="796" Issue="115087" />
 </Book>
 <Book Series="Robin" Number="154" Volume="1993" Year="2006">
 <Database Name="cv" Series="4975" Issue="110246" />
