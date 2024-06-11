@@ -231,7 +231,7 @@
 <Book Series="Iron Fist" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="141631" Issue="945044" />
 </Book>
-<Book Series="Captain America" Number="0" Volume="2023" Year="2022">
+<Book Series="Captain America" Number="0" Volume="2022" Year="2022">
 <Database Name="cv" Series="142485" Issue="918720" />
 </Book>
 <Book Series="Carnage Forever" Number="1" Volume="2022" Year="2022">
@@ -1281,31 +1281,31 @@
 <Book Series="Marauders" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="142135" Issue="962851" />
 </Book>
-<Book Series="New Mutants" Number="25" Volume="2019" Year="2022">
+<Book Series="New Mutants" Number="25" Volume="2020" Year="2022">
 <Database Name="cv" Series="122666" Issue="924785" />
 </Book>
-<Book Series="New Mutants" Number="26" Volume="2019" Year="2022">
+<Book Series="New Mutants" Number="26" Volume="2020" Year="2022">
 <Database Name="cv" Series="122666" Issue="931631" />
 </Book>
-<Book Series="New Mutants" Number="27" Volume="2019" Year="2022">
+<Book Series="New Mutants" Number="27" Volume="2020" Year="2022">
 <Database Name="cv" Series="122666" Issue="935764" />
 </Book>
-<Book Series="New Mutants" Number="28" Volume="2019" Year="2022">
+<Book Series="New Mutants" Number="28" Volume="2020" Year="2022">
 <Database Name="cv" Series="122666" Issue="942712" />
 </Book>
-<Book Series="New Mutants" Number="29" Volume="2019" Year="2022">
+<Book Series="New Mutants" Number="29" Volume="2020" Year="2022">
 <Database Name="cv" Series="122666" Issue="946211" />
 </Book>
-<Book Series="New Mutants" Number="30" Volume="2019" Year="2022">
+<Book Series="New Mutants" Number="30" Volume="2020" Year="2022">
 <Database Name="cv" Series="122666" Issue="948113" />
 </Book>
-<Book Series="New Mutants" Number="31" Volume="2019" Year="2022">
+<Book Series="New Mutants" Number="31" Volume="2020" Year="2022">
 <Database Name="cv" Series="122666" Issue="952303" />
 </Book>
-<Book Series="New Mutants" Number="32" Volume="2019" Year="2023">
+<Book Series="New Mutants" Number="32" Volume="2020" Year="2023">
 <Database Name="cv" Series="122666" Issue="958986" />
 </Book>
-<Book Series="New Mutants" Number="33" Volume="2019" Year="2023">
+<Book Series="New Mutants" Number="33" Volume="2020" Year="2023">
 <Database Name="cv" Series="122666" Issue="961943" />
 </Book>
 <Book Series="Bishop: War College" Number="1" Volume="2023" Year="2023">
@@ -1725,25 +1725,25 @@
 <Book Series="Avengers: War Across Time" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="987228" />
 </Book>
-<Book Series="Black Panther" Number="9" Volume="2023" Year="2022">
+<Book Series="Black Panther" Number="9" Volume="2022" Year="2022">
 <Database Name="cv" Series="140222" Issue="946213" />
 </Book>
-<Book Series="Black Panther" Number="10" Volume="2023" Year="2022">
+<Book Series="Black Panther" Number="10" Volume="2022" Year="2022">
 <Database Name="cv" Series="140222" Issue="950789" />
 </Book>
-<Book Series="Black Panther" Number="11" Volume="2023" Year="2023">
+<Book Series="Black Panther" Number="11" Volume="2022" Year="2023">
 <Database Name="cv" Series="140222" Issue="953001" />
 </Book>
-<Book Series="Black Panther" Number="12" Volume="2023" Year="2023">
+<Book Series="Black Panther" Number="12" Volume="2022" Year="2023">
 <Database Name="cv" Series="140222" Issue="960976" />
 </Book>
-<Book Series="Black Panther" Number="13" Volume="2023" Year="2023">
+<Book Series="Black Panther" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="140222" Issue="963983" />
 </Book>
-<Book Series="Black Panther" Number="14" Volume="2023" Year="2023">
+<Book Series="Black Panther" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="140222" Issue="969379" />
 </Book>
-<Book Series="Black Panther" Number="15" Volume="2023" Year="2023">
+<Book Series="Black Panther" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="140222" Issue="975705" />
 </Book>
 <Book Series="Wasp" Number="1" Volume="2023" Year="2023">
@@ -1896,8 +1896,8 @@
 <Book Series="Moon Girl and Devil Dinosaur" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="146733" Issue="984328" />
 </Book>
-<Book Series="Gold Goblin" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="151517" Issue="996028" />
+<Book Series="Gold Goblin" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146113" Issue="955122" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="956770" />
@@ -1923,7 +1923,7 @@
 <Book Series="Dark Web: Ms. Marvel" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146986" Issue="963978" />
 </Book>
-<Book Series="Gold Goblin" Number="2" Volume="2023" Year="2023">
+<Book Series="Gold Goblin" Number="2" Volume="2022" Year="2023">
 <Database Name="cv" Series="146113" Issue="960978" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="16" Volume="2022" Year="2023">
@@ -1947,7 +1947,7 @@
 <Book Series="Mary Jane &#38; Black Cat" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="975702" />
 </Book>
-<Book Series="Gold Goblin" Number="3" Volume="2023" Year="2023">
+<Book Series="Gold Goblin" Number="3" Volume="2022" Year="2023">
 <Database Name="cv" Series="146113" Issue="962847" />
 </Book>
 <Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
@@ -1974,10 +1974,10 @@
 <Book Series="The Amazing Spider-Man" Number="20" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="973034" />
 </Book>
-<Book Series="Gold Goblin" Number="4" Volume="2023" Year="2023">
+<Book Series="Gold Goblin" Number="4" Volume="2022" Year="2023">
 <Database Name="cv" Series="146113" Issue="969384" />
 </Book>
-<Book Series="Gold Goblin" Number="5" Volume="2023" Year="2023">
+<Book Series="Gold Goblin" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="146113" Issue="976906" />
 </Book>
 <Book Series="Daredevil" Number="6" Volume="2022" Year="2023">

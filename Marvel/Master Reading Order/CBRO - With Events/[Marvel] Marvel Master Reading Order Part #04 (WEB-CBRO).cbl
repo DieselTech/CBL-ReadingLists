@@ -3273,8 +3273,8 @@
 <Book Series="X-Men" Number="14" Volume="1991" Year="1992">
 <Database Name="cv" Series="4605" Issue="106566" />
 </Book>
-<Book Series="X-Force" Number="16" Volume="2019" Year="2021">
-<Database Name="cv" Series="122668" Issue="825509" />
+<Book Series="X-Force" Number="16" Volume="1991" Year="1992">
+<Database Name="cv" Series="4604" Issue="107129" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="295" Volume="1981" Year="1992">
 <Database Name="cv" Series="3092" Issue="107067" />
@@ -3285,8 +3285,8 @@
 <Book Series="X-Men" Number="15" Volume="1991" Year="1992">
 <Database Name="cv" Series="4605" Issue="106567" />
 </Book>
-<Book Series="X-Force" Number="17" Volume="2019" Year="2021">
-<Database Name="cv" Series="122668" Issue="828200" />
+<Book Series="X-Force" Number="17" Volume="1991" Year="1992">
+<Database Name="cv" Series="4604" Issue="107130" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="296" Volume="1981" Year="1993">
 <Database Name="cv" Series="3092" Issue="107087" />
@@ -3297,8 +3297,8 @@
 <Book Series="X-Men" Number="16" Volume="1991" Year="1993">
 <Database Name="cv" Series="4605" Issue="106568" />
 </Book>
-<Book Series="X-Force" Number="18" Volume="2019" Year="2021">
-<Database Name="cv" Series="122668" Issue="838891" />
+<Book Series="X-Force" Number="18" Volume="1991" Year="1992">
+<Database Name="cv" Series="4604" Issue="107133" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="297" Volume="1981" Year="1993">
 <Database Name="cv" Series="3092" Issue="107105" />
