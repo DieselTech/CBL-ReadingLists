@@ -117,7 +117,7 @@
 <Book Series="Grimm Fairy Tales 2012 Annual" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="49712" Issue="341007" />
 </Book>
-<Book Series="Grimm Universe" Number="1" Volume="2012" Year="2012">
+<Book Series="Grimm Fairy Tales Angel: One-Shot" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="49878" Issue="342296" />
 </Book>
 <Book Series="Grimm Fairy Tales presents Bad Girls" Number="1" Volume="2012" Year="2012">
