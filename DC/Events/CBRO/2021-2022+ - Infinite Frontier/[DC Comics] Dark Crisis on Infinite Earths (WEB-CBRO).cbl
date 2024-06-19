@@ -69,7 +69,7 @@
 <Book Series="Dark Crisis: Young Justice" Number="6" Volume="2022" Year="2023">
 <Database Name="cv" Series="143746" Issue="954928" />
 </Book>
-<Book Series="I Am Batman" Number="15" Volume="2022" Year="2023">
+<Book Series="I Am Batman" Number="15" Volume="2021" Year="2023">
 <Database Name="cv" Series="138184" Issue="953918" />
 </Book>
 <Book Series="Dark Crisis: The Dark Army" Number="1" Volume="2023" Year="2023">
