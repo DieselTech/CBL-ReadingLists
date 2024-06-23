@@ -57,8 +57,8 @@
 <Book Series="Dark Nights: Death Metal" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="127927" Issue="818625" />
 </Book>
-<Book Series="Dark Nights: Death Metal: The Multiverse Who Laughs" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="135831" Issue="846948" />
+<Book Series="Dark Nights: Death Metal: The Multiverse Who Laughs" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132160" Issue="819285" />
 </Book>
 <Book Series="Dark Nights: Death Metal The Secret Origin" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132670" Issue="821759" />
