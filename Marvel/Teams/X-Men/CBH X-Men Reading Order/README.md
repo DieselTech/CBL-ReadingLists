@@ -1,1 +1,10 @@
-I based it on the Comic Book Herald reading order which I preferred over the others I've found because it includes some series left out by others (such as Wolverine v2). I've completed up to Xtinction Agenda and stopped there. I haven't actually read these yet (this was originally just for my own use), so there may be some issues that are a little out of place. It also includes the tie-ins to the big events like Secret Wars that may not be fully X-Men related but are part of the event story.
+# Reading List Information
+This is a collection created from the X-Men reading order from Comic Book Herald (CBH):
+https://www.comicbookherald.com/chris-claremont-era-x-men-reading-order-guide/
+
+
+## Updated:
+June 30, 2024
+
+## Notes:
+This includes event tie-in issues from other titles that may not specifically be X-Men related but are part of the event story.
