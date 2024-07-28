@@ -618,6 +618,9 @@
 <Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="25714" Issue="155782" />
 </Book>
+<Book Series="X-Force/Cable: Messiah War" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26055" Issue="154017" />
+</Book>
 <Book Series="Cable" Number="13" Volume="2008" Year="2009">
 <Database Name="cv" Series="20805" Issue="154460" />
 </Book>
