@@ -183,13 +183,13 @@
 <Book Series="Flashpoint: Citizen Cold" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="40522" Issue="285179" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="1" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="274391" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="2" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="279962" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="3" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="286682" />
 </Book>
 <Book Series="Flashpoint: Grodd of War" Number="1" Volume="2011" Year="2011">
