@@ -96,7 +96,7 @@
 <Book Series="Joker: Last Laugh" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="19991" Issue="119507" />
 </Book>
-<Book Series="JLA" Number="5" Volume="1997" Year="2001">
+<Book Series="JLA" Number="59" Volume="1997" Year="2001">
 <Database Name="cv" Series="5957" Issue="110975" />
 </Book>
 <Book Series="Robin" Number="95" Volume="1993" Year="2001">
@@ -110,9 +110,6 @@
 </Book>
 <Book Series="Batman: Gotham Knights" Number="24" Volume="2000" Year="2002">
 <Database Name="cv" Series="7207" Issue="55318" />
-</Book>
-<Book Series="Batman: Gotham Knights" Number="32" Volume="2000" Year="2002">
-<Database Name="cv" Series="7207" Issue="119363" />
 </Book>
 <Book Series="Nightwing" Number="63" Volume="1996" Year="2002">
 <Database Name="cv" Series="5755" Issue="51803" />
@@ -315,6 +312,9 @@
 </Book>
 <Book Series="Batman: Gotham Knights" Number="31" Volume="2000" Year="2002">
 <Database Name="cv" Series="7207" Issue="119362" />
+</Book>
+<Book Series="Batman: Gotham Knights" Number="32" Volume="2000" Year="2002">
+<Database Name="cv" Series="7207" Issue="119363" />
 </Book>
 <Book Series="Batman" Number="605" Volume="1940" Year="2002">
 <Database Name="cv" Series="796" Issue="84874" />
