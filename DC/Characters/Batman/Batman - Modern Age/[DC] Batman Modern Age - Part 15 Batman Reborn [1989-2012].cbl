@@ -312,22 +312,22 @@
 <Book Series="Batman 80-Page Giant 2010" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="37100" Issue="247472" />
 </Book>
-<Book Series="Gotham City Sirens" Number="8" Volume="2014" Year="2010">
+<Book Series="Gotham City Sirens" Number="8" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="194261" />
 </Book>
-<Book Series="Gotham City Sirens" Number="9" Volume="2014" Year="2010">
+<Book Series="Gotham City Sirens" Number="9" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="198283" />
 </Book>
-<Book Series="Gotham City Sirens" Number="10" Volume="2014" Year="2010">
+<Book Series="Gotham City Sirens" Number="10" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="202813" />
 </Book>
-<Book Series="Gotham City Sirens" Number="11" Volume="2014" Year="2010">
+<Book Series="Gotham City Sirens" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="210576" />
 </Book>
-<Book Series="Gotham City Sirens" Number="12" Volume="2014" Year="2010">
+<Book Series="Gotham City Sirens" Number="12" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="216205" />
 </Book>
-<Book Series="Gotham City Sirens" Number="13" Volume="2014" Year="2010">
+<Book Series="Gotham City Sirens" Number="13" Volume="2009" Year="2010">
 <Database Name="cv" Series="26891" Issue="221895" />
 </Book>
 <Book Series="DC Holiday Special '09" Number="1" Volume="2010" Year="2010">
