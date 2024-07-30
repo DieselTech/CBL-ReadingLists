@@ -1308,17 +1308,17 @@
 <Book Series="Legion" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="108105" Issue="655505" />
 </Book>
-<Book Series="The Legion" Number="2" Volume="2001" Year="2002">
-<Database Name="cv" Series="7226" Issue="51465" />
+<Book Series="Legion" Number="2" Volume="2018" Year="2018">
+<Database Name="cv" Series="108105" Issue="661152" />
 </Book>
-<Book Series="The Legion" Number="3" Volume="2001" Year="2002">
-<Database Name="cv" Series="7226" Issue="51466" />
+<Book Series="Legion" Number="3" Volume="2018" Year="2018">
+<Database Name="cv" Series="108105" Issue="664301" />
 </Book>
-<Book Series="The Legion" Number="4" Volume="2001" Year="2002">
-<Database Name="cv" Series="7226" Issue="51467" />
+<Book Series="Legion" Number="4" Volume="2018" Year="2018">
+<Database Name="cv" Series="108105" Issue="667645" />
 </Book>
-<Book Series="The Legion" Number="5" Volume="2001" Year="2002">
-<Database Name="cv" Series="7226" Issue="73452" />
+<Book Series="Legion" Number="5" Volume="2018" Year="2018">
+<Database Name="cv" Series="108105" Issue="670748" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="29" Volume="2016" Year="2018">
 <Database Name="cv" Series="87182" Issue="662753" />

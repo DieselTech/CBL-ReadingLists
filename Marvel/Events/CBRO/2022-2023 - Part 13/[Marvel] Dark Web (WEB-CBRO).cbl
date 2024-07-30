@@ -21,7 +21,7 @@
 <Book Series="Dark Web: Ms. Marvel" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146986" Issue="963978" />
 </Book>
-<Book Series="Gold Goblin" Number="2" Volume="2023" Year="2023">
+<Book Series="Gold Goblin" Number="2" Volume="2022" Year="2023">
 <Database Name="cv" Series="146113" Issue="960978" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="16" Volume="2022" Year="2023">
@@ -45,7 +45,7 @@
 <Book Series="Mary Jane &#38; Black Cat" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="975702" />
 </Book>
-<Book Series="Gold Goblin" Number="3" Volume="2023" Year="2023">
+<Book Series="Gold Goblin" Number="3" Volume="2022" Year="2023">
 <Database Name="cv" Series="146113" Issue="962847" />
 </Book>
 <Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">

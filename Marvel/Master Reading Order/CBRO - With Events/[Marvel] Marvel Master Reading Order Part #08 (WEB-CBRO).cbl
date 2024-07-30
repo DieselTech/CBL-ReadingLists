@@ -726,7 +726,7 @@
 <Book Series="The Amazing Spider-Man" Number="535" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="105556" />
 </Book>
-<Book Series="Civil War" Number="5" Volume="2007" Year="2006">
+<Book Series="Civil War" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="18023" Issue="106999" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="536" Volume="1963" Year="2006">

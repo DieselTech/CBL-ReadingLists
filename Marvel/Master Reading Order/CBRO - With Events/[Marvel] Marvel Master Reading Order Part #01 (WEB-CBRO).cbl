@@ -640,7 +640,7 @@
 <Database Name="cv" Series="19112" Issue="134019" />
 </Book>
 <Book Series="Avengers: Season One" Number="1" Volume="2013" Year="2013">
-<Database Name="cv" Series="57442" Issue="414196" />
+<Database Name="cv" Series="64453" Issue="386970" />
 </Book>
 <Book Series="Avengers Origins: Scarlet Witch &#38; Quicksilver" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44148" Issue="303673" />

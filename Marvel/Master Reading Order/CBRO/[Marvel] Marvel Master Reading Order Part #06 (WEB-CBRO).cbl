@@ -1680,7 +1680,7 @@
 <Book Series="New X-Men" Number="116" Volume="2001" Year="2001">
 <Database Name="cv" Series="9121" Issue="66994" />
 </Book>
-<Book Series="New X-Men 2001" Number="1" Volume="2001" Year="2001">
+<Book Series="X-Men 2001" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="21334" Issue="128914" />
 </Book>
 <Book Series="New X-Men" Number="117" Volume="2001" Year="2001">
