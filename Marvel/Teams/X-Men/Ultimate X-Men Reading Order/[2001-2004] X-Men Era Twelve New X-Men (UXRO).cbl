@@ -3,23 +3,23 @@
 <Name>[2001-2004] X-Men Era Twelve New X-Men (UXRO)</Name>
 <NumIssues>207</NumIssues>
 <Books>
-<Book Series="Wolverine: Origins" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18130" Issue="106338" />
+<Book Series="Wolverine: The Origin" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="861887" Issue="110022" />
 </Book>
-<Book Series="Wolverine: Origins" Number="2" Volume="2006" Year="2006">
-<Database Name="cv" Series="18130" Issue="106339" />
+<Book Series="Wolverine: The Origin" Number="2" Volume="2001" Year="2001">
+<Database Name="cv" Series="861887" Issue="110026" />
 </Book>
-<Book Series="Wolverine: Origins" Number="3" Volume="2006" Year="2006">
-<Database Name="cv" Series="18130" Issue="106340" />
+<Book Series="Wolverine: The Origin" Number="3" Volume="2001" Year="2002">
+<Database Name="cv" Series="861887" Issue="110027" />
 </Book>
-<Book Series="Wolverine: Origins" Number="4" Volume="2006" Year="2006">
-<Database Name="cv" Series="18130" Issue="106341" />
+<Book Series="Wolverine: The Origin" Number="4" Volume="2001" Year="2002">
+<Database Name="cv" Series="861887" Issue="110028" />
 </Book>
-<Book Series="Wolverine: Origins" Number="5" Volume="2006" Year="2006">
-<Database Name="cv" Series="18130" Issue="106356" />
+<Book Series="Wolverine: The Origin" Number="5" Volume="2001" Year="2002">
+<Database Name="cv" Series="861887" Issue="110029" />
 </Book>
-<Book Series="Wolverine: Origins" Number="6" Volume="2006" Year="2006">
-<Database Name="cv" Series="18130" Issue="106998" />
+<Book Series="Wolverine: The Origin" Number="6" Volume="2001" Year="2002">
+<Database Name="cv" Series="861887" Issue="110030" />
 </Book>
 <Book Series="X-Treme X-Men" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="9411" Issue="76558" />
