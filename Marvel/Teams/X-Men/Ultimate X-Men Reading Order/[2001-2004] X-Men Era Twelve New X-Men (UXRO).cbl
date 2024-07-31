@@ -4,22 +4,22 @@
 <NumIssues>207</NumIssues>
 <Books>
 <Book Series="Wolverine: The Origin" Number="1" Volume="2001" Year="2001">
-<Database Name="cv" Series="861887" Issue="110022" />
+<Database Name="cv" Series="18649" Issue="110022" />
 </Book>
 <Book Series="Wolverine: The Origin" Number="2" Volume="2001" Year="2001">
-<Database Name="cv" Series="861887" Issue="110026" />
+<Database Name="cv" Series="18649" Issue="110026" />
 </Book>
 <Book Series="Wolverine: The Origin" Number="3" Volume="2001" Year="2002">
-<Database Name="cv" Series="861887" Issue="110027" />
+<Database Name="cv" Series="18649" Issue="110027" />
 </Book>
 <Book Series="Wolverine: The Origin" Number="4" Volume="2001" Year="2002">
-<Database Name="cv" Series="861887" Issue="110028" />
+<Database Name="cv" Series="18649" Issue="110028" />
 </Book>
 <Book Series="Wolverine: The Origin" Number="5" Volume="2001" Year="2002">
-<Database Name="cv" Series="861887" Issue="110029" />
+<Database Name="cv" Series="18649" Issue="110029" />
 </Book>
 <Book Series="Wolverine: The Origin" Number="6" Volume="2001" Year="2002">
-<Database Name="cv" Series="861887" Issue="110030" />
+<Database Name="cv" Series="18649" Issue="110030" />
 </Book>
 <Book Series="X-Treme X-Men" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="9411" Issue="76558" />
