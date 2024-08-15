@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2010-2011] X-Men Era Seventeen The X-Men Go Through Hell (UXRO)</Name>
-<NumIssues>231</NumIssues>
+<NumIssues>216</NumIssues>
 <Books>
 <Book Series="X-23" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32044" Issue="201027" />
@@ -318,53 +318,56 @@
 <Book Series="Uncanny X-Force" Number="9" Volume="2010" Year="2011">
 <Database Name="cv" Series="35835" Issue="269471" />
 </Book>
+<Book Series="X-23" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35496" Issue="234641" />
+</Book>
 <Book Series="X-23" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="35496" Issue="239137" />
 </Book>
 <Book Series="X-23" Number="3" Volume="2010" Year="2011">
 <Database Name="cv" Series="35496" Issue="244789" />
 </Book>
-<Book Series="Wolverine" Number="1" Volume="2003" Year="2003">
-<Database Name="cv" Series="10809" Issue="92137" />
+<Book Series="Wolverine" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35263" Issue="232524" />
 </Book>
-<Book Series="Wolverine" Number="2" Volume="2003" Year="2003">
-<Database Name="cv" Series="10809" Issue="92138" />
+<Book Series="Wolverine" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="35263" Issue="237113" />
 </Book>
-<Book Series="Wolverine" Number="3" Volume="2003" Year="2003">
-<Database Name="cv" Series="10809" Issue="92139" />
+<Book Series="Wolverine" Number="3" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="240986" />
 </Book>
-<Book Series="Wolverine" Number="4" Volume="2003" Year="2003">
-<Database Name="cv" Series="10809" Issue="92140" />
+<Book Series="Wolverine" Number="4" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="249226" />
 </Book>
-<Book Series="Wolverine" Number="5" Volume="2003" Year="2003">
-<Database Name="cv" Series="10809" Issue="92141" />
+<Book Series="Wolverine" Number="5" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="258414" />
 </Book>
-<Book Series="Wolverine" Number="6" Volume="2003" Year="2003">
-<Database Name="cv" Series="10809" Issue="92142" />
+<Book Series="Wolverine" Number="6" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="262617" />
 </Book>
-<Book Series="Wolverine" Number="7" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92143" />
+<Book Series="Wolverine" Number="7" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="267089" />
 </Book>
-<Book Series="Wolverine" Number="8" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92144" />
+<Book Series="Wolverine" Number="8" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="268747" />
 </Book>
-<Book Series="Wolverine" Number="9" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92145" />
+<Book Series="Wolverine" Number="9" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="271597" />
 </Book>
-<Book Series="Wolverine" Number="10" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92146" />
+<Book Series="Wolverine" Number="10" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="273093" />
 </Book>
-<Book Series="Wolverine" Number="11" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92147" />
+<Book Series="Wolverine" Number="11" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="275663" />
 </Book>
-<Book Series="Wolverine" Number="12" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92148" />
+<Book Series="Wolverine" Number="12" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="278565" />
 </Book>
-<Book Series="Wolverine" Number="13" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92149" />
+<Book Series="Wolverine" Number="13" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="282838" />
 </Book>
-<Book Series="Wolverine" Number="14" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92150" />
+<Book Series="Wolverine" Number="14" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="288479" />
 </Book>
 <Book Series="Namor: The First Mutant" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="34839" Issue="259138" />
@@ -384,11 +387,11 @@
 <Book Series="X-23" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="35496" Issue="263796" />
 </Book>
-<Book Series="Wolverine" Number="15" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="92151" />
+<Book Series="Wolverine" Number="15" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="291177" />
 </Book>
-<Book Series="Wolverine" Number="16" Volume="2003" Year="2004">
-<Database Name="cv" Series="10809" Issue="96816" />
+<Book Series="Wolverine" Number="16" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="293594" />
 </Book>
 <Book Series="X-23" Number="7" Volume="2010" Year="2011">
 <Database Name="cv" Series="35496" Issue="265505" />
