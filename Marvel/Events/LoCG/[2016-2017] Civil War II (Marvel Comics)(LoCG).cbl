@@ -42,16 +42,16 @@
 <Book Series="Ms. Marvel" Number="7" Volume="2015" Year="2016">
 <Database Name="cv" Series="86114" Issue="531894" />
 </Book>
-<Book Series="CivilWar II: Ulysses Infinite Comic" Number="1" Volume="2016" Year="2016">
+<Book Series="Civil War II: Ulysses" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="93373" Issue="546053" />
 </Book>
-<Book Series="CivilWar II: Ulysses Infinite Comic" Number="2" Volume="2016" Year="2016">
+<Book Series="Civil War II: Ulysses" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="93373" Issue="549514" />
 </Book>
-<Book Series="CivilWar II: Ulysses Infinite Comic" Number="3" Volume="2016" Year="2016">
+<Book Series="Civil War II: Ulysses" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="93373" Issue="553000" />
 </Book>
-<Book Series=" CivilWar II: Ulysses Infinite Comic" Number="4" Volume="2016" Year="2016">
+<Book Series="Civil War II: Ulysses Infinite Comic" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="91316" Issue="545124" />
 </Book>
 <Book Series="Civil War II: Ulysses Infinite Comic" Number="5" Volume="2016" Year="2016">
