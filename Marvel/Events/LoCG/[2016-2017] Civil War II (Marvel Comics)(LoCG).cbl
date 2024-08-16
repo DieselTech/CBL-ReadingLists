@@ -43,15 +43,15 @@
 <Database Name="cv" Series="86114" Issue="531894" />
 </Book>
 <Book Series="CivilWar II: Ulysses Infinite Comic" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="93373" Issue="546053" />
+<Database Name="cv" Series="91316" Issue="535948" />
 </Book>
 <Book Series="CivilWar II: Ulysses Infinite Comic" Number="2" Volume="2016" Year="2016">
-<Database Name="cv" Series="93373" Issue="549514" />
+<Database Name="cv" Series="91316" Issue="538664" />
 </Book>
 <Book Series="CivilWar II: Ulysses Infinite Comic" Number="3" Volume="2016" Year="2016">
-<Database Name="cv" Series="93373" Issue="553000" />
+<Database Name="cv" Series="91316" Issue="541649" />
 </Book>
-<Book Series=" CivilWar II: Ulysses Infinite Comic" Number="4" Volume="2016" Year="2016">
+<Book Series="CivilWar II: Ulysses Infinite Comic" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="91316" Issue="545124" />
 </Book>
 <Book Series="Civil War II: Ulysses Infinite Comic" Number="5" Volume="2016" Year="2016">
