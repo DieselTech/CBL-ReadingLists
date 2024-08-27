@@ -255,14 +255,14 @@
 <Book Series="Cable and X-Force" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="54644" Issue="425930" />
 </Book>
-<Book Series="New Avengers" Number="1" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="101407" />
+<Book Series="New Avengers" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="376665" />
 </Book>
-<Book Series="New Avengers" Number="2" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="101408" />
+<Book Series="New Avengers" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="380355" />
 </Book>
-<Book Series="New Avengers" Number="3" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="101409" />
+<Book Series="New Avengers" Number="3" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="384960" />
 </Book>
 <Book Series="Avengers" Number="1" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="371103" />
@@ -273,14 +273,14 @@
 <Book Series="Avengers" Number="3" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="381411" />
 </Book>
-<Book Series="New Avengers" Number="4" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="108304" />
+<Book Series="New Avengers" Number="4" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="394709" />
 </Book>
-<Book Series="New Avengers" Number="5" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="108305" />
+<Book Series="New Avengers" Number="5" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="398990" />
 </Book>
-<Book Series="New Avengers" Number="6" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="108306" />
+<Book Series="New Avengers" Number="6" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="406978" />
 </Book>
 <Book Series="Scarlet Spider" Number="17" Volume="2012" Year="2013">
 <Database Name="cv" Series="45101" Issue="404701" />
@@ -453,14 +453,14 @@
 <Book Series="Avengers" Number="18" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="422493" />
 </Book>
-<Book Series="New Avengers" Number="9" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="108309" />
+<Book Series="New Avengers" Number="9" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="423677" />
 </Book>
 <Book Series="Infinity" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="66319" Issue="424535" />
 </Book>
-<Book Series="New Avengers" Number="10" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="108312" />
+<Book Series="New Avengers" Number="10" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="425935" />
 </Book>
 <Book Series="Avengers" Number="19" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="425022" />
@@ -489,8 +489,8 @@
 <Book Series="Avengers" Number="21" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="428855" />
 </Book>
-<Book Series="New Avengers" Number="11" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="108314" />
+<Book Series="New Avengers" Number="11" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="428865" />
 </Book>
 <Book Series="Infinity" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="66319" Issue="431441" />
@@ -504,8 +504,8 @@
 <Book Series="Infinity" Number="6" Volume="2013" Year="2014">
 <Database Name="cv" Series="66319" Issue="435055" />
 </Book>
-<Book Series="New Avengers" Number="12" Volume="2004" Year="2005">
-<Database Name="cv" Series="11497" Issue="108315" />
+<Book Series="New Avengers" Number="12" Volume="2013" Year="2014">
+<Database Name="cv" Series="55330" Issue="435060" />
 </Book>
 <Book Series="Inhumanity: The Awakening" Number="1" Volume="2013" Year="2014">
 <Database Name="cv" Series="69866" Issue="436199" />
