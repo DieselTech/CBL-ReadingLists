@@ -822,6 +822,9 @@
 <Book Series="Power Pack" Number="44" Volume="1984" Year="1989">
 <Database Name="cv" Series="3358" Issue="30994" />
 </Book>
+<Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
+<Database Name="cv" Series="4349" Issue="31537" />
+</Book>
 <Book Series="Excalibur" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="4052" Issue="66340" />
 </Book>
@@ -1147,7 +1150,7 @@
 <Database Name="cv" Series="3657" Issue="32340" />
 </Book>
 <Book Series="Damage Control" Number="1" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31211" />
+<Database Name="cv" Series="4350" Issue="32051" />
 </Book>
 <Book Series="The Avengers" Number="311" Volume="1963" Year="1989">
 <Database Name="cv" Series="2128" Issue="31993" />
@@ -1330,13 +1333,13 @@
 <Database Name="cv" Series="3519" Issue="32648" />
 </Book>
 <Book Series="Damage Control" Number="2" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31320" />
+<Database Name="cv" Series="4350" Issue="32079" />
 </Book>
 <Book Series="Damage Control" Number="3" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31432" />
+<Database Name="cv" Series="4350" Issue="32365" />
 </Book>
 <Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31537" />
+<Database Name="cv" Series="4350" Issue="32461" />
 </Book>
 <Book Series="Web of Spider-Man" Number="64" Volume="1985" Year="1990">
 <Database Name="cv" Series="3519" Issue="32742" />
