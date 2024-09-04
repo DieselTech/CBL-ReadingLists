@@ -312,9 +312,6 @@
 <Book Series="The Uncanny X-Men" Number="224" Volume="1981" Year="1987">
 <Database Name="cv" Series="3092" Issue="28935" />
 </Book>
-<Book Series="The Incredible Hulk" Number="340" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29262" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="225" Volume="1981" Year="1988">
 <Database Name="cv" Series="3092" Issue="29158" />
 </Book>
@@ -825,9 +822,6 @@
 <Book Series="Power Pack" Number="44" Volume="1984" Year="1989">
 <Database Name="cv" Series="3358" Issue="30994" />
 </Book>
-<Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31537" />
-</Book>
 <Book Series="Excalibur" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="4052" Issue="66340" />
 </Book>
@@ -1058,9 +1052,6 @@
 </Book>
 <Book Series="Web of Spider-Man Annual" Number="5" Volume="1985" Year="1989">
 <Database Name="cv" Series="3520" Issue="30615" />
-</Book>
-<Book Series="Avengers West Coast" Number="56" Volume="1989" Year="1990">
-<Database Name="cv" Series="18494" Issue="114102" />
 </Book>
 <Book Series="Avengers West Coast Annual" Number="4" Volume="1989" Year="1989">
 <Database Name="cv" Series="4219" Issue="31863" />
