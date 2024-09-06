@@ -24,8 +24,8 @@
 <Book Series="Wolverine" Number="72" Volume="2003" Year="2009">
 <Database Name="cv" Series="10809" Issue="158597" />
 </Book>
-<Book Series="Giant-Size Wolverine" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="20385" Issue="121915" />
+<Book Series="Wolverine: Old Man Logan Giant-Size" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="28080" Issue="172385" />
 </Book>
 <Book Series="Old Man Logan" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="87624" Issue="512432" />
@@ -129,8 +129,8 @@
 <Book Series="Civil War II" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="90521" Issue="533027" />
 </Book>
-<Book Series="Captain Marvel" Number="6" Volume="2014" Year="2014">
-<Database Name="cv" Series="72272" Issue="462247" />
+<Book Series="Captain Marvel" Number="6" Volume="2016" Year="2016">
+<Database Name="cv" Series="87428" Issue="537934" />
 </Book>
 <Book Series="Civil War II" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="90521" Issue="535350" />
@@ -150,11 +150,11 @@
 <Book Series="Civil War II" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="90521" Issue="539234" />
 </Book>
-<Book Series="Captain Marvel" Number="7" Volume="2014" Year="2014">
-<Database Name="cv" Series="72272" Issue="464976" />
+<Book Series="Captain Marvel" Number="7" Volume="2016" Year="2016">
+<Database Name="cv" Series="87428" Issue="541197" />
 </Book>
-<Book Series="Captain Marvel" Number="8" Volume="2014" Year="2014">
-<Database Name="cv" Series="72272" Issue="467649" />
+<Book Series="Captain Marvel" Number="8" Volume="2016" Year="2016">
+<Database Name="cv" Series="87428" Issue="546052" />
 </Book>
 <Book Series="Civil War II" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="90521" Issue="541199" />
@@ -267,11 +267,11 @@
 <Book Series="Uncanny X-Men" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="87190" Issue="557381" />
 </Book>
-<Book Series="All-New X-Men Annual" Number="1" Volume="2014" Year="2015">
-<Database Name="cv" Series="79024" Issue="474620" />
+<Book Series="All-New X-Men Annual" Number="1" Volume="2016" Year="2017">
+<Database Name="cv" Series="95807" Issue="558952" />
 </Book>
-<Book Series="X-Men Annual" Number="1" Volume="1970" Year="1970">
-<Database Name="cv" Series="22988" Issue="138675" />
+<Book Series="Uncanny X-Men Annual" Number="1" Volume="2016" Year="2017">
+<Database Name="cv" Series="95754" Issue="558428" />
 </Book>
 <Book Series="Extraordinary X-Men Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="94271" Issue="550357" />
