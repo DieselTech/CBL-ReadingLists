@@ -159,8 +159,8 @@
 <Book Series="Uncanny X-Men" Number="17" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="445823" />
 </Book>
-<Book Series="X-Men Annual" Number="1" Volume="1970" Year="1970">
-<Database Name="cv" Series="22988" Issue="138675" />
+<Book Series="Uncanny X-Men Annual" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="78718" Issue="472914" />
 </Book>
 <Book Series="All-New X-Men Annual" Number="1" Volume="2014" Year="2015">
 <Database Name="cv" Series="79024" Issue="474620" />
@@ -450,8 +450,8 @@
 <Book Series="Nightcrawler" Number="4" Volume="2014" Year="2014">
 <Database Name="cv" Series="72934" Issue="459173" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="43539" Issue="299471" />
+<Book Series="Wolverine &#38; the X-Men" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="446927" />
 </Book>
 <Book Series="Nightcrawler" Number="5" Volume="2014" Year="2014">
 <Database Name="cv" Series="72934" Issue="462254" />
@@ -459,26 +459,26 @@
 <Book Series="Nightcrawler" Number="6" Volume="2014" Year="2014">
 <Database Name="cv" Series="72934" Issue="464988" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="2" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="303379" />
+<Book Series="Wolverine &#38; the X-Men" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="448008" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="3" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="307452" />
+<Book Series="Wolverine &#38; the X-Men" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="450561" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="4" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="310892" />
+<Book Series="Wolverine &#38; the X-Men" Number="4" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="453423" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="5" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="315083" />
+<Book Series="Wolverine &#38; the X-Men" Number="5" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="456559" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="6" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="316711" />
+<Book Series="Wolverine &#38; the X-Men" Number="6" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="460319" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="7" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="321295" />
+<Book Series="Wolverine &#38; the X-Men" Number="7" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="462262" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="8" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="326863" />
+<Book Series="Wolverine &#38; the X-Men" Number="8" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="463491" />
 </Book>
 <Book Series="All-New X-Men" Number="37" Volume="2012" Year="2015">
 <Database Name="cv" Series="53919" Issue="482149" />
@@ -504,8 +504,8 @@
 <Book Series="X-Men" Number="22" Volume="2013" Year="2015">
 <Database Name="cv" Series="62383" Issue="472916" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="9" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="332029" />
+<Book Series="Wolverine &#38; the X-Men" Number="9" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="465854" />
 </Book>
 <Book Series="Uncanny Avengers" Number="24" Volume="2012" Year="2014">
 <Database Name="cv" Series="52880" Issue="465852" />
@@ -543,11 +543,11 @@
 <Book Series="Storm" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="75874" Issue="479984" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="10" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="335236" />
+<Book Series="Wolverine &#38; the X-Men" Number="10" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="468092" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="11" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="337499" />
+<Book Series="Wolverine &#38; the X-Men" Number="11" Volume="2014" Year="2014">
+<Database Name="cv" Series="72113" Issue="468916" />
 </Book>
 <Book Series="Death of Wolverine: The Logan Legacy" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="77576" Issue="468462" />
