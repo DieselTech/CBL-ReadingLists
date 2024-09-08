@@ -3066,14 +3066,8 @@
 <Book Series="Excalibur" Number="98" Volume="1988" Year="1996">
 <Database Name="cv" Series="4052" Issue="66381" />
 </Book>
-<Book Series="X-Men" Number="25" Volume="1991" Year="1993">
-<Database Name="cv" Series="4605" Issue="65726" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="322" Volume="1981" Year="1995">
 <Database Name="cv" Series="3092" Issue="41143" />
-</Book>
-<Book Series="X-Force" Number="46" Volume="1991" Year="1995">
-<Database Name="cv" Series="4604" Issue="64520" />
 </Book>
 <Book Series="X-Men" Number="46" Volume="1991" Year="1995">
 <Database Name="cv" Series="4605" Issue="65747" />
@@ -3213,14 +3207,8 @@
 <Book Series="Generation X" Number="19" Volume="1994" Year="1996">
 <Database Name="cv" Series="5300" Issue="42794" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="415" Volume="1963" Year="1996">
-<Database Name="cv" Series="2127" Issue="64453" />
-</Book>
 <Book Series="Wolverine" Number="105" Volume="1988" Year="1996">
 <Database Name="cv" Series="4250" Issue="51173" />
-</Book>
-<Book Series="Spider-Man" Number="72" Volume="1990" Year="1996">
-<Database Name="cv" Series="4421" Issue="64650" />
 </Book>
 <Book Series="X-Men" Number="56" Volume="1991" Year="1996">
 <Database Name="cv" Series="4605" Issue="65756" />
@@ -3245,9 +3233,6 @@
 </Book>
 <Book Series="Excalibur" Number="102" Volume="1988" Year="1996">
 <Database Name="cv" Series="4052" Issue="66385" />
-</Book>
-<Book Series="Green Goblin" Number="13" Volume="1995" Year="1996">
-<Database Name="cv" Series="18471" Issue="109329" />
 </Book>
 <Book Series="Venom: The Hunger" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="9525" Issue="78424" />
@@ -5156,18 +5141,6 @@
 </Book>
 <Book Series="Spectacular Spider-Girl" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="28417" Issue="201070" />
-</Book>
-<Book Series="Spectacular Spider-Girl" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="28417" Issue="175004" />
-</Book>
-<Book Series="Spectacular Spider-Girl" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="28417" Issue="175019" />
-</Book>
-<Book Series="Spectacular Spider-Girl" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="28417" Issue="175024" />
-</Book>
-<Book Series="Spectacular Spider-Girl" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="28417" Issue="175020" />
 </Book>
 <Book Series="Spider-Girl:  The End!" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35111" Issue="231684" />
