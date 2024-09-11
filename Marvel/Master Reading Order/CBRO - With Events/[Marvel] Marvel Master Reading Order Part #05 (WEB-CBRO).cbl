@@ -1647,14 +1647,14 @@
 <Book Series="X-Force" Number="31" Volume="1991" Year="1994">
 <Database Name="cv" Series="4604" Issue="64508" />
 </Book>
-<Book Series="X-Force" Number="32" Volume="2020" Year="2022">
-<Database Name="cv" Series="122668" Issue="950383" />
+<Book Series="X-Force" Number="32" Volume="1991" Year="1994">
+<Database Name="cv" Series="4604" Issue="107190" />
 </Book>
 <Book Series="The New Warriors" Number="45" Volume="1990" Year="1994">
 <Database Name="cv" Series="4407" Issue="105463" />
 </Book>
-<Book Series="X-Force" Number="33" Volume="2020" Year="2022">
-<Database Name="cv" Series="122668" Issue="951451" />
+<Book Series="X-Force" Number="33" Volume="1991" Year="1994">
+<Database Name="cv" Series="4604" Issue="107191" />
 </Book>
 <Book Series="The New Warriors" Number="46" Volume="1990" Year="1994">
 <Database Name="cv" Series="4407" Issue="105464" />
