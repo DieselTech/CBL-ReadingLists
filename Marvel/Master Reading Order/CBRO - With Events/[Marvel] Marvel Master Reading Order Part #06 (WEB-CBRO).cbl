@@ -609,11 +609,11 @@
 <Book Series="Black Panther" Number="25" Volume="1998" Year="2000">
 <Database Name="cv" Series="6496" Issue="50809" />
 </Book>
-<Book Series="Captain Marvel" Number="12" Volume="2000" Year="2000">
-<Database Name="cv" Series="6458" Issue="80550" />
+<Book Series="Captain Marvel" Number="12" Volume="2002" Year="2003">
+<Database Name="cv" Series="18296" Issue="152552" />
 </Book>
-<Book Series="Captain Marvel" Number="13" Volume="2000" Year="2001">
-<Database Name="cv" Series="6458" Issue="80551" />
+<Book Series="Captain Marvel" Number="13" Volume="2002" Year="2003">
+<Database Name="cv" Series="18296" Issue="152553" />
 </Book>
 <Book Series="Incredible Hulk" Number="21" Volume="2000" Year="2000">
 <Database Name="cv" Series="6558" Issue="46840" />
