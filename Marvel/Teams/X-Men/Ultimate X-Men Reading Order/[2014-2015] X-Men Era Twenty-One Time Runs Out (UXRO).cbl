@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2014-2015] X-Men Era Twenty-One Time Runs Out (UXRO)</Name>
-<NumIssues>114</NumIssues>
+<NumIssues>116</NumIssues>
 <Books>
 <Book Series="New Avengers" Number="16" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="448973" />
@@ -132,6 +132,9 @@
 <Book Series="Legendary Star-Lord" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="75335" Issue="476787" />
 </Book>
+<Book Series="Guardians of the Galaxy &amp; X-Men: The Black Vortex Alpha" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="79860" Issue="478607" />
+</Book>
 <Book Series="Guardians of the Galaxy" Number="24" Volume="2013" Year="2015">
 <Database Name="cv" Series="57960" Issue="479260" />
 </Book>
@@ -167,6 +170,9 @@
 </Book>
 <Book Series="Legendary Star-Lord" Number="11" Volume="2014" Year="2015">
 <Database Name="cv" Series="75335" Issue="486148" />
+</Book>
+<Book Series="Guardians of the Galaxy &amp; X-Men: The Black Vortex Omega" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="81482" Issue="486723" />
 </Book>
 <Book Series="All-New X-Men" Number="40" Volume="2012" Year="2015">
 <Database Name="cv" Series="53919" Issue="486715" />
