@@ -3255,26 +3255,44 @@
 <Book Series="Deadpool" Number="26" Volume="2012" Year="2014">
 <Database Name="cv" Series="53726" Issue="448965" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="75556" Issue="459170" />
+<Book Series="Deadpool: The Gauntlet" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="441551" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="2" Volume="2014" Year="2014">
-<Database Name="cv" Series="75556" Issue="459671" />
+<Book Series="Deadpool: The Gauntlet" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="442302" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="3" Volume="2014" Year="2014">
-<Database Name="cv" Series="75556" Issue="460312" />
+<Book Series="Deadpool: The Gauntlet" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="443006" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="4" Volume="2014" Year="2014">
-<Database Name="cv" Series="75556" Issue="461723" />
+<Book Series="Deadpool: The Gauntlet" Number="4" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="443981" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="5" Volume="2014" Year="2014">
-<Database Name="cv" Series="75556" Issue="461724" />
+<Book Series="Deadpool: The Gauntlet" Number="5" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="444747" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="6" Volume="2014" Year="2014">
-<Database Name="cv" Series="75556" Issue="462249" />
+<Book Series="Deadpool: The Gauntlet" Number="6" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="445276" />
 </Book>
-<Book Series="Deadpool: Dracula's Gauntlet" Number="7" Volume="2014" Year="2014">
-<Database Name="cv" Series="75556" Issue="462889" />
+<Book Series="Deadpool: The Gauntlet" Number="7" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="445953" />
+</Book>
+<Book Series="Deadpool: The Gauntlet" Number="8" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="446589" />
+</Book>
+<Book Series="Deadpool: The Gauntlet" Number="9" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="447090" />
+</Book>
+<Book Series="Deadpool: The Gauntlet" Number="10" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="447626" />
+</Book>
+<Book Series="Deadpool: The Gauntlet" Number="11" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="448109" />
+</Book>
+<Book Series="Deadpool: The Gauntlet" Number="12" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="449068" />
+</Book>
+<Book Series="Deadpool: The Gauntlet" Number="13" Volume="2014" Year="2014">
+<Database Name="cv" Series="70756" Issue="449685" />
 </Book>
 <Book Series="Deadpool" Number="27" Volume="2012" Year="2014">
 <Database Name="cv" Series="53726" Issue="450073" />
