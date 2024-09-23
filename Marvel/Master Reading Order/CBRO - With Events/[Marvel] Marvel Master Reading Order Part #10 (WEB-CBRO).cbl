@@ -1344,7 +1344,7 @@
 <Book Series="Venom" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="39301" Issue="302514" />
 </Book>
-<Book Series="Villains for Hire" Number=".1" Volume="2012" Year="2012">
+<Book Series="Villains for Hire" Number="0.1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43805" Issue="301066" />
 </Book>
 <Book Series="Villains for Hire" Number="1" Volume="2012" Year="2012">
