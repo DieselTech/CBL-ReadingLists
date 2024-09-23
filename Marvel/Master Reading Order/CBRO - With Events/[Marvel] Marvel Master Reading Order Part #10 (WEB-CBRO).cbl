@@ -6378,17 +6378,29 @@
 <Book Series="Where Monsters Dwell" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="82217" Issue="504349" />
 </Book>
-<Book Series="X-Men '92" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="493055" />
+<Book Series="X-Men '92 Infinite Comic" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="490022" />
 </Book>
-<Book Series="X-Men '92" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="496401" />
+<Book Series="X-Men '92 Infinite Comic" Number="2" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="491677" />
 </Book>
-<Book Series="X-Men '92" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="498402" />
+<Book Series="X-Men '92 Infinite Comic" Number="3" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="493191" />
 </Book>
-<Book Series="X-Men '92" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="82858" Issue="501620" />
+<Book Series="X-Men '92 Infinite Comic" Number="4" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="494669" />
+</Book>
+<Book Series="X-Men '92 Infinite Comic" Number="5" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="496003" />
+</Book>
+<Book Series="X-Men '92 Infinite Comic" Number="6" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="497032" />
+</Book>
+<Book Series="X-Men '92 Infinite Comic" Number="7" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="498098" />
+</Book>
+<Book Series="X-Men '92 Infinite Comic" Number="8" Volume="2015" Year="2015">
+<Database Name="cv" Series="82272" Issue="499200" />
 </Book>
 <Book Series="Years of Future Past" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82382" Issue="490898" />
