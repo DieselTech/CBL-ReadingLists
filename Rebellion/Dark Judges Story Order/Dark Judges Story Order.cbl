@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Dark Judges Story Order</Name>
-<NumIssues>322</NumIssues>
+<NumIssues>325</NumIssues>
 <Books>
 <Book Series="2000 AD" Number="650" Volume="1977" Year="1989">
 <Database Name="cv" Series="19752" Issue="126298" />
@@ -165,6 +165,9 @@
 <Book Series="2000 AD" Number="151" Volume="1977" Year="1980">
 <Database Name="cv" Series="19752" Issue="125465" />
 </Book>
+<Book Series="Judge Dredd Annual" Number="1" Volume="1980" Year="1980">
+<Database Name="cv" Series="19992" Issue="119441" />
+</Book>
 <Book Series="2000 AD" Number="224" Volume="1977" Year="1981">
 <Database Name="cv" Series="19752" Issue="118575" />
 </Book>
@@ -179,6 +182,9 @@
 </Book>
 <Book Series="2000 AD" Number="228" Volume="1977" Year="1981">
 <Database Name="cv" Series="19752" Issue="125881" />
+</Book>
+<Book Series="Judge Dredd Annual" Number="2" Volume="1980" Year="1981">
+<Database Name="cv" Series="19992" Issue="328265" />
 </Book>
 <Book Series="2000 AD" Number="733" Volume="1977" Year="1991">
 <Database Name="cv" Series="19752" Issue="127775" />
@@ -302,6 +308,9 @@
 </Book>
 <Book Series="2000 AD" Number="601" Volume="1977" Year="1988">
 <Database Name="cv" Series="19752" Issue="126270" />
+</Book>
+<Book Series="2000 AD Annual" Number="9" Volume="1977" Year="1985">
+<Database Name="cv" Series="37464" Issue="289543" />
 </Book>
 <Book Series="2000 AD" Number="1034" Volume="1977" Year="1997">
 <Database Name="cv" Series="19752" Issue="127203" />
