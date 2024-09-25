@@ -213,8 +213,8 @@
 <Book Series="Usagi Yojimbo" Number="12" Volume="1996" Year="1997">
 <Database Name="cv" Series="5845" Issue="43548" />
 </Book>
-<Book Series="Usagi Yojimbo Color Special" Number="4" Volume="1997" Year="1997">
-<Database Name="cv" Series="32868" Issue="211481" />
+<Book Series="Usagi Yojimbo Color Special" Number="4" Volume="1989" Year="1997">
+<Database Name="cv" Series="4270" Issue="211481" />
 </Book>
 <Book Series="Art of Usagi Yojimbo" Number="1" Volume="2004" Year="2006">
 <Database Name="cv" Series="43064" Issue="293905" />
@@ -624,8 +624,8 @@
 <Book Series="Usagi Yojimbo" Number="144" Volume="1996" Year="2012">
 <Database Name="cv" Series="5845" Issue="317999" />
 </Book>
-<Book Series="Usagi Yojimbo Color Special: The Artist" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="75548" Issue="459143" />
+<Book Series="Usagi Yojimbo Color Special" Number="5" Volume="1989" Year="2014">
+<Database Name="cv" Series="4270" Issue="459143" />
 </Book>
 <Book Series="Usagi Yojimbo" Number="145" Volume="1996" Year="2015">
 <Database Name="cv" Series="5845" Issue="489265" />
