@@ -588,14 +588,14 @@
 <Book Series="Thunderbolts" Number="162" Volume="2006" Year="2011">
 <Database Name="cv" Series="18128" Issue="286907" />
 </Book>
-<Book Series="Fear Itself" Number="3" Volume="2011" Year="2011">
-<Database Name="cv" Series="39611" Issue="272330" />
+<Book Series="Fear Itself: Youth in Revolt" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="40105" Issue="277629" />
 </Book>
-<Book Series="Fear Itself" Number="4" Volume="2011" Year="2011">
-<Database Name="cv" Series="39611" Issue="277536" />
+<Book Series="Fear Itself: Youth in Revolt" Number="4" Volume="2011" Year="2011">
+<Database Name="cv" Series="40105" Issue="290942" />
 </Book>
-<Book Series="Fear Itself" Number="5" Volume="2011" Year="2011">
-<Database Name="cv" Series="39611" Issue="285335" />
+<Book Series="Fear Itself: Youth in Revolt" Number="5" Volume="2011" Year="2011">
+<Database Name="cv" Series="40105" Issue="293420" />
 </Book>
 <Book Series="Invincible Iron Man" Number="506" Volume="2008" Year="2011">
 <Database Name="cv" Series="21487" Issue="280356" />
