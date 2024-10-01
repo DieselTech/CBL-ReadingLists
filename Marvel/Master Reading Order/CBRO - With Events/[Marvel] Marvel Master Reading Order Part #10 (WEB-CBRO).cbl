@@ -5068,19 +5068,19 @@
 <Database Name="cv" Series="70705" Issue="489897" />
 </Book>
 <Book Series="Uncanny Avengers" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="85318" Issue="502874" />
+<Database Name="cv" Series="79736" Issue="477857" />
 </Book>
-<Book Series="Uncanny Avengers" Number="2" Volume="2015" Year="2016">
-<Database Name="cv" Series="85318" Issue="505530" />
+<Book Series="Uncanny Avengers" Number="2" Volume="2015" Year="2015">
+<Database Name="cv" Series="79736" Issue="480685" />
 </Book>
-<Book Series="Uncanny Avengers" Number="3" Volume="2015" Year="2016">
-<Database Name="cv" Series="85318" Issue="507786" />
+<Book Series="Uncanny Avengers" Number="3" Volume="2015" Year="2015">
+<Database Name="cv" Series="79736" Issue="484908" />
 </Book>
-<Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2016">
-<Database Name="cv" Series="85318" Issue="510957" />
+<Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2015">
+<Database Name="cv" Series="79736" Issue="488663" />
 </Book>
-<Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2016">
-<Database Name="cv" Series="85318" Issue="513659" />
+<Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2015">
+<Database Name="cv" Series="79736" Issue="493053" />
 </Book>
 <Book Series="X-Men" Number="23" Volume="2013" Year="2015">
 <Database Name="cv" Series="62383" Issue="475466" />
