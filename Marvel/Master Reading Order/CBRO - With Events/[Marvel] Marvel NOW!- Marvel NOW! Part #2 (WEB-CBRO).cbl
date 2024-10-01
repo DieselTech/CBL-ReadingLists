@@ -1989,16 +1989,16 @@
 <Book Series="Uncanny Avengers" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="79736" Issue="477857" />
 </Book>
-<Book Series="Uncanny Avengers" Number="2" Volume="2015" Year="2016">
+<Book Series="Uncanny Avengers" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="79736" Issue="480685" />
 </Book>
-<Book Series="Uncanny Avengers" Number="3" Volume="2015" Year="2016">
+<Book Series="Uncanny Avengers" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="79736" Issue="484908" />
 </Book>
-<Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2016">
+<Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="79736" Issue="488663" />
 </Book>
-<Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2016">
+<Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="79736" Issue="493053" />
 </Book>
 <Book Series="X-Men" Number="23" Volume="2013" Year="2015">
