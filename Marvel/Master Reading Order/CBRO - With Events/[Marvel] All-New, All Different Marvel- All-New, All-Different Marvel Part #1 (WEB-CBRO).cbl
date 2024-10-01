@@ -2029,19 +2029,19 @@
 <Database Name="cv" Series="85311" Issue="551316" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="87793" Issue="513645" />
+<Database Name="cv" Series="92360" Issue="540074" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="2" Volume="2016" Year="2016">
-<Database Name="cv" Series="87793" Issue="520200" />
+<Database Name="cv" Series="92360" Issue="543751" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="3" Volume="2016" Year="2016">
-<Database Name="cv" Series="87793" Issue="526049" />
+<Database Name="cv" Series="92360" Issue="548574" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="4" Volume="2016" Year="2016">
-<Database Name="cv" Series="87793" Issue="530727" />
+<Database Name="cv" Series="92360" Issue="552156" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="5" Volume="2016" Year="2016">
-<Database Name="cv" Series="87793" Issue="534285" />
+<Database Name="cv" Series="92360" Issue="556470" />
 </Book>
 <Book Series="Deadpool &#38; The Mercs For Money" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="569328" />
