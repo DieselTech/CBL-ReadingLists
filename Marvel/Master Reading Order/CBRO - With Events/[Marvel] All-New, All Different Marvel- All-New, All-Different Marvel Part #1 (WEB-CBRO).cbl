@@ -2190,9 +2190,6 @@
 <Book Series="Thunderbolts" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="90125" Issue="547296" />
 </Book>
-<Book Series="International Iron Man" Number="4" Volume="2016" Year="2016">
-<Database Name="cv" Series="88934" Issue="535356" />
-</Book>
 <Book Series="The Totally Awesome Hulk" Number="7" Volume="2015" Year="2016">
 <Database Name="cv" Series="86408" Issue="537249" />
 </Book>
