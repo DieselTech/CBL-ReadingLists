@@ -1899,9 +1899,6 @@
 <Book Series="Thunderbolts" Number="11" Volume="2016" Year="2017">
 <Database Name="cv" Series="90125" Issue="589840" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="25" Volume="2015" Year="2017">
-<Database Name="cv" Series="85076" Issue="587400" />
-</Book>
 <Book Series="Captain America: Sam Wilson" Number="21" Volume="2015" Year="2017">
 <Database Name="cv" Series="85274" Issue="591751" />
 </Book>
