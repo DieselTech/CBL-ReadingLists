@@ -1545,9 +1545,6 @@
 <Book Series="New Mutants" Number="12" Volume="2020" Year="2020">
 <Database Name="cv" Series="122666" Issue="797246" />
 </Book>
-<Book Series="Marvel's Voices" Number="1" Volume="2020" Year="2020">
-<Database Name="cv" Series="125120" Issue="737760" />
-</Book>
 <Book Series="Children of the Atom" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="134388" Issue="836298" />
 </Book>
