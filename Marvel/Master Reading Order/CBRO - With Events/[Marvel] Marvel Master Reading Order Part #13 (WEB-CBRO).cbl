@@ -2214,19 +2214,19 @@
 <Book Series="Captain America and the Winter Soldier Special" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="146087" Issue="954939" />
 </Book>
-<Book Series="Captain America: Sentinel of Liberty" Number="7" Volume="2023" Year="2023">
+<Book Series="Captain America: Sentinel of Liberty" Number="7" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="958978" />
 </Book>
-<Book Series="Captain America: Sentinel of Liberty" Number="8" Volume="2023" Year="2023">
+<Book Series="Captain America: Sentinel of Liberty" Number="8" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="962848" />
 </Book>
-<Book Series="Captain America: Sentinel of Liberty" Number="9" Volume="2023" Year="2023">
+<Book Series="Captain America: Sentinel of Liberty" Number="9" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="967795" />
 </Book>
-<Book Series="Captain America: Sentinel of Liberty" Number="10" Volume="2023" Year="2023">
+<Book Series="Captain America: Sentinel of Liberty" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="973956" />
 </Book>
-<Book Series="Captain America: Sentinel of Liberty" Number="11" Volume="2023" Year="2023">
+<Book Series="Captain America: Sentinel of Liberty" Number="11" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="981471" />
 </Book>
 <Book Series="Captain America: Cold War Alpha" Number="1" Volume="2023" Year="2023">
@@ -2235,13 +2235,13 @@
 <Book Series="Captain America: Symbol of Truth" Number="12" Volume="2022" Year="2023">
 <Database Name="cv" Series="142840" Issue="985666" />
 </Book>
-<Book Series="Captain America: Sentinel of Liberty" Number="12" Volume="2023" Year="2023">
+<Book Series="Captain America: Sentinel of Liberty" Number="12" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="989656" />
 </Book>
 <Book Series="Captain America: Symbol of Truth" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="142840" Issue="992315" />
 </Book>
-<Book Series="Captain America: Sentinel of Liberty" Number="13" Volume="2023" Year="2023">
+<Book Series="Captain America: Sentinel of Liberty" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="143632" Issue="993227" />
 </Book>
 <Book Series="Captain America: Cold War Omega" Number="1" Volume="2023" Year="2023">
