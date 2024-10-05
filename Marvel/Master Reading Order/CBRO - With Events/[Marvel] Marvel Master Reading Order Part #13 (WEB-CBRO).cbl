@@ -1713,16 +1713,16 @@
 <Book Series="The Avengers: War Across Time" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="964214" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="2" Volume="2023" Year="2023">
+<Book Series="The Avengers: War Across Time" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="969378" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="3" Volume="2023" Year="2023">
+<Book Series="The Avengers: War Across Time" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="976903" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="4" Volume="2023" Year="2023">
+<Book Series="The Avengers: War Across Time" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="981483" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="5" Volume="2023" Year="2023">
+<Book Series="The Avengers: War Across Time" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="987228" />
 </Book>
 <Book Series="Black Panther" Number="9" Volume="2022" Year="2022">
