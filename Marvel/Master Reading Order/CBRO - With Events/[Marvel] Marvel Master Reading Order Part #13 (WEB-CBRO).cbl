@@ -1905,8 +1905,8 @@
 <Book Series="Venom" Number="13" Volume="2021" Year="2023">
 <Database Name="cv" Series="140084" Issue="953979" />
 </Book>
-<Book Series="Dark Web" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="150051" Issue="987300" />
+<Book Series="Dark Web" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="146735" Issue="959000" />
 </Book>
 <Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
