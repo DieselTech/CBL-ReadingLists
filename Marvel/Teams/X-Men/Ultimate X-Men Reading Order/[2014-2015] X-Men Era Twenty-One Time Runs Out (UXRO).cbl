@@ -60,8 +60,8 @@
 <Book Series="Magneto" Number="12" Volume="2014" Year="2015">
 <Database Name="cv" Series="72111" Issue="470431" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="12" Volume="2011" Year="2012">
-<Database Name="cv" Series="43539" Issue="342841" />
+<Book Series="Wolverine &#38; the X-Men" Number="12" Volume="2014" Year="2015">
+<Database Name="cv" Series="72113" Issue="471326" />
 </Book>
 <Book Series="Amazing X-Men" Number="14" Volume="2014" Year="2015">
 <Database Name="cv" Series="68919" Issue="472899" />
