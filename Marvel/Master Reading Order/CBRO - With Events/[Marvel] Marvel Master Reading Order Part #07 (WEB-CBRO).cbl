@@ -2247,9 +2247,6 @@
 <Book Series="Mutopia X" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="22712" Issue="136176" />
 </Book>
-<Book Series="New Thunderbolts" Number="11" Volume="2005" Year="2005">
-<Database Name="cv" Series="11298" Issue="99223" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="462" Volume="1981" Year="2005">
 <Database Name="cv" Series="3092" Issue="106584" />
 </Book>
@@ -2294,9 +2291,6 @@
 </Book>
 <Book Series="The Pulse" Number="10" Volume="2004" Year="2005">
 <Database Name="cv" Series="11310" Issue="105810" />
-</Book>
-<Book Series="Captain America" Number="10" Volume="2004" Year="2005">
-<Database Name="cv" Series="11499" Issue="115271" />
 </Book>
 <Book Series="Black Panther" Number="7" Volume="2005" Year="2005">
 <Database Name="cv" Series="11502" Issue="126178" />
