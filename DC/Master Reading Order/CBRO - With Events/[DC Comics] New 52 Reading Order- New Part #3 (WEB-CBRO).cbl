@@ -5058,9 +5058,6 @@
 <Book Series="Divergence FCBD Special Edition" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81653" Issue="487464" />
 </Book>
-<Book Series="Justice League" Number="40" Volume="2011" Year="2015">
-<Database Name="cv" Series="42488" Issue="487174" />
-</Book>
 <Book Series="Justice League" Number="41" Volume="2011" Year="2015">
 <Database Name="cv" Series="42488" Issue="490839" />
 </Book>
