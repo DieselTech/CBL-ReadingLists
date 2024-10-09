@@ -1209,158 +1209,44 @@
 <Book Series="Uncanny X-Men Annual" Number="2" Volume="2006" Year="2009">
 <Database Name="cv" Series="18405" Issue="150498" />
 </Book>
-<Book Series="Incredible Hulk" Number="106" Volume="2000" Year="2007">
-<Database Name="cv" Series="6558" Issue="108922" />
+<Book Series="Dark Avengers/Uncanny X-Men: Utopia" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26888" Issue="161518" />
 </Book>
-<Book Series="World War Hulk Prologue: World Breaker" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="18537" Issue="108929" />
+<Book Series="X-Men: Legacy" Number="226" Volume="2008" Year="2009">
+<Database Name="cv" Series="20691" Issue="163253" />
 </Book>
-<Book Series="World War Hulk" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="18686" Issue="110435" />
+<Book Series="X-Men: Legacy" Number="227" Volume="2008" Year="2009">
+<Database Name="cv" Series="20691" Issue="167374" />
 </Book>
-<Book Series="Iron Man" Number="19" Volume="2004" Year="2007">
-<Database Name="cv" Series="18220" Issue="110667" />
+<Book Series="The Uncanny X-Men" Number="513" Volume="1981" Year="2009">
+<Database Name="cv" Series="3092" Issue="162522" />
 </Book>
-<Book Series="Heroes for Hire" Number="11" Volume="2006" Year="2007">
-<Database Name="cv" Series="18102" Issue="110674" />
+<Book Series="Dark X-Men: The Beginning" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="27004" Issue="163261" />
 </Book>
-<Book Series="Heroes for Hire" Number="12" Volume="2006" Year="2007">
-<Database Name="cv" Series="18102" Issue="111934" />
+<Book Series="Dark Avengers" Number="7" Volume="2009" Year="2009">
+<Database Name="cv" Series="25512" Issue="164008" />
 </Book>
-<Book Series="Heroes for Hire" Number="13" Volume="2006" Year="2007">
-<Database Name="cv" Series="18102" Issue="114431" />
+<Book Series="Dark X-Men: The Beginning" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="27004" Issue="165447" />
 </Book>
-<Book Series="The Irredeemable Ant-Man" Number="10" Volume="2006" Year="2007">
-<Database Name="cv" Series="18227" Issue="111374" />
+<Book Series="The Uncanny X-Men" Number="514" Volume="1981" Year="2009">
+<Database Name="cv" Series="3092" Issue="166794" />
 </Book>
-<Book Series="Ghost Rider" Number="12" Volume="2006" Year="2007">
-<Database Name="cv" Series="18138" Issue="110671" />
+<Book Series="Dark Avengers" Number="8" Volume="2009" Year="2009">
+<Database Name="cv" Series="25512" Issue="168320" />
 </Book>
-<Book Series="Ghost Rider" Number="13" Volume="2006" Year="2007">
-<Database Name="cv" Series="18138" Issue="111669" />
+<Book Series="Dark X-Men: The Beginning" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="27004" Issue="168299" />
 </Book>
-<Book Series="World War Hulk: Front Line" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="18793" Issue="111078" />
+<Book Series="Dark Avengers/Uncanny X-Men: Exodus" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="27804" Issue="170312" />
 </Book>
-<Book Series="World War Hulk: Gamma Corps" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="18903" Issue="111703" />
+<Book Series="Dark X-Men: The Confession" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="28085" Issue="172433" />
 </Book>
-<Book Series="World War Hulk: Gamma Corps" Number="2" Volume="2007" Year="2007">
-<Database Name="cv" Series="18903" Issue="113778" />
-</Book>
-<Book Series="World War Hulk: Gamma Corps" Number="3" Volume="2007" Year="2007">
-<Database Name="cv" Series="18903" Issue="114667" />
-</Book>
-<Book Series="World War Hulk: Gamma Corps" Number="4" Volume="2007" Year="2008">
-<Database Name="cv" Series="18903" Issue="117844" />
-</Book>
-<Book Series="Iron Man" Number="20" Volume="2004" Year="2007">
-<Database Name="cv" Series="18220" Issue="111936" />
-</Book>
-<Book Series="World War Hulk: X-Men" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="18786" Issue="111036" />
-</Book>
-<Book Series="World War Hulk: X-Men" Number="2" Volume="2007" Year="2007">
-<Database Name="cv" Series="18786" Issue="111708" />
-</Book>
-<Book Series="World War Hulk: X-Men" Number="3" Volume="2007" Year="2007">
-<Database Name="cv" Series="18786" Issue="113957" />
-</Book>
-<Book Series="World War Hulk" Number="2" Volume="2007" Year="2007">
-<Database Name="cv" Series="18686" Issue="111670" />
-</Book>
-<Book Series="Incredible Hulk" Number="107" Volume="2000" Year="2007">
-<Database Name="cv" Series="6558" Issue="110665" />
-</Book>
-<Book Series="Incredible Hulk" Number="108" Volume="2000" Year="2007">
-<Database Name="cv" Series="6558" Issue="111938" />
-</Book>
-<Book Series="World War Hulk: Front Line" Number="2" Volume="2007" Year="2007">
-<Database Name="cv" Series="18793" Issue="111727" />
-</Book>
-<Book Series="Punisher War Journal" Number="12" Volume="2007" Year="2007">
-<Database Name="cv" Series="18152" Issue="115853" />
-</Book>
-<Book Series="Avengers: The Initiative" Number="4" Volume="2007" Year="2007">
-<Database Name="cv" Series="18419" Issue="111663" />
-</Book>
-<Book Series="Avengers: The Initiative" Number="5" Volume="2007" Year="2007">
-<Database Name="cv" Series="18419" Issue="113956" />
-</Book>
-<Book Series="World War Hulk: Front Line" Number="3" Volume="2007" Year="2007">
-<Database Name="cv" Series="18793" Issue="112958" />
-</Book>
-<Book Series="World War Hulk" Number="3" Volume="2007" Year="2007">
-<Database Name="cv" Series="18686" Issue="112280" />
-</Book>
-<Book Series="Incredible Hulk" Number="109" Volume="2000" Year="2007">
-<Database Name="cv" Series="6558" Issue="112986" />
-</Book>
-<Book Series="Incredible Hulk" Number="110" Volume="2000" Year="2007">
-<Database Name="cv" Series="6558" Issue="114203" />
-</Book>
-<Book Series="Heroes for Hire" Number="14" Volume="2006" Year="2007">
-<Database Name="cv" Series="18102" Issue="115799" />
-</Book>
-<Book Series="Heroes for Hire" Number="15" Volume="2006" Year="2007">
-<Database Name="cv" Series="18102" Issue="120321" />
-</Book>
-<Book Series="World War Hulk" Number="4" Volume="2007" Year="2007">
-<Database Name="cv" Series="18686" Issue="114624" />
-</Book>
-<Book Series="World War Hulk: Front Line" Number="4" Volume="2007" Year="2007">
-<Database Name="cv" Series="18793" Issue="114625" />
-</Book>
-<Book Series="World War Hulk: Front Line" Number="5" Volume="2007" Year="2007">
-<Database Name="cv" Series="18793" Issue="115396" />
-</Book>
-<Book Series="World War Hulk" Number="5" Volume="2007" Year="2008">
-<Database Name="cv" Series="18686" Issue="117746" />
-</Book>
-<Book Series="Incredible Hulk" Number="111" Volume="2000" Year="2007">
-<Database Name="cv" Series="6558" Issue="118078" />
-</Book>
-<Book Series="World War Hulk: Front Line" Number="6" Volume="2007" Year="2007">
-<Database Name="cv" Series="18793" Issue="118696" />
-</Book>
-<Book Series="What If? Planet Hulk" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="19301" Issue="115812" />
-</Book>
-<Book Series="World War Hulk: Aftersmash" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="19919" Issue="119219" />
-</Book>
-<Book Series="Incredible Hulk" Number="112" Volume="2000" Year="2008">
-<Database Name="cv" Series="6558" Issue="120238" />
-</Book>
-<Book Series="Incredible Hercules" Number="113" Volume="2008" Year="2008">
-<Database Name="cv" Series="20588" Issue="123380" />
-</Book>
-<Book Series="Incredible Hercules" Number="115" Volume="2008" Year="2008">
-<Database Name="cv" Series="20588" Issue="125757" />
-</Book>
-<Book Series="Damage Control" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="144734" Issue="943876" />
-</Book>
-<Book Series="Damage Control" Number="2" Volume="2022" Year="2022">
-<Database Name="cv" Series="144734" Issue="949060" />
-</Book>
-<Book Series="Damage Control" Number="3" Volume="2022" Year="2023">
-<Database Name="cv" Series="144734" Issue="953020" />
-</Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="20153" Issue="120239" />
-</Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="2" Volume="2008" Year="2008">
-<Database Name="cv" Series="20153" Issue="125754" />
-</Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="3" Volume="2008" Year="2008">
-<Database Name="cv" Series="20153" Issue="125758" />
-</Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="4" Volume="2008" Year="2008">
-<Database Name="cv" Series="20153" Issue="125756" />
-</Book>
-<Book Series="World War Hulk Aftersmash: Warbound" Number="5" Volume="2008" Year="2008">
-<Database Name="cv" Series="20153" Issue="156498" />
+<Book Series="Dark Reign: The List - X-Men" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="28084" Issue="172431" />
 </Book>
 <Book Series="Dark X-Men" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="29623" Issue="182542" />
