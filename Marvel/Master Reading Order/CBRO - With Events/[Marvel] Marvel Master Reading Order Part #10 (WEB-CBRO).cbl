@@ -687,7 +687,7 @@
 <Book Series="Herc" Number="6" Volume="2011" Year="2011">
 <Database Name="cv" Series="39639" Issue="283859" />
 </Book>
-<Book Series="Tomb of Dracula Presents Throne of Blood" Number="1" Volume="2011" Year="2011">
+<Book Series="Tomb of Dracula Presents: Throne of Blood" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39883" Issue="269009" />
 </Book>
 <Book Series="Fear Itself: Hulk vs. Dracula" Number="1" Volume="2011" Year="2011">
@@ -2463,10 +2463,10 @@
 <Book Series="Wolverine &#38; the X-Men" Number="14" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="347208" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="9" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="9" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="348054" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="10" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="10" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="351068" />
 </Book>
 <Book Series="Wolverine &#38; the X-Men" Number="15" Volume="2011" Year="2012">
@@ -2475,13 +2475,13 @@
 <Book Series="Wolverine &#38; the X-Men" Number="16" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="356779" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="11" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="11" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="356764" />
 </Book>
 <Book Series="Uncanny X-Men" Number="18" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="446998" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="12" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="12" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="359916" />
 </Book>
 <Book Series="Uncanny X-Men" Number="19" Volume="2013" Year="2014">
@@ -5256,11 +5256,11 @@
 <Book Series="Spider-Verse Team-Up" Number="1" Volume="2014" Year="2015">
 <Database Name="cv" Series="77941" Issue="469497" />
 </Book>
-<Book Series="Spider-Verse" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="82108" Issue="489327" />
+<Book Series="Spider-Verse" Number="1" Volume="2014" Year="2015">
+<Database Name="cv" Series="78047" Issue="469842" />
 </Book>
-<Book Series="Spider-Verse" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="82108" Issue="491530" />
+<Book Series="Spider-Verse" Number="2" Volume="2014" Year="2015">
+<Database Name="cv" Series="78047" Issue="475945" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="73420" Issue="469487" />
@@ -6831,8 +6831,8 @@
 <Book Series="Silver Surfer" Number="15" Volume="2014" Year="2016">
 <Database Name="cv" Series="72582" Issue="506663" />
 </Book>
-<Book Series="Secret Wars, Too" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="93678" Issue="547290" />
+<Book Series="Secret Wars, Too" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="86122" Issue="506180" />
 </Book>
 <Book Series="Deadpool Kills the Marvel Universe" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="50940" Issue="348047" />

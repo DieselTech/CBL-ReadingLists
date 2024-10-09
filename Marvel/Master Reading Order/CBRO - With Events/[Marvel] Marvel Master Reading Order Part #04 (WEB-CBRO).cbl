@@ -312,9 +312,6 @@
 <Book Series="The Uncanny X-Men" Number="224" Volume="1981" Year="1987">
 <Database Name="cv" Series="3092" Issue="28935" />
 </Book>
-<Book Series="The Incredible Hulk" Number="340" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29262" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="225" Volume="1981" Year="1988">
 <Database Name="cv" Series="3092" Issue="29158" />
 </Book>
@@ -1059,9 +1056,6 @@
 <Book Series="Web of Spider-Man Annual" Number="5" Volume="1985" Year="1989">
 <Database Name="cv" Series="3520" Issue="30615" />
 </Book>
-<Book Series="Avengers West Coast" Number="56" Volume="1989" Year="1990">
-<Database Name="cv" Series="18494" Issue="114102" />
-</Book>
 <Book Series="Avengers West Coast Annual" Number="4" Volume="1989" Year="1989">
 <Database Name="cv" Series="4219" Issue="31863" />
 </Book>
@@ -1156,7 +1150,7 @@
 <Database Name="cv" Series="3657" Issue="32340" />
 </Book>
 <Book Series="Damage Control" Number="1" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31211" />
+<Database Name="cv" Series="4350" Issue="32051" />
 </Book>
 <Book Series="The Avengers" Number="311" Volume="1963" Year="1989">
 <Database Name="cv" Series="2128" Issue="31993" />
@@ -1339,13 +1333,13 @@
 <Database Name="cv" Series="3519" Issue="32648" />
 </Book>
 <Book Series="Damage Control" Number="2" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31320" />
+<Database Name="cv" Series="4350" Issue="32079" />
 </Book>
 <Book Series="Damage Control" Number="3" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31432" />
+<Database Name="cv" Series="4350" Issue="32365" />
 </Book>
 <Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31537" />
+<Database Name="cv" Series="4350" Issue="32461" />
 </Book>
 <Book Series="Web of Spider-Man" Number="64" Volume="1985" Year="1990">
 <Database Name="cv" Series="3519" Issue="32742" />

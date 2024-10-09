@@ -156,14 +156,14 @@
 <Book Series="Moon Knight" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18105" Issue="106380" />
 </Book>
-<Book Series="Moon Knight" Number="2" Volume="1998" Year="1998">
-<Database Name="cv" Series="28617" Issue="176325" />
+<Book Series="Moon Knight" Number="2" Volume="2006" Year="2006">
+<Database Name="cv" Series="18105" Issue="106668" />
 </Book>
-<Book Series="Moon Knight" Number="3" Volume="1998" Year="1998">
-<Database Name="cv" Series="28617" Issue="176326" />
+<Book Series="Moon Knight" Number="3" Volume="2006" Year="2006">
+<Database Name="cv" Series="18105" Issue="106672" />
 </Book>
-<Book Series="Moon Knight" Number="4" Volume="1998" Year="1998">
-<Database Name="cv" Series="28617" Issue="176327" />
+<Book Series="Moon Knight" Number="4" Volume="2006" Year="2006">
+<Database Name="cv" Series="18105" Issue="106673" />
 </Book>
 <Book Series="Moon Knight" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="18105" Issue="106674" />
