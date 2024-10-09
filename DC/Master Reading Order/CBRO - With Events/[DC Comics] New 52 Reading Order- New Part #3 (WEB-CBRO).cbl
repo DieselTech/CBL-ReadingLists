@@ -2895,10 +2895,10 @@
 <Book Series="Convergence Catwoman" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="81336" Issue="488588" />
 </Book>
-<Book Series="Convergence Superman: The Man of Steel" Number="1" Volume="2015" Year="2015">
+<Book Series="Convergence Superman: Man of Steel" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81343" Issue="486115" />
 </Book>
-<Book Series="Convergence Superman: The Man of Steel" Number="2" Volume="2015" Year="2015">
+<Book Series="Convergence Superman: Man of Steel" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="81343" Issue="488594" />
 </Book>
 <Book Series="Convergence" Number="3" Volume="2015" Year="2015">
