@@ -1926,9 +1926,6 @@
 <Book Series="Teen Titans: Futures End" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="76955" Issue="465800" />
 </Book>
-<Book Series="The Flash: Futures End" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="77088" Issue="466274" />
-</Book>
 <Book Series="Trinity of Sin: Pandora: Futures End" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="76962" Issue="465796" />
 </Book>
@@ -5057,12 +5054,6 @@
 </Book>
 <Book Series="Green Lantern Corps: Edge of Oblivion" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="87315" Issue="534264" />
-</Book>
-<Book Series="Divergence FCBD Special Edition" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="81653" Issue="487464" />
-</Book>
-<Book Series="Justice League" Number="40" Volume="2011" Year="2015">
-<Database Name="cv" Series="42488" Issue="487174" />
 </Book>
 <Book Series="Justice League" Number="41" Volume="2011" Year="2015">
 <Database Name="cv" Series="42488" Issue="490839" />
