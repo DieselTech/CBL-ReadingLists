@@ -1926,9 +1926,6 @@
 <Book Series="Teen Titans: Futures End" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="76955" Issue="465800" />
 </Book>
-<Book Series="The Flash: Futures End" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="77088" Issue="466274" />
-</Book>
 <Book Series="Trinity of Sin: Pandora: Futures End" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="76962" Issue="465796" />
 </Book>
