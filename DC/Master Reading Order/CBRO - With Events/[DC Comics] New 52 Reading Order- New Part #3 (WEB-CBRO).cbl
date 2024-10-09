@@ -3900,22 +3900,22 @@
 <Book Series="Catwoman" Number="41" Volume="2011" Year="2015">
 <Database Name="cv" Series="42722" Issue="491470" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="1" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="493004" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="2" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="495248" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="3" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="497915" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="4" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="500271" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="5" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="503534" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="6" Volume="2015" Year="2016">
+<Book Series="Green Lantern: Lost Army" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="82860" Issue="506148" />
 </Book>
 <Book Series="Superman/Wonder Woman Annual" Number="2" Volume="2014" Year="2016">
