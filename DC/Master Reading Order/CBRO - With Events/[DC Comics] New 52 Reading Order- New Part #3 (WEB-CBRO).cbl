@@ -5055,9 +5055,6 @@
 <Book Series="Green Lantern Corps: Edge of Oblivion" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="87315" Issue="534264" />
 </Book>
-<Book Series="Divergence FCBD Special Edition" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="81653" Issue="487464" />
-</Book>
 <Book Series="Justice League" Number="41" Volume="2011" Year="2015">
 <Database Name="cv" Series="42488" Issue="490839" />
 </Book>
