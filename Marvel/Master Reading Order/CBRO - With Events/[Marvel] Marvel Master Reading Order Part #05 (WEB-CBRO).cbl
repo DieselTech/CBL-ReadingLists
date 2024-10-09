@@ -5142,6 +5142,18 @@
 <Book Series="Spectacular Spider-Girl" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="28417" Issue="201070" />
 </Book>
+<Book Series="Spectacular Spider-Girl" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="28417" Issue="175004" />
+</Book>
+<Book Series="Spectacular Spider-Girl" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="28417" Issue="175019" />
+</Book>
+<Book Series="Spectacular Spider-Girl" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="28417" Issue="175024" />
+</Book>
+<Book Series="Spectacular Spider-Girl" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="28417" Issue="175020" />
+</Book>
 <Book Series="Spider-Girl:  The End!" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35111" Issue="231684" />
 </Book>
