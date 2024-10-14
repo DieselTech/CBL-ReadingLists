@@ -945,8 +945,8 @@
 <Book Series="Fear Itself: The Fearless" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="43215" Issue="326874" />
 </Book>
-<Book Series="Marvel Point One" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="41854" Issue="284853" />
+<Book Series="Point One" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="43893" Issue="301659" />
 </Book>
 <Book Series="Defenders" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44363" Issue="305573" />
@@ -2291,9 +2291,6 @@
 </Book>
 <Book Series="Uncanny X-Men" Number="10" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="421699" />
-</Book>
-<Book Series="Marvel Point One" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="41854" Issue="284853" />
 </Book>
 <Book Series="Avengers: X-Sanction" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44477" Issue="306478" />
