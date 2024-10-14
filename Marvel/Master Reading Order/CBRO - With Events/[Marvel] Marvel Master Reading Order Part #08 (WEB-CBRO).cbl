@@ -486,9 +486,6 @@
 <Book Series="The Amazing Spider-Man" Number="531" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="113518" />
 </Book>
-<Book Series="The New Avengers: Illuminati" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="18180" Issue="106482" />
-</Book>
 <Book Series="Fantastic Four" Number="536" Volume="1998" Year="2006">
 <Database Name="cv" Series="6211" Issue="108475" />
 </Book>
@@ -954,9 +951,6 @@
 <Book Series="New Avengers" Number="26" Volume="2004" Year="2007">
 <Database Name="cv" Series="11497" Issue="108356" />
 </Book>
-<Book Series="Ms. Marvel" Number="10" Volume="2006" Year="2007">
-<Database Name="cv" Series="17990" Issue="108340" />
-</Book>
 <Book Series="Ms. Marvel" Number="11" Volume="2006" Year="2007">
 <Database Name="cv" Series="17990" Issue="108341" />
 </Book>
@@ -968,9 +962,6 @@
 </Book>
 <Book Series="Thunderbolts" Number="111" Volume="2006" Year="2007">
 <Database Name="cv" Series="18128" Issue="106481" />
-</Book>
-<Book Series="Civil War: The Initiative" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="18235" Issue="106789" />
 </Book>
 <Book Series="Ms. Marvel" Number="13" Volume="2006" Year="2007">
 <Database Name="cv" Series="17990" Issue="107228" />
@@ -2295,9 +2286,6 @@
 <Book Series="X-Men" Number="200" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="111032" />
 </Book>
-<Book Series="The Uncanny X-Men" Number="488" Volume="1981" Year="2007">
-<Database Name="cv" Series="3092" Issue="111241" />
-</Book>
 <Book Series="X-Factor" Number="21" Volume="2006" Year="2007">
 <Database Name="cv" Series="18109" Issue="111490" />
 </Book>
@@ -2306,9 +2294,6 @@
 </Book>
 <Book Series="X-Men" Number="201" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="111931" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="489" Volume="1981" Year="2007">
-<Database Name="cv" Series="3092" Issue="111383" />
 </Book>
 <Book Series="X-Factor" Number="22" Volume="2006" Year="2007">
 <Database Name="cv" Series="18109" Issue="112962" />
@@ -2319,9 +2304,6 @@
 <Book Series="X-Men" Number="202" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="113738" />
 </Book>
-<Book Series="The Uncanny X-Men" Number="490" Volume="1981" Year="2007">
-<Database Name="cv" Series="3092" Issue="114204" />
-</Book>
 <Book Series="X-Factor" Number="23" Volume="2006" Year="2007">
 <Database Name="cv" Series="18109" Issue="114395" />
 </Book>
@@ -2330,9 +2312,6 @@
 </Book>
 <Book Series="X-Men" Number="203" Volume="2004" Year="2007">
 <Database Name="cv" Series="10731" Issue="114946" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="491" Volume="1981" Year="2007">
-<Database Name="cv" Series="3092" Issue="115143" />
 </Book>
 <Book Series="X-Factor" Number="24" Volume="2006" Year="2007">
 <Database Name="cv" Series="18109" Issue="115410" />
@@ -2382,18 +2361,6 @@
 <Book Series="What If? Astonishing X-Men" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30691" Issue="189583" />
 </Book>
-<Book Series="X-Factor" Number="21" Volume="2006" Year="2007">
-<Database Name="cv" Series="18109" Issue="111490" />
-</Book>
-<Book Series="X-Factor" Number="22" Volume="2006" Year="2007">
-<Database Name="cv" Series="18109" Issue="112962" />
-</Book>
-<Book Series="X-Factor" Number="23" Volume="2006" Year="2007">
-<Database Name="cv" Series="18109" Issue="114395" />
-</Book>
-<Book Series="X-Factor" Number="24" Volume="2006" Year="2007">
-<Database Name="cv" Series="18109" Issue="115410" />
-</Book>
 <Book Series="New X-Men" Number="37" Volume="2004" Year="2007">
 <Database Name="cv" Series="18078" Issue="107611" />
 </Book>
@@ -2402,15 +2369,6 @@
 </Book>
 <Book Series="New X-Men" Number="39" Volume="2004" Year="2007">
 <Database Name="cv" Series="18078" Issue="107619" />
-</Book>
-<Book Series="New X-Men" Number="40" Volume="2004" Year="2007">
-<Database Name="cv" Series="18078" Issue="109760" />
-</Book>
-<Book Series="New X-Men" Number="41" Volume="2004" Year="2007">
-<Database Name="cv" Series="18078" Issue="109761" />
-</Book>
-<Book Series="New X-Men" Number="42" Volume="2004" Year="2007">
-<Database Name="cv" Series="18078" Issue="114617" />
 </Book>
 <Book Series="New X-Men" Number="43" Volume="2004" Year="2007">
 <Database Name="cv" Series="18078" Issue="116391" />
@@ -2439,23 +2397,8 @@
 <Book Series="Cable &#38; Deadpool" Number="41" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="110433" />
 </Book>
-<Book Series="X-Men" Number="200" Volume="2004" Year="2007">
-<Database Name="cv" Series="10731" Issue="111032" />
-</Book>
 <Book Series="Cable &#38; Deadpool" Number="42" Volume="2004" Year="2007">
 <Database Name="cv" Series="18070" Issue="111382" />
-</Book>
-<Book Series="X-Men" Number="201" Volume="2004" Year="2007">
-<Database Name="cv" Series="10731" Issue="111931" />
-</Book>
-<Book Series="X-Men" Number="202" Volume="2004" Year="2007">
-<Database Name="cv" Series="10731" Issue="113738" />
-</Book>
-<Book Series="X-Men" Number="203" Volume="2004" Year="2007">
-<Database Name="cv" Series="10731" Issue="114946" />
-</Book>
-<Book Series="X-Men" Number="204" Volume="2004" Year="2007">
-<Database Name="cv" Series="10731" Issue="115779" />
 </Book>
 <Book Series="X-Men: Messiah Complex" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19419" Issue="116360" />
