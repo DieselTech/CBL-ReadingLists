@@ -1473,25 +1473,25 @@
 <Book Series="Tales of the Green Lantern Corps" Number="3" Volume="1981" Year="1981">
 <Database Name="cv" Series="3077" Issue="21357" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="277" Volume="1980" Year="1981">
+<Book Series="The Legion of Super-Heroes" Number="277" Volume="1980" Year="1981">
 <Database Name="cv" Series="3033" Issue="21349" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="278" Volume="1980" Year="1981">
+<Book Series="The Legion of Super-Heroes" Number="278" Volume="1980" Year="1981">
 <Database Name="cv" Series="3033" Issue="21417" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="279" Volume="1980" Year="1981">
+<Book Series="The Legion of Super-Heroes" Number="279" Volume="1980" Year="1981">
 <Database Name="cv" Series="3033" Issue="21492" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="280" Volume="1980" Year="1981">
+<Book Series="The Legion of Super-Heroes" Number="280" Volume="1980" Year="1981">
 <Database Name="cv" Series="3033" Issue="21565" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="281" Volume="1980" Year="1981">
+<Book Series="The Legion of Super-Heroes" Number="281" Volume="1980" Year="1981">
 <Database Name="cv" Series="3033" Issue="21640" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="282" Volume="1980" Year="1981">
+<Book Series="The Legion of Super-Heroes" Number="282" Volume="1980" Year="1981">
 <Database Name="cv" Series="3033" Issue="21703" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="283" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="283" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="21833" />
 </Book>
 <Book Series="Superman Annual" Number="9" Volume="1960" Year="1983">
@@ -1515,22 +1515,22 @@
 <Book Series="The Phantom Zone" Number="4" Volume="1982" Year="1982">
 <Database Name="cv" Series="3120" Issue="22060" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="284" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="284" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="21902" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="285" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="285" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="21984" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="286" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="286" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22057" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="287" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="287" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22136" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="288" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="288" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22205" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="289" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="289" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22279" />
 </Book>
 <Book Series="Legion of Super-Heroes Annual" Number="1" Volume="1982" Year="1982">
@@ -1590,19 +1590,19 @@
 <Book Series="Justice League of America" Number="209" Volume="1960" Year="1982">
 <Database Name="cv" Series="2014" Issue="22646" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="290" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="290" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22349" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="291" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="291" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22422" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="292" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="292" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22493" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="293" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="293" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22571" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="294" Volume="1980" Year="1982">
+<Book Series="The Legion of Super-Heroes" Number="294" Volume="1980" Year="1982">
 <Database Name="cv" Series="3033" Issue="22647" />
 </Book>
 <Book Series="The New Teen Titans" Number="19" Volume="1980" Year="1982">
@@ -1671,22 +1671,22 @@
 <Book Series="The Brave and the Bold" Number="197" Volume="1955" Year="1983">
 <Database Name="cv" Series="1683" Issue="22993" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="295" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="295" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="22768" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="296" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="296" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="22841" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="297" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="297" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="22926" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="298" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="298" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23005" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="299" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="299" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23093" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="300" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="300" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23176" />
 </Book>
 <Book Series="The New Teen Titans" Number="28" Volume="1980" Year="1983">
@@ -1728,40 +1728,40 @@
 <Book Series="Superman" Number="386" Volume="1939" Year="1983">
 <Database Name="cv" Series="773" Issue="23351" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="301" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="301" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23263" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="302" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="302" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23344" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="303" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="303" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23425" />
 </Book>
 <Book Series="Legion of Super-Heroes Annual" Number="2" Volume="1982" Year="1983">
 <Database Name="cv" Series="3116" Issue="22716" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="304" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="304" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23509" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="305" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="305" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23591" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="306" Volume="1980" Year="1983">
+<Book Series="The Legion of Super-Heroes" Number="306" Volume="1980" Year="1983">
 <Database Name="cv" Series="3033" Issue="23692" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="307" Volume="1980" Year="1984">
+<Book Series="The Legion of Super-Heroes" Number="307" Volume="1980" Year="1984">
 <Database Name="cv" Series="3033" Issue="23837" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="308" Volume="1980" Year="1984">
+<Book Series="The Legion of Super-Heroes" Number="308" Volume="1980" Year="1984">
 <Database Name="cv" Series="3033" Issue="23940" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="309" Volume="1980" Year="1984">
+<Book Series="The Legion of Super-Heroes" Number="309" Volume="1980" Year="1984">
 <Database Name="cv" Series="3033" Issue="24057" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="310" Volume="1980" Year="1984">
+<Book Series="The Legion of Super-Heroes" Number="310" Volume="1980" Year="1984">
 <Database Name="cv" Series="3033" Issue="24162" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="311" Volume="1980" Year="1984">
+<Book Series="The Legion of Super-Heroes" Number="311" Volume="1980" Year="1984">
 <Database Name="cv" Series="3033" Issue="24265" />
 </Book>
 <Book Series="The New Teen Titans" Number="35" Volume="1980" Year="1983">
@@ -1830,10 +1830,10 @@
 <Book Series="DC Comics Presents" Number="71" Volume="1978" Year="1984">
 <Database Name="cv" Series="2943" Issue="24459" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="312" Volume="1980" Year="1984">
+<Book Series="The Legion of Super-Heroes" Number="312" Volume="1980" Year="1984">
 <Database Name="cv" Series="3033" Issue="24365" />
 </Book>
-<Book Series="Legion of Super-Heroes" Number="313" Volume="1980" Year="1984">
+<Book Series="The Legion of Super-Heroes" Number="313" Volume="1980" Year="1984">
 <Database Name="cv" Series="3033" Issue="24466" />
 </Book>
 <Book Series="Tales of the Legion of Super-Heroes" Number="314" Volume="1984" Year="1984">
