@@ -33,7 +33,7 @@
 <Book Series="Superman" Number="45" Volume="1939" Year="1947">
 <Database Name="cv" Series="773" Issue="120640" />
 </Book>
-<Book Series="Golden Age Secret Files and Origins" Number="1" Volume="2001" Year="2001">
+<Book Series="Golden Age Secret Files" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="30836" Issue="190559" />
 </Book>
 <Book Series="Superman" Number="53" Volume="1939" Year="1948">
