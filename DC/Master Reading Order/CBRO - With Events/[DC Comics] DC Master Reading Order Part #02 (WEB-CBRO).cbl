@@ -207,8 +207,8 @@
 <Book Series="Legends of the Dark Knight" Number="20" Volume="1989" Year="1991">
 <Database Name="cv" Series="4200" Issue="34440" />
 </Book>
-<Book Series="Batman: Gotham by Gaslight" Number="1" Volume="2006" Year="2006">
-<Database Name="cv" Series="52306" Issue="358009" />
+<Book Series="Gotham by Gaslight: An Alternative History of the Batman" Number="1" Volume="1989" Year="1990">
+<Database Name="cv" Series="20720" Issue="124252" />
 </Book>
 <Book Series="Green Arrow: The Wonder Year" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="4961" Issue="36822" />
