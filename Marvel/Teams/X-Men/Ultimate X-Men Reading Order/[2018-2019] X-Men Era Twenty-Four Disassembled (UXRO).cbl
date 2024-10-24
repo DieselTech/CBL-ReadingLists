@@ -243,11 +243,11 @@
 <Book Series="Dead Man Logan" Number="6" Volume="2018" Year="2019">
 <Database Name="cv" Series="115566" Issue="705917" />
 </Book>
-<Book Series="Iceman" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="101937" Issue="599865" />
+<Book Series="Iceman" Number="1" Volume="2018" Year="2018">
+<Database Name="cv" Series="113491" Issue="684906" />
 </Book>
-<Book Series="Iceman" Number="2" Volume="2017" Year="2017">
-<Database Name="cv" Series="101937" Issue="603123" />
+<Book Series="Iceman" Number="2" Volume="2018" Year="2018">
+<Database Name="cv" Series="113491" Issue="688316" />
 </Book>
 <Book Series="X-Men: Black - Magneto" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="114104" Issue="687031" />
@@ -264,14 +264,14 @@
 <Book Series="X-Men: Black - Mojo" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="114278" Issue="688333" />
 </Book>
-<Book Series="Iceman" Number="3" Volume="2017" Year="2017">
-<Database Name="cv" Series="101937" Issue="610527" />
+<Book Series="Iceman" Number="3" Volume="2018" Year="2018">
+<Database Name="cv" Series="113491" Issue="691380" />
 </Book>
-<Book Series="Iceman" Number="4" Volume="2017" Year="2017">
-<Database Name="cv" Series="101937" Issue="616194" />
+<Book Series="Iceman" Number="4" Volume="2018" Year="2018">
+<Database Name="cv" Series="113491" Issue="695635" />
 </Book>
-<Book Series="Iceman" Number="5" Volume="2017" Year="2017">
-<Database Name="cv" Series="101937" Issue="619625" />
+<Book Series="Iceman" Number="5" Volume="2018" Year="2019">
+<Database Name="cv" Series="113491" Issue="696945" />
 </Book>
 <Book Series="Uncanny X-Men: Winter's End" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="117610" Issue="703069" />
