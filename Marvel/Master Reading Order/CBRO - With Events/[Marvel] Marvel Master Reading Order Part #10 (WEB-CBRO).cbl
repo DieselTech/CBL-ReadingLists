@@ -5664,8 +5664,8 @@
 <Book Series="All-New X-Men" Number="41" Volume="2012" Year="2015">
 <Database Name="cv" Series="53919" Issue="490874" />
 </Book>
-<Book Series="Ant-Man" Number="2" Volume="2020" Year="2020">
-<Database Name="cv" Series="124815" Issue="738605" />
+<Book Series="Ant-Man" Number="2" Volume="2015" Year="2015">
+<Database Name="cv" Series="79255" Issue="478605" />
 </Book>
 <Book Series="Magneto" Number="16" Volume="2014" Year="2015">
 <Database Name="cv" Series="72111" Issue="482687" />
@@ -5730,14 +5730,14 @@
 <Book Series="Spider-Woman" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="78202" Issue="490889" />
 </Book>
-<Book Series="Ant-Man" Number="3" Volume="2020" Year="2020">
-<Database Name="cv" Series="124815" Issue="740811" />
+<Book Series="Ant-Man" Number="3" Volume="2015" Year="2015">
+<Database Name="cv" Series="79255" Issue="482152" />
 </Book>
-<Book Series="Ant-Man" Number="4" Volume="2020" Year="2020">
-<Database Name="cv" Series="124815" Issue="760741" />
+<Book Series="Ant-Man" Number="4" Volume="2015" Year="2015">
+<Database Name="cv" Series="79255" Issue="485504" />
 </Book>
-<Book Series="Ant-Man" Number="5" Volume="2020" Year="2020">
-<Database Name="cv" Series="124815" Issue="768543" />
+<Book Series="Ant-Man" Number="5" Volume="2015" Year="2015">
+<Database Name="cv" Series="79255" Issue="487830" />
 </Book>
 <Book Series="Howard the Duck" Number="1" Volume="2015" Year="2016">
 <Database Name="cv" Series="85762" Issue="504942" />
