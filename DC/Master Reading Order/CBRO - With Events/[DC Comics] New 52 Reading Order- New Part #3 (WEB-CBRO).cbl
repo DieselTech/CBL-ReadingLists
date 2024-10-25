@@ -5094,7 +5094,7 @@
 <Book Series="Justice League" Number="48" Volume="2011" Year="2016">
 <Database Name="cv" Series="42488" Issue="516928" />
 </Book>
-<Book Series="Justice League: Darkseid War Special" Number="1" Volume="2016" Year="2016">
+<Book Series="Justice League Darkseid War Special" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="89370" Issue="523228" />
 </Book>
 <Book Series="Justice League" Number="49" Volume="2011" Year="2016">
