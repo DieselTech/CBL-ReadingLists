@@ -240,16 +240,16 @@
 <Book Series="Green Arrow Year One" Number="6" Volume="2007" Year="2007">
 <Database Name="cv" Series="18880" Issue="116978" />
 </Book>
-<Book Series="Legends of the Dark Knight" Number="65" Volume="1989" Year="1994">
+<Book Series="Batman: Legends of the Dark Knight" Number="65" Volume="1992" Year="1994">
 <Database Name="cv" Series="4720" Issue="39976" />
 </Book>
-<Book Series="Legends of the Dark Knight" Number="66" Volume="1989" Year="1994">
+<Book Series="Batman: Legends of the Dark Knight" Number="66" Volume="1992" Year="1994">
 <Database Name="cv" Series="4720" Issue="40117" />
 </Book>
-<Book Series="Legends of the Dark Knight" Number="67" Volume="1989" Year="1995">
+<Book Series="Batman: Legends of the Dark Knight" Number="67" Volume="1992" Year="1995">
 <Database Name="cv" Series="4720" Issue="40360" />
 </Book>
-<Book Series="Legends of the Dark Knight" Number="68" Volume="1989" Year="1995">
+<Book Series="Batman: Legends of the Dark Knight" Number="68" Volume="1992" Year="1995">
 <Database Name="cv" Series="4720" Issue="40489" />
 </Book>
 <Book Series="Batman: The Long Halloween" Number="1" Volume="1996" Year="1996">
