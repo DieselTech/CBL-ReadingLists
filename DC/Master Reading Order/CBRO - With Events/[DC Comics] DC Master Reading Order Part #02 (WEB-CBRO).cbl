@@ -2439,16 +2439,16 @@
 <Book Series="Hawkworld" Number="12" Volume="1990" Year="1991">
 <Database Name="cv" Series="4365" Issue="34266" />
 </Book>
-<Book Series="The Books of Magic" Number="1" Volume="1990" Year="1990">
+<Book Series="Books of Magic" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="4354" Issue="32134" />
 </Book>
-<Book Series="The Books of Magic" Number="2" Volume="1990" Year="1991">
+<Book Series="Books of Magic" Number="2" Volume="1990" Year="1991">
 <Database Name="cv" Series="4354" Issue="32154" />
 </Book>
-<Book Series="The Books of Magic" Number="3" Volume="1990" Year="1991">
+<Book Series="Books of Magic" Number="3" Volume="1990" Year="1991">
 <Database Name="cv" Series="4354" Issue="33643" />
 </Book>
-<Book Series="The Books of Magic" Number="4" Volume="1990" Year="1991">
+<Book Series="Books of Magic" Number="4" Volume="1990" Year="1991">
 <Database Name="cv" Series="4354" Issue="33647" />
 </Book>
 <Book Series="Suicide Squad" Number="44" Volume="1987" Year="1990">
