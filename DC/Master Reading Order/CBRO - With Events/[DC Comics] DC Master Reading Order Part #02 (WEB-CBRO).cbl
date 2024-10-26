@@ -2128,7 +2128,7 @@
 <Database Name="cv" Series="4008" Issue="33160" />
 </Book>
 <Book Series="Arkham Asylum" Number="1" Volume="1989" Year="1989">
-<Database Name="cv" Series="20403" Issue="122008" />
+<Database Name="cv" Series="128951" Issue="1045156" />
 </Book>
 <Book Series="Batman" Number="440" Volume="1940" Year="1989">
 <Database Name="cv" Series="796" Issue="32093" />
