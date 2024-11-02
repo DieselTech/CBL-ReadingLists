@@ -1830,7 +1830,7 @@
 <Book Series="Zero Hour: Crisis in Time" Number="0" Volume="1994" Year="1994">
 <Database Name="cv" Series="5271" Issue="39711" />
 </Book>
-<Book Series="Darkstars" Number="24" Volume="1992" Year="1994">
+<Book Series="The Darkstars" Number="24" Volume="1992" Year="1994">
 <Database Name="cv" Series="7273" Issue="76343" />
 </Book>
 <Book Series="Batman" Number="511" Volume="1940" Year="1994">
@@ -1932,7 +1932,7 @@
 <Book Series="Damage" Number="0" Volume="1994" Year="1994">
 <Database Name="cv" Series="5242" Issue="39745" />
 </Book>
-<Book Series="Darkstars" Number="0" Volume="1992" Year="1994">
+<Book Series="The Darkstars" Number="0" Volume="1992" Year="1994">
 <Database Name="cv" Series="7273" Issue="76320" />
 </Book>
 <Book Series="Superman: The Man of Steel" Number="0" Volume="1991" Year="1994">
