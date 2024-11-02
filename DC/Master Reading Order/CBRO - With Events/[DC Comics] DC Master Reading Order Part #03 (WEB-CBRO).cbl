@@ -555,7 +555,7 @@
 <Book Series="Justice League America Annual" Number="6" Volume="1991" Year="1992">
 <Database Name="cv" Series="4368" Issue="35147" />
 </Book>
-<Book Series="Demon Annual" Number="1" Volume="1992" Year="1992">
+<Book Series="The Demon Annual" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="18553" Issue="109257" />
 </Book>
 <Book Series="The Flash Annual" Number="5" Volume="1987" Year="1992">
