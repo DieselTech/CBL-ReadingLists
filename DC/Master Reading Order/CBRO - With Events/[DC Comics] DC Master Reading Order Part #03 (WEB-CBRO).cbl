@@ -933,7 +933,7 @@
 <Book Series="L.E.G.I.O.N." Number="57" Volume="1989" Year="1993">
 <Database Name="cv" Series="18909" Issue="114814" />
 </Book>
-<Book Series="Darkstars" Number="11" Volume="1992" Year="1993">
+<Book Series="The Darkstars" Number="11" Volume="1992" Year="1993">
 <Database Name="cv" Series="7273" Issue="114533" />
 </Book>
 <Book Series="Green Lantern" Number="45" Volume="1990" Year="1993">
@@ -942,7 +942,7 @@
 <Book Series="L.E.G.I.O.N." Number="58" Volume="1989" Year="1993">
 <Database Name="cv" Series="18909" Issue="114815" />
 </Book>
-<Book Series="Darkstars" Number="12" Volume="1992" Year="1993">
+<Book Series="The Darkstars" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="7273" Issue="114534" />
 </Book>
 <Book Series="DC Universe: Trinity" Number="2" Volume="1993" Year="1993">
