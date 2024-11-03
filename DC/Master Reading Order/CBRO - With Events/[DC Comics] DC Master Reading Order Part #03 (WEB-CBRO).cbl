@@ -1608,7 +1608,7 @@
 <Book Series="Eclipso Annual" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="27259" Issue="166127" />
 </Book>
-<Book Series="Demon Annual" Number="2" Volume="1992" Year="1993">
+<Book Series="The Demon Annual" Number="2" Volume="1992" Year="1993">
 <Database Name="cv" Series="18553" Issue="109292" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight Annual" Number="3" Volume="1993" Year="1993">
