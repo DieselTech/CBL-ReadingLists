@@ -1620,10 +1620,10 @@
 <Book Series="L.E.G.I.O.N. Annual" Number="4" Volume="1990" Year="1993">
 <Database Name="cv" Series="23015" Issue="138783" />
 </Book>
-<Book Series="Bloodbath Special" Number="1" Volume="1993" Year="1993">
+<Book Series="Bloodbath" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="4954" Issue="38194" />
 </Book>
-<Book Series="Bloodbath Special" Number="2" Volume="1993" Year="1993">
+<Book Series="Bloodbath" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="4954" Issue="38312" />
 </Book>
 <Book Series="Batman" Number="512" Volume="1940" Year="1994">
