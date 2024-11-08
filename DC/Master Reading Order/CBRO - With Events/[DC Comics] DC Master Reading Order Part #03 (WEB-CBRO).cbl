@@ -1410,8 +1410,8 @@
 <Book Series="Robin" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="4975" Issue="38052" />
 </Book>
-<Book Series="Robin" Number="2" Volume="1991" Year="1991">
-<Database Name="cv" Series="4563" Issue="33845" />
+<Book Series="Robin" Number="2" Volume="1993" Year="1993">
+<Database Name="cv" Series="4975" Issue="38052" />
 </Book>
 <Book Series="Robin" Number="5" Volume="1993" Year="1994">
 <Database Name="cv" Series="4975" Issue="38899" />
