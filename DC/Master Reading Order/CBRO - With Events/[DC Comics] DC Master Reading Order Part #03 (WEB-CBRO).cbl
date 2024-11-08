@@ -3057,7 +3057,7 @@
 <Book Series="Teen Titans" Number="5" Volume="1996" Year="1997">
 <Database Name="cv" Series="19986" Issue="125719" />
 </Book>
-<Book Series="Birds of Prey: Black Canary/Oracle" Number="1" Volume="1996" Year="1996">
+<Book Series="Black Canary/Oracle: Birds of Prey" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18997" Issue="112867" />
 </Book>
 <Book Series="Birds of Prey: Revolution" Number="1" Volume="1997" Year="1997">
