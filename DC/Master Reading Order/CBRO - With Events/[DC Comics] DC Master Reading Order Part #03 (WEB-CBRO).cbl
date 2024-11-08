@@ -2043,7 +2043,7 @@
 <Book Series="Hellblazer" Number="84" Volume="1988" Year="1994">
 <Database Name="cv" Series="4008" Issue="40030" />
 </Book>
-<Book Series="Batman Adventures: Mad Love" Number="1" Volume="1994" Year="1994">
+<Book Series="The Batman Adventures: Mad Love" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="20558" Issue="123083" />
 </Book>
 <Book Series="Doom Patrol" Number="75" Volume="1987" Year="1994">
