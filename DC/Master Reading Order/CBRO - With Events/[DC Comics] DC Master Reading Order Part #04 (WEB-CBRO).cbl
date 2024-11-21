@@ -3,7 +3,7 @@
 <Name>[DC Comics] DC Master Reading Order Part #04 (WEB-CBRO)</Name>
 <NumIssues>1066</NumIssues>
 <Books>
-<Book Series="JLA Secret Files and Origins" Number="1" Volume="1997" Year="1997">
+<Book Series="JLA Secret Files" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="6166" Issue="78349" />
 </Book>
 <Book Series="JLA" Number="1" Volume="1997" Year="1997">
