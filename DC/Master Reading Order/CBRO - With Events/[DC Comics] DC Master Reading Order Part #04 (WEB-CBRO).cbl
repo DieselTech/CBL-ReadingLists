@@ -2940,7 +2940,7 @@
 <Book Series="Supergirl" Number="59" Volume="1996" Year="2001">
 <Database Name="cv" Series="5766" Issue="76600" />
 </Book>
-<Book Series="Superman: Our Worlds at War Secret Files &#38; Origins" Number="1" Volume="2001" Year="2001">
+<Book Series="Superman: Our Worlds at War Secret Files" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="26406" Issue="157428" />
 </Book>
 <Book Series="Superman" Number="172" Volume="1987" Year="2001">
