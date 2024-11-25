@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2018-2019] X-Men Era Twenty-Four Disassembled (UXRO)</Name>
-<NumIssues>212</NumIssues>
+<NumIssues>197</NumIssues>
 <Books>
 <Book Series="Mr. and Mrs. X" Number="6" Volume="2018" Year="2019">
 <Database Name="cv" Series="112458" Issue="694918" />
@@ -378,6 +378,9 @@
 <Book Series="Wolverine: Infinity Watch" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="117231" Issue="711970" />
 </Book>
+<Book Series="Age of X-Man Alpha" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="116812" Issue="699388" />
+</Book>
 <Book Series="Age of X-Man: Apocalypse and the X-Tracts" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="117569" Issue="703042" />
 </Book>
@@ -468,6 +471,9 @@
 <Book Series="Age of X-Man: Apocalypse and the X-Tracts" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="117569" Issue="713498" />
 </Book>
+<Book Series="Age of X-Man Omega" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120236" Issue="713851" />
+</Book>
 <Book Series="Uncanny X-Men Annual" Number="1" Volume="2016" Year="2017">
 <Database Name="cv" Series="95754" Issue="558428" />
 </Book>
@@ -533,6 +539,9 @@
 </Book>
 <Book Series="Thor" Number="15" Volume="2018" Year="2019">
 <Database Name="cv" Series="111590" Issue="713520" />
+</Book>
+<Book Series="War of the Realms Omega" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120141" Issue="713524" />
 </Book>
 <Book Series="Uncanny X-Men" Number="16" Volume="2018" Year="2019">
 <Database Name="cv" Series="115285" Issue="706426" />
