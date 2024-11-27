@@ -267,8 +267,8 @@
 <Book Series="X-Force" Number="16" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="825509" />
 </Book>
-<Book Series="Deadpool" Number="6" Volume="2018" Year="2019">
-<Database Name="cv" Series="111414" Issue="691376" />
+<Book Series="Deadpool" Number="6" Volume="2019" Year="2020">
+<Database Name="cv" Series="122987" Issue="787346" />
 </Book>
 <Book Series="X-Factor" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="129097" Issue="784416" />
