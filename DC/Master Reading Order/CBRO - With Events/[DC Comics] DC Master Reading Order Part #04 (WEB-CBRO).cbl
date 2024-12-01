@@ -2991,7 +2991,7 @@
 <Book Series="Adventures of Superman" Number="595" Volume="1987" Year="2001">
 <Database Name="cv" Series="3778" Issue="89252" />
 </Book>
-<Book Series="The Flash: Our Worlds at War" Number="1" Volume="2001" Year="2001">
+<Book Series="Flash: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="30757" Issue="189894" />
 </Book>
 <Book Series="Impulse" Number="77" Volume="1995" Year="2001">
