@@ -1002,7 +1002,7 @@
 <Book Series="Starman" Number="53" Volume="1994" Year="1999">
 <Database Name="cv" Series="5259" Issue="78367" />
 </Book>
-<Book Series="The New Gods Secret Files and Origins" Number="1" Volume="1998" Year="1998">
+<Book Series="New Gods Secret Files" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="30838" Issue="190562" />
 </Book>
 <Book Series="Superman: Peace on Earth" Number="1" Volume="1999" Year="1999">
