@@ -420,7 +420,7 @@
 <Book Series="Robin" Number="48" Volume="1993" Year="1997">
 <Database Name="cv" Series="4975" Issue="44380" />
 </Book>
-<Book Series="Starman: Mist" Number="1" Volume="1998" Year="1998">
+<Book Series="Starman: The Mist" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="25380" Issue="149831" />
 </Book>
 <Book Series="Azrael" Number="35" Volume="1995" Year="1997">
