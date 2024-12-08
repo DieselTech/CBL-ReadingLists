@@ -1578,9 +1578,6 @@
 <Book Series="Anarky" Number="7" Volume="1999" Year="1999">
 <Database Name="cv" Series="26869" Issue="161336" />
 </Book>
-<Book Series="Batman: Day of Judgment" Number="1" Volume="1999" Year="1999">
-<Database Name="cv" Series="29754" Issue="183117" />
-</Book>
 <Book Series="Green Lantern" Number="118" Volume="1990" Year="1999">
 <Database Name="cv" Series="4363" Issue="46096" />
 </Book>
