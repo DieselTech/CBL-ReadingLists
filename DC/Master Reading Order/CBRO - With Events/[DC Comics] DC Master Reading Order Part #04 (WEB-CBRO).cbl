@@ -300,7 +300,7 @@
 <Book Series="The Spectre" Number="58" Volume="1992" Year="1997">
 <Database Name="cv" Series="4754" Issue="44174" />
 </Book>
-<Book Series="Superboy and the Ravers" Number="14" Volume="1996" Year="1997">
+<Book Series="Superboy &#38; The Ravers" Number="14" Volume="1996" Year="1997">
 <Database Name="cv" Series="9301" Issue="124220" />
 </Book>
 <Book Series="Teen Titans" Number="13" Volume="1996" Year="1997">
