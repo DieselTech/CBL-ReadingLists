@@ -3120,8 +3120,8 @@
 <Book Series="JSA" Number="29" Volume="1999" Year="2001">
 <Database Name="cv" Series="6331" Issue="51046" />
 </Book>
-<Book Series="Harley Quinn" Number="13" Volume="2021" Year="2022">
-<Database Name="cv" Series="134718" Issue="912143" />
+<Book Series="Harley Quinn" Number="13" Volume="2000" Year="2001">
+<Database Name="cv" Series="9494" Issue="78194" />
 </Book>
 <Book Series="The Spectre" Number="10" Volume="2001" Year="2001">
 <Database Name="cv" Series="22445" Issue="134753" />
