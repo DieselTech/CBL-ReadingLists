@@ -1347,7 +1347,7 @@
 <Book Series="Azrael: Agent of the Bat" Number="55" Volume="1998" Year="1999">
 <Database Name="cv" Series="19721" Issue="123248" />
 </Book>
-<Book Series="Young Justice: No Man's Land Special" Number="1" Volume="1999" Year="1999">
+<Book Series="Young Justice in No Man's Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21891" Issue="131873" />
 </Book>
 <Book Series="The Batman Chronicles" Number="17" Volume="1995" Year="1999">
