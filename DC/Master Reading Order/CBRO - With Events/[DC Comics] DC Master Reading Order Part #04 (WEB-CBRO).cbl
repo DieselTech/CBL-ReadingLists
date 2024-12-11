@@ -375,9 +375,6 @@
 <Book Series="Superman: The Man of Steel" Number="75" Volume="1991" Year="1998">
 <Database Name="cv" Series="4571" Issue="114338" />
 </Book>
-<Book Series="The Power of SHAZAM!" Number="31" Volume="1995" Year="1997">
-<Database Name="cv" Series="5515" Issue="44170" />
-</Book>
 <Book Series="The Power of SHAZAM!" Number="32" Volume="1995" Year="1997">
 <Database Name="cv" Series="5515" Issue="44277" />
 </Book>
