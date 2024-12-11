@@ -1794,16 +1794,16 @@
 <Book Series="JSA" Number="10" Volume="1999" Year="2000">
 <Database Name="cv" Series="6331" Issue="46354" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="1" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73301" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="2" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="2" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73302" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="3" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="3" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73303" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="4" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="4" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73304" />
 </Book>
 <Book Series="Martian Manhunter" Number="13" Volume="1998" Year="1999">
