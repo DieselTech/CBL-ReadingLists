@@ -2658,7 +2658,7 @@
 <Book Series="Wonder Woman" Number="170" Volume="1987" Year="2001">
 <Database Name="cv" Series="3824" Issue="53561" />
 </Book>
-<Book Series="Batman: Scarface -- A Psychodrama" Number="1" Volume="2001" Year="2001">
+<Book Series="Batman/Scarface: A Psychodrama" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="25423" Issue="150024" />
 </Book>
 <Book Series="Action Comics" Number="775" Volume="1938" Year="2001">
