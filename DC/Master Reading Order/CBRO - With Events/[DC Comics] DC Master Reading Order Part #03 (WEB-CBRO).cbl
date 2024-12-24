@@ -555,7 +555,7 @@
 <Book Series="Justice League America Annual" Number="6" Volume="1991" Year="1992">
 <Database Name="cv" Series="4368" Issue="35147" />
 </Book>
-<Book Series="Demon Annual" Number="1" Volume="1992" Year="1992">
+<Book Series="The Demon Annual" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="18553" Issue="109257" />
 </Book>
 <Book Series="The Flash Annual" Number="5" Volume="1987" Year="1992">
@@ -1608,7 +1608,7 @@
 <Book Series="Eclipso Annual" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="27259" Issue="166127" />
 </Book>
-<Book Series="Demon Annual" Number="2" Volume="1992" Year="1993">
+<Book Series="The Demon Annual" Number="2" Volume="1992" Year="1993">
 <Database Name="cv" Series="18553" Issue="109292" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight Annual" Number="3" Volume="1993" Year="1993">
