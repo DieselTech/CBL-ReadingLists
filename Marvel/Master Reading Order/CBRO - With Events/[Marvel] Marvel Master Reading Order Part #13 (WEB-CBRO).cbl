@@ -2179,7 +2179,7 @@
 <Database Name="cv" Series="142053" Issue="964967" />
 </Book>
 <Book Series="Sins of Sinister" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="153615" Issue="1014917" />
+<Database Name="cv" Series="147646" Issue="966426" />
 </Book>
 <Book Series="Storm &#38; The Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="969390" />
