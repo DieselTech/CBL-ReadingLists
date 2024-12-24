@@ -2433,12 +2433,6 @@
 <Book Series="Underworld Unleashed" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5526" Issue="41753" />
 </Book>
-<Book Series="Adventures of Superman" Number="530" Volume="1987" Year="1995">
-<Database Name="cv" Series="3778" Issue="41723" />
-</Book>
-<Book Series="Superman: The Man of Tomorrow" Number="3" Volume="1995" Year="1995">
-<Database Name="cv" Series="5523" Issue="41793" />
-</Book>
 <Book Series="Underworld Unleashed: Abyss - Hell's Sentinel" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="22671" Issue="135963" />
 </Book>
