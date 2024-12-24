@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[X-Men Krakoa 3.2] Fall of the House of X</Name>
-<NumIssues>44</NumIssues>
+<NumIssues>48</NumIssues>
 <Books>
 <Book Series="Fall of the House of X" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="155874" Issue="1038990" />
@@ -134,6 +134,18 @@
 </Book>
 <Book Series="Cable" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156139" Issue="1053536" />
+</Book>
+<Book Series="X-Men Forever" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="157312" Issue="1054386" />
+</Book>
+<Book Series="X-Men Forever" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="157312" Issue="1055038" />
+</Book>
+<Book Series="Fall of the House of X" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="155874" Issue="1056203" />
+</Book>
+<Book Series="Rise of the Powers of X" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="155968" Issue="1057008" />
 </Book>
 </Books>
 <Matchers />
