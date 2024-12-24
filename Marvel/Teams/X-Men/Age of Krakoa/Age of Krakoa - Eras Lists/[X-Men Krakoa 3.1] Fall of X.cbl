@@ -225,8 +225,8 @@
 <Book Series="X-Force" Number="47" Volume="2020" Year="2024">
 <Database Name="cv" Series="122668" Issue="1038291" />
 </Book>
-<Book Series="Immortal X-Men" Number="3" Volume="2022" Year="2005">
-<Database Name="cv" Series="142053" Issue="142053" />
+<Book Series="Immortal X-Men" Number="18" Volume="2022" Year="2024">
+<Database Name="cv" Series="142053" Issue="1038387" />
 </Book>
 </Books>
 <Matchers />
