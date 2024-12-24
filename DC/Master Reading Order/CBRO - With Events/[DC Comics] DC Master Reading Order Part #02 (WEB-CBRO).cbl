@@ -1074,16 +1074,16 @@
 <Book Series="Batman: The Killing Joke" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="19967" Issue="119383" />
 </Book>
-<Book Series="Batman: The Cult" Number="1" Volume="1989" Year="1991">
+<Book Series="Batman: The Cult" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="276341" />
 </Book>
-<Book Series="Batman: The Cult" Number="2" Volume="1989" Year="1988">
+<Book Series="Batman: The Cult" Number="2" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="29013" />
 </Book>
-<Book Series="Batman: The Cult" Number="3" Volume="1989" Year="1988">
+<Book Series="Batman: The Cult" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="29023" />
 </Book>
-<Book Series="Batman: The Cult" Number="4" Volume="1989" Year="1988">
+<Book Series="Batman: The Cult" Number="4" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="29028" />
 </Book>
 <Book Series="Legion of Super-Heroes" Number="46" Volume="1984" Year="1988">
