@@ -1587,9 +1587,6 @@
 <Book Series="Day of Judgment" Number="2" Volume="1999" Year="1999">
 <Database Name="cv" Series="6604" Issue="47230" />
 </Book>
-<Book Series="Azrael: Agent of the Bat" Number="58" Volume="1998" Year="1999">
-<Database Name="cv" Series="19721" Issue="123291" />
-</Book>
 <Book Series="Hourman" Number="8" Volume="1999" Year="1999">
 <Database Name="cv" Series="6329" Issue="46097" />
 </Book>
