@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[X-Men Krakoa 3.2] Fall of the House of X</Name>
-<NumIssues>48</NumIssues>
+<NumIssues>52</NumIssues>
 <Books>
 <Book Series="Fall of the House of X" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="155874" Issue="1038990" />
@@ -105,6 +105,9 @@
 <Book Series="Fall of the House of X" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="155874" Issue="1051494" />
 </Book>
+<Book Series="X-Men" Number="34" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1053547" />
+</Book>
 <Book Series="Rise of the Powers of X" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="155968" Issue="1052938" />
 </Book>
@@ -122,6 +125,12 @@
 </Book>
 <Book Series="Wolverine" Number="48" Volume="2020" Year="2024">
 <Database Name="cv" Series="125121" Issue="1052947" />
+</Book>
+<Book Series="Wolverine" Number="49" Volume="2020" Year="2024">
+<Database Name="cv" Series="125121" Issue="1054385" />
+</Book>
+<Book Series="Wolverine" Number="50" Volume="2020" Year="2024">
+<Database Name="cv" Series="125121" Issue="1057018" />
 </Book>
 <Book Series="Dead X-Men" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156494" Issue="1051493" />
@@ -146,6 +155,9 @@
 </Book>
 <Book Series="Rise of the Powers of X" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="155968" Issue="1057008" />
+</Book>
+<Book Series="X-Men" Number="35" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1058720" />
 </Book>
 </Books>
 <Matchers />
