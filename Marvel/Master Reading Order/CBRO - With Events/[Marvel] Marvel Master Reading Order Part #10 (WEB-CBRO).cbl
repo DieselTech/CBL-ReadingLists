@@ -5517,17 +5517,23 @@
 <Book Series="Spider-Gwen" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="80298" Issue="491529" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="478603" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469227" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="479251" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469228" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="479966" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469230" />
 </Book>
-<Book Series="All-New Captain America: Fear Him" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="79847" Issue="480665" />
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="4" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469670" />
+</Book>
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="5" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469671" />
+</Book>
+<Book Series="All-New Captain America: Fear Him Infinite Comic" Number="6" Volume="2014" Year="2014">
+<Database Name="cv" Series="77871" Issue="469672" />
 </Book>
 <Book Series="Captain America &#38; the Mighty Avengers" Number="5" Volume="2014" Year="2015">
 <Database Name="cv" Series="78045" Issue="479969" />
