@@ -909,23 +909,23 @@
 <Book Series="Gamora" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="97041" Issue="598373" />
 </Book>
-<Book Series="Slapstick" Number="1" Volume="2016" Year="2017">
-<Database Name="cv" Series="96307" Issue="563725" />
+<Book Series="Slapstick Infinite Comic" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="95032" Issue="553967" />
 </Book>
-<Book Series="Slapstick" Number="2" Volume="2016" Year="2017">
-<Database Name="cv" Series="96307" Issue="574875" />
+<Book Series="Slapstick Infinite Comic" Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="95032" Issue="558611" />
 </Book>
-<Book Series="Slapstick" Number="3" Volume="2016" Year="2017">
-<Database Name="cv" Series="96307" Issue="579322" />
+<Book Series="Slapstick Infinite Comic" Number="3" Volume="2016" Year="2016">
+<Database Name="cv" Series="95032" Issue="570044" />
 </Book>
-<Book Series="Slapstick" Number="4" Volume="2016" Year="2017">
-<Database Name="cv" Series="96307" Issue="583728" />
+<Book Series="Slapstick Infinite Comic" Number="4" Volume="2016" Year="2017">
+<Database Name="cv" Series="95032" Issue="578656" />
 </Book>
-<Book Series="Slapstick" Number="5" Volume="2016" Year="2017">
-<Database Name="cv" Series="96307" Issue="590803" />
+<Book Series="Slapstick Infinite Comic" Number="5" Volume="2016" Year="2017">
+<Database Name="cv" Series="95032" Issue="583849" />
 </Book>
-<Book Series="Slapstick" Number="6" Volume="2016" Year="2017">
-<Database Name="cv" Series="96307" Issue="594121" />
+<Book Series="Slapstick Infinite Comic" Number="6" Volume="2016" Year="2017">
+<Database Name="cv" Series="95032" Issue="590946" />
 </Book>
 <Book Series="Nova" Number="1" Volume="2016" Year="2017">
 <Database Name="cv" Series="96300" Issue="563723" />
