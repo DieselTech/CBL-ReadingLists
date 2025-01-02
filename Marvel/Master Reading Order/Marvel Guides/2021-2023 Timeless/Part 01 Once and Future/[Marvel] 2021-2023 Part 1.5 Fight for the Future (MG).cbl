@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2023 Part 1.5 Fight for the Future (MG)</Name>
-    <NumIssues>27</NumIssues>
+    <NumIssues>34</NumIssues>
     <Books>
         <Book Series="Shang-Chi" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="130763" Issue="805097" />
@@ -84,6 +84,27 @@
         </Book>
         <Book Series="Shang-Chi" Number="12" Volume="2021" Year="2022">
             <Database Name="cv" Series="136143" Issue="922401" />
+        </Book>
+        <Book Series="Shang-Chi and the Ten Rings" Number="1" Volume="2022" Year="2022">
+            <Database Name="cv" Series="144088" Issue="937505" />
+        </Book>
+        <Book Series="Shang-Chi and the Ten Rings" Number="2" Volume="2022" Year="2022">
+            <Database Name="cv" Series="144088" Issue="943715" />
+        </Book>
+        <Book Series="Shang-Chi and the Ten Rings" Number="3" Volume="2022" Year="2022">
+            <Database Name="cv" Series="144088" Issue="948985" />
+        </Book>
+        <Book Series="Shang-Chi and the Ten Rings" Number="4" Volume="2022" Year="2022">
+            <Database Name="cv" Series="144088" Issue="951439" />
+        </Book>
+        <Book Series="Shang-Chi and the Ten Rings" Number="5" Volume="2022" Year="2023">
+            <Database Name="cv" Series="144088" Issue="955117" />
+        </Book>
+        <Book Series="Shang-Chi and the Ten Rings" Number="6" Volume="2022" Year="2023">
+            <Database Name="cv" Series="144088" Issue="961947" />
+        </Book>
+        <Book Series="Shang-Chi: Master of the Ten Rings" Number="1" Volume="2023" Year="2023">
+            <Database Name="cv" Series="147225" Issue="962841" />
         </Book>
     </Books>
     <Matchers />

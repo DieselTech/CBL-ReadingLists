@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2023 Part 1.3 Reckoning War (MG)</Name>
-    <NumIssues>20</NumIssues>
+    <NumIssues>25</NumIssues>
     <Books>
         <Book Series="She-Hulk" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="141329" Issue="903916" />
@@ -21,6 +21,21 @@
         </Book>
         <Book Series="She-Hulk" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="141329" Issue="937735" />
+        </Book>
+        <Book Series="She-Hulk" Number="6" Volume="2022" Year="2022">
+            <Database Name="cv" Series="141329" Issue="946147" />
+        </Book>
+        <Book Series="She-Hulk" Number="7" Volume="2022" Year="2023">
+            <Database Name="cv" Series="141329" Issue="953028" />
+        </Book>
+        <Book Series="She-Hulk" Number="8" Volume="2022" Year="2023">
+            <Database Name="cv" Series="141329" Issue="955118" />
+        </Book>
+        <Book Series="She-Hulk" Number="9" Volume="2022" Year="2023">
+            <Database Name="cv" Series="141329" Issue="961946" />
+        </Book>
+        <Book Series="She-Hulk" Number="10" Volume="2022" Year="2023">
+            <Database Name="cv" Series="141329" Issue="973027" />
         </Book>
         <Book Series="Fantastic Four" Number="39" Volume="2018" Year="2022">
             <Database Name="cv" Series="112685" Issue="902683" />

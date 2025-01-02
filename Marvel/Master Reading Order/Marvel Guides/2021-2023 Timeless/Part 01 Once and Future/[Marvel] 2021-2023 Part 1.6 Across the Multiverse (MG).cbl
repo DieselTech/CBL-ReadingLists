@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2023 Part 1.6 Across the Multiverse (MG)</Name>
-    <NumIssues>61</NumIssues>
+    <NumIssues>53</NumIssues>
     <Books>
         <Book Series="Hulkling &#38; Wiccan Infinity Comic" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="139919" Issue="891911" />
@@ -100,35 +100,26 @@
         <Book Series="Captain Carter" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="141845" Issue="941560" />
         </Book>
-        <Book Series="Spider-Gwen: Gwenverse" Number="1" Volume="2022" Year="2022">
-            <Database Name="cv" Series="141842" Issue="910617" />
+        <Book Series="Spider-Man 2099: Exodus Alpha" Number="1" Volume="2022" Year="2022">
+            <Database Name="cv" Series="142762" Issue="921065" />
         </Book>
-        <Book Series="Spider-Gwen: Gwenverse" Number="2" Volume="2022" Year="2022">
-            <Database Name="cv" Series="141842" Issue="918156" />
+        <Book Series="Spider-Man 2099: Exodus" Number="1" Volume="2022" Year="2022">
+            <Database Name="cv" Series="143301" Issue="926221" />
         </Book>
-        <Book Series="Spider-Gwen: Gwenverse" Number="3" Volume="2022" Year="2022">
-            <Database Name="cv" Series="141842" Issue="930972" />
+        <Book Series="Spider-Man 2099: Exodus" Number="2" Volume="2022" Year="2022">
+            <Database Name="cv" Series="143301" Issue="930973" />
         </Book>
-        <Book Series="Spider-Gwen: Gwenverse" Number="4" Volume="2022" Year="2022">
-            <Database Name="cv" Series="141842" Issue="937736" />
+        <Book Series="Spider-Man 2099: Exodus" Number="3" Volume="2022" Year="2022">
+            <Database Name="cv" Series="143301" Issue="933088" />
         </Book>
-        <Book Series="Spider-Gwen: Gwenverse" Number="5" Volume="2022" Year="2022">
-            <Database Name="cv" Series="141842" Issue="943905" />
+        <Book Series="Spider-Man 2099: Exodus" Number="4" Volume="2022" Year="2022">
+            <Database Name="cv" Series="143301" Issue="935746" />
         </Book>
-        <Book Series="Spider-Punk" Number="1" Volume="2022" Year="2022">
-            <Database Name="cv" Series="142144" Issue="914656" />
+        <Book Series="Spider-Man 2099: Exodus" Number="5" Volume="2022" Year="2022">
+            <Database Name="cv" Series="143301" Issue="940227" />
         </Book>
-        <Book Series="Spider-Punk" Number="2" Volume="2022" Year="2022">
-            <Database Name="cv" Series="142144" Issue="924788" />
-        </Book>
-        <Book Series="Spider-Punk" Number="3" Volume="2022" Year="2022">
-            <Database Name="cv" Series="142144" Issue="935748" />
-        </Book>
-        <Book Series="Spider-Punk" Number="4" Volume="2022" Year="2022">
-            <Database Name="cv" Series="142144" Issue="940224" />
-        </Book>
-        <Book Series="Spider-Punk" Number="5" Volume="2022" Year="2022">
-            <Database Name="cv" Series="142144" Issue="946720" />
+        <Book Series="Spider-Man 2099: Exodus Omega" Number="1" Volume="2022" Year="2022">
+            <Database Name="cv" Series="18651" Issue="946210" />
         </Book>
         <Book Series="Namor: Conquered Shores" Number="1" Volume="2022" Year="2022">
             <Database Name="cv" Series="145513" Issue="950688" />
@@ -144,21 +135,6 @@
         </Book>
         <Book Series="Namor: Conquered Shores" Number="5" Volume="2022" Year="2023">
             <Database Name="cv" Series="145513" Issue="969387" />
-        </Book>
-        <Book Series="The Variants" Number="1" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143856" Issue="933080" />
-        </Book>
-        <Book Series="The Variants" Number="2" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143856" Issue="939094" />
-        </Book>
-        <Book Series="The Variants" Number="3" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143856" Issue="945041" />
-        </Book>
-        <Book Series="The Variants" Number="4" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143856" Issue="952306" />
-        </Book>
-        <Book Series="The Variants" Number="5" Volume="2022" Year="2023">
-            <Database Name="cv" Series="143856" Issue="958993" />
         </Book>
         <Book Series="Avengers Forever" Number="1" Volume="2021" Year="2022">
             <Database Name="cv" Series="140532" Issue="899178" />
