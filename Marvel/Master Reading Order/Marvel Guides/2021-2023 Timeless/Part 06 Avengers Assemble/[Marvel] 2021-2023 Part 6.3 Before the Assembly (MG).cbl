@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 2021-2023 Part 6.3 Before the Assembly (MG)</Name>
-<NumIssues>52</NumIssues>
+<NumIssues>64</NumIssues>
 <Books>
 <Book Series="All-Out Avengers" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144974" Issue="946192" />
@@ -17,6 +17,57 @@
 </Book>
 <Book Series="All-Out Avengers" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="144974" Issue="966420" />
+</Book>
+<Book Series="Genis-Vell: Captain Marvel" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144206" Issue="939089" />
+</Book>
+<Book Series="Genis-Vell: Captain Marvel" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="144206" Issue="943902" />
+</Book>
+<Book Series="Genis-Vell: Captain Marvel" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="144206" Issue="949145" />
+</Book>
+<Book Series="Genis-Vell: Captain Marvel" Number="4" Volume="2022" Year="2022">
+<Database Name="cv" Series="144206" Issue="950792" />
+</Book>
+<Book Series="Genis-Vell: Captain Marvel" Number="5" Volume="2022" Year="2023">
+<Database Name="cv" Series="144206" Issue="956850" />
+</Book>
+<Book Series="Monica Rambeau: Photon" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146874" Issue="960022" />
+</Book>
+<Book Series="Monica Rambeau: Photon" Number="2" Volume="2022" Year="2023">
+<Database Name="cv" Series="146874" Issue="963991" />
+</Book>
+<Book Series="Monica Rambeau: Photon" Number="3" Volume="2022" Year="2023">
+<Database Name="cv" Series="146874" Issue="971879" />
+</Book>
+<Book Series="Monica Rambeau: Photon" Number="4" Volume="2022" Year="2023">
+<Database Name="cv" Series="146874" Issue="978487" />
+</Book>
+<Book Series="Monica Rambeau: Photon" Number="5" Volume="2022" Year="2023">
+<Database Name="cv" Series="146874" Issue="985707" />
+</Book>
+<Book Series="Women of Marvel" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="148963" Issue="978490" />
+</Book>
+<Book Series="Captain Marvel: Assault on Eden" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="154067" Issue="1024044" />
+</Book>
+<Book Series="She-Hulk" Number="11" Volume="2022" Year="2023">
+<Database Name="cv" Series="141329" Issue="978485" />
+</Book>
+<Book Series="She-Hulk" Number="12" Volume="2022" Year="2023">
+<Database Name="cv" Series="141329" Issue="984190" />
+</Book>
+<Book Series="She-Hulk" Number="13" Volume="2022" Year="2023">
+<Database Name="cv" Series="141329" Issue="989666" />
+</Book>
+<Book Series="She-Hulk" Number="14" Volume="2022" Year="2023">
+<Database Name="cv" Series="141329" Issue="997387" />
+</Book>
+<Book Series="She-Hulk" Number="15" Volume="2022" Year="2023">
+<Database Name="cv" Series="141329" Issue="1003584" />
 </Book>
 <Book Series="Avengers Beyond" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="149051" Issue="979428" />
@@ -56,21 +107,6 @@
 </Book>
 <Book Series="Wasp" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="147504" Issue="985637" />
-</Book>
-<Book Series="She-Hulk" Number="11" Volume="2022" Year="2023">
-<Database Name="cv" Series="141329" Issue="978485" />
-</Book>
-<Book Series="She-Hulk" Number="12" Volume="2022" Year="2023">
-<Database Name="cv" Series="141329" Issue="984190" />
-</Book>
-<Book Series="She-Hulk" Number="13" Volume="2022" Year="2023">
-<Database Name="cv" Series="141329" Issue="989666" />
-</Book>
-<Book Series="She-Hulk" Number="14" Volume="2022" Year="2023">
-<Database Name="cv" Series="141329" Issue="997387" />
-</Book>
-<Book Series="She-Hulk" Number="15" Volume="2022" Year="2023">
-<Database Name="cv" Series="141329" Issue="1003584" />
 </Book>
 <Book Series="Savage Avengers" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143014" Issue="924796" />
