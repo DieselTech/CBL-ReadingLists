@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] 2021-2023 Part 6.4 Before the Assembly (MG)</Name>
+<Name>[Marvel] 2021-2023 Part 6.3 Before the Assembly (MG)</Name>
 <NumIssues>52</NumIssues>
 <Books>
 <Book Series="All-Out Avengers" Number="1" Volume="2022" Year="2022">

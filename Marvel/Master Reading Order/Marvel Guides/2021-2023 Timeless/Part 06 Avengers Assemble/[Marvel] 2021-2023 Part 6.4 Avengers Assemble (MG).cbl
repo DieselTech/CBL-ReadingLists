@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] 2021-2023 Part 6.5 Avengers Assemble (MG)</Name>
+<Name>[Marvel] 2021-2023 Part 6.4 Avengers Assemble (MG)</Name>
 <NumIssues>17</NumIssues>
 <Books>
 <Book Series="Avengers Forever" Number="5" Volume="2021" Year="2022">
