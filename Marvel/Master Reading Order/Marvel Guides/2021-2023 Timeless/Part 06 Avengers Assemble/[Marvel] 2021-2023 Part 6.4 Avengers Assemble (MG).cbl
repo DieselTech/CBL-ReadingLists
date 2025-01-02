@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] 2021-2023 Part 6.5 Avengers Assemble (MG)</Name>
-<NumIssues>17</NumIssues>
+<Name>[Marvel] 2021-2023 Part 6.4 Avengers Assemble (MG)</Name>
+<NumIssues>22</NumIssues>
 <Books>
 <Book Series="Avengers Forever" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="140532" Issue="921064" />
@@ -23,6 +23,21 @@
 </Book>
 <Book Series="Avengers Forever" Number="11" Volume="2021" Year="2023">
 <Database Name="cv" Series="140532" Issue="956786" />
+</Book>
+<Book Series="Avengers" Number="57" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="933085" />
+</Book>
+<Book Series="Avengers" Number="58" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="937688" />
+</Book>
+<Book Series="Avengers" Number="59" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="941557" />
+</Book>
+<Book Series="Avengers" Number="61" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="951452" />
+</Book>
+<Book Series="Avengers" Number="62" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="953981" />
 </Book>
 <Book Series="Avengers Assemble Alpha" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="146602" Issue="958047" />

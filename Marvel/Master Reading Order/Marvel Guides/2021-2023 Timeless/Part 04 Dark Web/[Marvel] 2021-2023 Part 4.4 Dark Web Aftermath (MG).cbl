@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 2021-2023 Part 4.4 Dark Web Aftermath (MG)</Name>
-<NumIssues>50</NumIssues>
+<NumIssues>32</NumIssues>
 <Books>
-<Book Series="Mary Jane &#38; Black Cat" Number="3" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="971887" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="4" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="975702" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="5" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="985708" />
 </Book>
 <Book Series="Gold Goblin" Number="4" Volume="2022" Year="2023">
@@ -78,80 +78,26 @@
 <Book Series="Red Goblin" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="148089" Issue="989665" />
 </Book>
-<Book Series="Carnage Forever" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="141708" Issue="908707" />
+<Book Series="Free Comic Book Day 2023: Spider-Man/Venom" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="150032" Issue="987194" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="1" Volume="2022" Year="2023">
-<Database Name="cv" Series="146873" Issue="960009" />
+<Book Series="Venom" Number="19" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="989669" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="2" Volume="2022" Year="2023">
-<Database Name="cv" Series="146873" Issue="964966" />
+<Book Series="Venom" Number="20" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="993240" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="3" Volume="2022" Year="2023">
-<Database Name="cv" Series="146873" Issue="971889" />
+<Book Series="Venom" Number="21" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="996034" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="4" Volume="2022" Year="2023">
-<Database Name="cv" Series="146873" Issue="979424" />
+<Book Series="Venom" Number="22" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="998585" />
 </Book>
-<Book Series="The Invincible Iron Man" Number="5" Volume="2022" Year="2023">
-<Database Name="cv" Series="146873" Issue="985650" />
+<Book Series="Venom" Number="24" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="1010056" />
 </Book>
-<Book Series="Carnage" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="141919" Issue="911320" />
-</Book>
-<Book Series="Carnage" Number="2" Volume="2022" Year="2022">
-<Database Name="cv" Series="141919" Issue="919309" />
-</Book>
-<Book Series="Carnage" Number="3" Volume="2022" Year="2022">
-<Database Name="cv" Series="141919" Issue="928432" />
-</Book>
-<Book Series="Carnage" Number="4" Volume="2022" Year="2022">
-<Database Name="cv" Series="141919" Issue="934987" />
-</Book>
-<Book Series="Carnage" Number="5" Volume="2022" Year="2022">
-<Database Name="cv" Series="141919" Issue="943904" />
-</Book>
-<Book Series="Carnage" Number="6" Volume="2022" Year="2022">
-<Database Name="cv" Series="141919" Issue="948105" />
-</Book>
-<Book Series="Carnage" Number="7" Volume="2022" Year="2022">
-<Database Name="cv" Series="141919" Issue="951450" />
-</Book>
-<Book Series="Carnage" Number="8" Volume="2022" Year="2023">
-<Database Name="cv" Series="141919" Issue="961938" />
-</Book>
-<Book Series="Carnage" Number="9" Volume="2022" Year="2023">
-<Database Name="cv" Series="141919" Issue="963987" />
-</Book>
-<Book Series="Carnage" Number="10" Volume="2022" Year="2023">
-<Database Name="cv" Series="141919" Issue="973018" />
-</Book>
-<Book Series="Carnage" Number="11" Volume="2022" Year="2023">
-<Database Name="cv" Series="141919" Issue="978478" />
-</Book>
-<Book Series="Carnage" Number="12" Volume="2022" Year="2023">
-<Database Name="cv" Series="141919" Issue="982357" />
-</Book>
-<Book Series="Carnage Reigns: Alpha" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="150029" Issue="987130" />
-</Book>
-<Book Series="Miles Morales: Spider-Man" Number="6" Volume="2019" Year="2023">
-<Database Name="cv" Series="146734" Issue="989662" />
-</Book>
-<Book Series="Carnage" Number="13" Volume="2022" Year="2023">
-<Database Name="cv" Series="141919" Issue="992314" />
-</Book>
-<Book Series="Red Goblin" Number="5" Volume="2023" Year="2023">
-<Database Name="cv" Series="148089" Issue="993235" />
-</Book>
-<Book Series="Carnage" Number="14" Volume="2022" Year="2023">
-<Database Name="cv" Series="141919" Issue="994371" />
-</Book>
-<Book Series="Miles Morales: Spider-Man" Number="7" Volume="2019" Year="2023">
-<Database Name="cv" Series="146734" Issue="996022" />
-</Book>
-<Book Series="Carnage Reigns Omega" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="151706" Issue="997395" />
+<Book Series="Venom" Number="25" Volume="2021" Year="2023">
+<Database Name="cv" Series="140084" Issue="1013500" />
 </Book>
 </Books>
 <Matchers />
