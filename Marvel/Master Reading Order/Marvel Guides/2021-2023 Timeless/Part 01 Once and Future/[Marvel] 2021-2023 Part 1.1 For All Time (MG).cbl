@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2023 Part 1.1 For All Time (MG)</Name>
-    <NumIssues>31</NumIssues>
+    <NumIssues>32</NumIssues>
     <Books>
         <Book Series="Kang the Conqueror" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="138345" Issue="880929" />
@@ -18,6 +18,9 @@
         </Book>
         <Book Series="Kang the Conqueror" Number="5" Volume="2021" Year="2022">
             <Database Name="cv" Series="138345" Issue="899165" />
+        </Book>
+        <Book Series="Avengers 1,000,000 B.C." Number="1" Volume="2022" Year="2022">
+            <Database Name="cv" Series="144579" Issue="942726" />
         </Book>
         <Book Series="Fantastic Four" Number="32" Volume="2018" Year="2021">
             <Database Name="cv" Series="112685" Issue="848849" />

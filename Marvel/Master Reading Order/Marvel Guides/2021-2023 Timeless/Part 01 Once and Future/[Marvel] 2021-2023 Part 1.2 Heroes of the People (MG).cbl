@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2023 Part 1.2 Heroes of the People (MG)</Name>
-    <NumIssues>49</NumIssues>
+    <NumIssues>43</NumIssues>
     <Books>
         <Book Series="The United States of Captain America" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="137256" Issue="866598" />
@@ -132,24 +132,6 @@
         </Book>
         <Book Series="Captain America: Symbol of Truth" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="142840" Issue="949151" />
-        </Book>
-        <Book Series="Captain America: Sentinel of Liberty" Number="1" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143632" Issue="930977" />
-        </Book>
-        <Book Series="Captain America: Sentinel of Liberty" Number="2" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143632" Issue="934988" />
-        </Book>
-        <Book Series="Captain America: Sentinel of Liberty" Number="3" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143632" Issue="941559" />
-        </Book>
-        <Book Series="Captain America: Sentinel of Liberty" Number="4" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143632" Issue="946160" />
-        </Book>
-        <Book Series="Captain America: Sentinel of Liberty" Number="5" Volume="2022" Year="2022">
-            <Database Name="cv" Series="143632" Issue="949636" />
-        </Book>
-        <Book Series="Captain America: Sentinel of Liberty" Number="6" Volume="2022" Year="2023">
-            <Database Name="cv" Series="143632" Issue="953982" />
         </Book>
     </Books>
     <Matchers />
