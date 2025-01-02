@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 2021-2023 Part 5.2 Strange Spotlight (MG)</Name>
-<NumIssues>63</NumIssues>
+<NumIssues>74</NumIssues>
 <Books>
 <Book Series="Ghost Rider" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141707" Issue="908701" />
@@ -180,6 +180,21 @@
 <Book Series="Silk" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="150178" Issue="1011784" />
 </Book>
+<Book Series="Clobberin’ Time" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="149056" Issue="979433" />
+</Book>
+<Book Series="Clobberin’ Time" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="149056" Issue="985649" />
+</Book>
+<Book Series="Clobberin’ Time" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="149056" Issue="992313" />
+</Book>
+<Book Series="Clobberin’ Time" Number="4" Volume="2023" Year="2023">
+<Database Name="cv" Series="149056" Issue="994369" />
+</Book>
+<Book Series="Clobberin’ Time" Number="5" Volume="2023" Year="2023">
+<Database Name="cv" Series="149056" Issue="998589" />
+</Book>
 <Book Series="Doctor Strange" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148962" Issue="978489" />
 </Book>
@@ -191,6 +206,24 @@
 </Book>
 <Book Series="Doctor Strange" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="148962" Issue="994367" />
+</Book>
+<Book Series="Doctor Strange" Number="5" Volume="2023" Year="2023">
+<Database Name="cv" Series="148962" Issue="998578" />
+</Book>
+<Book Series="Doctor Strange" Number="6" Volume="2023" Year="2023">
+<Database Name="cv" Series="148962" Issue="1004323" />
+</Book>
+<Book Series="Doctor Strange" Number="7" Volume="2023" Year="2023">
+<Database Name="cv" Series="148962" Issue="1011778" />
+</Book>
+<Book Series="Doctor Strange" Number="8" Volume="2023" Year="2023">
+<Database Name="cv" Series="148962" Issue="1020533" />
+</Book>
+<Book Series="Doctor Strange" Number="9" Volume="2023" Year="2024">
+<Database Name="cv" Series="148962" Issue="1027596" />
+</Book>
+<Book Series="Doctor Strange" Number="10" Volume="2023" Year="2024">
+<Database Name="cv" Series="148962" Issue="1035958" />
 </Book>
 </Books>
 <Matchers />
