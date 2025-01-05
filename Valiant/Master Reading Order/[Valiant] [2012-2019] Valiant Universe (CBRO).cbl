@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Valiant] [2012-2019] Valiant Universe (CBRO)</Name>
-<NumIssues>530</NumIssues>
+<NumIssues>577</NumIssues>
 <Books>
 <Book Series="X-O Manowar" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="48559" Issue="334344" />
@@ -104,6 +104,42 @@
 </Book>
 <Book Series="Bloodshot" Number="9" Volume="2012" Year="2013">
 <Database Name="cv" Series="50367" Issue="392344" />
+</Book>
+<Book Series="Bloodshot" Number="10" Volume="2012" Year="2013">
+<Database Name="cv" Series="50367" Issue="397537" />
+</Book>
+<Book Series="Harbinger Wars" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="59509" Issue="395695" />
+</Book>
+<Book Series="Harbinger" Number="11" Volume="2012" Year="2013">
+<Database Name="cv" Series="49539" Issue="396419" />
+</Book>
+<Book Series="Bloodshot" Number="11" Volume="2012" Year="2013">
+<Database Name="cv" Series="50367" Issue="402281" />
+</Book>
+<Book Series="Harbinger Wars" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="59509" Issue="400140" />
+</Book>
+<Book Series="Harbinger" Number="12" Volume="2012" Year="2013">
+<Database Name="cv" Series="49539" Issue="401199" />
+</Book>
+<Book Series="Bloodshot" Number="12" Volume="2012" Year="2013">
+<Database Name="cv" Series="50367" Issue="411821" />
+</Book>
+<Book Series="Harbinger Wars" Number="3" Volume="2013" Year="2013">
+<Database Name="cv" Series="59509" Issue="410315" />
+</Book>
+<Book Series="Harbinger" Number="13" Volume="2012" Year="2013">
+<Database Name="cv" Series="49539" Issue="411822" />
+</Book>
+<Book Series="Bloodshot" Number="13" Volume="2012" Year="2013">
+<Database Name="cv" Series="50367" Issue="418813" />
+</Book>
+<Book Series="Harbinger" Number="14" Volume="2012" Year="2013">
+<Database Name="cv" Series="49539" Issue="418814" />
+</Book>
+<Book Series="Harbinger Wars" Number="4" Volume="2013" Year="2013">
+<Database Name="cv" Series="59509" Issue="417828" />
 </Book>
 <Book Series="Bloodshot and H.A.R.D.CORPS" Number="14" Volume="2013" Year="2013">
 <Database Name="cv" Series="67621" Issue="425926" />
@@ -248,6 +284,30 @@
 </Book>
 <Book Series="X-O Manowar" Number="18" Volume="2012" Year="2013">
 <Database Name="cv" Series="48559" Issue="428853" />
+</Book>
+<Book Series="Unity" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="69121" Issue="433166" />
+</Book>
+<Book Series="X-O Manowar" Number="19" Volume="2012" Year="2013">
+<Database Name="cv" Series="48559" Issue="433838" />
+</Book>
+<Book Series="Unity" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="69121" Issue="436188" />
+</Book>
+<Book Series="X-O Manowar" Number="20" Volume="2012" Year="2013">
+<Database Name="cv" Series="48559" Issue="437481" />
+</Book>
+<Book Series="Unity" Number="3" Volume="2013" Year="2014">
+<Database Name="cv" Series="69121" Issue="442160" />
+</Book>
+<Book Series="X-O Manowar" Number="21" Volume="2012" Year="2014">
+<Database Name="cv" Series="48559" Issue="442909" />
+</Book>
+<Book Series="Unity" Number="4" Volume="2013" Year="2014">
+<Database Name="cv" Series="69121" Issue="445806" />
+</Book>
+<Book Series="X-O Manowar" Number="22" Volume="2012" Year="2014">
+<Database Name="cv" Series="48559" Issue="446471" />
 </Book>
 <Book Series="Unity" Number="5" Volume="2013" Year="2014">
 <Database Name="cv" Series="69121" Issue="447501" />
@@ -398,6 +458,63 @@
 </Book>
 <Book Series="X-O Manowar" Number="25" Volume="2012" Year="2014">
 <Database Name="cv" Series="48559" Issue="453406" />
+</Book>
+<Book Series="Armor Hunters" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="74728" Issue="456013" />
+</Book>
+<Book Series="Unity" Number="8" Volume="2013" Year="2014">
+<Database Name="cv" Series="69121" Issue="456543" />
+</Book>
+<Book Series="X-O Manowar" Number="26" Volume="2012" Year="2014">
+<Database Name="cv" Series="48559" Issue="457634" />
+</Book>
+<Book Series="Armor Hunters" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="74728" Issue="459155" />
+</Book>
+<Book Series="Unity" Number="9" Volume="2013" Year="2014">
+<Database Name="cv" Series="69121" Issue="459667" />
+</Book>
+<Book Series="Armor Hunters: Bloodshot" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="75873" Issue="460305" />
+</Book>
+<Book Series="Armor Hunters: Harbinger" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="76083" Issue="460958" />
+</Book>
+<Book Series="X-O Manowar" Number="27" Volume="2012" Year="2014">
+<Database Name="cv" Series="48559" Issue="460959" />
+</Book>
+<Book Series="Armor Hunters" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="74728" Issue="462239" />
+</Book>
+<Book Series="Armor Hunters: Bloodshot" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="75873" Issue="462880" />
+</Book>
+<Book Series="Armor Hunters: Bloodshot" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="75873" Issue="465831" />
+</Book>
+<Book Series="Armor Hunters: Harbinger" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="76083" Issue="462881" />
+</Book>
+<Book Series="Armor Hunters: Harbinger" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="76083" Issue="464970" />
+</Book>
+<Book Series="X-O Manowar" Number="28" Volume="2012" Year="2014">
+<Database Name="cv" Series="48559" Issue="463473" />
+</Book>
+<Book Series="Unity" Number="10" Volume="2013" Year="2014">
+<Database Name="cv" Series="69121" Issue="462240" />
+</Book>
+<Book Series="Unity" Number="11" Volume="2013" Year="2014">
+<Database Name="cv" Series="69121" Issue="465834" />
+</Book>
+<Book Series="Armor Hunters" Number="4" Volume="2014" Year="2014">
+<Database Name="cv" Series="74728" Issue="466317" />
+</Book>
+<Book Series="X-O Manowar" Number="29" Volume="2012" Year="2014">
+<Database Name="cv" Series="48559" Issue="466319" />
+</Book>
+<Book Series="Armor Hunters: Aftermath" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="77246" Issue="467029" />
 </Book>
 <Book Series="Harbinger: Omegas" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="76261" Issue="461720" />
@@ -998,6 +1115,42 @@
 </Book>
 <Book Series="A&#38;A: The Adventures of Archer &#38; Armstrong" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="88911" Issue="552149" />
+</Book>
+<Book Series="Rai" Number="13" Volume="2014" Year="2016">
+<Database Name="cv" Series="73417" Issue="530718" />
+</Book>
+<Book Series="Rai" Number="14" Volume="2014" Year="2016">
+<Database Name="cv" Series="73417" Issue="537225" />
+</Book>
+<Book Series="Rai" Number="15" Volume="2014" Year="2016">
+<Database Name="cv" Series="73417" Issue="540063" />
+</Book>
+<Book Series="Rai" Number="16" Volume="2014" Year="2016">
+<Database Name="cv" Series="73417" Issue="546049" />
+</Book>
+<Book Series="4001 A.D.: X-O Manowar" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="90389" Issue="529642" />
+</Book>
+<Book Series="4001 A.D." Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="90089" Issue="528494" />
+</Book>
+<Book Series="4001 A.D." Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="90089" Issue="533022" />
+</Book>
+<Book Series="4001 A.D." Number="3" Volume="2016" Year="2016">
+<Database Name="cv" Series="90089" Issue="541189" />
+</Book>
+<Book Series="4001 A.D." Number="4" Volume="2016" Year="2016">
+<Database Name="cv" Series="90089" Issue="547263" />
+</Book>
+<Book Series="4001 A.D.: Bloodshot" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="91077" Issue="534273" />
+</Book>
+<Book Series="4001 A.D.: Shadowman" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="92010" Issue="538497" />
+</Book>
+<Book Series="4001 A.D.: War Mother" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="92726" Issue="542615" />
 </Book>
 <Book Series="Ninjak" Number="18" Volume="2015" Year="2016">
 <Database Name="cv" Series="80599" Issue="543738" />
