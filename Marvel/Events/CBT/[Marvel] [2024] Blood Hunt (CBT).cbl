@@ -6,8 +6,8 @@
 <Book Series="Free Comic Book Day 2024: Blood Hunt/X-Men" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158042" Issue="1054292" />
 </Book>
-<Book Series="Vengeance of the Moon Knight" Number="5" Volume="2009" Year="2010">
-<Database Name="cv" Series="27914" Issue="196589" />
+<Book Series="Vengeance of the Moon Knight" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="155872" Issue="1053545" />
 </Book>
 <Book Series="Blood Hunt" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157939" Issue="1053535" />
@@ -120,8 +120,8 @@
 <Book Series="X-Men: Blood Hunt - Laura Kinney the Wolverine" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158869" Issue="1063238" />
 </Book>
-<Book Series="Vengeance of the Moon Knight" Number="6" Volume="2009" Year="2010">
-<Database Name="cv" Series="27914" Issue="200990" />
+<Book Series="Vengeance of the Moon Knight" Number="6" Volume="2024" Year="2024">
+<Database Name="cv" Series="155872" Issue="1060865" />
 </Book>
 <Book Series="Doctor Strange" Number="17" Volume="2023" Year="2024">
 <Database Name="cv" Series="148962" Issue="1061871" />
@@ -153,8 +153,8 @@
 <Book Series="Strange Academy: Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="158074" Issue="1064207" />
 </Book>
-<Book Series="Vengeance of the Moon Knight" Number="7" Volume="2009" Year="2010">
-<Database Name="cv" Series="27914" Issue="204627" />
+<Book Series="Vengeance of the Moon Knight" Number="7" Volume="2024" Year="2024">
+<Database Name="cv" Series="155872" Issue="1064209" />
 </Book>
 <Book Series="Blood Hunt" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="157939" Issue="1065017" />
