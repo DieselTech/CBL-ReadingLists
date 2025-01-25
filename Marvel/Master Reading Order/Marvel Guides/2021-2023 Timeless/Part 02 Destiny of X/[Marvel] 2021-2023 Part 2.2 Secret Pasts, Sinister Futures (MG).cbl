@@ -2,13 +2,28 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2023 Part 2.2 Secret Pasts, Sinister Futures (MG)</Name>
-    <NumIssues>47</NumIssues>
+    <NumIssues>53</NumIssues>
     <Books>
         <Book Series="Sabretooth" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="141524" Issue="933081" />
         </Book>
         <Book Series="Sabretooth" Number="5" Volume="2022" Year="2022">
             <Database Name="cv" Series="141524" Issue="934984" />
+        </Book>
+        <Book Series="Sabretooth and the Exiles" Number="1" Volume="2022" Year="2023">
+            <Database Name="cv" Series="145971" Issue="954280" />
+        </Book>
+        <Book Series="Sabretooth and the Exiles" Number="2" Volume="2022" Year="2023">
+            <Database Name="cv" Series="145971" Issue="960981" />
+        </Book>
+        <Book Series="Sabretooth and the Exiles" Number="3" Volume="2022" Year="2023">
+            <Database Name="cv" Series="145971" Issue="966425" />
+        </Book>
+        <Book Series="Sabretooth and the Exiles" Number="4" Volume="2022" Year="2023">
+            <Database Name="cv" Series="145971" Issue="973028" />
+        </Book>
+        <Book Series="Sabretooth and the Exiles" Number="5" Volume="2022" Year="2023">
+            <Database Name="cv" Series="145971" Issue="979429" />
         </Book>
         <Book Series="X-Force" Number="27" Volume="2020" Year="2022">
             <Database Name="cv" Series="122668" Issue="914648" />
@@ -117,6 +132,9 @@
         </Book>
         <Book Series="X-Men" Number="12" Volume="2021" Year="2022">
             <Database Name="cv" Series="137402" Issue="931633" />
+        </Book>
+        <Book Series="Ms. Marvel &amp; Wolverine" Number="1" Volume="2022" Year="2022">
+            <Database Name="cv" Series="144438" Issue="941566" />
         </Book>
         <Book Series="X-Men: Red" Number="4" Volume="2022" Year="2022">
             <Database Name="cv" Series="142134" Issue="933084" />
