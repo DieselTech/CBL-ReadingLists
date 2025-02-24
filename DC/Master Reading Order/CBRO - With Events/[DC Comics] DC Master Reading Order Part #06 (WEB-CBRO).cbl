@@ -2568,8 +2568,8 @@
 <Book Series="Shazam!: The Monster Society of Evil" Number="4" Volume="2007" Year="2007">
 <Database Name="cv" Series="18168" Issue="111919" />
 </Book>
-<Book Series="Tales of the Unexpected" Number="6" Volume="1956" Year="1956">
-<Database Name="cv" Series="1772" Issue="2714" />
+<Book Series="Tales of the Unexpected" Number="6" Volume="2006" Year="2007">
+<Database Name="cv" Series="27165" Issue="165144" />
 </Book>
 <Book Series="Blue Beetle" Number="8" Volume="2006" Year="2006">
 <Database Name="cv" Series="18443" Issue="112225" />
