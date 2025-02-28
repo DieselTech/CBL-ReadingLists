@@ -9,7 +9,7 @@ We now have a discord server to help cordinate changes and discuss things in an 
 https://discord.gg/DQmHfzFdGG
 
 # About This Project
-- The main intention of this project is to create an organised source of reading lists for use with comic readers/management software
+- The main intention of this project is to create an organized source of reading lists for use with comic readers/management software
 - All reading lists are provided in CBL format, with book data verified on ComicVine
 - The data used to create these reading lists is based on CBRO, CMRO and other reading-list management tools. The intention of this project is not to create an alternative to these tools, but to make the information in these tools usable in comic reading/management software.
 
@@ -26,6 +26,13 @@ There are a number of websites that host reading lists in a visual display (no C
 - [How To Love Comics (HTLC)](https://www.howtolovecomics.com/)
 - [League of ComicGeeks (LoCG)](https://leagueofcomicgeeks.com/)
 - [Marvel.com Reading Orders (Official)](https://www.marvel.com/comics/discover)
+
+# Software that consumes .CBL
+There are only a handful of software packages out there that can consume `.CBL` files. If you know of more, let use know.
+
+- [Kavita](https://github.com/Kareadita/Kavita)
+- [Komga](https://github.com/gotson/komga)
+- [ComicRack CE](https://github.com/maforget/ComicRackCE)
 
 # Contributing
 We are looking for people who want to assist in the efforts to make the best reading lists possible.
