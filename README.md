@@ -28,7 +28,7 @@ There are a number of websites that host reading lists in a visual display (no C
 - [Marvel.com Reading Orders (Official)](https://www.marvel.com/comics/discover)
 
 # Software that consumes .CBL
-There are only a handful of software packages out there that can consume `.CBL` files. If you know of more, let use know.
+There are only a handful of software packages out there that can consume `.CBL` files. If you know of more, let us know.
 
 - [Kavita](https://github.com/Kareadita/Kavita)
 - [Komga](https://github.com/gotson/komga)
