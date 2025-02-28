@@ -3,7 +3,7 @@ This is a collection from the Comic Book Reading Orders site:
 https://comicbookreadingorders.com/
 
 ## Updated:
-November 2023
+February 2025
 
 ## Notes:
 These master reading orders **do** include the events. The events are integreated into the Master Reading Order CBL files.
