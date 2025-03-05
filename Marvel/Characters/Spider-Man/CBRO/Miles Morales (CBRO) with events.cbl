@@ -180,7 +180,7 @@
 <Book Series="Survive" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="72583" Issue="448980" />
 </Book>
-<Book Series="Ultimate Spider-Man" Number="200" Volume="2012" Year="2014">
+<Book Series="Ultimate Comics Spider-Man" Number="200" Volume="2011" Year="2014">
 <Database Name="cv" Series="42821" Issue="449370" />
 </Book>
 <Book Series="All-New Ultimates" Number="1" Volume="2014" Year="2014">
@@ -255,19 +255,19 @@
 <Book Series="Miles Morales: Ultimate Spider-Man" Number="12" Volume="2014" Year="2015">
 <Database Name="cv" Series="73678" Issue="485517" />
 </Book>
-<Book Series="Ultimate End" Number="1" Volume="2016" Year="2015">
+<Book Series="Ultimate End" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82109" Issue="489329" />
 </Book>
-<Book Series="Ultimate End" Number="2" Volume="2016" Year="2015">
+<Book Series="Ultimate End" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="82109" Issue="491531" />
 </Book>
-<Book Series="Ultimate End" Number="3" Volume="2016" Year="2015">
+<Book Series="Ultimate End" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="82109" Issue="493803" />
 </Book>
-<Book Series="Ultimate End" Number="4" Volume="2016" Year="2015">
+<Book Series="Ultimate End" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82109" Issue="496891" />
 </Book>
-<Book Series="Ultimate End" Number="5" Volume="2016" Year="2016">
+<Book Series="Ultimate End" Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="82109" Issue="508440" />
 </Book>
 <Book Series="Spider-Man" Number="4" Volume="2016" Year="2016">
@@ -780,19 +780,19 @@
 <Book Series="Spider-Man" Number="11" Volume="2016" Year="2017">
 <Database Name="cv" Series="87820" Issue="571682" />
 </Book>
-<Book Series="Champions" Number="1" Volume="2015" Year="2016">
+<Book Series="Champions" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="94612" Issue="552154" />
 </Book>
-<Book Series="Champions" Number="2" Volume="2015" Year="2017">
+<Book Series="Champions" Number="2" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="556468" />
 </Book>
-<Book Series="Champions" Number="3" Volume="2015" Year="2017">
+<Book Series="Champions" Number="3" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="563718" />
 </Book>
-<Book Series="Champions" Number="4" Volume="2015" Year="2017">
+<Book Series="Champions" Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="574861" />
 </Book>
-<Book Series="Champions" Number="5" Volume="2015" Year="2017">
+<Book Series="Champions" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="579308" />
 </Book>
 <Book Series="Monsters Unleashed" Number="1" Volume="2017" Year="2017">
@@ -834,34 +834,34 @@
 <Book Series="Monsters Unleashed" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="100829" Issue="615026" />
 </Book>
-<Book Series="Champions" Number="6" Volume="2015" Year="2017">
+<Book Series="Champions" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="583714" />
 </Book>
-<Book Series="Champions" Number="7" Volume="2015" Year="2017">
+<Book Series="Champions" Number="7" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="590791" />
 </Book>
-<Book Series="Champions" Number="8" Volume="2015" Year="2017">
+<Book Series="Champions" Number="8" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="594108" />
 </Book>
-<Book Series="Champions" Number="9" Volume="2015" Year="2017">
+<Book Series="Champions" Number="9" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="599860" />
 </Book>
 <Book Series="Spider-Man" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="87820" Issue="575882" />
 </Book>
-<Book Series="Spider-Gwen" Number="16" Volume="2017" Year="2017">
+<Book Series="Spider-Gwen" Number="16" Volume="2015" Year="2017">
 <Database Name="cv" Series="85311" Issue="576633" />
 </Book>
 <Book Series="Spider-Man" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="87820" Issue="581568" />
 </Book>
-<Book Series="Spider-Gwen" Number="17" Volume="2017" Year="2017">
+<Book Series="Spider-Gwen" Number="17" Volume="2015" Year="2017">
 <Database Name="cv" Series="85311" Issue="582544" />
 </Book>
 <Book Series="Spider-Man" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="87820" Issue="587417" />
 </Book>
-<Book Series="Spider-Gwen" Number="18" Volume="2017" Year="2017">
+<Book Series="Spider-Gwen" Number="18" Volume="2015" Year="2017">
 <Database Name="cv" Series="85311" Issue="588574" />
 </Book>
 <Book Series="Spider-Man" Number="15" Volume="2016" Year="2017">
@@ -1110,7 +1110,7 @@
 <Book Series="Secret Warriors" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="101411" Issue="621677" />
 </Book>
-<Book Series="Champions" Number="12" Volume="2015" Year="2017">
+<Book Series="Champions" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="619618" />
 </Book>
 <Book Series="Generations: Miles Morales: Spider-Man &#38; Peter Parker: Spider-Man" Number="1" Volume="2017" Year="2017">
@@ -1125,28 +1125,28 @@
 <Book Series="Avengers" Number="672" Volume="2016" Year="2017">
 <Database Name="cv" Series="95402" Issue="626276" />
 </Book>
-<Book Series="Champions" Number="13" Volume="2015" Year="2017">
+<Book Series="Champions" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="630518" />
 </Book>
 <Book Series="Avengers" Number="673" Volume="2016" Year="2018">
 <Database Name="cv" Series="95402" Issue="634525" />
 </Book>
-<Book Series="Champions" Number="14" Volume="2015" Year="2018">
+<Book Series="Champions" Number="14" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="638591" />
 </Book>
 <Book Series="Avengers" Number="674" Volume="2016" Year="2018">
 <Database Name="cv" Series="95402" Issue="644497" />
 </Book>
-<Book Series="Champions" Number="15" Volume="2015" Year="2018">
+<Book Series="Champions" Number="15" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="647936" />
 </Book>
-<Book Series="Champions" Number="16" Volume="2015" Year="2018">
+<Book Series="Champions" Number="16" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="654050" />
 </Book>
-<Book Series="Champions" Number="17" Volume="2015" Year="2018">
+<Book Series="Champions" Number="17" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="661145" />
 </Book>
-<Book Series="Champions" Number="18" Volume="2015" Year="2018">
+<Book Series="Champions" Number="18" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="664294" />
 </Book>
 <Book Series="Spider-Man" Number="234" Volume="2016" Year="2018">
@@ -1170,31 +1170,31 @@
 <Book Series="Spider-Man" Number="240" Volume="2016" Year="2018">
 <Database Name="cv" Series="87820" Issue="668783" />
 </Book>
-<Book Series="Champions" Number="19" Volume="2015" Year="2018">
+<Book Series="Champions" Number="19" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="665908" />
 </Book>
-<Book Series="Champions" Number="20" Volume="2015" Year="2018">
+<Book Series="Champions" Number="20" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="670741" />
 </Book>
-<Book Series="Champions" Number="21" Volume="2015" Year="2018">
+<Book Series="Champions" Number="21" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="674127" />
 </Book>
-<Book Series="Champions" Number="22" Volume="2015" Year="2018">
+<Book Series="Champions" Number="22" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="676693" />
 </Book>
-<Book Series="Champions" Number="23" Volume="2015" Year="2018">
+<Book Series="Champions" Number="23" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="679405" />
 </Book>
-<Book Series="Champions" Number="24" Volume="2015" Year="2018">
+<Book Series="Champions" Number="24" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="684900" />
 </Book>
-<Book Series="Champions" Number="25" Volume="2015" Year="2018">
+<Book Series="Champions" Number="25" Volume="2016" Year="2018">
 <Database Name="cv" Series="94612" Issue="687005" />
 </Book>
-<Book Series="Champions" Number="26" Volume="2015" Year="2019">
+<Book Series="Champions" Number="26" Volume="2016" Year="2019">
 <Database Name="cv" Series="94612" Issue="691373" />
 </Book>
-<Book Series="Champions" Number="27" Volume="2015" Year="2019">
+<Book Series="Champions" Number="27" Volume="2016" Year="2019">
 <Database Name="cv" Series="94612" Issue="694908" />
 </Book>
 <Book Series="Champions Annual" Number="1" Volume="2018" Year="2019">
@@ -1527,13 +1527,13 @@
 <Book Series="Miles Morales: Spider-Man" Number="6" Volume="2022" Year="2023">
 <Database Name="cv" Series="146734" Issue="989662" />
 </Book>
-<Book Series="Carnage" Number="13" Volume="2024" Year="2023">
+<Book Series="Carnage" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="141919" Issue="992314" />
 </Book>
 <Book Series="Red Goblin" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="148089" Issue="993235" />
 </Book>
-<Book Series="Carnage" Number="14" Volume="2024" Year="2023">
+<Book Series="Carnage" Number="14" Volume="2022" Year="2023">
 <Database Name="cv" Series="141919" Issue="994371" />
 </Book>
 <Book Series="Miles Morales: Spider-Man" Number="7" Volume="2022" Year="2023">
