@@ -21,7 +21,7 @@
 <Book Series="Planet-Size X-Men" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="136937" Issue="861642" />
 </Book>
-<Book Series="New Mutants" Number="19" Volume="2019" Year="2021">
+<Book Series="New Mutants" Number="19" Volume="2020" Year="2021">
 <Database Name="cv" Series="122666" Issue="861639" />
 </Book>
 <Book Series="Children of the Atom" Number="6" Volume="2021" Year="2021">
