@@ -3750,8 +3750,8 @@
 <Book Series="Silver Surfer" Number="15" Volume="2014" Year="2016">
 <Database Name="cv" Series="72582" Issue="506663" />
 </Book>
-<Book Series="Secret Wars, Too" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="93678" Issue="547290" />
+<Book Series="Secret Wars, Too" Number="1" Volume="2015" Year="2015">
+<Database Name="cv" Series="86122" Issue="506180" />
 </Book>
 </Books>
 <Matchers />
