@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Multiversity (WEB-CBRO)</Name>
 <NumIssues>9</NumIssues>
@@ -18,7 +18,7 @@
 <Book Series="The Multiversity: Thunderworld Adventures" Number="1" Volume="2014" Year="2015">
 <Database Name="cv" Series="78848" Issue="473592" />
 </Book>
-<Book Series="The Multiversity Guidebook" Number="1" Volume="2015" Year="2015">
+<Book Series="The Multiversity: Guidebook" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="79691" Issue="477801" />
 </Book>
 <Book Series="The Multiversity: Mastermen" Number="1" Volume="2015" Year="2015">

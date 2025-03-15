@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Dark Nights- Death Metal (WEB-CBRO)</Name>
 <NumIssues>24</NumIssues>
@@ -57,7 +57,7 @@
 <Book Series="Dark Nights: Death Metal" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="127927" Issue="818625" />
 </Book>
-<Book Series="Dark Nights: Death Metal: The Multiverse Who Laughs" Number="1" Volume="2020" Year="2021">
+<Book Series="Dark Nights: Death Metal The Multiverse Who Laughs" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132160" Issue="819285" />
 </Book>
 <Book Series="Dark Nights: Death Metal The Secret Origin" Number="1" Volume="2020" Year="2021">

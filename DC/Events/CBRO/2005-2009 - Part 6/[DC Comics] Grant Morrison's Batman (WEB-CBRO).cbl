@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Grant Morrison's Batman (WEB-CBRO)</Name>
 <NumIssues>135</NumIssues>
@@ -138,10 +138,10 @@
 <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="21712" Issue="135068" />
 </Book>
-<Book Series="Final Crisis: Superman Beyond 3D" Number="1" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Superman Beyond" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22763" Issue="136525" />
 </Book>
-<Book Series="Final Crisis: Superman Beyond 3D" Number="2" Volume="2008" Year="2009">
+<Book Series="Final Crisis: Superman Beyond" Number="2" Volume="2008" Year="2009">
 <Database Name="cv" Series="22763" Issue="150506" />
 </Book>
 <Book Series="Final Crisis: Legion of Three Worlds" Number="1" Volume="2008" Year="2008">
@@ -210,7 +210,7 @@
 <Book Series="Batman" Number="702" Volume="1940" Year="2010">
 <Database Name="cv" Series="796" Issue="231608" />
 </Book>
-<Book Series="Gotham Gazette: Batman Dead?" Number="1" Volume="2009" Year="2009">
+<Book Series="Gotham Gazette" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25903" Issue="153071" />
 </Book>
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
@@ -330,28 +330,28 @@
 <Book Series="Batman: The Return" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36703" Issue="244575" />
 </Book>
-<Book Series="Batman, Incorporated" Number="1" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="244606" />
 </Book>
-<Book Series="Batman, Incorporated" Number="2" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="250156" />
 </Book>
-<Book Series="Batman, Incorporated" Number="3" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="265348" />
 </Book>
-<Book Series="Batman, Incorporated" Number="4" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="266501" />
 </Book>
-<Book Series="Batman, Incorporated" Number="5" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="268976" />
 </Book>
-<Book Series="Batman, Incorporated" Number="6" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="6" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="269826" />
 </Book>
-<Book Series="Batman, Incorporated" Number="7" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="7" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="276535" />
 </Book>
-<Book Series="Batman, Incorporated" Number="8" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="8" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="288416" />
 </Book>
 <Book Series="Batman, Incorporated: Leviathan Strikes" Number="1" Volume="2012" Year="2012">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Final Night (WEB-CBRO)</Name>
 <NumIssues>25</NumIssues>
@@ -9,7 +9,7 @@
 <Book Series="Green Lantern" Number="80" Volume="1990" Year="1996">
 <Database Name="cv" Series="4363" Issue="42956" />
 </Book>
-<Book Series="The Power of Shazam!" Number="20" Volume="1994" Year="1996">
+<Book Series="The Power of SHAZAM!" Number="20" Volume="1994" Year="1996">
 <Database Name="cv" Series="5515" Issue="42962" />
 </Book>
 <Book Series="Sovereign Seven" Number="16" Volume="1995" Year="1996">

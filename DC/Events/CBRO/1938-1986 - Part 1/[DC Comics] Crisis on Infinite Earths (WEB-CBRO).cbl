@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Crisis on Infinite Earths (WEB-CBRO)</Name>
 <NumIssues>61</NumIssues>
@@ -84,7 +84,7 @@
 <Book Series="Crisis on Infinite Earths" Number="4" Volume="1985" Year="1985">
 <Database Name="cv" Series="3441" Issue="25638" />
 </Book>
-<Book Series="Legends of the DC Universe: Crisis on Infinite Earths" Number="1" Volume="1999" Year="1999">
+<Book Series="Legends of the DCU: Crisis on Infinite Earths" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="25595" Issue="150946" />
 </Book>
 <Book Series="Crisis on Infinite Earths" Number="5" Volume="1985" Year="1985">

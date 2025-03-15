@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Genesis (WEB-CBRO)</Name>
 <NumIssues>28</NumIssues>
@@ -75,7 +75,7 @@
 <Book Series="The Spectre" Number="58" Volume="1992" Year="1997">
 <Database Name="cv" Series="4754" Issue="44174" />
 </Book>
-<Book Series="Superboy and the Ravers" Number="14" Volume="1996" Year="1997">
+<Book Series="Superboy &amp; The Ravers" Number="14" Volume="1996" Year="1997">
 <Database Name="cv" Series="9301" Issue="124220" />
 </Book>
 <Book Series="Teen Titans" Number="13" Volume="1996" Year="1997">

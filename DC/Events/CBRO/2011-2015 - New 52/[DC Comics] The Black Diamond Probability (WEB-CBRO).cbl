@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] The Black Diamond Probability (WEB-CBRO)</Name>
 <NumIssues>16</NumIssues>
@@ -12,16 +12,16 @@
 <Book Series="Demon Knights" Number="15" Volume="2011" Year="2013">
 <Database Name="cv" Series="42811" Issue="372344" />
 </Book>
-<Book Series="All-Star Western" Number="13" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="363062" />
 </Book>
-<Book Series="All-Star Western" Number="14" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="14" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="370278" />
 </Book>
-<Book Series="All-Star Western" Number="15" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="15" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="376608" />
 </Book>
-<Book Series="All-Star Western" Number="16" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="16" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="382772" />
 </Book>
 <Book Series="Team 7" Number="1" Volume="2012" Year="2012">

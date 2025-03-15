@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Blackest Night (WEB-CBRO)</Name>
 <NumIssues>73</NumIssues>
@@ -198,7 +198,7 @@
 <Book Series="Blackest Night: The Flash" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30162" Issue="197542" />
 </Book>
-<Book Series="Atom and Hawkman" Number="46" Volume="1968" Year="2010">
+<Book Series="The Atom &amp; Hawkman" Number="46" Volume="1968" Year="2010">
 <Database Name="cv" Series="2387" Issue="194433" />
 </Book>
 <Book Series="Green Lantern Corps" Number="45" Volume="2006" Year="2010">
