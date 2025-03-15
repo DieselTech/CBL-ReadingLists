@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2012] Night of the Owls (DC Comics)(LoCG)</Name>
 <NumIssues>14</NumIssues>
@@ -27,7 +27,7 @@
 <Book Series="Nightwing" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="42720" Issue="335895" />
 </Book>
-<Book Series="All-Star Western" Number="9" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="336574" />
 </Book>
 <Book Series="Detective Comics" Number="9" Volume="2011" Year="2012">

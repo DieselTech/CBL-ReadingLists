@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1998] Cataclysm (DC Comics)(LoCG)</Name>
 <NumIssues>18</NumIssues>
@@ -42,7 +42,7 @@
 <Book Series="Batman" Number="554" Volume="1940" Year="1998">
 <Database Name="cv" Series="796" Issue="44980" />
 </Book>
-<Book Series="Batman: Huntress/Spoiler: Blunt Trauma" Number="1" Volume="1998" Year="1998">
+<Book Series="Batman: Spoiler/Huntress-Blunt Trauma" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="26017" Issue="153815" />
 </Book>
 <Book Series="Detective Comics" Number="721" Volume="1937" Year="1998">

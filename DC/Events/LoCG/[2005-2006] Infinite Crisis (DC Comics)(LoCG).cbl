@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2005-2006] Infinite Crisis (DC Comics)(LoCG)</Name>
 <NumIssues>124</NumIssues>
@@ -129,7 +129,7 @@
 <Book Series="Rann/Thanagar War: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="25736" Issue="151667" />
 </Book>
-<Book Series="Infinite Crisis Secret Files" Number="1" Volume="2006" Year="2006">
+<Book Series="Infinite Crisis Secret Files 2006" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="21773" Issue="131296" />
 </Book>
 <Book Series="The OMAC Project: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
@@ -210,7 +210,7 @@
 <Book Series="Wonder Woman" Number="223" Volume="1987" Year="2006">
 <Database Name="cv" Series="3824" Issue="107687" />
 </Book>
-<Book Series="JSA Classified" Number="4" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="111276" />
 </Book>
 <Book Series="Gotham Central" Number="40" Volume="2003" Year="2006">
@@ -276,10 +276,10 @@
 <Book Series="Day of Vengeance: Infinite Crisis Special" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="24042" Issue="143052" />
 </Book>
-<Book Series="JSA Classified" Number="8" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="8" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126503" />
 </Book>
-<Book Series="JSA Classified" Number="9" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="9" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126505" />
 </Book>
 <Book Series="Batman" Number="648" Volume="1940" Year="2006">
