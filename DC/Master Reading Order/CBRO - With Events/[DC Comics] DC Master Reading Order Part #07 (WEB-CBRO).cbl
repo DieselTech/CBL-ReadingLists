@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #07 (WEB-CBRO)</Name>
 <NumIssues>916</NumIssues>
@@ -306,10 +306,10 @@
 <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="21712" Issue="135068" />
 </Book>
-<Book Series="Final Crisis: Superman Beyond 3D" Number="1" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Superman Beyond" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22763" Issue="136525" />
 </Book>
-<Book Series="Final Crisis: Superman Beyond 3D" Number="2" Volume="2008" Year="2009">
+<Book Series="Final Crisis: Superman Beyond" Number="2" Volume="2008" Year="2009">
 <Database Name="cv" Series="22763" Issue="150506" />
 </Book>
 <Book Series="Final Crisis: Legion of Three Worlds" Number="1" Volume="2008" Year="2008">
@@ -456,7 +456,7 @@
 <Book Series="Robin" Number="183" Volume="1993" Year="2009">
 <Database Name="cv" Series="4975" Issue="151292" />
 </Book>
-<Book Series="Gotham Gazette: Batman Dead?" Number="1" Volume="2009" Year="2009">
+<Book Series="Gotham Gazette" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25903" Issue="153071" />
 </Book>
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
@@ -1170,7 +1170,7 @@
 <Book Series="Blackest Night: The Flash" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30162" Issue="197542" />
 </Book>
-<Book Series="Atom and Hawkman" Number="46" Volume="1968" Year="2010">
+<Book Series="The Atom &amp; Hawkman" Number="46" Volume="1968" Year="2010">
 <Database Name="cv" Series="2387" Issue="194433" />
 </Book>
 <Book Series="Green Lantern Corps" Number="45" Volume="2006" Year="2010">
@@ -2301,10 +2301,10 @@
 <Book Series="Adventure Comics" Number="520" Volume="2009" Year="2011">
 <Database Name="cv" Series="25643" Issue="240921" />
 </Book>
-<Book Series="Batman, Incorporated" Number="1" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="244606" />
 </Book>
-<Book Series="Batman, Incorporated" Number="2" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="250156" />
 </Book>
 <Book Series="Detective Comics Annual" Number="12" Volume="1988" Year="2011">
@@ -2313,22 +2313,22 @@
 <Book Series="Batman Annual" Number="28" Volume="1961" Year="2011">
 <Database Name="cv" Series="3109" Issue="250640" />
 </Book>
-<Book Series="Batman, Incorporated" Number="3" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="265348" />
 </Book>
-<Book Series="Batman, Incorporated" Number="4" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="266501" />
 </Book>
-<Book Series="Batman, Incorporated" Number="5" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="268976" />
 </Book>
-<Book Series="Batman, Incorporated" Number="6" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="6" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="269826" />
 </Book>
-<Book Series="Batman, Incorporated" Number="7" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="7" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="276535" />
 </Book>
-<Book Series="Batman, Incorporated" Number="8" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="8" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="288416" />
 </Book>
 <Book Series="Red Robin" Number="23" Volume="2009" Year="2011">
@@ -2604,13 +2604,13 @@
 <Book Series="Flashpoint: Grodd of War" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="40691" Issue="274392" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="1" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="274391" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="2" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="279962" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="3" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="286682" />
 </Book>
 <Book Series="Flashpoint: Abin Sur - The Green Lantern" Number="1" Volume="2011" Year="2011">

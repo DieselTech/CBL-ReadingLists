@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] 2016-2021 Part 1.1 Restoring a Legacy</Name>
 <NumIssues>27</NumIssues>
@@ -6,7 +6,7 @@
 <Book Series="DC Universe: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="90597" Issue="531155" />
 </Book>
-<Book Series="The Flash: Rebirth" Number="1" Volume="2016" Year="2016">
+<Book Series="Flash: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="91099" Issue="534262" />
 </Book>
 <Book Series="Titans: Rebirth" Number="1" Volume="2016" Year="2016">
@@ -60,7 +60,7 @@
 <Book Series="Wonder Woman: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="91124" Issue="534272" />
 </Book>
-<Book Series="Hal Jordan and The Green Lantern Corps: Rebirth" Number="1" Volume="2016" Year="2016">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="92182" Issue="539217" />
 </Book>
 <Book Series="Green Lanterns: Rebirth" Number="1" Volume="2016" Year="2016">

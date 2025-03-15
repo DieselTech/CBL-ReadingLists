@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #03 (WEB-CBRO)</Name>
 <NumIssues>655</NumIssues>
@@ -132,7 +132,7 @@
 <Book Series="Legion of Super-Heroes" Number="24" Volume="1989" Year="1991">
 <Database Name="cv" Series="4201" Issue="34969" />
 </Book>
-<Book Series="The Legion of Super-Heroes Annual" Number="2" Volume="1990" Year="1991">
+<Book Series="Legion of Super-Heroes Annual" Number="2" Volume="1990" Year="1991">
 <Database Name="cv" Series="4371" Issue="35056" />
 </Book>
 <Book Series="Green Arrow" Number="44" Volume="1988" Year="1991">
@@ -1161,7 +1161,7 @@
 <Book Series="Hellblazer" Number="84" Volume="1988" Year="1994">
 <Database Name="cv" Series="4008" Issue="40030" />
 </Book>
-<Book Series="Batman Adventures: Mad Love" Number="1" Volume="1994" Year="1994">
+<Book Series="The Batman Adventures: Mad Love" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="20558" Issue="123083" />
 </Book>
 <Book Series="Doom Patrol" Number="75" Volume="1987" Year="1994">
@@ -1806,7 +1806,7 @@
 <Book Series="Teen Titans" Number="5" Volume="1996" Year="1997">
 <Database Name="cv" Series="19986" Issue="125719" />
 </Book>
-<Book Series="Birds of Prey: Black Canary/Oracle" Number="1" Volume="1996" Year="1996">
+<Book Series="Black Canary/Oracle: Birds of Prey" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18997" Issue="112867" />
 </Book>
 <Book Series="Birds of Prey: Revolution" Number="1" Volume="1997" Year="1997">

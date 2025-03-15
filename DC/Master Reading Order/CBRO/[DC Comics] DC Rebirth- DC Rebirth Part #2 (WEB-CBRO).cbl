@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Rebirth- DC Rebirth Part #2 (WEB-CBRO)</Name>
 <NumIssues>813</NumIssues>
@@ -36,7 +36,7 @@
 <Book Series="Green Lanterns" Number="39" Volume="2016" Year="2018">
 <Database Name="cv" Series="91285" Issue="654035" />
 </Book>
-<Book Series="Justice League of America Annual" Number="1" Volume="2017" Year="2018">
+<Book Series="Justice League of America Annual (Rebirth)" Number="1" Volume="2017" Year="2018">
 <Database Name="cv" Series="106518" Issue="643016" />
 </Book>
 <Book Series="Justice League of America" Number="18" Volume="2017" Year="2018">
@@ -63,19 +63,19 @@
 <Book Series="Superman" Number="36" Volume="2016" Year="2018">
 <Database Name="cv" Series="91298" Issue="644491" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="14" Volume="2016" Year="2017">
+<Book Series="Red Hood &amp; the Outlaws" Number="14" Volume="2016" Year="2017">
 <Database Name="cv" Series="92966" Issue="621596" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="15" Volume="2016" Year="2017">
+<Book Series="Red Hood &amp; the Outlaws" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="92966" Issue="628565" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="16" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="16" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="636354" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="17" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="17" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="646166" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="18" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="18" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="652608" />
 </Book>
 <Book Series="Batgirl and the Birds of Prey" Number="15" Volume="2016" Year="2017">
@@ -225,16 +225,16 @@
 <Book Series="The Flash" Number="38" Volume="2016" Year="2018">
 <Database Name="cv" Series="91750" Issue="652596" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="33" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="33" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="643014" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="34" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="34" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="646160" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="35" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="35" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="649705" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="36" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="36" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="652599" />
 </Book>
 <Book Series="Suicide Squad" Number="27" Volume="2016" Year="2017">
@@ -372,13 +372,13 @@
 <Book Series="Justice League of America" Number="24" Volume="2017" Year="2018">
 <Database Name="cv" Series="99040" Issue="659985" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="19" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="19" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="659991" />
 </Book>
 <Book Series="Batwoman" Number="12" Volume="2017" Year="2018">
 <Database Name="cv" Series="99849" Issue="660625" />
 </Book>
-<Book Series="Harley Quinn: Be Careful What You Wish For" Number="1" Volume="2018" Year="2018">
+<Book Series="Harley Quinn: Be Careful What You Wish For Special Edition" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="107657" Issue="652601" />
 </Book>
 <Book Series="Wonder Woman" Number="38" Volume="2016" Year="2018">
@@ -618,19 +618,19 @@
 <Book Series="Harley Quinn: Harley Loves Joker" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="110513" Issue="670092" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="37" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="37" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="655477" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="38" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="38" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="659984" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="39" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="39" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="661116" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="40" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="40" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="662715" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="41" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="41" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="664267" />
 </Book>
 <Book Series="Batman" Number="41" Volume="2016" Year="2018">
@@ -693,13 +693,13 @@
 <Book Series="Superman" Number="45" Volume="2016" Year="2018">
 <Database Name="cv" Series="91298" Issue="666793" />
 </Book>
-<Book Series="Batman &#38; the Signal" Number="1" Volume="2018" Year="2018">
+<Book Series="Batman &amp; the Signal" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="107493" Issue="650887" />
 </Book>
-<Book Series="Batman &#38; the Signal" Number="2" Volume="2018" Year="2018">
+<Book Series="Batman &amp; the Signal" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="107493" Issue="660621" />
 </Book>
-<Book Series="Batman &#38; the Signal" Number="3" Volume="2018" Year="2018">
+<Book Series="Batman &amp; the Signal" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="107493" Issue="667597" />
 </Book>
 <Book Series="Justice League of America" Number="25" Volume="2017" Year="2018">
@@ -843,19 +843,19 @@
 <Book Series="The Terrifics" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="108966" Issue="670733" />
 </Book>
-<Book Series="New Super-Man &#38; the Justice League of China" Number="20" Volume="2018" Year="2018">
+<Book Series="New Super-Man &amp; the Justice League of China" Number="20" Volume="2018" Year="2018">
 <Database Name="cv" Series="108773" Issue="659988" />
 </Book>
-<Book Series="New Super-Man &#38; the Justice League of China" Number="21" Volume="2018" Year="2018">
+<Book Series="New Super-Man &amp; the Justice League of China" Number="21" Volume="2018" Year="2018">
 <Database Name="cv" Series="108773" Issue="662719" />
 </Book>
-<Book Series="New Super-Man &#38; the Justice League of China" Number="22" Volume="2018" Year="2018">
+<Book Series="New Super-Man &amp; the Justice League of China" Number="22" Volume="2018" Year="2018">
 <Database Name="cv" Series="108773" Issue="665884" />
 </Book>
-<Book Series="New Super-Man &#38; the Justice League of China" Number="23" Volume="2018" Year="2018">
+<Book Series="New Super-Man &amp; the Justice League of China" Number="23" Volume="2018" Year="2018">
 <Database Name="cv" Series="108773" Issue="669434" />
 </Book>
-<Book Series="New Super-Man &#38; the Justice League of China" Number="24" Volume="2018" Year="2018">
+<Book Series="New Super-Man &amp; the Justice League of China" Number="24" Volume="2018" Year="2018">
 <Database Name="cv" Series="108773" Issue="672999" />
 </Book>
 <Book Series="The Flash" Number="45" Volume="2016" Year="2018">
@@ -1290,31 +1290,31 @@
 <Book Series="Harley Quinn" Number="47" Volume="2016" Year="2018">
 <Database Name="cv" Series="92750" Issue="678510" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="42" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="42" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="665878" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="43" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="43" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="667606" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="44" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="44" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="669431" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="45" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="45" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="670718" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="46" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="46" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="672994" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="47" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="47" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="675119" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="48" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="48" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="676670" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="49" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="49" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="677948" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="50" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="50" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="679389" />
 </Book>
 <Book Series="Deadman" Number="1" Volume="2017" Year="2018">
@@ -1410,22 +1410,22 @@
 <Book Series="Eternity Girl" Number="6" Volume="2018" Year="2018">
 <Database Name="cv" Series="109193" Issue="679387" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="20" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="20" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="662721" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="21" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="21" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="665885" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="22" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="22" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="669435" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="23" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="23" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="673002" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="24" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="24" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="676677" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="25" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="25" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="679393" />
 </Book>
 <Book Series="Nightwing" Number="44" Volume="2016" Year="2018">
@@ -2115,7 +2115,7 @@
 <Book Series="Justice League Dark" Number="7" Volume="2018" Year="2019">
 <Database Name="cv" Series="112455" Issue="697613" />
 </Book>
-<Book Series="Red Hood &#38; the Outlaws" Number="26" Volume="2016" Year="2018">
+<Book Series="Red Hood &amp; the Outlaws" Number="26" Volume="2016" Year="2018">
 <Database Name="cv" Series="92966" Issue="684888" />
 </Book>
 <Book Series="The Flash" Number="58" Volume="2016" Year="2019">

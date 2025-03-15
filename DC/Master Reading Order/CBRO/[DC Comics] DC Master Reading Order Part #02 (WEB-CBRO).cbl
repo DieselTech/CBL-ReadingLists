@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #02 (WEB-CBRO)</Name>
 <NumIssues>779</NumIssues>
@@ -240,16 +240,16 @@
 <Book Series="Green Arrow Year One" Number="6" Volume="2007" Year="2007">
 <Database Name="cv" Series="18880" Issue="116978" />
 </Book>
-<Book Series="Legends of the Dark Knight" Number="65" Volume="1989" Year="1994">
+<Book Series="Batman: Legends of the Dark Knight" Number="65" Volume="1989" Year="1994">
 <Database Name="cv" Series="4720" Issue="39976" />
 </Book>
-<Book Series="Legends of the Dark Knight" Number="66" Volume="1989" Year="1994">
+<Book Series="Batman: Legends of the Dark Knight" Number="66" Volume="1989" Year="1994">
 <Database Name="cv" Series="4720" Issue="40117" />
 </Book>
-<Book Series="Legends of the Dark Knight" Number="67" Volume="1989" Year="1995">
+<Book Series="Batman: Legends of the Dark Knight" Number="67" Volume="1989" Year="1995">
 <Database Name="cv" Series="4720" Issue="40360" />
 </Book>
-<Book Series="Legends of the Dark Knight" Number="68" Volume="1989" Year="1995">
+<Book Series="Batman: Legends of the Dark Knight" Number="68" Volume="1989" Year="1995">
 <Database Name="cv" Series="4720" Issue="40489" />
 </Book>
 <Book Series="Batman: The Long Halloween" Number="1" Volume="1996" Year="1996">
@@ -1311,7 +1311,7 @@
 <Book Series="Wonder Woman" Number="24" Volume="1987" Year="1988">
 <Database Name="cv" Series="3824" Issue="30538" />
 </Book>
-<Book Series="The Fury of Firestorm" Number="82" Volume="1982" Year="1989">
+<Book Series="Firestorm, the Nuclear Man" Number="82" Volume="1982" Year="1989">
 <Database Name="cv" Series="3789" Issue="30854" />
 </Book>
 <Book Series="Swamp Thing" Number="82" Volume="1986" Year="1989">
@@ -1722,7 +1722,7 @@
 <Book Series="Hellblazer" Number="33" Volume="1988" Year="1990">
 <Database Name="cv" Series="4008" Issue="33160" />
 </Book>
-<Book Series="Batman: Arkham Asylum" Number="1" Volume="1989" Year="1989">
+<Book Series="Batman: Arkham Asylum 15th Anniversary Edition" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="20403" Issue="122008" />
 </Book>
 <Book Series="Batman" Number="452" Volume="1940" Year="1990">
@@ -2019,16 +2019,16 @@
 <Book Series="Hawkworld" Number="12" Volume="1990" Year="1991">
 <Database Name="cv" Series="4365" Issue="34266" />
 </Book>
-<Book Series="The Books of Magic" Number="1" Volume="1990" Year="1990">
+<Book Series="Books of Magic" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="4354" Issue="32134" />
 </Book>
-<Book Series="The Books of Magic" Number="2" Volume="1990" Year="1991">
+<Book Series="Books of Magic" Number="2" Volume="1990" Year="1991">
 <Database Name="cv" Series="4354" Issue="32154" />
 </Book>
-<Book Series="The Books of Magic" Number="3" Volume="1990" Year="1991">
+<Book Series="Books of Magic" Number="3" Volume="1990" Year="1991">
 <Database Name="cv" Series="4354" Issue="33643" />
 </Book>
-<Book Series="The Books of Magic" Number="4" Volume="1990" Year="1991">
+<Book Series="Books of Magic" Number="4" Volume="1990" Year="1991">
 <Database Name="cv" Series="4354" Issue="33647" />
 </Book>
 <Book Series="Suicide Squad" Number="44" Volume="1987" Year="1990">
@@ -2043,13 +2043,13 @@
 <Book Series="The Flash" Number="50" Volume="1987" Year="1991">
 <Database Name="cv" Series="3790" Issue="34163" />
 </Book>
-<Book Series="The Fury of Firestorm" Number="98" Volume="1982" Year="1990">
+<Book Series="Firestorm" Number="98" Volume="1982" Year="1990">
 <Database Name="cv" Series="149680" Issue="32796" />
 </Book>
-<Book Series="The Fury of Firestorm" Number="99" Volume="1982" Year="1990">
+<Book Series="Firestorm" Number="99" Volume="1982" Year="1990">
 <Database Name="cv" Series="149680" Issue="32924" />
 </Book>
-<Book Series="The Fury of Firestorm" Number="100" Volume="1982" Year="1990">
+<Book Series="Firestorm" Number="100" Volume="1982" Year="1990">
 <Database Name="cv" Series="149680" Issue="33039" />
 </Book>
 <Book Series="Wonder Woman" Number="45" Volume="1987" Year="1990">
@@ -2109,7 +2109,7 @@
 <Book Series="Suicide Squad" Number="50" Volume="1987" Year="1991">
 <Database Name="cv" Series="3815" Issue="33915" />
 </Book>
-<Book Series="Batman &#38; Dracula: Red Rain" Number="1" Volume="1991" Year="1991">
+<Book Series="Batman &amp; Dracula: Red Rain" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="19168" Issue="114715" />
 </Book>
 <Book Series="Batman: Bloodstorm" Number="1" Volume="1994" Year="1995">

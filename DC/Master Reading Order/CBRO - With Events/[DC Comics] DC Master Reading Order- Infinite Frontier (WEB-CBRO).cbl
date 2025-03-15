@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order- Infinite Frontier (WEB-CBRO)-MERGE  [2022-2024]</Name>
 <NumIssues>868</NumIssues>
@@ -381,28 +381,28 @@
 <Book Series="Shazam!" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="137674" Issue="890038" />
 </Book>
-<Book Series="Crush &#38; Lobo" Number="1" Volume="2021" Year="2021">
+<Book Series="Crush &amp; Lobo" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="136533" Issue="856438" />
 </Book>
-<Book Series="Crush &#38; Lobo" Number="2" Volume="2021" Year="2021">
+<Book Series="Crush &amp; Lobo" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="136533" Issue="867828" />
 </Book>
-<Book Series="Crush &#38; Lobo" Number="3" Volume="2021" Year="2021">
+<Book Series="Crush &amp; Lobo" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="136533" Issue="876274" />
 </Book>
-<Book Series="Crush &#38; Lobo" Number="4" Volume="2021" Year="2021">
+<Book Series="Crush &amp; Lobo" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="136533" Issue="883729" />
 </Book>
-<Book Series="Crush &#38; Lobo" Number="5" Volume="2021" Year="2021">
+<Book Series="Crush &amp; Lobo" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="136533" Issue="888320" />
 </Book>
-<Book Series="Crush &#38; Lobo" Number="6" Volume="2021" Year="2022">
+<Book Series="Crush &amp; Lobo" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="136533" Issue="891948" />
 </Book>
-<Book Series="Crush &#38; Lobo" Number="7" Volume="2021" Year="2022">
+<Book Series="Crush &amp; Lobo" Number="7" Volume="2021" Year="2022">
 <Database Name="cv" Series="136533" Issue="897153" />
 </Book>
-<Book Series="Crush &#38; Lobo" Number="8" Volume="2021" Year="2022">
+<Book Series="Crush &amp; Lobo" Number="8" Volume="2021" Year="2022">
 <Database Name="cv" Series="136533" Issue="901103" />
 </Book>
 <Book Series="DC Pride" Number="1" Volume="2021" Year="2021">
@@ -543,28 +543,28 @@
 <Book Series="Mister Miracle: The Source of Freedom" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="136278" Issue="891950" />
 </Book>
-<Book Series="Blue &#38; Gold" Number="1" Volume="2021" Year="2021">
+<Book Series="Blue &amp; Gold" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="137673" Issue="872343" />
 </Book>
-<Book Series="Blue &#38; Gold" Number="2" Volume="2021" Year="2021">
+<Book Series="Blue &amp; Gold" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="137673" Issue="883728" />
 </Book>
-<Book Series="Blue &#38; Gold" Number="3" Volume="2021" Year="2021">
+<Book Series="Blue &amp; Gold" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="137673" Issue="889272" />
 </Book>
-<Book Series="Blue &#38; Gold" Number="4" Volume="2021" Year="2022">
+<Book Series="Blue &amp; Gold" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="137673" Issue="894536" />
 </Book>
-<Book Series="Blue &#38; Gold" Number="5" Volume="2021" Year="2022">
+<Book Series="Blue &amp; Gold" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="137673" Issue="903459" />
 </Book>
-<Book Series="Blue &#38; Gold" Number="6" Volume="2021" Year="2022">
+<Book Series="Blue &amp; Gold" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="137673" Issue="908254" />
 </Book>
-<Book Series="Blue &#38; Gold" Number="7" Volume="2021" Year="2022">
+<Book Series="Blue &amp; Gold" Number="7" Volume="2021" Year="2022">
 <Database Name="cv" Series="137673" Issue="911138" />
 </Book>
-<Book Series="Blue &#38; Gold" Number="8" Volume="2021" Year="2022">
+<Book Series="Blue &amp; Gold" Number="8" Volume="2021" Year="2022">
 <Database Name="cv" Series="137673" Issue="917882" />
 </Book>
 <Book Series="Batman: Urban Legends" Number="7" Volume="2021" Year="2021">
@@ -1059,7 +1059,7 @@
 <Book Series="The Swamp Thing" Number="16" Volume="2021" Year="2022">
 <Database Name="cv" Series="134142" Issue="943635" />
 </Book>
-<Book Series="Superman &#38; Robin Special" Number="1" Volume="2022" Year="2022">
+<Book Series="Superman &amp; Robin Special" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141436" Issue="904512" />
 </Book>
 <Book Series="Batgirls" Number="1" Volume="2022" Year="2022">
@@ -1287,19 +1287,19 @@
 <Book Series="Wonder Woman 2021 Annual" Number="1" Volume="2021" Year="2022">
 <Database Name="cv" Series="140255" Issue="895887" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="1" Volume="2021" Year="2021">
+<Book Series="Nubia &amp; the Amazons" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139671" Issue="890036" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="2" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="2" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="894448" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="3" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="3" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="899054" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="4" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="903451" />
 </Book>
-<Book Series="Nubia &#38; the Amazons" Number="5" Volume="2021" Year="2022">
+<Book Series="Nubia &amp; the Amazons" Number="5" Volume="2021" Year="2022">
 <Database Name="cv" Series="139671" Issue="907426" />
 </Book>
 <Book Series="Justice League 2022 Annual" Number="1" Volume="2022" Year="2022">
@@ -1347,7 +1347,7 @@
 <Book Series="Robin" Number="15" Volume="2021" Year="2022">
 <Database Name="cv" Series="135660" Issue="932959" />
 </Book>
-<Book Series="DC Pride" Number="1" Volume="2022" Year="2022">
+<Book Series="DC Pride 2022" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143432" Issue="929552" />
 </Book>
 <Book Series="Sword of Azrael" Number="1" Volume="2022" Year="2022">
@@ -2049,7 +2049,7 @@
 <Book Series="The Flash" Number="794" Volume="2016" Year="2023">
 <Database Name="cv" Series="91750" Issue="974892" />
 </Book>
-<Book Series="The Flash: One-Minute War: Start The Clock" Number="1" Volume="2023" Year="2023">
+<Book Series="The Flash: One-Minute War: Start the Clock" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148790" Issue="975994" />
 </Book>
 <Book Series="The Flash" Number="795" Volume="2016" Year="2023">

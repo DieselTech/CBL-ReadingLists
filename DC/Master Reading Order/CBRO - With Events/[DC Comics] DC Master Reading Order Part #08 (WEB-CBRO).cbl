@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #08 (WEB-CBRO)</Name>
 <NumIssues>1334</NumIssues>
@@ -1743,7 +1743,7 @@
 <Book Series="Martian Manhunter/Marvin the Martian Special" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="102121" Issue="601767" />
 </Book>
-<Book Series="Suicide Squad/The Banana Splits Special" Number="1" Volume="2017" Year="2017">
+<Book Series="Suicide Squad/Banana Splits Special" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="100382" Issue="589812" />
 </Book>
 <Book Series="Wonder Woman/Tasmanian Devil Special" Number="1" Volume="2017" Year="2017">
@@ -1878,22 +1878,22 @@
 <Book Series="Wonder Woman/Conan" Number="6" Volume="2017" Year="2018">
 <Database Name="cv" Series="104505" Issue="660646" />
 </Book>
-<Book Series="Harley &#38; Ivy Meet Betty &#38; Veronica" Number="1" Volume="2017" Year="2017">
+<Book Series="Harley &amp; Ivy Meet Betty &amp; Veronica" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104789" Issue="626258" />
 </Book>
-<Book Series="Harley &#38; Ivy Meet Betty &#38; Veronica" Number="2" Volume="2017" Year="2018">
+<Book Series="Harley &amp; Ivy Meet Betty &amp; Veronica" Number="2" Volume="2017" Year="2018">
 <Database Name="cv" Series="104789" Issue="634515" />
 </Book>
-<Book Series="Harley &#38; Ivy Meet Betty &#38; Veronica" Number="3" Volume="2017" Year="2018">
+<Book Series="Harley &amp; Ivy Meet Betty &amp; Veronica" Number="3" Volume="2017" Year="2018">
 <Database Name="cv" Series="104789" Issue="644481" />
 </Book>
-<Book Series="Harley &#38; Ivy Meet Betty &#38; Veronica" Number="4" Volume="2017" Year="2018">
+<Book Series="Harley &amp; Ivy Meet Betty &amp; Veronica" Number="4" Volume="2017" Year="2018">
 <Database Name="cv" Series="104789" Issue="650901" />
 </Book>
-<Book Series="Harley &#38; Ivy Meet Betty &#38; Veronica" Number="5" Volume="2017" Year="2018">
+<Book Series="Harley &amp; Ivy Meet Betty &amp; Veronica" Number="5" Volume="2017" Year="2018">
 <Database Name="cv" Series="104789" Issue="658702" />
 </Book>
-<Book Series="Harley &#38; Ivy Meet Betty &#38; Veronica" Number="6" Volume="2017" Year="2018">
+<Book Series="Harley &amp; Ivy Meet Betty &amp; Veronica" Number="6" Volume="2017" Year="2018">
 <Database Name="cv" Series="104789" Issue="662065" />
 </Book>
 <Book Series="DC House of Horror" Number="1" Volume="2017" Year="2017">
@@ -2592,7 +2592,7 @@
 <Book Series="Joker/Harley: Criminal Sanity--Secret Files" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="128830" Issue="781018" />
 </Book>
-<Book Series="Batman: Nightwalker: The Graphic Novel" Number="1" Volume="2019" Year="2019">
+<Book Series="Batman: Nightwalker (Special Edition)" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="121544" Issue="720036" />
 </Book>
 <Book Series="Superman Smashes the Klan" Number="1" Volume="2019" Year="2019">
@@ -2757,34 +2757,34 @@
 <Book Series="Aquaman: Deep Dives" Number="9" Volume="2020" Year="2020">
 <Database Name="cv" Series="126494" Issue="768225" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="1" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="751220" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="2" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="755058" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="3" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="759097" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="4" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="760405" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="5" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="5" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="762564" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="6" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="763250" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="7" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="7" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="766757" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="8" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="8" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="767296" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="9" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="9" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="768229" />
 </Book>
-<Book Series="Flash: Fastest Man Alive" Number="10" Volume="2020" Year="2020">
+<Book Series="The Flash: Fastest Man Alive" Number="10" Volume="2020" Year="2020">
 <Database Name="cv" Series="126496" Issue="774420" />
 </Book>
 <Book Series="Superman: Man of Tomorrow" Number="1" Volume="2020" Year="2020">
@@ -3105,7 +3105,7 @@
 <Book Series="Hellblazer: Rise and Fall" Number="3" Volume="2020" Year="2021">
 <Database Name="cv" Series="129997" Issue="827082" />
 </Book>
-<Book Series="DC: The Doomed and The Damned" Number="1" Volume="2020" Year="2020">
+<Book Series="DC The Doomed and The Damned" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="131092" Issue="809832" />
 </Book>
 <Book Series="Legend of the Swamp Thing Halloween Spectacular" Number="1" Volume="2020" Year="2020">
@@ -3171,22 +3171,22 @@
 <Book Series="DC's Very Merry Multiverse" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="132461" Issue="820471" />
 </Book>
-<Book Series="Batman Black &#38; White" Number="1" Volume="2021" Year="2021">
+<Book Series="Batman Black &amp; White" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="132457" Issue="820430" />
 </Book>
-<Book Series="Batman Black &#38; White" Number="2" Volume="2021" Year="2021">
+<Book Series="Batman Black &amp; White" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="132457" Issue="826315" />
 </Book>
-<Book Series="Batman Black &#38; White" Number="3" Volume="2021" Year="2021">
+<Book Series="Batman Black &amp; White" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="132457" Issue="829306" />
 </Book>
-<Book Series="Batman Black &#38; White" Number="4" Volume="2021" Year="2021">
+<Book Series="Batman Black &amp; White" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="132457" Issue="839420" />
 </Book>
-<Book Series="Batman Black &#38; White" Number="5" Volume="2021" Year="2021">
+<Book Series="Batman Black &amp; White" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="132457" Issue="845258" />
 </Book>
-<Book Series="Batman Black &#38; White" Number="6" Volume="2021" Year="2021">
+<Book Series="Batman Black &amp; White" Number="6" Volume="2021" Year="2021">
 <Database Name="cv" Series="132457" Issue="853395" />
 </Book>
 <Book Series="Sensational Wonder Woman" Number="1" Volume="2021" Year="2021">
@@ -3231,67 +3231,67 @@
 <Book Series="Sensational Wonder Woman" Number="14" Volume="2021" Year="2021">
 <Database Name="cv" Series="133034" Issue="841708" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="1" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="823804" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="2" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="824264" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="3" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="825073" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="4" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="826314" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="5" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="827085" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="6" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="6" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="827745" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="7" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="7" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="828547" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="8" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="8" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="829282" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="9" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="9" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="831241" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="10" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="10" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="834431" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="11" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="11" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="837874" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="12" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="12" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="839412" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="13" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="13" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="853380" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="14" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="14" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="856426" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="15" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="15" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="858439" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="16" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="16" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="862236" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="17" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="17" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="862540" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="18" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="18" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="864704" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="19" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="19" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="867819" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="20" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="20" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="870511" />
 </Book>
-<Book Series="Truth &#38; Justice" Number="21" Volume="2021" Year="2021">
+<Book Series="Truth &amp; Justice" Number="21" Volume="2021" Year="2021">
 <Database Name="cv" Series="133035" Issue="872316" />
 </Book>
 <Book Series="Batman/Catwoman" Number="1" Volume="2020" Year="2021">
@@ -3501,40 +3501,40 @@
 <Book Series="Batman/Fortnite: Zero Point" Number="6" Volume="2021" Year="2021">
 <Database Name="cv" Series="135499" Issue="867825" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="1" Volume="2021" Year="2021">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="135342" Issue="842625" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="2" Volume="2021" Year="2021">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="135342" Issue="848257" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="3" Volume="2021" Year="2021">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="135342" Issue="858434" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="4" Volume="2021" Year="2021">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="135342" Issue="870515" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="5" Volume="2021" Year="2021">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="135342" Issue="878407" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="6" Volume="2021" Year="2021">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="6" Volume="2021" Year="2021">
 <Database Name="cv" Series="135342" Issue="884596" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="7" Volume="2021" Year="2021">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="7" Volume="2021" Year="2021">
 <Database Name="cv" Series="135342" Issue="889248" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="8" Volume="2021" Year="2022">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="8" Volume="2021" Year="2022">
 <Database Name="cv" Series="135342" Issue="894195" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="9" Volume="2021" Year="2022">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="9" Volume="2021" Year="2022">
 <Database Name="cv" Series="135342" Issue="898181" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="10" Volume="2021" Year="2022">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="10" Volume="2021" Year="2022">
 <Database Name="cv" Series="135342" Issue="902348" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="11" Volume="2021" Year="2022">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="11" Volume="2021" Year="2022">
 <Database Name="cv" Series="135342" Issue="906214" />
 </Book>
-<Book Series="The Batman &#38; Scooby-Doo Mysteries" Number="12" Volume="2021" Year="2022">
+<Book Series="The Batman &amp; Scooby-Doo Mysteries" Number="12" Volume="2021" Year="2022">
 <Database Name="cv" Series="135342" Issue="910917" />
 </Book>
 <Book Series="Justice League: Last Ride" Number="1" Volume="2021" Year="2021">
@@ -3579,22 +3579,22 @@
 <Book Series="Green Arrow 80th Anniversary 100-Page Super Spectacular" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="137164" Issue="864723" />
 </Book>
-<Book Series="Wonder Woman Black &#38; Gold" Number="1" Volume="2021" Year="2021">
+<Book Series="Wonder Woman Black &amp; Gold" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="137008" Issue="862629" />
 </Book>
-<Book Series="Wonder Woman Black &#38; Gold" Number="2" Volume="2021" Year="2021">
+<Book Series="Wonder Woman Black &amp; Gold" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="137008" Issue="874008" />
 </Book>
-<Book Series="Wonder Woman Black &#38; Gold" Number="3" Volume="2021" Year="2021">
+<Book Series="Wonder Woman Black &amp; Gold" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="137008" Issue="881611" />
 </Book>
-<Book Series="Wonder Woman Black &#38; Gold" Number="4" Volume="2021" Year="2021">
+<Book Series="Wonder Woman Black &amp; Gold" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="137008" Issue="886393" />
 </Book>
-<Book Series="Wonder Woman Black &#38; Gold" Number="5" Volume="2021" Year="2021">
+<Book Series="Wonder Woman Black &amp; Gold" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="137008" Issue="891128" />
 </Book>
-<Book Series="Wonder Woman Black &#38; Gold" Number="6" Volume="2021" Year="2022">
+<Book Series="Wonder Woman Black &amp; Gold" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="137008" Issue="895162" />
 </Book>
 <Book Series="Batman '89" Number="1" Volume="2021" Year="2021">

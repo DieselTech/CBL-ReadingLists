@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #06 (WEB-CBRO)</Name>
 <NumIssues>574</NumIssues>
@@ -378,16 +378,16 @@
 <Book Series="52" Number="50" Volume="2006" Year="2007">
 <Database Name="cv" Series="18053" Issue="108606" />
 </Book>
-<Book Series="World War III" Number="1" Volume="2007" Year="2007">
+<Book Series="52/WW III" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18485" Issue="108562" />
 </Book>
-<Book Series="World War III" Number="2" Volume="2007" Year="2007">
+<Book Series="52/WW III" Number="2" Volume="2007" Year="2007">
 <Database Name="cv" Series="18485" Issue="108561" />
 </Book>
-<Book Series="World War III" Number="3" Volume="2007" Year="2007">
+<Book Series="52/WW III" Number="3" Volume="2007" Year="2007">
 <Database Name="cv" Series="18485" Issue="108560" />
 </Book>
-<Book Series="World War III" Number="4" Volume="2007" Year="2007">
+<Book Series="52/WW III" Number="4" Volume="2007" Year="2007">
 <Database Name="cv" Series="18485" Issue="108559" />
 </Book>
 <Book Series="52" Number="51" Volume="2006" Year="2007">
@@ -426,28 +426,28 @@
 <Book Series="Green Lantern Corps" Number="6" Volume="2006" Year="2007">
 <Database Name="cv" Series="18248" Issue="111455" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="1" Volume="2006" Year="2006">
+<Book Series="Ion" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="123323" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="2" Volume="2006" Year="2006">
+<Book Series="Ion" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134164" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="3" Volume="2006" Year="2006">
+<Book Series="Ion" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134165" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="4" Volume="2006" Year="2006">
+<Book Series="Ion" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134169" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="5" Volume="2006" Year="2006">
+<Book Series="Ion" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134172" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="6" Volume="2006" Year="2006">
+<Book Series="Ion" Number="6" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134173" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="7" Volume="2006" Year="2006">
+<Book Series="Ion" Number="7" Volume="2006" Year="2006">
 <Database Name="cv" Series="18143" Issue="134174" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="8" Volume="2006" Year="2007">
+<Book Series="Ion" Number="8" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="134202" />
 </Book>
 <Book Series="Green Lantern Corps" Number="7" Volume="2006" Year="2007">
@@ -459,7 +459,7 @@
 <Book Series="Green Lantern Corps" Number="9" Volume="2006" Year="2007">
 <Database Name="cv" Series="18248" Issue="111463" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="9" Volume="2006" Year="2007">
+<Book Series="Ion" Number="9" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="134203" />
 </Book>
 <Book Series="Green Lantern" Number="14" Volume="2005" Year="2006">
@@ -474,13 +474,13 @@
 <Book Series="Green Lantern" Number="17" Volume="2005" Year="2007">
 <Database Name="cv" Series="18216" Issue="106713" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="10" Volume="2006" Year="2007">
+<Book Series="Ion" Number="10" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="106291" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="11" Volume="2006" Year="2007">
+<Book Series="Ion" Number="11" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="106638" />
 </Book>
-<Book Series="Ion: Guardian of the Universe" Number="12" Volume="2006" Year="2007">
+<Book Series="Ion" Number="12" Volume="2006" Year="2007">
 <Database Name="cv" Series="18143" Issue="107478" />
 </Book>
 <Book Series="Martian Manhunter" Number="1" Volume="2006" Year="2006">
@@ -657,40 +657,40 @@
 <Book Series="Detective Comics" Number="828" Volume="1937" Year="2007">
 <Database Name="cv" Series="18058" Issue="106433" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="1" Volume="2006" Year="2006">
+<Book Series="Trials of Shazam" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18200" Issue="107657" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="2" Volume="2006" Year="2006">
+<Book Series="Trials of Shazam" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18200" Issue="107658" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="3" Volume="2006" Year="2006">
+<Book Series="Trials of Shazam" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18200" Issue="106725" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="4" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="4" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="107659" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="5" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="5" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="106596" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="6" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="6" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="108762" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="7" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="7" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="110436" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="8" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="8" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="114441" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="9" Volume="2006" Year="2007">
+<Book Series="Trials of Shazam" Number="9" Volume="2006" Year="2007">
 <Database Name="cv" Series="18200" Issue="116715" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="10" Volume="2006" Year="2008">
+<Book Series="Trials of Shazam" Number="10" Volume="2006" Year="2008">
 <Database Name="cv" Series="18200" Issue="120312" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="11" Volume="2006" Year="2008">
+<Book Series="Trials of Shazam" Number="11" Volume="2006" Year="2008">
 <Database Name="cv" Series="18200" Issue="122117" />
 </Book>
-<Book Series="The Trials of Shazam!" Number="12" Volume="2006" Year="2008">
+<Book Series="Trials of Shazam" Number="12" Volume="2006" Year="2008">
 <Database Name="cv" Series="18200" Issue="126373" />
 </Book>
 <Book Series="Green Arrow" Number="60" Volume="2001" Year="2006">
@@ -867,10 +867,10 @@
 <Book Series="Superman" Number="666" Volume="1939" Year="2007">
 <Database Name="cv" Series="773" Issue="113798" />
 </Book>
-<Book Series="JSA Classified" Number="17" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="17" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="156066" />
 </Book>
-<Book Series="JSA Classified" Number="18" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="18" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="159041" />
 </Book>
 <Book Series="Checkmate" Number="6" Volume="1988" Year="1988">
@@ -1407,7 +1407,7 @@
 <Book Series="Justice Society of America" Number="22" Volume="2007" Year="2009">
 <Database Name="cv" Series="18052" Issue="149277" />
 </Book>
-<Book Series="Green Arrow and Black Canary Wedding Special" Number="1" Volume="2007" Year="2007">
+<Book Series="Green Arrow/Black Canary Wedding Special" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19163" Issue="114650" />
 </Book>
 <Book Series="Green Arrow/Black Canary" Number="1" Volume="2007" Year="2007">
@@ -1686,28 +1686,28 @@
 <Book Series="Green Arrow/Black Canary" Number="15" Volume="2007" Year="2009">
 <Database Name="cv" Series="19240" Issue="145541" />
 </Book>
-<Book Series="Reign In Hell" Number="1" Volume="2008" Year="2008">
+<Book Series="Reign in Hell" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22465" Issue="134873" />
 </Book>
-<Book Series="Reign In Hell" Number="2" Volume="2008" Year="2008">
+<Book Series="Reign in Hell" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="22465" Issue="136816" />
 </Book>
-<Book Series="Reign In Hell" Number="3" Volume="2008" Year="2008">
+<Book Series="Reign in Hell" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="22465" Issue="139436" />
 </Book>
-<Book Series="Reign In Hell" Number="4" Volume="2008" Year="2008">
+<Book Series="Reign in Hell" Number="4" Volume="2008" Year="2008">
 <Database Name="cv" Series="22465" Issue="141327" />
 </Book>
-<Book Series="Reign In Hell" Number="5" Volume="2008" Year="2009">
+<Book Series="Reign in Hell" Number="5" Volume="2008" Year="2009">
 <Database Name="cv" Series="22465" Issue="143324" />
 </Book>
-<Book Series="Reign In Hell" Number="6" Volume="2008" Year="2009">
+<Book Series="Reign in Hell" Number="6" Volume="2008" Year="2009">
 <Database Name="cv" Series="22465" Issue="149011" />
 </Book>
-<Book Series="Reign In Hell" Number="7" Volume="2008" Year="2009">
+<Book Series="Reign in Hell" Number="7" Volume="2008" Year="2009">
 <Database Name="cv" Series="22465" Issue="150953" />
 </Book>
-<Book Series="Reign In Hell" Number="8" Volume="2008" Year="2009">
+<Book Series="Reign in Hell" Number="8" Volume="2008" Year="2009">
 <Database Name="cv" Series="22465" Issue="152825" />
 </Book>
 <Book Series="Joker" Number="1" Volume="2008" Year="2008">
