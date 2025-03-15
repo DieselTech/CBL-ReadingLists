@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 14 INTERLUDE Final Crisis [2005-2009]</Name>
 <!-- This is a blend of the First Timers and Full Reading Order (to include the relevant Batman issues) -->
@@ -17,7 +17,7 @@
 <Book Series="Seven Soldiers: Zatanna" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18517" Issue="108704" />
 </Book>
-<Book Series="Seven Soldiers: Klarion" Number="1" Volume="2005" Year="2005">
+<Book Series="Seven Soldiers: Klarion the Witch Boy" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18518" Issue="108705" />
 </Book>
 <Book Series="Seven Soldiers: Shining Knight" Number="2" Volume="2005" Year="2005">
@@ -29,7 +29,7 @@
 <Book Series="Seven Soldiers: Zatanna" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18517" Issue="108866" />
 </Book>
-<Book Series="Seven Soldiers: Klarion" Number="2" Volume="2005" Year="2005">
+<Book Series="Seven Soldiers: Klarion the Witch Boy" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18518" Issue="108870" />
 </Book>
 <Book Series="Seven Soldiers: Shining Knight" Number="3" Volume="2005" Year="2005">
@@ -38,7 +38,7 @@
 <Book Series="Seven Soldiers: Guardian" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18516" Issue="108864" />
 </Book>
-<Book Series="Seven Soldiers: Klarion" Number="3" Volume="2005" Year="2005">
+<Book Series="Seven Soldiers: Klarion the Witch Boy" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18518" Issue="108871" />
 </Book>
 <Book Series="Seven Soldiers: Shining Knight" Number="4" Volume="2005" Year="2005">
@@ -50,7 +50,7 @@
 <Book Series="Seven Soldiers: Guardian" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18516" Issue="108865" />
 </Book>
-<Book Series="Seven Soldiers: Klarion" Number="4" Volume="2005" Year="2005">
+<Book Series="Seven Soldiers: Klarion the Witch Boy" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18518" Issue="108872" />
 </Book>
 <Book Series="Seven Soldiers: Mister Miracle" Number="1" Volume="2005" Year="2005">

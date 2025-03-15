@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman - Post-Crisis  [1986-2011]</Name>
 <NumIssues>2883</NumIssues>
@@ -4410,7 +4410,7 @@
 <Book Series="Batman: Gotham Knights" Number="30" Volume="2000" Year="2002">
 <Database Name="cv" Series="7207" Issue="55323" />
 </Book>
-<Book Series="Azrael" Number="91" Volume="1995" Year="2002">
+<Book Series="Azrael: Agent of the Bat" Number="91" Volume="1995" Year="2002">
 <Database Name="cv" Series="19721" Issue="135661" />
 </Book>
 <Book Series="Detective Comics" Number="772" Volume="1937" Year="2002">
@@ -5847,22 +5847,22 @@
 <Book Series="Batman" Number="644" Volume="1940" Year="2005">
 <Database Name="cv" Series="796" Issue="122287" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="1" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="134518" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="2" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135316" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="3" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135317" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="4" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135318" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="5" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135319" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="6" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135320" />
 </Book>
 <Book Series="Detective Comics" Number="811" Volume="1937" Year="2005">

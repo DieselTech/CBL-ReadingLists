@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 05 Knightfall [1991-2019]</Name>
 <NumIssues>149</NumIssues>
@@ -30,7 +30,7 @@
 <Book Series="Batman Unseen" Number="5" Volume="2009" Year="2010">
 <Database Name="cv" Series="28478" Issue="186215" />
 </Book>
-<Book Series="Batman/Judge Dredd: Vendetta In Gotham" Number="1" Volume="1993" Year="1993">
+<Book Series="Batman/Judge Dredd: Vendetta in Gotham" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="19623" Issue="117705" />
 </Book>
 <Book Series="Batman: Vengeance of Bane Special" Number="1" Volume="1993" Year="1993">

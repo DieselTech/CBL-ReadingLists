@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 15 Batman Reborn [1989-2012]</Name>
 <NumIssues>154</NumIssues>
@@ -213,7 +213,7 @@
 <Book Series="Detective Comics" Number="853" Volume="1937" Year="2009">
 <Database Name="cv" Series="18058" Issue="155784" />
 </Book>
-<Book Series="Batman: Black and White" Number="2" Volume="1996" Year="1996">
+<Book Series="Batman Black and White" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="5729" Issue="42570" />
 </Book>
 <Book Series="Secret Origins" Number="36" Volume="1986" Year="1989">

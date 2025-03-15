@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman - New 52 [2010-2016]</Name>
 <NumIssues>217</NumIssues>
@@ -171,16 +171,16 @@
 <Book Series="Batman" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="42721" Issue="345345" />
 </Book>
-<Book Series="All-Star Western" Number="9" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="336574" />
 </Book>
-<Book Series="All-Star Western" Number="10" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="10" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="342864" />
 </Book>
-<Book Series="All-Star Western" Number="11" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="347169" />
 </Book>
-<Book Series="All-Star Western" Number="12" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="352466" />
 </Book>
 <Book Series="Batman" Number="12" Volume="2011" Year="2012">
