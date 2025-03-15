@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Constantine (CBRO)</Name>
 <NumIssues>209</NumIssues>
@@ -228,16 +228,16 @@
 <Book Series="The Horrorist" Number="2" Volume="1995" Year="1996">
 <Database Name="cv" Series="5508" Issue="41930" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="1" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73301" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="2" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="2" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73302" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="3" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="3" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73303" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="4" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="4" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73304" />
 </Book>
 <Book Series="Hellblazer" Number="181" Volume="1988" Year="2003">
