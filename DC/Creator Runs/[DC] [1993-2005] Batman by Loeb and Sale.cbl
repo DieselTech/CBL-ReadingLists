@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] [1993-2005] Batman by Loeb and Sale</Name>
 <NumIssues>37</NumIssues>
@@ -111,7 +111,7 @@
 <Book Series="Catwoman: When in Rome" Number="6" Volume="2004" Year="2005">
 <Database Name="cv" Series="19181" Issue="115011" />
 </Book>
-<Book Series="Superman Villains: Secret Files &#38; Origins" Number="1" Volume="1998" Year="1998">
+<Book Series="Superman Villains Secret Files" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="27526" Issue="167783" />
 </Book>
 </Books>
