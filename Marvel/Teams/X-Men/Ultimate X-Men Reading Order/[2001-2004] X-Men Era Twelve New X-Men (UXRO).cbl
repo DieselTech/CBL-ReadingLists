@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2001-2004] X-Men Era Twelve New X-Men (UXRO)</Name>
 <NumIssues>207</NumIssues>
@@ -87,7 +87,7 @@
 <Book Series="X-Force" Number="120" Volume="1991" Year="2001">
 <Database Name="cv" Series="4604" Issue="107072" />
 </Book>
-<Book Series="New X-Men 2001" Number="1" Volume="2001" Year="2001">
+<Book Series="X-Men 2001" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="21334" Issue="128914" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="399" Volume="1981" Year="2001">
