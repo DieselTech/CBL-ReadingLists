@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>007 - Legacy Era</Name>
     <NumIssues>62</NumIssues>
     <Source>007 - Legacy Era.cbl</Source>
@@ -180,15 +179,13 @@
         <Book Series="Star Wars: Legacy - War" Number="6" Volume="2010" Year="2011">
             <Database Name="cv" Series="37504" Issue="271614" />
         </Book>
-        <Book Series="Star Wars: Legacy - Prisoner of the Floating World" Number="1" Volume="2013"
-            Year="2013">
+        <Book Series="Star Wars : Legacy - Prisoner of the Floating World" Number="1" Volume="2013" Year="2013">
             <Database Name="cv" Series="69342" Issue="433828" />
         </Book>
-        <Book Series="Star Wars: Legacy - Outcasts of the Broken Ring" Number="1" Volume="2014"
-            Year="2014">
+        <Book Series="Star Wars: Legacy - Outcasts of the Broken Ring" Number="1" Volume="2014" Year="2014">
             <Database Name="cv" Series="74108" Issue="453393" />
         </Book>
-        <Book Series="Star Wars: Legacy - Wanted: Ania Solo" Number="1" Volume="2014" Year="2014">
+        <Book Series="Star Wars : Legacy - Wanted: Ania Solo" Number="1" Volume="2014" Year="2014">
             <Database Name="cv" Series="76384" Issue="462225" />
         </Book>
         <Book Series="Star Wars: Legacy - Empire of One" Number="1" Volume="2014" Year="2014">
