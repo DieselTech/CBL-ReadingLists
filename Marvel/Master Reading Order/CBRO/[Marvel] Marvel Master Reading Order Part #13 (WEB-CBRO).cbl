@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #13 (WEB-CBRO)</Name>
 <NumIssues>796</NumIssues>
@@ -39,16 +39,16 @@
 <Book Series="Hulk Grand Design: Madness" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="142558" Issue="919029" />
 </Book>
-<Book Series="Moon Knight: Black, White &#38; Blood" Number="1" Volume="2022" Year="2022">
+<Book Series="Moon Knight: Black, White &amp; Blood" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="142845" Issue="922409" />
 </Book>
-<Book Series="Moon Knight: Black, White &#38; Blood" Number="2" Volume="2022" Year="2022">
+<Book Series="Moon Knight: Black, White &amp; Blood" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="142845" Issue="930975" />
 </Book>
-<Book Series="Moon Knight: Black, White &#38; Blood" Number="3" Volume="2022" Year="2022">
+<Book Series="Moon Knight: Black, White &amp; Blood" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="142845" Issue="937730" />
 </Book>
-<Book Series="Moon Knight: Black, White &#38; Blood" Number="4" Volume="2022" Year="2022">
+<Book Series="Moon Knight: Black, White &amp; Blood" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="142845" Issue="945045" />
 </Book>
 <Book Series="Marvel's Voices: Identity" Number="1" Volume="2022" Year="2022">
@@ -747,7 +747,7 @@
 <Book Series="Iron Man" Number="25" Volume="2020" Year="2023">
 <Database Name="cv" Series="130396" Issue="955119" />
 </Book>
-<Book Series="Hulkling &#38; Wiccan" Number="1" Volume="2022" Year="2022">
+<Book Series="Hulkling &amp; Wiccan" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143644" Issue="930976" />
 </Book>
 <Book Series="Genis-Vell: Captain Marvel" Number="1" Volume="2022" Year="2022">
@@ -789,7 +789,7 @@
 <Book Series="Eternals" Number="12" Volume="2021" Year="2022">
 <Database Name="cv" Series="133080" Issue="924798" />
 </Book>
-<Book Series="A.X.E.: Eve Of Judgment" Number="1" Volume="2022" Year="2022">
+<Book Series="A.X.E.: Eve of Judgment" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144026" Issue="935759" />
 </Book>
 <Book Series="Immortal X-Men" Number="8" Volume="2022" Year="2023">
@@ -981,19 +981,19 @@
 <Book Series="Ghost Rider: Vengeance Forever" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144436" Issue="941562" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="1" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="929649" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="2" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="934982" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="3" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="941565" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="4" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="948110" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="5" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="949639" />
 </Book>
 <Book Series="Venom" Number="6" Volume="2021" Year="2022">
@@ -1110,7 +1110,7 @@
 <Book Series="Miles Morales: Spider-Man and Moon Girl" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143843" Issue="932696" />
 </Book>
-<Book Series="Avengers &#38; Moon Girl" Number="1" Volume="2022" Year="2022">
+<Book Series="Avengers &amp; Moon Girl" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144435" Issue="941555" />
 </Book>
 <Book Series="X-Men and Moon Girl" Number="1" Volume="2022" Year="2022">
@@ -1266,13 +1266,13 @@
 <Book Series="Namor: Conquered Shores" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145513" Issue="969387" />
 </Book>
-<Book Series="Ms. Marvel &#38; Wolverine" Number="1" Volume="2022" Year="2022">
+<Book Series="Ms. Marvel &amp; Wolverine" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144438" Issue="941566" />
 </Book>
-<Book Series="Ms. Marvel &#38; Moon Knight" Number="1" Volume="2022" Year="2022">
+<Book Series="Ms. Marvel &amp; Moon Knight" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144576" Issue="942714" />
 </Book>
-<Book Series="Ms. Marvel &#38; Venom" Number="1" Volume="2022" Year="2022">
+<Book Series="Ms. Marvel &amp; Venom" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="145039" Issue="946708" />
 </Book>
 <Book Series="Strange Academy: Finals" Number="1" Volume="2022" Year="2022">
@@ -1578,16 +1578,16 @@
 <Book Series="The Avengers: War Across Time" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="964214" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="2" Volume="2023" Year="2023">
+<Book Series="The Avengers: War Across Time" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="969378" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="3" Volume="2023" Year="2023">
+<Book Series="The Avengers: War Across Time" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="976903" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="4" Volume="2023" Year="2023">
+<Book Series="The Avengers: War Across Time" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="981483" />
 </Book>
-<Book Series="Avengers: War Across Time" Number="5" Volume="2023" Year="2023">
+<Book Series="The Avengers: War Across Time" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="147434" Issue="987228" />
 </Book>
 <Book Series="Black Panther" Number="9" Volume="2022" Year="2022">
@@ -2205,16 +2205,16 @@
 <Book Series="Fallen Friend: The Death of Ms. Marvel" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152123" Issue="1000229" />
 </Book>
-<Book Series="Daredevil &#38; Echo" Number="1" Volume="2023" Year="2023">
+<Book Series="Daredevil &amp; Echo" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150603" Issue="991064" />
 </Book>
-<Book Series="Daredevil &#38; Echo" Number="2" Volume="2023" Year="2023">
+<Book Series="Daredevil &amp; Echo" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="150603" Issue="997390" />
 </Book>
-<Book Series="Daredevil &#38; Echo" Number="3" Volume="2023" Year="2023">
+<Book Series="Daredevil &amp; Echo" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="150603" Issue="1003575" />
 </Book>
-<Book Series="Daredevil &#38; Echo" Number="4" Volume="2023" Year="2023">
+<Book Series="Daredevil &amp; Echo" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="150603" Issue="1010045" />
 </Book>
 <Book Series="Free Comic Book Day 2023: Avengers/X-Men" Number="1" Volume="2023" Year="2023">

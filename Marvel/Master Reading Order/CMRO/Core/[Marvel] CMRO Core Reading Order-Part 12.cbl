@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 12</Name>
 <NumIssues>1000</NumIssues>
@@ -585,7 +585,7 @@
 <Book Series="Cable" Number="96" Volume="1993" Year="2001">
 <Database Name="cv" Series="4993" Issue="65674" />
 </Book>
-<Book Series="New X-Men 2001" Number="1" Volume="2001" Year="2001">
+<Book Series="X-Men 2001" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="21334" Issue="128914" />
 </Book>
 <Book Series="Infinity Abyss" Number="1" Volume="2002" Year="2002">
@@ -1830,16 +1830,16 @@
 <Book Series="Incredible Hulk" Number="44" Volume="2000" Year="2002">
 <Database Name="cv" Series="6558" Issue="112793" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="1" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175541" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="2" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175543" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="3" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175546" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="4" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175548" />
 </Book>
 <Book Series="X-Men Unlimited" Number="44" Volume="1993" Year="2003">

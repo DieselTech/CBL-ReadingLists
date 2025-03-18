@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 20</Name>
 <NumIssues>991</NumIssues>
@@ -243,16 +243,16 @@
 <Book Series="The Uncanny X-Men" Number="-1" Volume="1981" Year="1997">
 <Database Name="cv" Series="3092" Issue="43915" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="1" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="123844" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="2" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="2" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135794" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="3" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135795" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="4" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="4" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135796" />
 </Book>
 <Book Series="Generation X" Number="27" Volume="1994" Year="1997">
@@ -1677,13 +1677,13 @@
 <Book Series="Marvel Vision" Number="29" Volume="1996" Year="1998">
 <Database Name="cv" Series="20065" Issue="209053" />
 </Book>
-<Book Series="Sunfire &#38; Big Hero 6" Number="1" Volume="1998" Year="1998">
+<Book Series="Sunfire &amp; Big Hero 6" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="22616" Issue="135759" />
 </Book>
-<Book Series="Sunfire &#38; Big Hero 6" Number="2" Volume="1998" Year="1998">
+<Book Series="Sunfire &amp; Big Hero 6" Number="2" Volume="1998" Year="1998">
 <Database Name="cv" Series="22616" Issue="135760" />
 </Book>
-<Book Series="Sunfire &#38; Big Hero 6" Number="3" Volume="1998" Year="1998">
+<Book Series="Sunfire &amp; Big Hero 6" Number="3" Volume="1998" Year="1998">
 <Database Name="cv" Series="22616" Issue="135761" />
 </Book>
 <Book Series="The Incredible Hulk" Number="465" Volume="1968" Year="1998">
@@ -2550,7 +2550,7 @@
 <Book Series="Generation X" Number="47" Volume="1994" Year="1999">
 <Database Name="cv" Series="5300" Issue="83112" />
 </Book>
-<Book Series="Deadpool &#38; Widdle Wade Team-Up" Number="1" Volume="1998" Year="1998">
+<Book Series="Deadpool Team-Up" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="18602" Issue="109766" />
 </Book>
 <Book Series="Dracula: Lord of the Undead" Number="1" Volume="1998" Year="1998">

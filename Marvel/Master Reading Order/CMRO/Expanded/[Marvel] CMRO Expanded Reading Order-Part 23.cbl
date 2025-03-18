@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 23</Name>
 <NumIssues>1000</NumIssues>
@@ -561,10 +561,10 @@
 <Book Series="Daredevil: The Target" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="25899" Issue="153056" />
 </Book>
-<Book Series="Wolverine &#38; Doop" Number="1" Volume="2003" Year="2003">
+<Book Series="Wolverine &amp; Doop" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="18514" Issue="108701" />
 </Book>
-<Book Series="Wolverine &#38; Doop" Number="2" Volume="2003" Year="2003">
+<Book Series="Wolverine &amp; Doop" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="18514" Issue="108779" />
 </Book>
 <Book Series="Thor" Number="46" Volume="1998" Year="2002">
@@ -747,16 +747,16 @@
 <Book Series="Incredible Hulk" Number="44" Volume="2000" Year="2002">
 <Database Name="cv" Series="6558" Issue="112793" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="1" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175541" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="2" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175543" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="3" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175546" />
 </Book>
-<Book Series="Marvel Knights: Spider-Man &#38; Wolverine" Number="4" Volume="2003" Year="2003">
+<Book Series="Marvel Knights: Spider-Man &amp; Wolverine" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="28491" Issue="175548" />
 </Book>
 <Book Series="The Ultimates" Number="6" Volume="2002" Year="2002">
@@ -1503,10 +1503,10 @@
 <Book Series="X-Men 2 Prequel: Wolverine" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="32175" Issue="201870" />
 </Book>
-<Book Series="X-Men 2: Nightcrawler - Official Movie Prequel" Number="1" Volume="2003" Year="2003">
+<Book Series="X-Men 2 Prequel: Nightcrawler" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="30591" Issue="188846" />
 </Book>
-<Book Series="X-Men 2: The Movie" Number="1" Volume="2003" Year="2003">
+<Book Series="X-Men 2 Movie" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="31097" Issue="192951" />
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="86" Volume="1995" Year="2003">
@@ -2109,22 +2109,22 @@
 <Book Series="X-Treme X-Men" Number="46" Volume="2001" Year="2004">
 <Database Name="cv" Series="9411" Issue="106465" />
 </Book>
-<Book Series="Eternal" Number="1" Volume="2003" Year="2003">
+<Book Series="The Eternal" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="18523" Issue="108734" />
 </Book>
-<Book Series="Eternal" Number="2" Volume="2003" Year="2003">
+<Book Series="The Eternal" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="18523" Issue="108765" />
 </Book>
-<Book Series="Eternal" Number="3" Volume="2003" Year="2003">
+<Book Series="The Eternal" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="18523" Issue="108766" />
 </Book>
-<Book Series="Eternal" Number="4" Volume="2003" Year="2003">
+<Book Series="The Eternal" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="18523" Issue="108767" />
 </Book>
-<Book Series="Eternal" Number="5" Volume="2003" Year="2003">
+<Book Series="The Eternal" Number="5" Volume="2003" Year="2003">
 <Database Name="cv" Series="18523" Issue="197517" />
 </Book>
-<Book Series="Eternal" Number="6" Volume="2003" Year="2004">
+<Book Series="The Eternal" Number="6" Volume="2003" Year="2004">
 <Database Name="cv" Series="18523" Issue="151117" />
 </Book>
 <Book Series="Excalibur" Number="1" Volume="2004" Year="2004">
@@ -2676,7 +2676,7 @@
 <Book Series="Supreme Power" Number="18" Volume="2003" Year="2005">
 <Database Name="cv" Series="11054" Issue="107774" />
 </Book>
-<Book Series="Marvelous Adventures Of Gus Beezer: Gus Beezer &#38; Spider-Man" Number="1" Volume="2004" Year="2004">
+<Book Series="Marvelous Adventures Of Gus Beezer: Gus Beezer &amp; Spider-Man" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="27176" Issue="165280" />
 </Book>
 <Book Series="Spectacular Spider-Man Adventures" Number="94" Volume="1995" Year="2004">
@@ -2694,16 +2694,16 @@
 <Book Series="Hulk: Gamma Games" Number="3" Volume="2004" Year="2004">
 <Database Name="cv" Series="32547" Issue="232990" />
 </Book>
-<Book Series="Hulk &#38; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
+<Book Series="Hulk &amp; Thing: Hard Knocks" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="23574" Issue="141434" />
 </Book>
-<Book Series="Hulk &#38; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
+<Book Series="Hulk &amp; Thing: Hard Knocks" Number="2" Volume="2004" Year="2004">
 <Database Name="cv" Series="23574" Issue="176055" />
 </Book>
-<Book Series="Hulk &#38; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
+<Book Series="Hulk &amp; Thing: Hard Knocks" Number="3" Volume="2004" Year="2005">
 <Database Name="cv" Series="23574" Issue="176054" />
 </Book>
-<Book Series="Hulk &#38; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
+<Book Series="Hulk &amp; Thing: Hard Knocks" Number="4" Volume="2004" Year="2005">
 <Database Name="cv" Series="23574" Issue="176053" />
 </Book>
 <Book Series="Avengers" Number="72" Volume="1998" Year="2003">

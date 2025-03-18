@@ -1,28 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 16.1 Reborn Again (MG)</Name>
     <NumIssues>58</NumIssues>
     <Books>
         <Book Series="Heroes Reborn" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="135903" Issue="847511" />
         </Book>
-        <Book Series="Heroes Reborn: Hyperion &#38; the Imperial Guard" Number="1" Volume="2021"
-            Year="2021">
+        <Book Series="Heroes Reborn: Hyperion &amp; the Imperial Guard" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="136023" Issue="848853" />
         </Book>
         <Book Series="Heroes Reborn" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="135903" Issue="848852" />
         </Book>
-        <Book Series="Heroes Reborn: Peter Parker, The Amazing Shutterbug" Number="1" Volume="2021"
-            Year="2021">
+        <Book Series="Heroes Reborn: Peter Parker, The Amazing Shutterbug" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="136024" Issue="848854" />
         </Book>
         <Book Series="Heroes Reborn" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="135903" Issue="851308" />
         </Book>
-        <Book Series="Heroes Reborn: Magneto &#38; the Mutant Force" Number="1" Volume="2021"
-            Year="2021">
+        <Book Series="Heroes Reborn: Magneto &amp; the Mutant Force" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="136388" Issue="855617" />
         </Book>
         <Book Series="Heroes Reborn" Number="4" Volume="2021" Year="2021">
@@ -49,8 +45,7 @@
         <Book Series="Heroes Reborn: Squadron Savage" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="136814" Issue="858877" />
         </Book>
-        <Book Series="Heroes Reborn: Weapon X &#38; Final Flight" Number="1" Volume="2021"
-            Year="2021">
+        <Book Series="Heroes Reborn: Weapon X &amp; Final Flight" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="136946" Issue="861677" />
         </Book>
         <Book Series="Heroes Reborn" Number="6" Volume="2021" Year="2021">
@@ -83,7 +78,7 @@
         <Book Series="Black Cat" Number="10" Volume="2020" Year="2021">
             <Database Name="cv" Series="132631" Issue="886958" />
         </Book>
-        <Book Series="Giant-Sized Black Cat: Infinity Score" Number="1" Volume="2021" Year="2022">
+        <Book Series="Giant-Size Black Cat: Infinity Score" Number="1" Volume="2021" Year="2022">
             <Database Name="cv" Series="140355" Issue="897333" />
         </Book>
         <Book Series="Thor" Number="15" Volume="2020" Year="2021">

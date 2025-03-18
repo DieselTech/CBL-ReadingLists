@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 03</Name>
 <NumIssues>1000</NumIssues>
@@ -1698,7 +1698,7 @@
 <Book Series="Machine Man" Number="6" Volume="1978" Year="1978">
 <Database Name="cv" Series="2956" Issue="18823" />
 </Book>
-<Book Series="Power Man" Number="50" Volume="1974" Year="1978">
+<Book Series="Power Man and Iron Fist" Number="50" Volume="1974" Year="1978">
 <Database Name="cv" Series="2959" Issue="18426" />
 </Book>
 <Book Series="Captain America" Number="217" Volume="1968" Year="1978">
@@ -1740,10 +1740,10 @@
 <Book Series="Power Man" Number="1" Volume="1974" Year="1999">
 <Database Name="cv" Series="2700" Issue="163265" />
 </Book>
-<Book Series="Power Man" Number="52" Volume="1974" Year="1978">
+<Book Series="Power Man and Iron Fist" Number="52" Volume="1974" Year="1978">
 <Database Name="cv" Series="2959" Issue="18749" />
 </Book>
-<Book Series="Power Man" Number="53" Volume="1974" Year="1978">
+<Book Series="Power Man and Iron Fist" Number="53" Volume="1974" Year="1978">
 <Database Name="cv" Series="2959" Issue="18908" />
 </Book>
 <Book Series="The Avengers" Number="167" Volume="1963" Year="1978">
@@ -2067,10 +2067,10 @@
 <Book Series="Daredevil" Number="161" Volume="1964" Year="1979">
 <Database Name="cv" Series="2190" Issue="19917" />
 </Book>
-<Book Series="Power Man" Number="54" Volume="1974" Year="1978">
+<Book Series="Power Man and Iron Fist" Number="54" Volume="1974" Year="1978">
 <Database Name="cv" Series="2959" Issue="19052" />
 </Book>
-<Book Series="Power Man" Number="55" Volume="1974" Year="1979">
+<Book Series="Power Man and Iron Fist" Number="55" Volume="1974" Year="1979">
 <Database Name="cv" Series="2959" Issue="19307" />
 </Book>
 <Book Series="Marvel Team-Up" Number="78" Volume="1972" Year="1979">
@@ -2829,7 +2829,7 @@
 <Book Series="Captain America" Number="239" Volume="1968" Year="1979">
 <Database Name="cv" Series="2400" Issue="19915" />
 </Book>
-<Book Series="Power Man" Number="57" Volume="1974" Year="1979">
+<Book Series="Power Man and Iron Fist" Number="57" Volume="1974" Year="1979">
 <Database Name="cv" Series="2959" Issue="19584" />
 </Book>
 <Book Series="The X-Men" Number="122" Volume="1963" Year="1979">
@@ -2904,13 +2904,13 @@
 <Book Series="The X-Men" Number="128" Volume="1963" Year="1979">
 <Database Name="cv" Series="2133" Issue="20006" />
 </Book>
-<Book Series="Power Man" Number="58" Volume="1974" Year="1979">
+<Book Series="Power Man and Iron Fist" Number="58" Volume="1974" Year="1979">
 <Database Name="cv" Series="2959" Issue="19716" />
 </Book>
-<Book Series="Power Man" Number="59" Volume="1974" Year="1979">
+<Book Series="Power Man and Iron Fist" Number="59" Volume="1974" Year="1979">
 <Database Name="cv" Series="2959" Issue="19855" />
 </Book>
-<Book Series="Power Man" Number="60" Volume="1974" Year="1979">
+<Book Series="Power Man and Iron Fist" Number="60" Volume="1974" Year="1979">
 <Database Name="cv" Series="2959" Issue="19996" />
 </Book>
 <Book Series="Power Man" Number="1" Volume="1974" Year="2009">

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 1939-1956 Part 2.3 Winners Unite! (MG)</Name>
 <NumIssues>90</NumIssues>
 <Books>
-<Book Series="Miss America" Number="1" Volume="1953" Year="1944">
+<Book Series="Miss America Comics" Number="1" Volume="1953" Year="1944">
 <Database Name="cv" Series="50116" Issue="343551" />
 </Book>
 <Book Series="Captain America Comics" Number="40" Volume="1941" Year="1944">

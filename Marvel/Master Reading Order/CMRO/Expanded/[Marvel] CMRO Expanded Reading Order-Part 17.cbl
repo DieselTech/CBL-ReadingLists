@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 17</Name>
 <NumIssues>989</NumIssues>
@@ -849,7 +849,7 @@
 <Book Series="X-Factor Annual" Number="9" Volume="1986" Year="1994">
 <Database Name="cv" Series="3658" Issue="107563" />
 </Book>
-<Book Series="Spider-Man "How to Beat the Bully"/Jubilee "Peer Pressure"" Number="1" Volume="1994" Year="1995">
+<Book Series="Spider-Man &quot;How to Beat the Bully&quot;/Jubilee &quot;Peer Pressure&quot;" Number="1" Volume="1994" Year="1995">
 <Database Name="cv" Series="32199" Issue="202027" />
 </Book>
 <Book Series="The Night Man" Number="5" Volume="1993" Year="1994">

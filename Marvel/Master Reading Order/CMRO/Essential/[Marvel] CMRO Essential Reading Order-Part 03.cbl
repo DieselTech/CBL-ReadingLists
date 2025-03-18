@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Essential Reading Order-Part 03</Name>
 <NumIssues>1000</NumIssues>
@@ -132,7 +132,7 @@
 <Book Series="Wolverine" Number="176" Volume="1988" Year="2002">
 <Database Name="cv" Series="4250" Issue="114943" />
 </Book>
-<Book Series="New X-Men 2001" Number="1" Volume="2001" Year="2001">
+<Book Series="X-Men 2001" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="21334" Issue="128914" />
 </Book>
 <Book Series="Infinity Abyss" Number="1" Volume="2002" Year="2002">
@@ -1197,13 +1197,13 @@
 <Book Series="Stormbreaker: The Saga of Beta Ray Bill" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="20565" Issue="123213" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="5" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="5" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94292" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="6" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="6" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94293" />
 </Book>
-<Book Series="Captain America &#38; the Falcon" Number="7" Volume="2004" Year="2004">
+<Book Series="Captain America &amp; the Falcon" Number="7" Volume="2004" Year="2004">
 <Database Name="cv" Series="10973" Issue="94294" />
 </Book>
 <Book Series="Captain America" Number="29" Volume="2002" Year="2004">
@@ -1338,40 +1338,40 @@
 <Book Series="Madrox" Number="5" Volume="2004" Year="2005">
 <Database Name="cv" Series="11181" Issue="114065" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="1" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105801" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="2" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="2" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105828" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="3" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="3" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105829" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="4" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="4" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105831" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="5" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="5" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105830" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="6" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="6" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105832" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="7" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="7" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105842" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="8" Volume="2004" Year="2004">
+<Book Series="Cable &amp; Deadpool" Number="8" Volume="2004" Year="2004">
 <Database Name="cv" Series="18070" Issue="105843" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="9" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="9" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105851" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="10" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="10" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105863" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="11" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="11" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105862" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="12" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="12" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="105864" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="450" Volume="1981" Year="2004">
@@ -1857,7 +1857,7 @@
 <Book Series="Wolverine" Number="35" Volume="2003" Year="2005">
 <Database Name="cv" Series="10809" Issue="114518" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="17" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="17" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106394" />
 </Book>
 <Book Series="New X-Men" Number="16" Volume="2004" Year="2005">
@@ -2232,10 +2232,10 @@
 <Book Series="Daredevil" Number="81" Volume="1998" Year="2006">
 <Database Name="cv" Series="6209" Issue="111429" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="26" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="26" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106413" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="27" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="27" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106414" />
 </Book>
 <Book Series="X-Men" Number="182" Volume="2004" Year="2006">
@@ -2436,16 +2436,16 @@
 <Book Series="Civil War: Front Line" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18245" Issue="107959" />
 </Book>
-<Book Series="Civil War: Young Avengers &#38; Runaways" Number="1" Volume="2006" Year="2006">
+<Book Series="Civil War: Young Avengers &amp; Runaways" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="17991" Issue="105339" />
 </Book>
-<Book Series="Civil War: Young Avengers &#38; Runaways" Number="2" Volume="2006" Year="2006">
+<Book Series="Civil War: Young Avengers &amp; Runaways" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="17991" Issue="105344" />
 </Book>
-<Book Series="Civil War: Young Avengers &#38; Runaways" Number="3" Volume="2006" Year="2006">
+<Book Series="Civil War: Young Avengers &amp; Runaways" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="17991" Issue="105345" />
 </Book>
-<Book Series="Civil War: Young Avengers &#38; Runaways" Number="4" Volume="2006" Year="2006">
+<Book Series="Civil War: Young Avengers &amp; Runaways" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="17991" Issue="105346" />
 </Book>
 <Book Series="Thunderbolts" Number="104" Volume="2006" Year="2006">
@@ -2550,13 +2550,13 @@
 <Book Series="Heroes for Hire" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18102" Issue="108882" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="30" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="30" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106444" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="31" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="31" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106445" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="32" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="32" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106446" />
 </Book>
 <Book Series="Wolverine" Number="43" Volume="2003" Year="2006">
