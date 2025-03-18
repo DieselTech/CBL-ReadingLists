@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Fantastic Four: Post-Civil War - Secret Wars (WEB-ComicBookHerald)</Name>
 <NumIssues>151</NumIssues>
@@ -435,13 +435,13 @@
 <Book Series="Fantastic Four Annual" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="77247" Issue="467036" />
 </Book>
-<Book Series="Fantastic Four Annual" Number="12" Volume="2014" Year="2014">
+<Book Series="Fantastic Four" Number="12" Volume="2014" Year="2014">
 <Database Name="cv" Series="71949" Issue="468907" />
 </Book>
-<Book Series="Fantastic Four Annual" Number="13" Volume="2014" Year="2015">
+<Book Series="Fantastic Four" Number="13" Volume="2014" Year="2015">
 <Database Name="cv" Series="71949" Issue="470427" />
 </Book>
-<Book Series="Fantastic Four Annual" Number="14" Volume="2014" Year="2015">
+<Book Series="Fantastic Four" Number="14" Volume="2014" Year="2015">
 <Database Name="cv" Series="71949" Issue="473647" />
 </Book>
 <Book Series="Fantastic Four" Number="642" Volume="2014" Year="2015">
