@@ -1,870 +1,868 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>X-Men - Part 8 (Morrison Era)</Name>
+  <Name>X-Men - Part 008 (Morrison Era)</Name>
+  <NumIssues>287</NumIssues>
   <Books>
     <Book Series="X-Treme X-Men" Number="1" Volume="2001" Year="2001">
-      <Id>62743f92-e439-4ebb-869a-b814da4dd386</Id>
+      <Database Name="cv" Series="9411" Issue="76558" />
     </Book>
     <Book Series="X-Treme X-Men" Number="2" Volume="2001" Year="2001">
-      <Id>dce2c861-fda3-4600-83dd-6f5ae2800bfe</Id>
+      <Database Name="cv" Series="9411" Issue="76559" />
     </Book>
     <Book Series="X-Treme X-Men" Number="3" Volume="2001" Year="2001">
-      <Id>d56ceeef-b136-4040-ac14-4b1c5b5e21cc</Id>
+      <Database Name="cv" Series="9411" Issue="76560" />
     </Book>
     <Book Series="X-Treme X-Men" Number="4" Volume="2001" Year="2001">
-      <Id>d1bc18c6-5f9e-4258-a3a9-e3e96150b5a3</Id>
+      <Database Name="cv" Series="9411" Issue="76561" />
     </Book>
-    <Book Series="Wolverine Annual 2001" Number="1" Volume="2001" Year="2002">
-      <Id>6c91dcdc-515a-43e2-a88b-7e7354c4cfb5</Id>
+    <Book Series="Wolverine 2001" Number="1" Volume="2001" Year="2002">
+      <Database Name="cv" Series="27132" Issue="164833" />
     </Book>
     <Book Series="Wolverine" Number="170" Volume="1988" Year="2002">
-      <Id>87ec902f-1ced-470e-b32f-183d65222ea3</Id>
+      <Database Name="cv" Series="4250" Issue="64487" />
     </Book>
     <Book Series="Wolverine" Number="171" Volume="1988" Year="2002">
-      <Id>1b7d6505-80d5-4a3b-bbec-b3677ad89373</Id>
+      <Database Name="cv" Series="4250" Issue="89851" />
     </Book>
     <Book Series="Wolverine" Number="172" Volume="1988" Year="2002">
-      <Id>145bb971-fe8c-41cb-bda7-4dddb70c183b</Id>
+      <Database Name="cv" Series="4250" Issue="64488" />
     </Book>
-    <Book Series="Origin" Number="1" Volume="2001" Year="2001">
-      <Id>21a134b1-c1a5-46f5-b190-c77385b3f66d</Id>
+    <Book Series="Wolverine: The Origin" Number="1" Volume="2001" Year="2001">
+      <Database Name="cv" Series="18649" Issue="110022" />
     </Book>
-    <Book Series="Origin" Number="2" Volume="2001" Year="2001">
-      <Id>26cf27f2-4330-486e-8b0b-5746b16ecc81</Id>
+    <Book Series="Wolverine: The Origin" Number="2" Volume="2001" Year="2001">
+      <Database Name="cv" Series="18649" Issue="110026" />
     </Book>
-    <Book Series="Origin" Number="3" Volume="2001" Year="2002">
-      <Id>86e724f9-1ea1-42b2-ab3c-7ca4a6bc3d7c</Id>
+    <Book Series="Wolverine: The Origin" Number="3" Volume="2001" Year="2002">
+      <Database Name="cv" Series="18649" Issue="110027" />
     </Book>
-    <Book Series="Origin" Number="4" Volume="2001" Year="2002">
-      <Id>084d9a1a-ca67-4106-8768-359c10b7b1ac</Id>
+    <Book Series="Wolverine: The Origin" Number="4" Volume="2001" Year="2002">
+      <Database Name="cv" Series="18649" Issue="110028" />
     </Book>
-    <Book Series="Origin" Number="5" Volume="2001" Year="2002">
-      <Id>6aefbc13-f630-4b72-9114-9cd7a2d3e815</Id>
+    <Book Series="Wolverine: The Origin" Number="5" Volume="2001" Year="2002">
+      <Database Name="cv" Series="18649" Issue="110029" />
     </Book>
-    <Book Series="Origin" Number="6" Volume="2001" Year="2002">
-      <Id>22ba893d-0762-49c0-90e2-916c8ec82e1f</Id>
+    <Book Series="Wolverine: The Origin" Number="6" Volume="2001" Year="2002">
+      <Database Name="cv" Series="18649" Issue="110030" />
     </Book>
     <Book Series="Generation X" Number="75" Volume="1994" Year="2001">
-      <Id>489e69f1-6e16-41f5-95c5-c539847b3dfe</Id>
+      <Database Name="cv" Series="5300" Issue="83135" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="394" Volume="1981" Year="2001">
-      <Id>bdc88df8-35c7-4134-95c7-84ffa19c48b2</Id>
+      <Database Name="cv" Series="3092" Issue="65178" />
     </Book>
     <Book Series="New X-Men" Number="114" Volume="2001" Year="2001">
-      <Id>63567fa3-0b6c-445a-a123-ae2760ec6e19</Id>
+      <Database Name="cv" Series="9121" Issue="66992" />
     </Book>
     <Book Series="New X-Men" Number="115" Volume="2001" Year="2001">
-      <Id>86fa691a-2c7b-4dce-aabb-bb8519ef21aa</Id>
+      <Database Name="cv" Series="9121" Issue="66993" />
     </Book>
     <Book Series="New X-Men" Number="116" Volume="2001" Year="2001">
-      <Id>ffc4a792-1452-4aab-9da8-f6f3139217ff</Id>
+      <Database Name="cv" Series="9121" Issue="66994" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="395" Volume="1981" Year="2001">
-      <Id>853b98fa-6d23-4d4d-9cdb-bd2420ee9f95</Id>
+      <Database Name="cv" Series="3092" Issue="65180" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="396" Volume="1981" Year="2001">
-      <Id>04125895-7eb7-4684-9164-594eced3ffbd</Id>
+      <Database Name="cv" Series="3092" Issue="65182" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="397" Volume="1981" Year="2001">
-      <Id>fb3bc8c5-ad4a-47c4-b1bf-a58c816a5202</Id>
+      <Database Name="cv" Series="3092" Issue="65184" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="398" Volume="1981" Year="2001">
-      <Id>a0373f1b-041d-46d4-b2e0-e20e4b4e55cf</Id>
+      <Database Name="cv" Series="3092" Issue="65185" />
     </Book>
     <Book Series="Cyclops" Number="1" Volume="2001" Year="2001">
-      <Id>82785e0a-be26-47d0-a46a-4c9a0a80b8f7</Id>
+      <Database Name="cv" Series="9461" Issue="77799" />
     </Book>
     <Book Series="Cyclops" Number="2" Volume="2001" Year="2001">
-      <Id>fac56eca-836c-4e84-a5be-459e6d74acad</Id>
+      <Database Name="cv" Series="9461" Issue="77800" />
     </Book>
     <Book Series="Cyclops" Number="3" Volume="2001" Year="2001">
-      <Id>ae513d64-f31d-4855-be5a-c3f62187d5ee</Id>
+      <Database Name="cv" Series="9461" Issue="77801" />
     </Book>
     <Book Series="Cyclops" Number="4" Volume="2001" Year="2002">
-      <Id>db07a33f-51a6-482a-b5fa-0f027bf6048d</Id>
+      <Database Name="cv" Series="9461" Issue="77802" />
     </Book>
     <Book Series="Rogue" Number="1" Volume="2001" Year="2001">
-      <Id>5ae2f638-b92a-49e7-a5b5-f559689a58f0</Id>
+      <Database Name="cv" Series="21823" Issue="131593" />
     </Book>
     <Book Series="Rogue" Number="2" Volume="2001" Year="2001">
-      <Id>b582dd64-367d-4d92-ac05-2c9b2af3aed5</Id>
+      <Database Name="cv" Series="21823" Issue="135689" />
     </Book>
     <Book Series="Rogue" Number="3" Volume="2001" Year="2001">
-      <Id>ebcf2b6b-a8b1-40d5-bc51-6a1656a52ad2</Id>
+      <Database Name="cv" Series="21823" Issue="135690" />
     </Book>
     <Book Series="Rogue" Number="4" Volume="2001" Year="2001">
-      <Id>d6bd60a7-59f1-47d3-b284-517448bd9233</Id>
+      <Database Name="cv" Series="21823" Issue="135691" />
     </Book>
     <Book Series="Iceman" Number="1" Volume="2001" Year="2001">
-      <Id>962fa31a-18a6-4823-a378-d8c6cb6b5e30</Id>
+      <Database Name="cv" Series="9465" Issue="77818" />
     </Book>
     <Book Series="Iceman" Number="2" Volume="2001" Year="2002">
-      <Id>54ea98e2-f392-4ea3-938c-e9b3ffae1f8f</Id>
+      <Database Name="cv" Series="9465" Issue="77819" />
     </Book>
     <Book Series="Iceman" Number="3" Volume="2001" Year="2002">
-      <Id>16435ed8-c79c-44bf-ac1d-3fef7f680100</Id>
+      <Database Name="cv" Series="9465" Issue="77820" />
     </Book>
     <Book Series="Iceman" Number="4" Volume="2001" Year="2002">
-      <Id>6ee91721-0536-4781-84c7-9660cdca3986</Id>
+      <Database Name="cv" Series="9465" Issue="77821" />
     </Book>
     <Book Series="X-Treme X-Men: Savage Land" Number="1" Volume="2001" Year="2001">
-      <Id>a8dfbdfe-b32a-4f61-884a-d853d497c555</Id>
+      <Database Name="cv" Series="18959" Issue="112491" />
     </Book>
     <Book Series="X-Treme X-Men: Savage Land" Number="2" Volume="2001" Year="2001">
-      <Id>d37907f2-2caf-49ab-b366-24f37069ad3f</Id>
+      <Database Name="cv" Series="18959" Issue="112510" />
     </Book>
     <Book Series="X-Treme X-Men: Savage Land" Number="3" Volume="2001" Year="2002">
-      <Id>5ff4b9d2-d84a-45bd-9327-8bad6da46082</Id>
+      <Database Name="cv" Series="18959" Issue="112511" />
     </Book>
     <Book Series="X-Treme X-Men: Savage Land" Number="4" Volume="2001" Year="2002">
-      <Id>25973856-bc50-49d5-be47-5dcb7671e343</Id>
+      <Database Name="cv" Series="18959" Issue="112512" />
     </Book>
     <Book Series="X-Men Unlimited" Number="34" Volume="1993" Year="2002">
-      <Id>ca46eeb1-6a3b-4d42-a07a-29dfef1f690a</Id>
+      <Database Name="cv" Series="5066" Issue="109026" />
     </Book>
     <Book Series="Cable" Number="105" Volume="1993" Year="2002">
-      <Id>a8efd145-8d61-4043-9eee-21cd72647e35</Id>
+      <Database Name="cv" Series="4993" Issue="136028" />
     </Book>
     <Book Series="Cable" Number="106" Volume="1993" Year="2002">
-      <Id>d8887cfe-73d3-46bf-9e06-dc2a73a91998</Id>
+      <Database Name="cv" Series="4993" Issue="136029" />
     </Book>
     <Book Series="Cable" Number="107" Volume="1993" Year="2002">
-      <Id>5e2e9f78-69d9-44a8-97e0-8dba3136660d</Id>
+      <Database Name="cv" Series="4993" Issue="136030" />
     </Book>
     <Book Series="X-Treme X-Men" Number="5" Volume="2001" Year="2001">
-      <Id>908aaaf0-feae-4022-ade7-94e795ae5c33</Id>
+      <Database Name="cv" Series="9411" Issue="76562" />
     </Book>
     <Book Series="X-Treme X-Men" Number="6" Volume="2001" Year="2001">
-      <Id>60643a0c-bd8f-4cd5-a59b-6d928d07b872</Id>
+      <Database Name="cv" Series="9411" Issue="76563" />
     </Book>
     <Book Series="X-Treme X-Men" Number="7" Volume="2001" Year="2002">
-      <Id>3ae6237c-7afc-4db6-b1c5-9c3e84caa7ba</Id>
+      <Database Name="cv" Series="9411" Issue="76564" />
     </Book>
     <Book Series="X-Treme X-Men" Number="8" Volume="2001" Year="2002">
-      <Id>fd8b9ba1-6bc0-45ae-b5a5-fef92c36606b</Id>
+      <Database Name="cv" Series="9411" Issue="105920" />
     </Book>
     <Book Series="New X-Men" Number="117" Volume="2001" Year="2001">
-      <Id>66e278ab-1893-4fa1-8bab-2b13a047d7dd</Id>
+      <Database Name="cv" Series="9121" Issue="66995" />
     </Book>
-    <Book Series="New X-Men Annual 2001" Number="1" Volume="2001" Year="2001">
-      <Id>2d30e03a-08db-4f03-9b34-f5764589e34f</Id>
+    <Book Series="X-Men 2001" Number="1" Volume="2001" Year="2001">
+      <Database Name="cv" Series="21334" Issue="128914" />
     </Book>
     <Book Series="New X-Men" Number="118" Volume="2001" Year="2001">
-      <Id>c47c6fe6-4384-4928-97c1-ed18f41d9fcc</Id>
+      <Database Name="cv" Series="9121" Issue="78322" />
     </Book>
     <Book Series="New X-Men" Number="119" Volume="2001" Year="2001">
-      <Id>01c6a3b9-b343-4f9a-a715-0d53dc5a684b</Id>
+      <Database Name="cv" Series="9121" Issue="78323" />
     </Book>
     <Book Series="New X-Men" Number="120" Volume="2001" Year="2002">
-      <Id>813a9b99-041f-4820-8b48-18cde136e203</Id>
+      <Database Name="cv" Series="9121" Issue="78324" />
     </Book>
     <Book Series="New X-Men" Number="121" Volume="2001" Year="2002">
-      <Id>84fc8a96-40e8-45bf-8b32-24a10bcdc725</Id>
+      <Database Name="cv" Series="9121" Issue="78325" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="399" Volume="1981" Year="2001">
-      <Id>e73dc18f-0a5a-4b1f-b5fc-cf964a41e10f</Id>
+      <Database Name="cv" Series="3092" Issue="65188" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="400" Volume="1981" Year="2001">
-      <Id>6a4233fa-4752-4b29-8374-46d09b1215ef</Id>
+      <Database Name="cv" Series="3092" Issue="65190" />
     </Book>
-    <Book Series="Uncanny X-Men Annual 2001" Number="1" Volume="2001" Year="2002">
-      <Id>aa5687ad-159f-4029-b457-1a67c918a068</Id>
+    <Book Series="Uncanny X-Men 2001" Number="1" Volume="2001" Year="2002">
+      <Database Name="cv" Series="60472" Issue="136054" />
     </Book>
     <Book Series="Nightcrawler" Number="1" Volume="2002" Year="2002">
-      <Id>5b7fad4a-df84-46f2-ae5f-9adedf4166b5</Id>
+      <Database Name="cv" Series="9467" Issue="77828" />
     </Book>
     <Book Series="Nightcrawler" Number="2" Volume="2002" Year="2002">
-      <Id>99a8dd94-fd6e-4773-b101-f879e680873b</Id>
+      <Database Name="cv" Series="9467" Issue="77829" />
     </Book>
     <Book Series="Nightcrawler" Number="3" Volume="2002" Year="2002">
-      <Id>fcd9ef17-b005-4fab-8902-07341b7d3c0c</Id>
+      <Database Name="cv" Series="9467" Issue="77830" />
     </Book>
     <Book Series="Nightcrawler" Number="4" Volume="2002" Year="2002">
-      <Id>e7c036bd-5a1c-44d6-b046-36f9c9275891</Id>
+      <Database Name="cv" Series="9467" Issue="77831" />
     </Book>
     <Book Series="New X-Men" Number="122" Volume="2001" Year="2002">
-      <Id>5217079f-6a40-4952-bb33-5663b42e5983</Id>
+      <Database Name="cv" Series="9121" Issue="78326" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="401" Volume="1981" Year="2002">
-      <Id>1d4632cb-8969-44e5-b2d0-17b8c13c5775</Id>
+      <Database Name="cv" Series="3092" Issue="65192" />
     </Book>
     <Book Series="X-Treme X-Men" Number="9" Volume="2001" Year="2002">
-      <Id>50f21eba-cc07-4028-a947-1a22da8e68b5</Id>
+      <Database Name="cv" Series="9411" Issue="76565" />
     </Book>
     <Book Series="Wolverine" Number="173" Volume="1988" Year="2002">
-      <Id>9bd2e01b-a1c1-4e6c-9095-dd7ea0be659c</Id>
+      <Database Name="cv" Series="4250" Issue="64489" />
     </Book>
     <Book Series="Wolverine" Number="174" Volume="1988" Year="2002">
-      <Id>631e84af-9654-406b-b377-fb288f5368bd</Id>
+      <Database Name="cv" Series="4250" Issue="64490" />
     </Book>
     <Book Series="Wolverine" Number="175" Volume="1988" Year="2002">
-      <Id>eb438511-6ef6-48a1-a6b6-4972270edfb7</Id>
+      <Database Name="cv" Series="4250" Issue="64491" />
     </Book>
     <Book Series="Wolverine" Number="176" Volume="1988" Year="2002">
-      <Id>f72ae7ab-1b5a-4eac-a653-1b6c04686f57</Id>
+      <Database Name="cv" Series="4250" Issue="114943" />
     </Book>
     <Book Series="New X-Men" Number="123" Volume="2001" Year="2002">
-      <Id>05d9552d-b2bb-4a9a-a905-9ba9d8fca1c0</Id>
+      <Database Name="cv" Series="9121" Issue="78327" />
     </Book>
     <Book Series="New X-Men" Number="124" Volume="2001" Year="2002">
-      <Id>644ea8dd-958d-439b-9155-ff5723837d13</Id>
+      <Database Name="cv" Series="9121" Issue="78328" />
     </Book>
     <Book Series="New X-Men" Number="125" Volume="2001" Year="2002">
-      <Id>7fbb3922-0fbc-4efc-8d7d-78e8050ebddb</Id>
+      <Database Name="cv" Series="9121" Issue="78329" />
     </Book>
     <Book Series="New X-Men" Number="126" Volume="2001" Year="2002">
-      <Id>737edb55-c64c-4dd4-8e06-b1afe100879b</Id>
+      <Database Name="cv" Series="9121" Issue="78330" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="402" Volume="1981" Year="2002">
-      <Id>8dce83ad-ce06-4fa9-a2f8-fbb91c4f06e5</Id>
+      <Database Name="cv" Series="3092" Issue="65193" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="403" Volume="1981" Year="2002">
-      <Id>b309fdbd-e44c-4bf9-8fdd-01f87b110752</Id>
+      <Database Name="cv" Series="3092" Issue="65194" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="404" Volume="1981" Year="2002">
-      <Id>f6aa3cb5-5300-41bf-a8e7-3a18d56bc4b9</Id>
+      <Database Name="cv" Series="3092" Issue="105447" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="405" Volume="1981" Year="2002">
-      <Id>a47800c6-dc73-41bf-b5ff-9c1034def6a3</Id>
+      <Database Name="cv" Series="3092" Issue="105448" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="406" Volume="1981" Year="2002">
-      <Id>ed1fcca3-315c-4fab-9ec2-50059c9bffbe</Id>
+      <Database Name="cv" Series="3092" Issue="105449" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="407" Volume="1981" Year="2002">
-      <Id>632217c3-eb1a-4c0a-b223-c9b4d05d0507</Id>
+      <Database Name="cv" Series="3092" Issue="105596" />
     </Book>
     <Book Series="X-Factor" Number="1" Volume="2002" Year="2002">
-      <Id>941e11b0-aba6-4372-8e5f-25c350c1545d</Id>
+      <Database Name="cv" Series="24239" Issue="144022" />
     </Book>
     <Book Series="X-Factor" Number="2" Volume="2002" Year="2002">
-      <Id>16688544-5dec-4855-8ac9-8586f4b61b8e</Id>
+      <Database Name="cv" Series="24239" Issue="144024" />
     </Book>
     <Book Series="X-Factor" Number="3" Volume="2002" Year="2002">
-      <Id>4bfe5bd8-d9f5-4819-a06e-37103212287f</Id>
+      <Database Name="cv" Series="24239" Issue="144025" />
     </Book>
     <Book Series="X-Factor" Number="4" Volume="2002" Year="2002">
-      <Id>22f6732d-da0f-4253-a015-743a08b04eee</Id>
+      <Database Name="cv" Series="24239" Issue="144026" />
     </Book>
-    <Book Series="X-Treme X-Men Annual 2001" Number="2001" Volume="2001" Year="2001">
-      <Id>7befd40c-aaa2-4a09-904f-8d2d119f490f</Id>
+    <Book Series="X-Treme X-Men 2001" Number="1" Volume="2001" Year="2002">
+      <Database Name="cv" Series="27047" Issue="163699" />
     </Book>
     <Book Series="X-Treme X-Men" Number="10" Volume="2001" Year="2002">
-      <Id>888f669a-8a9a-488e-a349-21bcc9e6c28c</Id>
+      <Database Name="cv" Series="9411" Issue="105432" />
     </Book>
     <Book Series="X-Treme X-Men" Number="11" Volume="2001" Year="2002">
-      <Id>af6b4eca-2481-462e-bd2a-f66585079d7e</Id>
+      <Database Name="cv" Series="9411" Issue="105921" />
     </Book>
     <Book Series="X-Treme X-Men" Number="12" Volume="2001" Year="2002">
-      <Id>dd8932d4-ea58-472f-bcc1-71bae93dcfd5</Id>
+      <Database Name="cv" Series="9411" Issue="105928" />
     </Book>
     <Book Series="X-Treme X-Men" Number="13" Volume="2001" Year="2002">
-      <Id>e6ea1a26-c672-46d7-8c1f-f900effbf0b8</Id>
+      <Database Name="cv" Series="9411" Issue="105977" />
     </Book>
     <Book Series="X-Treme X-Men" Number="14" Volume="2001" Year="2002">
-      <Id>700174e5-b0ac-42f8-8aa2-6343271eb617</Id>
+      <Database Name="cv" Series="9411" Issue="105992" />
     </Book>
     <Book Series="X-Treme X-Men" Number="15" Volume="2001" Year="2002">
-      <Id>1525adeb-d5de-489d-be92-56ef1a94cf91</Id>
+      <Database Name="cv" Series="9411" Issue="105993" />
     </Book>
     <Book Series="X-Treme X-Men" Number="16" Volume="2001" Year="2002">
-      <Id>848351f2-0cf3-41ef-b1ce-3bb7c48aad19</Id>
+      <Database Name="cv" Series="9411" Issue="105994" />
     </Book>
     <Book Series="X-Treme X-Men" Number="17" Volume="2001" Year="2002">
-      <Id>b3dc12e1-4fed-4715-8f8e-40e070372a73</Id>
+      <Database Name="cv" Series="9411" Issue="106005" />
     </Book>
     <Book Series="X-Treme X-Men" Number="18" Volume="2001" Year="2002">
-      <Id>97c84dce-e08e-4d33-9353-710df3111714</Id>
+      <Database Name="cv" Series="9411" Issue="106019" />
     </Book>
     <Book Series="New X-Men" Number="127" Volume="2001" Year="2002">
-      <Id>77a3e539-85cc-471f-bc65-df24cae236a9</Id>
+      <Database Name="cv" Series="9121" Issue="78331" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="408" Volume="1981" Year="2002">
-      <Id>37703d59-14fc-44df-88f8-f0ec864d6d01</Id>
+      <Database Name="cv" Series="3092" Issue="105598" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="409" Volume="1981" Year="2002">
-      <Id>0a953dec-7ef2-479e-9fb5-cdb40dff5028</Id>
+      <Database Name="cv" Series="3092" Issue="105600" />
     </Book>
     <Book Series="X-Men Unlimited" Number="35" Volume="1993" Year="2002">
-      <Id>ec4f1f24-76be-4e26-9888-0ae1bce19f69</Id>
+      <Database Name="cv" Series="5066" Issue="113918" />
     </Book>
     <Book Series="X-Men Unlimited" Number="36" Volume="1993" Year="2002">
-      <Id>a74d44de-2897-4f8b-9801-6346650c5176</Id>
+      <Database Name="cv" Series="5066" Issue="113919" />
     </Book>
     <Book Series="X-Treme X-Men" Number="19" Volume="2001" Year="2002">
-      <Id>9977d04c-93b5-4530-81cb-d5a1063d1ae9</Id>
+      <Database Name="cv" Series="9411" Issue="106074" />
     </Book>
     <Book Series="New X-Men" Number="128" Volume="2001" Year="2002">
-      <Id>1573c90c-9313-4827-937b-177801f0f75e</Id>
+      <Database Name="cv" Series="9121" Issue="80585" />
     </Book>
     <Book Series="New X-Men" Number="129" Volume="2001" Year="2002">
-      <Id>0b83759f-a666-4b01-a568-51208a5e6078</Id>
+      <Database Name="cv" Series="9121" Issue="106089" />
     </Book>
     <Book Series="New X-Men" Number="130" Volume="2001" Year="2002">
-      <Id>74d4f2b6-e10b-4f0c-93a2-913f4c84152c</Id>
+      <Database Name="cv" Series="9121" Issue="106112" />
     </Book>
     <Book Series="New X-Men" Number="131" Volume="2001" Year="2002">
-      <Id>de3ab49b-d853-4fe1-b115-6b3fa8103a8c</Id>
+      <Database Name="cv" Series="9121" Issue="106161" />
     </Book>
     <Book Series="New X-Men" Number="132" Volume="2001" Year="2002">
-      <Id>24d3093a-8ab9-4fe5-a9cd-0a4691b4d9dc</Id>
+      <Database Name="cv" Series="9121" Issue="106564" />
     </Book>
     <Book Series="New X-Men" Number="133" Volume="2001" Year="2002">
-      <Id>5c21551f-9de2-4eb3-bc63-5ca3e0c81a1a</Id>
+      <Database Name="cv" Series="9121" Issue="106301" />
     </Book>
     <Book Series="X-Men Unlimited" Number="37" Volume="1993" Year="2002">
-      <Id>e2cd7396-7f2e-4a9d-a324-a4498cc77e1e</Id>
+      <Database Name="cv" Series="5066" Issue="110136" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="410" Volume="1981" Year="2002">
-      <Id>a3127f25-a8ff-4cbf-9845-f332eb7310ff</Id>
+      <Database Name="cv" Series="3092" Issue="105615" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="411" Volume="1981" Year="2002">
-      <Id>2e0b7d26-209b-4d58-a08d-b7b43f711a49</Id>
+      <Database Name="cv" Series="3092" Issue="105616" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="412" Volume="1981" Year="2002">
-      <Id>0a9cbea4-5c53-4edc-842f-0399544f4f8c</Id>
+      <Database Name="cv" Series="3092" Issue="105325" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="413" Volume="1981" Year="2002">
-      <Id>ad219bec-9f80-4b2a-9f39-e2a4ab095717</Id>
+      <Database Name="cv" Series="3092" Issue="107447" />
     </Book>
     <Book Series="Chamber" Number="1" Volume="2002" Year="2002">
-      <Id>108ffab0-a6de-48ad-ac03-894508aebafb</Id>
+      <Database Name="cv" Series="9459" Issue="77754" />
     </Book>
     <Book Series="Chamber" Number="2" Volume="2002" Year="2002">
-      <Id>f40e9b02-ab4f-4b1b-826e-826b39133b47</Id>
+      <Database Name="cv" Series="9459" Issue="77755" />
     </Book>
     <Book Series="Chamber" Number="3" Volume="2002" Year="2002">
-      <Id>9e01bf60-74e6-40a8-b3af-d88bb7cbb2ee</Id>
+      <Database Name="cv" Series="9459" Issue="77756" />
     </Book>
     <Book Series="Chamber" Number="4" Volume="2002" Year="2003">
-      <Id>32b30d05-121d-4428-afe5-133c9b7da652</Id>
+      <Database Name="cv" Series="9459" Issue="77757" />
     </Book>
     <Book Series="X-Treme X-Pose" Number="1" Volume="2003" Year="2003">
-      <Id>a8707f06-b91a-4adc-86df-5fbf6a2eb55a</Id>
+      <Database Name="cv" Series="25483" Issue="150334" />
     </Book>
     <Book Series="X-Treme X-Pose" Number="2" Volume="2003" Year="2003">
-      <Id>f7aed619-7b75-414e-8eea-f0353a8c8013</Id>
+      <Database Name="cv" Series="25483" Issue="150338" />
     </Book>
     <Book Series="Wolverine" Number="179" Volume="1988" Year="2002">
-      <Id>77b146f0-dfcf-46ce-8a1b-f6d10b1971b4</Id>
+      <Database Name="cv" Series="4250" Issue="93790" />
     </Book>
     <Book Series="Wolverine" Number="180" Volume="1988" Year="2002">
-      <Id>389bcfc2-d7fa-4d75-aa7d-b4a9fe986f63</Id>
+      <Database Name="cv" Series="4250" Issue="93791" />
     </Book>
     <Book Series="Wolverine" Number="181" Volume="1988" Year="2002">
-      <Id>919e2635-52f6-406e-a647-348620219860</Id>
+      <Database Name="cv" Series="4250" Issue="93792" />
     </Book>
     <Book Series="Wolverine" Number="182" Volume="1988" Year="2002">
-      <Id>89e994cf-fb93-4977-9649-9c23669abee9</Id>
+      <Database Name="cv" Series="4250" Issue="93793" />
     </Book>
     <Book Series="Wolverine" Number="183" Volume="1988" Year="2003">
-      <Id>ca13c8a9-43ba-431f-acc3-415948a2624b</Id>
+      <Database Name="cv" Series="4250" Issue="93794" />
     </Book>
     <Book Series="Wolverine" Number="184" Volume="1988" Year="2003">
-      <Id>d82065af-269e-4812-aa3e-33ed0052c23f</Id>
+      <Database Name="cv" Series="4250" Issue="93795" />
     </Book>
     <Book Series="Wolverine" Number="185" Volume="1988" Year="2003">
-      <Id>dfb7326f-59e2-4bdf-b55f-b97dc188060b</Id>
+      <Database Name="cv" Series="4250" Issue="93796" />
     </Book>
     <Book Series="X-Men Unlimited" Number="38" Volume="1993" Year="2002">
-      <Id>dbcc3f6e-9a3f-472d-be76-6c70464f44f4</Id>
+      <Database Name="cv" Series="5066" Issue="113917" />
     </Book>
     <Book Series="Mekanix" Number="1" Volume="2002" Year="2002">
-      <Id>3c39802b-1819-4ee1-98ca-bf78095f49d2</Id>
+      <Database Name="cv" Series="18131" Issue="106214" />
     </Book>
     <Book Series="Mekanix" Number="2" Volume="2002" Year="2003">
-      <Id>d86d157b-06bd-4fad-804b-581d11e0aeae</Id>
+      <Database Name="cv" Series="18131" Issue="106262" />
     </Book>
     <Book Series="Mekanix" Number="3" Volume="2002" Year="2003">
-      <Id>1ee204ef-c54c-4409-8628-a03ce77dca6d</Id>
+      <Database Name="cv" Series="18131" Issue="106263" />
     </Book>
     <Book Series="Mekanix" Number="4" Volume="2002" Year="2003">
-      <Id>2ab73faf-5534-4821-a463-b070f5fb9cad</Id>
+      <Database Name="cv" Series="18131" Issue="106264" />
     </Book>
     <Book Series="Mekanix" Number="5" Volume="2002" Year="2003">
-      <Id>596e3d40-54ae-4de6-8e84-f7219c6a012c</Id>
+      <Database Name="cv" Series="18131" Issue="106265" />
     </Book>
     <Book Series="Mekanix" Number="6" Volume="2002" Year="2003">
-      <Id>9224c9eb-2508-4c17-9063-29f26db9647f</Id>
+      <Database Name="cv" Series="18131" Issue="106266" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="414" Volume="1981" Year="2002">
-      <Id>49c8d42f-ef79-4292-a7d4-b3396ad88ef2</Id>
+      <Database Name="cv" Series="3092" Issue="107753" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="415" Volume="1981" Year="2003">
-      <Id>0fc9052a-920d-4721-ad10-48f6e5dd0924</Id>
+      <Database Name="cv" Series="3092" Issue="107764" />
     </Book>
     <Book Series="X-Men Unlimited" Number="39" Volume="1993" Year="2003">
-      <Id>a6ef0983-735a-4cb1-8d7b-8bef80f6f41f</Id>
+      <Database Name="cv" Series="5066" Issue="113916" />
     </Book>
     <Book Series="X-Men Unlimited" Number="40" Volume="1993" Year="2003">
-      <Id>4b0b1105-d981-48c1-80a1-3756416bde78</Id>
+      <Database Name="cv" Series="5066" Issue="113920" />
     </Book>
     <Book Series="X-Men Unlimited" Number="41" Volume="1993" Year="2003">
-      <Id>5bb000ce-fadb-4017-bd69-fe98aa5d0d76</Id>
+      <Database Name="cv" Series="5066" Issue="108322" />
     </Book>
     <Book Series="X-Men Unlimited" Number="42" Volume="1993" Year="2003">
-      <Id>2d7ee8f5-c378-4439-aa70-acba7e31daa5</Id>
+      <Database Name="cv" Series="5066" Issue="113921" />
     </Book>
     <Book Series="Soldier X" Number="1" Volume="2002" Year="2002">
-      <Id>c2318aa6-b5c5-4d50-93c3-0f941f837e55</Id>
+      <Database Name="cv" Series="9959" Issue="136024" />
     </Book>
     <Book Series="Soldier X" Number="2" Volume="2002" Year="2002">
-      <Id>12352ccf-58f7-4b1b-b718-90bb56038534</Id>
+      <Database Name="cv" Series="9959" Issue="136031" />
     </Book>
     <Book Series="Soldier X" Number="3" Volume="2002" Year="2002">
-      <Id>6cc734fb-3cab-43ed-851a-841829abc209</Id>
+      <Database Name="cv" Series="9959" Issue="136035" />
     </Book>
     <Book Series="Soldier X" Number="4" Volume="2002" Year="2002">
-      <Id>2193b3ac-a251-4548-9f4b-cf2158eb75ee</Id>
+      <Database Name="cv" Series="9959" Issue="136036" />
     </Book>
     <Book Series="Soldier X" Number="5" Volume="2002" Year="2003">
-      <Id>01ce5cd3-f628-4ade-9617-a741711b5e15</Id>
+      <Database Name="cv" Series="9959" Issue="136037" />
     </Book>
     <Book Series="Soldier X" Number="6" Volume="2002" Year="2003">
-      <Id>e363dfb9-5b88-49fa-b3bd-fbc4a8763ce1</Id>
+      <Database Name="cv" Series="9959" Issue="136038" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="416" Volume="1981" Year="2003">
-      <Id>473d6374-f269-4ed1-899d-c065e2b90953</Id>
+      <Database Name="cv" Series="3092" Issue="108232" />
     </Book>
     <Book Series="New X-Men" Number="134" Volume="2001" Year="2003">
-      <Id>850892f5-38c0-4f47-b41b-d7a6fa5623a5</Id>
+      <Database Name="cv" Series="9121" Issue="106499" />
     </Book>
     <Book Series="Wolverine" Number="186" Volume="1988" Year="2003">
-      <Id>83a57520-8885-446d-a711-e92fe089b5ec</Id>
+      <Database Name="cv" Series="4250" Issue="93797" />
     </Book>
     <Book Series="Soldier X" Number="7" Volume="2002" Year="2003">
-      <Id>d91761f6-638b-47ec-8bec-27a524772b4f</Id>
+      <Database Name="cv" Series="9959" Issue="136039" />
     </Book>
     <Book Series="Soldier X" Number="8" Volume="2002" Year="2003">
-      <Id>23538d34-1132-4670-98c3-ec507c830d1d</Id>
+      <Database Name="cv" Series="9959" Issue="136040" />
     </Book>
     <Book Series="X-Men Unlimited" Number="43" Volume="1993" Year="2003">
-      <Id>c2f86794-7750-489c-a22f-80c66a75ac8d</Id>
+      <Database Name="cv" Series="5066" Issue="90015" />
     </Book>
     <Book Series="X-Men Unlimited" Number="44" Volume="1993" Year="2003">
-      <Id>d4b800a0-24b3-410b-bef0-25e976ae5daf</Id>
+      <Database Name="cv" Series="5066" Issue="90016" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="417" Volume="1981" Year="2003">
-      <Id>b930ddbe-3fb8-45e9-8b6e-01eca92c0891</Id>
+      <Database Name="cv" Series="3092" Issue="105314" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="418" Volume="1981" Year="2003">
-      <Id>2db7b9f0-56d0-4b90-91e6-98098b009478</Id>
+      <Database Name="cv" Series="3092" Issue="105315" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="419" Volume="1981" Year="2003">
-      <Id>0f0ff33d-67a2-43fa-a336-0acc86e42a64</Id>
+      <Database Name="cv" Series="3092" Issue="105316" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="420" Volume="1981" Year="2003">
-      <Id>e3d86a22-3050-468a-a890-8de83d0a7c45</Id>
+      <Database Name="cv" Series="3092" Issue="105317" />
     </Book>
     <Book Series="Wolverine" Number="187" Volume="1988" Year="2003">
-      <Id>379ba03b-cfad-4229-ad52-18c1083b0f8f</Id>
+      <Database Name="cv" Series="4250" Issue="93798" />
     </Book>
     <Book Series="X-Treme X-Men" Number="20" Volume="2001" Year="2003">
-      <Id>5c4d3ef0-c554-4509-bb97-2a145c84d5bc</Id>
+      <Database Name="cv" Series="9411" Issue="106084" />
     </Book>
     <Book Series="X-Treme X-Men" Number="21" Volume="2001" Year="2003">
-      <Id>633ef17d-b4b5-4006-9949-74e869d0846e</Id>
+      <Database Name="cv" Series="9411" Issue="106125" />
     </Book>
     <Book Series="X-Treme X-Men" Number="22" Volume="2001" Year="2003">
-      <Id>708ade2e-dc74-4508-984a-2e6368e4f08c</Id>
+      <Database Name="cv" Series="9411" Issue="106162" />
     </Book>
     <Book Series="X-Treme X-Men" Number="23" Volume="2001" Year="2003">
-      <Id>67292e8a-b3ae-4bb5-acd5-4b0593a188bc</Id>
+      <Database Name="cv" Series="9411" Issue="106163" />
     </Book>
     <Book Series="Soldier X" Number="9" Volume="2002" Year="2003">
-      <Id>7919f6b5-c826-4011-9443-4f9c693ec67a</Id>
+      <Database Name="cv" Series="9959" Issue="90005" />
     </Book>
     <Book Series="Soldier X" Number="10" Volume="2002" Year="2003">
-      <Id>06a2508c-f16a-4c25-82d0-97f2870afaeb</Id>
+      <Database Name="cv" Series="9959" Issue="90006" />
     </Book>
     <Book Series="X-Men Unlimited" Number="45" Volume="1993" Year="2003">
-      <Id>b7ba4c29-dc35-489f-ac7d-3b5247658fca</Id>
+      <Database Name="cv" Series="5066" Issue="90017" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="421" Volume="1981" Year="2003">
-      <Id>c9a208a6-dd01-49f8-b8e5-aa7bc81332ad</Id>
+      <Database Name="cv" Series="3092" Issue="108246" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="422" Volume="1981" Year="2003">
-      <Id>93055ff5-f08f-49d7-8910-1199328b2168</Id>
+      <Database Name="cv" Series="3092" Issue="113233" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="423" Volume="1981" Year="2003">
-      <Id>d3df1a97-5790-42e1-99ae-453dcc0e5888</Id>
+      <Database Name="cv" Series="3092" Issue="113235" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="424" Volume="1981" Year="2003">
-      <Id>0d11e901-3e8e-4acf-b854-77a0fd59aea0</Id>
+      <Database Name="cv" Series="3092" Issue="113701" />
     </Book>
     <Book Series="New X-Men" Number="135" Volume="2001" Year="2003">
-      <Id>d47a3fcd-2e79-4ed7-ab4e-1956344670b6</Id>
+      <Database Name="cv" Series="9121" Issue="112536" />
     </Book>
     <Book Series="New X-Men" Number="136" Volume="2001" Year="2003">
-      <Id>6d9be846-5735-41a4-81c7-336b651b1eb3</Id>
+      <Database Name="cv" Series="9121" Issue="114332" />
     </Book>
     <Book Series="New X-Men" Number="137" Volume="2001" Year="2003">
-      <Id>f5722cf4-22ff-442e-9727-2af3af0e5d30</Id>
+      <Database Name="cv" Series="9121" Issue="114333" />
     </Book>
     <Book Series="New X-Men" Number="138" Volume="2001" Year="2003">
-      <Id>94204db3-b2e4-4422-9da1-459b1ddae284</Id>
+      <Database Name="cv" Series="9121" Issue="114334" />
     </Book>
     <Book Series="Wolverine" Number="188" Volume="1988" Year="2003">
-      <Id>e3577d0a-935e-4af0-9be6-08d07102e4ab</Id>
+      <Database Name="cv" Series="4250" Issue="93799" />
     </Book>
     <Book Series="Wolverine" Number="189" Volume="1988" Year="2003">
-      <Id>21166d9c-c63b-4e61-abcb-c3915360e4cd</Id>
+      <Database Name="cv" Series="4250" Issue="93800" />
     </Book>
     <Book Series="X-Treme X-Men" Number="24" Volume="2001" Year="2003">
-      <Id>6470b82d-a057-4a62-bd34-89b62655ee30</Id>
+      <Database Name="cv" Series="9411" Issue="106164" />
     </Book>
     <Book Series="Soldier X" Number="11" Volume="2002" Year="2003">
-      <Id>21731f46-8d06-404d-957c-0b38382803ff</Id>
+      <Database Name="cv" Series="9959" Issue="90007" />
     </Book>
     <Book Series="Soldier X" Number="12" Volume="2002" Year="2003">
-      <Id>05bc140f-402f-4f47-84a2-8b647da5c9c3</Id>
+      <Database Name="cv" Series="9959" Issue="90008" />
     </Book>
     <Book Series="New X-Men" Number="139" Volume="2001" Year="2003">
-      <Id>ef43d7c9-a6ea-4845-8032-2d5371fc498d</Id>
+      <Database Name="cv" Series="9121" Issue="114335" />
     </Book>
     <Book Series="New X-Men" Number="140" Volume="2001" Year="2003">
-      <Id>32f3e0bd-063d-4b9f-b7f8-cfb8b702af32</Id>
+      <Database Name="cv" Series="9121" Issue="114336" />
     </Book>
     <Book Series="New X-Men" Number="141" Volume="2001" Year="2003">
-      <Id>2ff96764-31b6-485e-b74d-0864257cd721</Id>
+      <Database Name="cv" Series="9121" Issue="114456" />
     </Book>
     <Book Series="X-Treme X-Men" Number="25" Volume="2001" Year="2003">
-      <Id>39d73f08-c75e-4145-b167-1d4390cb3e1b</Id>
+      <Database Name="cv" Series="9411" Issue="106165" />
     </Book>
     <Book Series="X-Treme X-Men" Number="26" Volume="2001" Year="2003">
-      <Id>fc7d927d-261d-48a2-ae4d-2d57b40e9286</Id>
+      <Database Name="cv" Series="9411" Issue="106179" />
     </Book>
     <Book Series="X-Treme X-Men" Number="27" Volume="2001" Year="2003">
-      <Id>0d5181ed-a0be-432e-8b9b-b7f3342658f5</Id>
+      <Database Name="cv" Series="9411" Issue="106180" />
     </Book>
     <Book Series="X-Treme X-Men" Number="28" Volume="2001" Year="2003">
-      <Id>53405467-5e10-4844-a684-80b4b3f03fc6</Id>
+      <Database Name="cv" Series="9411" Issue="106181" />
     </Book>
     <Book Series="X-Treme X-Men" Number="29" Volume="2001" Year="2003">
-      <Id>1e1f3a79-b6ad-4304-b1c6-f61c8a94115f</Id>
+      <Database Name="cv" Series="9411" Issue="106182" />
     </Book>
     <Book Series="X-Treme X-Men" Number="30" Volume="2001" Year="2003">
-      <Id>44533dfb-ab8a-4dbf-a623-18a3d75b7fac</Id>
+      <Database Name="cv" Series="9411" Issue="106222" />
     </Book>
     <Book Series="New Mutants" Number="1" Volume="2003" Year="2003">
-      <Id>3575d15f-86d3-4f4d-82d0-8cdb71b4165a</Id>
+      <Database Name="cv" Series="18351" Issue="107614" />
     </Book>
     <Book Series="New Mutants" Number="2" Volume="2003" Year="2003">
-      <Id>dc57d59f-b22e-4261-a996-aa79b2e51cd2</Id>
+      <Database Name="cv" Series="18351" Issue="107647" />
     </Book>
     <Book Series="New Mutants" Number="3" Volume="2003" Year="2003">
-      <Id>d67846d2-6ff4-4beb-a00a-62a7c1f1e76b</Id>
+      <Database Name="cv" Series="18351" Issue="107652" />
     </Book>
     <Book Series="New Mutants" Number="4" Volume="2003" Year="2003">
-      <Id>ba69e708-f947-4a67-9179-cc300026a32e</Id>
+      <Database Name="cv" Series="18351" Issue="107650" />
     </Book>
     <Book Series="New Mutants" Number="5" Volume="2003" Year="2003">
-      <Id>76861131-0a0f-4cc8-a597-10852521e4c2</Id>
+      <Database Name="cv" Series="18351" Issue="107651" />
     </Book>
     <Book Series="New Mutants" Number="6" Volume="2003" Year="2003">
-      <Id>3f330a9e-7200-4ba4-a38b-14c7caec1fc2</Id>
+      <Database Name="cv" Series="18351" Issue="108406" />
     </Book>
     <Book Series="X-Men Unlimited" Number="46" Volume="1993" Year="2003">
-      <Id>616498db-6e0f-4ba3-9f60-095f4765b1ab</Id>
+      <Database Name="cv" Series="5066" Issue="90018" />
     </Book>
     <Book Series="X-Men Unlimited" Number="47" Volume="1993" Year="2003">
-      <Id>11b33db7-8fec-47d1-90cb-aaaff5903243</Id>
+      <Database Name="cv" Series="5066" Issue="90019" />
     </Book>
     <Book Series="X-Men Unlimited" Number="48" Volume="1993" Year="2003">
-      <Id>85c84bbd-c607-4d43-bf37-5de801828578</Id>
+      <Database Name="cv" Series="5066" Issue="90020" />
     </Book>
     <Book Series="Mystique" Number="1" Volume="2003" Year="2003">
-      <Id>9dcac323-9c64-462b-921f-41b3a9330742</Id>
+      <Database Name="cv" Series="11391" Issue="99863" />
     </Book>
     <Book Series="Mystique" Number="2" Volume="2003" Year="2003">
-      <Id>29f35600-be10-416e-9f81-af4b7fdad152</Id>
+      <Database Name="cv" Series="11391" Issue="99864" />
     </Book>
     <Book Series="Mystique" Number="3" Volume="2003" Year="2003">
-      <Id>d18baa08-c46c-4aa3-ae93-a6d068d3a25a</Id>
+      <Database Name="cv" Series="11391" Issue="99865" />
     </Book>
     <Book Series="Mystique" Number="4" Volume="2003" Year="2003">
-      <Id>e7b9ec26-859d-463a-80f0-6ae3dab5c0a0</Id>
+      <Database Name="cv" Series="11391" Issue="99866" />
     </Book>
     <Book Series="Mystique" Number="5" Volume="2003" Year="2003">
-      <Id>1289f830-8867-4065-b823-f823e087d07e</Id>
+      <Database Name="cv" Series="11391" Issue="99867" />
     </Book>
     <Book Series="Mystique" Number="6" Volume="2003" Year="2003">
-      <Id>befc02c7-97ae-48c5-a14d-6dbc50d7d5ea</Id>
+      <Database Name="cv" Series="11391" Issue="99868" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="425" Volume="1981" Year="2003">
-      <Id>f84ce6cf-1346-4ef6-a862-4fb59442ffd2</Id>
+      <Database Name="cv" Series="3092" Issue="114860" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="426" Volume="1981" Year="2003">
-      <Id>df4a2c7b-45fb-4ee0-85e0-fb5ac271ec96</Id>
+      <Database Name="cv" Series="3092" Issue="114898" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="427" Volume="1981" Year="2003">
-      <Id>f9b3904b-9af2-4378-a5f8-347b5f766288</Id>
+      <Database Name="cv" Series="3092" Issue="114899" />
     </Book>
     <Book Series="X-Men Unlimited" Number="49" Volume="1993" Year="2003">
-      <Id>ed934bf0-6c74-450e-8df4-c5570cfcc12c</Id>
+      <Database Name="cv" Series="5066" Issue="90021" />
     </Book>
     <Book Series="X-Men Unlimited" Number="50" Volume="1993" Year="2003">
-      <Id>596519b6-29fa-4ac0-9577-65401998f376</Id>
+      <Database Name="cv" Series="5066" Issue="90022" />
     </Book>
     <Book Series="Emma Frost" Number="1" Volume="2003" Year="2003">
-      <Id>ac47d138-e52e-4d69-8969-be73db03499d</Id>
+      <Database Name="cv" Series="18014" Issue="105439" />
     </Book>
     <Book Series="Emma Frost" Number="2" Volume="2003" Year="2003">
-      <Id>9ee034b4-004c-4b9a-b6c2-c6c2abbd0443</Id>
+      <Database Name="cv" Series="18014" Issue="107660" />
     </Book>
     <Book Series="Emma Frost" Number="3" Volume="2003" Year="2003">
-      <Id>f477913e-8f89-43c2-8f0d-b6576e8f118f</Id>
+      <Database Name="cv" Series="18014" Issue="107661" />
     </Book>
     <Book Series="Emma Frost" Number="4" Volume="2003" Year="2003">
-      <Id>609d363a-4557-426f-a1d9-738417f4618f</Id>
+      <Database Name="cv" Series="18014" Issue="107662" />
     </Book>
     <Book Series="Emma Frost" Number="5" Volume="2003" Year="2004">
-      <Id>257e9ac2-dc49-456a-ba6e-53853de84591</Id>
+      <Database Name="cv" Series="18014" Issue="107663" />
     </Book>
     <Book Series="Emma Frost" Number="6" Volume="2003" Year="2004">
-      <Id>ce33d0f9-0110-4e25-aec5-86be7a61b05a</Id>
+      <Database Name="cv" Series="18014" Issue="107664" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="428" Volume="1981" Year="2003">
-      <Id>1d7d25ee-74d9-40c9-ad7c-a57eea1b8202</Id>
+      <Database Name="cv" Series="3092" Issue="105326" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="429" Volume="1981" Year="2003">
-      <Id>19efab09-2279-41db-abaa-fc9af493d913</Id>
+      <Database Name="cv" Series="3092" Issue="105327" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="430" Volume="1981" Year="2003">
-      <Id>e0407ec7-06ce-4b0d-90c4-ef04f5f5cb4c</Id>
+      <Database Name="cv" Series="3092" Issue="105328" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="431" Volume="1981" Year="2003">
-      <Id>8430f1bc-dadc-4f09-936c-cb28171dd158</Id>
+      <Database Name="cv" Series="3092" Issue="105329" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="432" Volume="1981" Year="2003">
-      <Id>85b192c0-c391-4055-baff-ef6ef9c2dca4</Id>
+      <Database Name="cv" Series="3092" Issue="105330" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="433" Volume="1981" Year="2004">
-      <Id>48190d97-1ec2-409a-b75f-b8ebba485729</Id>
+      <Database Name="cv" Series="3092" Issue="105331" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="434" Volume="1981" Year="2004">
-      <Id>8cf86880-c3cd-4323-a04c-c74715c434a9</Id>
-    </Book>
-    <Book Series="Wolverine" Number="0" Volume="2003" Year="2003">
-      <Id>073e2700-3460-4f68-b732-dc554062932a</Id>
+      <Database Name="cv" Series="3092" Issue="105332" />
     </Book>
     <Book Series="Wolverine" Number="1" Volume="2003" Year="2003">
-      <Id>a672a827-8956-4ce6-8ab2-4cc480584f3b</Id>
+      <Database Name="cv" Series="10809" Issue="92137" />
     </Book>
     <Book Series="Wolverine" Number="2" Volume="2003" Year="2003">
-      <Id>1c4cafbf-ca61-4559-991c-6c374b67cd58</Id>
+      <Database Name="cv" Series="10809" Issue="92138" />
     </Book>
     <Book Series="Wolverine" Number="3" Volume="2003" Year="2003">
-      <Id>43966b3e-8871-46cf-bcc4-5c5827265b8a</Id>
+      <Database Name="cv" Series="10809" Issue="92139" />
     </Book>
     <Book Series="Wolverine" Number="4" Volume="2003" Year="2003">
-      <Id>c482bc2c-8960-47ed-8cae-90d11269c16b</Id>
+      <Database Name="cv" Series="10809" Issue="92140" />
     </Book>
     <Book Series="Wolverine" Number="5" Volume="2003" Year="2003">
-      <Id>495f3abd-c5c8-49b8-b59f-7be1ba8e474f</Id>
+      <Database Name="cv" Series="10809" Issue="92141" />
     </Book>
     <Book Series="Wolverine" Number="6" Volume="2003" Year="2003">
-      <Id>ca1d16d0-b240-48fd-b3be-e28dd0fc3521</Id>
+      <Database Name="cv" Series="10809" Issue="92142" />
     </Book>
     <Book Series="New Mutants" Number="7" Volume="2003" Year="2004">
-      <Id>5c4ae3b3-ab33-447c-b9b0-b479e3e63542</Id>
+      <Database Name="cv" Series="18351" Issue="108407" />
     </Book>
     <Book Series="New Mutants" Number="8" Volume="2003" Year="2004">
-      <Id>91cdcf83-64e8-47e7-8a35-57219b95d657</Id>
+      <Database Name="cv" Series="18351" Issue="108408" />
     </Book>
     <Book Series="New Mutants" Number="9" Volume="2003" Year="2004">
-      <Id>1c144e92-5f10-4df0-b681-b51e54a3c848</Id>
+      <Database Name="cv" Series="18351" Issue="108409" />
     </Book>
     <Book Series="New Mutants" Number="10" Volume="2003" Year="2004">
-      <Id>64ece120-c823-405f-ae25-028c7416be29</Id>
+      <Database Name="cv" Series="18351" Issue="108410" />
     </Book>
     <Book Series="New Mutants" Number="11" Volume="2003" Year="2004">
-      <Id>97c34de0-67ab-4641-8ccd-1a94eca2a45c</Id>
+      <Database Name="cv" Series="18351" Issue="108411" />
     </Book>
     <Book Series="New Mutants" Number="12" Volume="2003" Year="2004">
-      <Id>d87d22d7-f99e-49b4-9d78-411e5acc74a4</Id>
+      <Database Name="cv" Series="18351" Issue="108412" />
     </Book>
     <Book Series="X-Treme X-Men" Number="31" Volume="2001" Year="2003">
-      <Id>73724f9a-e027-49b3-9f76-1dfc4b21b03c</Id>
+      <Database Name="cv" Series="9411" Issue="106228" />
     </Book>
     <Book Series="X-Treme X-Men" Number="32" Volume="2001" Year="2003">
-      <Id>9b89aeb0-08a7-43ca-a34a-9f1aca0f7cdf</Id>
+      <Database Name="cv" Series="9411" Issue="106269" />
     </Book>
     <Book Series="X-Treme X-Men" Number="33" Volume="2001" Year="2003">
-      <Id>535d6b33-a82c-4486-b171-9f86970b10b3</Id>
+      <Database Name="cv" Series="9411" Issue="106299" />
     </Book>
     <Book Series="X-Treme X-Men" Number="34" Volume="2001" Year="2004">
-      <Id>50ba64a8-26ee-46d4-807c-faba0742c20d</Id>
+      <Database Name="cv" Series="9411" Issue="106305" />
     </Book>
     <Book Series="X-Treme X-Men" Number="35" Volume="2001" Year="2004">
-      <Id>aca8b2fc-bd67-4776-8bc9-f10d819acd0c</Id>
+      <Database Name="cv" Series="9411" Issue="106347" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="435" Volume="1981" Year="2004">
-      <Id>61ff31ff-dd4e-4890-b86f-4c45efb6e7f6</Id>
+      <Database Name="cv" Series="3092" Issue="107775" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="436" Volume="1981" Year="2004">
-      <Id>6440ac98-f669-466a-b260-604ecfcf3787</Id>
+      <Database Name="cv" Series="3092" Issue="107776" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="437" Volume="1981" Year="2004">
-      <Id>837165a4-a76d-4a9f-97b7-d300ab44ecd2</Id>
+      <Database Name="cv" Series="3092" Issue="112326" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="438" Volume="1981" Year="2004">
-      <Id>5360ca19-00ff-49df-a9b1-393dd506bc45</Id>
+      <Database Name="cv" Series="3092" Issue="112327" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="439" Volume="1981" Year="2004">
-      <Id>42dae2ef-9c10-40af-9882-95ddf6b67dd8</Id>
+      <Database Name="cv" Series="3092" Issue="113375" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="440" Volume="1981" Year="2004">
-      <Id>2b016aaf-8d1a-44ea-9209-e7e517b877f9</Id>
+      <Database Name="cv" Series="3092" Issue="105557" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="441" Volume="1981" Year="2004">
-      <Id>9ad97c9c-cc94-4f16-83a7-36990928fbfc</Id>
+      <Database Name="cv" Series="3092" Issue="105558" />
     </Book>
     <Book Series="Mystique" Number="7" Volume="2003" Year="2003">
-      <Id>b9187a06-3a3e-4aeb-85d6-a15a74337220</Id>
+      <Database Name="cv" Series="11391" Issue="99869" />
     </Book>
     <Book Series="Mystique" Number="8" Volume="2003" Year="2004">
-      <Id>05b4455b-26bd-4ce5-945a-5059cb0f4f2f</Id>
+      <Database Name="cv" Series="11391" Issue="99870" />
     </Book>
     <Book Series="Mystique" Number="9" Volume="2003" Year="2004">
-      <Id>6d227ece-3d43-48dd-83c4-c48a92e8029e</Id>
+      <Database Name="cv" Series="11391" Issue="99871" />
     </Book>
     <Book Series="Mystique" Number="10" Volume="2003" Year="2004">
-      <Id>ac0b7292-3490-4417-b3a9-556afe696536</Id>
+      <Database Name="cv" Series="11391" Issue="99872" />
     </Book>
     <Book Series="Mystique" Number="11" Volume="2003" Year="2004">
-      <Id>7521e714-9a9e-4190-b9ec-098eb955dd7d</Id>
+      <Database Name="cv" Series="11391" Issue="99873" />
     </Book>
     <Book Series="Mystique" Number="12" Volume="2003" Year="2004">
-      <Id>5b6e16e8-f9fa-4881-a841-2b7bdc0a9203</Id>
+      <Database Name="cv" Series="11391" Issue="99874" />
     </Book>
     <Book Series="Mystique" Number="13" Volume="2003" Year="2004">
-      <Id>46d91d4e-eea0-4fe9-bf49-f4e2d9c81491</Id>
+      <Database Name="cv" Series="11391" Issue="99875" />
     </Book>
     <Book Series="X-Treme X-Men" Number="36" Volume="2001" Year="2004">
-      <Id>5f5c9384-a02f-4fbe-8c55-10595dd0dc86</Id>
+      <Database Name="cv" Series="9411" Issue="106351" />
     </Book>
     <Book Series="X-Treme X-Men" Number="37" Volume="2001" Year="2004">
-      <Id>38bbdf47-6c48-4e5e-ae26-5476000183fc</Id>
+      <Database Name="cv" Series="9411" Issue="106354" />
     </Book>
     <Book Series="X-Treme X-Men" Number="38" Volume="2001" Year="2004">
-      <Id>5352f48f-7e7a-4bfe-9653-ce869f708ae2</Id>
+      <Database Name="cv" Series="9411" Issue="106368" />
     </Book>
     <Book Series="X-Treme X-Men" Number="39" Volume="2001" Year="2004">
-      <Id>4d7d5b6f-094b-4f07-a031-f45bd4dcc879</Id>
+      <Database Name="cv" Series="9411" Issue="106369" />
     </Book>
     <Book Series="Wolverine" Number="7" Volume="2003" Year="2004">
-      <Id>5c73c59b-168c-4a11-9a76-d5277d0c2fcb</Id>
+      <Database Name="cv" Series="10809" Issue="92143" />
     </Book>
     <Book Series="Wolverine" Number="8" Volume="2003" Year="2004">
-      <Id>68b11f22-610d-47fb-8e71-8dac03e735bf</Id>
+      <Database Name="cv" Series="10809" Issue="92144" />
     </Book>
     <Book Series="Wolverine" Number="9" Volume="2003" Year="2004">
-      <Id>0074bc43-7039-4b3f-b666-28a712adabfc</Id>
+      <Database Name="cv" Series="10809" Issue="92145" />
     </Book>
     <Book Series="Wolverine" Number="10" Volume="2003" Year="2004">
-      <Id>a53fc0a0-3ea0-4324-81d8-cc9dc4800b27</Id>
+      <Database Name="cv" Series="10809" Issue="92146" />
     </Book>
     <Book Series="Wolverine" Number="11" Volume="2003" Year="2004">
-      <Id>d43e8513-cf78-4c9f-b6dd-ea8960b11b4a</Id>
+      <Database Name="cv" Series="10809" Issue="92147" />
     </Book>
     <Book Series="Wolverine" Number="12" Volume="2003" Year="2004">
-      <Id>37f0d700-a81f-42a9-b843-a08df02eebfe</Id>
+      <Database Name="cv" Series="10809" Issue="92148" />
     </Book>
     <Book Series="X-Men Unlimited" Number="1" Volume="2004" Year="2004">
-      <Id>495369b1-bdb1-419c-9d64-a284f9f03e7a</Id>
+      <Database Name="cv" Series="10745" Issue="90577" />
     </Book>
-    <Book Series="Cable &amp; Deadpool" Number="1" Volume="2004" Year="2004">
-      <Id>c4e71850-f50e-412b-9212-747e8a164817</Id>
+    <Book Series="Cable &#38; Deadpool" Number="1" Volume="2004" Year="2004">
+      <Database Name="cv" Series="18070" Issue="105801" />
     </Book>
-    <Book Series="Cable &amp; Deadpool" Number="2" Volume="2004" Year="2004">
-      <Id>dbb7f404-6c57-4219-9497-090cf0a1827e</Id>
+    <Book Series="Cable &#38; Deadpool" Number="2" Volume="2004" Year="2004">
+      <Database Name="cv" Series="18070" Issue="105828" />
     </Book>
-    <Book Series="Cable &amp; Deadpool" Number="3" Volume="2004" Year="2004">
-      <Id>713593e3-ad61-4f3d-8f7d-b70c8d34f93c</Id>
+    <Book Series="Cable &#38; Deadpool" Number="3" Volume="2004" Year="2004">
+      <Database Name="cv" Series="18070" Issue="105829" />
     </Book>
-    <Book Series="Cable &amp; Deadpool" Number="4" Volume="2004" Year="2004">
-      <Id>d953830f-a036-4041-bcd5-c166d31fc45c</Id>
+    <Book Series="Cable &#38; Deadpool" Number="4" Volume="2004" Year="2004">
+      <Database Name="cv" Series="18070" Issue="105831" />
     </Book>
-    <Book Series="Cable &amp; Deadpool" Number="5" Volume="2004" Year="2004">
-      <Id>f5193b81-0860-4b9f-ba03-7e2825a08a19</Id>
+    <Book Series="Cable &#38; Deadpool" Number="5" Volume="2004" Year="2004">
+      <Database Name="cv" Series="18070" Issue="105830" />
     </Book>
-    <Book Series="Cable &amp; Deadpool" Number="6" Volume="2004" Year="2004">
-      <Id>68eac69c-00f1-46d9-a772-449bc3995ce4</Id>
+    <Book Series="Cable &#38; Deadpool" Number="6" Volume="2004" Year="2004">
+      <Database Name="cv" Series="18070" Issue="105832" />
     </Book>
     <Book Series="New X-Men" Number="142" Volume="2001" Year="2003">
-      <Id>f50cc228-56e4-4380-b204-fb1f5f8ca455</Id>
+      <Database Name="cv" Series="9121" Issue="114457" />
     </Book>
     <Book Series="New X-Men" Number="143" Volume="2001" Year="2003">
-      <Id>06794df9-2e5a-4276-8152-f3b211acc68c</Id>
+      <Database Name="cv" Series="9121" Issue="114449" />
     </Book>
     <Book Series="New X-Men" Number="144" Volume="2001" Year="2003">
-      <Id>1d66868e-c4c4-40ed-80bc-c4800150db11</Id>
+      <Database Name="cv" Series="9121" Issue="114450" />
     </Book>
     <Book Series="New X-Men" Number="145" Volume="2001" Year="2003">
-      <Id>6eec12ba-143c-46e0-905c-dc3baa371c5c</Id>
+      <Database Name="cv" Series="9121" Issue="114453" />
     </Book>
     <Book Series="New X-Men" Number="146" Volume="2001" Year="2003">
-      <Id>be27149d-f279-4fe7-b38a-48a4d569dfe0</Id>
+      <Database Name="cv" Series="9121" Issue="114451" />
     </Book>
     <Book Series="New X-Men" Number="147" Volume="2001" Year="2003">
-      <Id>aefab12d-c3aa-4cdc-a121-5a7c4ea5989d</Id>
+      <Database Name="cv" Series="9121" Issue="114452" />
     </Book>
     <Book Series="New X-Men" Number="148" Volume="2001" Year="2003">
-      <Id>63a1ec55-5808-4f17-8ab0-6bb11cc33cab</Id>
+      <Database Name="cv" Series="9121" Issue="114454" />
     </Book>
     <Book Series="New X-Men" Number="149" Volume="2001" Year="2004">
-      <Id>9512fa8a-54f5-45e8-8810-bda54dbf0611</Id>
+      <Database Name="cv" Series="9121" Issue="114458" />
     </Book>
     <Book Series="New X-Men" Number="150" Volume="2001" Year="2004">
-      <Id>dd0c8022-e598-48fb-b985-374ccec04a70</Id>
+      <Database Name="cv" Series="9121" Issue="114459" />
     </Book>
     <Book Series="X-Treme X-Men" Number="40" Volume="2001" Year="2004">
-      <Id>c38342e6-d8ea-4b1b-9e61-bd9eccb1add9</Id>
+      <Database Name="cv" Series="9411" Issue="106402" />
     </Book>
     <Book Series="X-Treme X-Men" Number="41" Volume="2001" Year="2004">
-      <Id>debd34d3-51ea-4cb0-9a5a-de50fe763bbe</Id>
+      <Database Name="cv" Series="9411" Issue="106436" />
     </Book>
     <Book Series="X-Treme X-Men" Number="42" Volume="2001" Year="2004">
-      <Id>1d647620-183a-44c6-9889-af8c85e0d80e</Id>
+      <Database Name="cv" Series="9411" Issue="106441" />
     </Book>
     <Book Series="X-Treme X-Men" Number="43" Volume="2001" Year="2004">
-      <Id>ed73f106-f60c-4ff4-9f78-7ce974f322b7</Id>
+      <Database Name="cv" Series="9411" Issue="106462" />
     </Book>
     <Book Series="X-Treme X-Men" Number="44" Volume="2001" Year="2004">
-      <Id>79aa9e72-9be5-4f16-9e8b-af22e42d7b21</Id>
+      <Database Name="cv" Series="9411" Issue="106463" />
     </Book>
     <Book Series="X-Treme X-Men" Number="45" Volume="2001" Year="2004">
-      <Id>2a387fde-f44b-4a87-a5e2-44e8ef52df6e</Id>
+      <Database Name="cv" Series="9411" Issue="106464" />
     </Book>
     <Book Series="New X-Men" Number="151" Volume="2001" Year="2004">
-      <Id>6ffa92a7-81dd-4c86-9225-51088f0592e4</Id>
+      <Database Name="cv" Series="9121" Issue="106245" />
     </Book>
     <Book Series="New X-Men" Number="152" Volume="2001" Year="2004">
-      <Id>0b797651-2f2b-4060-a7f2-5a4b6611082b</Id>
+      <Database Name="cv" Series="9121" Issue="106246" />
     </Book>
     <Book Series="New X-Men" Number="153" Volume="2001" Year="2004">
-      <Id>410d5dd9-4a4b-41c9-b268-948db675245f</Id>
+      <Database Name="cv" Series="9121" Issue="106247" />
     </Book>
     <Book Series="New X-Men" Number="154" Volume="2001" Year="2004">
-      <Id>ec6bec49-2006-4935-9d6a-398a21d100ed</Id>
+      <Database Name="cv" Series="9121" Issue="106248" />
     </Book>
     <Book Series="New X-Men" Number="155" Volume="2001" Year="2004">
-      <Id>c48e9a0e-7a62-4def-bd6f-dd8db28468fb</Id>
+      <Database Name="cv" Series="9121" Issue="106437" />
     </Book>
     <Book Series="New X-Men" Number="156" Volume="2001" Year="2004">
-      <Id>6663430d-b9ef-42b7-afa1-893f995a4bf8</Id>
+      <Database Name="cv" Series="9121" Issue="106438" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="442" Volume="1981" Year="2004">
-      <Id>9acbdb6a-b89d-43f0-9729-1cc9a32b2e0d</Id>
+      <Database Name="cv" Series="3092" Issue="105559" />
     </Book>
     <Book Series="The Uncanny X-Men" Number="443" Volume="1981" Year="2004">
-      <Id>e6cd4f0f-5797-4920-8202-1d408c99e1cc</Id>
+      <Database Name="cv" Series="3092" Issue="105560" />
     </Book>
     <Book Series="New Mutants" Number="13" Volume="2003" Year="2004">
-      <Id>64a245c0-2b18-4e3a-bc1e-cd704dcc5f31</Id>
+      <Database Name="cv" Series="18351" Issue="108413" />
     </Book>
     <Book Series="X-Treme X-Men" Number="46" Volume="2001" Year="2004">
-      <Id>477c5510-06fd-4bba-8173-a0e17d5bf10b</Id>
+      <Database Name="cv" Series="9411" Issue="106465" />
     </Book>
   </Books>
   <Matchers />
