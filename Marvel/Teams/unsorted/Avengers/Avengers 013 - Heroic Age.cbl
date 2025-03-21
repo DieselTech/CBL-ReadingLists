@@ -1,837 +1,838 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Avengers 13 - Heroic Age</Name>
+  <Name>Avengers 013 - Heroic Age</Name>
+  <NumIssues>277</NumIssues>
   <Books>
     <Book Series="Avengers: Prime" Number="1" Volume="2010" Year="2010">
-      <Id>64f86715-0af4-4d46-8e80-91dae4951a30</Id>
+      <Database Name="cv" Series="33495" Issue="217323" />
     </Book>
     <Book Series="Avengers: Prime" Number="2" Volume="2010" Year="2010">
-      <Id>72c606fd-8c89-4c84-996d-8e2701af7176</Id>
+      <Database Name="cv" Series="33495" Issue="227872" />
     </Book>
     <Book Series="Avengers: Prime" Number="3" Volume="2010" Year="2010">
-      <Id>8e633fa2-3ba9-4cfd-b489-2ad82570144f</Id>
+      <Database Name="cv" Series="33495" Issue="236711" />
     </Book>
     <Book Series="Avengers: Prime" Number="4" Volume="2010" Year="2011">
-      <Id>99d3d89d-f29a-44c2-8f4d-66e3e1ccdd1f</Id>
+      <Database Name="cv" Series="33495" Issue="242900" />
     </Book>
     <Book Series="Avengers: Prime" Number="5" Volume="2010" Year="2011">
-      <Id>ac1ce361-db26-4a8d-bf11-3d2fba1090ca</Id>
+      <Database Name="cv" Series="33495" Issue="254666" />
     </Book>
     <Book Series="Thor" Number="611" Volume="2007" Year="2010">
-      <Id>e725d061-6693-45a2-8dd9-6ffe318d13e2</Id>
+      <Database Name="cv" Series="18831" Issue="221801" />
     </Book>
     <Book Series="Thor" Number="612" Volume="2007" Year="2010">
-      <Id>0015053e-6f0f-412e-ae8e-e55a1ea4e20f</Id>
+      <Database Name="cv" Series="18831" Issue="226963" />
     </Book>
     <Book Series="Thor" Number="613" Volume="2007" Year="2010">
-      <Id>0b471108-1c79-4154-bc61-6813ad583b11</Id>
+      <Database Name="cv" Series="18831" Issue="231665" />
     </Book>
     <Book Series="Thor" Number="614" Volume="2007" Year="2010">
-      <Id>3c3933d5-be8c-4bd4-9583-970bd1be69ab</Id>
+      <Database Name="cv" Series="18831" Issue="233842" />
     </Book>
     <Book Series="Astonishing Thor" Number="1" Volume="2011" Year="2011">
-      <Id>bbf42a58-d848-4470-a043-66697dd21ae3</Id>
+      <Database Name="cv" Series="36955" Issue="246538" />
     </Book>
     <Book Series="Astonishing Thor" Number="2" Volume="2011" Year="2011">
-      <Id>861ff69c-fb40-4503-8f10-8f3b9c48e20e</Id>
+      <Database Name="cv" Series="36955" Issue="259245" />
     </Book>
     <Book Series="Astonishing Thor" Number="3" Volume="2011" Year="2011">
-      <Id>cb074baa-17b1-4fe4-acd2-3cf9b6550835</Id>
+      <Database Name="cv" Series="36955" Issue="264756" />
     </Book>
     <Book Series="Astonishing Thor" Number="4" Volume="2011" Year="2011">
-      <Id>dbfe61ef-a790-4b44-b7e3-43786d1d067e</Id>
+      <Database Name="cv" Series="36955" Issue="269573" />
     </Book>
     <Book Series="Astonishing Thor" Number="5" Volume="2011" Year="2011">
-      <Id>1d7814d5-e952-425a-8218-8575fadbacb3</Id>
+      <Database Name="cv" Series="36955" Issue="277878" />
     </Book>
     <Book Series="Thor" Number="615" Volume="2007" Year="2010">
-      <Id>bdfc32ca-4db5-47e9-ad29-c2044affc0bc</Id>
+      <Database Name="cv" Series="18831" Issue="235678" />
     </Book>
     <Book Series="Thor" Number="616" Volume="2007" Year="2010">
-      <Id>611e6054-384e-4a3f-bb12-566ac5043667</Id>
+      <Database Name="cv" Series="18831" Issue="238392" />
     </Book>
     <Book Series="Thor" Number="617" Volume="2007" Year="2011">
-      <Id>b9ec90f4-6c8d-4ce1-b52d-7040f08c8253</Id>
+      <Database Name="cv" Series="18831" Issue="242322" />
     </Book>
     <Book Series="Thor" Number="618" Volume="2007" Year="2011">
-      <Id>1884470c-3903-4cb5-8fba-9cd9564d1ce7</Id>
+      <Database Name="cv" Series="18831" Issue="248455" />
     </Book>
     <Book Series="Thor" Number="619" Volume="2007" Year="2011">
-      <Id>d22b6f6f-d086-4bcd-be93-3e0abf3d86f9</Id>
+      <Database Name="cv" Series="18831" Issue="258438" />
     </Book>
     <Book Series="Thor" Number="620" Volume="2007" Year="2011">
-      <Id>dbcba950-3e4b-4d31-82b3-5e31e4be28f6</Id>
+      <Database Name="cv" Series="18831" Issue="263742" />
     </Book>
     <Book Series="Thor" Number="620.1" Volume="2007" Year="2011">
-      <Id>9fed0191-bf4a-4eaf-b89e-353325e102a6</Id>
+      <Database Name="cv" Series="18831" Issue="266640" />
     </Book>
     <Book Series="Thor" Number="621" Volume="2007" Year="2011">
-      <Id>27305f5f-fa68-49ec-a2b8-761e68548565</Id>
+      <Database Name="cv" Series="18831" Issue="267220" />
     </Book>
     <Book Series="Loki" Number="1" Volume="2010" Year="2010">
-      <Id>18294a87-b31f-4dd7-9aca-8c4b42391798</Id>
+      <Database Name="cv" Series="36282" Issue="239357" />
     </Book>
     <Book Series="Loki" Number="2" Volume="2010" Year="2011">
-      <Id>c71df1b3-84fc-4ab1-8cf0-137beb44c592</Id>
+      <Database Name="cv" Series="36282" Issue="249281" />
     </Book>
     <Book Series="Loki" Number="3" Volume="2010" Year="2011">
-      <Id>e2ca80a5-381d-4df1-8f73-4988e6d1196c</Id>
+      <Database Name="cv" Series="36282" Issue="263061" />
     </Book>
     <Book Series="Loki" Number="4" Volume="2010" Year="2011">
-      <Id>cf5f4135-9096-449f-9bbe-c238f88902a5</Id>
+      <Database Name="cv" Series="36282" Issue="266112" />
     </Book>
     <Book Series="Black Widow" Number="1" Volume="2010" Year="2010">
-      <Id>3d6430ba-9347-40c7-91a6-0830cda1219c</Id>
+      <Database Name="cv" Series="32582" Issue="206748" />
     </Book>
     <Book Series="Black Widow" Number="2" Volume="2010" Year="2010">
-      <Id>ebaa4bfd-56c0-458f-9379-7b7be326ab40</Id>
+      <Database Name="cv" Series="32582" Issue="213514" />
     </Book>
     <Book Series="Black Widow" Number="3" Volume="2010" Year="2010">
-      <Id>ae0f10dc-c354-45da-aa7b-449a23c52f18</Id>
+      <Database Name="cv" Series="32582" Issue="219561" />
     </Book>
     <Book Series="Black Widow" Number="4" Volume="2010" Year="2010">
-      <Id>51509c67-faff-4f28-81f6-dc98b3b54312</Id>
+      <Database Name="cv" Series="32582" Issue="225673" />
     </Book>
     <Book Series="Black Widow" Number="5" Volume="2010" Year="2010">
-      <Id>817d90e7-593d-4eb3-a0ca-5cb846dffc49</Id>
+      <Database Name="cv" Series="32582" Issue="231689" />
     </Book>
     <Book Series="Black Widow" Number="6" Volume="2010" Year="2010">
-      <Id>ad8dfa89-9d3c-453a-8e5e-7a4917be253b</Id>
+      <Database Name="cv" Series="32582" Issue="235445" />
     </Book>
     <Book Series="Black Widow" Number="7" Volume="2010" Year="2010">
-      <Id>c6b0bf7b-76f2-4dfa-921a-da3805597f42</Id>
+      <Database Name="cv" Series="32582" Issue="240069" />
     </Book>
     <Book Series="Black Widow" Number="8" Volume="2010" Year="2011">
-      <Id>1986cde3-807d-41cb-bd70-00d5cffd3fe7</Id>
+      <Database Name="cv" Series="32582" Issue="246606" />
     </Book>
     <Book Series="Avengers" Number="1" Volume="2010" Year="2010">
-      <Id>20c176e6-f65c-48ec-a32f-48b577fe3888</Id>
+      <Database Name="cv" Series="33227" Issue="214810" />
     </Book>
     <Book Series="Avengers" Number="2" Volume="2010" Year="2010">
-      <Id>8f42f152-5bb7-47dc-8bc7-94aa523365bd</Id>
+      <Database Name="cv" Series="33227" Issue="220585" />
     </Book>
     <Book Series="Avengers" Number="3" Volume="2010" Year="2010">
-      <Id>529120ce-98aa-4389-b0a2-91a61dd5bf1d</Id>
+      <Database Name="cv" Series="33227" Issue="225674" />
     </Book>
     <Book Series="Avengers" Number="4" Volume="2010" Year="2010">
-      <Id>0057b0de-da58-44d0-9ce2-fc88d3dc2398</Id>
+      <Database Name="cv" Series="33227" Issue="231595" />
     </Book>
     <Book Series="Avengers" Number="5" Volume="2010" Year="2010">
-      <Id>64a05ccf-c78d-4dec-86ab-99214f969bae</Id>
+      <Database Name="cv" Series="33227" Issue="235387" />
     </Book>
     <Book Series="Avengers" Number="6" Volume="2010" Year="2010">
-      <Id>bebfa813-c9c0-4b81-af18-adb630aff422</Id>
+      <Database Name="cv" Series="33227" Issue="239856" />
     </Book>
-    <Book Series="Hawkeye &amp; Mockingbird" Number="1" Volume="2010" Year="2010">
-      <Id>4301878d-7a30-4d64-97dd-851f6030e000</Id>
+    <Book Series="Hawkeye &#38; Mockingbird" Number="1" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33513" Issue="217486" />
     </Book>
-    <Book Series="Hawkeye &amp; Mockingbird" Number="2" Volume="2010" Year="2010">
-      <Id>4354e71b-71e2-414e-981e-d3c56bd6155b</Id>
+    <Book Series="Hawkeye &#38; Mockingbird" Number="2" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33513" Issue="223278" />
     </Book>
-    <Book Series="Hawkeye &amp; Mockingbird" Number="3" Volume="2010" Year="2010">
-      <Id>bebbc335-db6d-46c8-8d83-c6a2d29a6cb2</Id>
+    <Book Series="Hawkeye &#38; Mockingbird" Number="3" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33513" Issue="227822" />
     </Book>
-    <Book Series="Hawkeye &amp; Mockingbird" Number="4" Volume="2010" Year="2010">
-      <Id>2e1b063b-227b-4a46-b7c8-bd0f3cb48699</Id>
+    <Book Series="Hawkeye &#38; Mockingbird" Number="4" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33513" Issue="232565" />
     </Book>
-    <Book Series="Hawkeye &amp; Mockingbird" Number="5" Volume="2010" Year="2010">
-      <Id>cedd2da7-e3f5-4924-bc7f-99d5e530724f</Id>
+    <Book Series="Hawkeye &#38; Mockingbird" Number="5" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33513" Issue="237169" />
     </Book>
-    <Book Series="Hawkeye &amp; Mockingbird" Number="6" Volume="2010" Year="2011">
-      <Id>1b674967-b524-4d20-9da2-23976637d99b</Id>
+    <Book Series="Hawkeye &#38; Mockingbird" Number="6" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33513" Issue="240964" />
     </Book>
     <Book Series="Iron Man/Thor" Number="1" Volume="2011" Year="2011">
-      <Id>7a77c7cd-b079-4390-ab24-2afefe114f5e</Id>
+      <Database Name="cv" Series="36510" Issue="241154" />
     </Book>
     <Book Series="Iron Man/Thor" Number="2" Volume="2011" Year="2011">
-      <Id>9b4e09b7-391d-4fb2-a0ef-376ba92c02fa</Id>
+      <Database Name="cv" Series="36510" Issue="247326" />
     </Book>
     <Book Series="Iron Man/Thor" Number="3" Volume="2011" Year="2011">
-      <Id>d43df3fc-28bd-4c83-b40f-5e8813ec09c1</Id>
+      <Database Name="cv" Series="36510" Issue="261353" />
     </Book>
     <Book Series="Iron Man/Thor" Number="4" Volume="2011" Year="2011">
-      <Id>e27de90a-1c30-408d-8065-a5bbc92db4b9</Id>
+      <Database Name="cv" Series="36510" Issue="264296" />
     </Book>
     <Book Series="Avengers Academy" Number="1" Volume="2010" Year="2010">
-      <Id>0d5cc66a-5c01-4bd4-bc1c-eac39e8c2fce</Id>
+      <Database Name="cv" Series="33633" Issue="218352" />
     </Book>
     <Book Series="Avengers Academy" Number="2" Volume="2010" Year="2010">
-      <Id>ed441e31-8e5e-47df-a913-c5f81bbccbb6</Id>
+      <Database Name="cv" Series="33633" Issue="224566" />
     </Book>
     <Book Series="Avengers Academy" Number="3" Volume="2010" Year="2010">
-      <Id>b9e72b0d-92ad-4c67-959c-48d839d2e581</Id>
+      <Database Name="cv" Series="33633" Issue="230269" />
     </Book>
     <Book Series="Avengers Academy" Number="4" Volume="2010" Year="2010">
-      <Id>12951201-6532-4202-b0b4-281fe2e5a894</Id>
+      <Database Name="cv" Series="33633" Issue="235395" />
     </Book>
     <Book Series="Avengers Academy" Number="5" Volume="2010" Year="2010">
-      <Id>b18bc178-d6e2-45e1-b690-47f201cdef44</Id>
+      <Database Name="cv" Series="33633" Issue="237210" />
     </Book>
     <Book Series="Avengers Academy" Number="6" Volume="2010" Year="2011">
-      <Id>904d559e-5c74-44bf-88e0-f82f0262a471</Id>
+      <Database Name="cv" Series="33633" Issue="241000" />
     </Book>
     <Book Series="Thor: The Deviants Saga" Number="1" Volume="2012" Year="2012">
-      <Id>4cb700b7-0472-49e0-a928-f64b816731de</Id>
+      <Database Name="cv" Series="43818" Issue="301116" />
     </Book>
     <Book Series="Thor: The Deviants Saga" Number="2" Volume="2012" Year="2012">
-      <Id>9e2c7b9e-8e0c-4c81-a9c6-2ac296900ce2</Id>
+      <Database Name="cv" Series="43818" Issue="305772" />
     </Book>
     <Book Series="Thor: The Deviants Saga" Number="3" Volume="2012" Year="2012">
-      <Id>0e7896ea-0b1b-4dc1-a636-f0543ad71e29</Id>
+      <Database Name="cv" Series="43818" Issue="309468" />
     </Book>
     <Book Series="Thor: The Deviants Saga" Number="4" Volume="2012" Year="2012">
-      <Id>04ffede7-062d-48b2-8d5f-44d7a9894462</Id>
+      <Database Name="cv" Series="43818" Issue="313880" />
     </Book>
     <Book Series="Thor: The Deviants Saga" Number="5" Volume="2012" Year="2012">
-      <Id>9c2c1e51-1851-48cb-8e90-e43756d049c3</Id>
+      <Database Name="cv" Series="43818" Issue="319380" />
     </Book>
-    <Book Series="Captain America" Number="602" Volume="2005" Year="2010">
-      <Id>0ed22a9b-9f7b-4d2a-9b80-6e1befdc9204</Id>
+    <Book Series="Captain America" Number="602" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="193414" />
     </Book>
-    <Book Series="Captain America" Number="603" Volume="2005" Year="2010">
-      <Id>531d5932-ec6b-4fc8-b052-fb619faac0f1</Id>
+    <Book Series="Captain America" Number="603" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="197668" />
     </Book>
-    <Book Series="Captain America" Number="604" Volume="2005" Year="2010">
-      <Id>2d753010-d60f-46a6-b151-5c887fb3dafe</Id>
+    <Book Series="Captain America" Number="604" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="201710" />
     </Book>
-    <Book Series="Captain America" Number="605" Volume="2005" Year="2010">
-      <Id>43975d2c-5ae8-4285-aa81-3d81718e1251</Id>
+    <Book Series="Captain America" Number="605" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="210223" />
     </Book>
     <Book Series="Captain America: Who Won't Wield the Shield?" Number="1" Volume="2010" Year="2010">
-      <Id>baad4687-ba41-4b4d-8113-0d1d94d93a3b</Id>
+      <Database Name="cv" Series="32672" Issue="208752" />
     </Book>
-    <Book Series="Captain America and..." Number="1" Volume="2011" Year="2011">
-      <Id>11f38b33-c64a-46d2-99d9-c7831fd3b1cb</Id>
+    <Book Series="Captain America and Batroc" Number="1" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39497" Issue="266843" />
     </Book>
-    <Book Series="Captain America and..." Number="1" Volume="2011" Year="2011">
-      <Id>c7044bb0-747e-4734-a3ac-cd3c5e03662e</Id>
+    <Book Series="Captain America and Falcon" Number="1" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39276" Issue="265178" />
     </Book>
-    <Book Series="Captain America and..." Number="1" Volume="2011" Year="2011">
-      <Id>036d4a3b-e475-4a93-9519-a203265dba6f</Id>
+    <Book Series="Captain America and Crossbones" Number="1" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39382" Issue="266065" />
     </Book>
-    <Book Series="Captain America and..." Number="1" Volume="2011" Year="2011">
-      <Id>fe5a6747-9483-4024-9e77-7ca4e89964a9</Id>
+    <Book Series="Captain America and the First Thirteen" Number="1" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39310" Issue="265578" />
     </Book>
     <Book Series="Captain America and the Secret Avengers" Number="1" Volume="2011" Year="2011">
-      <Id>87606054-3770-4517-a5b1-5210e66dcec5</Id>
+      <Database Name="cv" Series="39773" Issue="268414" />
     </Book>
     <Book Series="Chaos War" Number="1" Volume="2010" Year="2010">
-      <Id>07d0001c-29ea-4d59-8952-c0c000e69f3c</Id>
+      <Database Name="cv" Series="35877" Issue="237208" />
     </Book>
     <Book Series="Chaos War" Number="2" Volume="2010" Year="2010">
-      <Id>ada55af9-61ff-42e7-8ce0-7c2b5bcbf751</Id>
+      <Database Name="cv" Series="35877" Issue="239053" />
     </Book>
     <Book Series="Chaos War: Ares" Number="1" Volume="2011" Year="2011">
-      <Id>97b0d43e-4efd-4a2c-a72d-19c936802e9e</Id>
+      <Database Name="cv" Series="37344" Issue="248495" />
     </Book>
     <Book Series="Chaos War: Dead Avengers" Number="1" Volume="2011" Year="2011">
-      <Id>2caf0396-c911-40bc-9f5d-da2fa96edcb5</Id>
+      <Database Name="cv" Series="36730" Issue="244901" />
     </Book>
     <Book Series="Chaos War" Number="3" Volume="2010" Year="2011">
-      <Id>9d42da34-537e-4146-b0ff-a832f9b8399a</Id>
+      <Database Name="cv" Series="35877" Issue="240898" />
     </Book>
     <Book Series="Chaos War: Dead Avengers" Number="2" Volume="2011" Year="2011">
-      <Id>4114bb47-3204-4fb6-94e9-194f19c517f1</Id>
+      <Database Name="cv" Series="36730" Issue="250619" />
     </Book>
     <Book Series="Chaos War" Number="4" Volume="2010" Year="2011">
-      <Id>860b3c91-c570-4574-87c0-b6a5ca12ab75</Id>
+      <Database Name="cv" Series="35877" Issue="249228" />
     </Book>
     <Book Series="Chaos War: Thor" Number="1" Volume="2011" Year="2011">
-      <Id>9123ccb3-9d60-46f5-8a4c-ee6af6cf1c76</Id>
+      <Database Name="cv" Series="36613" Issue="242917" />
     </Book>
     <Book Series="Chaos War: Thor" Number="2" Volume="2011" Year="2011">
-      <Id>8346c45c-7515-4b1b-a8a4-dd72215e9bd6</Id>
+      <Database Name="cv" Series="36613" Issue="249564" />
     </Book>
     <Book Series="Chaos War: Dead Avengers" Number="3" Volume="2011" Year="2011">
-      <Id>b507e2f1-1cdc-4f38-874d-a2dd11a5b744</Id>
+      <Database Name="cv" Series="36730" Issue="255931" />
     </Book>
     <Book Series="Chaos War" Number="5" Volume="2010" Year="2011">
-      <Id>0cd01b99-b03e-4e70-80ce-52799c308708</Id>
+      <Database Name="cv" Series="35877" Issue="259135" />
     </Book>
     <Book Series="New Avengers" Number="1" Volume="2010" Year="2010">
-      <Id>47cf5f5c-1afb-41a0-b968-75688793e566</Id>
+      <Database Name="cv" Series="33777" Issue="219558" />
     </Book>
     <Book Series="New Avengers" Number="2" Volume="2010" Year="2010">
-      <Id>23b0eed9-50b2-40ed-91b8-96dfcef2a24d</Id>
+      <Database Name="cv" Series="33777" Issue="225782" />
     </Book>
     <Book Series="New Avengers" Number="3" Volume="2010" Year="2010">
-      <Id>b316ab12-16c3-4411-b913-41b821b77f75</Id>
+      <Database Name="cv" Series="33777" Issue="230322" />
     </Book>
     <Book Series="New Avengers" Number="4" Volume="2010" Year="2010">
-      <Id>116a863a-8b48-40aa-9078-e85223dfb8c6</Id>
+      <Database Name="cv" Series="33777" Issue="233761" />
     </Book>
     <Book Series="New Avengers" Number="5" Volume="2010" Year="2010">
-      <Id>81285f33-7cd1-4e6b-a93d-af36634bb9be</Id>
+      <Database Name="cv" Series="33777" Issue="238232" />
     </Book>
     <Book Series="New Avengers" Number="6" Volume="2010" Year="2011">
-      <Id>609d3b72-eaa0-480f-a894-59d024153e68</Id>
+      <Database Name="cv" Series="33777" Issue="242246" />
     </Book>
-    <Book Series="Captain America" Number="606" Volume="2005" Year="2010">
-      <Id>44254bbe-ae95-4421-a1ed-6785463cb4ef</Id>
+    <Book Series="Captain America" Number="606" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="218588" />
     </Book>
-    <Book Series="Captain America" Number="607" Volume="2005" Year="2010">
-      <Id>65689fec-bc20-486a-a7d3-5ec28b8b5a64</Id>
+    <Book Series="Captain America" Number="607" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="222132" />
     </Book>
-    <Book Series="Captain America" Number="608" Volume="2005" Year="2010">
-      <Id>560d45d8-a964-4099-a411-6ced789240a2</Id>
+    <Book Series="Captain America" Number="608" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="227787" />
     </Book>
-    <Book Series="Captain America" Number="609" Volume="2005" Year="2010">
-      <Id>3ec629e7-1eed-486d-987b-97824859f8d0</Id>
+    <Book Series="Captain America" Number="609" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="231702" />
     </Book>
-    <Book Series="Captain America" Number="610" Volume="2005" Year="2010">
-      <Id>dea6ec44-28f8-472a-96c5-63fd42f2a19f</Id>
+    <Book Series="Captain America" Number="610" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="236323" />
     </Book>
-    <Book Series="Captain America" Number="611" Volume="2005" Year="2010">
-      <Id>d5368b13-31f3-4e0a-ae4c-de96fe8aa387</Id>
+    <Book Series="Captain America" Number="611" Volume="2004" Year="2010">
+      <Database Name="cv" Series="11499" Issue="238923" />
     </Book>
-    <Book Series="Captain America" Number="612" Volume="2005" Year="2011">
-      <Id>88990553-aa1f-46b2-a1cd-2ea581a914b6</Id>
+    <Book Series="Captain America" Number="612" Volume="2004" Year="2011">
+      <Database Name="cv" Series="11499" Issue="246465" />
     </Book>
-    <Book Series="Captain America" Number="613" Volume="2005" Year="2011">
-      <Id>e7a9ef77-20a1-4598-8662-7d2001dcd91a</Id>
+    <Book Series="Captain America" Number="613" Volume="2004" Year="2011">
+      <Database Name="cv" Series="11499" Issue="253003" />
     </Book>
-    <Book Series="Captain America" Number="614" Volume="2005" Year="2011">
-      <Id>42264a98-ae8b-4564-b4fa-5a0875c671d6</Id>
+    <Book Series="Captain America" Number="614" Volume="2004" Year="2011">
+      <Database Name="cv" Series="11499" Issue="259190" />
     </Book>
-    <Book Series="Captain America" Number="615" Volume="2005" Year="2011">
-      <Id>05092bf2-c8be-4f94-b957-a6e328e8a063</Id>
+    <Book Series="Captain America" Number="615" Volume="2004" Year="2011">
+      <Database Name="cv" Series="11499" Issue="263731" />
     </Book>
-    <Book Series="Captain America" Number="615.1" Volume="2005" Year="2011">
-      <Id>770d310b-316b-4e85-931e-51bdcbb24088</Id>
+    <Book Series="Captain America" Number="615.1" Volume="2004" Year="2011">
+      <Database Name="cv" Series="11499" Issue="266624" />
     </Book>
     <Book Series="Secret Avengers" Number="1" Volume="2010" Year="2010">
-      <Id>e7a14755-3d8b-46c3-84d3-c70b46596fe2</Id>
+      <Database Name="cv" Series="33350" Issue="216182" />
     </Book>
     <Book Series="Secret Avengers" Number="2" Volume="2010" Year="2010">
-      <Id>df94ad65-3a5a-422d-a4df-7697b9be94c4</Id>
+      <Database Name="cv" Series="33350" Issue="221791" />
     </Book>
     <Book Series="Secret Avengers" Number="3" Volume="2010" Year="2010">
-      <Id>3256b316-46f5-4689-b0a5-c6f6c4a05c4f</Id>
+      <Database Name="cv" Series="33350" Issue="226878" />
     </Book>
     <Book Series="Secret Avengers" Number="4" Volume="2010" Year="2010">
-      <Id>fec2b557-a48b-4311-bdd2-d1133ddf03aa</Id>
+      <Database Name="cv" Series="33350" Issue="230303" />
     </Book>
     <Book Series="Secret Avengers" Number="5" Volume="2010" Year="2010">
-      <Id>ed205e06-e568-449b-aee0-df95acad0c3c</Id>
+      <Database Name="cv" Series="33350" Issue="235393" />
     </Book>
     <Book Series="Secret Avengers" Number="6" Volume="2010" Year="2010">
-      <Id>70dd8ef8-c446-473b-92cc-dbbe41d394a3</Id>
+      <Database Name="cv" Series="33350" Issue="239854" />
     </Book>
     <Book Series="Captain America: Hail Hydra" Number="1" Volume="2011" Year="2011">
-      <Id>bf9dfcdf-e10c-404f-a6a7-d9038eee0374</Id>
+      <Database Name="cv" Series="38157" Issue="254992" />
     </Book>
     <Book Series="Captain America: Hail Hydra" Number="2" Volume="2011" Year="2011">
-      <Id>409cd524-9292-40a5-a127-aef6e853bc3b</Id>
+      <Database Name="cv" Series="38157" Issue="260598" />
     </Book>
     <Book Series="Captain America: Hail Hydra" Number="3" Volume="2011" Year="2011">
-      <Id>1839c142-2e18-4a29-b6b0-5037dafcd599</Id>
+      <Database Name="cv" Series="38157" Issue="265148" />
     </Book>
     <Book Series="Captain America: Hail Hydra" Number="4" Volume="2011" Year="2011">
-      <Id>53cd8dc3-bf2c-4268-9339-f662e96be1a9</Id>
+      <Database Name="cv" Series="38157" Issue="267767" />
     </Book>
     <Book Series="Captain America: Hail Hydra" Number="5" Volume="2011" Year="2011">
-      <Id>36e99f25-5cf5-4a54-bf10-673778ae5058</Id>
+      <Database Name="cv" Series="38157" Issue="269682" />
     </Book>
     <Book Series="Steve Rogers: Super Soldier" Number="1" Volume="2010" Year="2010">
-      <Id>a36f70fd-7f1d-4205-bbf9-9bfc9918daca</Id>
+      <Database Name="cv" Series="34244" Issue="223427" />
     </Book>
     <Book Series="Steve Rogers: Super Soldier" Number="2" Volume="2010" Year="2010">
-      <Id>648e3f78-dee0-458c-842f-73ea0de5ab70</Id>
+      <Database Name="cv" Series="34244" Issue="228962" />
     </Book>
     <Book Series="Steve Rogers: Super Soldier" Number="3" Volume="2010" Year="2010">
-      <Id>cd2459a4-747b-4c81-b531-84487867958a</Id>
+      <Database Name="cv" Series="34244" Issue="234653" />
     </Book>
     <Book Series="Steve Rogers: Super Soldier" Number="4" Volume="2010" Year="2010">
-      <Id>fa272fe4-fe07-4f43-b6ac-cabcbb586d88</Id>
+      <Database Name="cv" Series="34244" Issue="239042" />
     </Book>
     <Book Series="Uncanny X-Men Annual" Number="3" Volume="2006" Year="2011">
-      <Id>66459b80-3f8f-428f-84e6-0b03bee4ec65</Id>
+      <Database Name="cv" Series="18405" Issue="265998" />
     </Book>
     <Book Series="Steve Rogers: Super Soldier Annual" Number="1" Volume="2011" Year="2011">
-      <Id>3f7a120f-756d-4c7b-841e-bb6c7414ba43</Id>
+      <Database Name="cv" Series="39765" Issue="268365" />
     </Book>
     <Book Series="Namor: The First Mutant Annual" Number="1" Volume="2011" Year="2011">
-      <Id>09fd3fe0-0ff4-4400-8efb-70114ff7b245</Id>
+      <Database Name="cv" Series="40215" Issue="270428" />
     </Book>
     <Book Series="The Iron Age: Alpha" Number="1" Volume="2011" Year="2011">
-      <Id>a9bf5c3c-25fa-4fc1-8b05-071cfac33213</Id>
+      <Database Name="cv" Series="40537" Issue="273141" />
     </Book>
     <Book Series="Iron Age" Number="1" Volume="2011" Year="2011">
-      <Id>ee5c94eb-4c7c-4879-9ffa-f42f6fef92f5</Id>
+      <Database Name="cv" Series="41042" Issue="276705" />
     </Book>
     <Book Series="Iron Age" Number="2" Volume="2011" Year="2011">
-      <Id>38969266-1cf3-45a7-97ec-190a5f18dacf</Id>
+      <Database Name="cv" Series="41042" Issue="279165" />
     </Book>
     <Book Series="Iron Age" Number="3" Volume="2011" Year="2011">
-      <Id>a5997d65-555b-48c7-8682-2a46f1f5dbe8</Id>
+      <Database Name="cv" Series="41042" Issue="285554" />
     </Book>
     <Book Series="The Iron Age: Omega" Number="1" Volume="2011" Year="2011">
-      <Id>3ea1d49b-faf3-4939-acb1-5f9114cc4805</Id>
+      <Database Name="cv" Series="42369" Issue="289466" />
     </Book>
-    <Book Series="I am an Avenger" Number="1" Volume="2010" Year="2010">
-      <Id>8d5ef6a6-c198-49eb-809a-0fe80ffe40c0</Id>
+    <Book Series="I am An Avenger" Number="1" Volume="2010" Year="2010">
+      <Database Name="cv" Series="35271" Issue="232568" />
     </Book>
-    <Book Series="I am an Avenger" Number="2" Volume="2010" Year="2010">
-      <Id>13bc5556-762a-425a-991a-b8a7229f59db</Id>
+    <Book Series="I am An Avenger" Number="2" Volume="2010" Year="2010">
+      <Database Name="cv" Series="35271" Issue="238448" />
     </Book>
-    <Book Series="I am an Avenger" Number="3" Volume="2010" Year="2011">
-      <Id>4d791dc0-e82f-4b90-9287-4efdee4024f7</Id>
+    <Book Series="I am An Avenger" Number="3" Volume="2010" Year="2011">
+      <Database Name="cv" Series="35271" Issue="242908" />
     </Book>
-    <Book Series="I am an Avenger" Number="4" Volume="2010" Year="2011">
-      <Id>4db00d30-ec98-40c6-8c01-61639fa6b5d7</Id>
+    <Book Series="I am An Avenger" Number="4" Volume="2010" Year="2011">
+      <Database Name="cv" Series="35271" Issue="248524" />
     </Book>
-    <Book Series="I am an Avenger" Number="5" Volume="2010" Year="2011">
-      <Id>a9418a4e-35b9-44a0-b475-07ba5f4f6635</Id>
+    <Book Series="I am An Avenger" Number="5" Volume="2010" Year="2011">
+      <Database Name="cv" Series="35271" Issue="257311" />
     </Book>
     <Book Series="Secret Avengers" Number="7" Volume="2010" Year="2011">
-      <Id>7d3a9f37-7552-46c2-b89f-0b0d470632c4</Id>
+      <Database Name="cv" Series="33350" Issue="246492" />
     </Book>
     <Book Series="Secret Avengers" Number="8" Volume="2010" Year="2011">
-      <Id>ae1f24dc-9b5a-44d0-a55f-7a0519f7b7e3</Id>
+      <Database Name="cv" Series="33350" Issue="250641" />
     </Book>
     <Book Series="Secret Avengers" Number="9" Volume="2010" Year="2011">
-      <Id>6e8d91f2-29a5-4a0b-a61f-8c34b86605f6</Id>
+      <Database Name="cv" Series="33350" Issue="259134" />
     </Book>
     <Book Series="Secret Avengers" Number="10" Volume="2010" Year="2011">
-      <Id>8a665427-2c0c-4ec7-a108-b03949cb2094</Id>
+      <Database Name="cv" Series="33350" Issue="263741" />
     </Book>
     <Book Series="Secret Avengers" Number="11" Volume="2010" Year="2011">
-      <Id>a52074f6-6565-407d-b452-b42be6bd71ce</Id>
+      <Database Name="cv" Series="33350" Issue="267145" />
     </Book>
     <Book Series="Secret Avengers" Number="12" Volume="2010" Year="2011">
-      <Id>0248b669-cf67-4c02-a4d6-324c6952d4be</Id>
+      <Database Name="cv" Series="33350" Issue="269020" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="1" Volume="2010" Year="2010">
-      <Id>33cf354f-f268-4b41-aef6-b44e183ff594</Id>
+      <Database Name="cv" Series="34241" Issue="223380" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="2" Volume="2010" Year="2010">
-      <Id>c0df33c4-3024-4711-af13-a82e88fd3f46</Id>
+      <Database Name="cv" Series="34241" Issue="232535" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="3" Volume="2010" Year="2011">
-      <Id>8a06f43a-e565-45ea-88a5-3bf77390b717</Id>
+      <Database Name="cv" Series="34241" Issue="242038" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="4" Volume="2010" Year="2011">
-      <Id>49628fb6-d084-42f4-9dc6-f333d0cea89a</Id>
+      <Database Name="cv" Series="34241" Issue="254667" />
     </Book>
     <Book Series="Avengers: The Children's Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
-      <Id>646f0499-5000-4b45-b09a-01ab291431c8</Id>
+      <Database Name="cv" Series="39371" Issue="266008" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="5" Volume="2010" Year="2011">
-      <Id>98cd53d9-52d4-4931-9e54-0308b75e7c4f</Id>
+      <Database Name="cv" Series="34241" Issue="267533" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="6" Volume="2010" Year="2011">
-      <Id>10915c1d-84ca-4ee9-9f40-7f6c58b0c664</Id>
+      <Database Name="cv" Series="34241" Issue="276706" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="7" Volume="2010" Year="2011">
-      <Id>c763c642-bb92-4e00-8146-a085015c1563</Id>
+      <Database Name="cv" Series="34241" Issue="293355" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="8" Volume="2010" Year="2012">
-      <Id>34ce11e9-ae52-44f1-99b5-bfae10082d99</Id>
+      <Database Name="cv" Series="34241" Issue="308624" />
     </Book>
     <Book Series="Avengers: The Children's Crusade" Number="9" Volume="2010" Year="2012">
-      <Id>70054397-94fb-4232-83e0-32c267cdc619</Id>
+      <Database Name="cv" Series="34241" Issue="319366" />
     </Book>
-    <Book Series="Thor: Heaven &amp; Earth" Number="1" Volume="2011" Year="2011">
-      <Id>6b563e7e-5987-47a5-b9a2-6195e22a0dad</Id>
+    <Book Series="Thor: Heaven &#38; Earth" Number="1" Volume="2011" Year="2011">
+      <Database Name="cv" Series="41511" Issue="281357" />
     </Book>
-    <Book Series="Thor: Heaven &amp; Earth" Number="2" Volume="2011" Year="2011">
-      <Id>739734b4-534e-492a-9d32-66036f4cf367</Id>
+    <Book Series="Thor: Heaven &#38; Earth" Number="2" Volume="2011" Year="2011">
+      <Database Name="cv" Series="41511" Issue="283867" />
     </Book>
-    <Book Series="Thor: Heaven &amp; Earth" Number="3" Volume="2011" Year="2011">
-      <Id>6c84aeb5-76c2-4b26-b405-1ef8db65389e</Id>
+    <Book Series="Thor: Heaven &#38; Earth" Number="3" Volume="2011" Year="2011">
+      <Database Name="cv" Series="41511" Issue="288832" />
     </Book>
-    <Book Series="Thor: Heaven &amp; Earth" Number="4" Volume="2011" Year="2011">
-      <Id>6347c0d6-8837-4aed-9081-31e3ce3b7845</Id>
+    <Book Series="Thor: Heaven &#38; Earth" Number="4" Volume="2011" Year="2011">
+      <Database Name="cv" Series="41511" Issue="291624" />
     </Book>
     <Book Series="Invincible Iron Man" Number="25" Volume="2008" Year="2010">
-      <Id>d773dae3-890f-4735-859c-4dba6b2694c2</Id>
+      <Database Name="cv" Series="21487" Issue="210224" />
     </Book>
     <Book Series="Invincible Iron Man" Number="26" Volume="2008" Year="2010">
-      <Id>4e9ed579-8381-41cf-b536-16dc72bc2269</Id>
+      <Database Name="cv" Series="21487" Issue="214732" />
     </Book>
     <Book Series="Invincible Iron Man" Number="27" Volume="2008" Year="2010">
-      <Id>629c9b1c-d753-4dae-a8df-c54d9ed37c88</Id>
+      <Database Name="cv" Series="21487" Issue="218364" />
     </Book>
     <Book Series="Invincible Iron Man" Number="28" Volume="2008" Year="2010">
-      <Id>844771f9-add1-4190-a22d-0065691ca21c</Id>
+      <Database Name="cv" Series="21487" Issue="224577" />
     </Book>
     <Book Series="Invincible Iron Man" Number="29" Volume="2008" Year="2010">
-      <Id>f42ab891-2a4f-4a16-8dc0-9ef2acc97a2c</Id>
+      <Database Name="cv" Series="21487" Issue="228929" />
     </Book>
     <Book Series="Invincible Iron Man" Number="30" Volume="2008" Year="2010">
-      <Id>4d881588-9500-4fea-8c3c-33bf1bfe3018</Id>
+      <Database Name="cv" Series="21487" Issue="234091" />
     </Book>
     <Book Series="Invincible Iron Man" Number="31" Volume="2008" Year="2010">
-      <Id>eb413cbc-90b7-42db-831b-705af515c2d3</Id>
+      <Database Name="cv" Series="21487" Issue="238222" />
     </Book>
     <Book Series="Invincible Iron Man" Number="32" Volume="2008" Year="2011">
-      <Id>26a587de-1c93-4e52-a1d1-ff660d126ee7</Id>
+      <Database Name="cv" Series="21487" Issue="246619" />
     </Book>
     <Book Series="Invincible Iron Man" Number="33" Volume="2008" Year="2011">
-      <Id>c2b96e4c-3a34-456a-a7a8-fa1556770efa</Id>
+      <Database Name="cv" Series="21487" Issue="250667" />
     </Book>
     <Book Series="Avengers" Number="7" Volume="2010" Year="2011">
-      <Id>80c5fd18-511e-4793-b44a-7b6428bc1697</Id>
+      <Database Name="cv" Series="33227" Issue="244839" />
     </Book>
     <Book Series="Avengers" Number="8" Volume="2010" Year="2011">
-      <Id>878b681f-20ed-43e9-b116-1b90906d1d72</Id>
+      <Database Name="cv" Series="33227" Issue="252734" />
     </Book>
     <Book Series="Avengers" Number="9" Volume="2010" Year="2011">
-      <Id>c9505810-dbe2-47de-a090-cf854dfc0553</Id>
+      <Database Name="cv" Series="33227" Issue="259136" />
     </Book>
     <Book Series="Avengers" Number="10" Volume="2010" Year="2011">
-      <Id>6da69529-9292-49e6-8a00-fc7fe6ac5b59</Id>
+      <Database Name="cv" Series="33227" Issue="263715" />
     </Book>
     <Book Series="Avengers" Number="11" Volume="2010" Year="2011">
-      <Id>e84c04fe-06a6-4f9d-9950-02af7788763d</Id>
+      <Database Name="cv" Series="33227" Issue="267092" />
     </Book>
     <Book Series="Avengers" Number="12" Volume="2010" Year="2011">
-      <Id>0e4e99ef-c059-4c20-ae4d-a1c5599a2718</Id>
+      <Database Name="cv" Series="33227" Issue="268708" />
     </Book>
     <Book Series="Avengers Academy" Number="7" Volume="2010" Year="2011">
-      <Id>b1f7736c-226c-452d-952f-d1a1b67ceaa1</Id>
+      <Database Name="cv" Series="33633" Issue="249218" />
     </Book>
     <Book Series="Avengers Academy" Number="8" Volume="2010" Year="2011">
-      <Id>c77dec77-04f3-476d-828c-e55a56e8b99c</Id>
+      <Database Name="cv" Series="33633" Issue="258413" />
     </Book>
     <Book Series="Avengers Academy" Number="9" Volume="2010" Year="2011">
-      <Id>cc7389d6-4fb1-46b3-a2de-8ecf677ed277</Id>
+      <Database Name="cv" Series="33633" Issue="262472" />
     </Book>
     <Book Series="Avengers Academy" Number="10" Volume="2010" Year="2011">
-      <Id>564ab61d-56e4-4eba-aaaa-69625953bf93</Id>
+      <Database Name="cv" Series="33633" Issue="264511" />
     </Book>
     <Book Series="Avengers Academy" Number="11" Volume="2010" Year="2011">
-      <Id>1dad4be1-c59a-4c50-a4de-ebcc4cdd3bd9</Id>
+      <Database Name="cv" Series="33633" Issue="266001" />
     </Book>
     <Book Series="Avengers Academy" Number="12" Volume="2010" Year="2011">
-      <Id>6d4741e5-f108-4caf-8c8d-cd69d720e0e4</Id>
+      <Database Name="cv" Series="33633" Issue="268662" />
     </Book>
     <Book Series="New Avengers" Number="7" Volume="2010" Year="2011">
-      <Id>6531a4b2-be90-4a30-bbc6-1a842c9e98cd</Id>
+      <Database Name="cv" Series="33777" Issue="248493" />
     </Book>
     <Book Series="New Avengers" Number="8" Volume="2010" Year="2011">
-      <Id>668ab6f8-77b2-428f-91b8-6be4f37cce1e</Id>
+      <Database Name="cv" Series="33777" Issue="259139" />
     </Book>
     <Book Series="New Avengers" Number="9" Volume="2010" Year="2011">
-      <Id>2a2707b0-a666-4b79-8e39-c334470ac629</Id>
+      <Database Name="cv" Series="33777" Issue="261313" />
     </Book>
     <Book Series="New Avengers" Number="10" Volume="2010" Year="2011">
-      <Id>26317e5f-13e4-4a00-beb4-1c8e65b39eb3</Id>
+      <Database Name="cv" Series="33777" Issue="265509" />
     </Book>
     <Book Series="New Avengers" Number="11" Volume="2010" Year="2011">
-      <Id>c4ea31be-6227-46f4-a247-0d9ae5e5bb42</Id>
+      <Database Name="cv" Series="33777" Issue="268258" />
     </Book>
     <Book Series="New Avengers" Number="12" Volume="2010" Year="2011">
-      <Id>cea7738a-5806-426a-b37e-f844b37b0054</Id>
+      <Database Name="cv" Series="33777" Issue="269835" />
     </Book>
     <Book Series="New Avengers" Number="13" Volume="2010" Year="2011">
-      <Id>74fabfa0-8f97-479c-aaf9-0e3d852c8a31</Id>
+      <Database Name="cv" Series="33777" Issue="273089" />
     </Book>
     <Book Series="Avengers" Number="12.1" Volume="2010" Year="2011">
-      <Id>c45492e6-8685-4057-bd9c-1c5c55025ed3</Id>
+      <Database Name="cv" Series="33227" Issue="268982" />
     </Book>
     <Book Series="Avengers Academy" Number="13" Volume="2010" Year="2011">
-      <Id>9e4cd38e-9c69-40a2-826b-39f4dfc405ec</Id>
+      <Database Name="cv" Series="33633" Issue="269475" />
     </Book>
     <Book Series="Avengers Academy" Number="14" Volume="2010" Year="2011">
-      <Id>44364243-cb62-4255-8b6d-765754aa9184</Id>
+      <Database Name="cv" Series="33633" Issue="270490" />
     </Book>
     <Book Series="Avengers Academy Giant-Size" Number="1" Volume="2011" Year="2011">
-      <Id>e14c054e-c5d9-4ddf-a955-e1008b7e70d1</Id>
+      <Database Name="cv" Series="39974" Issue="269532" />
     </Book>
     <Book Series="The Mighty Thor" Number="1" Volume="2011" Year="2011">
-      <Id>c7391f5d-0f3d-480f-9797-bd5a1d87d9b4</Id>
+      <Database Name="cv" Series="39763" Issue="268963" />
     </Book>
     <Book Series="The Mighty Thor" Number="2" Volume="2011" Year="2011">
-      <Id>3d7e2732-fda0-4df4-a62f-11adedcb2bd1</Id>
+      <Database Name="cv" Series="39763" Issue="271673" />
     </Book>
     <Book Series="The Mighty Thor" Number="3" Volume="2011" Year="2011">
-      <Id>d10c8ab0-61e6-4079-aa50-09d5b40b7211</Id>
+      <Database Name="cv" Series="39763" Issue="275799" />
     </Book>
     <Book Series="The Mighty Thor" Number="4" Volume="2011" Year="2011">
-      <Id>48555cec-b6fc-4d75-bb25-78d100180e38</Id>
+      <Database Name="cv" Series="39763" Issue="281835" />
     </Book>
     <Book Series="The Mighty Thor" Number="5" Volume="2011" Year="2011">
-      <Id>d59b10cc-06f8-4eeb-961e-17f8cea4328c</Id>
+      <Database Name="cv" Series="39763" Issue="290624" />
     </Book>
     <Book Series="The Mighty Thor" Number="6" Volume="2011" Year="2011">
-      <Id>523a5750-fc6f-4ba4-a23c-06a079f4f462</Id>
+      <Database Name="cv" Series="39763" Issue="293604" />
     </Book>
     <Book Series="Secret Avengers" Number="12.1" Volume="2010" Year="2011">
-      <Id>2cea98ce-f01f-440e-a8fd-8ff5e6ca3cc3</Id>
+      <Database Name="cv" Series="33350" Issue="269117" />
     </Book>
     <Book Series="Invincible Iron Man" Number="500" Volume="2008" Year="2011">
-      <Id>2e9450b4-cceb-4870-bf44-bc78d08e20ea</Id>
+      <Database Name="cv" Series="21487" Issue="258423" />
     </Book>
     <Book Series="Invincible Iron Man" Number="500.1" Volume="2008" Year="2011">
-      <Id>ead4381f-93c0-436d-b7da-a6d4430c8940</Id>
+      <Database Name="cv" Series="21487" Issue="260081" />
     </Book>
     <Book Series="Invincible Iron Man" Number="501" Volume="2008" Year="2011">
-      <Id>f44a772a-12f0-4c14-8ab2-16809524966a</Id>
+      <Database Name="cv" Series="21487" Issue="263743" />
     </Book>
     <Book Series="Invincible Iron Man" Number="502" Volume="2008" Year="2011">
-      <Id>97f28122-2abd-4467-9708-89c408ed81c3</Id>
+      <Database Name="cv" Series="21487" Issue="266009" />
     </Book>
     <Book Series="Invincible Iron Man" Number="503" Volume="2008" Year="2011">
-      <Id>986cb81e-0c7b-4272-9d14-5c99b8321292</Id>
+      <Database Name="cv" Series="21487" Issue="268765" />
     </Book>
     <Book Series="Fear Itself" Number="1" Volume="2011" Year="2011">
-      <Id>f7b6b461-3686-46e9-a5c8-faaa26abe61f</Id>
+      <Database Name="cv" Series="39611" Issue="267534" />
     </Book>
     <Book Series="Avengers" Number="13" Volume="2010" Year="2011">
-      <Id>024b6a64-1641-4124-982c-613ed067c62e</Id>
+      <Database Name="cv" Series="33227" Issue="270491" />
     </Book>
     <Book Series="Avengers" Number="14" Volume="2010" Year="2011">
-      <Id>5ef80e45-eb03-468e-bfaa-b4553311b1b5</Id>
+      <Database Name="cv" Series="33227" Issue="274483" />
     </Book>
     <Book Series="Journey into Mystery" Number="622" Volume="2011" Year="2011">
-      <Id>725384a7-808f-4f3c-b535-4588c5987671</Id>
+      <Database Name="cv" Series="39761" Issue="268355" />
     </Book>
     <Book Series="Fear Itself: The Home Front" Number="1" Volume="2011" Year="2011">
-      <Id>63c00224-e799-4f78-a058-ba0ee793ed31</Id>
+      <Database Name="cv" Series="39618" Issue="267543" />
     </Book>
     <Book Series="Fear Itself" Number="2" Volume="2011" Year="2011">
-      <Id>657ea318-89cc-4107-959a-18dbeaef810c</Id>
+      <Database Name="cv" Series="39611" Issue="269476" />
     </Book>
     <Book Series="Journey into Mystery" Number="623" Volume="2011" Year="2011">
-      <Id>917ce01d-f0e9-4520-91a1-c75748c020f9</Id>
+      <Database Name="cv" Series="39761" Issue="269948" />
     </Book>
     <Book Series="Invincible Iron Man" Number="504" Volume="2008" Year="2011">
-      <Id>693ea950-37d3-44e8-8eda-9392d5889687</Id>
+      <Database Name="cv" Series="21487" Issue="270464" />
     </Book>
     <Book Series="Fear Itself: The Home Front" Number="2" Volume="2011" Year="2011">
-      <Id>8d8ff51c-ba61-4d5f-a0b9-c65bb132f923</Id>
+      <Database Name="cv" Series="39618" Issue="269483" />
     </Book>
     <Book Series="Secret Avengers" Number="13" Volume="2010" Year="2011">
-      <Id>f3c9c606-3102-4b5a-b629-2c74e898d677</Id>
+      <Database Name="cv" Series="33350" Issue="271628" />
     </Book>
     <Book Series="Secret Avengers" Number="14" Volume="2010" Year="2011">
-      <Id>7d8473db-6123-47bf-9573-c423efe01bfd</Id>
+      <Database Name="cv" Series="33350" Issue="275779" />
     </Book>
     <Book Series="Iron Man 2.0" Number="5" Volume="2011" Year="2011">
-      <Id>dc1c957b-662c-4bdf-b596-6438a7960fa8</Id>
+      <Database Name="cv" Series="39122" Issue="271642" />
     </Book>
     <Book Series="Iron Man 2.0" Number="6" Volume="2011" Year="2011">
-      <Id>08a02123-4171-451e-93d6-d88a874bffb7</Id>
+      <Database Name="cv" Series="39122" Issue="275857" />
     </Book>
     <Book Series="Iron Man 2.0" Number="7" Volume="2011" Year="2011">
-      <Id>99a9aa8d-257c-4090-a134-fc22e6332571</Id>
+      <Database Name="cv" Series="39122" Issue="280341" />
     </Book>
     <Book Series="Fear Itself" Number="3" Volume="2011" Year="2011">
-      <Id>fee3109e-a456-4ca7-884a-bb54c3ad7880</Id>
+      <Database Name="cv" Series="39611" Issue="272330" />
     </Book>
     <Book Series="Journey into Mystery" Number="624" Volume="2011" Year="2011">
-      <Id>6570032f-ecfa-4bca-8649-c464787fe4ca</Id>
+      <Database Name="cv" Series="39761" Issue="273004" />
     </Book>
     <Book Series="Avengers" Number="15" Volume="2010" Year="2011">
-      <Id>4d9d1248-3ce4-4e36-bc34-d9ea551e98c1</Id>
+      <Database Name="cv" Series="33227" Issue="280332" />
     </Book>
     <Book Series="Avengers Academy" Number="15" Volume="2010" Year="2011">
-      <Id>27b69cd6-ea13-4a22-afd8-5d18b79a0682</Id>
+      <Database Name="cv" Series="33633" Issue="274296" />
     </Book>
     <Book Series="Invincible Iron Man" Number="505" Volume="2008" Year="2011">
-      <Id>616172df-cbb6-4dd3-be7c-cf17b297b5d7</Id>
+      <Database Name="cv" Series="21487" Issue="274547" />
     </Book>
     <Book Series="Fear Itself: The Home Front" Number="3" Volume="2011" Year="2011">
-      <Id>6689968c-ea20-4464-8a90-aa0e444589ea</Id>
+      <Database Name="cv" Series="39618" Issue="274491" />
     </Book>
     <Book Series="Avengers" Number="16" Volume="2010" Year="2011">
-      <Id>f57c1348-3760-4a73-a76c-e1152f904ce3</Id>
+      <Database Name="cv" Series="33227" Issue="286934" />
     </Book>
     <Book Series="Fear Itself" Number="4" Volume="2011" Year="2011">
-      <Id>fe09a64f-eda8-4633-8f95-0ec6e3f08323</Id>
+      <Database Name="cv" Series="39611" Issue="277536" />
     </Book>
     <Book Series="Invincible Iron Man" Number="506" Volume="2008" Year="2011">
-      <Id>ca145cb9-32c3-4af7-8736-78901b5c8782</Id>
+      <Database Name="cv" Series="21487" Issue="280356" />
     </Book>
     <Book Series="New Avengers" Number="14" Volume="2010" Year="2011">
-      <Id>5cfe9f48-5ac9-48f1-8db8-4f6f8ce82197</Id>
+      <Database Name="cv" Series="33777" Issue="278714" />
     </Book>
     <Book Series="New Avengers" Number="15" Volume="2010" Year="2011">
-      <Id>f9e679c4-70fc-42a5-9dd3-9b61b0e46bdf</Id>
+      <Database Name="cv" Series="33777" Issue="285550" />
     </Book>
     <Book Series="Avengers" Number="17" Volume="2010" Year="2011">
-      <Id>34dc2ba5-1c01-47dc-9a1f-718a8caff079</Id>
+      <Database Name="cv" Series="33227" Issue="293354" />
     </Book>
     <Book Series="Journey into Mystery" Number="625" Volume="2011" Year="2011">
-      <Id>d377135c-8ba7-486f-8be6-23b4175d97ba</Id>
+      <Database Name="cv" Series="39761" Issue="278775" />
     </Book>
     <Book Series="Journey into Mystery" Number="626" Volume="2011" Year="2011">
-      <Id>2e15e155-8166-4e69-b42a-62975be00f8e</Id>
+      <Database Name="cv" Series="39761" Issue="286965" />
     </Book>
     <Book Series="Avengers Academy" Number="16" Volume="2010" Year="2011">
-      <Id>26c30e10-bd00-4f79-a2a8-e163da1cc08f</Id>
+      <Database Name="cv" Series="33633" Issue="280329" />
     </Book>
     <Book Series="Fear Itself: The Home Front" Number="4" Volume="2011" Year="2011">
-      <Id>02f319ec-4bde-4581-a337-9a4edd1db1dc</Id>
+      <Database Name="cv" Series="39618" Issue="280333" />
     </Book>
     <Book Series="Secret Avengers" Number="15" Volume="2010" Year="2011">
-      <Id>d0df8915-58c4-439c-bde3-6c9fc573726d</Id>
+      <Database Name="cv" Series="33350" Issue="281815" />
     </Book>
     <Book Series="New Avengers" Number="16" Volume="2010" Year="2011">
-      <Id>1f7a15cc-cb23-40f1-aa91-900cee86ee7c</Id>
+      <Database Name="cv" Series="33777" Issue="292618" />
     </Book>
     <Book Series="Fear Itself: The Black Widow" Number="1" Volume="2011" Year="2011">
-      <Id>c900a335-f522-47f6-a8be-f02b89d15fdc</Id>
+      <Database Name="cv" Series="41054" Issue="276858" />
     </Book>
     <Book Series="Fear Itself" Number="5" Volume="2011" Year="2011">
-      <Id>f9a10c83-e35e-4786-8579-ae2f9801a80b</Id>
+      <Database Name="cv" Series="39611" Issue="285335" />
     </Book>
     <Book Series="Invincible Iron Man" Number="507" Volume="2008" Year="2011">
-      <Id>8c2a39d6-b264-4ff9-a61e-9c6afb14d0a7</Id>
+      <Database Name="cv" Series="21487" Issue="286911" />
     </Book>
     <Book Series="Fear Itself: The Home Front" Number="5" Volume="2011" Year="2011">
-      <Id>9b44bcb5-04ce-4c2e-9cf2-1978f505ad54</Id>
+      <Database Name="cv" Series="39618" Issue="286961" />
     </Book>
     <Book Series="Avengers Academy" Number="17" Volume="2010" Year="2011">
-      <Id>bcfc3cd7-f90a-47bc-b5a7-13001b6dec48</Id>
+      <Database Name="cv" Series="33633" Issue="282778" />
     </Book>
     <Book Series="Avengers Academy" Number="18" Volume="2010" Year="2011">
-      <Id>8c95a287-1222-4894-848f-24fd99442bc2</Id>
+      <Database Name="cv" Series="33633" Issue="286919" />
     </Book>
     <Book Series="Avengers Academy" Number="19" Volume="2010" Year="2011">
-      <Id>45d67986-1b17-4f08-bc4e-07ebb4140470</Id>
+      <Database Name="cv" Series="33633" Issue="293620" />
     </Book>
     <Book Series="Journey into Mystery" Number="627" Volume="2011" Year="2011">
-      <Id>a6fb8e59-bd24-4ef1-9c27-df197ce671ab</Id>
+      <Database Name="cv" Series="39761" Issue="292848" />
     </Book>
     <Book Series="Fear Itself" Number="6" Volume="2011" Year="2011">
-      <Id>43146781-8a88-44d2-9751-5e862bc22b16</Id>
+      <Database Name="cv" Series="39611" Issue="292590" />
     </Book>
     <Book Series="Journey into Mystery" Number="628" Volume="2011" Year="2011">
-      <Id>37d75dc1-d202-4cb3-ab3b-13a8bd4c0e68</Id>
+      <Database Name="cv" Series="39761" Issue="293749" />
     </Book>
     <Book Series="Invincible Iron Man" Number="508" Volume="2008" Year="2011">
-      <Id>58c58ff6-5122-4bed-8e7c-df1e5b89128e</Id>
+      <Database Name="cv" Series="21487" Issue="293358" />
     </Book>
     <Book Series="Invincible Iron Man" Number="509" Volume="2008" Year="2011">
-      <Id>4526ffb6-adce-42f3-a2af-67d32065fb78</Id>
+      <Database Name="cv" Series="21487" Issue="297673" />
     </Book>
     <Book Series="Fear Itself: The Home Front" Number="6" Volume="2011" Year="2011">
-      <Id>eaefc8d2-e897-4850-8cd5-e909e017c987</Id>
+      <Database Name="cv" Series="39618" Issue="293419" />
     </Book>
     <Book Series="Fear Itself" Number="7" Volume="2011" Year="2011">
-      <Id>cfe1aac4-1232-494e-8a06-d6e18d2339be</Id>
+      <Database Name="cv" Series="39611" Issue="297217" />
     </Book>
     <Book Series="Journey into Mystery" Number="629" Volume="2011" Year="2011">
-      <Id>eb7fdd3c-c737-4a53-a4df-5ec0611931df</Id>
+      <Database Name="cv" Series="39761" Issue="298263" />
     </Book>
     <Book Series="Fear Itself: The Home Front" Number="7" Volume="2011" Year="2011">
-      <Id>b92126c3-fa16-4b7f-a089-44335037a344</Id>
+      <Database Name="cv" Series="39618" Issue="297580" />
     </Book>
     <Book Series="Journey into Mystery" Number="630" Volume="2011" Year="2011">
-      <Id>8929e1f5-38d5-46a0-9a11-84001d679c76</Id>
+      <Database Name="cv" Series="39761" Issue="299821" />
     </Book>
     <Book Series="Avengers Academy" Number="20" Volume="2010" Year="2011">
-      <Id>19edeb83-6271-4e86-b0ff-ba188415918e</Id>
+      <Database Name="cv" Series="33633" Issue="299745" />
     </Book>
     <Book Series="Fear Itself" Number="7.1" Volume="2011" Year="2012">
-      <Id>2601e84f-8c13-48c8-beae-35f4ea5b62d0</Id>
+      <Database Name="cv" Series="39611" Issue="301059" />
     </Book>
     <Book Series="Fear Itself" Number="7.2" Volume="2011" Year="2012">
-      <Id>2becc7e9-9499-428d-bc37-dcc1033556ed</Id>
+      <Database Name="cv" Series="39611" Issue="301654" />
     </Book>
     <Book Series="Fear Itself" Number="7.3" Volume="2011" Year="2012">
-      <Id>0d65d824-b520-485f-bc9d-4f29bd28d60f</Id>
+      <Database Name="cv" Series="39611" Issue="302649" />
     </Book>
     <Book Series="Journey into Mystery" Number="631" Volume="2011" Year="2012">
-      <Id>7bf1ce74-b316-4476-acfe-d4c51ed9db5e</Id>
+      <Database Name="cv" Series="39761" Issue="301962" />
     </Book>
     <Book Series="Fear Itself: The Fearless" Number="1" Volume="2011" Year="2011">
-      <Id>26f5fd46-7120-4372-a180-40fe676fb75e</Id>
+      <Database Name="cv" Series="43215" Issue="297579" />
     </Book>
     <Book Series="Avengers Academy" Number="21" Volume="2010" Year="2012">
-      <Id>73d4a282-8ca2-4b0c-a337-4f87010d83f1</Id>
+      <Database Name="cv" Series="33633" Issue="301050" />
     </Book>
     <Book Series="The Mighty Thor" Number="7" Volume="2011" Year="2011">
-      <Id>ad4c8b45-7da1-44c5-98ba-f1fee0155054</Id>
+      <Database Name="cv" Series="39763" Issue="299752" />
     </Book>
     <Book Series="The Mighty Thor" Number="8" Volume="2011" Year="2012">
-      <Id>fa56a6d0-74e5-4e17-b156-bde987890f08</Id>
+      <Database Name="cv" Series="39763" Issue="303552" />
     </Book>
     <Book Series="The Mighty Thor" Number="9" Volume="2011" Year="2012">
-      <Id>041f4f80-1428-4789-9415-8993838123d3</Id>
+      <Database Name="cv" Series="39763" Issue="308696" />
     </Book>
     <Book Series="The Mighty Thor" Number="10" Volume="2011" Year="2012">
-      <Id>0d389272-b0d8-41a4-849d-c08c8ad928db</Id>
+      <Database Name="cv" Series="39763" Issue="312810" />
     </Book>
     <Book Series="The Mighty Thor" Number="11" Volume="2011" Year="2012">
-      <Id>5461978f-f9a7-45b9-a228-be5ef53f315d</Id>
+      <Database Name="cv" Series="39763" Issue="316682" />
     </Book>
     <Book Series="The Mighty Thor" Number="12" Volume="2011" Year="2012">
-      <Id>d3133188-3c08-4b30-ab18-58e9d0ca9539</Id>
+      <Database Name="cv" Series="39763" Issue="325032" />
     </Book>
     <Book Series="Journey into Mystery" Number="634" Volume="2011" Year="2012">
-      <Id>e1a3dc2c-fb9a-41e3-9a96-bfa6a9d6beb0</Id>
+      <Database Name="cv" Series="39761" Issue="315172" />
     </Book>
     <Book Series="Winter Soldier" Number="1" Volume="2012" Year="2012">
-      <Id>4235ce32-a8d1-416e-908e-698596af7a11</Id>
+      <Database Name="cv" Series="45518" Issue="313496" />
     </Book>
     <Book Series="Winter Soldier" Number="2" Volume="2012" Year="2012">
-      <Id>8f3a19e8-4829-468d-8744-aa553516dd16</Id>
+      <Database Name="cv" Series="45518" Issue="315739" />
     </Book>
     <Book Series="Winter Soldier" Number="3" Volume="2012" Year="2012">
-      <Id>42630467-b201-44f7-bed2-179676f92e58</Id>
+      <Database Name="cv" Series="45518" Issue="319362" />
     </Book>
     <Book Series="Winter Soldier" Number="4" Volume="2012" Year="2012">
-      <Id>9bce9f4b-459b-4751-9c07-9d1bd2d9000b</Id>
+      <Database Name="cv" Series="45518" Issue="329197" />
     </Book>
     <Book Series="Winter Soldier" Number="5" Volume="2012" Year="2012">
-      <Id>676a7674-3b19-4ccd-98a7-0d7eb27e908c</Id>
+      <Database Name="cv" Series="45518" Issue="335913" />
     </Book>
     <Book Series="Battle Scars" Number="1" Volume="2012" Year="2012">
-      <Id>117b9b1e-c6c3-4c63-97d8-3de3527eff0f</Id>
+      <Database Name="cv" Series="43894" Issue="301666" />
     </Book>
     <Book Series="Battle Scars" Number="2" Volume="2012" Year="2012">
-      <Id>d98dfba5-8c1a-475f-bd18-2fefe0eec9eb</Id>
+      <Database Name="cv" Series="43894" Issue="306645" />
     </Book>
     <Book Series="Battle Scars" Number="3" Volume="2012" Year="2012">
-      <Id>cca8b56c-1d0f-47d5-bb15-e53aea025719</Id>
+      <Database Name="cv" Series="43894" Issue="310917" />
     </Book>
     <Book Series="Battle Scars" Number="4" Volume="2012" Year="2012">
-      <Id>a35d6fa7-ff76-42dc-9a5d-f8a33be54da0</Id>
+      <Database Name="cv" Series="43894" Issue="315288" />
     </Book>
     <Book Series="Battle Scars" Number="5" Volume="2012" Year="2012">
-      <Id>f1a0f878-24f7-46bf-b477-52c7593f2c1f</Id>
+      <Database Name="cv" Series="43894" Issue="321359" />
     </Book>
     <Book Series="Battle Scars" Number="6" Volume="2012" Year="2012">
-      <Id>345a23db-77ee-4a83-9ad6-903910d19111</Id>
+      <Database Name="cv" Series="43894" Issue="333424" />
     </Book>
     <Book Series="Invincible Iron Man" Number="510" Volume="2008" Year="2012">
-      <Id>d0fd8d97-a2bc-4b5f-8986-bd4678841de7</Id>
+      <Database Name="cv" Series="21487" Issue="303430" />
     </Book>
     <Book Series="Invincible Iron Man" Number="511" Volume="2008" Year="2012">
-      <Id>5046e9f9-fece-4a3e-a52d-2d0e3ebac15e</Id>
+      <Database Name="cv" Series="21487" Issue="307518" />
     </Book>
     <Book Series="Invincible Iron Man" Number="512" Volume="2008" Year="2012">
-      <Id>baffabe8-056f-4e9e-9217-630722ac784f</Id>
+      <Database Name="cv" Series="21487" Issue="311755" />
     </Book>
     <Book Series="Invincible Iron Man" Number="513" Volume="2008" Year="2012">
-      <Id>d044c177-a69e-4990-87c9-f14b61993543</Id>
+      <Database Name="cv" Series="21487" Issue="315804" />
     </Book>
     <Book Series="Invincible Iron Man" Number="514" Volume="2008" Year="2012">
-      <Id>83e06cdc-0553-404f-8884-ee44c238f019</Id>
+      <Database Name="cv" Series="21487" Issue="323376" />
     </Book>
     <Book Series="Invincible Iron Man" Number="515" Volume="2008" Year="2012">
-      <Id>3b0d72ad-7136-4459-9c60-25166bafa66e</Id>
+      <Database Name="cv" Series="21487" Issue="331872" />
     </Book>
     <Book Series="Secret Avengers" Number="16" Volume="2010" Year="2011">
-      <Id>8261ba10-67c9-4a66-a572-b3e6a2231227</Id>
+      <Database Name="cv" Series="33350" Issue="290674" />
     </Book>
     <Book Series="Secret Avengers" Number="17" Volume="2010" Year="2011">
-      <Id>939f502b-5bc0-4e3c-8a1b-12b4ad6d53e6</Id>
+      <Database Name="cv" Series="33350" Issue="293789" />
     </Book>
     <Book Series="Secret Avengers" Number="18" Volume="2010" Year="2011">
-      <Id>4b3c7cbb-5239-4eac-b457-444a2ed697ad</Id>
+      <Database Name="cv" Series="33350" Issue="299758" />
     </Book>
     <Book Series="Secret Avengers" Number="19" Volume="2010" Year="2012">
-      <Id>cd72e9ca-1257-4331-8974-db6b48bbbea0</Id>
+      <Database Name="cv" Series="33350" Issue="303415" />
     </Book>
     <Book Series="Secret Avengers" Number="20" Volume="2010" Year="2012">
-      <Id>f7742922-1e0d-47aa-a08a-788001bfa26f</Id>
+      <Database Name="cv" Series="33350" Issue="308843" />
     </Book>
     <Book Series="Secret Avengers" Number="21" Volume="2010" Year="2012">
-      <Id>73d6bdb3-9f22-4beb-8b16-e1ca92e8ab85</Id>
+      <Database Name="cv" Series="33350" Issue="310921" />
     </Book>
   </Books>
   <Matchers />

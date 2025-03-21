@@ -1,852 +1,853 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Avengers 18 - All-New</Name>
+  <Name>Avengers 018 - All-New</Name>
+  <NumIssues>282</NumIssues>
   <Books>
     <Book Series="Avengers: Rage of Ultron" Number="1" Volume="2015" Year="2015">
-      <Id>8b645dac-b3f5-40b4-9971-f45f565c0edc</Id>
+      <Database Name="cv" Series="81063" Issue="484802" />
     </Book>
     <Book Series="All-New Hawkeye" Number="1" Volume="2015" Year="2015">
-      <Id>5c7b6a3a-fc7b-45a1-8668-879e40a2db37</Id>
+      <Database Name="cv" Series="80453" Issue="481603" />
     </Book>
     <Book Series="All-New Hawkeye" Number="2" Volume="2015" Year="2015">
-      <Id>79bf408d-3006-47dc-9d5f-dbe9ce1e6905</Id>
+      <Database Name="cv" Series="80453" Issue="485502" />
     </Book>
     <Book Series="All-New Hawkeye" Number="3" Volume="2015" Year="2015">
-      <Id>b593e047-ab4a-4c75-8f51-62a044bf77c2</Id>
+      <Database Name="cv" Series="80453" Issue="489895" />
     </Book>
     <Book Series="All-New Hawkeye" Number="4" Volume="2015" Year="2015">
-      <Id>e73c5744-a91e-4b3b-837e-6c8bb9606deb</Id>
+      <Database Name="cv" Series="80453" Issue="495794" />
     </Book>
     <Book Series="All-New Hawkeye" Number="5" Volume="2015" Year="2015">
-      <Id>12c3c19c-f413-44ad-861e-343e7e09c9d9</Id>
+      <Database Name="cv" Series="80453" Issue="500298" />
     </Book>
-    <Book Series="All-New Hawkeye" Number="1" Volume="2015" Year="2016">
-      <Id>c1d1a787-75c4-46a7-849a-d72fb31f97df</Id>
+    <Book Series="All-New Hawkeye" Number="1" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85929" Issue="505512" />
     </Book>
-    <Book Series="All-New Hawkeye" Number="2" Volume="2015" Year="2016">
-      <Id>47395cb5-fea7-48c0-ac3d-a0672817d04a</Id>
+    <Book Series="All-New Hawkeye" Number="2" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85929" Issue="507765" />
     </Book>
-    <Book Series="All-New Hawkeye" Number="3" Volume="2015" Year="2016">
-      <Id>0854fc5f-d604-4546-979a-9278db955237</Id>
+    <Book Series="All-New Hawkeye" Number="3" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85929" Issue="510933" />
     </Book>
-    <Book Series="All-New Hawkeye" Number="4" Volume="2015" Year="2016">
-      <Id>416710d1-c6f0-42a8-82bf-25ab92bbb2be</Id>
+    <Book Series="All-New Hawkeye" Number="4" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85929" Issue="514429" />
     </Book>
-    <Book Series="All-New Hawkeye" Number="5" Volume="2015" Year="2016">
-      <Id>aadbb66a-8eab-4c15-a91e-db2f729767da</Id>
+    <Book Series="All-New Hawkeye" Number="5" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85929" Issue="521328" />
     </Book>
-    <Book Series="All-New Hawkeye" Number="6" Volume="2015" Year="2016">
-      <Id>bce378f3-1a54-4f19-bbb8-46999a2ae375</Id>
+    <Book Series="All-New Hawkeye" Number="6" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85929" Issue="526038" />
     </Book>
     <Book Series="All-New All-Different Marvel Point One" Number="1" Volume="2015" Year="2015">
-      <Id>4e1cb4bb-ab3d-4287-a973-11bea4533c51</Id>
+      <Database Name="cv" Series="85075" Issue="502107" />
     </Book>
     <Book Series="Invincible Iron Man" Number="1" Volume="2015" Year="2015">
-      <Id>aa4aa4bf-e4ff-412e-9738-2d411898c202</Id>
+      <Database Name="cv" Series="85110" Issue="502119" />
     </Book>
     <Book Series="Invincible Iron Man" Number="2" Volume="2015" Year="2015">
-      <Id>fb7368eb-8409-48e3-b2bc-c6be58d14820</Id>
+      <Database Name="cv" Series="85110" Issue="503558" />
     </Book>
     <Book Series="Invincible Iron Man" Number="3" Volume="2015" Year="2016">
-      <Id>be65b634-0dd2-4558-a154-061fd319dfdb</Id>
+      <Database Name="cv" Series="85110" Issue="504943" />
     </Book>
     <Book Series="Invincible Iron Man" Number="4" Volume="2015" Year="2016">
-      <Id>8c2af261-b349-4bd1-91c1-f3ed83d2cbb9</Id>
+      <Database Name="cv" Series="85110" Issue="507183" />
     </Book>
     <Book Series="Invincible Iron Man" Number="5" Volume="2015" Year="2016">
-      <Id>1809b922-f4fb-43eb-9e27-d8564d7380c8</Id>
+      <Database Name="cv" Series="85110" Issue="510499" />
     </Book>
     <Book Series="Uncanny Avengers" Number="1" Volume="2015" Year="2015">
-      <Id>847cb3f2-a2c9-4e5d-8860-c6747e960e86</Id>
+      <Database Name="cv" Series="85318" Issue="502874" />
     </Book>
     <Book Series="Uncanny Avengers" Number="2" Volume="2015" Year="2016">
-      <Id>32751086-bbfb-48d2-b7f0-2769bc3b1407</Id>
+      <Database Name="cv" Series="85318" Issue="505530" />
     </Book>
     <Book Series="Uncanny Avengers" Number="3" Volume="2015" Year="2016">
-      <Id>91f01a9d-7cb2-46ff-af68-736f3f38efb7</Id>
+      <Database Name="cv" Series="85318" Issue="507786" />
     </Book>
     <Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2016">
-      <Id>299055df-8f87-44fa-ac89-7be9482c8ac6</Id>
+      <Database Name="cv" Series="85318" Issue="510957" />
     </Book>
     <Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2016">
-      <Id>7c5bb256-18b3-40eb-b489-71ee972d3764</Id>
+      <Database Name="cv" Series="85318" Issue="513659" />
     </Book>
     <Book Series="Uncanny Avengers" Number="6" Volume="2015" Year="2016">
-      <Id>270a8243-48eb-476a-bd26-b1c59b5a8b27</Id>
+      <Database Name="cv" Series="85318" Issue="517836" />
     </Book>
     <Book Series="New Avengers" Number="1" Volume="2015" Year="2015">
-      <Id>b84f3d25-cfdc-4078-ba76-1e0931a9789c</Id>
+      <Database Name="cv" Series="85301" Issue="502871" />
     </Book>
     <Book Series="New Avengers" Number="2" Volume="2015" Year="2015">
-      <Id>f5a78599-f30b-4a3e-9df3-89cc10648d00</Id>
+      <Database Name="cv" Series="85301" Issue="504343" />
     </Book>
     <Book Series="New Avengers" Number="3" Volume="2015" Year="2016">
-      <Id>7b1724e0-19ea-4915-be88-31ca2eea33f0</Id>
+      <Database Name="cv" Series="85301" Issue="506178" />
     </Book>
     <Book Series="New Avengers" Number="4" Volume="2015" Year="2016">
-      <Id>5394f910-e4eb-41cd-9d47-b4f859fe576f</Id>
+      <Database Name="cv" Series="85301" Issue="508897" />
     </Book>
     <Book Series="New Avengers" Number="5" Volume="2015" Year="2016">
-      <Id>00b39640-4381-45ee-aa1b-66fc6b3be95f</Id>
+      <Database Name="cv" Series="85301" Issue="511517" />
     </Book>
     <Book Series="New Avengers" Number="6" Volume="2015" Year="2016">
-      <Id>2693b567-a0b0-4b6b-90ee-351ab31b1c1f</Id>
+      <Database Name="cv" Series="85301" Issue="514444" />
     </Book>
     <Book Series="New Avengers" Number="7" Volume="2015" Year="2016">
-      <Id>0fc98152-56db-488f-931e-d6f4ca4277d2</Id>
+      <Database Name="cv" Series="85301" Issue="516962" />
     </Book>
     <Book Series="Spider-Man" Number="1" Volume="2016" Year="2016">
-      <Id>12aac861-2dfa-4875-889d-6f3c60d910c1</Id>
+      <Database Name="cv" Series="87820" Issue="513656" />
     </Book>
     <Book Series="Spider-Man" Number="2" Volume="2016" Year="2016">
-      <Id>ff0ff337-06df-45a9-8d80-7407efe8dd08</Id>
+      <Database Name="cv" Series="87820" Issue="517835" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="1" Volume="2015" Year="2016">
-      <Id>8e0bbee7-e543-4985-ab12-a27320601dfc</Id>
+      <Database Name="cv" Series="85928" Issue="505511" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="2" Volume="2015" Year="2016">
-      <Id>9161e6a6-2260-4a56-8195-c96e67ab6b52</Id>
+      <Database Name="cv" Series="85928" Issue="507173" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="3" Volume="2015" Year="2016">
-      <Id>236f4704-5205-448b-9b27-8a6a0e3c96e1</Id>
+      <Database Name="cv" Series="85928" Issue="510932" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="4" Volume="2015" Year="2016">
-      <Id>21554257-a3e2-43f7-85c3-0be4ef30dca1</Id>
+      <Database Name="cv" Series="85928" Issue="512415" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="5" Volume="2015" Year="2016">
-      <Id>58138964-f2ef-475a-9a74-84448a645e04</Id>
+      <Database Name="cv" Series="85928" Issue="514428" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="6" Volume="2015" Year="2016">
-      <Id>068b95c2-b02d-4698-894b-5c9f3b008a66</Id>
+      <Database Name="cv" Series="85928" Issue="516944" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="1" Volume="2015" Year="2015">
-      <Id>9980b2cb-ed80-43da-8c88-33a6c9ea085d</Id>
+      <Database Name="cv" Series="85274" Issue="502855" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="2" Volume="2015" Year="2015">
-      <Id>d9f2f833-901e-465b-a00a-9dfde98f0c1b</Id>
+      <Database Name="cv" Series="85274" Issue="504334" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="3" Volume="2015" Year="2016">
-      <Id>eb1fe0c1-a0a6-4cc6-9788-2b00645cf5d0</Id>
+      <Database Name="cv" Series="85274" Issue="506164" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="4" Volume="2015" Year="2016">
-      <Id>e614fbc9-567b-4306-827e-6501a1e24eab</Id>
+      <Database Name="cv" Series="85274" Issue="508886" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="5" Volume="2015" Year="2016">
-      <Id>e80333d9-3d57-46aa-986e-c37709c06596</Id>
+      <Database Name="cv" Series="85274" Issue="510937" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="6" Volume="2015" Year="2016">
-      <Id>1ea15e32-cd78-4b44-89db-ecaf9fd5c4f0</Id>
+      <Database Name="cv" Series="85274" Issue="513641" />
     </Book>
     <Book Series="Captain Marvel" Number="1" Volume="2016" Year="2016">
-      <Id>2abc59d8-4fda-4bac-b479-67269bde88f0</Id>
+      <Database Name="cv" Series="87428" Issue="511508" />
     </Book>
     <Book Series="Captain Marvel" Number="2" Volume="2016" Year="2016">
-      <Id>ecb0aebb-e7ff-4fc9-85dd-4c3ab0bc22d9</Id>
+      <Database Name="cv" Series="87428" Issue="513642" />
     </Book>
     <Book Series="Captain Marvel" Number="3" Volume="2016" Year="2016">
-      <Id>63c77a3c-310d-4dd0-8a88-3ac8e69baa18</Id>
+      <Database Name="cv" Series="87428" Issue="520198" />
     </Book>
     <Book Series="Captain Marvel" Number="4" Volume="2016" Year="2016">
-      <Id>ce9c3ded-0092-4be3-9daa-ccfc24d6ce29</Id>
+      <Database Name="cv" Series="87428" Issue="526044" />
     </Book>
     <Book Series="Captain Marvel" Number="5" Volume="2016" Year="2016">
-      <Id>bc2c3915-edfc-4b20-af94-d7a5aba774bf</Id>
+      <Database Name="cv" Series="87428" Issue="531875" />
     </Book>
     <Book Series="Ultimates" Number="1" Volume="2015" Year="2016">
-      <Id>5f77514c-ef12-4bbb-b852-76ce636a58de</Id>
+      <Database Name="cv" Series="85972" Issue="505529" />
     </Book>
     <Book Series="Ultimates" Number="2" Volume="2015" Year="2016">
-      <Id>94c24298-6c8f-4413-a0ce-db1d97758baf</Id>
+      <Database Name="cv" Series="85972" Issue="507785" />
     </Book>
     <Book Series="Ultimates" Number="3" Volume="2015" Year="2016">
-      <Id>18b6a357-da6e-4ce4-b1e3-ff3132953e3b</Id>
+      <Database Name="cv" Series="85972" Issue="510620" />
     </Book>
     <Book Series="Ultimates" Number="4" Volume="2015" Year="2016">
-      <Id>416bdc6c-b26b-4d81-8407-23edb14019bb</Id>
+      <Database Name="cv" Series="85972" Issue="514454" />
     </Book>
     <Book Series="Ultimates" Number="5" Volume="2015" Year="2016">
-      <Id>accb9432-dc6c-4aae-8c98-f6f2a0acbae5</Id>
+      <Database Name="cv" Series="85972" Issue="521346" />
     </Book>
     <Book Series="Ultimates" Number="6" Volume="2015" Year="2016">
-      <Id>3b1c3315-059d-4d6d-9065-85343304fbfa</Id>
+      <Database Name="cv" Series="85972" Issue="527158" />
     </Book>
     <Book Series="A-Force" Number="1" Volume="2016" Year="2016">
-      <Id>1cae95b9-0926-4c3e-9526-49fc735119e2</Id>
+      <Database Name="cv" Series="87152" Issue="510488" />
     </Book>
     <Book Series="A-Force" Number="2" Volume="2016" Year="2016">
-      <Id>6e0a2d5a-79de-4d38-be47-0383749e6065</Id>
+      <Database Name="cv" Series="87152" Issue="513637" />
     </Book>
     <Book Series="A-Force" Number="3" Volume="2016" Year="2016">
-      <Id>daeb89a4-1d6b-4e78-83ca-5aceddd1e4d4</Id>
+      <Database Name="cv" Series="87152" Issue="517822" />
     </Book>
     <Book Series="A-Force" Number="4" Volume="2016" Year="2016">
-      <Id>f93688f6-6375-4cbb-812a-e85ec1338712</Id>
+      <Database Name="cv" Series="87152" Issue="525014" />
     </Book>
     <Book Series="Black Knight" Number="1" Volume="2015" Year="2016">
-      <Id>2a9cb250-c3be-4962-8b1b-b5d0c4574a69</Id>
+      <Database Name="cv" Series="86096" Issue="506163" />
     </Book>
     <Book Series="Black Knight" Number="2" Volume="2015" Year="2016">
-      <Id>74b831bb-5190-4b83-9a43-8ad8d19d2086</Id>
+      <Database Name="cv" Series="86096" Issue="507767" />
     </Book>
     <Book Series="Black Knight" Number="3" Volume="2015" Year="2016">
-      <Id>e5d0046e-a89a-44ca-97d9-6e983141c973</Id>
+      <Database Name="cv" Series="86096" Issue="510936" />
     </Book>
     <Book Series="Black Knight" Number="4" Volume="2015" Year="2016">
-      <Id>02975a11-9e62-41a2-a09d-17a3844174f4</Id>
+      <Database Name="cv" Series="86096" Issue="514433" />
     </Book>
     <Book Series="Black Knight" Number="5" Volume="2015" Year="2016">
-      <Id>ed75a4b1-14a4-4972-bcbb-287b6202ff67</Id>
+      <Database Name="cv" Series="86096" Issue="518852" />
     </Book>
     <Book Series="Mighty Thor" Number="1" Volume="2015" Year="2016">
-      <Id>7a12dcf2-8866-4a19-a0b4-5fc542226731</Id>
+      <Database Name="cv" Series="86113" Issue="506175" />
     </Book>
     <Book Series="Mighty Thor" Number="2" Volume="2015" Year="2016">
-      <Id>91277fb0-7ba9-4a0f-96da-fd9f146ed0ed</Id>
+      <Database Name="cv" Series="86113" Issue="508434" />
     </Book>
     <Book Series="Mighty Thor" Number="3" Volume="2015" Year="2016">
-      <Id>4f667c62-9a0f-45e6-9b1a-8d17e0eb8ed0</Id>
+      <Database Name="cv" Series="86113" Issue="510948" />
     </Book>
     <Book Series="Mighty Thor" Number="4" Volume="2015" Year="2016">
-      <Id>098c95f2-aa14-47c2-bdf0-ed700798904f</Id>
+      <Database Name="cv" Series="86113" Issue="516086" />
     </Book>
     <Book Series="Mighty Thor" Number="5" Volume="2015" Year="2016">
-      <Id>cb426b15-077d-4ae2-9c75-725279068379</Id>
+      <Database Name="cv" Series="86113" Issue="518860" />
     </Book>
     <Book Series="Scarlet Witch" Number="1" Volume="2015" Year="2016">
-      <Id>908e9830-b0d1-454e-ac8e-b110a9009145</Id>
+      <Database Name="cv" Series="86552" Issue="507779" />
     </Book>
     <Book Series="Scarlet Witch" Number="2" Volume="2015" Year="2016">
-      <Id>af45d000-ea6f-4ee6-aa4b-588d011f0f8b</Id>
+      <Database Name="cv" Series="86552" Issue="510950" />
     </Book>
     <Book Series="Scarlet Witch" Number="3" Volume="2015" Year="2016">
-      <Id>c28e3698-7c88-4fe8-ac83-ba8c90aeb866</Id>
+      <Database Name="cv" Series="86552" Issue="513655" />
     </Book>
     <Book Series="Scarlet Witch" Number="4" Volume="2015" Year="2016">
-      <Id>ce41a9dc-bfce-4b40-beb9-65ced56a6e17</Id>
+      <Database Name="cv" Series="86552" Issue="520208" />
     </Book>
     <Book Series="Scarlet Witch" Number="5" Volume="2015" Year="2016">
-      <Id>47f301a5-4d28-40f8-930c-5f6ff8344f48</Id>
+      <Database Name="cv" Series="86552" Issue="523264" />
     </Book>
     <Book Series="Mockingbird" Number="1" Volume="2016" Year="2016">
-      <Id>00bf6907-c4aa-41d7-9e87-87f6720aff92</Id>
+      <Database Name="cv" Series="88764" Issue="518861" />
     </Book>
     <Book Series="Mockingbird" Number="2" Volume="2016" Year="2016">
-      <Id>711a7f46-7887-40f2-a618-7c23a128550a</Id>
+      <Database Name="cv" Series="88764" Issue="525031" />
     </Book>
     <Book Series="Mockingbird" Number="3" Volume="2016" Year="2016">
-      <Id>338542e6-e2eb-46ac-9cf6-758a25e2c43c</Id>
+      <Database Name="cv" Series="88764" Issue="531892" />
     </Book>
     <Book Series="Mockingbird" Number="4" Volume="2016" Year="2016">
-      <Id>0ebe8022-645d-4956-97da-64d36fb4393e</Id>
+      <Database Name="cv" Series="88764" Issue="537941" />
     </Book>
     <Book Series="Mockingbird" Number="5" Volume="2016" Year="2016">
-      <Id>69eb4677-0d02-4e7d-9f60-a6018cf7efef</Id>
+      <Database Name="cv" Series="88764" Issue="541212" />
     </Book>
     <Book Series="Avengers Standoff: Welcome to Pleasant Hill" Number="1" Volume="2016" Year="2016">
-      <Id>7c23dc52-bc35-4145-aee7-0835e51d5434</Id>
+      <Database Name="cv" Series="88187" Issue="516077" />
     </Book>
     <Book Series="Avengers Standoff: Assault On Pleasant Hill Alpha" Number="1" Volume="2016" Year="2016">
-      <Id>bfa059d2-4f2f-4b64-b163-27278e44bae6</Id>
+      <Database Name="cv" Series="88551" Issue="517824" />
     </Book>
     <Book Series="New Avengers" Number="8" Volume="2015" Year="2016">
-      <Id>bc0d0eb1-1567-4829-afd3-f6b2308494bf</Id>
+      <Database Name="cv" Series="85301" Issue="521339" />
     </Book>
     <Book Series="Agents of S.H.I.E.L.D." Number="3" Volume="2016" Year="2016">
-      <Id>9c498933-d7de-446e-910c-cb61965bbf54</Id>
+      <Database Name="cv" Series="87304" Issue="518849" />
     </Book>
     <Book Series="New Avengers" Number="9" Volume="2015" Year="2016">
-      <Id>b00e9f2f-ea25-4f69-97ef-b2b16e08a0ba</Id>
+      <Database Name="cv" Series="85301" Issue="523261" />
     </Book>
     <Book Series="Agents of S.H.I.E.L.D." Number="4" Volume="2016" Year="2016">
-      <Id>fe137d76-f6f5-486a-9d06-254c7c746839</Id>
+      <Database Name="cv" Series="87304" Issue="525015" />
     </Book>
     <Book Series="New Avengers" Number="10" Volume="2015" Year="2016">
-      <Id>e1b0540d-1529-4822-89b2-9c162c0e95e6</Id>
+      <Database Name="cv" Series="85301" Issue="526061" />
     </Book>
     <Book Series="Uncanny Avengers" Number="7" Volume="2015" Year="2016">
-      <Id>9b775e08-41b3-4b9c-a19a-8f64ffa7e18a</Id>
+      <Database Name="cv" Series="85318" Issue="518870" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="7" Volume="2015" Year="2016">
-      <Id>46050cbc-e141-4021-8e52-eb628bc112f2</Id>
+      <Database Name="cv" Series="85928" Issue="521327" />
     </Book>
     <Book Series="Howling Commandos of S.H.I.E.L.D." Number="6" Volume="2015" Year="2016">
-      <Id>0baa53f8-1835-4873-9706-005a64553594</Id>
+      <Database Name="cv" Series="85573" Issue="521333" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="7" Volume="2015" Year="2016">
-      <Id>6ca05358-7405-43fd-8cf3-3a836cdad349</Id>
+      <Database Name="cv" Series="85274" Issue="522425" />
     </Book>
     <Book Series="Uncanny Avengers" Number="8" Volume="2015" Year="2016">
-      <Id>be6fcb91-bb49-4f36-8498-bfec4ff49a09</Id>
+      <Database Name="cv" Series="85318" Issue="523268" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="8" Volume="2015" Year="2016">
-      <Id>ad0793a0-e4cb-42a8-85d9-8d154e2dae18</Id>
+      <Database Name="cv" Series="85928" Issue="525016" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="8" Volume="2015" Year="2016">
-      <Id>3c4bd582-9f7f-4836-8ce1-55132cb1e1df</Id>
+      <Database Name="cv" Series="85274" Issue="526041" />
     </Book>
     <Book Series="Avengers Standoff: Assault On Pleasant Hill Omega" Number="1" Volume="2016" Year="2016">
-      <Id>1bcbe43b-fd1b-4868-b9fd-8f4bca320539</Id>
+      <Database Name="cv" Series="89915" Issue="527134" />
     </Book>
     <Book Series="Illuminati" Number="6" Volume="2015" Year="2016">
-      <Id>9afa8ee3-e029-4435-9989-2f90432963f2</Id>
+      <Database Name="cv" Series="85951" Issue="525027" />
     </Book>
     <Book Series="New Avengers" Number="11" Volume="2015" Year="2016">
-      <Id>01954ed1-26ee-4dac-846a-d057b019bbe3</Id>
+      <Database Name="cv" Series="85301" Issue="528513" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="9" Volume="2015" Year="2016">
-      <Id>23aa7f23-17dd-485a-be77-6ffb5efaea75</Id>
+      <Database Name="cv" Series="85274" Issue="528503" />
     </Book>
     <Book Series="Uncanny Avengers" Number="9" Volume="2015" Year="2016">
-      <Id>bab3d44a-cd8c-4d4d-b524-ebf900a0308c</Id>
+      <Database Name="cv" Series="85318" Issue="530745" />
     </Book>
     <Book Series="Uncanny Avengers" Number="10" Volume="2015" Year="2016">
-      <Id>4ad11ea6-772f-438f-8711-510ade669574</Id>
+      <Database Name="cv" Series="85318" Issue="537252" />
     </Book>
     <Book Series="Uncanny Avengers" Number="11" Volume="2015" Year="2016">
-      <Id>d5d25586-5136-4750-a4a1-be914285395f</Id>
+      <Database Name="cv" Series="85318" Issue="541225" />
     </Book>
     <Book Series="Uncanny Avengers" Number="12" Volume="2015" Year="2016">
-      <Id>5989cb4f-13ef-44a8-a423-a8ba47818442</Id>
+      <Database Name="cv" Series="85318" Issue="544998" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="9" Volume="2015" Year="2016">
-      <Id>87db4f74-5a02-4a1c-9c47-7a2629679c6d</Id>
+      <Database Name="cv" Series="85928" Issue="529647" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="10" Volume="2015" Year="2016">
-      <Id>e21668f3-5ccb-4062-9bd3-f99d19415b73</Id>
+      <Database Name="cv" Series="85928" Issue="533024" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="11" Volume="2015" Year="2016">
-      <Id>e40f7219-5b06-462d-abe9-223d0f1cf110</Id>
+      <Database Name="cv" Series="85928" Issue="537928" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="12" Volume="2015" Year="2016">
-      <Id>67654bd9-a2e9-4ad9-b437-8c85020bbd69</Id>
+      <Database Name="cv" Series="85928" Issue="541193" />
     </Book>
     <Book Series="All-New, All-Different Avengers Annual" Number="1" Volume="2016" Year="2016">
-      <Id>18f89298-30e6-4a4b-b366-3785c913f401</Id>
+      <Database Name="cv" Series="92946" Issue="543743" />
     </Book>
     <Book Series="Black Widow" Number="1" Volume="2016" Year="2016">
-      <Id>163e65c8-dd8b-4cd8-bc38-b9d09b8ab12a</Id>
+      <Database Name="cv" Series="88554" Issue="517825" />
     </Book>
     <Book Series="Black Widow" Number="2" Volume="2016" Year="2016">
-      <Id>a3fa560e-f96e-476f-afc7-e413a397f34d</Id>
+      <Database Name="cv" Series="88554" Issue="523250" />
     </Book>
     <Book Series="Black Widow" Number="3" Volume="2016" Year="2016">
-      <Id>59df0646-ad88-4eba-896d-61b2fc76e780</Id>
+      <Database Name="cv" Series="88554" Issue="528502" />
     </Book>
     <Book Series="Black Widow" Number="4" Volume="2016" Year="2016">
-      <Id>be096cbe-f494-46bb-8db2-c6644e5c9f08</Id>
+      <Database Name="cv" Series="88554" Issue="535349" />
     </Book>
     <Book Series="Black Widow" Number="5" Volume="2016" Year="2016">
-      <Id>d3ea10b8-81ce-4b5e-8c7f-bae353540ad3</Id>
+      <Database Name="cv" Series="88554" Issue="540070" />
     </Book>
     <Book Series="Black Widow" Number="6" Volume="2016" Year="2016">
-      <Id>65e16db0-0e6d-4985-a179-233f61886064</Id>
+      <Database Name="cv" Series="88554" Issue="544979" />
     </Book>
     <Book Series="Black Widow" Number="7" Volume="2016" Year="2016">
-      <Id>2eee89d8-a21e-40d9-8635-62e6de29fa56</Id>
+      <Database Name="cv" Series="88554" Issue="553948" />
     </Book>
     <Book Series="Black Widow" Number="8" Volume="2016" Year="2017">
-      <Id>f5241db2-655e-47e5-8fdd-236f0757b322</Id>
+      <Database Name="cv" Series="88554" Issue="562591" />
     </Book>
     <Book Series="Black Widow" Number="9" Volume="2016" Year="2017">
-      <Id>08d20eba-d957-4b8b-b940-05aa339a9528</Id>
+      <Database Name="cv" Series="88554" Issue="571658" />
     </Book>
     <Book Series="Black Widow" Number="10" Volume="2016" Year="2017">
-      <Id>d4e7b39e-365a-46a0-aeff-6a951b57c557</Id>
+      <Database Name="cv" Series="88554" Issue="576616" />
     </Book>
     <Book Series="Black Widow" Number="11" Volume="2016" Year="2017">
-      <Id>7d30c5cb-2545-4d45-b61d-001713bdad3f</Id>
+      <Database Name="cv" Series="88554" Issue="580742" />
     </Book>
     <Book Series="Black Widow" Number="12" Volume="2016" Year="2017">
-      <Id>72535334-6ecd-4d53-a573-5475c3fb4e80</Id>
+      <Database Name="cv" Series="88554" Issue="589824" />
     </Book>
-    <Book Series="Vision" Number="1" Volume="2015" Year="2016">
-      <Id>c40dd3d8-2c32-4546-8e85-0c77d7130633</Id>
+    <Book Series="Vision" Number="1" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="504953" />
     </Book>
-    <Book Series="Vision" Number="2" Volume="2015" Year="2016">
-      <Id>214978e2-57bb-4169-aa45-7c42c79008a0</Id>
+    <Book Series="Vision" Number="2" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="507191" />
     </Book>
-    <Book Series="Vision" Number="3" Volume="2015" Year="2016">
-      <Id>9233d1da-ca31-45c8-8fa2-29a8daba6e92</Id>
+    <Book Series="Vision" Number="3" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="510511" />
     </Book>
-    <Book Series="Vision" Number="4" Volume="2015" Year="2016">
-      <Id>20588ed7-363d-4fb2-b4c7-af99b9470e19</Id>
+    <Book Series="Vision" Number="4" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="513662" />
     </Book>
-    <Book Series="Vision" Number="5" Volume="2015" Year="2016">
-      <Id>bb12f353-57b8-4ca4-b892-03b67a1bd508</Id>
+    <Book Series="Vision" Number="5" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="518871" />
     </Book>
-    <Book Series="Vision" Number="6" Volume="2015" Year="2016">
-      <Id>e8cbf5ca-b34f-4041-bf96-7d69f59e63a9</Id>
+    <Book Series="Vision" Number="6" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="523270" />
     </Book>
-    <Book Series="Vision" Number="7" Volume="2015" Year="2016">
-      <Id>24dad6ac-aa27-42f8-ac5f-1e4ad9668fa9</Id>
+    <Book Series="Vision" Number="7" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="529668" />
     </Book>
-    <Book Series="Vision" Number="8" Volume="2015" Year="2016">
-      <Id>17e301f9-5892-4b2d-b46b-97c9467d9dcf</Id>
+    <Book Series="Vision" Number="8" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="534300" />
     </Book>
-    <Book Series="Vision" Number="9" Volume="2015" Year="2016">
-      <Id>4478b915-5359-425c-89a0-291f621a9fae</Id>
+    <Book Series="Vision" Number="9" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="539259" />
     </Book>
-    <Book Series="Vision" Number="10" Volume="2015" Year="2016">
-      <Id>bf3d3a85-3f28-4c0f-b1b0-d723ab3ee095</Id>
+    <Book Series="Vision" Number="10" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="543760" />
     </Book>
-    <Book Series="Vision" Number="11" Volume="2015" Year="2016">
-      <Id>ee73252a-4706-4671-aea1-78450aefa3bf</Id>
+    <Book Series="Vision" Number="11" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="550372" />
     </Book>
-    <Book Series="Vision" Number="12" Volume="2015" Year="2016">
-      <Id>2183b0a0-d699-44a5-b964-dcec99956ed5</Id>
+    <Book Series="Vision" Number="12" Volume="2016" Year="2016">
+      <Database Name="cv" Series="85793" Issue="555545" />
     </Book>
     <Book Series="Scarlet Witch" Number="6" Volume="2015" Year="2016">
-      <Id>c50a64be-8827-4cf6-bbab-8717b37ab740</Id>
+      <Database Name="cv" Series="86552" Issue="528519" />
     </Book>
     <Book Series="Scarlet Witch" Number="7" Volume="2015" Year="2016">
-      <Id>a2ccc701-acdf-4e8f-bdc0-7fec95a3e750</Id>
+      <Database Name="cv" Series="86552" Issue="537246" />
     </Book>
     <Book Series="Scarlet Witch" Number="8" Volume="2015" Year="2016">
-      <Id>562d5c47-2ab9-42ec-a465-0fa016d8a7f8</Id>
+      <Database Name="cv" Series="86552" Issue="538516" />
     </Book>
     <Book Series="A-Force" Number="6" Volume="2016" Year="2016">
-      <Id>c5bc04fc-c834-418b-88a4-727657debac0</Id>
+      <Database Name="cv" Series="87152" Issue="533023" />
     </Book>
     <Book Series="A-Force" Number="7" Volume="2016" Year="2016">
-      <Id>de96da84-161a-4226-8714-3aa7f00e6631</Id>
+      <Database Name="cv" Series="87152" Issue="540064" />
     </Book>
     <Book Series="International Iron Man" Number="1" Volume="2016" Year="2016">
-      <Id>5b6d7939-3c34-492b-ab1f-d64ed4d8de01</Id>
+      <Database Name="cv" Series="88934" Issue="520203" />
     </Book>
     <Book Series="International Iron Man" Number="2" Volume="2016" Year="2016">
-      <Id>f6b6b29e-9dfc-4769-8680-1c99c3a253c5</Id>
+      <Database Name="cv" Series="88934" Issue="527144" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="1" Volume="2016" Year="2016">
-      <Id>3619efb4-4496-4614-8159-be99d1ae49c6</Id>
+      <Database Name="cv" Series="90698" Issue="531874" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="2" Volume="2016" Year="2016">
-      <Id>fba7f2a0-83de-482f-9d6e-4d5761387672</Id>
+      <Database Name="cv" Series="90698" Issue="537933" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="3" Volume="2016" Year="2016">
-      <Id>6779c85f-df15-4470-b16b-fbe7e2a75968</Id>
+      <Database Name="cv" Series="90698" Issue="541196" />
     </Book>
     <Book Series="International Iron Man" Number="3" Volume="2016" Year="2016">
-      <Id>231509b3-adde-4b9d-852f-dd6db4839257</Id>
+      <Database Name="cv" Series="88934" Issue="530730" />
     </Book>
     <Book Series="Invincible Iron Man" Number="6" Volume="2015" Year="2016">
-      <Id>2026a106-5817-4622-8c83-770b75487420</Id>
+      <Database Name="cv" Series="85110" Issue="513650" />
     </Book>
     <Book Series="Invincible Iron Man" Number="7" Volume="2015" Year="2016">
-      <Id>e6391de2-fc01-4ef2-b561-583623e2d479</Id>
+      <Database Name="cv" Series="85110" Issue="517830" />
     </Book>
     <Book Series="Invincible Iron Man" Number="8" Volume="2015" Year="2016">
-      <Id>aa586298-f043-4728-8c9f-11f32512b570</Id>
+      <Database Name="cv" Series="85110" Issue="523256" />
     </Book>
     <Book Series="Invincible Iron Man" Number="9" Volume="2015" Year="2016">
-      <Id>f6b382d8-9470-4562-a331-15eaaa5ba85d</Id>
+      <Database Name="cv" Series="85110" Issue="528510" />
     </Book>
     <Book Series="Invincible Iron Man" Number="10" Volume="2015" Year="2016">
-      <Id>ba056f19-ffc7-45a8-8ceb-a2b7ee4abd46</Id>
+      <Database Name="cv" Series="85110" Issue="533030" />
     </Book>
     <Book Series="Invincible Iron Man" Number="11" Volume="2015" Year="2016">
-      <Id>91b2f33b-c5bf-40ca-b5d8-32e63f494efb</Id>
+      <Database Name="cv" Series="85110" Issue="538510" />
     </Book>
     <Book Series="The Totally Awesome Hulk" Number="8" Volume="2015" Year="2016">
-      <Id>d8b92e43-8821-4924-b86d-ef693b4ac68e</Id>
+      <Database Name="cv" Series="86408" Issue="538523" />
     </Book>
     <Book Series="Civil War II" Number="0" Volume="2016" Year="2016">
-      <Id>709c61fe-f417-47fa-a73a-6200891808ca</Id>
+      <Database Name="cv" Series="90521" Issue="530725" />
     </Book>
     <Book Series="Civil War II: Ulysses Infinite Comic" Number="1" Volume="2016" Year="2016">
-      <Id>1bf361e1-ff19-4607-956a-d38632a06003</Id>
+      <Database Name="cv" Series="91316" Issue="535498" />
     </Book>
     <Book Series="Civil War II: Ulysses Infinite Comic" Number="2" Volume="2016" Year="2016">
-      <Id>7d1e14a4-a407-45f6-8f53-a6ff9d212f7f</Id>
+      <Database Name="cv" Series="91316" Issue="538664" />
     </Book>
     <Book Series="Civil War II: Ulysses Infinite Comic" Number="3" Volume="2016" Year="2016">
-      <Id>3f1c6129-ceb3-4673-8da9-45cef90c5a7b</Id>
+      <Database Name="cv" Series="91316" Issue="541649" />
     </Book>
     <Book Series="Civil War II: Ulysses Infinite Comic" Number="4" Volume="2016" Year="2016">
-      <Id>0afe10ee-be53-4a12-815d-62fc51bb79ac</Id>
+      <Database Name="cv" Series="91316" Issue="545124" />
     </Book>
     <Book Series="Civil War II: Ulysses Infinite Comic" Number="5" Volume="2016" Year="2016">
-      <Id>ed6abbcd-25fd-49ae-a48f-928f70edae40</Id>
+      <Database Name="cv" Series="91316" Issue="548811" />
     </Book>
     <Book Series="Civil War II: Ulysses Infinite Comic" Number="6" Volume="2016" Year="2016">
-      <Id>5e309354-e0b5-4c6c-b764-3cf90d69b441</Id>
+      <Database Name="cv" Series="91316" Issue="551534" />
     </Book>
     <Book Series="Ultimates" Number="7" Volume="2015" Year="2016">
-      <Id>c269480a-7107-453c-8af9-5b48c5d02565</Id>
+      <Database Name="cv" Series="85972" Issue="529664" />
     </Book>
     <Book Series="Civil War II" Number="1" Volume="2016" Year="2016">
-      <Id>1e1faaa3-336f-4103-85b0-41cc78f95a69</Id>
+      <Database Name="cv" Series="90521" Issue="533027" />
     </Book>
     <Book Series="Captain Marvel" Number="6" Volume="2016" Year="2016">
-      <Id>3d937283-30a5-46d4-9a35-fb38e188e51c</Id>
+      <Database Name="cv" Series="87428" Issue="537934" />
     </Book>
     <Book Series="New Avengers" Number="12" Volume="2015" Year="2016">
-      <Id>5ea645d6-1057-4b29-8ac2-17280066a845</Id>
+      <Database Name="cv" Series="85301" Issue="534295" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="4" Volume="2016" Year="2016">
-      <Id>2ed9433d-29bd-4a71-8fd3-87b1c252036e</Id>
+      <Database Name="cv" Series="90698" Issue="546051" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="10" Volume="2015" Year="2016">
-      <Id>ee215547-6fd2-46b6-90ba-d65fc2b4f735</Id>
+      <Database Name="cv" Series="85274" Issue="537227" />
     </Book>
     <Book Series="International Iron Man" Number="4" Volume="2016" Year="2016">
-      <Id>a127db11-d750-4a44-afd3-17044773de35</Id>
+      <Database Name="cv" Series="88934" Issue="535356" />
     </Book>
     <Book Series="International Iron Man" Number="5" Volume="2016" Year="2016">
-      <Id>ac65014e-f660-430a-829b-095a5cde745a</Id>
+      <Database Name="cv" Series="88934" Issue="541208" />
     </Book>
     <Book Series="International Iron Man" Number="6" Volume="2016" Year="2016">
-      <Id>f671f96b-e20c-46c1-9cb3-94827a26d384</Id>
+      <Database Name="cv" Series="88934" Issue="546058" />
     </Book>
     <Book Series="International Iron Man" Number="7" Volume="2016" Year="2016">
-      <Id>437c56f3-a6ee-45fd-81f6-de17f5f6c208</Id>
+      <Database Name="cv" Series="88934" Issue="550361" />
     </Book>
     <Book Series="Civil War II" Number="2" Volume="2016" Year="2016">
-      <Id>f8ce50d4-0280-4cfc-863e-f935e8888348</Id>
+      <Database Name="cv" Series="90521" Issue="535350" />
     </Book>
     <Book Series="Captain Marvel" Number="7" Volume="2016" Year="2016">
-      <Id>1904beb8-9fda-4ff0-ac94-25b2bce23a43</Id>
+      <Database Name="cv" Series="87428" Issue="541197" />
     </Book>
     <Book Series="Civil War II" Number="3" Volume="2016" Year="2016">
-      <Id>e531c6c6-93b1-429a-b3e2-1a3179c984ce</Id>
+      <Database Name="cv" Series="90521" Issue="539234" />
     </Book>
     <Book Series="Captain Marvel" Number="8" Volume="2016" Year="2016">
-      <Id>0cc49131-0d2c-4aa7-86c2-25e0523281b0</Id>
+      <Database Name="cv" Series="87428" Issue="546052" />
     </Book>
     <Book Series="Invincible Iron Man" Number="12" Volume="2015" Year="2016">
-      <Id>c885552a-f698-4c35-9a8d-0e7651698606</Id>
+      <Database Name="cv" Series="85110" Issue="542621" />
     </Book>
     <Book Series="Invincible Iron Man" Number="13" Volume="2015" Year="2016">
-      <Id>19d96b17-b631-449f-9c7d-602432f932c8</Id>
+      <Database Name="cv" Series="85110" Issue="548576" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="11" Volume="2015" Year="2016">
-      <Id>8142dd2f-bfe6-4d60-86f3-2f47174b4ba3</Id>
+      <Database Name="cv" Series="85274" Issue="538502" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="12" Volume="2015" Year="2016">
-      <Id>904b3ee5-cdde-4e99-906a-faf601f3973c</Id>
+      <Database Name="cv" Series="85274" Issue="544980" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="13" Volume="2015" Year="2016">
-      <Id>ac84ae27-b255-4228-8a22-6b6dc1fbc0b4</Id>
+      <Database Name="cv" Series="85274" Issue="551296" />
     </Book>
     <Book Series="Uncanny Avengers" Number="13" Volume="2015" Year="2016">
-      <Id>b4ce8201-722f-496b-bdc5-eaad2e83b428</Id>
+      <Database Name="cv" Series="85318" Issue="547297" />
     </Book>
     <Book Series="New Avengers" Number="13" Volume="2015" Year="2016">
-      <Id>03c7cc53-e818-4c1b-add6-6d624e639b4d</Id>
+      <Database Name="cv" Series="85301" Issue="539247" />
     </Book>
     <Book Series="New Avengers" Number="14" Volume="2015" Year="2016">
-      <Id>8e71a4eb-7206-4894-8c5f-c68d74b97b98</Id>
+      <Database Name="cv" Series="85301" Issue="541215" />
     </Book>
     <Book Series="New Avengers" Number="15" Volume="2015" Year="2016">
-      <Id>37bcea58-daa5-4362-a891-e9e34e4a75fd</Id>
+      <Database Name="cv" Series="85301" Issue="546062" />
     </Book>
     <Book Series="New Avengers" Number="16" Volume="2015" Year="2016">
-      <Id>f183dff4-5b11-4351-ad96-514babd894fe</Id>
+      <Database Name="cv" Series="85301" Issue="551311" />
     </Book>
     <Book Series="New Avengers" Number="17" Volume="2015" Year="2016">
-      <Id>6e5ca7df-51c2-46e4-b226-08362ba28589</Id>
+      <Database Name="cv" Series="85301" Issue="555533" />
     </Book>
     <Book Series="Captain Marvel" Number="9" Volume="2016" Year="2016">
-      <Id>d726e3d2-3c2c-491d-9ac9-c1f25dae1b05</Id>
+      <Database Name="cv" Series="87428" Issue="551299" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="13" Volume="2015" Year="2016">
-      <Id>d43c22aa-8f4c-4e1e-bafa-5682760af788</Id>
+      <Database Name="cv" Series="85928" Issue="543742" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="14" Volume="2015" Year="2016">
-      <Id>5c9b8c6c-6326-414d-ab4a-a00e55a35179</Id>
+      <Database Name="cv" Series="85928" Issue="548571" />
     </Book>
     <Book Series="All-New, All-Different Avengers" Number="15" Volume="2015" Year="2016">
-      <Id>dab19f08-7e1a-47b0-873e-a3fcf53ef534</Id>
+      <Database Name="cv" Series="85928" Issue="555510" />
     </Book>
     <Book Series="Civil War II" Number="4" Volume="2016" Year="2016">
-      <Id>d7244968-f7d7-4246-bad5-447dd1cfb37b</Id>
+      <Database Name="cv" Series="90521" Issue="541199" />
     </Book>
     <Book Series="The Accused" Number="1" Volume="2016" Year="2016">
-      <Id>273ba65b-16a2-4989-b508-23b319a669ba</Id>
+      <Database Name="cv" Series="92945" Issue="543739" />
     </Book>
     <Book Series="Ultimates" Number="10" Volume="2015" Year="2016">
-      <Id>ec25e3a9-40ad-42ab-8b0b-1f40e55f6b47</Id>
+      <Database Name="cv" Series="85972" Issue="544996" />
     </Book>
     <Book Series="Ultimates" Number="11" Volume="2015" Year="2016">
-      <Id>1b7cb3b7-3495-4652-ad0f-50f30218a556</Id>
+      <Database Name="cv" Series="85972" Issue="551323" />
     </Book>
     <Book Series="The Fallen" Number="1" Volume="2016" Year="2016">
-      <Id>71e3c3e0-2b3c-4d0c-b869-32798a9b4554</Id>
+      <Database Name="cv" Series="93187" Issue="544987" />
     </Book>
     <Book Series="Mockingbird" Number="6" Volume="2016" Year="2016">
-      <Id>b423c35c-ab64-45ad-b789-0eedc78c467e</Id>
+      <Database Name="cv" Series="88764" Issue="544989" />
     </Book>
     <Book Series="Mockingbird" Number="7" Volume="2016" Year="2016">
-      <Id>9fce4dae-42d6-485a-924f-9eda5b41256c</Id>
+      <Database Name="cv" Series="88764" Issue="549519" />
     </Book>
     <Book Series="Mockingbird" Number="8" Volume="2016" Year="2016">
-      <Id>cff64648-1a86-43dc-96cf-13e7af29528d</Id>
+      <Database Name="cv" Series="88764" Issue="553962" />
     </Book>
     <Book Series="Uncanny Avengers" Number="14" Volume="2015" Year="2016">
-      <Id>f74108e6-eb28-457d-afe9-e6a262dffc28</Id>
+      <Database Name="cv" Series="85318" Issue="549528" />
     </Book>
     <Book Series="Civil War II" Number="5" Volume="2016" Year="2016">
-      <Id>1a26881e-97e1-4e2b-8cd4-8b5d3ca97295</Id>
+      <Database Name="cv" Series="90521" Issue="550351" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="5" Volume="2016" Year="2016">
-      <Id>f14c0e49-7200-4061-8f78-d800ea13ca49</Id>
+      <Database Name="cv" Series="90698" Issue="551298" />
     </Book>
     <Book Series="Civil War II" Number="6" Volume="2016" Year="2016">
-      <Id>99389268-e40a-419d-b320-730a218f285f</Id>
+      <Database Name="cv" Series="90521" Issue="555515" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="6" Volume="2016" Year="2016">
-      <Id>9157dbe2-f1d6-4ea6-8672-6ad88f082b65</Id>
+      <Database Name="cv" Series="90698" Issue="555512" />
     </Book>
     <Book Series="Civil War II" Number="7" Volume="2016" Year="2017">
-      <Id>5e2043b9-d846-4a9b-ae0a-9a17fe6c233e</Id>
+      <Database Name="cv" Series="90521" Issue="558959" />
     </Book>
     <Book Series="Civil War II" Number="8" Volume="2016" Year="2017">
-      <Id>6634f12a-96e5-4552-b0f0-08a89186be8a</Id>
+      <Database Name="cv" Series="90521" Issue="571661" />
     </Book>
     <Book Series="Invincible Iron Man" Number="14" Volume="2015" Year="2016">
-      <Id>5837f06c-acd0-461d-8f8e-d554de2e5ffb</Id>
+      <Database Name="cv" Series="85110" Issue="552163" />
     </Book>
     <Book Series="Captain Marvel" Number="10" Volume="2016" Year="2017">
-      <Id>b24b8006-9e87-40c5-a47e-289897c96db1</Id>
+      <Database Name="cv" Series="87428" Issue="558957" />
     </Book>
     <Book Series="New Avengers" Number="18" Volume="2015" Year="2017">
-      <Id>843137ea-c0d1-4c99-be02-b7eb08f612ad</Id>
+      <Database Name="cv" Series="85301" Issue="562601" />
     </Book>
     <Book Series="Uncanny Avengers" Number="15" Volume="2015" Year="2016">
-      <Id>ea057646-7bb2-42d2-a8bc-87f77a5b29d4</Id>
+      <Database Name="cv" Series="85318" Issue="553025" />
     </Book>
     <Book Series="Uncanny Avengers" Number="16" Volume="2015" Year="2017">
-      <Id>9cb6e4b6-9eb2-4951-9655-ea51dfc03307</Id>
+      <Database Name="cv" Series="85318" Issue="557380" />
     </Book>
     <Book Series="Uncanny Avengers" Number="17" Volume="2015" Year="2017">
-      <Id>79100cd8-61c7-4c72-83b8-a68e0edc104b</Id>
+      <Database Name="cv" Series="85318" Issue="566727" />
     </Book>
     <Book Series="Mighty Thor" Number="6" Volume="2015" Year="2016">
-      <Id>678c113c-00d5-4f12-949c-8333d5fe7a02</Id>
+      <Database Name="cv" Series="86113" Issue="526060" />
     </Book>
     <Book Series="Mighty Thor" Number="7" Volume="2015" Year="2016">
-      <Id>7d8c2c7a-4849-4bdf-aca1-a35d59984ee6</Id>
+      <Database Name="cv" Series="86113" Issue="531891" />
     </Book>
     <Book Series="Mighty Thor" Number="8" Volume="2015" Year="2016">
-      <Id>9435e481-8cc3-428f-acda-90c58400ab56</Id>
+      <Database Name="cv" Series="86113" Issue="537237" />
     </Book>
     <Book Series="Mighty Thor" Number="9" Volume="2015" Year="2016">
-      <Id>9999469e-02dc-4a54-930c-68a178008cb7</Id>
+      <Database Name="cv" Series="86113" Issue="541211" />
     </Book>
     <Book Series="Mighty Thor" Number="10" Volume="2015" Year="2016">
-      <Id>c70fb3f8-0667-47fe-95ec-227388330a45</Id>
+      <Database Name="cv" Series="86113" Issue="544988" />
     </Book>
     <Book Series="Mighty Thor" Number="11" Volume="2015" Year="2016">
-      <Id>0dc70013-b84d-4f00-99b0-932597223b9a</Id>
+      <Database Name="cv" Series="86113" Issue="550365" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="7" Volume="2016" Year="2017">
-      <Id>7970cdd7-0910-45d0-a117-7838dc19a413</Id>
+      <Database Name="cv" Series="90698" Issue="557358" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="8" Volume="2016" Year="2017">
-      <Id>f9112871-8af4-490e-b30c-b22b50f8932a</Id>
+      <Database Name="cv" Series="90698" Issue="571659" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="9" Volume="2016" Year="2017">
-      <Id>3335442a-d67e-446b-b36f-f3293f773c84</Id>
+      <Database Name="cv" Series="90698" Issue="575860" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="10" Volume="2016" Year="2017">
-      <Id>6375679d-42d7-4470-afbd-ba7ec2140a46</Id>
+      <Database Name="cv" Series="90698" Issue="578452" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="11" Volume="2016" Year="2017">
-      <Id>60cd232f-a694-4e6a-9995-d2dbe8fc493a</Id>
+      <Database Name="cv" Series="90698" Issue="581549" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="12" Volume="2016" Year="2017">
-      <Id>3ad0536e-b5f7-4ae1-a617-2f08fcf1d192</Id>
+      <Database Name="cv" Series="90698" Issue="582519" />
     </Book>
     <Book Series="Captain America: Steve Rogers" Number="13" Volume="2016" Year="2017">
-      <Id>bc45be74-ea9a-4292-a9b4-5fe4bdccdb6b</Id>
+      <Database Name="cv" Series="90698" Issue="585075" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="14" Volume="2015" Year="2016">
-      <Id>36fb2083-3be9-4c47-b7ca-fbf3ed009a67</Id>
+      <Database Name="cv" Series="85274" Issue="553949" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="15" Volume="2015" Year="2017">
-      <Id>30325e8d-3608-41a6-a0d9-b20ad202395b</Id>
+      <Database Name="cv" Series="85274" Issue="558410" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="16" Volume="2015" Year="2017">
-      <Id>ad217b76-4d11-4359-8721-92292aedd392</Id>
+      <Database Name="cv" Series="85274" Issue="569327" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="17" Volume="2015" Year="2017">
-      <Id>13ad2edf-a3db-46b2-9744-4457ebc4ae70</Id>
+      <Database Name="cv" Series="85274" Issue="574860" />
     </Book>
     <Book Series="Captain America: Sam Wilson" Number="18" Volume="2015" Year="2017">
-      <Id>6415bdfd-a407-4127-bc7f-dd482b63d2d2</Id>
+      <Database Name="cv" Series="85274" Issue="576618" />
     </Book>
     <Book Series="The Mighty Captain Marvel" Number="0" Volume="2016" Year="2017">
-      <Id>c5b25bae-a4f4-477f-8d7a-69147d3d9874</Id>
+      <Database Name="cv" Series="97062" Issue="569336" />
     </Book>
     <Book Series="The Mighty Captain Marvel" Number="1" Volume="2016" Year="2017">
-      <Id>0796f495-0038-4d86-88db-faa66d8ee933</Id>
+      <Database Name="cv" Series="97062" Issue="576628" />
     </Book>
     <Book Series="The Mighty Captain Marvel" Number="2" Volume="2016" Year="2017">
-      <Id>b72b656c-0059-4078-bf1a-0e1a5b01e408</Id>
+      <Database Name="cv" Series="97062" Issue="582535" />
     </Book>
     <Book Series="The Mighty Captain Marvel" Number="3" Volume="2016" Year="2017">
-      <Id>285515a2-87ee-46bb-b630-0047043e07fb</Id>
+      <Database Name="cv" Series="97062" Issue="589833" />
     </Book>
     <Book Series="The Mighty Captain Marvel" Number="4" Volume="2016" Year="2017">
-      <Id>8f563c10-d621-406c-bff2-632325946d9f</Id>
+      <Database Name="cv" Series="97062" Issue="593264" />
     </Book>
     <Book Series="The Ultimates 2" Number="1" Volume="2005" Year="2005">
-      <Id>1c881553-57d2-49e7-a1ad-6c182de2ab0c</Id>
+      <Database Name="cv" Series="18326" Issue="107329" />
     </Book>
     <Book Series="The Ultimates 2" Number="2" Volume="2005" Year="2005">
-      <Id>08426506-9743-49d0-a634-b037c0d8ea5b</Id>
+      <Database Name="cv" Series="18326" Issue="119925" />
     </Book>
     <Book Series="The Ultimates 2" Number="3" Volume="2005" Year="2005">
-      <Id>b7ffb55c-017b-43ea-96d0-33c2d37cb3e6</Id>
+      <Database Name="cv" Series="18326" Issue="134184" />
     </Book>
     <Book Series="The Ultimates 2" Number="4" Volume="2005" Year="2005">
-      <Id>3965e4d9-9647-4fa6-935e-26504eae4e8e</Id>
+      <Database Name="cv" Series="18326" Issue="134185" />
     </Book>
     <Book Series="The Ultimates 2" Number="5" Volume="2005" Year="2005">
-      <Id>fa771d1a-6b01-4201-b104-53ce403f4159</Id>
+      <Database Name="cv" Series="18326" Issue="134182" />
     </Book>
     <Book Series="The Ultimates 2" Number="6" Volume="2005" Year="2005">
-      <Id>3c6811a7-1af9-4629-916c-679cf94cf99e</Id>
+      <Database Name="cv" Series="18326" Issue="134186" />
     </Book>
     <Book Series="Champions" Number="1" Volume="2016" Year="2016">
-      <Id>92d840fe-f08b-4444-a3ad-ca4da7d0f897</Id>
+      <Database Name="cv" Series="94612" Issue="552154" />
     </Book>
     <Book Series="Champions" Number="2" Volume="2016" Year="2017">
-      <Id>e5b35f20-57b5-4214-aa92-c6a48cb51889</Id>
+      <Database Name="cv" Series="94612" Issue="556468" />
     </Book>
     <Book Series="Champions" Number="3" Volume="2016" Year="2017">
-      <Id>b2f838f2-4335-485b-ab06-5d094783439e</Id>
+      <Database Name="cv" Series="94612" Issue="563718" />
     </Book>
     <Book Series="Champions" Number="4" Volume="2016" Year="2017">
-      <Id>0d49999e-abc3-4b61-bae8-1867910c9fd3</Id>
+      <Database Name="cv" Series="94612" Issue="574861" />
     </Book>
     <Book Series="Champions" Number="5" Volume="2016" Year="2017">
-      <Id>1882b925-3401-4ed0-a710-15599b60cbb7</Id>
+      <Database Name="cv" Series="94612" Issue="579308" />
     </Book>
     <Book Series="Champions" Number="6" Volume="2016" Year="2017">
-      <Id>3a4523c1-c905-462b-b14e-9a22a4ce4507</Id>
+      <Database Name="cv" Series="94612" Issue="583714" />
     </Book>
     <Book Series="Infamous Iron Man" Number="1" Volume="2016" Year="2016">
-      <Id>a9a79f9e-7984-4656-ab5d-06ee8b1e9271</Id>
+      <Database Name="cv" Series="95016" Issue="553959" />
     </Book>
     <Book Series="Infamous Iron Man" Number="2" Volume="2016" Year="2017">
-      <Id>5ac2d7fd-ea2d-4de4-816f-3a1d78238219</Id>
+      <Database Name="cv" Series="95016" Issue="558416" />
     </Book>
     <Book Series="Infamous Iron Man" Number="3" Volume="2016" Year="2017">
-      <Id>2e950cbb-7761-419c-8c3f-c6988e091356</Id>
+      <Database Name="cv" Series="95016" Issue="571671" />
     </Book>
     <Book Series="Infamous Iron Man" Number="4" Volume="2016" Year="2017">
-      <Id>3e05fb63-f871-44a2-879c-ffc491ddb0b5</Id>
+      <Database Name="cv" Series="95016" Issue="578463" />
     </Book>
     <Book Series="Infamous Iron Man" Number="5" Volume="2016" Year="2017">
-      <Id>802dfaab-02b1-43c7-abff-b11444d152dd</Id>
+      <Database Name="cv" Series="95016" Issue="582533" />
     </Book>
     <Book Series="Infamous Iron Man" Number="6" Volume="2016" Year="2017">
-      <Id>ce9c7281-5707-4da5-ae66-ac95cc0ed12b</Id>
+      <Database Name="cv" Series="95016" Issue="589829" />
     </Book>
     <Book Series="Invincible Iron Man" Number="1" Volume="2016" Year="2017">
-      <Id>fcc60beb-90d6-4a55-8ac6-db0d36dd1bc2</Id>
+      <Database Name="cv" Series="95596" Issue="557367" />
     </Book>
     <Book Series="Invincible Iron Man" Number="2" Volume="2016" Year="2017">
-      <Id>5d19a3e2-f0c9-4d64-8ba0-f8d81d1cfc5a</Id>
+      <Database Name="cv" Series="95596" Issue="569333" />
     </Book>
     <Book Series="Invincible Iron Man" Number="3" Volume="2016" Year="2017">
-      <Id>8e9daf4e-f48f-4fac-865f-c5bb9194289c</Id>
+      <Database Name="cv" Series="95596" Issue="576625" />
     </Book>
     <Book Series="Invincible Iron Man" Number="4" Volume="2016" Year="2017">
-      <Id>9df1b63d-9430-4d7f-914f-3a3e3cf217c2</Id>
+      <Database Name="cv" Series="95596" Issue="581560" />
     </Book>
     <Book Series="Invincible Iron Man" Number="5" Volume="2016" Year="2017">
-      <Id>c0d1aa3c-f4d2-4d3b-b26d-98f73ecf1598</Id>
+      <Database Name="cv" Series="95596" Issue="588567" />
     </Book>
     <Book Series="Invincible Iron Man" Number="6" Volume="2016" Year="2017">
-      <Id>da37e8fc-bc3f-4ec9-96db-69a6afbcff64</Id>
+      <Database Name="cv" Series="95596" Issue="592598" />
     </Book>
     <Book Series="Avengers" Number="1" Volume="2016" Year="2017">
-      <Id>85181f3d-2738-450b-82c1-9bde82913b24</Id>
+      <Database Name="cv" Series="95402" Issue="556467" />
     </Book>
     <Book Series="Avengers" Number="2" Volume="2016" Year="2017">
-      <Id>c3790318-92f4-4e26-8496-95eaf47b8a2c</Id>
+      <Database Name="cv" Series="95402" Issue="563716" />
     </Book>
     <Book Series="Avengers" Number="3" Volume="2016" Year="2017">
-      <Id>4010f0f8-1436-4414-90a6-36d3e7e28f63</Id>
+      <Database Name="cv" Series="95402" Issue="574859" />
     </Book>
     <Book Series="Avengers" Number="4" Volume="2016" Year="2017">
-      <Id>d68b4620-1bf0-4033-b714-9a20c85d8c48</Id>
+      <Database Name="cv" Series="95402" Issue="579305" />
     </Book>
     <Book Series="Avengers" Number="5" Volume="2016" Year="2017">
-      <Id>a483f5fd-1afe-4c5c-b2e6-6d970ae4fac2</Id>
+      <Database Name="cv" Series="95402" Issue="583712" />
     </Book>
     <Book Series="Avengers" Number="6" Volume="2016" Year="2017">
-      <Id>36ba2287-8949-4914-8895-0fbe48a8650d</Id>
+      <Database Name="cv" Series="95402" Issue="590787" />
     </Book>
     <Book Series="Avengers" Number="1.1" Volume="2016" Year="2017">
-      <Id>8b10b85a-9385-4296-a6f1-73e49089089e</Id>
+      <Database Name="cv" Series="95402" Issue="557355" />
     </Book>
     <Book Series="Avengers" Number="2.1" Volume="2016" Year="2017">
-      <Id>50121e94-0b3c-40fa-9f51-c1ecbb6745d4</Id>
+      <Database Name="cv" Series="95402" Issue="569324" />
     </Book>
     <Book Series="Avengers" Number="3.1" Volume="2016" Year="2017">
-      <Id>06d005cd-9487-4076-ad64-126cd5134c24</Id>
+      <Database Name="cv" Series="95402" Issue="576614" />
     </Book>
     <Book Series="Avengers" Number="4.1" Volume="2016" Year="2017">
-      <Id>e339d247-0cca-49d0-a541-2ab3442ee39a</Id>
+      <Database Name="cv" Series="95402" Issue="582517" />
     </Book>
     <Book Series="Avengers" Number="5.1" Volume="2016" Year="2017">
-      <Id>0d67755c-1c57-4e9c-bb32-ea73399707b2</Id>
+      <Database Name="cv" Series="95402" Issue="589823" />
     </Book>
     <Book Series="Occupy Avengers" Number="1" Volume="2016" Year="2017">
-      <Id>db5854b5-5c1e-4e18-9563-971fb26205f7</Id>
+      <Database Name="cv" Series="95431" Issue="556476" />
     </Book>
     <Book Series="Occupy Avengers" Number="2" Volume="2016" Year="2017">
-      <Id>a598295c-a341-43b0-a3cd-253453769fc7</Id>
+      <Database Name="cv" Series="95431" Issue="569337" />
     </Book>
     <Book Series="Occupy Avengers" Number="3" Volume="2016" Year="2017">
-      <Id>447035ac-bd9b-4940-ac07-a58c6c8b3f23</Id>
+      <Database Name="cv" Series="95431" Issue="575877" />
     </Book>
     <Book Series="Occupy Avengers" Number="4" Volume="2016" Year="2017">
-      <Id>a4892bdf-e89b-4753-885f-268d15d65801</Id>
+      <Database Name="cv" Series="95431" Issue="582538" />
     </Book>
     <Book Series="Occupy Avengers" Number="5" Volume="2016" Year="2017">
-      <Id>3874e43e-991b-43f9-87e9-0e05737058e4</Id>
+      <Database Name="cv" Series="95431" Issue="589834" />
     </Book>
     <Book Series="Occupy Avengers" Number="6" Volume="2016" Year="2017">
-      <Id>9106c314-e4c8-4e63-8bf3-1ab893f11643</Id>
+      <Database Name="cv" Series="95431" Issue="593268" />
     </Book>
     <Book Series="Occupy Avengers" Number="7" Volume="2016" Year="2017">
-      <Id>48be6f89-19fc-4951-bb8f-7c05b4ac698f</Id>
+      <Database Name="cv" Series="95431" Issue="598381" />
     </Book>
     <Book Series="U.S.Avengers" Number="1" Volume="2017" Year="2017">
-      <Id>e2185ec0-ce48-4365-a0d2-0785725c9345</Id>
+      <Database Name="cv" Series="97772" Issue="574878" />
     </Book>
     <Book Series="U.S.Avengers" Number="2" Volume="2017" Year="2017">
-      <Id>337f5f92-e4b0-4b16-9d42-04419ff3e52f</Id>
+      <Database Name="cv" Series="97772" Issue="576638" />
     </Book>
     <Book Series="U.S.Avengers" Number="3" Volume="2017" Year="2017">
-      <Id>fe8138ae-abab-456d-92cd-2e48da136ff9</Id>
+      <Database Name="cv" Series="97772" Issue="581570" />
     </Book>
     <Book Series="U.S.Avengers" Number="4" Volume="2017" Year="2017">
-      <Id>f153f7dc-54c3-49ed-abc4-5c96c48e311f</Id>
+      <Database Name="cv" Series="97772" Issue="587420" />
     </Book>
     <Book Series="Great Lakes Avengers" Number="1" Volume="2016" Year="2016">
-      <Id>d8bf58d9-063f-44fd-96a8-7963644c5fe8</Id>
+      <Database Name="cv" Series="94801" Issue="553009" />
     </Book>
     <Book Series="Great Lakes Avengers" Number="2" Volume="2016" Year="2017">
-      <Id>d99f8769-1621-4312-bc21-23816f6d6a86</Id>
+      <Database Name="cv" Series="94801" Issue="562595" />
     </Book>
     <Book Series="Great Lakes Avengers" Number="3" Volume="2016" Year="2017">
-      <Id>18043dd0-75c7-4cd7-9695-678f5697d020</Id>
+      <Database Name="cv" Series="94801" Issue="571667" />
     </Book>
     <Book Series="Great Lakes Avengers" Number="4" Volume="2016" Year="2017">
-      <Id>4d90d3c9-8af0-4404-893f-f11c4468e95a</Id>
+      <Database Name="cv" Series="94801" Issue="575867" />
     </Book>
     <Book Series="Great Lakes Avengers" Number="5" Volume="2016" Year="2017">
-      <Id>e573fcb3-14c6-4385-ac50-9dc366934537</Id>
+      <Database Name="cv" Series="94801" Issue="582531" />
     </Book>
     <Book Series="Great Lakes Avengers" Number="6" Volume="2016" Year="2017">
-      <Id>7a00017e-d7bb-4ca9-8569-4e64d5a03054</Id>
+      <Database Name="cv" Series="94801" Issue="587407" />
     </Book>
     <Book Series="Great Lakes Avengers" Number="7" Volume="2016" Year="2017">
-      <Id>ae3a6df8-6759-4707-81a2-bf37a44d7ad0</Id>
+      <Database Name="cv" Series="94801" Issue="593260" />
     </Book>
   </Books>
   <Matchers />
