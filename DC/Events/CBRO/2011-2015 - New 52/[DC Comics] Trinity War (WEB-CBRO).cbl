@@ -36,8 +36,8 @@
 <Book Series="Trinity of Sin: Pandora" Number="2" Volume="2013" Year="2013">
 <Database Name="cv" Series="64655" Issue="419960" />
 </Book>
-<Book Series="The Phantom Stranger" Number="8" Volume="2012" Year="2013">
-<Database Name="cv" Series="51843" Issue="400117" />
+<Book Series="The Phantom Stranger" Number="11" Volume="2012" Year="2013">
+<Database Name="cv" Series="51843" Issue="420604" />
 </Book>
 <Book Series="Justice League of America" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="57485" Issue="421655" />
