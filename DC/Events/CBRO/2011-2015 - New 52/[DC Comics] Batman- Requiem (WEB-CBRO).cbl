@@ -6,8 +6,8 @@
 <Book Series="Detective Comics" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="42594" Issue="390398" />
 </Book>
-<Book Series="Batman and Robin" Number="0" Volume="2011" Year="2012">
-<Database Name="cv" Series="42692" Issue="356720" />
+<Book Series="Batman and Robin" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42692" Issue="392309" />
 </Book>
 <Book Series="Batman" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="42721" Issue="392308" />
