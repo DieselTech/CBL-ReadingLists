@@ -1,432 +1,433 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Justice League 3 (Task Force)</Name>
+  <Name>Justice League 003 (Task Force)</Name>
+  <NumIssues>142</NumIssues>
   <Books>
     <Book Series="Justice League Task Force" Number="1" Volume="1993" Year="1993">
-      <Id>09b40f8c-8563-46fe-bee2-edff9317a442</Id>
+      <Database Name="cv" Series="4967" Issue="37317" />
     </Book>
     <Book Series="Justice League Task Force" Number="2" Volume="1993" Year="1993">
-      <Id>ddd7cd1f-1edb-4f21-bb77-b0d02c7507d6</Id>
+      <Database Name="cv" Series="4967" Issue="37469" />
     </Book>
     <Book Series="Justice League Task Force" Number="3" Volume="1993" Year="1993">
-      <Id>3c258c0f-de89-41e8-a68f-082959265f65</Id>
+      <Database Name="cv" Series="4967" Issue="37611" />
     </Book>
     <Book Series="Justice League Task Force" Number="4" Volume="1993" Year="1993">
-      <Id>58bdcef5-3287-4715-8b26-f3a5281af64b</Id>
+      <Database Name="cv" Series="4967" Issue="37750" />
     </Book>
     <Book Series="Justice League America" Number="80" Volume="1989" Year="1993">
-      <Id>00aeaf49-f0f2-4d1b-b294-76a6abfbda19</Id>
+      <Database Name="cv" Series="4198" Issue="37748" />
     </Book>
     <Book Series="Justice League America" Number="81" Volume="1989" Year="1993">
-      <Id>61aa6375-c91c-4b0a-b515-556f97fd6dce</Id>
+      <Database Name="cv" Series="4198" Issue="37892" />
     </Book>
     <Book Series="Justice League America" Number="82" Volume="1989" Year="1993">
-      <Id>afeae1e3-16f3-49d3-917b-b191b4996d82</Id>
+      <Database Name="cv" Series="4198" Issue="38043" />
     </Book>
     <Book Series="Justice League America" Number="83" Volume="1989" Year="1993">
-      <Id>7bc20e2c-b4ba-45e0-a0fd-3d6a75ed1a8c</Id>
+      <Database Name="cv" Series="4198" Issue="38201" />
     </Book>
     <Book Series="Guy Gardner" Number="15" Volume="1992" Year="1993">
-      <Id>75ca5169-c316-455b-bcbb-d059406d7b6c</Id>
+      <Database Name="cv" Series="4743" Issue="104083" />
     </Book>
     <Book Series="Justice League America Annual" Number="7" Volume="1991" Year="1993">
-      <Id>1a9673d7-80fd-4d30-ac76-9d9a19e37754</Id>
+      <Database Name="cv" Series="4368" Issue="36648" />
     </Book>
     <Book Series="Justice League Task Force" Number="5" Volume="1993" Year="1993">
-      <Id>fa9a3687-c962-4685-acb7-6db44fb506a6</Id>
+      <Database Name="cv" Series="4967" Issue="37894" />
     </Book>
     <Book Series="Justice League Task Force" Number="6" Volume="1993" Year="1993">
-      <Id>8f83d61d-721e-4eb3-97c5-35bfa8fd6e42</Id>
+      <Database Name="cv" Series="4967" Issue="38045" />
     </Book>
     <Book Series="Justice League Quarterly" Number="12" Volume="1990" Year="1993">
-      <Id>60ee8f77-1531-4145-8ca4-2c4055425b21</Id>
+      <Database Name="cv" Series="9634" Issue="86450" />
     </Book>
     <Book Series="Justice League International" Number="54" Volume="1993" Year="1993">
-      <Id>46c69ba7-fc22-4ffc-8c94-0e48521967af</Id>
+      <Database Name="cv" Series="4966" Issue="37749" />
     </Book>
     <Book Series="Justice League International" Number="55" Volume="1993" Year="1993">
-      <Id>f66af470-71a9-4aab-99ec-497e950020e0</Id>
+      <Database Name="cv" Series="4966" Issue="37846" />
     </Book>
     <Book Series="Justice League International Annual" Number="4" Volume="1988" Year="1993">
-      <Id>05bf485b-3987-4cb8-aa98-1ae404e6f7d7</Id>
+      <Database Name="cv" Series="23398" Issue="140380" />
     </Book>
     <Book Series="Justice League International" Number="56" Volume="1993" Year="1993">
-      <Id>b0dd9965-9bcc-472a-bae8-6b1571bfe79d</Id>
+      <Database Name="cv" Series="4966" Issue="37893" />
     </Book>
     <Book Series="Justice League International" Number="57" Volume="1993" Year="1993">
-      <Id>8a51c3ba-1540-4a61-9005-6059c26d3b62</Id>
+      <Database Name="cv" Series="4966" Issue="37991" />
     </Book>
     <Book Series="Justice League Task Force" Number="7" Volume="1993" Year="1993">
-      <Id>08c6f41a-8646-400f-b31a-423d9484cfe2</Id>
+      <Database Name="cv" Series="4967" Issue="38203" />
     </Book>
     <Book Series="Justice League Task Force" Number="8" Volume="1993" Year="1994">
-      <Id>6411566a-9121-4096-bc2f-a3cfc7231ebf</Id>
+      <Database Name="cv" Series="4967" Issue="38450" />
     </Book>
     <Book Series="Justice League Task Force" Number="9" Volume="1993" Year="1994">
-      <Id>64068636-8aa1-404d-ada4-7dd4acb02fa4</Id>
+      <Database Name="cv" Series="4967" Issue="38603" />
     </Book>
     <Book Series="Justice League Quarterly" Number="13" Volume="1990" Year="1993">
-      <Id>d9ec5964-5f45-4e23-b6b8-eaaacd5d390b</Id>
+      <Database Name="cv" Series="9634" Issue="86451" />
     </Book>
     <Book Series="Justice League America" Number="84" Volume="1989" Year="1994">
-      <Id>5ee13c14-a4ca-4f94-8d37-36c99b00b764</Id>
+      <Database Name="cv" Series="4198" Issue="38448" />
     </Book>
     <Book Series="Justice League America" Number="85" Volume="1989" Year="1994">
-      <Id>66f74f1b-7123-4f32-bf17-ad4cee1a9b44</Id>
+      <Database Name="cv" Series="4198" Issue="38601" />
     </Book>
     <Book Series="Justice League International" Number="58" Volume="1993" Year="1993">
-      <Id>01695e6b-dcf5-4263-a129-dcbea2e5a270</Id>
+      <Database Name="cv" Series="4966" Issue="38044" />
     </Book>
     <Book Series="Justice League International" Number="59" Volume="1993" Year="1993">
-      <Id>0b8d1433-62d9-4759-9857-b5f043febbeb</Id>
+      <Database Name="cv" Series="4966" Issue="38202" />
     </Book>
     <Book Series="Justice League International" Number="60" Volume="1993" Year="1994">
-      <Id>86c82735-0733-4158-8d3c-e8b38254ce8f</Id>
+      <Database Name="cv" Series="4966" Issue="38449" />
     </Book>
-    <Book Series="Bloodbath Special" Number="2" Volume="1993" Year="1993">
-      <Id>f6235cc2-6ce9-4fdf-af98-e9de5e42efd2</Id>
+    <Book Series="Bloodbath" Number="2" Volume="1993" Year="1993">
+      <Database Name="cv" Series="4954" Issue="38312" />
     </Book>
     <Book Series="Superman" Number="83" Volume="1987" Year="1993">
-      <Id>08bc72b8-b5db-4889-8905-9b9983bfb719</Id>
+      <Database Name="cv" Series="3816" Issue="68553" />
     </Book>
     <Book Series="Justice League International" Number="61" Volume="1993" Year="1994">
-      <Id>e836fce4-5fcd-48cc-b014-f4660ed2e5de</Id>
+      <Database Name="cv" Series="4966" Issue="38602" />
     </Book>
     <Book Series="Justice League International" Number="62" Volume="1993" Year="1994">
-      <Id>afeccad6-0e7e-43bf-9ac8-fbe2379e90f7</Id>
+      <Database Name="cv" Series="4966" Issue="38744" />
     </Book>
     <Book Series="Justice League Quarterly" Number="14" Volume="1990" Year="1994">
-      <Id>f37782d9-ae03-4cf9-afac-52373aa5bcd3</Id>
+      <Database Name="cv" Series="9634" Issue="86452" />
     </Book>
     <Book Series="Justice League America" Number="86" Volume="1989" Year="1994">
-      <Id>1841a717-d6c1-4648-bbd4-b5cd30fe60cf</Id>
+      <Database Name="cv" Series="4198" Issue="38743" />
     </Book>
     <Book Series="Justice League America" Number="87" Volume="1989" Year="1994">
-      <Id>eca94484-1bb0-4c7d-b851-5acfeebfcf5e</Id>
+      <Database Name="cv" Series="4198" Issue="38894" />
     </Book>
     <Book Series="Justice League America" Number="88" Volume="1989" Year="1994">
-      <Id>a0b25453-3f75-4d71-9f4e-8f9adf680854</Id>
+      <Database Name="cv" Series="4198" Issue="39036" />
     </Book>
     <Book Series="Guy Gardner: Warrior" Number="18" Volume="1994" Year="1994">
-      <Id>98e9563f-2d1e-48ea-aac2-f717cb435717</Id>
+      <Database Name="cv" Series="11894" Issue="104086" />
     </Book>
     <Book Series="Guy Gardner: Warrior" Number="19" Volume="1994" Year="1994">
-      <Id>e7bec8f8-2cfa-41a0-9ffe-8e362f4ad332</Id>
+      <Database Name="cv" Series="11894" Issue="104087" />
     </Book>
     <Book Series="Guy Gardner: Warrior" Number="20" Volume="1994" Year="1994">
-      <Id>54ffc0ae-d136-4e99-9c9f-21571273abfe</Id>
+      <Database Name="cv" Series="11894" Issue="104088" />
     </Book>
     <Book Series="Guy Gardner: Warrior" Number="21" Volume="1994" Year="1994">
-      <Id>6c9c5788-d712-4937-bcc1-426c44e01f9e</Id>
+      <Database Name="cv" Series="11894" Issue="104089" />
     </Book>
     <Book Series="Justice League International" Number="63" Volume="1993" Year="1994">
-      <Id>e08508c8-9b9e-4f03-acf1-c85bc6ed2158</Id>
+      <Database Name="cv" Series="4966" Issue="38895" />
     </Book>
     <Book Series="Justice League International" Number="64" Volume="1993" Year="1994">
-      <Id>9b79e681-9d73-4a11-a0fc-bea1d8f68158</Id>
+      <Database Name="cv" Series="4966" Issue="39037" />
     </Book>
     <Book Series="Justice League Quarterly" Number="15" Volume="1990" Year="1994">
-      <Id>eafe796c-0dd3-4ec1-b632-c4743e725c2b</Id>
+      <Database Name="cv" Series="9634" Issue="86453" />
     </Book>
     <Book Series="Justice League Task Force" Number="10" Volume="1993" Year="1994">
-      <Id>48982d7b-2e96-41bd-86fb-15ed75ee7e00</Id>
+      <Database Name="cv" Series="4967" Issue="38745" />
     </Book>
     <Book Series="Justice League Task Force" Number="11" Volume="1993" Year="1994">
-      <Id>7b5400e4-f8cc-419b-ac8e-c2cf54c086a0</Id>
+      <Database Name="cv" Series="4967" Issue="38896" />
     </Book>
     <Book Series="Justice League Task Force" Number="12" Volume="1993" Year="1994">
-      <Id>9e7d0c13-655a-443e-9189-3124801eea44</Id>
+      <Database Name="cv" Series="4967" Issue="39038" />
     </Book>
     <Book Series="Justice League America" Number="89" Volume="1989" Year="1994">
-      <Id>cdcc47ac-00f0-4497-9dc7-857db526390a</Id>
+      <Database Name="cv" Series="4198" Issue="39176" />
     </Book>
     <Book Series="Justice League Task Force" Number="13" Volume="1993" Year="1994">
-      <Id>6d093098-db79-4c48-b8ad-de51a4d8f428</Id>
+      <Database Name="cv" Series="4967" Issue="39178" />
     </Book>
     <Book Series="Justice League International" Number="65" Volume="1993" Year="1994">
-      <Id>fc29f15f-ae51-47d4-b68f-ca7ade6de050</Id>
+      <Database Name="cv" Series="4966" Issue="39177" />
     </Book>
     <Book Series="Justice League America" Number="90" Volume="1989" Year="1994">
-      <Id>b0256b88-74b4-4854-9036-df95c1478012</Id>
+      <Database Name="cv" Series="4198" Issue="39326" />
     </Book>
     <Book Series="Justice League Task Force" Number="14" Volume="1993" Year="1994">
-      <Id>4193b868-4a4f-4d4b-8b1c-0fc5b77e22e1</Id>
+      <Database Name="cv" Series="4967" Issue="39328" />
     </Book>
     <Book Series="Justice League International" Number="66" Volume="1993" Year="1994">
-      <Id>bc243d84-0de9-4122-93a6-d9d7aeec5fa7</Id>
+      <Database Name="cv" Series="4966" Issue="39327" />
     </Book>
     <Book Series="Justice League America" Number="91" Volume="1989" Year="1994">
-      <Id>12a5cb67-4336-437a-bbba-15f2f136fb5b</Id>
+      <Database Name="cv" Series="4198" Issue="39465" />
     </Book>
     <Book Series="Justice League Task Force" Number="15" Volume="1993" Year="1994">
-      <Id>5ed97c63-7250-4db7-809e-b0f5feda042d</Id>
+      <Database Name="cv" Series="4967" Issue="39467" />
     </Book>
     <Book Series="Justice League International" Number="67" Volume="1993" Year="1994">
-      <Id>0c349906-4031-48ea-a052-7e73d67b7ce4</Id>
+      <Database Name="cv" Series="4966" Issue="39466" />
     </Book>
     <Book Series="Justice League America" Number="92" Volume="1989" Year="1994">
-      <Id>053bc647-b149-4f21-8f48-47fd8a97affd</Id>
+      <Database Name="cv" Series="4198" Issue="39605" />
     </Book>
     <Book Series="Justice League Task Force" Number="16" Volume="1993" Year="1994">
-      <Id>b484c1e6-6829-4626-940c-14669f2133b8</Id>
+      <Database Name="cv" Series="4967" Issue="39607" />
     </Book>
     <Book Series="Justice League International" Number="68" Volume="1993" Year="1994">
-      <Id>25673809-a979-47fd-92ce-e24afbdbe083</Id>
+      <Database Name="cv" Series="4966" Issue="39606" />
     </Book>
     <Book Series="Zero Hour: Crisis in Time" Number="4" Volume="1994" Year="1994">
-      <Id>2946647f-6f17-46c1-99bd-9c0b4fcd392b</Id>
+      <Database Name="cv" Series="5271" Issue="39622" />
     </Book>
     <Book Series="Zero Hour: Crisis in Time" Number="3" Volume="1994" Year="1994">
-      <Id>0de50140-40bb-40b8-9535-1338b3a24e64</Id>
+      <Database Name="cv" Series="5271" Issue="39705" />
     </Book>
     <Book Series="Zero Hour: Crisis in Time" Number="2" Volume="1994" Year="1994">
-      <Id>3da33e45-5b65-44d2-b903-c156a355b8db</Id>
+      <Database Name="cv" Series="5271" Issue="39709" />
     </Book>
     <Book Series="Zero Hour: Crisis in Time" Number="1" Volume="1994" Year="1994">
-      <Id>329682db-1f56-4618-9073-37b0facce794</Id>
+      <Database Name="cv" Series="5271" Issue="39710" />
     </Book>
     <Book Series="Zero Hour: Crisis in Time" Number="0" Volume="1994" Year="1994">
-      <Id>707d31a7-f5c6-40a4-9a2e-f9f015c85677</Id>
+      <Database Name="cv" Series="5271" Issue="39711" />
     </Book>
     <Book Series="Justice League America" Number="0" Volume="1989" Year="1994">
-      <Id>188b4f26-183b-402f-b5f6-02eadf3142d2</Id>
+      <Database Name="cv" Series="4198" Issue="39752" />
     </Book>
     <Book Series="Extreme Justice" Number="0" Volume="1995" Year="1995">
-      <Id>ad961a95-56b5-4d33-aa20-8caa4ae2330c</Id>
+      <Database Name="cv" Series="5505" Issue="40266" />
     </Book>
     <Book Series="Justice League Task Force" Number="0" Volume="1993" Year="1994">
-      <Id>b6f0c633-047e-4013-986b-d7e1704c8c6d</Id>
+      <Database Name="cv" Series="4967" Issue="39753" />
     </Book>
     <Book Series="Justice League Quarterly" Number="16" Volume="1990" Year="1994">
-      <Id>7d52ac37-e9e8-4f94-974b-e0e98ed31497</Id>
+      <Database Name="cv" Series="9634" Issue="86454" />
     </Book>
     <Book Series="Justice League America" Number="93" Volume="1989" Year="1994">
-      <Id>59af2b8b-543f-43d9-9a69-8488bda2b796</Id>
+      <Database Name="cv" Series="4198" Issue="39898" />
     </Book>
     <Book Series="Justice League America" Number="94" Volume="1989" Year="1994">
-      <Id>5e2bba58-5f79-4ef9-b25c-b4b77b80bcc0</Id>
+      <Database Name="cv" Series="4198" Issue="40032" />
     </Book>
     <Book Series="Justice League America" Number="95" Volume="1989" Year="1995">
-      <Id>0a5609a2-34e8-47e8-9b41-5dafa0660f3c</Id>
+      <Database Name="cv" Series="4198" Issue="40274" />
     </Book>
     <Book Series="Extreme Justice" Number="1" Volume="1995" Year="1995">
-      <Id>c22c4dd1-34b3-4c9d-ab05-ad6a787dcfee</Id>
+      <Database Name="cv" Series="5505" Issue="40411" />
     </Book>
     <Book Series="Extreme Justice" Number="2" Volume="1995" Year="1995">
-      <Id>6bb97a32-8260-4db5-b8f6-b946fa119496</Id>
+      <Database Name="cv" Series="5505" Issue="40545" />
     </Book>
     <Book Series="Extreme Justice" Number="3" Volume="1995" Year="1995">
-      <Id>28b8f4ba-c409-4cc3-8acb-a9f99671cb80</Id>
+      <Database Name="cv" Series="5505" Issue="40679" />
     </Book>
     <Book Series="Justice League Quarterly" Number="17" Volume="1990" Year="1994">
-      <Id>38494625-4291-44d0-bf3a-671d8740f849</Id>
+      <Database Name="cv" Series="9634" Issue="86455" />
     </Book>
     <Book Series="Justice League Task Force" Number="17" Volume="1993" Year="1994">
-      <Id>ea4aa961-daf0-4205-b7e0-fd8ca7bff7d4</Id>
+      <Database Name="cv" Series="4967" Issue="39899" />
     </Book>
     <Book Series="Justice League Task Force" Number="18" Volume="1993" Year="1994">
-      <Id>5b9cb865-e80d-485a-9d7b-ef48a8a35900</Id>
+      <Database Name="cv" Series="4967" Issue="40033" />
     </Book>
     <Book Series="Justice League Task Force" Number="19" Volume="1993" Year="1995">
-      <Id>037ddeeb-aae2-4043-8475-bf56d6ed54d5</Id>
+      <Database Name="cv" Series="4967" Issue="40275" />
     </Book>
     <Book Series="Justice League Task Force" Number="20" Volume="1993" Year="1995">
-      <Id>e64653d1-4d7d-4da9-8b45-aa27135ef318</Id>
+      <Database Name="cv" Series="4967" Issue="40420" />
     </Book>
     <Book Series="Extreme Justice" Number="4" Volume="1995" Year="1995">
-      <Id>893e1075-4e92-4ce7-9588-4a315a632068</Id>
+      <Database Name="cv" Series="5505" Issue="40809" />
     </Book>
     <Book Series="Extreme Justice" Number="5" Volume="1995" Year="1995">
-      <Id>5a6d1b28-9a0d-4a48-b604-1cfc9008cd73</Id>
+      <Database Name="cv" Series="5505" Issue="40932" />
     </Book>
     <Book Series="Justice League America" Number="96" Volume="1989" Year="1995">
-      <Id>94b18bc8-d0a6-4966-ad3e-038ed732653f</Id>
+      <Database Name="cv" Series="4198" Issue="40419" />
     </Book>
     <Book Series="Justice League America" Number="97" Volume="1989" Year="1995">
-      <Id>b6898a9d-12f3-4a6c-bac8-5e9f12a81994</Id>
+      <Database Name="cv" Series="4198" Issue="40552" />
     </Book>
     <Book Series="Justice League Task Force" Number="21" Volume="1993" Year="1995">
-      <Id>76550c2f-e1b6-4b74-9ce1-6550ad8bedce</Id>
+      <Database Name="cv" Series="4967" Issue="40553" />
     </Book>
     <Book Series="Justice League Task Force" Number="22" Volume="1993" Year="1995">
-      <Id>e4bbe37c-49d6-48ce-bb93-b71ca5b5c4d4</Id>
+      <Database Name="cv" Series="4967" Issue="40688" />
     </Book>
     <Book Series="Justice League Task Force" Number="23" Volume="1993" Year="1995">
-      <Id>224ffa76-c0e6-44d9-9ad4-ef872a188de3</Id>
+      <Database Name="cv" Series="4967" Issue="40817" />
     </Book>
     <Book Series="Justice League Task Force" Number="24" Volume="1993" Year="1995">
-      <Id>c5cd2439-4a6c-49e0-aa19-5c2fdbeddb16</Id>
+      <Database Name="cv" Series="4967" Issue="40941" />
     </Book>
     <Book Series="Justice League America" Number="98" Volume="1989" Year="1995">
-      <Id>49b72346-fe7d-4efc-85c2-bad764f9ee91</Id>
+      <Database Name="cv" Series="4198" Issue="40687" />
     </Book>
     <Book Series="Justice League America" Number="99" Volume="1989" Year="1995">
-      <Id>9b52fc97-2caa-47f3-82ed-ed10ae2c5dc6</Id>
+      <Database Name="cv" Series="4198" Issue="40816" />
     </Book>
     <Book Series="Extreme Justice" Number="6" Volume="1995" Year="1995">
-      <Id>fdfa9f2b-bd89-4e86-8f22-9898513e46ba</Id>
+      <Database Name="cv" Series="5505" Issue="41068" />
     </Book>
     <Book Series="Extreme Justice" Number="7" Volume="1995" Year="1995">
-      <Id>20545a24-bd80-4227-9506-60fffc38224b</Id>
+      <Database Name="cv" Series="5505" Issue="41211" />
     </Book>
     <Book Series="Extreme Justice" Number="8" Volume="1995" Year="1995">
-      <Id>f4e3cbae-1c88-454c-93da-59f1c8652f38</Id>
+      <Database Name="cv" Series="5505" Issue="41347" />
     </Book>
     <Book Series="Damage" Number="14" Volume="1994" Year="1995">
-      <Id>a6b45003-f968-4e0c-a132-c30d19cc5a97</Id>
+      <Database Name="cv" Series="5242" Issue="41067" />
     </Book>
     <Book Series="Damage" Number="15" Volume="1994" Year="1995">
-      <Id>2a67c368-19cf-4357-b03a-3779a595340d</Id>
+      <Database Name="cv" Series="5242" Issue="41210" />
     </Book>
     <Book Series="Justice League Task Force" Number="25" Volume="1993" Year="1995">
-      <Id>bb1ca75d-40ae-4a3a-abc3-767b29a85269</Id>
+      <Database Name="cv" Series="4967" Issue="41077" />
     </Book>
     <Book Series="Justice League America" Number="100" Volume="1989" Year="1995">
-      <Id>4caf8da3-b698-4227-803e-be8f480cffe4</Id>
+      <Database Name="cv" Series="4198" Issue="40940" />
     </Book>
     <Book Series="Guy Gardner: Warrior" Number="32" Volume="1994" Year="1995">
-      <Id>eb9a3e44-dd8f-41af-9ea7-0070b774b8ee</Id>
+      <Database Name="cv" Series="11894" Issue="104100" />
     </Book>
-    <Book Series="Guy Gardner Annual" Number="1" Volume="1995" Year="1995">
-      <Id>43a14d2b-532a-4679-9f46-8b39cb308085</Id>
+    <Book Series="Guy Gardner: Warrior Annual" Number="1" Volume="1995" Year="1995">
+      <Database Name="cv" Series="30426" Issue="187400" />
     </Book>
     <Book Series="Justice League America" Number="101" Volume="1989" Year="1995">
-      <Id>bca66388-bdf4-47f2-973c-2aac6a671c9e</Id>
+      <Database Name="cv" Series="4198" Issue="41076" />
     </Book>
     <Book Series="Hawkman" Number="22" Volume="1993" Year="1995">
-      <Id>7a54c1d4-b64a-418f-a0fa-a4670bc8d0a6</Id>
+      <Database Name="cv" Series="4962" Issue="137398" />
     </Book>
     <Book Series="Guy Gardner: Warrior" Number="33" Volume="1994" Year="1995">
-      <Id>9460962d-b16e-44a7-8450-f82cf10319ab</Id>
+      <Database Name="cv" Series="11894" Issue="104101" />
     </Book>
     <Book Series="Justice League America" Number="102" Volume="1989" Year="1995">
-      <Id>0df615c3-c0f2-4f1e-b620-76b31d18c6cb</Id>
+      <Database Name="cv" Series="4198" Issue="41218" />
     </Book>
     <Book Series="Hawkman" Number="23" Volume="1993" Year="1995">
-      <Id>66dda6c8-7c1d-4e2b-9ce2-f2e94bcbf178</Id>
+      <Database Name="cv" Series="4962" Issue="137399" />
     </Book>
     <Book Series="Guy Gardner: Warrior" Number="34" Volume="1994" Year="1995">
-      <Id>cbc0e7b1-a317-423b-b815-fb6514e30beb</Id>
+      <Database Name="cv" Series="11894" Issue="104102" />
     </Book>
     <Book Series="Justice League Task Force" Number="26" Volume="1993" Year="1995">
-      <Id>fe2906a6-de7a-4016-bb95-de3722477162</Id>
+      <Database Name="cv" Series="4967" Issue="41219" />
     </Book>
     <Book Series="Justice League Task Force" Number="27" Volume="1993" Year="1995">
-      <Id>2779f076-6367-447c-813b-f26d04360b1e</Id>
+      <Database Name="cv" Series="4967" Issue="41354" />
     </Book>
     <Book Series="Justice League Task Force" Number="28" Volume="1993" Year="1995">
-      <Id>32da9b8b-92a1-4e62-acd1-1958bd63d100</Id>
+      <Database Name="cv" Series="4967" Issue="41487" />
     </Book>
     <Book Series="Justice League Task Force" Number="29" Volume="1993" Year="1995">
-      <Id>cbf487b1-61b9-48e5-a57d-0c7c18b5973c</Id>
+      <Database Name="cv" Series="4967" Issue="41610" />
     </Book>
     <Book Series="Extreme Justice" Number="9" Volume="1995" Year="1995">
-      <Id>6ec60855-25ee-42df-97b9-db6449943103</Id>
+      <Database Name="cv" Series="5505" Issue="41480" />
     </Book>
     <Book Series="Justice League America" Number="103" Volume="1989" Year="1995">
-      <Id>b3c46341-216c-4773-8625-70bcb207a986</Id>
+      <Database Name="cv" Series="4198" Issue="41353" />
     </Book>
     <Book Series="Justice League America" Number="104" Volume="1989" Year="1995">
-      <Id>007c26b1-7e6f-4cfc-94a7-3a9cbb66ea1f</Id>
+      <Database Name="cv" Series="4198" Issue="41486" />
     </Book>
     <Book Series="Underworld Unleashed" Number="1" Volume="1995" Year="1995">
-      <Id>ffddf53a-c4be-42b8-bd42-0bb1603d52a9</Id>
+      <Database Name="cv" Series="5526" Issue="41625" />
     </Book>
     <Book Series="Justice League Task Force" Number="30" Volume="1993" Year="1995">
-      <Id>12279b01-6a77-4cc9-bb1a-a401e9081742</Id>
+      <Database Name="cv" Series="4967" Issue="41738" />
     </Book>
     <Book Series="Justice League America" Number="105" Volume="1989" Year="1995">
-      <Id>0702c5ef-180f-49bc-8b7b-b8b3ad97bbff</Id>
+      <Database Name="cv" Series="4198" Issue="41609" />
     </Book>
     <Book Series="Extreme Justice" Number="10" Volume="1995" Year="1995">
-      <Id>f7aa740c-807f-49d6-a7be-63deeb2bd116</Id>
+      <Database Name="cv" Series="5505" Issue="41603" />
     </Book>
     <Book Series="Extreme Justice" Number="11" Volume="1995" Year="1995">
-      <Id>3c410f65-49c6-4f91-adf0-637b3f2f422e</Id>
+      <Database Name="cv" Series="5505" Issue="41731" />
     </Book>
     <Book Series="Underworld Unleashed" Number="2" Volume="1995" Year="1995">
-      <Id>ba02f33c-ada7-4d41-bdb5-3107a1bac1a8</Id>
+      <Database Name="cv" Series="5526" Issue="41753" />
     </Book>
-    <Book Series="Underworld Unleashed" Number="3" Volume="1995" Year="1996">
-      <Id>ae4d2a45-1f51-4b9a-a2f5-01b1dcc6d33a</Id>
+    <Book Series="Underworld Unleashed" Number="3" Volume="1995" Year="1995">
+      <Database Name="cv" Series="5526" Issue="41826" />
     </Book>
     <Book Series="Justice League America" Number="106" Volume="1989" Year="1995">
-      <Id>119a37e3-184c-448a-a03c-a47eb5de65ab</Id>
+      <Database Name="cv" Series="4198" Issue="41737" />
     </Book>
     <Book Series="Extreme Justice" Number="12" Volume="1995" Year="1996">
-      <Id>6024b552-334f-447e-8fc0-b08977feb8d3</Id>
+      <Database Name="cv" Series="5505" Issue="41953" />
     </Book>
     <Book Series="Extreme Justice" Number="13" Volume="1995" Year="1996">
-      <Id>3ff95426-ecf2-4818-a663-514517bac052</Id>
+      <Database Name="cv" Series="5505" Issue="42062" />
     </Book>
     <Book Series="Extreme Justice" Number="14" Volume="1995" Year="1996">
-      <Id>95c03cb8-0951-4579-82d7-e9e24d230a8c</Id>
+      <Database Name="cv" Series="5505" Issue="42175" />
     </Book>
     <Book Series="Extreme Justice" Number="15" Volume="1995" Year="1996">
-      <Id>8c6d6d96-8eda-47b1-b094-555f898dcce1</Id>
+      <Database Name="cv" Series="5505" Issue="42268" />
     </Book>
     <Book Series="Extreme Justice" Number="16" Volume="1995" Year="1996">
-      <Id>c8fc8496-f29a-4e47-a966-834008da0f1b</Id>
+      <Database Name="cv" Series="5505" Issue="42373" />
     </Book>
     <Book Series="Extreme Justice" Number="17" Volume="1995" Year="1996">
-      <Id>bcbbc806-9667-4861-8c55-4b31a764fca5</Id>
+      <Database Name="cv" Series="5505" Issue="42464" />
     </Book>
     <Book Series="Extreme Justice" Number="18" Volume="1995" Year="1996">
-      <Id>3e9a013e-2f16-4829-913b-35157f40a895</Id>
+      <Database Name="cv" Series="5505" Issue="42573" />
     </Book>
     <Book Series="Justice League Task Force" Number="31" Volume="1993" Year="1996">
-      <Id>3beb0942-309c-4834-826c-b70d638bd5b7</Id>
+      <Database Name="cv" Series="4967" Issue="41960" />
     </Book>
     <Book Series="Justice League Task Force" Number="32" Volume="1993" Year="1996">
-      <Id>7e848af7-db3f-423a-a5e6-91108cd674c8</Id>
+      <Database Name="cv" Series="4967" Issue="42069" />
     </Book>
     <Book Series="Justice League Task Force" Number="33" Volume="1993" Year="1996">
-      <Id>c2fa46fb-c41b-427a-953d-4b56b4ed9690</Id>
+      <Database Name="cv" Series="4967" Issue="42182" />
     </Book>
     <Book Series="Justice League Task Force" Number="34" Volume="1993" Year="1996">
-      <Id>8782ac02-9913-49b9-97f0-85800bd85e22</Id>
+      <Database Name="cv" Series="4967" Issue="42378" />
     </Book>
     <Book Series="Justice League Task Force" Number="35" Volume="1993" Year="1996">
-      <Id>bbed69eb-80b6-4a2e-9444-58bd0ccf5f5a</Id>
+      <Database Name="cv" Series="4967" Issue="42471" />
     </Book>
     <Book Series="Justice League Task Force" Number="36" Volume="1993" Year="1996">
-      <Id>e86e9703-c559-4097-8b14-5bf1b42c35af</Id>
+      <Database Name="cv" Series="4967" Issue="42580" />
     </Book>
     <Book Series="Justice League America" Number="107" Volume="1989" Year="1996">
-      <Id>2da69136-2c41-499c-b857-de44119a65e3</Id>
+      <Database Name="cv" Series="4198" Issue="41959" />
     </Book>
     <Book Series="Justice League America" Number="108" Volume="1989" Year="1996">
-      <Id>2cee434c-aa38-41eb-ae85-f3985f3b70f5</Id>
+      <Database Name="cv" Series="4198" Issue="42068" />
     </Book>
     <Book Series="Justice League America" Number="109" Volume="1989" Year="1996">
-      <Id>afee9dcb-90c8-4ffe-827e-d4ccfc0a1fce</Id>
+      <Database Name="cv" Series="4198" Issue="42181" />
     </Book>
     <Book Series="Justice League America" Number="110" Volume="1989" Year="1996">
-      <Id>e1595036-8eee-4321-9949-b631880c223b</Id>
+      <Database Name="cv" Series="4198" Issue="42273" />
     </Book>
     <Book Series="Justice League America" Number="111" Volume="1989" Year="1996">
-      <Id>a39df1df-a048-426e-a713-d6563b0eabdc</Id>
+      <Database Name="cv" Series="4198" Issue="42470" />
     </Book>
     <Book Series="Justice League America" Number="112" Volume="1989" Year="1996">
-      <Id>9125e7cd-c78a-4d63-b32a-95c873b1f81e</Id>
+      <Database Name="cv" Series="4198" Issue="42579" />
     </Book>
     <Book Series="Justice League America" Number="113" Volume="1989" Year="1996">
-      <Id>f6b8225a-aa03-4b5b-a5c5-c3e7645c1f50</Id>
+      <Database Name="cv" Series="4198" Issue="42678" />
     </Book>
     <Book Series="Justice League Task Force" Number="37" Volume="1993" Year="1996">
-      <Id>886a4f94-8777-4cfc-a5a4-f4cb890b5809</Id>
+      <Database Name="cv" Series="4967" Issue="42679" />
     </Book>
     <Book Series="The Final Night" Number="1" Volume="1996" Year="1996">
-      <Id>873617ca-933f-4ae3-8823-a7c93ccf77f7</Id>
+      <Database Name="cv" Series="5747" Issue="42930" />
     </Book>
     <Book Series="The Final Night" Number="2" Volume="1996" Year="1996">
-      <Id>987047a5-fa0f-436c-9501-a54463e41daa</Id>
+      <Database Name="cv" Series="5747" Issue="42937" />
     </Book>
     <Book Series="The Final Night" Number="3" Volume="1996" Year="1996">
-      <Id>1bacb5dd-4e4d-4228-8625-1a8a6fd35a00</Id>
+      <Database Name="cv" Series="5747" Issue="42939" />
     </Book>
     <Book Series="The Final Night" Number="4" Volume="1996" Year="1996">
-      <Id>37b0fba7-1e6d-4b64-8e63-69327e52308e</Id>
+      <Database Name="cv" Series="5747" Issue="42940" />
     </Book>
   </Books>
   <Matchers />
