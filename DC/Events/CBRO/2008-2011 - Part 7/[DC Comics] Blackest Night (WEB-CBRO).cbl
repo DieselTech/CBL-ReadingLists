@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Blackest Night (WEB-CBRO)</Name>
-<NumIssues>73</NumIssues>
+<NumIssues>80</NumIssues>
 <Books>
 <Book Series="Blackest Night: Tales of the Corps" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="27068" Issue="164031" />
@@ -69,6 +69,9 @@
 <Book Series="Blackest Night" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="26266" Issue="171404" />
 </Book>
+<Book Series="Blackest Night: Titans" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="27563" Issue="173425" />
+</Book>
 <Book Series="Blackest Night: Titans" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="27563" Issue="179005" />
 </Book>
@@ -77,6 +80,9 @@
 </Book>
 <Book Series="Adventure Comics" Number="5" Volume="2009" Year="2010">
 <Database Name="cv" Series="25643" Issue="186662" />
+</Book>
+<Book Series="Justice League of America" Number="38" Volume="2006" Year="2009">
+<Database Name="cv" Series="18127" Issue="177712" />
 </Book>
 <Book Series="Justice League of America" Number="39" Volume="2006" Year="2010">
 <Database Name="cv" Series="18127" Issue="184828" />
@@ -129,6 +135,9 @@
 <Book Series="Blackest Night: The Flash" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30162" Issue="185677" />
 </Book>
+<Book Series="R.E.B.E.L.S." Number="10" Volume="2009" Year="2010">
+<Database Name="cv" Series="25833" Issue="182942" />
+</Book>
 <Book Series="R.E.B.E.L.S." Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="25833" Issue="186723" />
 </Book>
@@ -162,6 +171,9 @@
 <Book Series="The Question" Number="37" Volume="1986" Year="2010">
 <Database Name="cv" Series="3805" Issue="195384" />
 </Book>
+<Book Series="Blackest Night: JSA" Number="1" Volume="2009" Year="2010">
+<Database Name="cv" Series="30673" Issue="189478" />
+</Book>
 <Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
 <Database Name="cv" Series="30673" Issue="194482" />
 </Book>
@@ -173,6 +185,9 @@
 </Book>
 <Book Series="Blackest Night" Number="5" Volume="2009" Year="2010">
 <Database Name="cv" Series="26266" Issue="184885" />
+</Book>
+<Book Series="Green Lantern Corps" Number="43" Volume="2006" Year="2010">
+<Database Name="cv" Series="18248" Issue="187621" />
 </Book>
 <Book Series="Green Lantern Corps" Number="44" Volume="2006" Year="2010">
 <Database Name="cv" Series="18248" Issue="193357" />
@@ -195,6 +210,9 @@
 <Book Series="Blackest Night: Wonder Woman" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30163" Issue="195373" />
 </Book>
+<Book Series="Blackest Night: The Flash" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="30162" Issue="193415" />
+</Book>
 <Book Series="Blackest Night: The Flash" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30162" Issue="197542" />
 </Book>
@@ -203,6 +221,9 @@
 </Book>
 <Book Series="Green Lantern Corps" Number="45" Volume="2006" Year="2010">
 <Database Name="cv" Series="18248" Issue="197534" />
+</Book>
+<Book Series="Green Lantern" Number="50" Volume="2005" Year="2010">
+<Database Name="cv" Series="18216" Issue="194620" />
 </Book>
 <Book Series="Green Lantern" Number="51" Volume="2005" Year="2010">
 <Database Name="cv" Series="18216" Issue="197529" />
