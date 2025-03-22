@@ -35,7 +35,7 @@
     <Book Series="Micronauts" Number="11" Volume="1979" Year="1979">
       <Id>c2c734cd-11d9-4640-9403-fe41470b6465</Id>
     </Book>
-    <Book Series="Micronauts Annual" Number="1" Volume="1979" Year="1979" Format="Annual">
+    <Book Series="Micronauts Annual" Number="1" Volume="1979" Year="1979">
       <Id>698cd8bb-ebdd-4b1b-ad76-c35e245a9aea</Id>
     </Book>
     <Book Series="Micronauts" Number="12" Volume="1979" Year="1979">
@@ -74,7 +74,7 @@
     <Book Series="Micronauts" Number="23" Volume="1979" Year="1980">
       <Id>4bec974b-b6de-45c0-baa1-17f3bbc7619b</Id>
     </Book>
-    <Book Series="Micronauts Annual" Number="2" Volume="1979" Year="1980" Format="Annual">
+    <Book Series="Micronauts Annual" Number="2" Volume="1979" Year="1980">
       <Id>8c8831db-ccf6-41ea-838a-cc743c242536</Id>
     </Book>
     <Book Series="Micronauts" Number="25" Volume="1979" Year="1981">

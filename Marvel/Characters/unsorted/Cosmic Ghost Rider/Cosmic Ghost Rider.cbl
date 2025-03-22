@@ -20,7 +20,7 @@
     <Book Series="Thanos" Number="18" Volume="2016" Year="2018">
       <Id>b73abeac-0e0f-4e4e-8ba5-08b474dab8e9</Id>
     </Book>
-    <Book Series="Thanos Annual" Number="1" Volume="2016" Year="2018" Format="Annual">
+    <Book Series="Thanos Annual" Number="1" Volume="2016" Year="2018">
       <Id>e2bbd371-970d-432c-a701-329417d9d8e1</Id>
     </Book>
     <Book Series="Cosmic Ghost Rider" Number="1" Volume="2018" Year="2018">
