@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Image] [1992-Present] Spawn (CBRO)</Name>
-<NumIssues>616</NumIssues>
+<NumIssues>685</NumIssues>
 <Books>
 <Book Series="Spawn" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="4937" Issue="35666" />
@@ -1844,6 +1844,219 @@
 </Book>
 <Book Series="The Scorched" Number="18" Volume="2022" Year="2023">
 <Database Name="cv" Series="141163" Issue="992454" />
+</Book>
+<Book Series="King Spawn" Number="19" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="967900" />
+</Book>
+<Book Series="King Spawn" Number="20" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="974170" />
+</Book>
+<Book Series="King Spawn" Number="21" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="981311" />
+</Book>
+<Book Series="King Spawn" Number="22" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="991328" />
+</Book>
+<Book Series="King Spawn" Number="23" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="996202" />
+</Book>
+<Book Series="King Spawn" Number="24" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="1002182" />
+</Book>
+<Book Series="The Scorched" Number="19" Volume="2022" Year="2023">
+<Database Name="cv" Series="141163" Issue="997892" />
+</Book>
+<Book Series="The Scorched" Number="20" Volume="2022" Year="2023">
+<Database Name="cv" Series="141163" Issue="1004584" />
+</Book>
+<Book Series="The Scorched" Number="21" Volume="2022" Year="2023">
+<Database Name="cv" Series="141163" Issue="1011953" />
+</Book>
+<Book Series="The Scorched" Number="22" Volume="2022" Year="2023">
+<Database Name="cv" Series="141163" Issue="1024686" />
+</Book>
+<Book Series="The Scorched" Number="23" Volume="2022" Year="2023">
+<Database Name="cv" Series="141163" Issue="1028936" />
+</Book>
+<Book Series="The Scorched" Number="24" Volume="2022" Year="2023">
+<Database Name="cv" Series="141163" Issue="1034529" />
+</Book>
+<Book Series="Gunslinger" Number="19" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="983993" />
+</Book>
+<Book Series="Gunslinger" Number="20" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="989961" />
+</Book>
+<Book Series="Gunslinger" Number="21" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="994543" />
+</Book>
+<Book Series="Gunslinger" Number="22" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="1003424" />
+</Book>
+<Book Series="Gunslinger" Number="23" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="1007832" />
+</Book>
+<Book Series="Gunslinger" Number="24" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="1017966" />
+</Book>
+<Book Series="Spawn" Number="344" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="1006448" />
+</Book>
+<Book Series="Spawn" Number="345" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="1019257" />
+</Book>
+<Book Series="Spawn" Number="346" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="1027130" />
+</Book>
+<Book Series="Spawn" Number="347" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="1030189" />
+</Book>
+<Book Series="King Spawn" Number="25" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="1010821" />
+</Book>
+<Book Series="King Spawn" Number="26" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="1022076" />
+</Book>
+<Book Series="King Spawn" Number="27" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="1028109" />
+</Book>
+<Book Series="King Spawn" Number="28" Volume="2021" Year="2023">
+<Database Name="cv" Series="138562" Issue="1033407" />
+</Book>
+<Book Series="The Scorched" Number="25" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1041258" />
+</Book>
+<Book Series="The Scorched" Number="26" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1044980" />
+</Book>
+<Book Series="Gunslinger" Number="25" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="1027131" />
+</Book>
+<Book Series="Gunslinger" Number="26" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="1031106" />
+</Book>
+<Book Series="Gunslinger" Number="27" Volume="2021" Year="2023">
+<Database Name="cv" Series="139839" Issue="1038457" />
+</Book>
+<Book Series="Gunslinger" Number="28" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1044088" />
+</Book>
+<Book Series="King Spawn" Number="29" Volume="2021" Year="2024">
+<Database Name="cv" Series="138562" Issue="1040201" />
+</Book>
+<Book Series="King Spawn" Number="30" Volume="2021" Year="2024">
+<Database Name="cv" Series="138562" Issue="1043364" />
+</Book>
+<Book Series="Spawn" Number="348" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="1036502" />
+</Book>
+<Book Series="Spawn" Number="349" Volume="1992" Year="2024">
+<Database Name="cv" Series="4937" Issue="1042321" />
+</Book>
+<Book Series="Spawn" Number="350" Volume="1992" Year="2024">
+<Database Name="cv" Series="4937" Issue="1045935" />
+</Book>
+<Book Series="King Spawn" Number="31" Volume="2021" Year="2024">
+<Database Name="cv" Series="138562" Issue="1047378" />
+</Book>
+<Book Series="King Spawn" Number="32" Volume="2021" Year="2024">
+<Database Name="cv" Series="138562" Issue="1049490" />
+</Book>
+<Book Series="King Spawn" Number="33" Volume="2021" Year="2024">
+<Database Name="cv" Series="138562" Issue="1053863" />
+</Book>
+<Book Series="King Spawn" Number="34" Volume="2021" Year="2024">
+<Database Name="cv" Series="138562" Issue="1057083" />
+</Book>
+<Book Series="King Spawn" Number="35" Volume="2021" Year="2024">
+<Database Name="cv" Series="138562" Issue="1061030" />
+</Book>
+<Book Series="King Spawn" Number="36" Volume="2021" Year="2024">
+<Database Name="cv" Series="138562" Issue="1064325" />
+</Book>
+<Book Series="Gunslinger" Number="29" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1047373" />
+</Book>
+<Book Series="Gunslinger" Number="30" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1050662" />
+</Book>
+<Book Series="Spawn" Number="351" Volume="1992" Year="2024">
+<Database Name="cv" Series="4937" Issue="1048893" />
+</Book>
+<Book Series="Spawn" Number="352" Volume="1992" Year="2024">
+<Database Name="cv" Series="4937" Issue="1051806" />
+</Book>
+<Book Series="Spawn" Number="353" Volume="1992" Year="2024">
+<Database Name="cv" Series="4937" Issue="1055645" />
+</Book>
+<Book Series="Spawn" Number="354" Volume="1992" Year="2024">
+<Database Name="cv" Series="4937" Issue="1060334" />
+</Book>
+<Book Series="Spawn" Number="355" Volume="1992" Year="2024">
+<Database Name="cv" Series="4937" Issue="1065543" />
+</Book>
+<Book Series="Spawn" Number="356" Volume="1992" Year="2024">
+<Database Name="cv" Series="4937" Issue="1068773" />
+</Book>
+<Book Series="The Scorched" Number="27" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1048894" />
+</Book>
+<Book Series="The Scorched" Number="28" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1051198" />
+</Book>
+<Book Series="The Scorched" Number="29" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1054520" />
+</Book>
+<Book Series="The Scorched" Number="30" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1058711" />
+</Book>
+<Book Series="Gunslinger" Number="31" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1054530" />
+</Book>
+<Book Series="Gunslinger" Number="32" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1058692" />
+</Book>
+<Book Series="Gunslinger" Number="33" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1061937" />
+</Book>
+<Book Series="Gunslinger" Number="34" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1066387" />
+</Book>
+<Book Series="Gunslinger" Number="35" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1068785" />
+</Book>
+<Book Series="Gunslinger" Number="36" Volume="2021" Year="2024">
+<Database Name="cv" Series="139839" Issue="1073340" />
+</Book>
+<Book Series="Misery" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="158559" Issue="1060327" />
+</Book>
+<Book Series="Misery" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="158559" Issue="1063361" />
+</Book>
+<Book Series="Misery" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="158559" Issue="1066393" />
+</Book>
+<Book Series="Misery" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="158559" Issue="1069475" />
+</Book>
+<Book Series="The Scorched" Number="31" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1061955" />
+</Book>
+<Book Series="The Scorched" Number="32" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1066403" />
+</Book>
+<Book Series="The Scorched" Number="33" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1069485" />
+</Book>
+<Book Series="The Scorched" Number="34" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1073364" />
+</Book>
+<Book Series="The Scorched" Number="35" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1076628" />
+</Book>
+<Book Series="The Scorched" Number="36" Volume="2022" Year="2024">
+<Database Name="cv" Series="141163" Issue="1080289" />
 </Book>
 </Books>
 <Matchers />
