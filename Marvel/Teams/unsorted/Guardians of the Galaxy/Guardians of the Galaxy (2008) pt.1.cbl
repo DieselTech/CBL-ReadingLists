@@ -1,666 +1,667 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Guardians of the Galaxy (2008) pt.1</Name>
+  <NumIssues>220</NumIssues>
   <Books>
     <Book Series="Drax the Destroyer" Number="1" Volume="2005" Year="2005">
-      <Id>e9ba5f6b-3ed6-48ff-8935-ccd53045cafc</Id>
+      <Database Name="cv" Series="18291" Issue="107044" />
     </Book>
     <Book Series="Drax the Destroyer" Number="2" Volume="2005" Year="2005">
-      <Id>744c9420-0a2d-4c18-8545-af8688ff25d1</Id>
+      <Database Name="cv" Series="18291" Issue="107164" />
     </Book>
     <Book Series="Drax the Destroyer" Number="3" Volume="2005" Year="2006">
-      <Id>3ba0c5c1-bd9f-4e7c-b6c2-34fa68f708a5</Id>
+      <Database Name="cv" Series="18291" Issue="107165" />
     </Book>
     <Book Series="Drax the Destroyer" Number="4" Volume="2005" Year="2006">
-      <Id>a35ecf8a-f609-45b6-8e27-a96a46852aa1</Id>
+      <Database Name="cv" Series="18291" Issue="107166" />
     </Book>
     <Book Series="Annihilation: Prologue" Number="1" Volume="2006" Year="2006">
-      <Id>b75f85c9-1196-47f5-b7d2-5f4f63170d88</Id>
+      <Database Name="cv" Series="18290" Issue="107043" />
     </Book>
     <Book Series="Annihilation: Nova" Number="1" Volume="2006" Year="2006">
-      <Id>e2dafd58-a8ff-40e7-9f24-b233d1d99171</Id>
+      <Database Name="cv" Series="18017" Issue="105470" />
     </Book>
     <Book Series="Annihilation: Nova" Number="2" Volume="2006" Year="2006">
-      <Id>fddb350c-50b9-447b-8ed2-f2b646ad8088</Id>
+      <Database Name="cv" Series="18017" Issue="105476" />
     </Book>
     <Book Series="Annihilation: Nova" Number="3" Volume="2006" Year="2006">
-      <Id>3d564935-0bca-424a-b10f-6502978fdbd4</Id>
+      <Database Name="cv" Series="18017" Issue="105477" />
     </Book>
     <Book Series="Annihilation: Nova" Number="4" Volume="2006" Year="2006">
-      <Id>18bdca73-9c62-4f33-ab54-551510a5c2ef</Id>
+      <Database Name="cv" Series="18017" Issue="105478" />
     </Book>
     <Book Series="Annihilation: Silver Surfer" Number="1" Volume="2006" Year="2006">
-      <Id>7ad9303b-a67e-4cde-8213-f7490839caca</Id>
+      <Database Name="cv" Series="20185" Issue="125533" />
     </Book>
     <Book Series="Annihilation: Silver Surfer" Number="2" Volume="2006" Year="2006">
-      <Id>60f53b49-b853-4bf2-b9b6-ab81e08e9b84</Id>
+      <Database Name="cv" Series="20185" Issue="120431" />
     </Book>
     <Book Series="Annihilation: Silver Surfer" Number="3" Volume="2006" Year="2006">
-      <Id>b8a07c2a-5465-412f-9487-9f38d0c31946</Id>
+      <Database Name="cv" Series="20185" Issue="125535" />
     </Book>
     <Book Series="Annihilation: Silver Surfer" Number="4" Volume="2006" Year="2006">
-      <Id>d3feb80a-6e6d-42fa-bbc8-aa7d98d89758</Id>
+      <Database Name="cv" Series="20185" Issue="125591" />
     </Book>
     <Book Series="Annihilation: Super-Skrull" Number="1" Volume="2006" Year="2006">
-      <Id>af8db60c-1460-480a-ac6c-10ad54e0cdae</Id>
+      <Database Name="cv" Series="18018" Issue="105471" />
     </Book>
     <Book Series="Annihilation: Super-Skrull" Number="2" Volume="2006" Year="2006">
-      <Id>0f4946d2-0b4a-414d-aa31-cb89f9ae618c</Id>
+      <Database Name="cv" Series="18018" Issue="120428" />
     </Book>
     <Book Series="Annihilation: Super-Skrull" Number="3" Volume="2006" Year="2006">
-      <Id>2cf611d8-4f2b-4933-ba1b-e86a0ed49d14</Id>
+      <Database Name="cv" Series="18018" Issue="120429" />
     </Book>
     <Book Series="Annihilation: Super-Skrull" Number="4" Volume="2006" Year="2006">
-      <Id>ae391322-9bb7-418e-8595-94ed963af912</Id>
+      <Database Name="cv" Series="18018" Issue="120430" />
     </Book>
     <Book Series="Annihilation: Ronan" Number="1" Volume="2006" Year="2006">
-      <Id>d0220324-6c30-4b51-a3ae-3c2464460ae8</Id>
+      <Database Name="cv" Series="20186" Issue="120432" />
     </Book>
     <Book Series="Annihilation: Ronan" Number="2" Volume="2006" Year="2006">
-      <Id>fd493be8-8f80-43e3-a47d-0338a04647df</Id>
+      <Database Name="cv" Series="20186" Issue="125235" />
     </Book>
     <Book Series="Annihilation: Ronan" Number="3" Volume="2006" Year="2006">
-      <Id>0ed59bbd-a975-46c9-a298-0ab66611e27c</Id>
+      <Database Name="cv" Series="20186" Issue="125236" />
     </Book>
     <Book Series="Annihilation: Ronan" Number="4" Volume="2006" Year="2006">
-      <Id>61cc0680-cbd8-49fd-a076-6af27dc8c6bd</Id>
+      <Database Name="cv" Series="20186" Issue="125237" />
     </Book>
     <Book Series="Annihilation" Number="1" Volume="2006" Year="2006">
-      <Id>b098a443-692d-4c7e-b3bd-e1d0fef1500a</Id>
+      <Database Name="cv" Series="18137" Issue="108532" />
     </Book>
     <Book Series="Annihilation" Number="2" Volume="2006" Year="2006">
-      <Id>02cc290c-1ca9-4e43-a281-61c8829cffa6</Id>
+      <Database Name="cv" Series="18137" Issue="108533" />
     </Book>
     <Book Series="Annihilation" Number="3" Volume="2006" Year="2006">
-      <Id>862d44f8-af6c-46f8-9ac0-2ed3c35a4173</Id>
+      <Database Name="cv" Series="18137" Issue="108534" />
     </Book>
     <Book Series="Annihilation" Number="4" Volume="2006" Year="2007">
-      <Id>1aa6cb22-391e-4b07-80aa-dac9fbd7dde2</Id>
+      <Database Name="cv" Series="18137" Issue="108535" />
     </Book>
     <Book Series="Annihilation" Number="5" Volume="2006" Year="2007">
-      <Id>5010d3e5-22f8-4813-87dd-002de49cb2f3</Id>
+      <Database Name="cv" Series="18137" Issue="106256" />
     </Book>
     <Book Series="Annihilation" Number="6" Volume="2006" Year="2007">
-      <Id>1aff5dc5-0791-409a-8c4a-82e2f0c09d10</Id>
+      <Database Name="cv" Series="18137" Issue="106331" />
     </Book>
     <Book Series="Annihilation: Heralds of Galactus" Number="1" Volume="2007" Year="2007">
-      <Id>0052eeaa-ed18-47e2-a535-c1da40b61294</Id>
+      <Database Name="cv" Series="18215" Issue="106711" />
     </Book>
     <Book Series="Annihilation: Heralds of Galactus" Number="2" Volume="2007" Year="2007">
-      <Id>babb0061-4675-4c66-b37e-441cd9e374c0</Id>
+      <Database Name="cv" Series="18215" Issue="107996" />
     </Book>
     <Book Series="What If? Annihilation" Number="1" Volume="2008" Year="2008">
-      <Id>8e81f796-2366-4a80-a71e-3565c7cc9011</Id>
+      <Database Name="cv" Series="20151" Issue="120235" />
     </Book>
     <Book Series="Nova" Number="1" Volume="2007" Year="2007">
-      <Id>c2471f33-7103-4dbc-b77c-83c222f5d2ae</Id>
+      <Database Name="cv" Series="18462" Issue="108362" />
     </Book>
     <Book Series="Nova" Number="2" Volume="2007" Year="2007">
-      <Id>2350b2b8-2f19-4a94-a4c7-a56b82e2be88</Id>
+      <Database Name="cv" Series="18462" Issue="109264" />
     </Book>
     <Book Series="Nova" Number="3" Volume="2007" Year="2007">
-      <Id>b45c09b1-72ff-444b-8cbe-5719773aaaf4</Id>
+      <Database Name="cv" Series="18462" Issue="110434" />
     </Book>
-	<Book Series="Annihilation Saga" Number="1" Volume="2007" Year="2007">
-      <Id>b2edef07-bf42-410c-be46-baff869ffdea</Id>
+    <Book Series="Annihilation Saga" Number="1" Volume="2007" Year="2007">
+      <Database Name="cv" Series="25796" Issue="152203" />
     </Book>
     <Book Series="Annihilation Conquest: Prologue" Number="1" Volume="2007" Year="2007">
-      <Id>5c2905e8-daed-4745-9bf5-e73472e73bc9</Id>
+      <Database Name="cv" Series="18708" Issue="110587" />
     </Book>
     <Book Series="Annihilation: Conquest - Starlord" Number="1" Volume="2007" Year="2007">
-      <Id>4e47cc87-176a-4109-b451-8ce3184fc0f8</Id>
+      <Database Name="cv" Series="19051" Issue="113750" />
     </Book>
     <Book Series="Annihilation: Conquest - Starlord" Number="2" Volume="2007" Year="2007">
-      <Id>7447bf01-3eff-4255-9c9c-0291659d459d</Id>
+      <Database Name="cv" Series="19051" Issue="113775" />
     </Book>
     <Book Series="Annihilation: Conquest - Starlord" Number="3" Volume="2007" Year="2007">
-      <Id>802d8858-6339-4cca-99bc-0cc81adccf09</Id>
+      <Database Name="cv" Series="19051" Issue="115028" />
     </Book>
     <Book Series="Annihilation: Conquest - Starlord" Number="4" Volume="2007" Year="2007">
-      <Id>e00e1139-8cf3-4e21-96b9-69197eb1cd0e</Id>
+      <Database Name="cv" Series="19051" Issue="117106" />
     </Book>
     <Book Series="Annihilation: Conquest - Quasar" Number="1" Volume="2007" Year="2007">
-      <Id>101dd185-c9d5-47e7-9947-004913178e7f</Id>
+      <Database Name="cv" Series="18923" Issue="111894" />
     </Book>
     <Book Series="Annihilation: Conquest - Quasar" Number="2" Volume="2007" Year="2007">
-      <Id>1f3c7b73-66ba-4c7f-93ec-9e9cceec681e</Id>
+      <Database Name="cv" Series="18923" Issue="113664" />
     </Book>
     <Book Series="Annihilation: Conquest - Quasar" Number="3" Volume="2007" Year="2007">
-      <Id>82ad9830-e295-4b04-bfb3-04c732328024</Id>
+      <Database Name="cv" Series="18923" Issue="114664" />
     </Book>
     <Book Series="Annihilation: Conquest - Quasar" Number="4" Volume="2007" Year="2007">
-      <Id>f1efe711-29b5-4b70-bc07-d3a26fcc3803</Id>
+      <Database Name="cv" Series="18923" Issue="116719" />
     </Book>
     <Book Series="Annihilation: Conquest - Wraith" Number="1" Volume="2007" Year="2007">
-      <Id>1383cee0-a7e1-4714-b77b-ea964f201304</Id>
+      <Database Name="cv" Series="18882" Issue="111624" />
     </Book>
     <Book Series="Annihilation: Conquest - Wraith" Number="2" Volume="2007" Year="2007">
-      <Id>59f3b15a-4e59-4f88-9a1a-b93dee469104</Id>
+      <Database Name="cv" Series="18882" Issue="113751" />
     </Book>
     <Book Series="Annihilation: Conquest - Wraith" Number="3" Volume="2007" Year="2007">
-      <Id>0e14e50d-be3e-4fd1-97b5-afb31319d7b0</Id>
+      <Database Name="cv" Series="18882" Issue="114330" />
     </Book>
     <Book Series="Annihilation: Conquest - Wraith" Number="4" Volume="2007" Year="2007">
-      <Id>4f33bc33-284a-4870-8810-1bf3aec0f856</Id>
+      <Database Name="cv" Series="18882" Issue="115851" />
     </Book>
     <Book Series="Nova" Number="4" Volume="2007" Year="2007">
-      <Id>2c2f6cbd-db02-4e53-9623-59a4f74d826e</Id>
+      <Database Name="cv" Series="18462" Issue="111492" />
     </Book>
     <Book Series="Nova" Number="5" Volume="2007" Year="2007">
-      <Id>6c6d4f2e-5e3e-4889-9459-96afb6c532b5</Id>
+      <Database Name="cv" Series="18462" Issue="113032" />
     </Book>
     <Book Series="Nova" Number="6" Volume="2007" Year="2007">
-      <Id>376439de-a369-4173-88e3-b43de0072749</Id>
+      <Database Name="cv" Series="18462" Issue="114433" />
     </Book>
     <Book Series="Nova" Number="7" Volume="2007" Year="2007">
-      <Id>81d746e4-1fb7-4b42-b375-18dd97ce5607</Id>
+      <Database Name="cv" Series="18462" Issue="122799" />
     </Book>
     <Book Series="Annihilation: Conquest" Number="1" Volume="2008" Year="2008">
-      <Id>931f750c-b5f0-4ae8-bc2c-0748a4e0e00e</Id>
+      <Database Name="cv" Series="19607" Issue="117659" />
     </Book>
     <Book Series="Annihilation: Conquest" Number="2" Volume="2008" Year="2008">
-      <Id>3d838c25-24ed-4547-ade8-6d7a91e5b9ae</Id>
+      <Database Name="cv" Series="19607" Issue="119189" />
     </Book>
     <Book Series="Nova" Number="8" Volume="2007" Year="2008">
-      <Id>ff4b036b-f5ca-4c7a-9cfd-685887963890</Id>
+      <Database Name="cv" Series="18462" Issue="117829" />
     </Book>
     <Book Series="Nova" Number="9" Volume="2007" Year="2008">
-      <Id>a5684d28-91c3-40e9-bebd-a505aa96a550</Id>
+      <Database Name="cv" Series="18462" Issue="119796" />
     </Book>
     <Book Series="Nova" Number="10" Volume="2007" Year="2008">
-      <Id>72aa46d8-ed48-483f-be47-0b6cad608c6d</Id>
+      <Database Name="cv" Series="18462" Issue="121157" />
     </Book>
     <Book Series="Nova Annual" Number="1" Volume="2008" Year="2008">
-      <Id>ccb0098a-d0eb-4f5d-8a89-1bc96a7a1ae1</Id>
+      <Database Name="cv" Series="20513" Issue="122798" />
     </Book>
     <Book Series="Annihilation: Conquest" Number="3" Volume="2008" Year="2008">
-      <Id>4c9a30a5-3b0e-4281-818e-bc56a6c51aeb</Id>
+      <Database Name="cv" Series="19607" Issue="121040" />
     </Book>
     <Book Series="Annihilation: Conquest" Number="4" Volume="2008" Year="2008">
-      <Id>bc13121d-f7de-4c63-b8f9-24d067640cec</Id>
+      <Database Name="cv" Series="19607" Issue="122404" />
     </Book>
     <Book Series="Annihilation: Conquest" Number="5" Volume="2008" Year="2008">
-      <Id>6265dc06-fa59-46c1-968d-8b1c281ac8b8</Id>
+      <Database Name="cv" Series="19607" Issue="125234" />
     </Book>
     <Book Series="Nova" Number="11" Volume="2007" Year="2008">
-      <Id>ecd7c433-608c-4d2a-a866-b345bb4f02a8</Id>
+      <Database Name="cv" Series="18462" Issue="125603" />
     </Book>
     <Book Series="Nova" Number="12" Volume="2007" Year="2008">
-      <Id>fb5dd95f-480d-439d-85f8-824f398cedd0</Id>
+      <Database Name="cv" Series="18462" Issue="127105" />
     </Book>
     <Book Series="Annihilation: Conquest" Number="6" Volume="2008" Year="2008">
-      <Id>3cb521ef-da17-440a-8530-e689d3dcbc7a</Id>
+      <Database Name="cv" Series="19607" Issue="127584" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="1" Volume="2008" Year="2008">
-      <Id>2f2caf8f-d5c7-4614-b281-2bf435c99e2d</Id>
+      <Database Name="cv" Series="21550" Issue="130199" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="2" Volume="2008" Year="2008">
-      <Id>c62dde09-a8d7-498d-84ba-0742c8801766</Id>
+      <Database Name="cv" Series="21550" Issue="131463" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="3" Volume="2008" Year="2008">
-      <Id>f8494fd1-b7cc-43ad-9892-f3ad0d044498</Id>
+      <Database Name="cv" Series="21550" Issue="132960" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="4" Volume="2008" Year="2008">
-      <Id>625b3f08-3ba2-45c4-a385-2a8ae2b95096</Id>
+      <Database Name="cv" Series="21550" Issue="136047" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="5" Volume="2008" Year="2008">
-      <Id>0e670a1f-8613-4060-b251-6cdcf9a56a60</Id>
+      <Database Name="cv" Series="21550" Issue="139030" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="6" Volume="2008" Year="2008">
-      <Id>8af29087-ab00-4050-8813-ffee6794e78c</Id>
+      <Database Name="cv" Series="21550" Issue="140844" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="7" Volume="2008" Year="2009">
-      <Id>c7dd4773-bc36-4d17-b555-17216bf9f371</Id>
+      <Database Name="cv" Series="21550" Issue="143271" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="8" Volume="2008" Year="2009">
-      <Id>116cefae-0662-4fb1-aaa5-f63c24a3a6fe</Id>
+      <Database Name="cv" Series="21550" Issue="149462" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="9" Volume="2008" Year="2009">
-      <Id>215e9740-53bd-4ff0-acee-12380223f33c</Id>
+      <Database Name="cv" Series="21550" Issue="150566" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="10" Volume="2008" Year="2009">
-      <Id>54d84a47-a018-4faf-bfdd-3a03fd895932</Id>
+      <Database Name="cv" Series="21550" Issue="152248" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="11" Volume="2008" Year="2009">
-      <Id>8d2acab6-dfbf-4bfb-9e92-763fd75e2910</Id>
+      <Database Name="cv" Series="21550" Issue="153450" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="12" Volume="2008" Year="2009">
-      <Id>b9bb9778-1bd5-4dc9-b852-7fce1108c11f</Id>
+      <Database Name="cv" Series="21550" Issue="153961" />
     </Book>
     <Book Series="Secret Invasion: Inhumans" Number="1" Volume="2008" Year="2008">
-      <Id>dfffd299-87f4-4ff9-b4df-4d487adbb84d</Id>
+      <Database Name="cv" Series="22575" Issue="135458" />
     </Book>
     <Book Series="Secret Invasion: Inhumans" Number="2" Volume="2008" Year="2008">
-      <Id>aa092e96-3aa3-42e3-a69a-08fb02dcd140</Id>
+      <Database Name="cv" Series="22575" Issue="138408" />
     </Book>
     <Book Series="Secret Invasion: Inhumans" Number="3" Volume="2008" Year="2008">
-      <Id>167f41c2-dbcb-4857-85ab-5fde7f22929a</Id>
+      <Database Name="cv" Series="22575" Issue="140150" />
     </Book>
     <Book Series="Secret Invasion: Inhumans" Number="4" Volume="2008" Year="2009">
-      <Id>3736ebfa-8b1a-452d-816a-69bd6114b9c6</Id>
+      <Database Name="cv" Series="22575" Issue="143152" />
     </Book>
     <Book Series="X-Men: Emperor Vulcan" Number="1" Volume="2007" Year="2007">
-      <Id>a48cbcaa-f643-4a41-9f4b-3258da9056fc</Id>
+      <Database Name="cv" Series="19130" Issue="114391" />
     </Book>
     <Book Series="X-Men: Emperor Vulcan" Number="2" Volume="2007" Year="2007">
-      <Id>d359859c-9fb2-42a6-b438-a077b43b3dc7</Id>
+      <Database Name="cv" Series="19130" Issue="115527" />
     </Book>
     <Book Series="X-Men: Emperor Vulcan" Number="3" Volume="2007" Year="2008">
-      <Id>fd7b9d17-b1a1-4384-b75a-facf41347b86</Id>
+      <Database Name="cv" Series="19130" Issue="118122" />
     </Book>
     <Book Series="X-Men: Emperor Vulcan" Number="4" Volume="2007" Year="2008">
-      <Id>13da2cbc-5c4e-4886-baec-67338f6c8b67</Id>
+      <Database Name="cv" Series="19130" Issue="120631" />
     </Book>
     <Book Series="X-Men: Emperor Vulcan" Number="5" Volume="2007" Year="2008">
-      <Id>43cfe874-1a5f-4b03-a305-1ebfeeca7adc</Id>
+      <Database Name="cv" Series="19130" Issue="122474" />
     </Book>
     <Book Series="War of Kings Saga" Number="1" Volume="2009" Year="2009">
-      <Id>4c4bc4d2-8e6d-4d5d-ab93-4654f1bc1cae</Id>
+      <Database Name="cv" Series="25369" Issue="149788" />
     </Book>
     <Book Series="Secret Invasion: War Of Kings" Number="1" Volume="2009" Year="2009">
-      <Id>855ee685-bee8-45e7-833f-c2c9b93d6f75</Id>
+      <Database Name="cv" Series="25381" Issue="149834" />
     </Book>
     <Book Series="X-Men: Kingbreaker" Number="1" Volume="2009" Year="2009">
-      <Id>2f47c8cc-6f88-4f00-b6ad-522a047bde63</Id>
+      <Database Name="cv" Series="24917" Issue="146966" />
     </Book>
     <Book Series="X-Men: Kingbreaker" Number="2" Volume="2009" Year="2009">
-      <Id>886b0899-665b-4b2c-b0af-6ac34be9a438</Id>
+      <Database Name="cv" Series="24917" Issue="150544" />
     </Book>
     <Book Series="X-Men: Kingbreaker" Number="3" Volume="2009" Year="2009">
-      <Id>c13c074b-e026-4384-9a93-e90164598a78</Id>
+      <Database Name="cv" Series="24917" Issue="152246" />
     </Book>
     <Book Series="X-Men: Kingbreaker" Number="4" Volume="2009" Year="2009">
-      <Id>555f16ca-c07f-4cb5-b3e0-0cef8fd6a7cc</Id>
+      <Database Name="cv" Series="24917" Issue="154036" />
     </Book>
     <Book Series="War of Kings: Warriors" Number="1" Volume="2009" Year="2009">
-      <Id>4c88965b-140d-4925-b039-2d53297c54cb</Id>
+      <Database Name="cv" Series="27022" Issue="163519" />
     </Book>
     <Book Series="War of Kings: Warriors" Number="2" Volume="2009" Year="2009">
-      <Id>fc125c16-21d8-43d6-807e-66495e8eff70</Id>
+      <Database Name="cv" Series="27022" Issue="166254" />
     </Book>
     <Book Series="War of Kings: Darkhawk" Number="1" Volume="2009" Year="2009">
-      <Id>1e6af9ea-d530-4d2c-9515-ad8def8ef722</Id>
+      <Database Name="cv" Series="25637" Issue="151132" />
     </Book>
     <Book Series="War of Kings: Darkhawk" Number="2" Volume="2009" Year="2009">
-      <Id>02abf254-2313-47ad-b9c8-44a9bbfb33e2</Id>
+      <Database Name="cv" Series="25637" Issue="153982" />
     </Book>
     <Book Series="Nova" Number="22" Volume="2007" Year="2009">
-      <Id>0943e83a-08a2-4d33-8173-a3cbfb5ea7bb</Id>
+      <Database Name="cv" Series="18462" Issue="152794" />
     </Book>
     <Book Series="Nova" Number="23" Volume="2007" Year="2009">
-      <Id>ea8eca8d-6d79-46c7-8f66-ccaf94604bf2</Id>
+      <Database Name="cv" Series="18462" Issue="153981" />
     </Book>
     <Book Series="War of Kings" Number="1" Volume="2009" Year="2009">
-      <Id>6971ee5d-f3f7-41cc-ac57-21145bfcf9f1</Id>
+      <Database Name="cv" Series="25904" Issue="153078" />
     </Book>
     <Book Series="Nova" Number="24" Volume="2007" Year="2009">
-      <Id>4e07137f-3180-4dab-b4e7-67b24c512c6e</Id>
+      <Database Name="cv" Series="18462" Issue="156376" />
     </Book>
     <Book Series="War of Kings" Number="2" Volume="2009" Year="2009">
-      <Id>c4e94215-2eb5-4cd4-93d0-69adc64e8581</Id>
+      <Database Name="cv" Series="25904" Issue="154513" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="13" Volume="2008" Year="2009">
-      <Id>f6ae23f3-3830-4e62-9f41-ec73be7b820e</Id>
+      <Database Name="cv" Series="21550" Issue="155775" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="14" Volume="2008" Year="2009">
-      <Id>cadc2068-9d81-4270-b65a-897197d5ab28</Id>
+      <Database Name="cv" Series="21550" Issue="158782" />
     </Book>
     <Book Series="War of Kings" Number="3" Volume="2009" Year="2009">
-      <Id>6d4fe5df-219b-40bb-92ba-5b48eceeec36</Id>
+      <Database Name="cv" Series="25904" Issue="156632" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="15" Volume="2008" Year="2009">
-      <Id>0820773b-d3eb-4b3f-bd66-67f5edd56559</Id>
+      <Database Name="cv" Series="21550" Issue="161803" />
     </Book>
     <Book Series="War of Kings: The Savage World of Skaar" Number="1" Volume="2009" Year="2009">
-      <Id>7ab4c551-59b2-4eb1-8747-626bb54d6df7</Id>
+      <Database Name="cv" Series="26676" Issue="159872" />
     </Book>
     <Book Series="War of Kings: Ascension" Number="1" Volume="2009" Year="2009">
-      <Id>419fcdaf-2191-44ef-9a13-a19d2fd1a354</Id>
+      <Database Name="cv" Series="26189" Issue="155371" />
     </Book>
     <Book Series="War of Kings: Ascension" Number="2" Volume="2009" Year="2009">
-      <Id>27864650-490c-4e99-8c2b-5c3bd8c7332a</Id>
+      <Database Name="cv" Series="26189" Issue="157148" />
     </Book>
     <Book Series="Nova" Number="25" Volume="2007" Year="2009">
-      <Id>3c3eba94-139e-461c-915d-d762b2496bee</Id>
+      <Database Name="cv" Series="18462" Issue="158682" />
     </Book>
     <Book Series="Nova" Number="26" Volume="2007" Year="2009">
-      <Id>bcbd6440-09fb-449c-8f1a-da99f6ab1028</Id>
+      <Database Name="cv" Series="18462" Issue="161597" />
     </Book>
     <Book Series="War of Kings" Number="4" Volume="2009" Year="2009">
-      <Id>8342d340-d23c-4f8e-9270-813ab34013d5</Id>
+      <Database Name="cv" Series="25904" Issue="159273" />
     </Book>
     <Book Series="War of Kings: Ascension" Number="3" Volume="2009" Year="2009">
-      <Id>08d14a89-1260-4cc8-a5d1-0970785cef72</Id>
+      <Database Name="cv" Series="26189" Issue="160537" />
     </Book>
     <Book Series="War of Kings" Number="5" Volume="2009" Year="2009">
-      <Id>54fef35d-442b-40f4-99f6-e00cc2030121</Id>
+      <Database Name="cv" Series="25904" Issue="162546" />
     </Book>
     <Book Series="War of Kings: Ascension" Number="4" Volume="2009" Year="2009">
-      <Id>0bb499ad-1b5c-489a-8040-636e561f69b7</Id>
+      <Database Name="cv" Series="26189" Issue="165545" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="16" Volume="2008" Year="2009">
-      <Id>db62c2fc-2074-42a7-a03d-c0786513d31a</Id>
+      <Database Name="cv" Series="21550" Issue="164804" />
     </Book>
     <Book Series="War of Kings" Number="6" Volume="2009" Year="2009">
-      <Id>829f14c3-274b-49d5-adbe-58179a6dd8b4</Id>
+      <Database Name="cv" Series="25904" Issue="166242" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="17" Volume="2008" Year="2009">
-      <Id>2014a073-b02b-4f60-9c6b-e4475fc8c80f</Id>
+      <Database Name="cv" Series="21550" Issue="168641" />
     </Book>
     <Book Series="Nova" Number="27" Volume="2007" Year="2009">
-      <Id>da9ca9fa-5d58-4705-a667-ee46aec20df7</Id>
+      <Database Name="cv" Series="18462" Issue="164834" />
     </Book>
     <Book Series="Nova" Number="28" Volume="2007" Year="2009">
-      <Id>14db0615-b629-47d5-bf97-acb89625665f</Id>
+      <Database Name="cv" Series="18462" Issue="168309" />
     </Book>
     <Book Series="War of Kings: Who Will Rule?" Number="1" Volume="2009" Year="2009">
-      <Id>b34d63c3-20ec-4352-92df-855c4f5b8dc9</Id>
+      <Database Name="cv" Series="27843" Issue="170653" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="18" Volume="2008" Year="2009">
-      <Id>e49cc087-1d23-4225-9ed1-077f5a3b5d68</Id>
+      <Database Name="cv" Series="21550" Issue="172472" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="19" Volume="2008" Year="2009">
-      <Id>e87f6309-e0b0-4b1a-b4ad-3d729bdeb3c7</Id>
+      <Database Name="cv" Series="21550" Issue="179214" />
     </Book>
     <Book Series="Nova" Number="29" Volume="2007" Year="2009">
-      <Id>5f02a627-5140-49e0-8399-102d34918bd8</Id>
+      <Database Name="cv" Series="18462" Issue="172623" />
     </Book>
     <Book Series="Nova" Number="30" Volume="2007" Year="2009">
-      <Id>744703ac-54c3-4527-827b-066daf1c657a</Id>
+      <Database Name="cv" Series="18462" Issue="179491" />
     </Book>
     <Book Series="Nova" Number="31" Volume="2007" Year="2010">
-      <Id>4429ae59-6212-45e2-b744-50bbae2f859f</Id>
+      <Database Name="cv" Series="18462" Issue="181295" />
     </Book>
-	<Book Series="Realm of Kings" Number="1" Volume="2010" Year="2010">
-      <Id>c40d7a73-201b-4547-a7a4-3a2402334955</Id>
+    <Book Series="Realm of Kings" Number="1" Volume="2010" Year="2010">
+      <Database Name="cv" Series="29846" Issue="183724" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="20" Volume="2008" Year="2010">
-      <Id>451481ea-6ff7-4e6b-b8be-547414ffafd1</Id>
+      <Database Name="cv" Series="21550" Issue="184817" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="21" Volume="2008" Year="2010">
-      <Id>e13ef1a8-6262-474d-ae32-9fa519c175aa</Id>
+      <Database Name="cv" Series="21550" Issue="189505" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="22" Volume="2008" Year="2010">
-      <Id>a4da2a77-42f0-4df1-b269-4a1e086a66d1</Id>
+      <Database Name="cv" Series="21550" Issue="194623" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="23" Volume="2008" Year="2010">
-      <Id>6f7aab18-77fc-4937-866a-d6041b3a5a22</Id>
+      <Database Name="cv" Series="21550" Issue="197493" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="24" Volume="2008" Year="2010">
-      <Id>dd0b1e3a-915d-40cc-973e-67b2d6565c55</Id>
+      <Database Name="cv" Series="21550" Issue="201001" />
     </Book>
     <Book Series="Nova" Number="32" Volume="2007" Year="2010">
-      <Id>828f7d30-ba19-46e9-8b74-a21a08455f94</Id>
+      <Database Name="cv" Series="18462" Issue="185622" />
     </Book>
     <Book Series="Nova" Number="33" Volume="2007" Year="2010">
-      <Id>d675d437-7528-496f-994f-006dccbaafc3</Id>
+      <Database Name="cv" Series="18462" Issue="193354" />
     </Book>
     <Book Series="Nova" Number="34" Volume="2007" Year="2010">
-      <Id>5c623975-397d-4718-aaeb-e605b0b58370</Id>
+      <Database Name="cv" Series="18462" Issue="195403" />
     </Book>
     <Book Series="Nova" Number="35" Volume="2007" Year="2010">
-      <Id>8c1fedd4-24ac-4c16-82e0-b327fcba9010</Id>
+      <Database Name="cv" Series="18462" Issue="201033" />
     </Book>
     <Book Series="Realm of Kings: Imperial Guard" Number="1" Volume="2010" Year="2010">
-      <Id>97dd9de6-ca41-4cba-8850-18946f85630b</Id>
+      <Database Name="cv" Series="29722" Issue="182952" />
     </Book>
     <Book Series="Realm of Kings: Imperial Guard" Number="2" Volume="2010" Year="2010">
-      <Id>57176b54-d353-4d3e-ab7b-8d35ef181167</Id>
+      <Database Name="cv" Series="29722" Issue="186676" />
     </Book>
     <Book Series="Realm of Kings: Imperial Guard" Number="3" Volume="2010" Year="2010">
-      <Id>06d4dd7c-3e63-48c6-b46f-7dc89ef1de6e</Id>
+      <Database Name="cv" Series="29722" Issue="192405" />
     </Book>
     <Book Series="Realm of Kings: Imperial Guard" Number="4" Volume="2010" Year="2010">
-      <Id>cd1c6d29-680b-49ed-ad26-dfbe004938b6</Id>
+      <Database Name="cv" Series="29722" Issue="196456" />
     </Book>
     <Book Series="Realm of Kings: Imperial Guard" Number="5" Volume="2010" Year="2010">
-      <Id>b005523d-fb15-4ea5-9dd7-50c2d788d544</Id>
+      <Database Name="cv" Series="29722" Issue="201034" />
     </Book>
     <Book Series="Realm of Kings Inhumans" Number="1" Volume="2010" Year="2010">
-      <Id>31d1113b-ff41-4a19-a207-9a57c904bfd9</Id>
+      <Database Name="cv" Series="29913" Issue="184031" />
     </Book>
     <Book Series="Realm of Kings Inhumans" Number="2" Volume="2010" Year="2010">
-      <Id>5d65e2c7-a42e-43c0-91f2-f025556f03f7</Id>
+      <Database Name="cv" Series="29913" Issue="187674" />
     </Book>
     <Book Series="Realm of Kings Inhumans" Number="3" Volume="2010" Year="2010">
-      <Id>80149bc7-fa39-4294-98e8-6dc47f205730</Id>
+      <Database Name="cv" Series="29913" Issue="193356" />
     </Book>
     <Book Series="Realm of Kings Inhumans" Number="4" Volume="2010" Year="2010">
-      <Id>c6d6508a-e0e9-494f-82f9-2470c35364bf</Id>
+      <Database Name="cv" Series="29913" Issue="198366" />
     </Book>
     <Book Series="Realm of Kings Inhumans" Number="5" Volume="2010" Year="2010">
-      <Id>8e4bd68b-16bf-494a-9b9d-50a77124cf41</Id>
+      <Database Name="cv" Series="29913" Issue="202680" />
     </Book>
     <Book Series="Realm of Kings Son of Hulk" Number="1" Volume="2010" Year="2010">
-      <Id>aac72c3d-2ce2-4400-b411-c6969ac28117</Id>
+      <Database Name="cv" Series="31366" Issue="195366" />
     </Book>
     <Book Series="Realm of Kings Son of Hulk" Number="2" Volume="2010" Year="2010">
-      <Id>450e0f04-d750-4190-9c4a-32b7ac9b41a8</Id>
+      <Database Name="cv" Series="31366" Issue="199046" />
     </Book>
     <Book Series="Realm of Kings Son of Hulk" Number="3" Volume="2010" Year="2010">
-      <Id>23f8ac46-f5a2-4050-8e74-c542425d0a00</Id>
+      <Database Name="cv" Series="31366" Issue="204630" />
     </Book>
     <Book Series="Realm of Kings Son of Hulk" Number="4" Volume="2010" Year="2010">
-      <Id>f17fbad4-e3af-4b6b-88bb-6951af511d18</Id>
+      <Database Name="cv" Series="31366" Issue="212044" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="25" Volume="2008" Year="2010">
-      <Id>32abcba9-d1dd-440f-9f8e-31ff86ee3152</Id>
+      <Database Name="cv" Series="21550" Issue="208674" />
     </Book>
     <Book Series="Nova" Number="36" Volume="2007" Year="2010">
-      <Id>25ca582f-fc35-466a-a14f-5b94afc4d74e</Id>
+      <Database Name="cv" Series="18462" Issue="208675" />
     </Book>
     <Book Series="The Thanos Imperative: Ignition" Number="1" Volume="2010" Year="2010">
-      <Id>dc99b461-05b8-42e6-ae76-9c7c647acb6c</Id>
+      <Database Name="cv" Series="33348" Issue="216176" />
     </Book>
     <Book Series="The Thanos Imperative" Number="1" Volume="2010" Year="2010">
-      <Id>3572d0f4-6fe3-4b1b-a6d5-665b6152a0b1</Id>
+      <Database Name="cv" Series="33509" Issue="217441" />
     </Book>
     <Book Series="The Thanos Imperative" Number="2" Volume="2010" Year="2010">
-      <Id>6dd34fb8-b8ee-4ce9-ad9f-25ba938ce898</Id>
+      <Database Name="cv" Series="33509" Issue="224702" />
     </Book>
     <Book Series="The Thanos Imperative" Number="3" Volume="2010" Year="2010">
-      <Id>2df7cf98-eee1-435f-b13f-a8a4fa740c5e</Id>
+      <Database Name="cv" Series="33509" Issue="228973" />
     </Book>
     <Book Series="The Thanos Imperative" Number="4" Volume="2010" Year="2010">
-      <Id>2adcaec6-8610-4c8a-8938-6839086b6710</Id>
+      <Database Name="cv" Series="33509" Issue="233762" />
     </Book>
     <Book Series="The Thanos Imperative" Number="5" Volume="2010" Year="2010">
-      <Id>dff5cbcf-bdda-4d55-b446-5e52dcd15a94</Id>
+      <Database Name="cv" Series="33509" Issue="238172" />
     </Book>
     <Book Series="The Thanos Imperative" Number="6" Volume="2010" Year="2011">
-      <Id>93983665-a003-4cdf-8641-c9b5d5a3c388</Id>
+      <Database Name="cv" Series="33509" Issue="242319" />
     </Book>
     <Book Series="The Thanos Imperative: Devastation" Number="1" Volume="2011" Year="2011">
-      <Id>4e0b3943-fcf4-4401-b892-879a4ace4154</Id>
+      <Database Name="cv" Series="38068" Issue="254490" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="0.1" Volume="2013" Year="2013">
-      <Id>1d3c8927-c042-44c1-a7c5-d2cf2c530d84</Id>
+      <Database Name="cv" Series="57960" Issue="388557" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="1" Volume="2013" Year="2013">
-      <Id>db6f1cc9-b234-44ca-ab20-c305296dac74</Id>
+      <Database Name="cv" Series="57960" Issue="395250" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="2" Volume="2013" Year="2013">
-      <Id>88378a61-4332-4ace-80ea-cbf4f64e63b6</Id>
+      <Database Name="cv" Series="57960" Issue="398986" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="3" Volume="2013" Year="2013">
-      <Id>984e6995-8ffb-4a5b-a190-dd2de7ed2678</Id>
+      <Database Name="cv" Series="57960" Issue="410320" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="4" Volume="2013" Year="2013">
-      <Id>27118ac0-828d-42dd-b01b-2c1822d0d03a</Id>
+      <Database Name="cv" Series="57960" Issue="413659" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="5" Volume="2013" Year="2013">
-      <Id>a34bf58b-8e6d-4274-b718-5d329aead933</Id>
+      <Database Name="cv" Series="57960" Issue="419969" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="6" Volume="2013" Year="2013">
-      <Id>6261edb6-2a6c-439d-9b2a-b416de240e2d</Id>
+      <Database Name="cv" Series="57960" Issue="426876" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="7" Volume="2013" Year="2013">
-      <Id>9e4b508c-924a-4327-ae51-c4c1e5fafeba</Id>
+      <Database Name="cv" Series="57960" Issue="428859" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="8" Volume="2013" Year="2013">
-      <Id>30cfd7d0-b96b-4b61-9eb1-3dbf61ae9a9a</Id>
+      <Database Name="cv" Series="57960" Issue="431440" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="9" Volume="2013" Year="2014">
-      <Id>d80a6741-fbf1-481a-b5ce-59d1542929f1</Id>
+      <Database Name="cv" Series="57960" Issue="435580" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="10" Volume="2013" Year="2014">
-      <Id>d8ccd2d8-fb85-463c-a6c0-178f27954817</Id>
+      <Database Name="cv" Series="57960" Issue="440249" />
     </Book>
     <Book Series="All-New X-Men" Number="22" Volume="2012" Year="2014">
-      <Id>51fb8bf7-998c-4674-b64d-8e661ca931b8</Id>
+      <Database Name="cv" Series="53919" Issue="442912" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="11" Volume="2013" Year="2014">
-      <Id>d7245188-e267-4557-a99b-885b1a555d3e</Id>
+      <Database Name="cv" Series="57960" Issue="443982" />
     </Book>
     <Book Series="All-New X-Men" Number="23" Volume="2012" Year="2014">
-      <Id>2b8545e9-325f-4d25-9e74-2297a5a07af3</Id>
+      <Database Name="cv" Series="53919" Issue="445174" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="12" Volume="2013" Year="2014">
-      <Id>5fcd7e9c-1113-4fc0-9748-e5ef0ef49740</Id>
+      <Database Name="cv" Series="57960" Issue="446482" />
     </Book>
     <Book Series="All-New X-Men" Number="24" Volume="2012" Year="2014">
-      <Id>c55ad602-50c0-4620-a5e7-9fee0ade9bf0</Id>
+      <Database Name="cv" Series="53919" Issue="447504" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="13" Volume="2013" Year="2014">
-      <Id>bb32d85d-cc39-41e1-8bd7-82adad6cdd2a</Id>
+      <Database Name="cv" Series="57960" Issue="448967" />
     </Book>
     <Book Series="Guardians of the Galaxy: Free Comic Book Day" Number="1" Volume="2014" Year="2014">
-      <Id>e7857df7-e44c-4132-9369-25d09f3fddd0</Id>
+      <Database Name="cv" Series="73576" Issue="452061" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="14" Volume="2013" Year="2014">
-      <Id>abbdd3d2-6536-455b-96e7-287589372a72</Id>
+      <Database Name="cv" Series="57960" Issue="451085" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="15" Volume="2013" Year="2014">
-      <Id>151daced-972d-41d6-aed2-8958fca27aae</Id>
+      <Database Name="cv" Series="57960" Issue="454100" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="16" Volume="2013" Year="2014">
-      <Id>7007f831-b266-4bfe-914e-8c231971949d</Id>
+      <Database Name="cv" Series="57960" Issue="457642" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="17" Volume="2013" Year="2014">
-      <Id>d8c5e579-105d-4173-9842-d3df52ec3566</Id>
+      <Database Name="cv" Series="57960" Issue="460965" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="18" Volume="2013" Year="2014">
-      <Id>e0175d95-4f00-4ec3-913b-3a5c6efe5aee</Id>
+      <Database Name="cv" Series="57960" Issue="463351" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="19" Volume="2013" Year="2014">
-      <Id>65eebc37-1b76-4f9c-8348-59e89d2994b8</Id>
+      <Database Name="cv" Series="57960" Issue="466327" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="20" Volume="2013" Year="2014">
-      <Id>775f9f8b-32a9-4266-9908-53da01ae46d2</Id>
+      <Database Name="cv" Series="57960" Issue="468908" />
     </Book>
     <Book Series="Guardians of the Galaxy: Galaxy's Most Wanted" Number="1" Volume="2014" Year="2014">
-      <Id>47424345-9e83-4ea1-bff8-462e6785c076</Id>
+      <Database Name="cv" Series="75360" Issue="458617" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="1" Volume="2014" Year="2014">
-      <Id>28d62f44-dc8a-4949-b4b5-d4e0f22d8a9d</Id>
+      <Database Name="cv" Series="75335" Issue="458532" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="2" Volume="2014" Year="2014">
-      <Id>abd2de81-ff6e-4603-a7fd-4f9328e219e9</Id>
+      <Database Name="cv" Series="75335" Issue="461728" />
     </Book>
     <Book Series="Rocket Raccoon" Number="1" Volume="2014" Year="2014">
-      <Id>e0ead3a7-2648-4181-ab4c-b32158b0cdbb</Id>
+      <Database Name="cv" Series="75336" Issue="458533" />
     </Book>
     <Book Series="Rocket Raccoon" Number="2" Volume="2014" Year="2014">
-      <Id>09ecca2e-4e0b-435d-a421-9dca1c8ec22f</Id>
+      <Database Name="cv" Series="75336" Issue="461737" />
     </Book>
     <Book Series="Rocket Raccoon" Number="3" Volume="2014" Year="2014">
-      <Id>1aa77836-f412-418d-97c9-9969e723f122</Id>
+      <Database Name="cv" Series="75336" Issue="463994" />
     </Book>
     <Book Series="Rocket Raccoon" Number="4" Volume="2014" Year="2014">
-      <Id>2127ec47-041b-4c3a-9502-d9176514a730</Id>
+      <Database Name="cv" Series="75336" Issue="467655" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="3" Volume="2014" Year="2014">
-      <Id>884cefaa-bb4e-4022-9f09-9b05f397250c</Id>
+      <Database Name="cv" Series="75335" Issue="463988" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="4" Volume="2014" Year="2014">
-      <Id>540264af-6485-4246-a7fb-818058b2ba08</Id>
+      <Database Name="cv" Series="75335" Issue="467038" />
     </Book>
     <Book Series="Rocket Raccoon" Number="5" Volume="2014" Year="2015">
-      <Id>b2676486-b6d9-4fce-b40f-a2800c1febc3</Id>
+      <Database Name="cv" Series="75336" Issue="469496" />
     </Book>
     <Book Series="Guardians Team-Up" Number="1" Volume="2015" Year="2015">
-      <Id>ab0345dc-5fbb-4dd6-8f1a-5289dd291976</Id>
+      <Database Name="cv" Series="80454" Issue="481607" />
     </Book>
     <Book Series="Guardians Team-Up" Number="2" Volume="2015" Year="2015">
-      <Id>ad35af6f-d42f-4b86-bea2-4cd87efc57de</Id>
+      <Database Name="cv" Series="80454" Issue="482156" />
     </Book>
     <Book Series="Guardians of the Galaxy Annual" Number="1" Volume="2014" Year="2015">
-      <Id>9bcd1967-18f3-439d-b679-2f1e8444aa90</Id>
+      <Database Name="cv" Series="78716" Issue="472907" />
     </Book>
     <Book Series="Guardians Team-Up" Number="9" Volume="2015" Year="2015">
-      <Id>80a41e98-78c2-47b0-9a94-d97a4145e9fe</Id>
+      <Database Name="cv" Series="80454" Issue="496883" />
     </Book>
     <Book Series="Rocket Raccoon" Number="6" Volume="2014" Year="2015">
-      <Id>5dd2af3d-68ce-4ad9-a4b7-a3679f8df549</Id>
+      <Database Name="cv" Series="75336" Issue="472910" />
     </Book>
     <Book Series="Rocket Raccoon" Number="7" Volume="2014" Year="2015">
-      <Id>f188ff41-5030-4b28-91fc-85b82a99eda5</Id>
+      <Database Name="cv" Series="75336" Issue="476792" />
     </Book>
     <Book Series="Rocket Raccoon" Number="8" Volume="2014" Year="2015">
-      <Id>e35b4a7c-7240-497e-afaa-5ac5e87353f0</Id>
+      <Database Name="cv" Series="75336" Issue="479980" />
     </Book>
     <Book Series="Rocket Raccoon" Number="9" Volume="2014" Year="2015">
-      <Id>28b4335e-3619-4498-a595-6a234d85844b</Id>
+      <Database Name="cv" Series="75336" Issue="481614" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="21" Volume="2013" Year="2015">
-      <Id>2bdacc1d-0e33-4d5d-9656-ef86155dc037</Id>
+      <Database Name="cv" Series="57960" Issue="470428" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="22" Volume="2013" Year="2015">
-      <Id>7a99ee67-5ed3-4fac-ada0-2384e523e91d</Id>
+      <Database Name="cv" Series="57960" Issue="473648" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="23" Volume="2013" Year="2015">
-      <Id>ecb93380-4a2f-425f-bb5b-b19a50927b50</Id>
+      <Database Name="cv" Series="57960" Issue="476786" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="5" Volume="2014" Year="2015">
-      <Id>d0c05e41-98eb-4247-83b7-af0857072a53</Id>
+      <Database Name="cv" Series="75335" Issue="469494" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="6" Volume="2014" Year="2015">
-      <Id>d3f19e7f-8e49-4619-920f-abf8574e5591</Id>
+      <Database Name="cv" Series="75335" Issue="471968" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="7" Volume="2014" Year="2015">
-      <Id>cf1543e6-3017-43af-8e5c-01ff4f541ef4</Id>
+      <Database Name="cv" Series="75335" Issue="475458" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="8" Volume="2014" Year="2015">
-      <Id>ace57418-c28a-47b3-bf61-78a2127e51d1</Id>
+      <Database Name="cv" Series="75335" Issue="476787" />
     </Book>
-    <Book Series="Guardians of the Galaxy &amp; X-Men: The Black Vortex Alpha" Number="1" Volume="2015" Year="2015">
-      <Id>b5691c04-33cd-4ea1-b808-f9cba684eead</Id>
+    <Book Series="Guardians of the Galaxy &#38; X-Men: The Black Vortex Alpha" Number="1" Volume="2015" Year="2015">
+      <Database Name="cv" Series="79860" Issue="478607" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="24" Volume="2013" Year="2015">
-      <Id>d6c67ba5-d0dd-4cac-a9eb-0e465e454103</Id>
+      <Database Name="cv" Series="57960" Issue="479260" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="9" Volume="2014" Year="2015">
-      <Id>fdf2da0d-2448-49f0-a677-eaa64dffcd2a</Id>
+      <Database Name="cv" Series="75335" Issue="479972" />
     </Book>
     <Book Series="All-New X-Men" Number="38" Volume="2012" Year="2015">
-      <Id>7c3e643d-9236-44d9-82b4-db3069fd0503</Id>
+      <Database Name="cv" Series="53919" Issue="480667" />
     </Book>
     <Book Series="All-New X-Men" Number="39" Volume="2012" Year="2015">
-      <Id>574e9804-2fb0-47fe-b42d-7a46862a69df</Id>
+      <Database Name="cv" Series="53919" Issue="482678" />
     </Book>
     <Book Series="Guardians Team-Up" Number="3" Volume="2015" Year="2015">
-      <Id>147e3e18-f0ba-46d8-9d0e-ebe01e661ede</Id>
+      <Database Name="cv" Series="80454" Issue="482684" />
     </Book>
     <Book Series="Guardians of the Galaxy" Number="25" Volume="2013" Year="2015">
-      <Id>0ec45f26-1303-45bb-ab19-372f4c83d783</Id>
+      <Database Name="cv" Series="57960" Issue="483351" />
     </Book>
     <Book Series="Nova" Number="28" Volume="2013" Year="2015">
-      <Id>b91b7518-69f9-4271-aa84-ec12a1052050</Id>
+      <Database Name="cv" Series="57535" Issue="483357" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="10" Volume="2014" Year="2015">
-      <Id>e3eae32f-4db0-4d97-8f7b-026af4c70ef8</Id>
+      <Database Name="cv" Series="75335" Issue="483353" />
     </Book>
     <Book Series="Cyclops" Number="12" Volume="2014" Year="2015">
-      <Id>f29cfbdf-b139-4c13-8de0-4a241111c53a</Id>
+      <Database Name="cv" Series="73677" Issue="484893" />
     </Book>
     <Book Series="Captain Marvel" Number="14" Volume="2014" Year="2015">
-      <Id>7efe54a3-5048-4b1c-8314-7c5893a131f2</Id>
+      <Database Name="cv" Series="72272" Issue="485509" />
     </Book>
     <Book Series="Legendary Star-Lord" Number="11" Volume="2014" Year="2015">
-      <Id>0b4ea344-4eec-485f-9a08-200a5fc9888e</Id>
+      <Database Name="cv" Series="75335" Issue="486148" />
     </Book>
-    <Book Series="Guardians of the Galaxy &amp; X-Men: The Black Vortex Omega" Number="1" Volume="2015" Year="2015">
-      <Id>e424720c-c28c-472a-becf-d9d5e29152c2</Id>
+    <Book Series="Guardians of the Galaxy &#38; X-Men: The Black Vortex Omega" Number="1" Volume="2015" Year="2015">
+      <Database Name="cv" Series="81482" Issue="486723" />
     </Book>
   </Books>
   <Matchers />
