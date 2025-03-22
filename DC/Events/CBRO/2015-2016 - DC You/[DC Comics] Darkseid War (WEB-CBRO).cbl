@@ -18,6 +18,9 @@
 <Book Series="Justice League" Number="43" Volume="2011" Year="2015">
 <Database Name="cv" Series="42488" Issue="497918" />
 </Book>
+<Book Series="Justice League" Number="44" Volume="2011" Year="2015">
+<Database Name="cv" Series="42488" Issue="501595" />
+</Book>
 <Book Series="Justice League" Number="45" Volume="2011" Year="2015">
 <Database Name="cv" Series="42488" Issue="503535" />
 </Book>
