@@ -1,474 +1,475 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Suicide Squad 2 - New52/Rebirth</Name>
+  <Name>Suicide Squad 002 - New52_Rebirth</Name>
+  <NumIssues>156</NumIssues>
   <Books>
     <Book Series="Suicide Squad" Number="0" Volume="2011" Year="2012">
-      <Id>c8084b87-2df8-4e8f-9fb4-d9f8300254cd</Id>
+      <Database Name="cv" Series="42803" Issue="356722" />
     </Book>
     <Book Series="Suicide Squad" Number="1" Volume="2011" Year="2011">
-      <Id>10640ffb-0418-40b4-9a40-9e7d3c3a2623</Id>
+      <Database Name="cv" Series="42803" Issue="292585" />
     </Book>
     <Book Series="Suicide Squad" Number="2" Volume="2011" Year="2011">
-      <Id>21b99d24-4c59-4e24-a731-6ed79c1af7a2</Id>
+      <Database Name="cv" Series="42803" Issue="294830" />
     </Book>
     <Book Series="Suicide Squad" Number="3" Volume="2011" Year="2012">
-      <Id>f9e9346c-190b-47b7-bd7c-e39df2a2a531</Id>
+      <Database Name="cv" Series="42803" Issue="301650" />
     </Book>
     <Book Series="Suicide Squad" Number="4" Volume="2011" Year="2012">
-      <Id>19a3358c-ded0-494d-8838-a447fa93f498</Id>
+      <Database Name="cv" Series="42803" Issue="306483" />
     </Book>
     <Book Series="Suicide Squad" Number="5" Volume="2011" Year="2012">
-      <Id>544b2c7f-276a-4ecf-a0cb-55bce5863624</Id>
+      <Database Name="cv" Series="42803" Issue="310569" />
     </Book>
     <Book Series="Suicide Squad" Number="6" Volume="2011" Year="2012">
-      <Id>07691faa-68cf-4193-9da7-7e5ca78e9d42</Id>
+      <Database Name="cv" Series="42803" Issue="314203" />
     </Book>
     <Book Series="Suicide Squad" Number="7" Volume="2011" Year="2012">
-      <Id>09add485-1fc0-4957-a787-f5f7ee3a61fd</Id>
+      <Database Name="cv" Series="42803" Issue="321192" />
     </Book>
     <Book Series="Suicide Squad" Number="8" Volume="2011" Year="2012">
-      <Id>ed282de9-a1d5-438a-9442-6db88931dfe0</Id>
+      <Database Name="cv" Series="42803" Issue="329196" />
     </Book>
     <Book Series="Resurrection Man" Number="8" Volume="2011" Year="2012">
-      <Id>697befaa-17f5-43c3-a1cf-05c8ed6fddf8</Id>
+      <Database Name="cv" Series="42812" Issue="329232" />
     </Book>
     <Book Series="Suicide Squad" Number="9" Volume="2011" Year="2012">
-      <Id>509b1d95-1cf7-4c89-8bbc-db3bb4bbb179</Id>
+      <Database Name="cv" Series="42803" Issue="335021" />
     </Book>
     <Book Series="Resurrection Man" Number="9" Volume="2011" Year="2012">
-      <Id>b929d010-8f2e-4723-b662-54751cc19335</Id>
+      <Database Name="cv" Series="42812" Issue="335020" />
     </Book>
     <Book Series="Suicide Squad" Number="10" Volume="2011" Year="2012">
-      <Id>9975d4eb-8b9e-4876-a579-78650cd455b8</Id>
+      <Database Name="cv" Series="42803" Issue="340154" />
     </Book>
     <Book Series="Suicide Squad" Number="11" Volume="2011" Year="2012">
-      <Id>fae06b98-c6b3-4e42-943b-b7de48dbb1c1</Id>
+      <Database Name="cv" Series="42803" Issue="345346" />
     </Book>
     <Book Series="Suicide Squad" Number="12" Volume="2011" Year="2012">
-      <Id>00d62cff-743f-4c77-aa67-be4467048ea4</Id>
+      <Database Name="cv" Series="42803" Issue="349624" />
     </Book>
     <Book Series="Suicide Squad" Number="13" Volume="2011" Year="2012">
-      <Id>dca1699b-e4d2-416f-b3c4-2b0995214e72</Id>
+      <Database Name="cv" Series="42803" Issue="360795" />
     </Book>
     <Book Series="Suicide Squad" Number="14" Volume="2011" Year="2013">
-      <Id>e2377af7-a2b0-4ed4-9db8-f4b052fe2cf9</Id>
+      <Database Name="cv" Series="42803" Issue="367686" />
     </Book>
     <Book Series="Suicide Squad" Number="15" Volume="2011" Year="2013">
-      <Id>22e4502c-a169-44c4-a1a4-65a6c67b452f</Id>
+      <Database Name="cv" Series="42803" Issue="372338" />
     </Book>
     <Book Series="Suicide Squad" Number="16" Volume="2011" Year="2013">
-      <Id>e2d0ef2f-01ea-43f4-9585-282e65723ac8</Id>
+      <Database Name="cv" Series="42803" Issue="380321" />
     </Book>
     <Book Series="Suicide Squad" Number="17" Volume="2011" Year="2013">
-      <Id>d5117016-34bb-40fc-9d8e-cd7b5fe1ed6b</Id>
+      <Database Name="cv" Series="42803" Issue="386092" />
     </Book>
     <Book Series="Suicide Squad" Number="18" Volume="2011" Year="2013">
-      <Id>e23e8136-5497-42bd-a2dd-af199f184ea2</Id>
+      <Database Name="cv" Series="42803" Issue="392316" />
     </Book>
     <Book Series="Suicide Squad" Number="19" Volume="2011" Year="2013">
-      <Id>2aa4512c-a18a-44db-a565-3ef6855ff954</Id>
+      <Database Name="cv" Series="42803" Issue="396386" />
     </Book>
     <Book Series="Suicide Squad" Number="20" Volume="2011" Year="2013">
-      <Id>38a4611c-5665-48f1-8890-6655a13024bb</Id>
+      <Database Name="cv" Series="42803" Issue="401173" />
     </Book>
     <Book Series="Suicide Squad" Number="21" Volume="2011" Year="2013">
-      <Id>6d67f012-00b0-4e7b-b474-4329c993ab36</Id>
+      <Database Name="cv" Series="42803" Issue="410271" />
     </Book>
     <Book Series="Suicide Squad" Number="22" Volume="2011" Year="2013">
-      <Id>b89add0f-96cb-41ae-9b13-eee5b40e91e1</Id>
+      <Database Name="cv" Series="42803" Issue="416907" />
     </Book>
     <Book Series="Suicide Squad" Number="23" Volume="2011" Year="2013">
-      <Id>bc54eb1f-81ab-49c0-9711-ecc02674a912</Id>
+      <Database Name="cv" Series="42803" Issue="421656" />
     </Book>
     <Book Series="Suicide Squad: Amanda Waller" Number="1" Volume="2014" Year="2014">
-      <Id>aaed06f3-efc1-4f14-9b1a-b51bbda99ce4</Id>
+      <Database Name="cv" Series="72547" Issue="448917" />
     </Book>
     <Book Series="Justice League of America" Number="7.1" Volume="2013" Year="2013">
-      <Id>2dc686b3-d83c-48a1-9594-4190054d12da</Id>
+      <Database Name="cv" Series="57485" Issue="424499" />
     </Book>
     <Book Series="Detective Comics" Number="23.2" Volume="2011" Year="2013">
-      <Id>7cd05008-d74e-47ee-9282-e2dafcf7ebcc</Id>
+      <Database Name="cv" Series="42594" Issue="424984" />
     </Book>
     <Book Series="Suicide Squad" Number="24" Volume="2011" Year="2013">
-      <Id>1f89beef-7142-496d-9517-37a1f16ad7c4</Id>
+      <Database Name="cv" Series="42803" Issue="428256" />
     </Book>
     <Book Series="Suicide Squad" Number="25" Volume="2011" Year="2014">
-      <Id>bf617842-ebd8-4e78-8f5b-9735fa20bdec</Id>
+      <Database Name="cv" Series="42803" Issue="433113" />
     </Book>
     <Book Series="Suicide Squad" Number="26" Volume="2011" Year="2014">
-      <Id>56797405-2f9e-48d3-8052-f393769ffb46</Id>
+      <Database Name="cv" Series="42803" Issue="436152" />
     </Book>
     <Book Series="Suicide Squad" Number="27" Volume="2011" Year="2014">
-      <Id>3288d3e0-83c4-4a99-b315-8ba2a9aea68d</Id>
+      <Database Name="cv" Series="42803" Issue="442113" />
     </Book>
     <Book Series="Suicide Squad" Number="28" Volume="2011" Year="2014">
-      <Id>62e4571a-4831-471d-9cc4-a000de7cbfb4</Id>
+      <Database Name="cv" Series="42803" Issue="445145" />
     </Book>
     <Book Series="Suicide Squad" Number="29" Volume="2011" Year="2014">
-      <Id>b249d709-c23e-4e7a-b660-3b00ff74a84b</Id>
+      <Database Name="cv" Series="42803" Issue="447954" />
     </Book>
     <Book Series="Suicide Squad" Number="30" Volume="2011" Year="2014">
-      <Id>c796e90c-51e6-43a7-82b8-5c2122d01ee1</Id>
+      <Database Name="cv" Series="42803" Issue="454051" />
     </Book>
     <Book Series="New Suicide Squad" Number="1" Volume="2014" Year="2014">
-      <Id>8da5787c-b10f-4940-83a7-c4ae178f11be</Id>
+      <Database Name="cv" Series="75537" Issue="459125" />
     </Book>
     <Book Series="New Suicide Squad" Number="2" Volume="2014" Year="2014">
-      <Id>368194ec-5814-417b-963c-861184f8ab05</Id>
+      <Database Name="cv" Series="75537" Issue="462209" />
     </Book>
     <Book Series="New Suicide Squad" Number="3" Volume="2014" Year="2014">
-      <Id>14a0f3ca-32ae-4719-adcd-20cb31eb149a</Id>
+      <Database Name="cv" Series="75537" Issue="467604" />
     </Book>
     <Book Series="New Suicide Squad" Number="4" Volume="2014" Year="2015">
-      <Id>75ae92f1-8e54-4410-94ae-53e1e918a8eb</Id>
+      <Database Name="cv" Series="75537" Issue="469798" />
     </Book>
     <Book Series="New Suicide Squad" Number="5" Volume="2014" Year="2015">
-      <Id>32a48918-cd4c-4e43-8227-b00fcf7eb270</Id>
+      <Database Name="cv" Series="75537" Issue="472842" />
     </Book>
     <Book Series="New Suicide Squad" Number="6" Volume="2014" Year="2015">
-      <Id>525cd53f-4c5f-4c9f-9be5-613ecdbc484a</Id>
+      <Database Name="cv" Series="75537" Issue="475894" />
     </Book>
     <Book Series="New Suicide Squad" Number="7" Volume="2014" Year="2015">
-      <Id>170e8f57-07e5-4844-af6e-14b18f4d1054</Id>
+      <Database Name="cv" Series="75537" Issue="479208" />
     </Book>
     <Book Series="New Suicide Squad" Number="8" Volume="2014" Year="2015">
-      <Id>9d61f1b8-b9f8-4289-b1f2-e2278bc4afc2</Id>
+      <Database Name="cv" Series="75537" Issue="482124" />
     </Book>
     <Book Series="New Suicide Squad" Number="9" Volume="2014" Year="2015">
-      <Id>62772468-e8dd-41ef-bfc2-d236ff8e3c05</Id>
+      <Database Name="cv" Series="75537" Issue="491476" />
     </Book>
     <Book Series="New Suicide Squad" Number="10" Volume="2014" Year="2015">
-      <Id>80a1d718-32ff-49f1-873f-f698b358d98e</Id>
+      <Database Name="cv" Series="75537" Issue="494269" />
     </Book>
     <Book Series="New Suicide Squad" Number="11" Volume="2014" Year="2015">
-      <Id>13e5dc17-bced-412d-a62b-016ee06403c7</Id>
+      <Database Name="cv" Series="75537" Issue="497374" />
     </Book>
     <Book Series="New Suicide Squad" Number="12" Volume="2014" Year="2015">
-      <Id>21bcc41f-e57c-4eec-b3a7-2b461f080ac7</Id>
+      <Database Name="cv" Series="75537" Issue="499728" />
     </Book>
     <Book Series="New Suicide Squad" Number="13" Volume="2014" Year="2015">
-      <Id>54a95f75-2b70-4777-ad3b-f02c712c9213</Id>
+      <Database Name="cv" Series="75537" Issue="504321" />
     </Book>
     <Book Series="New Suicide Squad" Number="14" Volume="2014" Year="2016">
-      <Id>7b541ced-add2-4be4-b13c-9049947f65be</Id>
+      <Database Name="cv" Series="75537" Issue="505746" />
     </Book>
     <Book Series="New Suicide Squad" Number="15" Volume="2014" Year="2016">
-      <Id>01778d46-09cf-4202-a6ed-059245a0ec79</Id>
+      <Database Name="cv" Series="75537" Issue="507753" />
     </Book>
     <Book Series="New Suicide Squad" Number="16" Volume="2014" Year="2016">
-      <Id>b822d5fb-0fff-48cd-8635-dcbef4500912</Id>
+      <Database Name="cv" Series="75537" Issue="510921" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="1" Volume="2016" Year="2016">
-      <Id>53655805-fa21-4bca-a054-0726d145a250</Id>
+    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="1" Volume="2016" Year="2016">
+      <Database Name="cv" Series="87635" Issue="512402" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="2" Volume="2016" Year="2016">
-      <Id>49cdec5c-825c-4ec0-9ae5-1f78726b80ef</Id>
+    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="2" Volume="2016" Year="2016">
+      <Database Name="cv" Series="87635" Issue="516935" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="3" Volume="2016" Year="2016">
-      <Id>fa784c0e-3c64-4a87-883f-d03edb6450f3</Id>
+    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="3" Volume="2016" Year="2016">
+      <Database Name="cv" Series="87635" Issue="521316" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="4" Volume="2016" Year="2016">
-      <Id>d066cfb2-bc40-4903-9d5b-f4fa036610a0</Id>
+    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="4" Volume="2016" Year="2016">
+      <Database Name="cv" Series="87635" Issue="527122" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="5" Volume="2016" Year="2016">
-      <Id>3925ac08-4bf2-45c1-84e2-930bcc5bd9ce</Id>
+    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="5" Volume="2016" Year="2016">
+      <Database Name="cv" Series="87635" Issue="531861" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="6" Volume="2016" Year="2016">
-      <Id>3c2b7994-26c9-467a-8c83-8b1d01cb82c8</Id>
+    <Book Series="Suicide Squad Most Wanted: Deadshot &#38; Katana" Number="6" Volume="2016" Year="2016">
+      <Database Name="cv" Series="87635" Issue="537221" />
     </Book>
     <Book Series="Deathstroke" Number="11" Volume="2014" Year="2015">
-      <Id>06a7133b-719a-4e78-bc42-ec9c46007b5d</Id>
+      <Database Name="cv" Series="77678" Issue="504311" />
     </Book>
     <Book Series="Deathstroke" Number="12" Volume="2014" Year="2016">
-      <Id>4f5dd0d9-9db4-460a-a7ed-df611120f98d</Id>
+      <Database Name="cv" Series="77678" Issue="506625" />
     </Book>
     <Book Series="New Suicide Squad Annual" Number="1" Volume="2015" Year="2015">
-      <Id>168ff643-3d0a-4dc0-88d6-25741b7b8028</Id>
+      <Database Name="cv" Series="84986" Issue="501600" />
     </Book>
     <Book Series="Deathstroke" Number="13" Volume="2014" Year="2016">
-      <Id>57e4d18f-4271-483e-b29e-0213c4baf221</Id>
+      <Database Name="cv" Series="77678" Issue="508865" />
     </Book>
     <Book Series="Deathstroke" Number="14" Volume="2014" Year="2016">
-      <Id>9672634b-920a-4dc2-a044-cc8b6e6185e9</Id>
+      <Database Name="cv" Series="77678" Issue="512394" />
     </Book>
     <Book Series="Deathstroke" Number="15" Volume="2014" Year="2016">
-      <Id>b37e07e1-40a3-4b64-b00c-7feb85f564b6</Id>
+      <Database Name="cv" Series="77678" Issue="516922" />
     </Book>
     <Book Series="Deathstroke" Number="16" Volume="2014" Year="2016">
-      <Id>cc9eee9d-7124-45c0-86e1-23df938c56ed</Id>
+      <Database Name="cv" Series="77678" Issue="521306" />
     </Book>
     <Book Series="New Suicide Squad" Number="17" Volume="2014" Year="2016">
-      <Id>07f3045a-a56c-491f-acb8-254e4b5f3074</Id>
+      <Database Name="cv" Series="75537" Issue="514416" />
     </Book>
     <Book Series="New Suicide Squad" Number="18" Volume="2014" Year="2016">
-      <Id>99dc1c38-0f99-4cb6-9ea8-8716b4c29cfa</Id>
+      <Database Name="cv" Series="75537" Issue="518840" />
     </Book>
     <Book Series="New Suicide Squad" Number="19" Volume="2014" Year="2016">
-      <Id>bb186cf9-06f8-4f3d-96a0-d53dff4342f7</Id>
+      <Database Name="cv" Series="75537" Issue="523232" />
     </Book>
     <Book Series="New Suicide Squad" Number="20" Volume="2014" Year="2016">
-      <Id>2eb9a3c9-db00-4d00-b170-e5978a71d65f</Id>
+      <Database Name="cv" Series="75537" Issue="528487" />
     </Book>
     <Book Series="New Suicide Squad" Number="21" Volume="2014" Year="2016">
-      <Id>4eaeb313-e652-4138-9c4e-373c4013bf02</Id>
+      <Database Name="cv" Series="75537" Issue="535337" />
     </Book>
     <Book Series="New Suicide Squad" Number="22" Volume="2014" Year="2016">
-      <Id>3bc53077-6c7f-4a0d-979c-4c27946146f4</Id>
+      <Database Name="cv" Series="75537" Issue="540056" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="1" Volume="2016" Year="2016">
-      <Id>1ca4cba2-d20a-4ddc-8432-9efef1db524b</Id>
+    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="1" Volume="2016" Year="2016">
+      <Database Name="cv" Series="92974" Issue="543732" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="2" Volume="2016" Year="2016">
-      <Id>02a00dd7-080d-4774-9f45-251b4318672a</Id>
+    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="2" Volume="2016" Year="2016">
+      <Database Name="cv" Series="92974" Issue="550335" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="3" Volume="2016" Year="2016">
-      <Id>907fcf9d-2dd4-4888-a827-c6fc2c6464e5</Id>
+    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="3" Volume="2016" Year="2016">
+      <Database Name="cv" Series="92974" Issue="553932" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="4" Volume="2016" Year="2017">
-      <Id>00f635df-0e9b-44cb-a8df-e35a8140e40d</Id>
+    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="4" Volume="2016" Year="2017">
+      <Database Name="cv" Series="92974" Issue="558401" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="5" Volume="2016" Year="2017">
-      <Id>b9602b17-67f7-49a6-94bf-8e0d69d399a4</Id>
+    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="5" Volume="2016" Year="2017">
+      <Database Name="cv" Series="92974" Issue="569315" />
     </Book>
-    <Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="6" Volume="2016" Year="2017">
-      <Id>dc6e80ab-5830-4172-b5d9-52c6ccb4e8a1</Id>
+    <Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="6" Volume="2016" Year="2017">
+      <Database Name="cv" Series="92974" Issue="576603" />
     </Book>
     <Book Series="Suicide Squad Special: War Crimes" Number="1" Volume="2016" Year="2016">
-      <Id>b749d457-ff22-468f-a72c-2cf0ce8e45e4</Id>
+      <Database Name="cv" Series="93683" Issue="547258" />
     </Book>
     <Book Series="Suicide Squad: Rebirth" Number="1" Volume="2016" Year="2016">
-      <Id>62df13fb-ad28-4f3f-a987-2b4cedd9677e</Id>
+      <Database Name="cv" Series="92775" Issue="542612" />
     </Book>
     <Book Series="Suicide Squad" Number="1" Volume="2016" Year="2016">
-      <Id>26c0187a-4f1d-4719-bd60-8d11efbebdaa</Id>
+      <Database Name="cv" Series="93205" Issue="544970" />
     </Book>
     <Book Series="Suicide Squad" Number="2" Volume="2016" Year="2016">
-      <Id>19d2e6d0-dfa8-4f32-a479-fb1ea2fad0b5</Id>
+      <Database Name="cv" Series="93205" Issue="549498" />
     </Book>
     <Book Series="Suicide Squad" Number="3" Volume="2016" Year="2016">
-      <Id>acf00119-7799-4800-9024-a5c83195c889</Id>
+      <Database Name="cv" Series="93205" Issue="551282" />
     </Book>
     <Book Series="Suicide Squad" Number="4" Volume="2016" Year="2016">
-      <Id>a71eb903-a7d8-4fdb-b246-81e9e8c4ca5d</Id>
+      <Database Name="cv" Series="93205" Issue="552987" />
     </Book>
     <Book Series="Suicide Squad" Number="5" Volume="2016" Year="2016">
-      <Id>987c8243-8f3d-4f97-992c-f2739873f8b7</Id>
+      <Database Name="cv" Series="93205" Issue="555499" />
     </Book>
     <Book Series="Suicide Squad" Number="6" Volume="2016" Year="2017">
-      <Id>dc0fa350-6935-4138-8ccb-fa246ccecc9d</Id>
+      <Database Name="cv" Series="93205" Issue="558400" />
     </Book>
     <Book Series="Suicide Squad" Number="7" Volume="2016" Year="2017">
-      <Id>970e6976-b085-40c7-b851-134a0df78743</Id>
+      <Database Name="cv" Series="93205" Issue="562584" />
     </Book>
     <Book Series="Suicide Squad" Number="8" Volume="2016" Year="2017">
-      <Id>92ddcc6e-09dd-438a-9f8d-10ea96dd6e0f</Id>
+      <Database Name="cv" Series="93205" Issue="566692" />
     </Book>
     <Book Series="Justice League vs. Suicide Squad" Number="1" Volume="2016" Year="2017">
-      <Id>5165df8a-b147-4984-ba54-b0f5de66cf51</Id>
+      <Database Name="cv" Series="97053" Issue="569308" />
     </Book>
     <Book Series="Justice League vs. Suicide Squad" Number="2" Volume="2016" Year="2017">
-      <Id>72460d89-2c6b-463c-a828-0a49fd68ebe5</Id>
+      <Database Name="cv" Series="97053" Issue="571641" />
     </Book>
     <Book Series="Justice League vs. Suicide Squad" Number="3" Volume="2016" Year="2017">
-      <Id>ef7d903f-f35e-46ab-973e-e5cab97af361</Id>
+      <Database Name="cv" Series="97053" Issue="574849" />
     </Book>
     <Book Series="Suicide Squad" Number="9" Volume="2016" Year="2017">
-      <Id>03bef44b-2d24-4018-ba17-bb79dd96b1dc</Id>
+      <Database Name="cv" Series="93205" Issue="575847" />
     </Book>
     <Book Series="Justice League vs. Suicide Squad" Number="4" Volume="2016" Year="2017">
-      <Id>018a2f50-1540-4cf6-beba-78d89b619e4e</Id>
+      <Database Name="cv" Series="97053" Issue="575842" />
     </Book>
     <Book Series="Justice League vs. Suicide Squad" Number="5" Volume="2016" Year="2017">
-      <Id>ed52efa4-c01b-4c58-bd09-eb6e0fa483ef</Id>
+      <Database Name="cv" Series="97053" Issue="576598" />
     </Book>
     <Book Series="Justice League vs. Suicide Squad" Number="6" Volume="2016" Year="2017">
-      <Id>de041db8-0fbb-4a2c-a9ad-df237c4660e7</Id>
+      <Database Name="cv" Series="97053" Issue="578434" />
     </Book>
     <Book Series="Suicide Squad" Number="10" Volume="2016" Year="2017">
-      <Id>5915c2d9-3d33-4206-a4b4-3293cf042f1c</Id>
+      <Database Name="cv" Series="93205" Issue="578442" />
     </Book>
     <Book Series="Suicide Squad" Number="11" Volume="2016" Year="2017">
-      <Id>57d41c67-775f-4db3-8b6a-e415339b2ced</Id>
+      <Database Name="cv" Series="93205" Issue="580729" />
     </Book>
     <Book Series="Suicide Squad" Number="12" Volume="2016" Year="2017">
-      <Id>8cfd3256-c7a5-4c4d-b6c7-f7352cddb2a0</Id>
+      <Database Name="cv" Series="93205" Issue="582506" />
     </Book>
     <Book Series="Suicide Squad" Number="13" Volume="2016" Year="2017">
-      <Id>6c24502b-bf69-4a0d-af3f-986319177492</Id>
+      <Database Name="cv" Series="93205" Issue="585069" />
     </Book>
-    <Book Series="Suicide Squad" Number="14" Volume="2016" Year="2014">
-      <Id>2beadf6e-7d34-4605-baef-d9528b945c3f</Id>
+    <Book Series="Suicide Squad" Number="14" Volume="2016" Year="2017">
+      <Database Name="cv" Series="93205" Issue="588548" />
     </Book>
     <Book Series="Suicide Squad" Number="15" Volume="2016" Year="2017">
-      <Id>77063047-92cc-4449-954e-54bb4d234d84</Id>
+      <Database Name="cv" Series="93205" Issue="591736" />
     </Book>
     <Book Series="Suicide Squad" Number="16" Volume="2016" Year="2017">
-      <Id>4e949afe-397e-4420-b77f-5cda5dc4ba4f</Id>
+      <Database Name="cv" Series="93205" Issue="593239" />
     </Book>
     <Book Series="Suicide Squad" Number="17" Volume="2016" Year="2017">
-      <Id>b5d12496-aa53-43c5-af52-12cbbed760da</Id>
+      <Database Name="cv" Series="93205" Issue="594946" />
     </Book>
     <Book Series="Suicide Squad" Number="18" Volume="2016" Year="2017">
-      <Id>6f5ffe89-21d9-404f-8bc6-947f55741347</Id>
+      <Database Name="cv" Series="93205" Issue="597175" />
     </Book>
     <Book Series="Suicide Squad" Number="19" Volume="2016" Year="2017">
-      <Id>030cc638-018d-4b81-9cc9-5378f6962c42</Id>
+      <Database Name="cv" Series="93205" Issue="601774" />
     </Book>
     <Book Series="Suicide Squad" Number="20" Volume="2016" Year="2017">
-      <Id>9ad9e02b-4af6-400c-a841-eee13ceba9db</Id>
+      <Database Name="cv" Series="93205" Issue="605068" />
     </Book>
     <Book Series="Suicide Squad" Number="21" Volume="2016" Year="2017">
-      <Id>f8440dca-610d-42d6-a078-e9fa9e53a95c</Id>
+      <Database Name="cv" Series="93205" Issue="608191" />
     </Book>
     <Book Series="Suicide Squad" Number="22" Volume="2016" Year="2017">
-      <Id>6b33134c-19b7-4506-a36c-beb8720ec014</Id>
+      <Database Name="cv" Series="93205" Issue="610474" />
     </Book>
     <Book Series="Suicide Squad" Number="23" Volume="2016" Year="2017">
-      <Id>e1faa2fe-9d43-4d83-92b6-dfc6a1df1b9d</Id>
+      <Database Name="cv" Series="93205" Issue="613752" />
     </Book>
     <Book Series="Suicide Squad" Number="24" Volume="2016" Year="2017">
-      <Id>12369c03-ee6d-43b9-8f0e-dc5d6982eabf</Id>
+      <Database Name="cv" Series="93205" Issue="616153" />
     </Book>
     <Book Series="Suicide Squad" Number="25" Volume="2016" Year="2017">
-      <Id>5143006f-53a3-4630-9db0-31d5a686e047</Id>
+      <Database Name="cv" Series="93205" Issue="621599" />
     </Book>
     <Book Series="Suicide Squad" Number="26" Volume="2016" Year="2017">
-      <Id>ad2750ab-9e3b-4501-8377-87fc9029bd67</Id>
+      <Database Name="cv" Series="93205" Issue="625292" />
     </Book>
     <Book Series="Suicide Squad" Number="27" Volume="2016" Year="2017">
-      <Id>4ba57b2d-3b75-4942-9b33-8dc2183a28fc</Id>
+      <Database Name="cv" Series="93205" Issue="628567" />
     </Book>
     <Book Series="Suicide Squad" Number="28" Volume="2016" Year="2017">
-      <Id>c9320b72-3699-4882-a5d9-9b7fc9ccc628</Id>
+      <Database Name="cv" Series="93205" Issue="632478" />
     </Book>
     <Book Series="Suicide Squad" Number="29" Volume="2016" Year="2018">
-      <Id>f2131aae-e62e-4fb4-84ff-ee83f9d42740</Id>
+      <Database Name="cv" Series="93205" Issue="636358" />
     </Book>
     <Book Series="Suicide Squad" Number="30" Volume="2016" Year="2018">
-      <Id>f5cb5b5c-e4d7-4688-b3eb-ea79ab94aa8d</Id>
+      <Database Name="cv" Series="93205" Issue="641391" />
     </Book>
     <Book Series="Suicide Squad" Number="31" Volume="2016" Year="2018">
-      <Id>61991e37-6dd4-4a13-b266-f4c9fe840999</Id>
+      <Database Name="cv" Series="93205" Issue="646169" />
     </Book>
     <Book Series="Suicide Squad" Number="32" Volume="2016" Year="2018">
-      <Id>b5a0f3ac-c30f-4f07-a6dd-92e698c82500</Id>
+      <Database Name="cv" Series="93205" Issue="649716" />
     </Book>
     <Book Series="Suicide Squad" Number="33" Volume="2016" Year="2018">
-      <Id>4b589979-3ca1-4dc5-8ce1-c791ea492d2c</Id>
+      <Database Name="cv" Series="93205" Issue="652611" />
     </Book>
     <Book Series="Suicide Squad" Number="34" Volume="2016" Year="2018">
-      <Id>55ae0cdb-207e-4eef-96c9-eb0db11485b7</Id>
+      <Database Name="cv" Series="93205" Issue="655489" />
     </Book>
     <Book Series="Suicide Squad" Number="35" Volume="2016" Year="2018">
-      <Id>98db5b5b-0a90-4216-a219-c0d318c15a5e</Id>
+      <Database Name="cv" Series="93205" Issue="659996" />
     </Book>
     <Book Series="Suicide Squad" Number="36" Volume="2016" Year="2018">
-      <Id>7289b19d-0c5c-427d-9fd8-0982272bacdf</Id>
+      <Database Name="cv" Series="93205" Issue="661129" />
     </Book>
     <Book Series="Suicide Squad" Number="37" Volume="2016" Year="2018">
-      <Id>470a8a8a-21e4-4187-a8bc-d691c5bf5426</Id>
+      <Database Name="cv" Series="93205" Issue="662726" />
     </Book>
     <Book Series="Suicide Squad" Number="38" Volume="2016" Year="2018">
-      <Id>f13a9f4a-c11a-47b5-9872-867baf28560b</Id>
+      <Database Name="cv" Series="93205" Issue="664281" />
     </Book>
     <Book Series="Suicide Squad" Number="39" Volume="2016" Year="2018">
-      <Id>fd1e6093-8c62-41aa-a3a8-3f66d8e91a5d</Id>
+      <Database Name="cv" Series="93205" Issue="665890" />
     </Book>
     <Book Series="Suicide Squad" Number="40" Volume="2016" Year="2018">
-      <Id>177ce3b7-f5dc-40c1-88e9-f2b059b21d46</Id>
+      <Database Name="cv" Series="93205" Issue="667620" />
     </Book>
     <Book Series="Suicide Squad" Number="41" Volume="2016" Year="2018">
-      <Id>7f7675c3-f9cf-4f86-a113-4d9b037ea440</Id>
+      <Database Name="cv" Series="93205" Issue="669438" />
     </Book>
     <Book Series="Suicide Squad" Number="42" Volume="2016" Year="2018">
-      <Id>2724b1d5-2880-4906-9f1a-37a3ef78b7cc</Id>
+      <Database Name="cv" Series="93205" Issue="670728" />
     </Book>
     <Book Series="Suicide Squad" Number="43" Volume="2016" Year="2018">
-      <Id>1f6eddc5-9380-4e32-b22d-4a4d9fb56225</Id>
+      <Database Name="cv" Series="93205" Issue="673007" />
     </Book>
     <Book Series="Suicide Squad" Number="44" Volume="2016" Year="2018">
-      <Id>46567f2f-96a5-46ca-8c2b-d5f8dd285c87</Id>
+      <Database Name="cv" Series="93205" Issue="676680" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="1" Volume="2018" Year="2018">
-      <Id>dfea8b5b-1c78-4c72-b159-98edd586be00</Id>
+      <Database Name="cv" Series="109348" Issue="663676" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="2" Volume="2018" Year="2018">
-      <Id>68684a6a-7376-4bb0-b745-683f02163b61</Id>
+      <Database Name="cv" Series="109348" Issue="664282" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="3" Volume="2018" Year="2018">
-      <Id>8183191f-cc5c-4883-b2ba-1d4e65d691e0</Id>
+      <Database Name="cv" Series="109348" Issue="664899" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="4" Volume="2018" Year="2018">
-      <Id>f7751eef-8eb3-4d0b-8182-c15f5a4873e9</Id>
+      <Database Name="cv" Series="109348" Issue="665891" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="5" Volume="2018" Year="2018">
-      <Id>0078c978-d0f8-4101-9bea-5905055ae01b</Id>
+      <Database Name="cv" Series="109348" Issue="666791" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="6" Volume="2018" Year="2018">
-      <Id>747f5a41-b14d-4bad-ae50-0ceaefb4db36</Id>
+      <Database Name="cv" Series="109348" Issue="667621" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="7" Volume="2018" Year="2018">
-      <Id>87d2b61d-39c9-4dc7-8544-045437d9f88c</Id>
+      <Database Name="cv" Series="109348" Issue="668764" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="8" Volume="2018" Year="2018">
-      <Id>b8a350db-cb24-41f2-8a0f-11e8920d29d9</Id>
+      <Database Name="cv" Series="109348" Issue="669375" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="9" Volume="2018" Year="2018">
-      <Id>cdeed175-55de-4ca3-b648-0b2683928f51</Id>
+      <Database Name="cv" Series="109348" Issue="670019" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="10" Volume="2018" Year="2018">
-      <Id>e3ba81dd-cde2-4f4b-9283-cf5db127bb27</Id>
+      <Database Name="cv" Series="109348" Issue="670657" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="11" Volume="2018" Year="2018">
-      <Id>83a0d7c1-adef-4861-9df6-8db37f6bce5e</Id>
+      <Database Name="cv" Series="109348" Issue="671302" />
     </Book>
     <Book Series="Suicide Squad: Hell To Pay" Number="12" Volume="2018" Year="2018">
-      <Id>dcc37a5b-7379-4a7b-8887-ea9edef50a75</Id>
+      <Database Name="cv" Series="109348" Issue="672119" />
     </Book>
     <Book Series="Suicide Squad Annual" Number="1" Volume="2018" Year="2018">
-      <Id>86b0b86f-1ed4-4700-b2be-5c1d38d6cc6f</Id>
+      <Database Name="cv" Series="112969" Issue="680712" />
     </Book>
     <Book Series="Suicide Squad" Number="45" Volume="2016" Year="2018">
-      <Id>b507f159-5f48-4ed9-8695-84ab3e9c6828</Id>
+      <Database Name="cv" Series="93205" Issue="679397" />
     </Book>
     <Book Series="Aquaman" Number="39" Volume="2016" Year="2018">
-      <Id>2f7b986c-dc4e-4d17-ad7c-fdac43f5f260</Id>
+      <Database Name="cv" Series="91738" Issue="679963" />
     </Book>
     <Book Series="Suicide Squad" Number="46" Volume="2016" Year="2018">
-      <Id>a3ea40e0-0c94-439e-a34f-67978b524dfb</Id>
+      <Database Name="cv" Series="93205" Issue="684892" />
     </Book>
     <Book Series="Aquaman" Number="40" Volume="2016" Year="2018">
-      <Id>42f9e410-ddf3-4247-8d09-b3ba4945d9b8</Id>
+      <Database Name="cv" Series="91738" Issue="685806" />
     </Book>
     <Book Series="Suicide Squad" Number="47" Volume="2016" Year="2018">
-      <Id>d42ccc6b-a8c7-41cc-a280-9778b0d21431</Id>
+      <Database Name="cv" Series="93205" Issue="688302" />
     </Book>
     <Book Series="Suicide Squad" Number="48" Volume="2016" Year="2019">
-      <Id>36acb827-d60b-49e0-a8f3-15cde961960a</Id>
+      <Database Name="cv" Series="93205" Issue="692049" />
     </Book>
     <Book Series="Suicide Squad" Number="49" Volume="2016" Year="2019">
-      <Id>2067b21c-a87f-42a6-8a79-c13ef7503995</Id>
+      <Database Name="cv" Series="93205" Issue="694894" />
     </Book>
     <Book Series="Suicide Squad" Number="50" Volume="2016" Year="2019">
-      <Id>40c34bac-96b8-43bd-a0ec-511b925ad0e3</Id>
+      <Database Name="cv" Series="93205" Issue="697617" />
     </Book>
     <Book Series="Suicide Squad Black Files" Number="1" Volume="2018" Year="2019">
-      <Id>7daf20d5-088f-482b-9998-749381dbc183</Id>
+      <Database Name="cv" Series="115088" Issue="691366" />
     </Book>
     <Book Series="Suicide Squad Black Files" Number="2" Volume="2018" Year="2019">
-      <Id>e9807300-3e57-4491-852d-34dcb9ff6b03</Id>
+      <Database Name="cv" Series="115088" Issue="694117" />
     </Book>
     <Book Series="Suicide Squad Black Files" Number="3" Volume="2018" Year="2019">
-      <Id>61b2138b-b032-4fcc-8656-62c19574b07e</Id>
+      <Database Name="cv" Series="115088" Issue="696934" />
     </Book>
     <Book Series="Suicide Squad Black Files" Number="4" Volume="2018" Year="2019">
-      <Id>713d70ac-7512-40cb-a936-3df5bf0e9253</Id>
+      <Database Name="cv" Series="115088" Issue="700127" />
     </Book>
     <Book Series="Suicide Squad Black Files" Number="5" Volume="2018" Year="2019">
-      <Id>3fa673aa-fc32-4d0e-8640-d3f2a9c871e0</Id>
+      <Database Name="cv" Series="115088" Issue="702449" />
     </Book>
     <Book Series="Suicide Squad Black Files" Number="6" Volume="2018" Year="2019">
-      <Id>d1b88d26-3a03-4b8c-8cc4-9341e00cb4db</Id>
+      <Database Name="cv" Series="115088" Issue="705418" />
     </Book>
   </Books>
   <Matchers />
