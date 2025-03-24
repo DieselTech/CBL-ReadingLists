@@ -1,330 +1,331 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Harley Quinn (New52/Rebirth)</Name>
+  <Name>Harley Quinn (New52_Rebirth)</Name>
+  <NumIssues>108</NumIssues>
   <Books>
     <Book Series="Harley Quinn: Hot In the City" Number="1" Volume="2014" Year="2014">
-      <Id>437d0614-2241-4e92-af69-d60bd5e70ffc</Id>
+      <Database Name="cv" Series="77688" Issue="468444" />
     </Book>
     <Book Series="Harley Quinn" Number="9" Volume="2013" Year="2014">
-      <Id>5b1ec80d-06da-48d8-8ea8-518b4a61cd16</Id>
+      <Database Name="cv" Series="69322" Issue="462206" />
     </Book>
     <Book Series="Harley Quinn" Number="10" Volume="2013" Year="2014">
-      <Id>33d2b41b-aa1b-4bd1-a6c0-057a03da8444</Id>
+      <Database Name="cv" Series="69322" Issue="463429" />
     </Book>
     <Book Series="Harley Quinn" Number="11" Volume="2013" Year="2014">
-      <Id>4d024a4f-7fb9-40a4-966b-3c013ac7d9f8</Id>
+      <Database Name="cv" Series="69322" Issue="468413" />
     </Book>
     <Book Series="Harley Quinn" Number="12" Volume="2013" Year="2015">
-      <Id>373c8233-dda2-4f21-94b5-daaf3dcf8284</Id>
+      <Database Name="cv" Series="69322" Issue="470372" />
     </Book>
     <Book Series="Harley Quinn" Number="13" Volume="2013" Year="2015">
-      <Id>50c14452-330c-4f2e-89ba-5813f5518ebc</Id>
+      <Database Name="cv" Series="69322" Issue="474565" />
     </Book>
     <Book Series="Harley Quinn Annual" Number="1" Volume="2014" Year="2014">
-      <Id>a4714956-78df-4463-b2bc-f57f73b89d7f</Id>
+      <Database Name="cv" Series="77792" Issue="468863" />
     </Book>
     <Book Series="Harley Quinn Holiday Special" Number="1" Volume="2014" Year="2015">
-      <Id>9417ec4b-e280-4220-a418-ddc0e22ec1ed</Id>
+      <Database Name="cv" Series="78697" Issue="472839" />
     </Book>
-    <Book Series="Harley Quinn Valentine's Day Special" Number="1" Volume="2015" Year="2015">
-      <Id>708d4dde-ae36-453b-9aac-d0f89da661c7</Id>
+    <Book Series="Harley Quinn Valentine&apos;s Day Special" Number="1" Volume="2015" Year="2015">
+      <Database Name="cv" Series="79967" Issue="479204" />
     </Book>
     <Book Series="Harley Quinn" Number="14" Volume="2013" Year="2015">
-      <Id>5c71b809-8ada-4e92-a219-0a214845f6c1</Id>
+      <Database Name="cv" Series="69322" Issue="477798" />
     </Book>
     <Book Series="Harley Quinn" Number="15" Volume="2013" Year="2015">
-      <Id>af30ad4d-eea0-4d37-b1ba-a2662d328ae4</Id>
+      <Database Name="cv" Series="69322" Issue="481570" />
     </Book>
     <Book Series="Harley Quinn" Number="16" Volume="2013" Year="2015">
-      <Id>711e2a4b-d942-425b-8e95-bf9220f098a1</Id>
+      <Database Name="cv" Series="69322" Issue="484845" />
     </Book>
     <Book Series="Harley Quinn" Number="17" Volume="2013" Year="2015">
-      <Id>5e3269bb-3afd-4601-b0fa-130019088cae</Id>
+      <Database Name="cv" Series="69322" Issue="491475" />
     </Book>
     <Book Series="Harley Quinn" Number="18" Volume="2013" Year="2015">
-      <Id>d3694c4b-11f1-4e8c-93a5-ad65b6a1f472</Id>
+      <Database Name="cv" Series="69322" Issue="495249" />
     </Book>
     <Book Series="Harley Quinn" Number="19" Volume="2013" Year="2015">
-      <Id>67476813-6ce4-48c2-b4a5-d9bac326cac9</Id>
+      <Database Name="cv" Series="69322" Issue="498366" />
     </Book>
     <Book Series="Harley Quinn" Number="20" Volume="2013" Year="2015">
-      <Id>b790c45f-6e3d-42e0-a894-70f1dd2dfd69</Id>
+      <Database Name="cv" Series="69322" Issue="500272" />
     </Book>
     <Book Series="Harley Quinn" Number="21" Volume="2013" Year="2015">
-      <Id>2a414364-bd66-4bc9-b2e1-ae458cd89643</Id>
+      <Database Name="cv" Series="69322" Issue="502837" />
     </Book>
     <Book Series="Harley Quinn" Number="22" Volume="2013" Year="2016">
-      <Id>77f1cf1a-127b-4f55-a7df-b6ba183552ed</Id>
+      <Database Name="cv" Series="69322" Issue="506149" />
     </Book>
     <Book Series="Harley Quinn" Number="23" Volume="2013" Year="2016">
-      <Id>6d0a76b5-7813-466a-9653-cbf9b77abcfb</Id>
+      <Database Name="cv" Series="69322" Issue="508405" />
     </Book>
     <Book Series="Harley Quinn" Number="24" Volume="2013" Year="2016">
-      <Id>0df46edd-5225-434c-9a98-ebede0c8a742</Id>
+      <Database Name="cv" Series="69322" Issue="511490" />
     </Book>
     <Book Series="Harley Quinn" Number="25" Volume="2013" Year="2016">
-      <Id>428d2698-0631-4138-a0f6-ebbb928aa0e0</Id>
+      <Database Name="cv" Series="69322" Issue="516058" />
     </Book>
     <Book Series="Harley Quinn" Number="26" Volume="2013" Year="2016">
-      <Id>674ce9ad-8410-491f-8fa4-46b39fa5b630</Id>
+      <Database Name="cv" Series="69322" Issue="521309" />
     </Book>
     <Book Series="Harley Quinn" Number="27" Volume="2013" Year="2016">
-      <Id>713cfc56-111f-474b-a98d-2a52dbba30ec</Id>
+      <Database Name="cv" Series="69322" Issue="527112" />
     </Book>
     <Book Series="Harley Quinn" Number="28" Volume="2013" Year="2016">
-      <Id>928166b5-80a0-4430-8cb6-cda222698b85</Id>
+      <Database Name="cv" Series="69322" Issue="530704" />
     </Book>
     <Book Series="Harley Quinn" Number="29" Volume="2013" Year="2016">
-      <Id>d792242d-d65c-46c8-9225-67f5bc4eb2bb</Id>
+      <Database Name="cv" Series="69322" Issue="535504" />
     </Book>
     <Book Series="Harley Quinn" Number="30" Volume="2013" Year="2016">
-      <Id>9f6c7b7e-7365-486c-b6ef-6af5dced7a60</Id>
+      <Database Name="cv" Series="69322" Issue="541167" />
     </Book>
     <Book Series="Harley Quinn &amp; the Suicide Squad Special Edition" Number="1" Volume="2016" Year="2016">
-      <Id>5c9ef572-7a1f-45ae-9dd1-cc2b2102834d</Id>
+      <Database Name="cv" Series="92558" Issue="541169" />
     </Book>
     <Book Series="Harley Quinn" Number="1" Volume="2016" Year="2016">
-      <Id>c8bb3ecb-5b83-4b92-b63c-f9f156d980e2</Id>
+      <Database Name="cv" Series="92750" Issue="542604" />
     </Book>
     <Book Series="Harley Quinn" Number="2" Volume="2016" Year="2016">
-      <Id>92268f98-8f94-4195-ada7-b97e7be5c890</Id>
+      <Database Name="cv" Series="92750" Issue="544961" />
     </Book>
     <Book Series="Harley Quinn" Number="3" Volume="2016" Year="2016">
-      <Id>ed3cc3a5-cff7-4439-988c-624ada811c5b</Id>
+      <Database Name="cv" Series="92750" Issue="548558" />
     </Book>
     <Book Series="Harley Quinn" Number="4" Volume="2016" Year="2016">
-      <Id>9f43a8ec-2598-4cec-b02f-049701be16cb</Id>
+      <Database Name="cv" Series="92750" Issue="550328" />
     </Book>
     <Book Series="Harley Quinn" Number="5" Volume="2016" Year="2016">
-      <Id>8dba03d8-78da-474d-a137-007c8571d90e</Id>
+      <Database Name="cv" Series="92750" Issue="552138" />
     </Book>
     <Book Series="Harley Quinn" Number="6" Volume="2016" Year="2016">
-      <Id>ba30663a-1b1f-42db-8163-bafea07e1536</Id>
+      <Database Name="cv" Series="92750" Issue="553926" />
     </Book>
     <Book Series="Harley Quinn" Number="7" Volume="2016" Year="2017">
-      <Id>364f5888-c1bc-4d91-9e70-0c731baab3fe</Id>
+      <Database Name="cv" Series="92750" Issue="556452" />
     </Book>
     <Book Series="Harley Quinn" Number="8" Volume="2016" Year="2017">
-      <Id>b6579243-97ee-4a21-a1d7-8ef2b8e5829f</Id>
+      <Database Name="cv" Series="92750" Issue="558939" />
     </Book>
     <Book Series="Harley Quinn" Number="9" Volume="2016" Year="2017">
-      <Id>733eb97c-2b25-4e42-ae57-404ab928cf40</Id>
+      <Database Name="cv" Series="92750" Issue="563702" />
     </Book>
     <Book Series="Harley Quinn" Number="10" Volume="2016" Year="2017">
-      <Id>1d42f27d-f74b-42dc-b9de-81d56facbc79</Id>
+      <Database Name="cv" Series="92750" Issue="569304" />
     </Book>
     <Book Series="Harley Quinn" Number="11" Volume="2016" Year="2017">
-      <Id>c58f4d53-6764-4e63-b2c9-5815dbf266f7</Id>
+      <Database Name="cv" Series="92750" Issue="574845" />
     </Book>
     <Book Series="Harley Quinn" Number="12" Volume="2016" Year="2017">
-      <Id>6258aa35-c358-4b71-9add-bcf23f24d29d</Id>
+      <Database Name="cv" Series="92750" Issue="576592" />
     </Book>
     <Book Series="Harley Quinn" Number="13" Volume="2016" Year="2017">
-      <Id>78873769-5e1b-467a-90f5-62463e1c561c</Id>
+      <Database Name="cv" Series="92750" Issue="579289" />
     </Book>
     <Book Series="Harley Quinn" Number="14" Volume="2016" Year="2017">
-      <Id>4476d2f5-e42c-4ae9-8b6c-5fdf5bbbc008</Id>
+      <Database Name="cv" Series="92750" Issue="581526" />
     </Book>
     <Book Series="Harley Quinn" Number="15" Volume="2016" Year="2017">
-      <Id>81e229e8-833b-4950-854b-8c3580247644</Id>
+      <Database Name="cv" Series="92750" Issue="583699" />
     </Book>
     <Book Series="Harley Quinn" Number="16" Volume="2016" Year="2017">
-      <Id>6bd714de-d618-4e9a-9228-059e5bd2833c</Id>
+      <Database Name="cv" Series="92750" Issue="587385" />
     </Book>
     <Book Series="Harley Quinn" Number="17" Volume="2016" Year="2017">
-      <Id>f05bd297-37e1-4a8d-b77e-efb3da8a4218</Id>
+      <Database Name="cv" Series="92750" Issue="590775" />
     </Book>
     <Book Series="Harley Quinn" Number="18" Volume="2016" Year="2017">
-      <Id>ffbe7381-e143-4b92-9561-61ff107e9029</Id>
+      <Database Name="cv" Series="92750" Issue="592572" />
     </Book>
     <Book Series="Harley Quinn" Number="19" Volume="2016" Year="2017">
-      <Id>32c7d802-2bf4-4a04-b9cd-3fa127325adb</Id>
+      <Database Name="cv" Series="92750" Issue="594094" />
     </Book>
     <Book Series="Harley Quinn" Number="20" Volume="2016" Year="2017">
-      <Id>904c3e17-5899-41ac-b4cc-018636a888b3</Id>
+      <Database Name="cv" Series="92750" Issue="595668" />
     </Book>
     <Book Series="Harley Quinn" Number="21" Volume="2016" Year="2017">
-      <Id>77961194-8c92-40b5-8dd8-5f1dc270044b</Id>
+      <Database Name="cv" Series="92750" Issue="599841" />
     </Book>
     <Book Series="Harley Quinn" Number="22" Volume="2016" Year="2017">
-      <Id>7e583d30-3a3f-4995-9031-807da764e7d9</Id>
+      <Database Name="cv" Series="92750" Issue="603093" />
     </Book>
     <Book Series="Harley Quinn" Number="23" Volume="2016" Year="2017">
-      <Id>a1213626-709e-4a48-b918-2c3922047462</Id>
+      <Database Name="cv" Series="92750" Issue="606576" />
     </Book>
     <Book Series="Harley Quinn" Number="24" Volume="2016" Year="2017">
-      <Id>5210f231-27e2-48b7-90ba-675e39ae3aed</Id>
+      <Database Name="cv" Series="92750" Issue="609291" />
     </Book>
     <Book Series="Harley Quinn" Number="25" Volume="2016" Year="2017">
-      <Id>4cfbe940-d5a4-46b1-a764-72e788eb97ba</Id>
+      <Database Name="cv" Series="92750" Issue="613741" />
     </Book>
     <Book Series="Harley Quinn" Number="26" Volume="2016" Year="2017">
-      <Id>d250418d-527a-417a-a009-b02d25f4dd44</Id>
+      <Database Name="cv" Series="92750" Issue="616144" />
     </Book>
     <Book Series="Harley Quinn" Number="27" Volume="2016" Year="2017">
-      <Id>6a9c8e99-1eed-48a2-98d9-0cd4687ae256</Id>
+      <Database Name="cv" Series="92750" Issue="619573" />
     </Book>
     <Book Series="Harley Quinn" Number="28" Volume="2016" Year="2017">
-      <Id>1a25fc99-71e7-48a0-815d-1e9b1fe20263</Id>
+      <Database Name="cv" Series="92750" Issue="622883" />
     </Book>
     <Book Series="Harley Quinn" Number="29" Volume="2016" Year="2017">
-      <Id>653bc870-e88c-49a4-ae2d-1cad53e93564</Id>
+      <Database Name="cv" Series="92750" Issue="626259" />
     </Book>
     <Book Series="Harley Quinn" Number="30" Volume="2016" Year="2017">
-      <Id>6028991c-47dd-4cbc-808f-4f96b62f6082</Id>
+      <Database Name="cv" Series="92750" Issue="630494" />
     </Book>
     <Book Series="Harley Quinn" Number="31" Volume="2016" Year="2018">
-      <Id>ccb1cdaf-8b2d-49de-8724-e0f6304498ff</Id>
+      <Database Name="cv" Series="92750" Issue="636346" />
     </Book>
     <Book Series="Harley Quinn" Number="32" Volume="2016" Year="2018">
-      <Id>cff5e1af-41ba-457c-98ff-d755d6a84ba1</Id>
+      <Database Name="cv" Series="92750" Issue="641382" />
     </Book>
     <Book Series="Harley Quinn" Number="33" Volume="2016" Year="2018">
-      <Id>191e53a3-837d-48d9-aa8f-71d74e461ddf</Id>
+      <Database Name="cv" Series="92750" Issue="647916" />
     </Book>
     <Book Series="Harley Quinn" Number="34" Volume="2016" Year="2018">
-      <Id>defe8aa8-604b-4bf3-b120-e7e7ba36a63d</Id>
+      <Database Name="cv" Series="92750" Issue="652600" />
     </Book>
     <Book Series="Harley Quinn" Number="35" Volume="2016" Year="2018">
-      <Id>a520e13a-0a66-49a3-ab10-c81b62b0804a</Id>
+      <Database Name="cv" Series="92750" Issue="654036" />
     </Book>
     <Book Series="Harley Quinn" Number="36" Volume="2016" Year="2018">
-      <Id>e311415d-8990-4a79-8d65-6cb7197e88c9</Id>
+      <Database Name="cv" Series="92750" Issue="656683" />
     </Book>
     <Book Series="Harley Quinn" Number="37" Volume="2016" Year="2018">
-      <Id>0cf499aa-f0c8-4004-a996-d9d3a597dcba</Id>
+      <Database Name="cv" Series="92750" Issue="658703" />
     </Book>
     <Book Series="Harley Quinn" Number="38" Volume="2016" Year="2018">
-      <Id>f179bfba-a2ca-430b-9557-6f775b31dc5f</Id>
+      <Database Name="cv" Series="92750" Issue="660635" />
     </Book>
     <Book Series="Harley Quinn" Number="39" Volume="2016" Year="2018">
-      <Id>d6303e95-6e8e-4a2a-89db-53a41584e8cb</Id>
+      <Database Name="cv" Series="92750" Issue="662066" />
     </Book>
     <Book Series="Harley Quinn" Number="40" Volume="2016" Year="2018">
-      <Id>ee0ad7a6-c48c-4a2e-9ee3-3935af92cade</Id>
+      <Database Name="cv" Series="92750" Issue="663552" />
     </Book>
     <Book Series="Harley Quinn" Number="41" Volume="2016" Year="2018">
-      <Id>37d09654-0f91-49c8-b33a-487eb256872c</Id>
+      <Database Name="cv" Series="92750" Issue="664893" />
     </Book>
     <Book Series="Harley Quinn" Number="42" Volume="2016" Year="2018">
-      <Id>714d5225-8d3b-4e26-ae2b-3c823334f05c</Id>
+      <Database Name="cv" Series="92750" Issue="666783" />
     </Book>
     <Book Series="Harley Quinn" Number="43" Volume="2016" Year="2018">
-      <Id>bad6a541-faa3-4a59-9a69-c036d957262a</Id>
+      <Database Name="cv" Series="92750" Issue="672260" />
     </Book>
     <Book Series="Harley Quinn: Harley Loves Joker" Number="1" Volume="2018" Year="2018">
-      <Id>e69a3302-0cf6-4cc3-a9bd-d19e29884185</Id>
+      <Database Name="cv" Series="110513" Issue="668759" />
     </Book>
     <Book Series="Harley Quinn: Harley Loves Joker" Number="2" Volume="2018" Year="2018">
-      <Id>9a9b258c-058d-49c8-92d0-f1b66df6ef4b</Id>
+      <Database Name="cv" Series="110513" Issue="670092" />
     </Book>
     <Book Series="Harley Quinn" Number="44" Volume="2016" Year="2018">
-      <Id>7150e594-1a6c-4e27-bd02-3710ca5e7771</Id>
+      <Database Name="cv" Series="92750" Issue="674107" />
     </Book>
     <Book Series="Harley Quinn" Number="45" Volume="2016" Year="2018">
-      <Id>e1aca794-23ec-407e-88b8-b0dcc52e5d34</Id>
+      <Database Name="cv" Series="92750" Issue="675954" />
     </Book>
     <Book Series="Harley Quinn" Number="46" Volume="2016" Year="2018">
-      <Id>6ddc7508-032b-4261-9fbc-760915e0d44a</Id>
+      <Database Name="cv" Series="92750" Issue="677263" />
     </Book>
     <Book Series="Harley Quinn" Number="47" Volume="2016" Year="2018">
-      <Id>43dd356e-8229-4f4e-bd0a-ea6800be5531</Id>
+      <Database Name="cv" Series="92750" Issue="678510" />
     </Book>
     <Book Series="Harley Quinn" Number="48" Volume="2016" Year="2018">
-      <Id>c43cc468-d595-40f4-9af4-830c821c6166</Id>
+      <Database Name="cv" Series="92750" Issue="679973" />
     </Book>
     <Book Series="Harley Quinn" Number="49" Volume="2016" Year="2018">
-      <Id>f08b9d7e-28e6-40ee-bef8-27fd6fb59bc1</Id>
+      <Database Name="cv" Series="92750" Issue="683810" />
     </Book>
     <Book Series="Harley Quinn" Number="50" Volume="2016" Year="2018">
-      <Id>f73aa0d1-ab8c-4888-bf4d-67edb6ef3942</Id>
+      <Database Name="cv" Series="92750" Issue="685817" />
     </Book>
     <Book Series="Harley Quinn" Number="51" Volume="2016" Year="2018">
-      <Id>e32840f9-c17f-4422-a822-e2f7bfba9b2d</Id>
+      <Database Name="cv" Series="92750" Issue="686988" />
     </Book>
     <Book Series="Harley Quinn" Number="52" Volume="2016" Year="2018">
-      <Id>9fe0e0fb-af74-4c87-914d-67985a001606</Id>
+      <Database Name="cv" Series="92750" Issue="689020" />
     </Book>
     <Book Series="Old Lady Harley" Number="1" Volume="2018" Year="2018">
-      <Id>37a61cd4-015a-4fa2-a44a-ebffcd1e2c24</Id>
+      <Database Name="cv" Series="114723" Issue="689848" />
     </Book>
     <Book Series="Old Lady Harley" Number="2" Volume="2018" Year="2019">
-      <Id>afd8fb3e-02cb-4e46-baa9-ae4692975584</Id>
+      <Database Name="cv" Series="114723" Issue="693442" />
     </Book>
     <Book Series="Old Lady Harley" Number="3" Volume="2018" Year="2019">
-      <Id>a9e445fc-ea44-4d82-bed0-efcad408e0c0</Id>
+      <Database Name="cv" Series="114723" Issue="696338" />
     </Book>
     <Book Series="Old Lady Harley" Number="4" Volume="2018" Year="2019">
-      <Id>b3cb5c88-2ec5-4c41-b9c9-b430c9fdb11d</Id>
+      <Database Name="cv" Series="114723" Issue="699380" />
     </Book>
     <Book Series="Old Lady Harley" Number="5" Volume="2018" Year="2019">
-      <Id>f9c8ddc3-c095-4e4c-8e8e-c1ed1687d249</Id>
+      <Database Name="cv" Series="114723" Issue="701919" />
     </Book>
     <Book Series="Harley Quinn" Number="53" Volume="2016" Year="2019">
-      <Id>162d5c1f-c0bc-44cb-baa6-8573ef7885c2</Id>
+      <Database Name="cv" Series="92750" Issue="691359" />
     </Book>
     <Book Series="Harley Quinn" Number="54" Volume="2016" Year="2019">
-      <Id>8699dfe1-6d46-4b46-a383-3719ad66025b</Id>
+      <Database Name="cv" Series="92750" Issue="692525" />
     </Book>
     <Book Series="Harley Quinn" Number="55" Volume="2016" Year="2019">
-      <Id>44891b45-2704-4bef-9f93-dcda22b8b52e</Id>
+      <Database Name="cv" Series="92750" Issue="694108" />
     </Book>
     <Book Series="Harley Quinn" Number="56" Volume="2016" Year="2019">
-      <Id>b286af55-ced6-4941-b854-863151edd7f3</Id>
+      <Database Name="cv" Series="92750" Issue="695609" />
     </Book>
     <Book Series="Harley Quinn" Number="57" Volume="2016" Year="2019">
-      <Id>d96626fe-9041-428d-ad04-3803c1d4c778</Id>
+      <Database Name="cv" Series="92750" Issue="696926" />
     </Book>
     <Book Series="Harley Quinn" Number="58" Volume="2016" Year="2019">
-      <Id>233abf1e-8d78-4bb7-8c66-01e245b3bfbe</Id>
+      <Database Name="cv" Series="92750" Issue="700122" />
     </Book>
     <Book Series="Harley Quinn" Number="59" Volume="2016" Year="2019">
-      <Id>be1feb0f-0911-4a38-b845-79ed45e46192</Id>
+      <Database Name="cv" Series="92750" Issue="702444" />
     </Book>
     <Book Series="Harley Quinn" Number="60" Volume="2016" Year="2019">
-      <Id>4f1187f1-f173-4b4a-9253-85fcca237e64</Id>
+      <Database Name="cv" Series="92750" Issue="705414" />
     </Book>
     <Book Series="Harley Quinn" Number="61" Volume="2016" Year="2019">
-      <Id>6472ba25-34a9-4229-b373-0653e573af3a</Id>
+      <Database Name="cv" Series="92750" Issue="707491" />
     </Book>
     <Book Series="Harley Quinn" Number="62" Volume="2016" Year="2019">
-      <Id>d41654b7-af70-4eb6-a9fc-82e44a7e6a6e</Id>
+      <Database Name="cv" Series="92750" Issue="710589" />
     </Book>
     <Book Series="Harley Quinn" Number="63" Volume="2016" Year="2019">
-      <Id>14e19c51-2ece-4a12-bccd-27136c1e7e27</Id>
+      <Database Name="cv" Series="92750" Issue="712951" />
     </Book>
     <Book Series="Harley Quinn" Number="64" Volume="2016" Year="2019">
-      <Id>03584f1a-206c-4228-84cf-25cb7883e4ab</Id>
+      <Database Name="cv" Series="92750" Issue="715218" />
     </Book>
     <Book Series="Harley Quinn" Number="65" Volume="2016" Year="2019">
-      <Id>d601cac5-3187-418d-8711-b5c751c6aa11</Id>
+      <Database Name="cv" Series="92750" Issue="717920" />
     </Book>
     <Book Series="Harley Quinn" Number="66" Volume="2016" Year="2019">
-      <Id>0a2d1f9d-47c7-4013-bb04-e394bc914ef7</Id>
+      <Database Name="cv" Series="92750" Issue="721047" />
     </Book>
     <Book Series="Harley Quinn" Number="67" Volume="2016" Year="2020">
-      <Id>4451f36b-e42c-4114-8b04-d2e59b90349a</Id>
+      <Database Name="cv" Series="92750" Issue="726006" />
     </Book>
     <Book Series="Harley Quinn" Number="68" Volume="2016" Year="2020">
-      <Id>609dee30-8a1f-4460-8f01-8c04da904aa1</Id>
+      <Database Name="cv" Series="92750" Issue="729499" />
     </Book>
     <Book Series="Harley Quinn" Number="69" Volume="2016" Year="2020">
-      <Id>600d60f6-10fa-4cf1-95e9-382cef212fd7</Id>
+      <Database Name="cv" Series="92750" Issue="731931" />
     </Book>
-    <Book Series="Harley Quinn's Villain of the Year" Number="1" Volume="2019" Year="2020">
-      <Id>d409b72e-f175-466c-9edb-9757c7c0731c</Id>
+    <Book Series="Harley Quinn&apos;s Villain of the Year" Number="1" Volume="2019" Year="2020">
+      <Database Name="cv" Series="123376" Issue="730208" />
     </Book>
     <Book Series="Harley Quinn &amp; Poison Ivy" Number="1" Volume="2019" Year="2019">
-      <Id>90be436b-c7ed-436d-983d-a019dac4b6f2</Id>
+      <Database Name="cv" Series="121078" Issue="717921" />
     </Book>
     <Book Series="Harley Quinn &amp; Poison Ivy" Number="2" Volume="2019" Year="2019">
-      <Id>8249bec8-f6fe-4928-af62-285298219e6c</Id>
+      <Database Name="cv" Series="121078" Issue="721756" />
     </Book>
     <Book Series="Harley Quinn &amp; Poison Ivy" Number="3" Volume="2019" Year="2020">
-      <Id>89b4167a-c18e-4e8a-8487-837c118b1d35</Id>
+      <Database Name="cv" Series="121078" Issue="726906" />
     </Book>
     <Book Series="Harley Quinn &amp; Poison Ivy" Number="4" Volume="2019" Year="2020">
-      <Id>8aea2770-318e-4156-9115-286e84e03c78</Id>
+      <Database Name="cv" Series="121078" Issue="730207" />
     </Book>
   </Books>
   <Matchers />

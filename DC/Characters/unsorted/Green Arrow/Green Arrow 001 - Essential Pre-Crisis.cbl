@@ -1,60 +1,61 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Green Arrow 1 - Essential Pre-Crisis</Name>
+  <Name>Green Arrow 001 - Essential Pre-Crisis</Name>
+  <NumIssues>18</NumIssues>
   <Books>
     <Book Series="The Green Arrow by Jack Kirby" Number="1" Volume="2001" Year="2001">
-      <Id>58011d83-24c6-42cc-9ce7-6d2fed82736d</Id>
+      <Database Name="cv" Series="30379" Issue="187197" />
     </Book>
     <Book Series="The Brave and the Bold" Number="50" Volume="1955" Year="1963">
-      <Id>77c2aa04-1eb8-49cb-8bc1-7f97e1449627</Id>
+      <Database Name="cv" Series="1683" Issue="6709" />
     </Book>
     <Book Series="The Brave and the Bold" Number="71" Volume="1955" Year="1967">
-      <Id>1b5d1bd1-3b0c-47a5-8b48-3388210f6152</Id>
+      <Database Name="cv" Series="1683" Issue="9261" />
     </Book>
     <Book Series="The Brave and the Bold" Number="85" Volume="1955" Year="1969">
-      <Id>585f0c5f-2463-48ca-9ee4-3ab45db2a44f</Id>
+      <Database Name="cv" Series="1683" Issue="10332" />
     </Book>
     <Book Series="Justice League of America" Number="75" Volume="1960" Year="1969">
-      <Id>3dddc4bf-c93c-4d5c-b4fd-4402a04e2c60</Id>
+      <Database Name="cv" Series="2014" Issue="10493" />
     </Book>
     <Book Series="Green Lantern/Green Arrow" Number="1" Volume="2012" Year="2012">
-      <Id>11fd7ed8-40e5-40ec-bae9-2bacbe6b9958</Id>
+      <Database Name="cv" Series="51323" Issue="351475" />
     </Book>
     <Book Series="The Brave and the Bold" Number="100" Volume="1955" Year="1972">
-      <Id>ef0804a2-dd76-4023-b335-47416d1fded4</Id>
+      <Database Name="cv" Series="1683" Issue="11964" />
     </Book>
     <Book Series="The Brave and the Bold" Number="106" Volume="1955" Year="1973">
-      <Id>4e02d303-a1e0-43bb-b286-497f4ae45d60</Id>
+      <Database Name="cv" Series="1683" Issue="12968" />
     </Book>
     <Book Series="The Brave and the Bold" Number="129" Volume="1955" Year="1976">
-      <Id>850dc497-8622-4c0c-a160-648320f6c81a</Id>
+      <Database Name="cv" Series="1683" Issue="16641" />
     </Book>
     <Book Series="The Brave and the Bold" Number="130" Volume="1955" Year="1976">
-      <Id>074f72fe-dd1c-40c3-8cc0-4d25c6440364</Id>
+      <Database Name="cv" Series="1683" Issue="16733" />
     </Book>
     <Book Series="The Brave and the Bold" Number="136" Volume="1955" Year="1977">
-      <Id>9ca40fdf-ab69-4e96-8c91-85a21e792bf2</Id>
+      <Database Name="cv" Series="1683" Issue="17736" />
     </Book>
     <Book Series="The Brave and the Bold" Number="144" Volume="1955" Year="1978">
-      <Id>57920111-c41f-4fc4-8303-8bc767c4419d</Id>
+      <Database Name="cv" Series="1683" Issue="18933" />
     </Book>
     <Book Series="The Brave and the Bold" Number="168" Volume="1955" Year="1980">
-      <Id>0b08a087-0d41-4913-a1fe-113f66200f25</Id>
+      <Database Name="cv" Series="1683" Issue="20763" />
     </Book>
     <Book Series="The Brave and the Bold" Number="185" Volume="1955" Year="1982">
-      <Id>2952a26f-9323-4437-8703-0acf9a125015</Id>
+      <Database Name="cv" Series="1683" Issue="22046" />
     </Book>
     <Book Series="Green Arrow" Number="1" Volume="1983" Year="1983">
-      <Id>ce85d16e-ce16-48bd-a0db-e8dcd3461568</Id>
+      <Database Name="cv" Series="3197" Issue="23143" />
     </Book>
     <Book Series="Green Arrow" Number="2" Volume="1983" Year="1983">
-      <Id>86b52197-7b60-4869-82c5-7f7c69dff3d0</Id>
+      <Database Name="cv" Series="3197" Issue="23226" />
     </Book>
     <Book Series="Green Arrow" Number="3" Volume="1983" Year="1983">
-      <Id>d4f74574-41c6-40ce-9334-634ad054e566</Id>
+      <Database Name="cv" Series="3197" Issue="23310" />
     </Book>
     <Book Series="Green Arrow" Number="4" Volume="1983" Year="1983">
-      <Id>ea8af9ef-8c8e-4c58-9887-aba8a0dc0c40</Id>
+      <Database Name="cv" Series="3197" Issue="23394" />
     </Book>
   </Books>
   <Matchers />
