@@ -1,33 +1,34 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Outsiders 2 - Post Rebirth</Name>
+  <Name>Outsiders 002 - Post Rebirth</Name>
+  <NumIssues>9</NumIssues>
   <Books>
     <Book Series="Batman &amp; the Outsiders" Number="1" Volume="2019" Year="2019">
-      <Id>5ab44a46-fdd0-4f46-a413-30e95279e5f1</Id>
+      <Database Name="cv" Series="118841" Issue="708085" />
     </Book>
     <Book Series="Batman &amp; the Outsiders" Number="2" Volume="2019" Year="2019">
-      <Id>163eb03c-f407-4192-9571-29f19f44dbe7</Id>
+      <Database Name="cv" Series="118841" Issue="711238" />
     </Book>
     <Book Series="Batman &amp; the Outsiders" Number="3" Volume="2019" Year="2019">
-      <Id>945e2337-086a-41e9-b9a0-3b25ee5e668a</Id>
+      <Database Name="cv" Series="118841" Issue="713401" />
     </Book>
     <Book Series="Batman &amp; the Outsiders" Number="4" Volume="2019" Year="2019">
-      <Id>15651ddd-3477-4560-8b51-c4742ff4ab4c</Id>
+      <Database Name="cv" Series="118841" Issue="716310" />
     </Book>
     <Book Series="Batman &amp; the Outsiders" Number="5" Volume="2019" Year="2019">
-      <Id>37b72494-e77b-4f0f-9cdd-aace391e7b28</Id>
+      <Database Name="cv" Series="118841" Issue="718640" />
     </Book>
     <Book Series="Batman &amp; the Outsiders" Number="6" Volume="2019" Year="2019">
-      <Id>f04ecbaf-9e43-46a8-bfe8-47d432159146</Id>
+      <Database Name="cv" Series="118841" Issue="721741" />
     </Book>
-    <Book Series="Batman and the Outsiders Annual" Number="1" Volume="2019" Year="2019">
-      <Id>b219a79d-a656-400d-86a7-66f7c1ae160a</Id>
+    <Book Series="Batman &amp; the Outsiders Annual" Number="1" Volume="2019" Year="2019">
+      <Database Name="cv" Series="122476" Issue="725220" />
     </Book>
     <Book Series="Batman &amp; the Outsiders" Number="7" Volume="2019" Year="2020">
-      <Id>6fc62c72-d04d-4dce-96cd-0fdfa98a2a68</Id>
+      <Database Name="cv" Series="118841" Issue="726894" />
     </Book>
     <Book Series="Batman &amp; the Outsiders" Number="8" Volume="2019" Year="2020">
-      <Id>50558f5b-23f2-4579-ae29-532025b94659</Id>
+      <Database Name="cv" Series="118841" Issue="730197" />
     </Book>
   </Books>
   <Matchers />
