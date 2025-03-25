@@ -30,7 +30,7 @@
 <Book Series="Captain America" Number="4" Volume="2023" Year="2024">
 <Database Name="cv" Series="153610" Issue="1034335" />
 </Book>
-<Book Series="Marvel Zombies: Black, White &#38; Blood" Number="3" Volume="2023" Year="2024">
+<Book Series="Marvel Zombies: Black, White &amp; Blood" Number="3" Volume="2023" Year="2024">
 <Database Name="cv" Series="154293" Issue="1034341" />
 </Book>
 <Book Series="Punisher" Number="2" Volume="2024" Year="2024">
@@ -159,7 +159,7 @@
 <Book Series="Captain America" Number="5" Volume="2023" Year="2024">
 <Database Name="cv" Series="153610" Issue="1038984" />
 </Book>
-<Book Series="Marvel Zombies: Black, White &#38; Blood" Number="4" Volume="2023" Year="2024">
+<Book Series="Marvel Zombies: Black, White &amp; Blood" Number="4" Volume="2023" Year="2024">
 <Database Name="cv" Series="154293" Issue="1039001" />
 </Book>
 <Book Series="Thanos" Number="2" Volume="2024" Year="2024">
@@ -171,7 +171,7 @@
 <Book Series="Vengeance of the Moon Knight" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="155872" Issue="1038992" />
 </Book>
-<Book Series="Miguel O'Hara – Spider-Man 2099" Number="1" Volume="2024" Year="2024">
+<Book Series="Miguel O&apos;Hara – Spider-Man 2099" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="155871" Issue="1038991" />
 </Book>
 <Book Series="Marvel Meow" Number="1" Volume="2024" Year="2024">
@@ -261,34 +261,34 @@
 <Book Series="Spider-Man Unlimited Infinity Comic" Number="24" Volume="2023" Year="2024">
 <Database Name="cv" Series="153351" Issue="1044693" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="85" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="85" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1040032" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="86" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="86" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1041081" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="87" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="87" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1042214" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="88" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="88" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1043200" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="89" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="89" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1043996" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="90" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="90" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1044720" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="91" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="91" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1045664" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="92" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="92" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1046415" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="93" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="93" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1047484" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="94" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="94" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1048070" />
 </Book>
 <Book Series="Wolverine" Number="41" Volume="2020" Year="2024">
@@ -324,7 +324,7 @@
 <Book Series="Spider-Gwen: Smash" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="155341" Issue="1039585" />
 </Book>
-<Book Series="Miguel O'Hara – Spider-Man 2099" Number="2" Volume="2024" Year="2024">
+<Book Series="Miguel O&apos;Hara – Spider-Man 2099" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="155871" Issue="1040159" />
 </Book>
 <Book Series="Rise of the Powers of X" Number="1" Volume="2024" Year="2024">
@@ -360,7 +360,7 @@
 <Book Series="White Widow" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="154418" Issue="1040948" />
 </Book>
-<Book Series="Miguel O'Hara – Spider-Man 2099" Number="3" Volume="2024" Year="2024">
+<Book Series="Miguel O&apos;Hara – Spider-Man 2099" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="155871" Issue="1040943" />
 </Book>
 <Book Series="Avengers: Twilight" Number="1" Volume="2024" Year="2024">
@@ -384,7 +384,7 @@
 <Book Series="G.O.D.S." Number="4" Volume="2023" Year="2024">
 <Database Name="cv" Series="153860" Issue="1042222" />
 </Book>
-<Book Series="Miguel O'Hara – Spider-Man 2099" Number="4" Volume="2024" Year="2024">
+<Book Series="Miguel O&apos;Hara – Spider-Man 2099" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="155871" Issue="1042209" />
 </Book>
 <Book Series="Daredevil: Black Armor" Number="3" Volume="2024" Year="2024">
@@ -414,7 +414,7 @@
 <Book Series="Avengers Inc." Number="5" Volume="2023" Year="2024">
 <Database Name="cv" Series="153464" Issue="1042822" />
 </Book>
-<Book Series="Miguel O'Hara – Spider-Man 2099" Number="5" Volume="2024" Year="2024">
+<Book Series="Miguel O&apos;Hara – Spider-Man 2099" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="155871" Issue="1042833" />
 </Book>
 <Book Series="Spine-Tingling Spider-Man" Number="4" Volume="2023" Year="2024">
@@ -438,7 +438,7 @@
 <Book Series="Dead X-Men" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="156494" Issue="1042825" />
 </Book>
-<Book Series="Marvel's Voices: Legends" Number="1" Volume="2024" Year="2024">
+<Book Series="Marvel&apos;s Voices: Legends" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="156496" Issue="1042832" />
 </Book>
 <Book Series="X-Men" Number="31" Volume="2021" Year="2024">
@@ -513,7 +513,7 @@
 <Book Series="Night Thrasher" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="156819" Issue="1044781" />
 </Book>
-<Book Series="Scarlet Witch &#38; Quicksilver" Number="1" Volume="2024" Year="2024">
+<Book Series="Scarlet Witch &amp; Quicksilver" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="156874" Issue="1044948" />
 </Book>
 <Book Series="Spider-Man Unlimited Infinity Comic" Number="25" Volume="2023" Year="2024">
@@ -708,7 +708,7 @@
 <Book Series="Ghost Rider: Final Vengeance" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157214" Issue="1047948" />
 </Book>
-<Book Series="Black Widow &#38; Hawkeye" Number="1" Volume="2024" Year="2024">
+<Book Series="Black Widow &amp; Hawkeye" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157213" Issue="1047936" />
 </Book>
 <Book Series="Fantastic Four" Number="18" Volume="2022" Year="2024">
@@ -744,7 +744,7 @@
 <Book Series="Night Thrasher" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="156819" Issue="1048668" />
 </Book>
-<Book Series="Scarlet Witch &#38; Quicksilver" Number="2" Volume="2024" Year="2024">
+<Book Series="Scarlet Witch &amp; Quicksilver" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="156874" Issue="1048670" />
 </Book>
 <Book Series="X-Men Forever" Number="1" Volume="2024" Year="2024">
@@ -795,7 +795,7 @@
 <Book Series="Spider-Punk: Arms Race" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="157036" Issue="1049279" />
 </Book>
-<Book Series="Jackpot &#38; Black Cat" Number="1" Volume="2024" Year="2024">
+<Book Series="Jackpot &amp; Black Cat" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157398" Issue="1049275" />
 </Book>
 <Book Series="Spider-Man Unlimited Infinity Comic" Number="31" Volume="2023" Year="2024">
@@ -816,25 +816,25 @@
 <Book Series="Spider-Man Unlimited Infinity Comic" Number="36" Volume="2023" Year="2024">
 <Database Name="cv" Series="153351" Issue="1054345" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="95" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="95" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1051103" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="96" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="96" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1051506" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="97" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="97" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1051855" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="98" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="98" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1053034" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="99" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="99" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1053924" />
 </Book>
-<Book Series="Marvel's Voices Infinity Comic" Number="100" Volume="2022" Year="2024">
+<Book Series="Marvel&apos;s Voices Infinity Comic" Number="100" Volume="2022" Year="2024">
 <Database Name="cv" Series="144359" Issue="1054674" />
 </Book>
-<Book Series="X-Men '97" Number="1" Volume="2024" Year="2024">
+<Book Series="X-Men &apos;97" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157399" Issue="1049287" />
 </Book>
 <Book Series="X-Men" Number="33" Volume="2021" Year="2024">
@@ -927,7 +927,7 @@
 <Book Series="Symbiote Spider-Man 2099" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="157215" Issue="1051130" />
 </Book>
-<Book Series="X-Men '97" Number="2" Volume="2024" Year="2024">
+<Book Series="X-Men &apos;97" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="157399" Issue="1051134" />
 </Book>
 <Book Series="Weapon X-Men" Number="2" Volume="2024" Year="2024">
@@ -972,7 +972,7 @@
 <Book Series="Ghost Rider: Final Vengeance" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="157214" Issue="1051495" />
 </Book>
-<Book Series="Black Widow &#38; Hawkeye" Number="2" Volume="2024" Year="2024">
+<Book Series="Black Widow &amp; Hawkeye" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="157213" Issue="1051491" />
 </Book>
 <Book Series="Giant-Size Incredible Hulk" Number="1" Volume="2024" Year="2024">
@@ -1014,13 +1014,13 @@
 <Book Series="Night Thrasher" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="156819" Issue="1052935" />
 </Book>
-<Book Series="Scarlet Witch &#38; Quicksilver" Number="3" Volume="2024" Year="2024">
+<Book Series="Scarlet Witch &amp; Quicksilver" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="156874" Issue="1052939" />
 </Book>
 <Book Series="Spider-Punk: Arms Race" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157036" Issue="1052940" />
 </Book>
-<Book Series="Jackpot &#38; Black Cat" Number="2" Volume="2024" Year="2024">
+<Book Series="Jackpot &amp; Black Cat" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="157398" Issue="1052934" />
 </Book>
 <Book Series="X-Men Forever" Number="2" Volume="2024" Year="2024">
@@ -1029,7 +1029,7 @@
 <Book Series="Free Comic Book Day 2024: Blood Hunt/X-Men" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158042" Issue="1054292" />
 </Book>
-<Book Series="Free Comic Book Day 2024: Marvel's Voices" Number="1" Volume="2024" Year="2024">
+<Book Series="Free Comic Book Day 2024: Marvel&apos;s Voices" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158041" Issue="1054293" />
 </Book>
 <Book Series="Free Comic Book Day 2024: Ultimate Universe/Spider-Man" Number="1" Volume="2024" Year="2024">
@@ -1041,7 +1041,7 @@
 <Book Series="Cable" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156139" Issue="1053536" />
 </Book>
-<Book Series="Deadpool &#38; Wolverine WWIII" Number="1" Volume="2024" Year="2024">
+<Book Series="Deadpool &amp; Wolverine WWIII" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157940" Issue="1053537" />
 </Book>
 <Book Series="Get Fury" Number="1" Volume="2024" Year="2024">
@@ -1152,22 +1152,22 @@
 <Book Series="What If...? Venom" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="157037" Issue="1055036" />
 </Book>
-<Book Series="Kid Juggernaut: Marvel's Voices Infinity Comic" Number="1" Volume="2024" Year="2024">
+<Book Series="Kid Juggernaut: Marvel&apos;s Voices Infinity Comic" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158231" Issue="1056226" />
 </Book>
-<Book Series="Kid Juggernaut: Marvel's Voices Infinity Comic" Number="2" Volume="2024" Year="2024">
+<Book Series="Kid Juggernaut: Marvel&apos;s Voices Infinity Comic" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="158231" Issue="1056409" />
 </Book>
-<Book Series="Kid Juggernaut: Marvel's Voices Infinity Comic" Number="3" Volume="2024" Year="2024">
+<Book Series="Kid Juggernaut: Marvel&apos;s Voices Infinity Comic" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="158231" Issue="1057117" />
 </Book>
-<Book Series="Kid Juggernaut: Marvel's Voices Infinity Comic" Number="4" Volume="2024" Year="2024">
+<Book Series="Kid Juggernaut: Marvel&apos;s Voices Infinity Comic" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="158231" Issue="1058735" />
 </Book>
-<Book Series="Kid Juggernaut: Marvel's Voices Infinity Comic" Number="5" Volume="2024" Year="2024">
+<Book Series="Kid Juggernaut: Marvel&apos;s Voices Infinity Comic" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="158231" Issue="1059477" />
 </Book>
-<Book Series="Kid Juggernaut: Marvel's Voices Infinity Comic" Number="6" Volume="2024" Year="2024">
+<Book Series="Kid Juggernaut: Marvel&apos;s Voices Infinity Comic" Number="6" Volume="2024" Year="2024">
 <Database Name="cv" Series="158231" Issue="1060347" />
 </Book>
 <Book Series="Wolverine: Madripoor Knights" Number="4" Volume="2024" Year="2024">
@@ -1176,7 +1176,7 @@
 <Book Series="X-Men Forever" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="157312" Issue="1055038" />
 </Book>
-<Book Series="Black Widow &#38; Hawkeye" Number="3" Volume="2024" Year="2024">
+<Book Series="Black Widow &amp; Hawkeye" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157213" Issue="1056200" />
 </Book>
 <Book Series="Blood Hunt" Number="2" Volume="2024" Year="2024">
@@ -1227,7 +1227,7 @@
 <Book Series="Union Jack the Ripper: Blood Hunt" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158230" Issue="1056218" />
 </Book>
-<Book Series="X-Men '97" Number="3" Volume="2024" Year="2024">
+<Book Series="X-Men &apos;97" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157399" Issue="1056219" />
 </Book>
 <Book Series="Avengers: Twilight" Number="6" Volume="2024" Year="2024">
@@ -1242,7 +1242,7 @@
 <Book Series="Hellverine" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158297" Issue="1057003" />
 </Book>
-<Book Series="Jackpot &#38; Black Cat" Number="3" Volume="2024" Year="2024">
+<Book Series="Jackpot &amp; Black Cat" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157398" Issue="1057005" />
 </Book>
 <Book Series="Midnight Sons: Blood Hunt" Number="1" Volume="2024" Year="2024">
@@ -1254,7 +1254,7 @@
 <Book Series="Rise of the Powers of X" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="155968" Issue="1057008" />
 </Book>
-<Book Series="Scarlet Witch &#38; Quicksilver" Number="4" Volume="2024" Year="2024">
+<Book Series="Scarlet Witch &amp; Quicksilver" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="156874" Issue="1057009" />
 </Book>
 <Book Series="Spider-Boy" Number="7" Volume="2024" Year="2024">
@@ -1344,7 +1344,7 @@
 <Book Series="Blood Hunt" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157939" Issue="1059110" />
 </Book>
-<Book Series="Deadpool &#38; Wolverine WWIII" Number="2" Volume="2024" Year="2024">
+<Book Series="Deadpool &amp; Wolverine WWIII" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="157940" Issue="1059111" />
 </Book>
 <Book Series="Deadpool" Number="3" Volume="2024" Year="2024">
@@ -1440,7 +1440,7 @@
 <Book Series="Spider-Man Unlimited Infinity Comic" Number="46" Volume="2023" Year="2024">
 <Database Name="cv" Series="153351" Issue="1063297" />
 </Book>
-<Book Series="Black Widow &#38; Hawkeye" Number="4" Volume="2024" Year="2024">
+<Book Series="Black Widow &amp; Hawkeye" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="157213" Issue="1060852" />
 </Book>
 <Book Series="Blood Hunt" Number="4" Volume="2024" Year="2024">
@@ -1449,13 +1449,13 @@
 <Book Series="Daredevil" Number="10" Volume="2023" Year="2024">
 <Database Name="cv" Series="153465" Issue="1060854" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="1" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1061232" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="2" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1061965" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="3" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1062885" />
 </Book>
 <Book Series="X-Men: From the Ashes Infinity Comic" Number="1" Volume="2024" Year="2024">
@@ -1494,13 +1494,13 @@
 <Book Series="Hellverine" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="158297" Issue="1060856" />
 </Book>
-<Book Series="Jackpot &#38; Black Cat" Number="4" Volume="2024" Year="2024">
+<Book Series="Jackpot &amp; Black Cat" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="157398" Issue="1060857" />
 </Book>
 <Book Series="Midnight Sons: Blood Hunt" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="158298" Issue="1061065" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="4" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1063405" />
 </Book>
 <Book Series="X-Men: From the Ashes Infinity Comic" Number="7" Volume="2024" Year="2024">
@@ -1524,10 +1524,10 @@
 <Book Series="Spider-Man Unlimited Infinity Comic" Number="50" Volume="2023" Year="2024">
 <Database Name="cv" Series="153351" Issue="1066695" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="5" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1064366" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="6" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="6" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1065550" />
 </Book>
 <Book Series="Spider-Gwen: The Ghost-Spider" Number="2" Volume="2024" Year="2024">
@@ -1554,7 +1554,7 @@
 <Book Series="Wolverine: Madripoor Knights" Number="5" Volume="2024" Year="2024">
 <Database Name="cv" Series="156648" Issue="1060866" />
 </Book>
-<Book Series="X-Men '97" Number="4" Volume="2024" Year="2024">
+<Book Series="X-Men &apos;97" Number="4" Volume="2024" Year="2024">
 <Database Name="cv" Series="157399" Issue="1060867" />
 </Book>
 <Book Series="X-Men: Blood Hunt - Magik" Number="1" Volume="2024" Year="2024">
@@ -1587,22 +1587,22 @@
 <Book Series="Spider-Man: Reign 2" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158696" Issue="1061874" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="7" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="7" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1066414" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="8" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="8" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1066807" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="9" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="9" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1067465" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="10" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="10" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1068057" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="11" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="11" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1068792" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="12" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="12" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1069498" />
 </Book>
 <Book Series="Venom" Number="35" Volume="2021" Year="2024">
@@ -1725,7 +1725,7 @@
 <Book Series="Captain America" Number="11" Volume="2023" Year="2024">
 <Database Name="cv" Series="153610" Issue="1064203" />
 </Book>
-<Book Series="Deadpool &#38; Wolverine WWIII" Number="3" Volume="2024" Year="2024">
+<Book Series="Deadpool &amp; Wolverine WWIII" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="157940" Issue="1064204" />
 </Book>
 <Book Series="NYX" Number="1" Volume="2024" Year="2024">
@@ -1842,7 +1842,7 @@
 <Book Series="X-Men: From the Ashes Infinity Comic" Number="14" Volume="2024" Year="2024">
 <Database Name="cv" Series="158418" Issue="1069257" />
 </Book>
-<Book Series="Spider-Man: Black Suit &#38; Blood" Number="1" Volume="2024" Year="2024">
+<Book Series="Spider-Man: Black Suit &amp; Blood" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="159188" Issue="1066303" />
 </Book>
 <Book Series="Spider-Man: Reign 2" Number="2" Volume="2024" Year="2024">
@@ -1920,7 +1920,7 @@
 <Book Series="Spider-Society" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="159239" Issue="1066703" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="13" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="13" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1071568" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="55" Volume="2022" Year="2024">
@@ -1950,22 +1950,22 @@
 <Book Series="Daredevil: Woman Without Fear" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="158866" Issue="1067238" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="14" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="14" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1071730" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="15" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="15" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1072360" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="16" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="16" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1073328" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="17" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="17" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1074011" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="18" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="18" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1074731" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="19" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="19" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1075775" />
 </Book>
 <Book Series="Deadpool" Number="5" Volume="2024" Year="2024">
@@ -2169,7 +2169,7 @@
 <Book Series="Spider-Boy Annual" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="159811" Issue="1070133" />
 </Book>
-<Book Series="Spider-Man: Black Suit &#38; Blood" Number="2" Volume="2024" Year="2024">
+<Book Series="Spider-Man: Black Suit &amp; Blood" Number="2" Volume="2024" Year="2024">
 <Database Name="cv" Series="159188" Issue="1070134" />
 </Book>
 <Book Series="Spider-Society" Number="2" Volume="2024" Year="2024">
@@ -2313,7 +2313,7 @@
 <Book Series="Sentinels" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="160314" Issue="1073271" />
 </Book>
-<Book Series="Spider-Man: Black Suit &#38; Blood" Number="3" Volume="2024" Year="2024">
+<Book Series="Spider-Man: Black Suit &amp; Blood" Number="3" Volume="2024" Year="2024">
 <Database Name="cv" Series="159188" Issue="1073272" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="59" Volume="2022" Year="2024">
@@ -2454,7 +2454,7 @@
 <Book Series="X-Men: From the Ashes Infinity Comic" Number="25" Volume="2024" Year="2024">
 <Database Name="cv" Series="158418" Issue="1079180" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="20" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="20" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1076651" />
 </Book>
 <Book Series="Namor" Number="4" Volume="2024" Year="2024">
@@ -2493,7 +2493,7 @@
 <Book Series="Kid Venom" Number="3" Volume="2024" Year="2025">
 <Database Name="cv" Series="158784" Issue="1076607" />
 </Book>
-<Book Series="Spider-Man: Black Suit &#38; Blood" Number="4" Volume="2024" Year="2025">
+<Book Series="Spider-Man: Black Suit &amp; Blood" Number="4" Volume="2024" Year="2025">
 <Database Name="cv" Series="159188" Issue="1076629" />
 </Book>
 <Book Series="Spider-Man: Homeroom Heroes" Number="2" Volume="2024" Year="2025">
@@ -2556,13 +2556,13 @@
 <Book Series="Venom War: Wolverine" Number="3" Volume="2024" Year="2025">
 <Database Name="cv" Series="159704" Issue="1077652" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="21" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="21" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1077761" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="22" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="22" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1078695" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="23" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="23" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1079414" />
 </Book>
 <Book Series="Avengers Assemble" Number="3" Volume="2024" Year="2025">
@@ -2613,7 +2613,7 @@
 <Book Series="Ultimate Spider-Man" Number="11" Volume="2024" Year="2025">
 <Database Name="cv" Series="155969" Issue="1078508" />
 </Book>
-<Book Series="Venom War: It's Jeff!" Number="1" Volume="2025" Year="2025">
+<Book Series="Venom War: It&apos;s Jeff!" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="161144" Issue="1078509" />
 </Book>
 <Book Series="Venom War: Lethal Protectors" Number="3" Volume="2024" Year="2025">
@@ -2655,10 +2655,10 @@
 <Book Series="West Coast Avengers" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="161322" Issue="1079285" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="24" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="24" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1080314" />
 </Book>
-<Book Series="Avengers Academy: Marvel's Voices Infinity Comic" Number="25" Volume="2024" Year="2024">
+<Book Series="Avengers Academy: Marvel&apos;s Voices Infinity Comic" Number="25" Volume="2024" Year="2024">
 <Database Name="cv" Series="158642" Issue="1081734" />
 </Book>
 <Book Series="All-New Venom" Number="1" Volume="2025" Year="2025">
