@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #04 (WEB-CBRO)</Name>
 <NumIssues>729</NumIssues>
 <Books>
-<Book Series="JLA Secret Files and Origins" Number="1" Volume="1997" Year="1997">
+<Book Series="JLA Secret Files" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="6166" Issue="78349" />
 </Book>
 <Book Series="JLA" Number="1" Volume="1997" Year="1997">
@@ -336,7 +336,7 @@
 <Book Series="Robin" Number="48" Volume="1993" Year="1997">
 <Database Name="cv" Series="4975" Issue="44380" />
 </Book>
-<Book Series="Starman: Mist" Number="1" Volume="1998" Year="1998">
+<Book Series="Starman: The Mist" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="25380" Issue="149831" />
 </Book>
 <Book Series="Azrael" Number="35" Volume="1995" Year="1997">
@@ -651,7 +651,7 @@
 <Book Series="Starman" Number="53" Volume="1994" Year="1999">
 <Database Name="cv" Series="5259" Issue="78367" />
 </Book>
-<Book Series="The New Gods Secret Files and Origins" Number="1" Volume="1998" Year="1998">
+<Book Series="New Gods Secret Files" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="30838" Issue="190562" />
 </Book>
 <Book Series="Superman: Peace on Earth" Number="1" Volume="1999" Year="1999">
@@ -993,7 +993,7 @@
 <Book Series="A. Bizarro" Number="4" Volume="1999" Year="1999">
 <Database Name="cv" Series="6307" Issue="46042" />
 </Book>
-<Book Series="JLA/JSA Secret Files &#38; Origins" Number="1" Volume="2003" Year="2003">
+<Book Series="JLA/JSA Secret Files &amp; Origins" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="28479" Issue="175485" />
 </Book>
 <Book Series="JSA" Number="1" Volume="1999" Year="1999">
@@ -1056,16 +1056,16 @@
 <Book Series="JSA" Number="10" Volume="1999" Year="2000">
 <Database Name="cv" Series="6331" Issue="46354" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="1" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73301" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="2" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="2" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73302" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="3" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="3" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73303" />
 </Book>
-<Book Series="The Trenchcoat Brigade" Number="4" Volume="1999" Year="1999">
+<Book Series="Trenchcoat Brigade" Number="4" Volume="1999" Year="1999">
 <Database Name="cv" Series="9260" Issue="73304" />
 </Book>
 <Book Series="Martian Manhunter" Number="13" Volume="1998" Year="1999">
@@ -1869,7 +1869,7 @@
 <Book Series="Wonder Woman" Number="170" Volume="1987" Year="2001">
 <Database Name="cv" Series="3824" Issue="53561" />
 </Book>
-<Book Series="Batman: Scarface -- A Psychodrama" Number="1" Volume="2001" Year="2001">
+<Book Series="Batman/Scarface: A Psychodrama" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="25423" Issue="150024" />
 </Book>
 <Book Series="Action Comics" Number="775" Volume="1938" Year="2001">

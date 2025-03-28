@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] New 52 Reading Order- New Part #3 (WEB-CBRO)</Name>
 <NumIssues>698</NumIssues>
@@ -93,19 +93,19 @@
 <Book Series="Detective Comics" Number="26" Volume="2011" Year="2014">
 <Database Name="cv" Series="42594" Issue="435540" />
 </Book>
-<Book Series="All-Star Western" Number="24" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="24" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="430717" />
 </Book>
-<Book Series="All-Star Western" Number="25" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="25" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="434994" />
 </Book>
-<Book Series="All-Star Western" Number="26" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="26" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="440202" />
 </Book>
-<Book Series="All-Star Western" Number="27" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="27" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="443947" />
 </Book>
-<Book Series="All-Star Western" Number="28" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="28" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="446425" />
 </Book>
 <Book Series="Justice League" Number="23.3" Volume="2011" Year="2013">

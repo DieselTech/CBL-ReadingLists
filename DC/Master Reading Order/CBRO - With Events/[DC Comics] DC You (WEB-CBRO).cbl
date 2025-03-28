@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC You (WEB-CBRO)</Name>
 <NumIssues>620</NumIssues>
@@ -102,7 +102,7 @@
 <Book Series="Harley Quinn" Number="19" Volume="2013" Year="2015">
 <Database Name="cv" Series="69322" Issue="498366" />
 </Book>
-<Book Series="Harley Quinn Road Trip Special" Number="1" Volume="2015" Year="2015">
+<Book Series="Harley Quinn: Road Trip Special" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="84427" Issue="499725" />
 </Book>
 <Book Series="Harley Quinn" Number="20" Volume="2013" Year="2015">
@@ -621,22 +621,22 @@
 <Book Series="Catwoman" Number="41" Volume="2011" Year="2015">
 <Database Name="cv" Series="42722" Issue="491470" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="1" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="493004" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="2" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="495248" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="3" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="497915" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="4" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="500271" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="5" Volume="2015" Year="2015">
+<Book Series="Green Lantern: Lost Army" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="82860" Issue="503534" />
 </Book>
-<Book Series="Green Lantern: The Lost Army" Number="6" Volume="2015" Year="2016">
+<Book Series="Green Lantern: Lost Army" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="82860" Issue="506148" />
 </Book>
 <Book Series="Superman/Wonder Woman Annual" Number="2" Volume="2014" Year="2016">
@@ -1113,79 +1113,79 @@
 <Book Series="New Suicide Squad" Number="16" Volume="2014" Year="2016">
 <Database Name="cv" Series="75537" Issue="510921" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="1" Volume="2015" Year="2015">
+<Book Series="Batman &amp; Robin Eternal" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="85080" Issue="502079" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="2" Volume="2015" Year="2015">
+<Book Series="Batman &amp; Robin Eternal" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="85080" Issue="502826" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="3" Volume="2015" Year="2015">
+<Book Series="Batman &amp; Robin Eternal" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="85080" Issue="503523" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="4" Volume="2015" Year="2015">
+<Book Series="Batman &amp; Robin Eternal" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="85080" Issue="504306" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="5" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="504907" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="6" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="505488" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="7" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="7" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="506137" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="8" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="8" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="506619" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="9" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="9" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="507142" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="10" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="10" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="507735" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="11" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="508398" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="12" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="12" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="508861" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="13" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="13" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="509676" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="14" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="14" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="510471" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="15" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="15" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="510908" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="16" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="16" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="511484" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="17" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="17" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="512389" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="18" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="18" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="513618" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="19" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="19" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="514394" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="20" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="20" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="516050" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="21" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="21" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="516916" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="22" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="22" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="517806" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="23" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="23" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="518823" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="24" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="24" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="520167" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="25" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="25" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="521302" />
 </Book>
 <Book Series="Secret Six" Number="7" Volume="2014" Year="2015">
@@ -1323,40 +1323,40 @@
 <Book Series="Gotham Academy Annual" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="93663" Issue="547254" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="1" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="512402" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="2" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="516935" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="3" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="521316" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="4" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="527122" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="5" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="531861" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="6" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="537221" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="1" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="92974" Issue="543732" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="2" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="92974" Issue="550335" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="3" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="92974" Issue="553932" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="4" Volume="2016" Year="2017">
+<Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="4" Volume="2016" Year="2017">
 <Database Name="cv" Series="92974" Issue="558401" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="5" Volume="2016" Year="2017">
+<Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="92974" Issue="569315" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: El Diablo &#38; Boomerang" Number="6" Volume="2016" Year="2017">
+<Book Series="Suicide Squad Most Wanted: El Diablo &amp; Boomerang" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="92974" Issue="576603" />
 </Book>
 <Book Series="Catwoman" Number="47" Volume="2011" Year="2016">
@@ -1476,7 +1476,7 @@
 <Book Series="Batman" Number="50" Volume="2011" Year="2016">
 <Database Name="cv" Series="42721" Issue="521301" />
 </Book>
-<Book Series="Batman &#38; Robin Eternal" Number="26" Volume="2015" Year="2016">
+<Book Series="Batman &amp; Robin Eternal" Number="26" Volume="2015" Year="2016">
 <Database Name="cv" Series="85080" Issue="522410" />
 </Book>
 <Book Series="Earth 2: Society" Number="8" Volume="2015" Year="2016">
@@ -1824,7 +1824,7 @@
 <Book Series="Justice League" Number="48" Volume="2011" Year="2016">
 <Database Name="cv" Series="42488" Issue="516928" />
 </Book>
-<Book Series="Justice League: Darkseid War Special" Number="1" Volume="2016" Year="2016">
+<Book Series="Justice League Darkseid War Special" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="89370" Issue="523228" />
 </Book>
 <Book Series="Justice League" Number="49" Volume="2011" Year="2016">

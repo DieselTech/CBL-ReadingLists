@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] New 52 Reading Order- New Part #1 (WEB-CBRO)</Name>
 <NumIssues>640</NumIssues>
@@ -84,85 +84,85 @@
 <Book Series="Frankenstein, Agent of S.H.A.D.E." Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="42793" Issue="356724" />
 </Book>
-<Book Series="All-Star Western" Number="1" Volume="2011" Year="2011">
+<Book Series="All Star Western" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="43019" Issue="293580" />
 </Book>
-<Book Series="All-Star Western" Number="2" Volume="2011" Year="2011">
+<Book Series="All Star Western" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="43019" Issue="299476" />
 </Book>
-<Book Series="All-Star Western" Number="3" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="303284" />
 </Book>
-<Book Series="All-Star Western" Number="4" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="308769" />
 </Book>
-<Book Series="All-Star Western" Number="5" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="312639" />
 </Book>
-<Book Series="All-Star Western" Number="6" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="316667" />
 </Book>
-<Book Series="All-Star Western" Number="7" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="7" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="324817" />
 </Book>
-<Book Series="All-Star Western" Number="8" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="333472" />
 </Book>
-<Book Series="All-Star Western" Number="9" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="336574" />
 </Book>
-<Book Series="All-Star Western" Number="10" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="10" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="342864" />
 </Book>
-<Book Series="All-Star Western" Number="11" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="347169" />
 </Book>
-<Book Series="All-Star Western" Number="12" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="352466" />
 </Book>
-<Book Series="All-Star Western" Number="0" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="358824" />
 </Book>
-<Book Series="All-Star Western" Number="13" Volume="2011" Year="2012">
+<Book Series="All Star Western" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="43019" Issue="363062" />
 </Book>
-<Book Series="All-Star Western" Number="14" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="14" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="370278" />
 </Book>
-<Book Series="All-Star Western" Number="15" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="15" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="376608" />
 </Book>
-<Book Series="All-Star Western" Number="16" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="16" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="382772" />
 </Book>
-<Book Series="All-Star Western" Number="17" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="17" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="388533" />
 </Book>
-<Book Series="All-Star Western" Number="18" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="395311" />
 </Book>
-<Book Series="All-Star Western" Number="19" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="19" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="398953" />
 </Book>
-<Book Series="All-Star Western" Number="20" Volume="2011" Year="2013">
+<Book Series="All Star Western" Number="20" Volume="2011" Year="2013">
 <Database Name="cv" Series="43019" Issue="404666" />
 </Book>
-<Book Series="All-Star Western" Number="29" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="29" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="448907" />
 </Book>
-<Book Series="All-Star Western" Number="30" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="30" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="451037" />
 </Book>
-<Book Series="All-Star Western" Number="31" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="31" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="454040" />
 </Book>
-<Book Series="All-Star Western" Number="32" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="32" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="457573" />
 </Book>
-<Book Series="All-Star Western" Number="33" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="33" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="460257" />
 </Book>
-<Book Series="All-Star Western" Number="34" Volume="2011" Year="2014">
+<Book Series="All Star Western" Number="34" Volume="2011" Year="2014">
 <Database Name="cv" Series="43019" Issue="463419" />
 </Book>
 <Book Series="Men of War" Number="8" Volume="2011" Year="2012">
@@ -363,19 +363,19 @@
 <Book Series="Green Arrow" Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="42598" Issue="355787" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="1" Volume="2011" Year="2011">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="43119" Issue="294136" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="2" Volume="2011" Year="2012">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="2" Volume="2011" Year="2012">
 <Database Name="cv" Series="43119" Issue="301539" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="3" Volume="2011" Year="2012">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="43119" Issue="305633" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="4" Volume="2011" Year="2012">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="43119" Issue="309364" />
 </Book>
-<Book Series="Penguin: Pain &#38; Prejudice" Number="5" Volume="2011" Year="2012">
+<Book Series="Penguin: Pain &amp; Prejudice" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="43119" Issue="314714" />
 </Book>
 <Book Series="Teen Titans" Number="0" Volume="2011" Year="2012">
@@ -474,19 +474,19 @@
 <Book Series="Blue Beetle" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="42970" Issue="302533" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="1" Volume="2011" Year="2011">
+<Book Series="Hawk &amp; Dove" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42556" Issue="291124" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="2" Volume="2011" Year="2011">
+<Book Series="Hawk &amp; Dove" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="42556" Issue="294058" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="3" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="301016" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="4" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="305590" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="5" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="309358" />
 </Book>
 <Book Series="Huntress" Number="1" Volume="2011" Year="2011">
@@ -1779,13 +1779,13 @@
 <Book Series="Earth 2" Number="7" Volume="2012" Year="2013">
 <Database Name="cv" Series="48505" Issue="371153" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="6" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="313686" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="7" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="7" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="319043" />
 </Book>
-<Book Series="Hawk &#38; Dove" Number="8" Volume="2011" Year="2012">
+<Book Series="Hawk &amp; Dove" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="42556" Issue="326840" />
 </Book>
 <Book Series="Worlds' Finest" Number="1" Volume="2012" Year="2012">

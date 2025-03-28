@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #07 (WEB-CBRO)</Name>
 <NumIssues>497</NumIssues>
@@ -1272,10 +1272,10 @@
 <Book Series="Adventure Comics" Number="520" Volume="2009" Year="2011">
 <Database Name="cv" Series="25643" Issue="240921" />
 </Book>
-<Book Series="Batman, Incorporated" Number="1" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="244606" />
 </Book>
-<Book Series="Batman, Incorporated" Number="2" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="250156" />
 </Book>
 <Book Series="Detective Comics Annual" Number="12" Volume="1988" Year="2011">
@@ -1284,22 +1284,22 @@
 <Book Series="Batman Annual" Number="28" Volume="1961" Year="2011">
 <Database Name="cv" Series="3109" Issue="250640" />
 </Book>
-<Book Series="Batman, Incorporated" Number="3" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="265348" />
 </Book>
-<Book Series="Batman, Incorporated" Number="4" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="266501" />
 </Book>
-<Book Series="Batman, Incorporated" Number="5" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="268976" />
 </Book>
-<Book Series="Batman, Incorporated" Number="6" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="6" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="269826" />
 </Book>
-<Book Series="Batman, Incorporated" Number="7" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="7" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="276535" />
 </Book>
-<Book Series="Batman, Incorporated" Number="8" Volume="2011" Year="2011">
+<Book Series="Batman Incorporated" Number="8" Volume="2011" Year="2011">
 <Database Name="cv" Series="36705" Issue="288416" />
 </Book>
 <Book Series="Red Robin" Number="23" Volume="2009" Year="2011">

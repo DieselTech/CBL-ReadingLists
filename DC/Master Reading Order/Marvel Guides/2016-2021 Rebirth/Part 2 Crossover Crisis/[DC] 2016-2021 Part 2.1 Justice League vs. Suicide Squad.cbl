@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] 2016-2021 Part 2.1 Justice League vs. Suicide Squad</Name>
 <NumIssues>80</NumIssues>
@@ -27,22 +27,22 @@
 <Book Series="Batman" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="91273" Issue="576585" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="1" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="512402" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="2" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="516935" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="3" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="521316" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="4" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="527122" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="5" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="531861" />
 </Book>
-<Book Series="Suicide Squad Most Wanted: Deadshot and Katana" Number="6" Volume="2016" Year="2016">
+<Book Series="Suicide Squad Most Wanted: Deadshot &amp; Katana" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="87635" Issue="537221" />
 </Book>
 <Book Series="Justice League vs. Suicide Squad" Number="1" Volume="2016" Year="2017">
@@ -159,16 +159,16 @@
 <Book Series="Green Lanterns" Number="32" Volume="2016" Year="2017">
 <Database Name="cv" Series="91285" Issue="626257" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="22" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="22" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="601763" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="23" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="23" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="605060" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="24" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="24" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="608180" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="25" Volume="2016" Year="2017">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="25" Volume="2016" Year="2017">
 <Database Name="cv" Series="92557" Issue="610466" />
 </Book>
 <Book Series="Suicide Squad" Number="11" Volume="2016" Year="2017">

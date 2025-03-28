@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #03 (WEB-CBRO)</Name>
 <NumIssues>1072</NumIssues>
@@ -132,7 +132,7 @@
 <Book Series="Legion of Super-Heroes" Number="24" Volume="1989" Year="1991">
 <Database Name="cv" Series="4201" Issue="34969" />
 </Book>
-<Book Series="The Legion of Super-Heroes Annual" Number="2" Volume="1990" Year="1991">
+<Book Series="Legion of Super-Heroes Annual" Number="2" Volume="1990" Year="1991">
 <Database Name="cv" Series="4371" Issue="35056" />
 </Book>
 <Book Series="Green Arrow" Number="44" Volume="1988" Year="1991">
@@ -1584,7 +1584,7 @@
 <Book Series="Action Comics Annual" Number="5" Volume="1987" Year="1993">
 <Database Name="cv" Series="3776" Issue="36643" />
 </Book>
-<Book Series="The Legion of Super-Heroes Annual" Number="4" Volume="1990" Year="1993">
+<Book Series="Legion of Super-Heroes Annual" Number="4" Volume="1990" Year="1993">
 <Database Name="cv" Series="4371" Issue="38317" />
 </Book>
 <Book Series="Green Arrow Annual" Number="6" Volume="1988" Year="1993">
@@ -2931,7 +2931,7 @@
 <Book Series="Green Lantern" Number="80" Volume="1990" Year="1996">
 <Database Name="cv" Series="4363" Issue="42956" />
 </Book>
-<Book Series="The Power of Shazam!" Number="20" Volume="1995" Year="1996">
+<Book Series="The Power of SHAZAM!" Number="20" Volume="1995" Year="1996">
 <Database Name="cv" Series="5515" Issue="42962" />
 </Book>
 <Book Series="Sovereign Seven" Number="16" Volume="1995" Year="1996">
