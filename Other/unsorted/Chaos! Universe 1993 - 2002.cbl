@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Chaos Universe</Name>
 <NumIssues>248</NumIssues>
@@ -66,7 +66,7 @@
 <Book Series="Lady Death: Between Heaven and Hell" Number="4" Volume="1995" Year="1995">
 <Database Name="cv" Series="20024" Issue="119685" />
 </Book>
-<Book Series="Chaos Quarterly" Number="1" Volume="1995" Year="1995">
+<Book Series="Chaos! Quarterly" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="20638" Issue="123706" />
 </Book>
 <Book Series="Evil Ernie: Straight to Hell" Number="1" Volume="1995" Year="1995">
@@ -84,7 +84,7 @@
 <Book Series="Evil Ernie: Straight to Hell" Number="5" Volume="1995" Year="1996">
 <Database Name="cv" Series="19386" Issue="116217" />
 </Book>
-<Book Series="Chaos Quarterly" Number="2" Volume="1995" Year="1996">
+<Book Series="Chaos! Quarterly" Number="2" Volume="1995" Year="1996">
 <Database Name="cv" Series="20638" Issue="123741" />
 </Book>
 <Book Series="Lady Death: The Odyssey" Number="1" Volume="1996" Year="1996">
@@ -99,7 +99,7 @@
 <Book Series="Lady Death: The Odyssey" Number="4" Volume="1996" Year="1996">
 <Database Name="cv" Series="20761" Issue="124506" />
 </Book>
-<Book Series="Chaos Quarterly" Number="3" Volume="1995" Year="1996">
+<Book Series="Chaos! Quarterly" Number="3" Volume="1995" Year="1996">
 <Database Name="cv" Series="20638" Issue="123742" />
 </Book>
 <Book Series="Purgatori: The Vampires Myth" Number="1" Volume="1996" Year="1996">
@@ -120,13 +120,13 @@
 <Book Series="Lady Death / Vampirella" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="20723" Issue="124262" />
 </Book>
-<Book Series="Vampirella: Death &#38; Destruction" Number="1" Volume="1996" Year="1996">
+<Book Series="Vampirella: Death &amp; Destruction" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="19796" Issue="123632" />
 </Book>
-<Book Series="Vampirella: Death &#38; Destruction" Number="2" Volume="1996" Year="1996">
+<Book Series="Vampirella: Death &amp; Destruction" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="19796" Issue="118812" />
 </Book>
-<Book Series="Vampirella: Death &#38; Destruction" Number="3" Volume="1996" Year="1996">
+<Book Series="Vampirella: Death &amp; Destruction" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="19796" Issue="123633" />
 </Book>
 <Book Series="Vampirella: Blood Lust" Number="1" Volume="1998" Year="1997">
@@ -159,16 +159,16 @@
 <Book Series="Chastity: Theatre of Pain" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="19427" Issue="116398" />
 </Book>
-<Book Series="Suspira" Number="1" Volume="1997" Year="1997">
+<Book Series="Suspira: The Great Working" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="21202" Issue="127484" />
 </Book>
-<Book Series="Suspira" Number="2" Volume="1997" Year="1997">
+<Book Series="Suspira: The Great Working" Number="2" Volume="1997" Year="1997">
 <Database Name="cv" Series="21202" Issue="127494" />
 </Book>
-<Book Series="Suspira" Number="3" Volume="1997" Year="1997">
+<Book Series="Suspira: The Great Working" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="21202" Issue="127495" />
 </Book>
-<Book Series="Suspira" Number="4" Volume="1997" Year="1997">
+<Book Series="Suspira: The Great Working" Number="4" Volume="1997" Year="1997">
 <Database Name="cv" Series="21202" Issue="127496" />
 </Book>
 <Book Series="Purgatori: The Dracula Gambit" Number="1" Volume="1997" Year="1997">
@@ -523,7 +523,7 @@
 <Database Name="cv" Series="20674" Issue="123949" />
 </Book>
 <Book Series="Bedlam" Number="1" Volume="2000" Year="2000">
-<Database Name="cv" Series="1864" Issue="20645" />
+<Database Name="cv" Series="20645" Issue="123751" />
 </Book>
 <Book Series="Chastity: Reign of Terror" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="20913" Issue="125278" />
@@ -732,7 +732,7 @@
 <Book Series="Lady Death: Re-Imagined" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="20731" Issue="124287" />
 </Book>
-<Book Series="Purgatori: re-Imagined" Number="1" Volume="2002" Year="2002">
+<Book Series="Purgatori: Re-Imagined" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="20695" Issue="124068" />
 </Book>
 <Book Series="Chastity: Re-imagined" Number="1" Volume="2002" Year="2002">
