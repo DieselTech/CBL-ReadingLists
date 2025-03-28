@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Flash (CBRO)</Name>
 <NumIssues>410</NumIssues>
@@ -144,7 +144,7 @@
 <Book Series="Crisis on Infinite Earths" Number="4" Volume="1985" Year="1985">
 <Database Name="cv" Series="3441" Issue="25638" />
 </Book>
-<Book Series="Legends of the DC Universe: Crisis on Infinite Earths" Number="1" Volume="1999" Year="1999">
+<Book Series="Legends of the DCU: Crisis on Infinite Earths" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="25595" Issue="150946" />
 </Book>
 <Book Series="Crisis on Infinite Earths" Number="5" Volume="1985" Year="1985">
@@ -675,13 +675,13 @@
 <Book Series="Flashpoint: Grodd of War" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="40691" Issue="274392" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="1" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="274391" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="2" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="279962" />
 </Book>
-<Book Series="Flashpoint: Legion of Doom" Number="3" Volume="2011" Year="2011">
+<Book Series="Flashpoint: The Legion of Doom" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="40689" Issue="286682" />
 </Book>
 <Book Series="Flashpoint: Abin Sur - The Green Lantern" Number="1" Volume="2011" Year="2011">
