@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] [2000-2011] Flash by Geoff Johns</Name>
 <NumIssues>97</NumIssues>
@@ -45,10 +45,10 @@
 <Book Series="Flash: Iron Heights" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="21920" Issue="132157" />
 </Book>
-<Book Series="The Flash: Our Worlds at War" Number="1" Volume="2001" Year="2001">
+<Book Series="Flash: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="30757" Issue="189894" />
 </Book>
-<Book Series="The Flash: Secret Files and Origins 2010" Number="3" Volume="2010" Year="2001">
+<Book Series="Flash Secret Files" Number="3" Volume="2010" Year="2001">
 <Database Name="cv" Series="23376" Issue="140291" />
 </Book>
 <Book Series="The Flash" Number="177" Volume="1987" Year="2001">

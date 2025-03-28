@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] [1999-2009] JSA by Geoff Johns</Name>
 <NumIssues>149</NumIssues>
@@ -36,7 +36,7 @@
 <Book Series="JSA" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="6331" Issue="45955" />
 </Book>
-<Book Series="Secret Origins of Super Villains" Number="1" Volume="1999" Year="1999">
+<Book Series="Secret Origins of Super-Villains 80-Page Giant" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="18873" Issue="111563" />
 </Book>
 <Book Series="JSA" Number="2" Volume="1999" Year="1999">
@@ -159,7 +159,7 @@
 <Book Series="JSA" Number="38" Volume="1999" Year="2002">
 <Database Name="cv" Series="6331" Issue="129903" />
 </Book>
-<Book Series="JLA/JSA Secret Files &#38; Origins" Number="1" Volume="2003" Year="2003">
+<Book Series="JLA/JSA Secret Files &amp; Origins" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="28479" Issue="175485" />
 </Book>
 <Book Series="JLA/JSA: Virtue and Vice" Number="1" Volume="2002" Year="2003">
