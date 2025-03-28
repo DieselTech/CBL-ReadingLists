@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #13 (WEB-CBRO)</Name>
-<NumIssues>796</NumIssues>
+<NumIssues>794</NumIssues>
 <Books>
 <Book Series="Marvel's Voices: Legacy" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="134052" Issue="830030" />
@@ -2217,9 +2217,6 @@
 <Book Series="Daredevil &amp; Echo" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="150603" Issue="1010045" />
 </Book>
-<Book Series="Free Comic Book Day 2023: Avengers/X-Men" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="150031" Issue="987190" />
-</Book>
 <Book Series="Free Comic Book Day 2023: Spider-Man/Venom" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150032" Issue="987194" />
 </Book>
@@ -2240,9 +2237,6 @@
 </Book>
 <Book Series="Spider-Man 2099: Dark Genesis" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="150027" Issue="992290" />
-</Book>
-<Book Series="Marvel's Voices: Pride" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="151966" Issue="999054" />
 </Book>
 <Book Series="Venom" Number="17" Volume="2021" Year="2023">
 <Database Name="cv" Series="140084" Issue="974097" />
