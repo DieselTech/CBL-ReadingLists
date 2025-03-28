@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 08 New Gotham [2000-2016]</Name>
 <NumIssues>124</NumIssues>
@@ -252,7 +252,7 @@
 <Book Series="Batman: Room Full of Strangers" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="34994" Issue="230557" />
 </Book>
-<Book Series="Batman: 80-Page Giant 2010" Number="1" Volume="2011" Year="2011">
+<Book Series="Batman 80-Page Giant 2010" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="37100" Issue="247472" />
 </Book>
 <Book Series="Batman" Number="588" Volume="1940" Year="2001">

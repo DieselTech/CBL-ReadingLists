@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 09 Bruce Wayne, Fugitive [1999-2006]</Name>
 <NumIssues>167</NumIssues>
@@ -485,7 +485,7 @@
 <Book Series="Catwoman" Number="24" Volume="2002" Year="2003">
 <Database Name="cv" Series="7328" Issue="109422" />
 </Book>
-<Book Series="Catwoman Secret Files and Origins" Number="1" Volume="2002" Year="2002">
+<Book Series="Catwoman Secret Files And Origins" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="34614" Issue="226592" />
 </Book>
 <Book Series="Gotham Central" Number="12" Volume="2003" Year="2003">

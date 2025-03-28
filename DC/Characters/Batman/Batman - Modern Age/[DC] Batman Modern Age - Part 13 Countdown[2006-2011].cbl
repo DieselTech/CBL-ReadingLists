@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 13 Countdown[2006-2011]</Name>
 <NumIssues>259</NumIssues>
@@ -411,7 +411,7 @@
 <Book Series="Joker's Asylum: Scarecrow" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="33803" Issue="219770" />
 </Book>
-<Book Series="Joker's Asylum: TWo-Face" Number="1" Volume="2008" Year="2008">
+<Book Series="Joker's Asylum: Two-Face" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22402" Issue="134589" />
 </Book>
 <Book Series="Nightwing" Number="133" Volume="1996" Year="2007">

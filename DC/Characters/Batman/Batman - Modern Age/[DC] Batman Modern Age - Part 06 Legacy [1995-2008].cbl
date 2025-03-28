@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 06 Legacy [1995-2008]</Name>
 <NumIssues>135</NumIssues>
@@ -102,16 +102,16 @@
 <Book Series="Batman: The Chalice" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="25619" Issue="151026" />
 </Book>
-<Book Series="Batman: Black and White" Number="1" Volume="1996" Year="1996">
+<Book Series="Batman Black and White" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="5729" Issue="42460" />
 </Book>
-<Book Series="Batman: Black and White" Number="2" Volume="1996" Year="1996">
+<Book Series="Batman Black and White" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="5729" Issue="42570" />
 </Book>
-<Book Series="Batman: Black and White" Number="3" Volume="1996" Year="1996">
+<Book Series="Batman Black and White" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="5729" Issue="42668" />
 </Book>
-<Book Series="Batman: Black and White" Number="4" Volume="1996" Year="1996">
+<Book Series="Batman Black and White" Number="4" Volume="1996" Year="1996">
 <Database Name="cv" Series="5729" Issue="42768" />
 </Book>
 <Book Series="Batman: Shadow of the Bat" Number="48" Volume="1992" Year="1996">
