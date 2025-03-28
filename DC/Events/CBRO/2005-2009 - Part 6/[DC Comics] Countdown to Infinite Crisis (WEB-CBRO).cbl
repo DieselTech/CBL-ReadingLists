@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Countdown to Infinite Crisis (WEB-CBRO)</Name>
 <NumIssues>254</NumIssues>
@@ -471,7 +471,7 @@
 <Book Series="Nightwing" Number="115" Volume="1996" Year="2006">
 <Database Name="cv" Series="5755" Issue="120306" />
 </Book>
-<Book Series="JSA Classified" Number="1" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="106159" />
 </Book>
 <Book Series="JSA" Number="76" Volume="1999" Year="2005">
@@ -678,13 +678,13 @@
 <Book Series="Catwoman" Number="51" Volume="2002" Year="2006">
 <Database Name="cv" Series="7328" Issue="109242" />
 </Book>
-<Book Series="JSA Classified" Number="5" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="5" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126496" />
 </Book>
-<Book Series="JSA Classified" Number="6" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="6" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126497" />
 </Book>
-<Book Series="JSA Classified" Number="7" Volume="2005" Year="2006">
+<Book Series="JSA: Classified" Number="7" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126499" />
 </Book>
 <Book Series="Hawkman" Number="46" Volume="2002" Year="2006">
@@ -729,10 +729,10 @@
 <Book Series="JSA" Number="77" Volume="1999" Year="2005">
 <Database Name="cv" Series="6331" Issue="99199" />
 </Book>
-<Book Series="JSA Classified" Number="2" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="110710" />
 </Book>
-<Book Series="JSA Classified" Number="3" Volume="2005" Year="2005">
+<Book Series="JSA: Classified" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="18120" Issue="110711" />
 </Book>
 <Book Series="Adventures of Superman" Number="645" Volume="1987" Year="2005">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Bloodlines (WEB-CBRO)</Name>
 <NumIssues>25</NumIssues>
@@ -36,7 +36,7 @@
 <Book Series="Action Comics Annual" Number="5" Volume="1987" Year="1993">
 <Database Name="cv" Series="3776" Issue="36643" />
 </Book>
-<Book Series="The Legion of Super-Heroes Annual" Number="4" Volume="1990" Year="1993">
+<Book Series="Legion of Super-Heroes Annual" Number="4" Volume="1990" Year="1993">
 <Database Name="cv" Series="4371" Issue="38317" />
 </Book>
 <Book Series="Green Arrow Annual" Number="6" Volume="1988" Year="1993">
@@ -60,7 +60,7 @@
 <Book Series="Eclipso Annual" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="27259" Issue="166127" />
 </Book>
-<Book Series="Demon Annual" Number="2" Volume="1992" Year="1993">
+<Book Series="The Demon Annual" Number="2" Volume="1992" Year="1993">
 <Database Name="cv" Series="18553" Issue="109292" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight Annual" Number="3" Volume="1993" Year="1993">
@@ -72,10 +72,10 @@
 <Book Series="L.E.G.I.O.N. Annual" Number="4" Volume="1990" Year="1993">
 <Database Name="cv" Series="23015" Issue="138783" />
 </Book>
-<Book Series="Bloodbath Special" Number="1" Volume="1993" Year="1993">
+<Book Series="Bloodbath" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="4954" Issue="38194" />
 </Book>
-<Book Series="Bloodbath Special" Number="2" Volume="1993" Year="1993">
+<Book Series="Bloodbath" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="4954" Issue="38312" />
 </Book>
 </Books>

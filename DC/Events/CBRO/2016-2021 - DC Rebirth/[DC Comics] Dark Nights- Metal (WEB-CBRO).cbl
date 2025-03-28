@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Dark Nights- Metal (WEB-CBRO)</Name>
 <NumIssues>26</NumIssues>
@@ -54,7 +54,7 @@
 <Book Series="Justice League" Number="32" Volume="2016" Year="2018">
 <Database Name="cv" Series="92373" Issue="634517" />
 </Book>
-<Book Series="Hal Jordan and the Green Lantern Corps" Number="32" Volume="2016" Year="2018">
+<Book Series="Hal Jordan &amp; The Green Lantern Corps" Number="32" Volume="2016" Year="2018">
 <Database Name="cv" Series="92557" Issue="636345" />
 </Book>
 <Book Series="Justice League" Number="33" Volume="2016" Year="2018">

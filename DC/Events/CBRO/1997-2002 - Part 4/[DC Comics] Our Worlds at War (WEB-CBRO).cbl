@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Our Worlds at War (WEB-CBRO)</Name>
 <NumIssues>41</NumIssues>
@@ -33,7 +33,7 @@
 <Book Series="Supergirl" Number="59" Volume="1996" Year="2001">
 <Database Name="cv" Series="5766" Issue="76600" />
 </Book>
-<Book Series="Superman: Our Worlds at War Secret Files &#38; Origins" Number="1" Volume="2001" Year="2001">
+<Book Series="Superman: Our Worlds at War Secret Files" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="26406" Issue="157428" />
 </Book>
 <Book Series="Superman" Number="172" Volume="1987" Year="2001">
@@ -84,7 +84,7 @@
 <Book Series="Adventures of Superman" Number="595" Volume="1987" Year="2001">
 <Database Name="cv" Series="3778" Issue="89252" />
 </Book>
-<Book Series="The Flash: Our Worlds at War" Number="1" Volume="2001" Year="2001">
+<Book Series="Flash: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="30757" Issue="189894" />
 </Book>
 <Book Series="Impulse" Number="77" Volume="1995" Year="2001">

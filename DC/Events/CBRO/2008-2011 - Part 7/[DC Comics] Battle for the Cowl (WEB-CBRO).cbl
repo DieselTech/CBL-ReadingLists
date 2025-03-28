@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Battle for the Cowl (WEB-CBRO)</Name>
 <NumIssues>17</NumIssues>
 <Books>
-<Book Series="Gotham Gazette: Batman Dead?" Number="1" Volume="2009" Year="2009">
+<Book Series="Gotham Gazette" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25903" Issue="153071" />
 </Book>
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
