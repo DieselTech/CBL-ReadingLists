@@ -1,639 +1,640 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Justice League 5 (2006)</Name>
+  <Name>Justice League 005 (2006)</Name>
+  <NumIssues>211</NumIssues>
   <Books>
-    <Book Series="Justice League of America" Number="0" Volume="2006" Year="2006" Format="Main Series">
-      <Id>d17b1b62-ebd5-43ab-a908-bc0af3bff570</Id>
+    <Book Series="Justice League of America" Number="0" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18127" Issue="106236" />
     </Book>
-    <Book Series="Justice League of America" Number="1" Volume="2006" Year="2006" Format="Main Series">
-      <Id>83e806c2-d627-4dcc-a43a-c961c58029b3</Id>
+    <Book Series="Justice League of America" Number="1" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18127" Issue="106199" />
     </Book>
-    <Book Series="Justice League of America" Number="2" Volume="2006" Year="2006" Format="Main Series">
-      <Id>63e302c0-45cb-40af-80e8-0edc95f392a1</Id>
+    <Book Series="Justice League of America" Number="2" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18127" Issue="106237" />
     </Book>
-    <Book Series="Justice League of America" Number="3" Volume="2006" Year="2006" Format="Main Series">
-      <Id>2e284a8d-3a22-464f-9cba-20ab2e335f0f</Id>
+    <Book Series="Justice League of America" Number="3" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18127" Issue="106238" />
     </Book>
-    <Book Series="Justice League of America" Number="4" Volume="2006" Year="2007" Format="Main Series">
-      <Id>479e7194-ae20-45cf-8cbb-d9d98e980705</Id>
+    <Book Series="Justice League of America" Number="4" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="106239" />
     </Book>
-    <Book Series="Justice League of America" Number="5" Volume="2006" Year="2007" Format="Main Series">
-      <Id>da201b67-d9b9-420e-a955-096ca2ad455a</Id>
+    <Book Series="Justice League of America" Number="5" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="106202" />
     </Book>
-    <Book Series="Justice League of America" Number="6" Volume="2006" Year="2007" Format="Main Series">
-      <Id>db640a46-db08-4e4f-ae54-fa636206ac99</Id>
+    <Book Series="Justice League of America" Number="6" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="106808" />
     </Book>
-    <Book Series="Justice League of America" Number="7" Volume="2006" Year="2007" Format="Main Series">
-      <Id>67c7fae5-c8b0-4d8a-889f-a2172393cf29</Id>
+    <Book Series="Justice League of America" Number="7" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="107994" />
     </Book>
-    <Book Series="Justice League of America" Number="8" Volume="2006" Year="2007" Format="Main Series">
-      <Id>a591e804-a623-4e33-9838-0993adb1bc3e</Id>
+    <Book Series="Justice League of America" Number="8" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="108582" />
     </Book>
-    <Book Series="Countdown to Final Crisis" Number="48" Volume="2007" Year="2007" Format="Crossover">
-      <Id>b0fee982-1268-41eb-84a9-ffb5b0f54d53</Id>
+    <Book Series="Countdown" Number="48" Volume="2007" Year="2007">
+      <Database Name="cv" Series="18564" Issue="110058" />
     </Book>
-    <Book Series="Justice Society of America" Number="5" Volume="2007" Year="2007" Format="Main Series">
-      <Id>acc631e7-7827-4f66-bcfb-c7fc91d8d6da</Id>
+    <Book Series="Justice Society of America" Number="5" Volume="2007" Year="2007">
+      <Database Name="cv" Series="18052" Issue="108757" />
     </Book>
-    <Book Series="Countdown to Final Crisis" Number="46" Volume="2007" Year="2007" Format="Crossover">
-      <Id>4f611a2a-d38f-468f-98b0-e3f59cdb04ef</Id>
+    <Book Series="Countdown" Number="46" Volume="2007" Year="2007">
+      <Database Name="cv" Series="18564" Issue="110440" />
     </Book>
-    <Book Series="Countdown to Final Crisis" Number="45" Volume="2007" Year="2007" Format="Crossover">
-      <Id>99a2a807-3ba2-4fc1-ac8d-ddeb07268c35</Id>
+    <Book Series="Countdown" Number="45" Volume="2007" Year="2007">
+      <Database Name="cv" Series="18564" Issue="110670" />
     </Book>
-    <Book Series="Countdown to Final Crisis" Number="47" Volume="2007" Year="2007" Format="Crossover">
-      <Id>872e5e29-aa2b-47c3-8606-8491846de010</Id>
+    <Book Series="Countdown" Number="47" Volume="2007" Year="2007">
+      <Database Name="cv" Series="18564" Issue="110277" />
     </Book>
-    <Book Series="Justice League of America" Number="9" Volume="2006" Year="2007" Format="Main Series">
-      <Id>394130f8-6d9b-42e8-a60e-5b6f70e976a4</Id>
+    <Book Series="Justice League of America" Number="9" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="109605" />
     </Book>
-    <Book Series="Justice Society of America" Number="6" Volume="2007" Year="2007" Format="Main Series">
-      <Id>527ae21f-4ba5-48d5-aa7d-83175a582264</Id>
+    <Book Series="Justice Society of America" Number="6" Volume="2007" Year="2007">
+      <Database Name="cv" Series="18052" Issue="110060" />
     </Book>
-    <Book Series="Justice League of America" Number="10" Volume="2006" Year="2007" Format="Main Series">
-      <Id>55e24ed1-98b8-48d8-bb9c-79e7cc762018</Id>
+    <Book Series="Justice League of America" Number="10" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="110767" />
     </Book>
-    <Book Series="Justice League of America" Number="11" Volume="2006" Year="2007" Format="Main Series">
-      <Id>a5c4f045-5ca0-423f-9739-141fb7810aab</Id>
+    <Book Series="Justice League of America" Number="11" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="111707" />
     </Book>
-    <Book Series="Justice League of America" Number="12" Volume="2006" Year="2007" Format="Main Series">
-      <Id>4e82d12f-4c86-4d07-b75b-e814d4b85313</Id>
+    <Book Series="Justice League of America" Number="12" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="113544" />
     </Book>
     <Book Series="Booster Gold" Number="1" Volume="2007" Year="2007">
-      <Id>eadcf5bf-db00-4f50-9fc3-ed7d81a61947</Id>
+      <Database Name="cv" Series="19025" Issue="113547" />
     </Book>
-    <Book Series="Justice League of America Wedding Special" Number="1" Volume="2007" Year="2007" Format="One-Shot">
-      <Id>0e1a2faf-f523-405d-9bf8-c0431e5b4a14</Id>
+    <Book Series="Justice League Wedding Special" Number="1" Volume="2007" Year="2007">
+      <Database Name="cv" Series="19134" Issue="114407" />
     </Book>
-    <Book Series="Countdown to Final Crisis" Number="32" Volume="2007" Year="2007" Format="Crossover">
-      <Id>ade7892c-b288-43e8-819e-aa7ada22f3cd</Id>
+    <Book Series="Countdown" Number="32" Volume="2007" Year="2007">
+      <Database Name="cv" Series="18564" Issue="114619" />
     </Book>
-    <Book Series="Green Arrow and Black Canary Wedding Special" Number="1" Volume="2007" Year="2007" Format="One-Shot">
-      <Id>a93177a8-4b9b-48d3-a3a7-ddc29a77ba90</Id>
+    <Book Series="Green Arrow/Black Canary Wedding Special" Number="1" Volume="2007" Year="2007">
+      <Database Name="cv" Series="19163" Issue="114650" />
     </Book>
-    <Book Series="Justice League of America" Number="13" Volume="2006" Year="2007" Format="Main Series">
-      <Id>8e88681c-ea89-4f16-bf21-fc769234e2e7</Id>
+    <Book Series="Justice League of America" Number="13" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="114953" />
     </Book>
-    <Book Series="Justice League of America" Number="14" Volume="2006" Year="2007" Format="Main Series">
-      <Id>308640ce-0f3d-4394-9848-0e416e39666b</Id>
+    <Book Series="Justice League of America" Number="14" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18127" Issue="115546" />
     </Book>
-    <Book Series="Justice League of America" Number="15" Volume="2006" Year="2008" Format="Main Series">
-      <Id>b38c6519-b7e6-4f7a-9137-590196fee4ce</Id>
+    <Book Series="Justice League of America" Number="15" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="119223" />
     </Book>
-    <Book Series="The Trials of Shazam!" Number="11" Volume="2006" Year="2008">
-      <Id>4a45d37f-e9ec-4fb1-94e5-fa0da9d5d2c6</Id>
+    <Book Series="The Trials Of Shazam!" Number="11" Volume="2007" Year="2008">
+      <Database Name="cv" Series="18200" Issue="122117" />
     </Book>
-    <Book Series="The Trials of Shazam!" Number="12" Volume="2006" Year="2008">
-      <Id>391bf883-4b25-4f89-a65c-8372b2649d0e</Id>
+    <Book Series="The Trials Of Shazam!" Number="12" Volume="2007" Year="2008">
+      <Database Name="cv" Series="18200" Issue="126373" />
     </Book>
-    <Book Series="Justice League of America" Number="16" Volume="2006" Year="2008" Format="Main Series">
-      <Id>efd84535-dce1-4aea-b12f-1b98e9777f8b</Id>
+    <Book Series="Justice League of America" Number="16" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="120245" />
     </Book>
-    <Book Series="Justice League of America" Number="17" Volume="2006" Year="2008" Format="Main Series">
-      <Id>95842295-7a09-4254-b1f1-d508cdf9df0c</Id>
+    <Book Series="Justice League of America" Number="17" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="121642" />
     </Book>
-    <Book Series="Justice League of America" Number="18" Volume="2006" Year="2008" Format="Main Series">
-      <Id>271c89ab-45fe-4cba-a4e5-0cf2cf00e605</Id>
+    <Book Series="Justice League of America" Number="18" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="123413" />
     </Book>
-    <Book Series="Justice League of America" Number="19" Volume="2006" Year="2008" Format="Main Series">
-      <Id>18bd8309-02c5-4a02-9cd6-ee6e7fe473de</Id>
+    <Book Series="Justice League of America" Number="19" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="125667" />
     </Book>
-    <Book Series="Justice League of America" Number="20" Volume="2006" Year="2008" Format="Main Series">
-      <Id>c2dee1df-764a-4118-80b6-6eebb26c2992</Id>
+    <Book Series="Justice League of America" Number="20" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="128217" />
     </Book>
-    <Book Series="Justice League of America" Number="21" Volume="2006" Year="2008" Format="Main Series">
-      <Id>125e0d3e-310e-45ea-94cd-f78d2e4a9509</Id>
+    <Book Series="Justice League of America" Number="21" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="130596" />
     </Book>
-    <Book Series="Final Crisis" Number="1" Volume="2008" Year="2008" Format="Crossover">
-      <Id>cb3e154e-fe56-471e-9886-f85337db896e</Id>
+    <Book Series="Final Crisis" Number="1" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21712" Issue="130994" />
     </Book>
-    <Book Series="Final Crisis: Requiem" Number="1" Volume="2008" Year="2008" Format="Crossover">
-      <Id>fb751351-d3cc-4604-9665-8a37bb7b6dd6</Id>
+    <Book Series="Final Crisis: Requiem" Number="1" Volume="2008" Year="2008">
+      <Database Name="cv" Series="22097" Issue="132930" />
     </Book>
-    <Book Series="DC Universe: Last Will And Testament" Number="1" Volume="2008" Year="2008" Format="Crossover">
-      <Id>e7864181-b1ad-4485-bd08-480dd3fdc8bf</Id>
+    <Book Series="DC Universe: Last Will And Testament" Number="1" Volume="2008" Year="2008">
+      <Database Name="cv" Series="22764" Issue="136536" />
     </Book>
-    <Book Series="Justice League of America" Number="22" Volume="2006" Year="2008" Format="Main Series">
-      <Id>be031086-8840-4ea9-9750-0e8337d9058a</Id>
+    <Book Series="Justice League of America" Number="22" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="131509" />
     </Book>
-    <Book Series="Justice League of America" Number="23" Volume="2006" Year="2008" Format="Main Series">
-      <Id>0f2ff639-d055-4006-b7a8-69300877c24a</Id>
+    <Book Series="Justice League of America" Number="23" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="134028" />
     </Book>
-    <Book Series="Justice League of America" Number="24" Volume="2006" Year="2008" Format="Main Series">
-      <Id>b07b6a27-b431-4c74-ab89-1e53092a83f0</Id>
+    <Book Series="Justice League of America" Number="24" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="135995" />
     </Book>
-    <Book Series="Justice League of America" Number="25" Volume="2006" Year="2008" Format="Main Series">
-      <Id>e9c7f78a-6acf-4d58-80d2-c462f3852b69</Id>
+    <Book Series="Justice League of America" Number="25" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="139669" />
     </Book>
-    <Book Series="Justice League of America" Number="26" Volume="2006" Year="2008" Format="Main Series">
-      <Id>701d6197-4fd1-4e2e-a284-1f0b17fb8300</Id>
+    <Book Series="Justice League of America" Number="26" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18127" Issue="141183" />
     </Book>
-    <Book Series="Trinity" Number="1" Volume="2008" Year="2008" Format="Main Series">
-      <Id>e8e3be82-fe5b-416e-a919-daadb66122e3</Id>
+    <Book Series="Trinity" Number="1" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="131320" />
     </Book>
-    <Book Series="Trinity" Number="2" Volume="2008" Year="2008" Format="Main Series">
-      <Id>7e8db58d-5608-46d8-936d-68c6bfc01f36</Id>
+    <Book Series="Trinity" Number="2" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="131401" />
     </Book>
-    <Book Series="Trinity" Number="3" Volume="2008" Year="2008" Format="Main Series">
-      <Id>f6dde19a-f447-4272-8594-85397d6ba706</Id>
+    <Book Series="Trinity" Number="3" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="131518" />
     </Book>
-    <Book Series="Trinity" Number="4" Volume="2008" Year="2008" Format="Main Series">
-      <Id>1af16f70-4ef5-4c2f-84c2-185de2d2eed1</Id>
+    <Book Series="Trinity" Number="4" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="131867" />
     </Book>
-    <Book Series="Trinity" Number="5" Volume="2008" Year="2008" Format="Main Series">
-      <Id>2d7ed5cb-465b-460a-af89-63b93612ad51</Id>
+    <Book Series="Trinity" Number="5" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="132209" />
     </Book>
-    <Book Series="Trinity" Number="6" Volume="2008" Year="2008" Format="Main Series">
-      <Id>26470ec9-b043-4c2c-8d08-e752bfa81ede</Id>
+    <Book Series="Trinity" Number="6" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="132961" />
     </Book>
-    <Book Series="Trinity" Number="7" Volume="2008" Year="2008" Format="Main Series">
-      <Id>fea45c71-7bb3-41c6-834e-700348cf626f</Id>
+    <Book Series="Trinity" Number="7" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="133641" />
     </Book>
-    <Book Series="Trinity" Number="8" Volume="2008" Year="2008" Format="Main Series">
-      <Id>5774c717-e594-4c46-9af6-28bfdb86aa59</Id>
+    <Book Series="Trinity" Number="8" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="134016" />
     </Book>
-    <Book Series="Trinity" Number="9" Volume="2008" Year="2008" Format="Main Series">
-      <Id>8359ecc2-70e5-4e82-9284-0529993dc458</Id>
+    <Book Series="Trinity" Number="9" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="134553" />
     </Book>
-    <Book Series="Trinity" Number="10" Volume="2008" Year="2008" Format="Main Series">
-      <Id>7d328307-0309-4d83-b4b6-e62cea1f8217</Id>
+    <Book Series="Trinity" Number="10" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="135055" />
     </Book>
-    <Book Series="Trinity" Number="11" Volume="2008" Year="2008" Format="Main Series">
-      <Id>8295072d-b800-4f04-b3df-f78e2e6304d8</Id>
+    <Book Series="Trinity" Number="11" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="135427" />
     </Book>
-    <Book Series="Trinity" Number="12" Volume="2008" Year="2008" Format="Main Series">
-      <Id>2baf94f4-99e2-4a9c-aa72-89691a43a446</Id>
+    <Book Series="Trinity" Number="12" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="135992" />
     </Book>
-    <Book Series="Trinity" Number="13" Volume="2008" Year="2008" Format="Main Series">
-      <Id>39249607-636d-44f8-827e-bac36863c167</Id>
+    <Book Series="Trinity" Number="13" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="136515" />
     </Book>
-    <Book Series="Trinity" Number="14" Volume="2008" Year="2008" Format="Main Series">
-      <Id>1a789c18-db56-4d3e-9e4e-be7ba22ab3ae</Id>
+    <Book Series="Trinity" Number="14" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="137349" />
     </Book>
-    <Book Series="Trinity" Number="15" Volume="2008" Year="2008" Format="Main Series">
-      <Id>2c131482-1a84-4545-a9a4-df66e68a1895</Id>
+    <Book Series="Trinity" Number="15" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="138219" />
     </Book>
-    <Book Series="Trinity" Number="16" Volume="2008" Year="2008" Format="Main Series">
-      <Id>259a1dcc-42be-41f8-a445-4cc63c40bfc6</Id>
+    <Book Series="Trinity" Number="16" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="139019" />
     </Book>
-    <Book Series="Trinity" Number="17" Volume="2008" Year="2008" Format="Main Series">
-      <Id>202f5058-b536-4ba1-b00c-fa538e31766d</Id>
+    <Book Series="Trinity" Number="17" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="139344" />
     </Book>
-    <Book Series="Trinity" Number="18" Volume="2008" Year="2008" Format="Main Series">
-      <Id>563bf116-9576-453a-b505-a043b99dc880</Id>
+    <Book Series="Trinity" Number="18" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="139677" />
     </Book>
-    <Book Series="Trinity" Number="19" Volume="2008" Year="2008" Format="Main Series">
-      <Id>434403c7-683a-42bf-a410-d963cbff57e7</Id>
+    <Book Series="Trinity" Number="19" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="140099" />
     </Book>
-    <Book Series="Trinity" Number="20" Volume="2008" Year="2008" Format="Main Series">
-      <Id>fb03ab8e-972e-4db9-83fe-1b76ffa0fc9a</Id>
+    <Book Series="Trinity" Number="20" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="140477" />
     </Book>
-    <Book Series="Trinity" Number="21" Volume="2008" Year="2008" Format="Main Series">
-      <Id>76811768-f442-418a-af31-508827831642</Id>
+    <Book Series="Trinity" Number="21" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="140888" />
     </Book>
-    <Book Series="Trinity" Number="22" Volume="2008" Year="2008" Format="Main Series">
-      <Id>06e5ac9c-7eac-4023-9509-23b46159448b</Id>
+    <Book Series="Trinity" Number="22" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="141193" />
     </Book>
-    <Book Series="Trinity" Number="23" Volume="2008" Year="2008" Format="Main Series">
-      <Id>6da6d24f-1ee6-4501-84fe-20b867c83640</Id>
+    <Book Series="Trinity" Number="23" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="141545" />
     </Book>
-    <Book Series="Trinity" Number="24" Volume="2008" Year="2008" Format="Main Series">
-      <Id>322867c0-b9f0-40ff-b058-579599ffa145</Id>
+    <Book Series="Trinity" Number="24" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="141992" />
     </Book>
-    <Book Series="Trinity" Number="25" Volume="2008" Year="2008" Format="Main Series">
-      <Id>b1dea64f-44a1-4e53-8889-c494a56501fb</Id>
+    <Book Series="Trinity" Number="25" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="142545" />
     </Book>
-    <Book Series="Trinity" Number="26" Volume="2008" Year="2008" Format="Main Series">
-      <Id>dbbda125-02e6-4e80-bff0-0b3c338496e4</Id>
+    <Book Series="Trinity" Number="26" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="143284" />
     </Book>
-    <Book Series="Trinity" Number="27" Volume="2008" Year="2008" Format="Main Series">
-      <Id>42d2895f-1519-4bb9-97e2-369843138421</Id>
+    <Book Series="Trinity" Number="27" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="144297" />
     </Book>
-    <Book Series="Trinity" Number="28" Volume="2008" Year="2008" Format="Main Series">
-      <Id>f771bfbe-f833-4ab8-991e-8ff3e2bc26af</Id>
+    <Book Series="Trinity" Number="28" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="145535" />
     </Book>
-    <Book Series="Trinity" Number="29" Volume="2008" Year="2008" Format="Main Series">
-      <Id>8136c6b5-a4e6-4689-bb30-439614728b9d</Id>
+    <Book Series="Trinity" Number="29" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="146870" />
     </Book>
-    <Book Series="Trinity" Number="30" Volume="2008" Year="2008" Format="Main Series">
-      <Id>f3bde363-d5db-4bc8-89de-2910aa5cbae8</Id>
+    <Book Series="Trinity" Number="30" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="148686" />
     </Book>
-    <Book Series="Trinity" Number="31" Volume="2008" Year="2008" Format="Main Series">
-      <Id>5e0158a2-0286-4823-8097-0726facdac99</Id>
+    <Book Series="Trinity" Number="31" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21777" Issue="149283" />
     </Book>
-    <Book Series="Trinity" Number="32" Volume="2008" Year="2009" Format="Main Series">
-      <Id>37ee11e5-90f7-4716-9c55-225a4a548ed3</Id>
+    <Book Series="Trinity" Number="32" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="149807" />
     </Book>
-    <Book Series="Trinity" Number="33" Volume="2008" Year="2009" Format="Main Series">
-      <Id>4831b301-4ea3-4745-b9fa-2bc1f3ae04f5</Id>
+    <Book Series="Trinity" Number="33" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="150059" />
     </Book>
-    <Book Series="Trinity" Number="34" Volume="2008" Year="2009" Format="Main Series">
-      <Id>89d7b557-0602-4397-bd2e-c5210404c676</Id>
+    <Book Series="Trinity" Number="34" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="150511" />
     </Book>
-    <Book Series="Trinity" Number="35" Volume="2008" Year="2009" Format="Main Series">
-      <Id>26ca4c30-bd8f-4a02-896a-f5ffe45c5c51</Id>
+    <Book Series="Trinity" Number="35" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="150684" />
     </Book>
-    <Book Series="Trinity" Number="36" Volume="2008" Year="2009" Format="Main Series">
-      <Id>1d9e773c-8284-4905-81b5-91d405dc3063</Id>
+    <Book Series="Trinity" Number="36" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="151156" />
     </Book>
-    <Book Series="Trinity" Number="37" Volume="2008" Year="2009" Format="Main Series">
-      <Id>e7ae7da6-ec81-4907-a9dc-af771e8106ec</Id>
+    <Book Series="Trinity" Number="37" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="151828" />
     </Book>
-    <Book Series="Trinity" Number="38" Volume="2008" Year="2009" Format="Main Series">
-      <Id>40424b2e-316e-4351-876d-22636913973d</Id>
+    <Book Series="Trinity" Number="38" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="152233" />
     </Book>
-    <Book Series="Trinity" Number="39" Volume="2008" Year="2009" Format="Main Series">
-      <Id>2df6ea0c-bf22-4b03-a624-192dabc29673</Id>
+    <Book Series="Trinity" Number="39" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="152786" />
     </Book>
-    <Book Series="Trinity" Number="40" Volume="2008" Year="2009" Format="Main Series">
-      <Id>f0947dd2-65e6-494f-ad25-191a120f3349</Id>
+    <Book Series="Trinity" Number="40" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="153091" />
     </Book>
-    <Book Series="Trinity" Number="41" Volume="2008" Year="2009" Format="Main Series">
-      <Id>2be60603-abc6-4df4-be94-048096d56108</Id>
+    <Book Series="Trinity" Number="41" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="153563" />
     </Book>
-    <Book Series="Trinity" Number="42" Volume="2008" Year="2009" Format="Main Series">
-      <Id>f0c78022-9170-462c-b453-bc7b1f2621f9</Id>
+    <Book Series="Trinity" Number="42" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="153687" />
     </Book>
-    <Book Series="Trinity" Number="43" Volume="2008" Year="2009" Format="Main Series">
-      <Id>eb00a099-ba74-45f3-bd63-68c17a1a50ee</Id>
+    <Book Series="Trinity" Number="43" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="153985" />
     </Book>
-    <Book Series="Trinity" Number="44" Volume="2008" Year="2009" Format="Main Series">
-      <Id>7dacb34f-4aff-43e6-afaa-e3f91bbd71fc</Id>
+    <Book Series="Trinity" Number="44" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="154666" />
     </Book>
-    <Book Series="Trinity" Number="45" Volume="2008" Year="2009" Format="Main Series">
-      <Id>e4005809-7009-440d-b963-fa3d36d801ce</Id>
+    <Book Series="Trinity" Number="45" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="155335" />
     </Book>
-    <Book Series="Trinity" Number="46" Volume="2008" Year="2009" Format="Main Series">
-      <Id>59945533-bb9c-4bc9-bbf2-018439639520</Id>
+    <Book Series="Trinity" Number="46" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="155440" />
     </Book>
-    <Book Series="Trinity" Number="47" Volume="2008" Year="2009" Format="Main Series">
-      <Id>64c59c45-f7e9-4476-beb4-c2cd7f10bfa9</Id>
+    <Book Series="Trinity" Number="47" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="156181" />
     </Book>
-    <Book Series="Trinity" Number="48" Volume="2008" Year="2009" Format="Main Series">
-      <Id>587e3f10-ca46-428a-b86d-70c4feea48e0</Id>
+    <Book Series="Trinity" Number="48" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="156182" />
     </Book>
-    <Book Series="Trinity" Number="49" Volume="2008" Year="2009" Format="Main Series">
-      <Id>b926f35d-9934-4d9d-a1ec-ea5ae1e6a5ef</Id>
+    <Book Series="Trinity" Number="49" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="157184" />
     </Book>
-    <Book Series="Trinity" Number="50" Volume="2008" Year="2009" Format="Main Series">
-      <Id>675c3a64-1a8a-4342-aa7a-a798d15a47ae</Id>
+    <Book Series="Trinity" Number="50" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="157186" />
     </Book>
-    <Book Series="Trinity" Number="51" Volume="2008" Year="2009" Format="Main Series">
-      <Id>b6c6b02e-0eaf-4b13-bf55-f3988751d98c</Id>
+    <Book Series="Trinity" Number="51" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="157783" />
     </Book>
-    <Book Series="Trinity" Number="52" Volume="2008" Year="2009" Format="Main Series">
-      <Id>b96fd8ef-0c61-4aa3-bd56-3475216f3c45</Id>
+    <Book Series="Trinity" Number="52" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21777" Issue="158813" />
     </Book>
-    <Book Series="DC Universe: Decisions" Number="1" Volume="2008" Year="2008" Format="Limited Series">
-      <Id>fa137bfb-5dfe-4c68-9bb8-240648aeadb5</Id>
+    <Book Series="DC Universe: Decisions" Number="1" Volume="2008" Year="2008">
+      <Database Name="cv" Series="23075" Issue="139033" />
     </Book>
-    <Book Series="DC Universe: Decisions" Number="2" Volume="2008" Year="2008" Format="Limited Series">
-      <Id>1cb0e1b3-74f9-4ecc-b2ee-f60cbccc5493</Id>
+    <Book Series="DC Universe: Decisions" Number="2" Volume="2008" Year="2008">
+      <Database Name="cv" Series="23075" Issue="139673" />
     </Book>
-    <Book Series="DC Universe: Decisions" Number="3" Volume="2008" Year="2008" Format="Limited Series">
-      <Id>3d8e0359-8f5f-4f8b-8785-2c6aabe9008b</Id>
+    <Book Series="DC Universe: Decisions" Number="3" Volume="2008" Year="2008">
+      <Database Name="cv" Series="23075" Issue="168512" />
     </Book>
-    <Book Series="DC Universe: Decisions" Number="4" Volume="2008" Year="2008" Format="Limited Series">
-      <Id>5199996f-25fc-422d-9475-1ce18c40d64e</Id>
+    <Book Series="DC Universe: Decisions" Number="4" Volume="2008" Year="2008">
+      <Database Name="cv" Series="23075" Issue="141429" />
     </Book>
-    <Book Series="Justice League of America" Number="27" Volume="2006" Year="2009" Format="Main Series">
-      <Id>8832308e-e462-41fc-bdf8-ccb56dceeb6a</Id>
+    <Book Series="Justice League of America" Number="27" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="145531" />
     </Book>
-    <Book Series="Justice League of America" Number="28" Volume="2006" Year="2009" Format="Main Series">
-      <Id>66fd4171-3ae3-4c91-8b4a-8412a9e65d6d</Id>
+    <Book Series="Justice League of America" Number="28" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="149278" />
     </Book>
-    <Book Series="Justice League of America" Number="29" Volume="2006" Year="2009" Format="Main Series">
-      <Id>426f64f2-9faf-472a-ab1a-e63ddeb89606</Id>
+    <Book Series="Justice League of America" Number="29" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="150507" />
     </Book>
-    <Book Series="Justice League of America" Number="30" Volume="2006" Year="2009" Format="Main Series">
-      <Id>db02104e-636c-4cc2-954b-381028c89628</Id>
+    <Book Series="Justice League of America" Number="30" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="152205" />
     </Book>
-    <Book Series="Vixen: Return of the Lion" Number="1" Volume="2008" Year="2008" Format="Limited Series">
-      <Id>27a793a6-cc89-4ca4-bbd9-8bba0afc1a09</Id>
+    <Book Series="Vixen: Return of the Lion" Number="1" Volume="2008" Year="2008">
+      <Database Name="cv" Series="23215" Issue="139671" />
     </Book>
-    <Book Series="Vixen: Return of the Lion" Number="2" Volume="2008" Year="2009" Format="Limited Series">
-      <Id>46a1c6ca-a378-4291-b23c-70eacb7b0f7e</Id>
+    <Book Series="Vixen: Return of the Lion" Number="2" Volume="2008" Year="2009">
+      <Database Name="cv" Series="23215" Issue="141543" />
     </Book>
-    <Book Series="Vixen: Return of the Lion" Number="3" Volume="2008" Year="2009" Format="Limited Series">
-      <Id>8c0d270a-29a1-46df-9a26-9461e6d8dd34</Id>
+    <Book Series="Vixen: Return of the Lion" Number="3" Volume="2008" Year="2009">
+      <Database Name="cv" Series="23215" Issue="144292" />
     </Book>
-    <Book Series="Vixen: Return of the Lion" Number="4" Volume="2008" Year="2009" Format="Limited Series">
-      <Id>cd522841-abed-46fa-a8d4-dfc0157d048e</Id>
+    <Book Series="Vixen: Return of the Lion" Number="4" Volume="2008" Year="2009">
+      <Database Name="cv" Series="23215" Issue="149813" />
     </Book>
-    <Book Series="Vixen: Return of the Lion" Number="5" Volume="2008" Year="2009" Format="Limited Series">
-      <Id>2443b86d-caf4-4ab8-89d1-c7ec605d4fe8</Id>
+    <Book Series="Vixen: Return of the Lion" Number="5" Volume="2008" Year="2009">
+      <Database Name="cv" Series="23215" Issue="151827" />
     </Book>
-    <Book Series="Faces of Evil: Prometheus" Number="1" Volume="2009" Year="2009" Format="Crossover">
-      <Id>4f44b16f-6105-4c63-80c7-c39b50e0d57d</Id>
+    <Book Series="Faces of Evil: Prometheus" Number="1" Volume="2009" Year="2009">
+      <Database Name="cv" Series="25425" Issue="150047" />
     </Book>
-    <Book Series="Final Crisis" Number="2" Volume="2008" Year="2008" Format="Crossover">
-      <Id>a7beb282-5128-4f81-8beb-ca5288352aec</Id>
+    <Book Series="Final Crisis" Number="2" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21712" Issue="131869" />
     </Book>
-    <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008" Format="Crossover">
-      <Id>133b85d7-07a5-4204-b583-d68a80819d4c</Id>
+    <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21712" Issue="135068" />
     </Book>
-    <Book Series="Final Crisis" Number="4" Volume="2008" Year="2008" Format="Crossover">
-      <Id>0920c179-d3eb-4c4d-98be-691f13ad12d9</Id>
+    <Book Series="Final Crisis" Number="4" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21712" Issue="140850" />
     </Book>
-    <Book Series="Final Crisis" Number="5" Volume="2008" Year="2008" Format="Crossover">
-      <Id>4fa82c05-fdc7-496f-b516-b9ddc138964f</Id>
+    <Book Series="Final Crisis" Number="5" Volume="2008" Year="2008">
+      <Database Name="cv" Series="21712" Issue="145368" />
     </Book>
-    <Book Series="Final Crisis" Number="6" Volume="2008" Year="2009" Format="Crossover">
-      <Id>3686ab6b-a1ec-45f7-983c-0809d6390821</Id>
+    <Book Series="Final Crisis" Number="6" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21712" Issue="150022" />
     </Book>
-    <Book Series="Final Crisis" Number="7" Volume="2008" Year="2009" Format="Crossover">
-      <Id>8ec37430-1294-4908-9721-eee96afe7817</Id>
+    <Book Series="Final Crisis" Number="7" Volume="2008" Year="2009">
+      <Database Name="cv" Series="21712" Issue="150660" />
     </Book>
-    <Book Series="Justice League: Cry for Justice" Number="1" Volume="2009" Year="2009" Format="Limited Series">
-      <Id>5f0045b8-46ca-4617-9fdf-774767c28f0d</Id>
+    <Book Series="Justice League: Cry for Justice" Number="1" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26964" Issue="162566" />
     </Book>
-    <Book Series="Justice League of America" Number="31" Volume="2006" Year="2009" Format="Main Series">
-      <Id>19111bf8-ddea-4be1-82dd-14396770700b</Id>
+    <Book Series="Justice League of America" Number="31" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="153973" />
     </Book>
-    <Book Series="Justice League of America" Number="32" Volume="2006" Year="2009" Format="Main Series">
-      <Id>d6ea4b07-4755-4f46-8172-f482c7a8d09a</Id>
+    <Book Series="Justice League of America" Number="32" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="155755" />
     </Book>
-    <Book Series="Justice League of America" Number="33" Volume="2006" Year="2009" Format="Main Series">
-      <Id>60d9eb35-7ce6-4602-9a33-37fbb959eefe</Id>
+    <Book Series="Justice League of America" Number="33" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="158449" />
     </Book>
-    <Book Series="Justice League of America" Number="34" Volume="2006" Year="2009" Format="Main Series">
-      <Id>e6dd5870-bbd8-4bdb-9b43-3980a6d0a25e</Id>
+    <Book Series="Justice League of America" Number="34" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="161709" />
     </Book>
-    <Book Series="Justice League of America" Number="35" Volume="2006" Year="2009" Format="Main Series">
-      <Id>4e8b7bf2-cea5-4c2f-ab97-1885c2ff1d6f</Id>
+    <Book Series="Justice League of America" Number="35" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="165455" />
     </Book>
-    <Book Series="Justice League of America" Number="36" Volume="2006" Year="2009" Format="Main Series">
-      <Id>8169b4ad-263c-4d7c-970b-8f63c2afd0b5</Id>
+    <Book Series="Justice League of America" Number="36" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="167483" />
     </Book>
-    <Book Series="Justice League of America" Number="37" Volume="2006" Year="2009" Format="Main Series">
-      <Id>7a96928b-50a6-44ed-a54a-3598ada0ad87</Id>
+    <Book Series="Justice League of America" Number="37" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="172617" />
     </Book>
-    <Book Series="Justice League: Cry for Justice" Number="2" Volume="2009" Year="2009" Format="Limited Series">
-      <Id>59375d5b-46d2-4541-8a02-5b33ae029545</Id>
+    <Book Series="Justice League: Cry for Justice" Number="2" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26964" Issue="166117" />
     </Book>
-    <Book Series="Justice League: Cry for Justice" Number="3" Volume="2009" Year="2009" Format="Limited Series">
-      <Id>5f3d41f1-5093-4c34-b35d-0cc4fc9532bd</Id>
+    <Book Series="Justice League: Cry for Justice" Number="3" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26964" Issue="169335" />
     </Book>
-    <Book Series="Justice League: Cry for Justice" Number="4" Volume="2009" Year="2009" Format="Limited Series">
-      <Id>99581ff0-e168-42c9-99f5-a249c5a58bee</Id>
+    <Book Series="Justice League: Cry for Justice" Number="4" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26964" Issue="175113" />
     </Book>
-    <Book Series="Justice League: Cry for Justice" Number="5" Volume="2009" Year="2010" Format="Limited Series">
-      <Id>9fa0b5d4-0eb1-4a15-8c44-63e871d912f9</Id>
+    <Book Series="Justice League: Cry for Justice" Number="5" Volume="2009" Year="2010">
+      <Database Name="cv" Series="26964" Issue="185062" />
     </Book>
-    <Book Series="Justice League: Cry for Justice" Number="6" Volume="2009" Year="2010" Format="Limited Series">
-      <Id>9162ba3f-1118-416a-b546-b5aac4466476</Id>
+    <Book Series="Justice League: Cry for Justice" Number="6" Volume="2009" Year="2010">
+      <Database Name="cv" Series="26964" Issue="194797" />
     </Book>
-    <Book Series="Justice League: Cry for Justice" Number="7" Volume="2009" Year="2010" Format="Limited Series">
-      <Id>6e1d1fce-cb28-4bf1-9f01-ef5ffce31c25</Id>
+    <Book Series="Justice League: Cry for Justice" Number="7" Volume="2009" Year="2010">
+      <Database Name="cv" Series="26964" Issue="198874" />
     </Book>
-    <Book Series="Blackest Night" Number="0" Volume="2009" Year="2009" Format="Crossover">
-      <Id>03da0d3e-25c3-4c32-8762-e86a5f7f4bab</Id>
+    <Book Series="Blackest Night" Number="0" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26266" Issue="155833" />
     </Book>
-    <Book Series="Blackest Night" Number="1" Volume="2009" Year="2009" Format="Crossover">
-      <Id>d890c9d6-4f26-4dad-9fad-dd0cc263a9a8</Id>
+    <Book Series="Blackest Night" Number="1" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26266" Issue="164032" />
     </Book>
-    <Book Series="Blackest Night" Number="2" Volume="2009" Year="2009" Format="Crossover">
-      <Id>14f576bb-5018-4b05-8d99-f57dd5421b71</Id>
+    <Book Series="Blackest Night" Number="2" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26266" Issue="166823" />
     </Book>
-    <Book Series="Blackest Night" Number="3" Volume="2009" Year="2009" Format="Crossover">
-      <Id>093025c2-0acb-4736-ba21-675ce3133fb6</Id>
+    <Book Series="Blackest Night" Number="3" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26266" Issue="171404" />
     </Book>
-    <Book Series="Blackest Night" Number="4" Volume="2009" Year="2009" Format="Crossover">
-      <Id>e083968e-0a56-4fac-bcf5-310d6337996b</Id>
+    <Book Series="Blackest Night" Number="4" Volume="2009" Year="2009">
+      <Database Name="cv" Series="26266" Issue="179009" />
     </Book>
-    <Book Series="Justice League of America" Number="38" Volume="2006" Year="2009" Format="Main Series">
-      <Id>dc4d3cba-6a05-4d33-bed7-6bd514ffa7fd</Id>
+    <Book Series="Justice League of America" Number="38" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18127" Issue="177712" />
     </Book>
-    <Book Series="Justice League of America" Number="39" Volume="2006" Year="2010" Format="Main Series">
-      <Id>0d1da198-75bf-4621-b49b-bd4448f887e2</Id>
+    <Book Series="Justice League of America" Number="39" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="184828" />
     </Book>
-    <Book Series="Justice League of America" Number="40" Volume="2006" Year="2010" Format="Main Series">
-      <Id>ab7ef5a5-3812-4709-bc41-67dd8268e4c4</Id>
+    <Book Series="Justice League of America" Number="40" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="187617" />
     </Book>
-    <Book Series="Blackest Night" Number="5" Volume="2009" Year="2010" Format="Crossover">
-      <Id>f01287d3-9296-47c7-87ae-752c46f483ad</Id>
+    <Book Series="Blackest Night" Number="5" Volume="2009" Year="2010">
+      <Database Name="cv" Series="26266" Issue="184885" />
     </Book>
-    <Book Series="Blackest Night" Number="6" Volume="2009" Year="2010" Format="Crossover">
-      <Id>708e614b-36d9-45f3-9cfa-98f71abe3725</Id>
+    <Book Series="Blackest Night" Number="6" Volume="2009" Year="2010">
+      <Database Name="cv" Series="26266" Issue="189810" />
     </Book>
-    <Book Series="Blackest Night" Number="7" Volume="2009" Year="2010" Format="Crossover">
-      <Id>72567500-50a6-489b-8069-eba126430f4f</Id>
+    <Book Series="Blackest Night" Number="7" Volume="2009" Year="2010">
+      <Database Name="cv" Series="26266" Issue="198282" />
     </Book>
-    <Book Series="Blackest Night" Number="8" Volume="2009" Year="2010" Format="Crossover">
-      <Id>774f0d23-1760-496e-ac9d-b55bf45f9beb</Id>
+    <Book Series="Blackest Night" Number="8" Volume="2009" Year="2010">
+      <Database Name="cv" Series="26266" Issue="202607" />
     </Book>
-    <Book Series="Justice League of America" Number="41" Volume="2006" Year="2010" Format="Main Series">
-      <Id>da44641b-7f08-40c3-912e-89820e644d27</Id>
+    <Book Series="Justice League of America" Number="41" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="194798" />
     </Book>
-    <Book Series="Justice League of America" Number="42" Volume="2006" Year="2010" Format="Main Series">
-      <Id>5e3abff3-db02-46fb-88ed-916cb0f1c61b</Id>
+    <Book Series="Justice League of America" Number="42" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="197538" />
     </Book>
-    <Book Series="Action Comics" Number="884" Volume="1938" Year="2010" Format="Main Series">
-      <Id>73b53a3a-8b08-4247-b244-4e9eacddf8ee</Id>
+    <Book Series="Action Comics" Number="884" Volume="1938" Year="2010">
+      <Database Name="cv" Series="18005" Issue="186788" />
     </Book>
-    <Book Series="Justice League of America" Number="43" Volume="2006" Year="2010" Format="Main Series">
-      <Id>1f7cf050-b3ad-405e-8ab4-5bfa87d85275</Id>
+    <Book Series="Justice League of America" Number="43" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="202577" />
     </Book>
-    <Book Series="Action Comics" Number="885" Volume="1938" Year="2010" Format="Main Series">
-      <Id>f11e7153-1087-4eb0-8957-3d86cc7288cb</Id>
+    <Book Series="Action Comics" Number="885" Volume="1938" Year="2010">
+      <Database Name="cv" Series="18005" Issue="119120" />
     </Book>
-    <Book Series="Justice League: Rise and Fall Special" Number="1" Volume="2010" Year="2010" Format="One-Shot">
-      <Id>1e5cbde3-4174-404b-9926-83a70796f3d9</Id>
+    <Book Series="Justice League: Rise and Fall Special" Number="1" Volume="2010" Year="2010">
+      <Database Name="cv" Series="31841" Issue="199683" />
     </Book>
-    <Book Series="Green Arrow" Number="32" Volume="2010" Year="2010" Format="Main Series">
-      <Id>d6cecb60-34bb-4633-a4e2-a9da201ed39c</Id>
+    <Book Series="Green Arrow" Number="32" Volume="2010" Year="2014">
+      <Database Name="cv" Series="42598" Issue="455435" />
     </Book>
-    <Book Series="Justice League: The Rise of Arsenal" Number="1" Volume="2010" Year="2010" Format="Limited Series">
-      <Id>2b353281-3fa2-454c-8784-35a33c3b3849</Id>
+    <Book Series="Justice League: The Rise of Arsenal" Number="1" Volume="2010" Year="2010">
+      <Database Name="cv" Series="32165" Issue="201766" />
     </Book>
-    <Book Series="Justice League: The Rise of Arsenal" Number="2" Volume="2010" Year="2010" Format="Limited Series">
-      <Id>8a6fd4a4-2c89-4dda-a37c-d9743a470368</Id>
+    <Book Series="Justice League: The Rise of Arsenal" Number="2" Volume="2010" Year="2010">
+      <Database Name="cv" Series="32165" Issue="210237" />
     </Book>
-    <Book Series="Justice League: The Rise of Arsenal" Number="3" Volume="2010" Year="2010" Format="Limited Series">
-      <Id>0538fd73-c278-4553-919d-4741545afead</Id>
+    <Book Series="Justice League: The Rise of Arsenal" Number="3" Volume="2010" Year="2010">
+      <Database Name="cv" Series="32165" Issue="216700" />
     </Book>
-    <Book Series="Justice League: The Rise of Arsenal" Number="4" Volume="2010" Year="2010" Format="Limited Series">
-      <Id>607dbf9b-e35c-4ccf-862d-c2b68d846088</Id>
+    <Book Series="Justice League: The Rise of Arsenal" Number="4" Volume="2010" Year="2010">
+      <Database Name="cv" Series="32165" Issue="220857" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="1" Volume="2010" Year="2010" Format="Main Series">
-      <Id>0cea29b9-23a5-4bc3-97a9-c4a6afc6b03d</Id>
+    <Book Series="Justice League: Generation Lost" Number="1" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="213410" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="2" Volume="2010" Year="2010" Format="Main Series">
-      <Id>56edf23f-2acf-493a-8a26-7ad7a89f49c1</Id>
+    <Book Series="Justice League: Generation Lost" Number="2" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="216238" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="4" Volume="2010" Year="2010" Format="Main Series">
-      <Id>e0561f78-e5d8-4f22-9f63-aa793c499f03</Id>
+    <Book Series="Justice League: Generation Lost" Number="4" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="220788" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="3" Volume="2010" Year="2010" Format="Main Series">
-      <Id>9d7aae37-c8d4-4cf3-a19b-ef2f4cf1bf6d</Id>
+    <Book Series="Justice League: Generation Lost" Number="3" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="218374" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="5" Volume="2010" Year="2010" Format="Main Series">
-      <Id>3c5dfd1e-aade-4c32-a268-643ec7fa7aa3</Id>
+    <Book Series="Justice League: Generation Lost" Number="5" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="224654" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="6" Volume="2010" Year="2010" Format="Main Series">
-      <Id>0059e33c-e495-4cb6-b8f2-024ebac381bb</Id>
+    <Book Series="Justice League: Generation Lost" Number="6" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="226905" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="7" Volume="2010" Year="2010" Format="Main Series">
-      <Id>b47a14eb-a81c-455c-ac19-21cd43f2bfaa</Id>
+    <Book Series="Justice League: Generation Lost" Number="7" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="228916" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="8" Volume="2010" Year="2010" Format="Main Series">
-      <Id>352c0971-0ff6-44c3-966c-c660ffddd608</Id>
+    <Book Series="Justice League: Generation Lost" Number="8" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="231611" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="9" Volume="2010" Year="2010" Format="Main Series">
-      <Id>bfee932b-205c-4ac1-9075-d9c0eea8cdd6</Id>
+    <Book Series="Justice League: Generation Lost" Number="9" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="233763" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="10" Volume="2010" Year="2010" Format="Main Series">
-      <Id>3d63d1fb-65e5-4685-8767-16f2bbea5f6d</Id>
+    <Book Series="Justice League: Generation Lost" Number="10" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="235442" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="11" Volume="2010" Year="2010" Format="Main Series">
-      <Id>6b1b4300-c074-4552-b8be-69aeed725b35</Id>
+    <Book Series="Justice League: Generation Lost" Number="11" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="238241" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="12" Volume="2010" Year="2010" Format="Main Series">
-      <Id>28cf9bcc-1d2d-4896-acf4-c05f74643e6f</Id>
+    <Book Series="Justice League: Generation Lost" Number="12" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33082" Issue="239908" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="13" Volume="2010" Year="2011" Format="Main Series">
-      <Id>28241f2c-1e9e-4b76-b6c6-1f62d5b5576a</Id>
+    <Book Series="Justice League: Generation Lost" Number="13" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="242327" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="14" Volume="2010" Year="2011" Format="Main Series">
-      <Id>402ea305-3072-4eef-bf02-48afad47f0a1</Id>
+    <Book Series="Justice League: Generation Lost" Number="14" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="246469" />
     </Book>
-    <Book Series="Justice League of America" Number="44" Volume="2006" Year="2010" Format="Main Series">
-      <Id>db04d4ed-c83d-4973-9f01-a097908eddaf</Id>
+    <Book Series="Justice League of America" Number="44" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="208659" />
     </Book>
-    <Book Series="Justice League of America" Number="45" Volume="2006" Year="2010" Format="Main Series">
-      <Id>82305a1e-f826-458a-8770-ebd7bad8938c</Id>
+    <Book Series="Justice League of America" Number="45" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="214910" />
     </Book>
-    <Book Series="Justice League of America" Number="46" Volume="2006" Year="2010" Format="Main Series">
-      <Id>86a4dda0-ebf2-4c30-8624-f60fc9a60129</Id>
+    <Book Series="Justice League of America" Number="46" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="221960" />
     </Book>
-    <Book Series="Justice Society of America" Number="41" Volume="2007" Year="2010" Format="Main Series">
-      <Id>afe0599a-6ec3-440e-ade3-76a956f7b6f9</Id>
+    <Book Series="Justice Society of America" Number="41" Volume="2007" Year="2010">
+      <Database Name="cv" Series="18052" Issue="225863" />
     </Book>
-    <Book Series="Justice League of America" Number="47" Volume="2006" Year="2010" Format="Main Series">
-      <Id>ad36a289-f93d-4ec5-b239-bc9734a5c533</Id>
+    <Book Series="Justice League of America" Number="47" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="227018" />
     </Book>
-    <Book Series="Justice Society of America" Number="42" Volume="2007" Year="2010" Format="Main Series">
-      <Id>18765979-d51b-417b-a2ff-7b190326ea66</Id>
+    <Book Series="Justice Society of America" Number="42" Volume="2007" Year="2010">
+      <Database Name="cv" Series="18052" Issue="230327" />
     </Book>
-    <Book Series="Justice League of America" Number="48" Volume="2006" Year="2010" Format="Main Series">
-      <Id>d88d1f5e-8f02-4691-bdce-688609ffca27</Id>
+    <Book Series="Justice League of America" Number="48" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="231667" />
     </Book>
-    <Book Series="Justice Society of America" Number="43" Volume="2007" Year="2010" Format="Main Series">
-      <Id>996d3422-9888-40a5-b764-45510856c0f9</Id>
+    <Book Series="Justice Society of America" Number="43" Volume="2007" Year="2010">
+      <Database Name="cv" Series="18052" Issue="236440" />
     </Book>
-    <Book Series="Justice League of America" Number="49" Volume="2006" Year="2010" Format="Main Series">
-      <Id>b5d4574e-142d-4e30-a153-18eaf60b45d6</Id>
+    <Book Series="Justice League of America" Number="49" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="235399" />
     </Book>
-    <Book Series="Batman" Number="702" Volume="1940" Year="2010" Format="Main Series">
-      <Id>4fe6056a-602b-4ed5-814c-e442332f1e0e</Id>
+    <Book Series="Batman" Number="702" Volume="1940" Year="2010">
+      <Database Name="cv" Series="796" Issue="231608" />
     </Book>
-    <Book Series="Batman: The Return of Bruce Wayne" Number="2" Volume="2010" Year="2010" Format="Crossover">
-      <Id>cc6fb3e7-5888-46ce-8208-1a4d8894a7c3</Id>
+    <Book Series="Batman: The Return of Bruce Wayne" Number="2" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33073" Issue="215855" />
     </Book>
-    <Book Series="Batman: The Return of Bruce Wayne" Number="3" Volume="2010" Year="2010" Format="Crossover">
-      <Id>4b963a9d-7e5d-4076-b751-b321cb1a429b</Id>
+    <Book Series="Batman: The Return of Bruce Wayne" Number="3" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33073" Issue="220643" />
     </Book>
-    <Book Series="Batman: The Return of Bruce Wayne" Number="5" Volume="2010" Year="2010" Format="Crossover">
-      <Id>35fec1e2-500a-4cde-a5f1-ae05270c77ee</Id>
+    <Book Series="Batman: The Return of Bruce Wayne" Number="5" Volume="2010" Year="2010">
+      <Database Name="cv" Series="33073" Issue="238131" />
     </Book>
-    <Book Series="Batman: The Return of Bruce Wayne" Number="6" Volume="2010" Year="2011" Format="Crossover">
-      <Id>e046bcc0-3787-4766-8428-54ba0d155fc1</Id>
+    <Book Series="Batman: The Return of Bruce Wayne" Number="6" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33073" Issue="241775" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="15" Volume="2010" Year="2011" Format="Main Series">
-      <Id>4557e1a1-57fc-44ce-8b53-bdb020e50dbe</Id>
+    <Book Series="Justice League: Generation Lost" Number="15" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="248494" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="16" Volume="2010" Year="2011" Format="Main Series">
-      <Id>d25139d7-eec0-4fb7-899e-45411a419d10</Id>
+    <Book Series="Justice League: Generation Lost" Number="16" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="250144" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="17" Volume="2010" Year="2011" Format="Main Series">
-      <Id>8c4eacfb-9548-4103-bcd6-88b1b5ea79a7</Id>
+    <Book Series="Justice League: Generation Lost" Number="17" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="255905" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="18" Volume="2010" Year="2011" Format="Main Series">
-      <Id>09b502db-db9a-4b40-9a35-f3ef37c6bc3a</Id>
+    <Book Series="Justice League: Generation Lost" Number="18" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="259140" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="19" Volume="2010" Year="2011" Format="Main Series">
-      <Id>6b1259ac-2f16-4382-9a24-c1d457cb73b6</Id>
+    <Book Series="Justice League: Generation Lost" Number="19" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="261122" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="20" Volume="2010" Year="2011" Format="Main Series">
-      <Id>28851de2-4017-4982-b32f-0f74030e3e4e</Id>
+    <Book Series="Justice League: Generation Lost" Number="20" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="263701" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="21" Volume="2010" Year="2011" Format="Main Series">
-      <Id>4ae81985-e869-45c1-9fc2-b707118c7c46</Id>
+    <Book Series="Justice League: Generation Lost" Number="21" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="265492" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="22" Volume="2010" Year="2011" Format="Main Series">
-      <Id>8962647a-6844-45ec-968d-d8f45490ca23</Id>
+    <Book Series="Justice League: Generation Lost" Number="22" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="266495" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="23" Volume="2010" Year="2011" Format="Main Series">
-      <Id>96b58bb4-a727-4685-a00b-5cd550dd79db</Id>
+    <Book Series="Justice League: Generation Lost" Number="23" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="268208" />
     </Book>
-    <Book Series="Justice League: Generation Lost" Number="24" Volume="2010" Year="2011" Format="Main Series">
-      <Id>f3f148e2-9c68-41a4-a417-96725318f880</Id>
+    <Book Series="Justice League: Generation Lost" Number="24" Volume="2010" Year="2011">
+      <Database Name="cv" Series="33082" Issue="268973" />
     </Book>
-    <Book Series="Justice League of America/The 99" Number="1" Volume="2010" Year="2010" Format="Limited Series">
-      <Id>74784498-8799-4da7-b2cf-bb755a5be98f</Id>
+    <Book Series="Justice League of America/The 99" Number="1" Volume="2010" Year="2010">
+      <Database Name="cv" Series="36399" Issue="240256" />
     </Book>
-    <Book Series="Justice League of America/The 99" Number="2" Volume="2010" Year="2011" Format="Limited Series">
-      <Id>60c955f4-3e53-433d-aa2b-bcdf770de405</Id>
+    <Book Series="Justice League of America/The 99" Number="2" Volume="2010" Year="2011">
+      <Database Name="cv" Series="36399" Issue="246727" />
     </Book>
-    <Book Series="Justice League of America/The 99" Number="3" Volume="2010" Year="2011" Format="Limited Series">
-      <Id>0bfd05c4-4e8b-4484-a682-29736938aca0</Id>
+    <Book Series="Justice League of America/The 99" Number="3" Volume="2010" Year="2011">
+      <Database Name="cv" Series="36399" Issue="254099" />
     </Book>
-    <Book Series="Justice League of America/The 99" Number="4" Volume="2010" Year="2011" Format="Limited Series">
-      <Id>032d1e75-d75c-40e4-8709-5ebf2c190317</Id>
+    <Book Series="Justice League of America/The 99" Number="4" Volume="2010" Year="2011">
+      <Database Name="cv" Series="36399" Issue="259227" />
     </Book>
-    <Book Series="Justice League of America/The 99" Number="5" Volume="2010" Year="2011" Format="Limited Series">
-      <Id>8c6f9ac9-ba00-4bac-8f72-bbe354e900ed</Id>
+    <Book Series="Justice League of America/The 99" Number="5" Volume="2010" Year="2011">
+      <Database Name="cv" Series="36399" Issue="263880" />
     </Book>
-    <Book Series="Justice League of America/The 99" Number="6" Volume="2010" Year="2011" Format="Limited Series">
-      <Id>bdfe8ed3-7225-4982-b2eb-06057e94e5f8</Id>
+    <Book Series="Justice League of America/The 99" Number="6" Volume="2010" Year="2011">
+      <Database Name="cv" Series="36399" Issue="267485" />
     </Book>
-    <Book Series="Justice League of America" Number="50" Volume="2006" Year="2010" Format="Main Series">
-      <Id>5f372b6e-9c62-4472-8c89-f0d9b49c659f</Id>
+    <Book Series="Justice League of America" Number="50" Volume="2006" Year="2010">
+      <Database Name="cv" Series="18127" Issue="239078" />
     </Book>
-    <Book Series="Justice League of America" Number="51" Volume="2006" Year="2011" Format="Main Series">
-      <Id>b76eed02-0388-4566-af92-9d5ba0f5fe73</Id>
+    <Book Series="Justice League of America" Number="51" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="245006" />
     </Book>
-    <Book Series="Justice League of America" Number="52" Volume="2006" Year="2011" Format="Main Series">
-      <Id>545fdfb2-fa06-4d3a-a5cf-d2194fdc4b33</Id>
+    <Book Series="Justice League of America" Number="52" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="250159" />
     </Book>
-    <Book Series="Justice League of America" Number="53" Volume="2006" Year="2011" Format="Main Series">
-      <Id>194dc467-a402-46de-b6d6-94dc8d562f85</Id>
+    <Book Series="Justice League of America" Number="53" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="258329" />
     </Book>
-    <Book Series="Justice League of America" Number="54" Volume="2006" Year="2011" Format="Main Series">
-      <Id>d9115b0d-2a7a-431d-84fe-5b0b8812ee2d</Id>
+    <Book Series="Justice League of America" Number="54" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="262589" />
     </Book>
-    <Book Series="Justice League of America" Number="55" Volume="2006" Year="2011" Format="Main Series">
-      <Id>4201ce40-5155-4b80-877f-c2a42ef23b4d</Id>
+    <Book Series="Justice League of America" Number="55" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="266494" />
     </Book>
-    <Book Series="Justice League of America" Number="56" Volume="2006" Year="2011" Format="Main Series">
-      <Id>295bef7b-7824-4364-9c70-44d0d220400c</Id>
+    <Book Series="Justice League of America" Number="56" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="268717" />
     </Book>
-    <Book Series="Justice League of America" Number="57" Volume="2006" Year="2011" Format="Main Series">
-      <Id>a71f5263-d1d1-4b54-a73e-928e556ebd1f</Id>
+    <Book Series="Justice League of America" Number="57" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="270516" />
     </Book>
-    <Book Series="Justice League of America" Number="58" Volume="2006" Year="2011" Format="Main Series">
-      <Id>8ee340fe-a122-499e-aa31-fe70da37f929</Id>
+    <Book Series="Justice League of America" Number="58" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="275582" />
     </Book>
-    <Book Series="Justice League of America" Number="59" Volume="2006" Year="2011" Format="Main Series">
-      <Id>a9bb4d7b-2085-437e-ba1e-0e3e8df4a482</Id>
+    <Book Series="Justice League of America" Number="59" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="279970" />
     </Book>
-    <Book Series="Justice League of America" Number="60" Volume="2006" Year="2011" Format="Main Series">
-      <Id>97d35751-1874-4042-99fe-1fe8cc37c070</Id>
+    <Book Series="Justice League of America" Number="60" Volume="2006" Year="2011">
+      <Database Name="cv" Series="18127" Issue="286859" />
     </Book>
-    <Book Series="Flashpoint" Number="1" Volume="2011" Year="2011" Format="Crossover">
-      <Id>385b37e1-2a6f-42a1-9759-4222622b2a85</Id>
+    <Book Series="Flashpoint" Number="1" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39997" Issue="269827" />
     </Book>
-    <Book Series="Flashpoint" Number="2" Volume="2011" Year="2011" Format="Crossover">
-      <Id>3bf61f65-1541-4ba0-a301-d4b35ae14413</Id>
+    <Book Series="Flashpoint" Number="2" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39997" Issue="272411" />
     </Book>
-    <Book Series="Flashpoint" Number="3" Volume="2011" Year="2011" Format="Crossover">
-      <Id>f70abb6f-24ed-4600-b375-71909b03db01</Id>
+    <Book Series="Flashpoint" Number="3" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39997" Issue="277377" />
     </Book>
-    <Book Series="Flashpoint" Number="4" Volume="2011" Year="2011" Format="Crossover">
-      <Id>6a82169e-4cbf-4fa8-b3b7-3406c43238b4</Id>
+    <Book Series="Flashpoint" Number="4" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39997" Issue="282568" />
     </Book>
-    <Book Series="Flashpoint" Number="5" Volume="2011" Year="2011" Format="Crossover">
-      <Id>0b615727-a285-4dc2-8e86-4bd30ac08027</Id>
+    <Book Series="Flashpoint" Number="5" Volume="2011" Year="2011">
+      <Database Name="cv" Series="39997" Issue="290102" />
     </Book>
   </Books>
   <Matchers />
