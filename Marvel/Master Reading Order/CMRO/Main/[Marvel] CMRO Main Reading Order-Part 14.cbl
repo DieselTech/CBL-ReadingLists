@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 14</Name>
 <NumIssues>1000</NumIssues>
@@ -2046,22 +2046,22 @@
 <Book Series="Gambit and Bishop: Alpha" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="61164" Issue="136117" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="1" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94056" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="2" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94057" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="3" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94058" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="4" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94059" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="5" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94060" />
 </Book>
-<Book Series="Gambit &#38; Bishop" Number="6" Volume="2001" Year="2001">
+<Book Series="Gambit &amp; Bishop" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="10906" Issue="94061" />
 </Book>
 <Book Series="Black Panther" Number="31" Volume="1998" Year="2001">
@@ -2799,7 +2799,7 @@
 <Book Series="Captain America: Dead Men Running" Number="3" Volume="2002" Year="2002">
 <Database Name="cv" Series="9458" Issue="77753" />
 </Book>
-<Book Series="New X-Men 2001" Number="1" Volume="2001" Year="2001">
+<Book Series="X-Men 2001" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="21334" Issue="128914" />
 </Book>
 <Book Series="Infinity Abyss" Number="1" Volume="2002" Year="2002">

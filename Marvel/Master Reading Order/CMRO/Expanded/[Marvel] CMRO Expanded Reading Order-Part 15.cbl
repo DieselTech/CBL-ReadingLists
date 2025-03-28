@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 15</Name>
 <NumIssues>999</NumIssues>
@@ -1662,10 +1662,10 @@
 <Book Series="Overkill" Number="8" Volume="1992" Year="1992">
 <Database Name="cv" Series="23464" Issue="172119" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="1" Volume="1992" Year="1992">
+<Book Series="Motormouth &amp; Killpower" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="20524" Issue="122899" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="2" Volume="1992" Year="1992">
+<Book Series="Motormouth &amp; Killpower" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="20524" Issue="122904" />
 </Book>
 <Book Series="Warheads" Number="1" Volume="1992" Year="1992">
@@ -1692,10 +1692,10 @@
 <Book Series="Warheads" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="20499" Issue="169138" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="3" Volume="1992" Year="1992">
+<Book Series="Motormouth &amp; Killpower" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="20524" Issue="122907" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="4" Volume="1992" Year="1992">
+<Book Series="Motormouth &amp; Killpower" Number="4" Volume="1992" Year="1992">
 <Database Name="cv" Series="20524" Issue="122909" />
 </Book>
 <Book Series="Warheads" Number="4" Volume="1992" Year="1992">
@@ -1704,7 +1704,7 @@
 <Book Series="Warheads" Number="5" Volume="1992" Year="1992">
 <Database Name="cv" Series="20499" Issue="136059" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="5" Volume="1992" Year="1992">
+<Book Series="Motormouth &amp; Killpower" Number="5" Volume="1992" Year="1992">
 <Database Name="cv" Series="20524" Issue="122910" />
 </Book>
 <Book Series="Knights of Pendragon" Number="6" Volume="1992" Year="1992">
@@ -1761,16 +1761,16 @@
 <Book Series="Excalibur" Number="56" Volume="1988" Year="1992">
 <Database Name="cv" Series="4052" Issue="36397" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="6" Volume="1992" Year="1992">
+<Book Series="Motormouth &amp; Killpower" Number="6" Volume="1992" Year="1992">
 <Database Name="cv" Series="20524" Issue="122911" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="7" Volume="1992" Year="1992">
+<Book Series="Motormouth &amp; Killpower" Number="7" Volume="1992" Year="1992">
 <Database Name="cv" Series="20524" Issue="122912" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="8" Volume="1992" Year="1993">
+<Book Series="Motormouth &amp; Killpower" Number="8" Volume="1992" Year="1993">
 <Database Name="cv" Series="20524" Issue="122914" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="9" Volume="1992" Year="1993">
+<Book Series="Motormouth &amp; Killpower" Number="9" Volume="1992" Year="1993">
 <Database Name="cv" Series="20524" Issue="122916" />
 </Book>
 <Book Series="Dark Angel" Number="9" Volume="1992" Year="1993">
@@ -1914,7 +1914,7 @@
 <Book Series="X-Factor" Number="81" Volume="1986" Year="1992">
 <Database Name="cv" Series="3657" Issue="36035" />
 </Book>
-<Book Series="Spider-Man/Dr. Strange: "The Way to Dusty Death"" Number="1" Volume="1992" Year="1992">
+<Book Series="Spider-Man/Dr. Strange: &quot;The Way to Dusty Death&quot;" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="31408" Issue="195705" />
 </Book>
 <Book Series="The Punisher" Number="72" Volume="1987" Year="1992">
@@ -2730,13 +2730,13 @@
 <Book Series="Cable" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="4778" Issue="36416" />
 </Book>
-<Book Series="Punisher/Captain America: Blood &#38; Glory" Number="1" Volume="1992" Year="1992">
+<Book Series="Punisher/Captain America: Blood &amp; Glory" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="25894" Issue="201359" />
 </Book>
-<Book Series="Punisher/Captain America: Blood &#38; Glory" Number="2" Volume="1992" Year="1992">
+<Book Series="Punisher/Captain America: Blood &amp; Glory" Number="2" Volume="1992" Year="1992">
 <Database Name="cv" Series="25894" Issue="201360" />
 </Book>
-<Book Series="Punisher/Captain America: Blood &#38; Glory" Number="3" Volume="1992" Year="1992">
+<Book Series="Punisher/Captain America: Blood &amp; Glory" Number="3" Volume="1992" Year="1992">
 <Database Name="cv" Series="25894" Issue="153042" />
 </Book>
 <Book Series="Spider-Man" Number="27" Volume="1990" Year="1992">

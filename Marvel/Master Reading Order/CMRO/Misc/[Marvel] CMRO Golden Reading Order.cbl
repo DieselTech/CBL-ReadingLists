@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Golden Reading Order</Name>
 <NumIssues>692</NumIssues>
@@ -1161,7 +1161,7 @@
 <Book Series="Marvel Mystery Comics" Number="85" Volume="1939" Year="1948">
 <Database Name="cv" Series="19137" Issue="118185" />
 </Book>
-<Book Series="Blonde Phantom" Number="12" Volume="1946" Year="1946">
+<Book Series="Blonde Phantom Comics" Number="12" Volume="1946" Year="1946">
 <Database Name="cv" Series="19401" Issue="129581" />
 </Book>
 <Book Series="The Human Torch" Number="25" Volume="1940" Year="1946">
@@ -1173,7 +1173,7 @@
 <Book Series="Captain America Comics" Number="61" Volume="1941" Year="1947">
 <Database Name="cv" Series="1628" Issue="116383" />
 </Book>
-<Book Series="Blonde Phantom" Number="13" Volume="1946" Year="1947">
+<Book Series="Blonde Phantom Comics" Number="13" Volume="1946" Year="1947">
 <Database Name="cv" Series="19401" Issue="116233" />
 </Book>
 <Book Series="The Human Torch" Number="26" Volume="1940" Year="1947">
@@ -1185,7 +1185,7 @@
 <Book Series="Captain America Comics" Number="62" Volume="1941" Year="1947">
 <Database Name="cv" Series="1628" Issue="140007" />
 </Book>
-<Book Series="Blonde Phantom" Number="14" Volume="1946" Year="1947">
+<Book Series="Blonde Phantom Comics" Number="14" Volume="1946" Year="1947">
 <Database Name="cv" Series="19401" Issue="135493" />
 </Book>
 <Book Series="The Human Torch" Number="27" Volume="1940" Year="1947">
@@ -1200,16 +1200,16 @@
 <Book Series="The Human Torch" Number="28" Volume="1940" Year="1947">
 <Database Name="cv" Series="832" Issue="166039" />
 </Book>
-<Book Series="Blackstone The Magician" Number="1" Volume="1947" Year="1947">
+<Book Series="Blackstone the Magician" Number="1" Volume="1947" Year="1947">
 <Database Name="cv" Series="18938" Issue="112000" />
 </Book>
-<Book Series="Blonde Phantom" Number="15" Volume="1946" Year="1947">
+<Book Series="Blonde Phantom Comics" Number="15" Volume="1946" Year="1947">
 <Database Name="cv" Series="19401" Issue="135500" />
 </Book>
 <Book Series="Captain America Comics" Number="64" Volume="1941" Year="1947">
 <Database Name="cv" Series="1628" Issue="140003" />
 </Book>
-<Book Series="Blonde Phantom" Number="16" Volume="1946" Year="1947">
+<Book Series="Blonde Phantom Comics" Number="16" Volume="1946" Year="1947">
 <Database Name="cv" Series="19401" Issue="135499" />
 </Book>
 <Book Series="The Human Torch" Number="29" Volume="1940" Year="1947">
@@ -1221,13 +1221,13 @@
 <Book Series="Captain America Comics" Number="65" Volume="1941" Year="1948">
 <Database Name="cv" Series="1628" Issue="140004" />
 </Book>
-<Book Series="Blonde Phantom" Number="17" Volume="1946" Year="1948">
+<Book Series="Blonde Phantom Comics" Number="17" Volume="1946" Year="1948">
 <Database Name="cv" Series="19401" Issue="135497" />
 </Book>
 <Book Series="Sub-Mariner Comics" Number="25" Volume="1941" Year="1948">
 <Database Name="cv" Series="18548" Issue="110445" />
 </Book>
-<Book Series="Blackstone The Magician" Number="2" Volume="1947" Year="1948">
+<Book Series="Blackstone the Magician" Number="2" Volume="1947" Year="1948">
 <Database Name="cv" Series="18938" Issue="188867" />
 </Book>
 <Book Series="The Human Torch" Number="30" Volume="1940" Year="1948">
@@ -1245,7 +1245,7 @@
 <Book Series="Sub-Mariner Comics" Number="26" Volume="1941" Year="1948">
 <Database Name="cv" Series="18548" Issue="110446" />
 </Book>
-<Book Series="Blackstone The Magician" Number="3" Volume="1947" Year="1948">
+<Book Series="Blackstone the Magician" Number="3" Volume="1947" Year="1948">
 <Database Name="cv" Series="18938" Issue="116227" />
 </Book>
 <Book Series="Captain America Comics" Number="67" Volume="1941" Year="1948">
@@ -1254,7 +1254,7 @@
 <Book Series="The Human Torch" Number="31" Volume="1940" Year="1948">
 <Database Name="cv" Series="832" Issue="135361" />
 </Book>
-<Book Series="Blonde Phantom" Number="18" Volume="1946" Year="1948">
+<Book Series="Blonde Phantom Comics" Number="18" Volume="1946" Year="1948">
 <Database Name="cv" Series="19401" Issue="135498" />
 </Book>
 <Book Series="Venus" Number="1" Volume="1948" Year="1948">
@@ -1272,7 +1272,7 @@
 <Book Series="Sub-Mariner Comics" Number="27" Volume="1941" Year="1948">
 <Database Name="cv" Series="18548" Issue="110447" />
 </Book>
-<Book Series="Blackstone The Magician" Number="4" Volume="1947" Year="1948">
+<Book Series="Blackstone the Magician" Number="4" Volume="1947" Year="1948">
 <Database Name="cv" Series="18938" Issue="188868" />
 </Book>
 <Book Series="Captain America Comics" Number="68" Volume="1941" Year="1948">
@@ -1281,7 +1281,7 @@
 <Book Series="The Human Torch" Number="32" Volume="1940" Year="1948">
 <Database Name="cv" Series="832" Issue="135360" />
 </Book>
-<Book Series="Blonde Phantom" Number="19" Volume="1946" Year="1948">
+<Book Series="Blonde Phantom Comics" Number="19" Volume="1946" Year="1948">
 <Database Name="cv" Series="19401" Issue="116419" />
 </Book>
 <Book Series="Venus" Number="2" Volume="1948" Year="1948">
@@ -1302,7 +1302,7 @@
 <Book Series="The Human Torch" Number="33" Volume="1940" Year="1948">
 <Database Name="cv" Series="832" Issue="135359" />
 </Book>
-<Book Series="Blonde Phantom" Number="20" Volume="1946" Year="1948">
+<Book Series="Blonde Phantom Comics" Number="20" Volume="1946" Year="1948">
 <Database Name="cv" Series="19401" Issue="135496" />
 </Book>
 <Book Series="Captain America Comics" Number="69" Volume="1941" Year="1948">
@@ -1329,7 +1329,7 @@
 <Book Series="The Human Torch" Number="34" Volume="1940" Year="1949">
 <Database Name="cv" Series="832" Issue="135352" />
 </Book>
-<Book Series="Blonde Phantom" Number="21" Volume="1946" Year="1949">
+<Book Series="Blonde Phantom Comics" Number="21" Volume="1946" Year="1949">
 <Database Name="cv" Series="19401" Issue="135495" />
 </Book>
 <Book Series="Sub-Mariner Comics" Number="30" Volume="1941" Year="1949">
@@ -1344,7 +1344,7 @@
 <Book Series="The Human Torch" Number="35" Volume="1940" Year="1949">
 <Database Name="cv" Series="832" Issue="135354" />
 </Book>
-<Book Series="Blonde Phantom" Number="22" Volume="1946" Year="1949">
+<Book Series="Blonde Phantom Comics" Number="22" Volume="1946" Year="1949">
 <Database Name="cv" Series="19401" Issue="135494" />
 </Book>
 <Book Series="Captain America Comics" Number="71" Volume="1941" Year="1949">
@@ -1737,7 +1737,7 @@
 <Book Series="Black Knight" Number="5" Volume="1955" Year="1956">
 <Database Name="cv" Series="1701" Issue="2188" />
 </Book>
-<Book Series="Strange Tales Of The Unusual" Number="3" Volume="1955" Year="1956">
+<Book Series="Strange Tales of the Unusual" Number="3" Volume="1955" Year="1956">
 <Database Name="cv" Series="30548" Issue="187904" />
 </Book>
 <Book Series="Jann of the Jungle" Number="11" Volume="1955" Year="1956">

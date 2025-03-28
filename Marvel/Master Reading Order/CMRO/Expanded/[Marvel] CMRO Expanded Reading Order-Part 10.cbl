@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 10</Name>
 <NumIssues>977</NumIssues>
@@ -1995,7 +1995,7 @@
 <Book Series="Conan the Barbarian" Number="155" Volume="1970" Year="1984">
 <Database Name="cv" Series="2471" Issue="132527" />
 </Book>
-<Book Series="Spider-Man and the Dallas Cowboys: "Danger in Dallas"" Number="1" Volume="1983" Year="1983">
+<Book Series="Spider-Man and the Dallas Cowboys: &quot;Danger in Dallas&quot;" Number="1" Volume="1983" Year="1983">
 <Database Name="cv" Series="34090" Issue="222240" />
 </Book>
 <Book Series="Marvel Fanfare" Number="15" Volume="1982" Year="1984">
