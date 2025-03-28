@@ -1,252 +1,271 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Blue Beetle 2 - Post Crisis</Name>
+  <Name>Blue Beetle 002 - Post Crisis</Name>
+  <NumIssues>88</NumIssues>
   <Books>
-    <Book Series="Blue Beetle" Number="1" Volume="1986" Year="1986" Format="Main Series">
-      <Id>9e349e17-6462-4a17-bdb0-3b0630e80e7e</Id>
+    <Book Series="Blue Beetle" Number="1" Volume="1986" Year="1986">
+      <Database Name="cv" Series="3595" Issue="26835" />
     </Book>
-    <Book Series="Blue Beetle" Number="2" Volume="1986" Year="1986" Format="Main Series">
-      <Id>04feaba6-0e84-435e-b7d3-931eb02c18f7</Id>
+    <Book Series="Blue Beetle" Number="2" Volume="1986" Year="1986">
+      <Database Name="cv" Series="3595" Issue="26937" />
     </Book>
-    <Book Series="Blue Beetle" Number="3" Volume="1986" Year="1986" Format="Main Series">
-      <Id>46c4ef89-5201-4c64-b0d0-42d885b38051</Id>
+    <Book Series="Blue Beetle" Number="3" Volume="1986" Year="1986">
+      <Database Name="cv" Series="3595" Issue="27035" />
     </Book>
-    <Book Series="Blue Beetle" Number="4" Volume="1986" Year="1986" Format="Main Series">
-      <Id>61b8afbb-645f-4383-be5d-90fb4a67e6c1</Id>
+    <Book Series="Blue Beetle" Number="4" Volume="1986" Year="1986">
+      <Database Name="cv" Series="3595" Issue="27132" />
     </Book>
-    <Book Series="Blue Beetle" Number="5" Volume="1986" Year="1986" Format="Main Series">
-      <Id>d550f390-5dcd-493d-927f-cb7402209ffd</Id>
+    <Book Series="Blue Beetle" Number="5" Volume="1986" Year="1986">
+      <Database Name="cv" Series="3595" Issue="27223" />
     </Book>
-    <Book Series="Blue Beetle" Number="6" Volume="1986" Year="1986" Format="Main Series">
-      <Id>9f2e0e60-10a1-4456-abf6-f77582e7575b</Id>
+    <Book Series="Blue Beetle" Number="6" Volume="1986" Year="1986">
+      <Database Name="cv" Series="3595" Issue="27329" />
     </Book>
-    <Book Series="Blue Beetle" Number="7" Volume="1986" Year="1986" Format="Main Series">
-      <Id>4c1cfdc7-13f0-4663-8fdf-d094a0a40823</Id>
+    <Book Series="Blue Beetle" Number="7" Volume="1986" Year="1986">
+      <Database Name="cv" Series="3595" Issue="27434" />
     </Book>
-    <Book Series="Blue Beetle" Number="8" Volume="1986" Year="1987" Format="Main Series">
-      <Id>686df0bf-47ff-4312-b93e-86cab94df87c</Id>
+    <Book Series="Blue Beetle" Number="8" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="27627" />
     </Book>
-    <Book Series="Blue Beetle" Number="9" Volume="1986" Year="1987" Format="Main Series">
-      <Id>d0c8ad97-0745-46c5-8b0f-bfa359c79f89</Id>
+    <Book Series="Blue Beetle" Number="9" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="27734" />
     </Book>
-    <Book Series="Blue Beetle" Number="10" Volume="1986" Year="1987" Format="Main Series">
-      <Id>13bf47e2-72d4-4da1-bec0-751099a65fd3</Id>
+    <Book Series="Blue Beetle" Number="10" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="27843" />
     </Book>
-    <Book Series="Blue Beetle" Number="11" Volume="1986" Year="1987" Format="Main Series">
-      <Id>d9ddb600-4319-4019-9fa7-80879c037d57</Id>
+    <Book Series="Blue Beetle" Number="11" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="27952" />
     </Book>
-    <Book Series="Blue Beetle" Number="12" Volume="1986" Year="1987" Format="Main Series">
-      <Id>1cdddb00-a2e8-4c11-bd07-20e37d93958a</Id>
+    <Book Series="Blue Beetle" Number="12" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="28067" />
     </Book>
-    <Book Series="Blue Beetle" Number="13" Volume="1986" Year="1987" Format="Main Series">
-      <Id>e71ec09e-4fed-47ad-81d4-f24772d803af</Id>
+    <Book Series="Blue Beetle" Number="13" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="28166" />
     </Book>
-    <Book Series="Blue Beetle" Number="14" Volume="1986" Year="1987" Format="Main Series">
-      <Id>8ef28fc0-acee-4fbf-9fb8-2a36c1c8a93f</Id>
+    <Book Series="Blue Beetle" Number="14" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="28278" />
     </Book>
-    <Book Series="Blue Beetle" Number="15" Volume="1986" Year="1987" Format="Main Series">
-      <Id>df0c91f0-0358-485c-bc8f-1cc91ed6cb32</Id>
+    <Book Series="Blue Beetle" Number="15" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="28401" />
     </Book>
-    <Book Series="Justice League International" Number="1" Volume="1988" Year="2009" Format="TPB">
-      <Id>084472c7-bfac-4e72-8f8b-a645ab4ca8cf</Id>
+    <Book Series="Justice League" Number="1" Volume="1987" Year="1987">
+      <Database Name="cv" Series="3796" Issue="105729" />
     </Book>
-    <Book Series="Blue Beetle" Number="16" Volume="1986" Year="1987" Format="Main Series">
-      <Id>46c19433-c35b-4bfb-8705-532533bf6f93</Id>
+    <Book Series="Blue Beetle" Number="16" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="28508" />
     </Book>
-    <Book Series="Blue Beetle" Number="17" Volume="1986" Year="1987" Format="Main Series">
-      <Id>ac90d9f3-7b05-486e-9bbd-7ef35dcf78a0</Id>
+    <Book Series="Blue Beetle" Number="17" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="28625" />
     </Book>
-    <Book Series="Blue Beetle" Number="18" Volume="1986" Year="1987" Format="Main Series">
-      <Id>8f26c74d-e053-4a52-8e2d-fe3c0982f2d2</Id>
+    <Book Series="Blue Beetle" Number="18" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="28742" />
     </Book>
-    <Book Series="Blue Beetle" Number="19" Volume="1986" Year="1987" Format="Main Series">
-      <Id>094ea602-ec3a-4669-92f6-21b736eeebe5</Id>
+    <Book Series="Blue Beetle" Number="19" Volume="1986" Year="1987">
+      <Database Name="cv" Series="3595" Issue="28863" />
     </Book>
-    <Book Series="Blue Beetle" Number="20" Volume="1986" Year="1988" Format="Main Series">
-      <Id>371cabc9-dfdd-4182-9d11-cd0e63e3d4e3</Id>
+    <Book Series="Blue Beetle" Number="20" Volume="1986" Year="1988">
+      <Database Name="cv" Series="3595" Issue="29081" />
     </Book>
-    <Book Series="Blue Beetle" Number="21" Volume="1986" Year="1988" Format="Main Series">
-      <Id>3b3672c0-f7b1-4a30-97d2-2329a57f5add</Id>
+    <Book Series="Blue Beetle" Number="21" Volume="1986" Year="1988">
+      <Database Name="cv" Series="3595" Issue="29200" />
     </Book>
-    <Book Series="Blue Beetle" Number="22" Volume="1986" Year="1988" Format="Main Series">
-      <Id>f9d06034-7a2c-41bc-ae68-fbef4dec0780</Id>
+    <Book Series="Blue Beetle" Number="22" Volume="1986" Year="1988">
+      <Database Name="cv" Series="3595" Issue="29312" />
     </Book>
-    <Book Series="Blue Beetle" Number="23" Volume="1986" Year="1988" Format="Main Series">
-      <Id>dfe1b138-12fb-4c88-96cb-bfc4a7fd3223</Id>
+    <Book Series="Blue Beetle" Number="23" Volume="1986" Year="1988">
+      <Database Name="cv" Series="3595" Issue="29428" />
     </Book>
-    <Book Series="Blue Beetle" Number="24" Volume="1986" Year="1988" Format="Main Series">
-      <Id>331213b1-1203-434d-a9a5-02a5796ac270</Id>
+    <Book Series="Blue Beetle" Number="24" Volume="1986" Year="1988">
+      <Database Name="cv" Series="3595" Issue="29531" />
     </Book>
-    <Book Series="Justice League International" Number="2" Volume="1988" Year="2009" Format="TPB">
-      <Id>318ee8dd-a125-4717-abdf-0d257de73b5c</Id>
+    <Book Series="Justice League International" Number="2" Volume="1987" Year="1987">
+      <Database Name="cv" Series="3796" Issue="28244" />
     </Book>
-    <Book Series="Justice League International" Number="3" Volume="1988" Year="2009" Format="TPB">
-      <Id>30f42965-18ec-4096-ae1f-8475db67bbb7</Id>
+    <Book Series="Justice League International" Number="3" Volume="1987" Year="1987">
+      <Database Name="cv" Series="3796" Issue="28362" />
     </Book>
-    <Book Series="Justice League International" Number="4" Volume="1988" Year="2010" Format="TPB">
-      <Id>c37e5bc3-dfaf-48f6-b78a-65f3be305e44</Id>
+    <Book Series="Justice League International" Number="4" Volume="1987" Year="1987">
+      <Database Name="cv" Series="3796" Issue="28476" />
     </Book>
-    <Book Series="Justice League International" Number="5" Volume="1988" Year="2011" Format="TPB">
-      <Id>7eada596-7cca-4ae4-8c10-693f356308d3</Id>
+    <Book Series="Justice League International" Number="5" Volume="1987" Year="1987">
+      <Database Name="cv" Series="3796" Issue="28587" />
     </Book>
-    <Book Series="Justice League International" Number="6" Volume="1988" Year="2011" Format="TPB">
-      <Id>26d247d7-2efc-48af-9bdc-742cc2866956</Id>
+    <Book Series="Justice League International" Number="6" Volume="1987" Year="1987">
+      <Database Name="cv" Series="3796" Issue="28709" />
     </Book>
-    <Book Series="Formerly Known as the Justice League" Number="1" Volume="2003" Year="2003" Format="Limited Series">
-      <Id>5139b613-d20b-4395-9d93-924ea6b7169c</Id>
+    <Book Series="Formerly Known as the Justice League" Number="1" Volume="2003" Year="2003">
+      <Database Name="cv" Series="10767" Issue="91418" />
     </Book>
-    <Book Series="Formerly Known as the Justice League" Number="2" Volume="2003" Year="2003" Format="Limited Series">
-      <Id>1567463d-aa91-4813-ba56-ed00e22da2c3</Id>
+    <Book Series="Formerly Known as the Justice League" Number="2" Volume="2003" Year="2003">
+      <Database Name="cv" Series="10767" Issue="91419" />
     </Book>
-    <Book Series="Formerly Known as the Justice League" Number="3" Volume="2003" Year="2003" Format="Limited Series">
-      <Id>5b98d479-839d-4ce0-8402-d0366b6c6906</Id>
+    <Book Series="Formerly Known as the Justice League" Number="3" Volume="2003" Year="2003">
+      <Database Name="cv" Series="10767" Issue="91420" />
     </Book>
-    <Book Series="Formerly Known as the Justice League" Number="4" Volume="2003" Year="2003" Format="Limited Series">
-      <Id>f61e34ce-a490-47a6-a37c-caad5cbc8fc8</Id>
+    <Book Series="Formerly Known as the Justice League" Number="4" Volume="2003" Year="2003">
+      <Database Name="cv" Series="10767" Issue="91421" />
     </Book>
-    <Book Series="Formerly Known as the Justice League" Number="5" Volume="2003" Year="2004" Format="Limited Series">
-      <Id>0b71259e-0117-4e49-a4a8-e1f505d0e16d</Id>
+    <Book Series="Formerly Known as the Justice League" Number="5" Volume="2003" Year="2004">
+      <Database Name="cv" Series="10767" Issue="91422" />
     </Book>
-    <Book Series="Formerly Known as the Justice League" Number="6" Volume="2003" Year="2004" Format="Limited Series">
-      <Id>0cd9fa38-6223-4cb6-a1a9-ceed16199cda</Id>
+    <Book Series="Formerly Known as the Justice League" Number="6" Volume="2003" Year="2004">
+      <Database Name="cv" Series="10767" Issue="91423" />
     </Book>
-    <Book Series="Infinite Crisis" Number="1" Volume="2006" Year="2006" Format="TPB">
-      <Id>33d910d7-9baa-4fd8-af52-b79ef30e6844</Id>
+    <Book Series="Infinite Crisis" Number="1" Volume="2005" Year="2005">
+      <Database Name="cv" Series="17983" Issue="105305" />
     </Book>
-    <Book Series="Blue Beetle" Number="1" Volume="2006" Year="2006" Format="Main Series">
-      <Id>93332632-7655-4ab0-a3bb-f9d2c0a3b183</Id>
+    <Book Series="Infinite Crisis" Number="2" Volume="2005" Year="2006">
+      <Database Name="cv" Series="17983" Issue="107877" />
     </Book>
-    <Book Series="Blue Beetle" Number="2" Volume="2006" Year="2006" Format="Main Series">
-      <Id>93e7a7a3-4294-40c4-8576-8ea152c83257</Id>
+    <Book Series="Infinite Crisis" Number="3" Volume="2005" Year="2006">
+      <Database Name="cv" Series="17983" Issue="107881" />
     </Book>
-    <Book Series="Blue Beetle" Number="3" Volume="2006" Year="2006" Format="Main Series">
-      <Id>6ac07ab4-4a30-41c4-be6d-25c25371261e</Id>
+    <Book Series="Infinite Crisis" Number="4" Volume="2005" Year="2006">
+      <Database Name="cv" Series="17983" Issue="105306" />
     </Book>
-    <Book Series="Blue Beetle" Number="4" Volume="2006" Year="2006" Format="Main Series">
-      <Id>99a3eee3-2043-4c79-a354-f4cd65a00c81</Id>
+    <Book Series="Infinite Crisis" Number="5" Volume="2005" Year="2006">
+      <Database Name="cv" Series="17983" Issue="122050" />
     </Book>
-    <Book Series="Blue Beetle" Number="5" Volume="2006" Year="2006" Format="Main Series">
-      <Id>ac694450-50fc-4a17-bc10-e7bda7f57015</Id>
+    <Book Series="Infinite Crisis" Number="6" Volume="2005" Year="2006">
+      <Database Name="cv" Series="17983" Issue="122054" />
     </Book>
-    <Book Series="Blue Beetle" Number="6" Volume="2006" Year="2006" Format="Main Series">
-      <Id>97170320-2c65-49af-98b6-381059f855e8</Id>
+    <Book Series="Infinite Crisis" Number="7" Volume="2005" Year="2006">
+      <Database Name="cv" Series="17983" Issue="121466" />
     </Book>
-    <Book Series="Blue Beetle" Number="7" Volume="2006" Year="2006" Format="Main Series">
-      <Id>d52f5f6f-ecfa-4c15-a3fa-60a1a2b5bc98</Id>
+    <Book Series="Blue Beetle" Number="1" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18443" Issue="111271" />
     </Book>
-    <Book Series="Blue Beetle" Number="8" Volume="2006" Year="2006" Format="Main Series">
-      <Id>bee1f9c6-83eb-421a-b938-37de8c5b059b</Id>
+    <Book Series="Blue Beetle" Number="2" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18443" Issue="112201" />
     </Book>
-    <Book Series="Blue Beetle" Number="9" Volume="2006" Year="2007" Format="Main Series">
-      <Id>b4ebe4b2-bb33-4215-ac5b-bafa2f5e750b</Id>
+    <Book Series="Blue Beetle" Number="3" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18443" Issue="112204" />
     </Book>
-    <Book Series="Blue Beetle" Number="10" Volume="2006" Year="2007" Format="Main Series">
-      <Id>8afb6e28-9e8b-46be-960e-d282b27efccb</Id>
+    <Book Series="Blue Beetle" Number="4" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18443" Issue="112205" />
     </Book>
-    <Book Series="Blue Beetle" Number="11" Volume="2006" Year="2007" Format="Main Series">
-      <Id>f6c21b7c-8a2a-4ef1-9438-abff1f90a4bd</Id>
+    <Book Series="Blue Beetle" Number="5" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18443" Issue="112206" />
     </Book>
-    <Book Series="Blue Beetle" Number="12" Volume="2006" Year="2007" Format="Main Series">
-      <Id>06c4dfcf-fb99-4aae-948a-90509dd8d1e7</Id>
+    <Book Series="Blue Beetle" Number="6" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18443" Issue="108238" />
     </Book>
-    <Book Series="Blue Beetle" Number="13" Volume="2006" Year="2007" Format="Main Series">
-      <Id>203f1dc8-3f0b-4123-b552-c48bdfebb38b</Id>
+    <Book Series="Blue Beetle" Number="7" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18443" Issue="112211" />
     </Book>
-    <Book Series="Blue Beetle" Number="14" Volume="2006" Year="2007" Format="Main Series">
-      <Id>657f7d30-614f-4aab-b990-a52f7e209e28</Id>
+    <Book Series="Blue Beetle" Number="8" Volume="2006" Year="2006">
+      <Database Name="cv" Series="18443" Issue="112225" />
     </Book>
-    <Book Series="Blue Beetle" Number="15" Volume="2006" Year="2007" Format="Main Series">
-      <Id>4a90c8b1-4549-48b2-94a9-ff1edf2c32ec</Id>
+    <Book Series="Blue Beetle" Number="9" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112663" />
     </Book>
-    <Book Series="Blue Beetle" Number="16" Volume="2006" Year="2007" Format="Main Series">
-      <Id>bfb12e9e-73dc-406f-90e7-3221d8c276a1</Id>
+    <Book Series="Blue Beetle" Number="10" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112226" />
     </Book>
-    <Book Series="Blue Beetle" Number="17" Volume="2006" Year="2007" Format="Main Series">
-      <Id>4fc2cf55-b252-42d2-8be4-ece1ef289cfb</Id>
+    <Book Series="Blue Beetle" Number="11" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112227" />
     </Book>
-    <Book Series="Blue Beetle" Number="18" Volume="2006" Year="2007" Format="Main Series">
-      <Id>71ec6d7f-67f7-4796-9edf-2b7b9860d9d2</Id>
+    <Book Series="Blue Beetle" Number="12" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112228" />
     </Book>
-    <Book Series="Blue Beetle" Number="19" Volume="2006" Year="2007" Format="Main Series">
-      <Id>0304cb5c-4788-4bc0-80e9-b776a81873be</Id>
+    <Book Series="Blue Beetle" Number="13" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112668" />
     </Book>
-    <Book Series="Blue Beetle" Number="20" Volume="2006" Year="2007" Format="Main Series">
-      <Id>b00f39c4-e466-4ee9-b6f1-8bfcfdd68e4d</Id>
+    <Book Series="Blue Beetle" Number="14" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112666" />
     </Book>
-    <Book Series="Blue Beetle" Number="21" Volume="2006" Year="2008" Format="Main Series">
-      <Id>9f9fcbba-bc92-45e4-85cf-cb17d450bfc0</Id>
+    <Book Series="Blue Beetle" Number="15" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112229" />
     </Book>
-    <Book Series="Blue Beetle" Number="22" Volume="2006" Year="2008" Format="Main Series">
-      <Id>e19afce7-1f8b-467a-ac8e-4db9bc3d27c4</Id>
+    <Book Series="Blue Beetle" Number="16" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112230" />
     </Book>
-    <Book Series="Blue Beetle" Number="23" Volume="2006" Year="2008" Format="Main Series">
-      <Id>d2d20729-9ab4-4313-ad51-dc8f4664db53</Id>
+    <Book Series="Blue Beetle" Number="17" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="112142" />
     </Book>
-    <Book Series="Blue Beetle" Number="24" Volume="2006" Year="2008" Format="Main Series">
-      <Id>bb0047cf-0319-45ac-b641-9e452aad1ff5</Id>
+    <Book Series="Blue Beetle" Number="18" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="114370" />
     </Book>
-    <Book Series="Blue Beetle" Number="25" Volume="2006" Year="2008" Format="Main Series">
-      <Id>fe55cca3-6401-4651-a90c-c63c88bf1150</Id>
+    <Book Series="Blue Beetle" Number="19" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="115089" />
     </Book>
-    <Book Series="Blue Beetle" Number="26" Volume="2006" Year="2008" Format="Main Series">
-      <Id>5ae43c16-5882-4644-aa47-eec3295effa4</Id>
+    <Book Series="Blue Beetle" Number="20" Volume="2006" Year="2007">
+      <Database Name="cv" Series="18443" Issue="120427" />
     </Book>
-    <Book Series="Blue Beetle" Number="27" Volume="2006" Year="2008" Format="Main Series">
-      <Id>62527823-8431-4590-9c0e-cdd6b653524d</Id>
+    <Book Series="Blue Beetle" Number="21" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="120254" />
     </Book>
-    <Book Series="Blue Beetle" Number="28" Volume="2006" Year="2008" Format="Main Series">
-      <Id>bfa37dd9-4d76-46b7-bdb8-bb34fda6ccf3</Id>
+    <Book Series="Blue Beetle" Number="22" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="121487" />
     </Book>
-    <Book Series="Blue Beetle" Number="29" Volume="2006" Year="2008" Format="Main Series">
-      <Id>dabe14c0-4607-409d-88a0-37a7976e36a4</Id>
+    <Book Series="Blue Beetle" Number="23" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="126244" />
     </Book>
-    <Book Series="Blue Beetle" Number="30" Volume="2006" Year="2008" Format="Main Series">
-      <Id>6bfa7553-8b0d-46e1-94d0-2eac6b3ea33d</Id>
+    <Book Series="Blue Beetle" Number="24" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="125749" />
     </Book>
-    <Book Series="Blue Beetle" Number="31" Volume="2006" Year="2008" Format="Main Series">
-      <Id>cb7eb34b-e7c5-4d10-b6fa-478904e9c48f</Id>
+    <Book Series="Blue Beetle" Number="25" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="125995" />
     </Book>
-    <Book Series="Blue Beetle" Number="32" Volume="2006" Year="2008" Format="Main Series">
-      <Id>e0ea8038-4d8e-400e-8831-5fefe2f15cca</Id>
+    <Book Series="Blue Beetle" Number="26" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="129106" />
     </Book>
-    <Book Series="Blue Beetle" Number="33" Volume="2006" Year="2009" Format="Main Series">
-      <Id>86975a2a-dc82-496b-b72c-fc9086e1ccd7</Id>
+    <Book Series="Blue Beetle" Number="27" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="133109" />
     </Book>
-    <Book Series="Blue Beetle" Number="34" Volume="2006" Year="2009" Format="Main Series">
-      <Id>4fd3b12a-1c51-4a89-87f3-0a7067bdacc2</Id>
+    <Book Series="Blue Beetle" Number="28" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="133136" />
     </Book>
-    <Book Series="Blue Beetle" Number="35" Volume="2006" Year="2009" Format="Main Series">
-      <Id>4e97adcd-0398-4b7e-a2a4-6b33ea175708</Id>
+    <Book Series="Blue Beetle" Number="29" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="134988" />
     </Book>
-    <Book Series="Blue Beetle" Number="36" Volume="2006" Year="2009" Format="Main Series">
-      <Id>d1d5fb64-b9fc-429d-bd4a-96c597a8727a</Id>
+    <Book Series="Blue Beetle" Number="30" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="138677" />
     </Book>
-    <Book Series="Booster Gold" Number="21" Volume="2007" Year="2009" Format="Main Series">
-      <Id>acbe4b40-c0b6-49da-8ba6-5df783198bb5</Id>
+    <Book Series="Blue Beetle" Number="31" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="139412" />
     </Book>
-    <Book Series="Booster Gold" Number="22" Volume="2007" Year="2009" Format="Main Series">
-      <Id>82abd577-525a-4aea-95f0-7585997ec225</Id>
+    <Book Series="Blue Beetle" Number="32" Volume="2006" Year="2008">
+      <Database Name="cv" Series="18443" Issue="141461" />
     </Book>
-    <Book Series="Booster Gold" Number="23" Volume="2007" Year="2009" Format="Main Series">
-      <Id>af57ba89-d3e7-4c03-8b2d-f7e90475794f</Id>
+    <Book Series="Blue Beetle" Number="33" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18443" Issue="143504" />
     </Book>
-    <Book Series="Booster Gold" Number="24" Volume="2007" Year="2009" Format="Main Series">
-      <Id>cbef1537-7f38-481a-96a9-89ee7a3a3447</Id>
+    <Book Series="Blue Beetle" Number="34" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18443" Issue="149766" />
     </Book>
-    <Book Series="Booster Gold" Number="25" Volume="2007" Year="2009" Format="Main Series">
-      <Id>6b9e899c-b8b2-4950-b462-c8d6aec3a63b</Id>
+    <Book Series="Blue Beetle" Number="35" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18443" Issue="151373" />
     </Book>
-    <Book Series="Booster Gold" Number="26" Volume="2007" Year="2010" Format="Main Series">
-      <Id>1af4c5a9-cb47-4d27-8c54-3498dd0a7102</Id>
+    <Book Series="Blue Beetle" Number="36" Volume="2006" Year="2009">
+      <Database Name="cv" Series="18443" Issue="152823" />
     </Book>
-    <Book Series="Booster Gold" Number="27" Volume="2007" Year="2010" Format="Main Series">
-      <Id>a0276d22-f15b-4aea-8c37-e87c8e7551f4</Id>
+    <Book Series="Booster Gold" Number="21" Volume="2007" Year="2009">
+      <Database Name="cv" Series="19025" Issue="159848" />
     </Book>
-    <Book Series="Booster Gold" Number="28" Volume="2007" Year="2010" Format="Main Series">
-      <Id>9e7cd434-1379-499c-979b-c2d393b36cd3</Id>
+    <Book Series="Booster Gold" Number="22" Volume="2007" Year="2009">
+      <Database Name="cv" Series="19025" Issue="163283" />
     </Book>
-    <Book Series="Booster Gold" Number="29" Volume="2007" Year="2010" Format="Main Series">
-      <Id>ebbe8a08-47b9-422d-b1d4-ffc52172c264</Id>
+    <Book Series="Booster Gold" Number="23" Volume="2007" Year="2009">
+      <Database Name="cv" Series="19025" Issue="166826" />
+    </Book>
+    <Book Series="Booster Gold" Number="24" Volume="2007" Year="2009">
+      <Database Name="cv" Series="19025" Issue="170391" />
+    </Book>
+    <Book Series="Booster Gold" Number="25" Volume="2007" Year="2009">
+      <Database Name="cv" Series="19025" Issue="176019" />
+    </Book>
+    <Book Series="Booster Gold" Number="26" Volume="2007" Year="2010">
+      <Database Name="cv" Series="19025" Issue="182940" />
+    </Book>
+    <Book Series="Booster Gold" Number="27" Volume="2007" Year="2010">
+      <Database Name="cv" Series="19025" Issue="186736" />
+    </Book>
+    <Book Series="Booster Gold" Number="28" Volume="2007" Year="2010">
+      <Database Name="cv" Series="19025" Issue="192765" />
+    </Book>
+    <Book Series="Booster Gold" Number="29" Volume="2007" Year="2010">
+      <Database Name="cv" Series="19025" Issue="196777" />
     </Book>
   </Books>
   <Matchers />
