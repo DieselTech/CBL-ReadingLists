@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1994] Zero Hour (DC Comics)(LoCG)</Name>
 <NumIssues>46</NumIssues>
@@ -42,7 +42,7 @@
 <Book Series="Zero Hour: Crisis in Time" Number="4" Volume="1994" Year="1994">
 <Database Name="cv" Series="5271" Issue="39622" />
 </Book>
-<Book Series="Darkstars" Number="24" Volume="1992" Year="1994">
+<Book Series="The Darkstars" Number="24" Volume="1992" Year="1994">
 <Database Name="cv" Series="7273" Issue="76343" />
 </Book>
 <Book Series="Batman" Number="511" Volume="1940" Year="1994">

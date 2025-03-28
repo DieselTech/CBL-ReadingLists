@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1998-1999] No Man's Land (DC Comics)(LoCG)</Name>
 <NumIssues>99</NumIssues>
@@ -123,7 +123,7 @@
 <Book Series="Detective Comics" Number="734" Volume="1937" Year="1999">
 <Database Name="cv" Series="18058" Issue="113208" />
 </Book>
-<Book Series="Young Justice: No Man's Land Special" Number="1" Volume="1999" Year="1999">
+<Book Series="Young Justice in No Man's Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21891" Issue="131873" />
 </Book>
 <Book Series="Batman: Legends of the Dark Knight" Number="120" Volume="1992" Year="1999">

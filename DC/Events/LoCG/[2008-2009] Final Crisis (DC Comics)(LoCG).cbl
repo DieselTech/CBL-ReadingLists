@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2008-2009] Final Crisis (DC Comics)(LoCG)</Name>
 <NumIssues>43</NumIssues>
@@ -51,10 +51,10 @@
 <Book Series="Final Crisis" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="21712" Issue="135068" />
 </Book>
-<Book Series="Final Crisis: Superman Beyond 3D" Number="1" Volume="2008" Year="2008">
+<Book Series="Final Crisis: Superman Beyond" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22763" Issue="136525" />
 </Book>
-<Book Series="Final Crisis: Superman Beyond 3D" Number="2" Volume="2008" Year="2009">
+<Book Series="Final Crisis: Superman Beyond" Number="2" Volume="2008" Year="2009">
 <Database Name="cv" Series="22763" Issue="150506" />
 </Book>
 <Book Series="Final Crisis: Revelations" Number="2" Volume="2008" Year="2008">

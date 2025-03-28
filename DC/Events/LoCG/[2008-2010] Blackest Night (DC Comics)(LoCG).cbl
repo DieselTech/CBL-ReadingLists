@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2008-2010] Blackest Night (DC Comics)(LoCG)</Name>
 <NumIssues>97</NumIssues>
@@ -246,7 +246,7 @@
 <Book Series="Green Lantern" Number="50" Volume="2005" Year="2010">
 <Database Name="cv" Series="18216" Issue="194620" />
 </Book>
-<Book Series="Atom and Hawkman" Number="46" Volume="1968" Year="2010">
+<Book Series="The Atom &amp; Hawkman" Number="46" Volume="1968" Year="2010">
 <Database Name="cv" Series="2387" Issue="194433" />
 </Book>
 <Book Series="Blackest Night: JSA" Number="2" Volume="2009" Year="2010">
