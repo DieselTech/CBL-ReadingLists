@@ -3,11 +3,23 @@
 <Name>[DC Comics] Red Daughter of Krypton (WEB-CBRO)</Name>
 <NumIssues>11</NumIssues>
 <Books>
+<Book Series="Supergirl" Number="26" Volume="2011" Year="2014">
+<Database Name="cv" Series="42949" Issue="437425" />
+</Book>
+<Book Series="Supergirl" Number="27" Volume="2011" Year="2014">
+<Database Name="cv" Series="42949" Issue="442880" />
+</Book>
+<Book Series="Supergirl" Number="28" Volume="2011" Year="2014">
+<Database Name="cv" Series="42949" Issue="445772" />
+</Book>
 <Book Series="Supergirl" Number="29" Volume="2011" Year="2014">
 <Database Name="cv" Series="42949" Issue="447955" />
 </Book>
 <Book Series="Green Lantern" Number="28" Volume="2011" Year="2014">
 <Database Name="cv" Series="42808" Issue="444476" />
+</Book>
+<Book Series="Red Lanterns" Number="28" Volume="2011" Year="2014">
+<Database Name="cv" Series="42804" Issue="444477" />
 </Book>
 <Book Series="Red Lanterns" Number="29" Volume="2011" Year="2014">
 <Database Name="cv" Series="42804" Issue="448916" />
@@ -21,8 +33,14 @@
 <Book Series="Supergirl" Number="31" Volume="2011" Year="2014">
 <Database Name="cv" Series="42949" Issue="453368" />
 </Book>
+<Book Series="Red Lanterns" Number="31" Volume="2011" Year="2014">
+<Database Name="cv" Series="42804" Issue="454049" />
+</Book>
 <Book Series="Red Lanterns" Number="32" Volume="2011" Year="2014">
 <Database Name="cv" Series="42804" Issue="457583" />
+</Book>
+<Book Series="Supergirl" Number="32" Volume="2011" Year="2014">
+<Database Name="cv" Series="42949" Issue="456504" />
 </Book>
 <Book Series="Supergirl" Number="33" Volume="2011" Year="2014">
 <Database Name="cv" Series="42949" Issue="459633" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Death of the Family (WEB-CBRO)</Name>
-<NumIssues>29</NumIssues>
+<NumIssues>30</NumIssues>
 <Books>
 <Book Series="Batgirl" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="42604" Issue="360791" />
@@ -35,6 +35,9 @@
 </Book>
 <Book Series="Batgirl" Number="14" Volume="2011" Year="2013">
 <Database Name="cv" Series="42604" Issue="367688" />
+</Book>
+<Book Series="Nightwing" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="42720" Issue="362157" />
 </Book>
 <Book Series="Nightwing" Number="14" Volume="2011" Year="2013">
 <Database Name="cv" Series="42720" Issue="369029" />
