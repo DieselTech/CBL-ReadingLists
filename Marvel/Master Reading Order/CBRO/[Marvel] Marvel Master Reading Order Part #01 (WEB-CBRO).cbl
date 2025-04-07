@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #01 (WEB-CBRO)</Name>
-<NumIssues>947</NumIssues>
+<NumIssues>954</NumIssues>
 <Books>
 <Book Series="Thor: Son of Asgard" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="21670" Issue="130751" />
@@ -156,8 +156,8 @@
 <Book Series="Doctor Strange: Season One" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="52107" Issue="357023" />
 </Book>
-<Book Series="Mystic Arcana: The Book of Marvel Magic" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="18680" Issue="110379" />
+<Book Series="Mystic Arcana" Number="3" Volume="2007" Year="2007">
+<Database Name="cv" Series="18352" Issue="109802" />
 </Book>
 <Book Series="Ororo: Before the Storm" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18075" Issue="105857" />
@@ -462,7 +462,7 @@
 <Book Series="Tales to Astonish" Number="44" Volume="1959" Year="1963">
 <Database Name="cv" Series="2008" Issue="6556" />
 </Book>
-<Book Series="Avengers Origins: Ant-Man &#38; The Wasp" Number="1" Volume="2012" Year="2012">
+<Book Series="Avengers Origins: Ant-Man & The Wasp" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43841" Issue="301210" />
 </Book>
 <Book Series="Fantastic Four" Number="16" Volume="1961" Year="1963">
@@ -567,6 +567,12 @@
 <Book Series="Avengers: Earth's Mightiest Heroes" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118075" />
 </Book>
+<Book Series="Tales to Astonish" Number="49" Volume="1959" Year="1963">
+<Database Name="cv" Series="2008" Issue="6786" />
+</Book>
+<Book Series="Tales of Suspense" Number="48" Volume="1959" Year="1963">
+<Database Name="cv" Series="2007" Issue="6830" />
+</Book>
 <Book Series="The Avengers" Number="4" Volume="1963" Year="1964">
 <Database Name="cv" Series="2128" Issue="7025" />
 </Book>
@@ -594,6 +600,18 @@
 <Book Series="Avengers: Earth's Mightiest Heroes" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118082" />
 </Book>
+<Book Series="Journey into Mystery" Number="101" Volume="1952" Year="1964">
+<Database Name="cv" Series="1497" Issue="6987" />
+</Book>
+<Book Series="Journey into Mystery" Number="102" Volume="1952" Year="1964">
+<Database Name="cv" Series="1497" Issue="7027" />
+</Book>
+<Book Series="Journey into Mystery" Number="103" Volume="1952" Year="1964">
+<Database Name="cv" Series="1497" Issue="7069" />
+</Book>
+<Book Series="Journey into Mystery" Number="104" Volume="1952" Year="1964">
+<Database Name="cv" Series="1497" Issue="7108" />
+</Book>
 <Book Series="Captain America: Man Out of Time" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="36480" Issue="256378" />
 </Book>
@@ -612,8 +630,32 @@
 <Book Series="The Avengers" Number="9" Volume="1963" Year="1964">
 <Database Name="cv" Series="2128" Issue="7371" />
 </Book>
-<Book Series="Tales of Suspense" Number="48" Volume="1959" Year="1963">
-<Database Name="cv" Series="2007" Issue="6830" />
+<Book Series="X-Men Origins: Iceman" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="29328" Issue="181297" />
+</Book>
+<Book Series="X-Men Origins: Beast" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22875" Issue="137380" />
+</Book>
+<Book Series="The X-Men" Number="1" Volume="1963" Year="1963">
+<Database Name="cv" Series="2133" Issue="6694" />
+</Book>
+<Book Series="Mythos: X-Men" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="32098" Issue="201469" />
+</Book>
+<Book Series="X-Men Origins: Jean Grey" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22629" Issue="135782" />
+</Book>
+<Book Series="X-Men Origins: Cyclops" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="31052" Issue="192575" />
+</Book>
+<Book Series="The X-Men" Number="3" Volume="1963" Year="1964">
+<Database Name="cv" Series="2133" Issue="6946" />
+</Book>
+<Book Series="The X-Men" Number="4" Volume="1963" Year="1964">
+<Database Name="cv" Series="2133" Issue="7032" />
+</Book>
+<Book Series="X-Men: Season One" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="46608" Issue="321744" />
 </Book>
 <Book Series="Tales of Suspense" Number="49" Volume="1959" Year="1964">
 <Database Name="cv" Series="2007" Issue="6944" />
@@ -641,9 +683,6 @@
 </Book>
 <Book Series="Avengers: Season One" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="64453" Issue="386970" />
-</Book>
-<Book Series="Avengers Origins: Scarlet Witch &#38; Quicksilver" Number="1" Volume="2012" Year="2012">
-<Database Name="cv" Series="44148" Issue="303673" />
 </Book>
 <Book Series="Untold Tales of Spider-Man" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5562" Issue="41388" />
@@ -692,27 +731,6 @@
 </Book>
 <Book Series="Strange Tales" Number="125" Volume="1951" Year="1964">
 <Database Name="cv" Series="18066" Issue="110996" />
-</Book>
-<Book Series="Strange Tales" Number="126" Volume="1951" Year="1964">
-<Database Name="cv" Series="18066" Issue="110997" />
-</Book>
-<Book Series="Strange Tales" Number="127" Volume="1951" Year="1964">
-<Database Name="cv" Series="18066" Issue="110998" />
-</Book>
-<Book Series="Strange Tales" Number="128" Volume="1951" Year="1965">
-<Database Name="cv" Series="18066" Issue="111040" />
-</Book>
-<Book Series="Journey into Mystery" Number="101" Volume="1952" Year="1964">
-<Database Name="cv" Series="1497" Issue="6987" />
-</Book>
-<Book Series="Journey into Mystery" Number="102" Volume="1952" Year="1964">
-<Database Name="cv" Series="1497" Issue="7027" />
-</Book>
-<Book Series="Journey into Mystery" Number="103" Volume="1952" Year="1964">
-<Database Name="cv" Series="1497" Issue="7069" />
-</Book>
-<Book Series="Journey into Mystery" Number="104" Volume="1952" Year="1964">
-<Database Name="cv" Series="1497" Issue="7108" />
 </Book>
 <Book Series="Journey into Mystery" Number="105" Volume="1952" Year="1964">
 <Database Name="cv" Series="1497" Issue="7159" />
@@ -774,32 +792,14 @@
 <Book Series="The Amazing Spider-Man Annual" Number="1" Volume="1964" Year="1964">
 <Database Name="cv" Series="2189" Issue="6837" />
 </Book>
-<Book Series="X-Men Origins: Iceman" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="29328" Issue="181297" />
+<Book Series="Strange Tales" Number="126" Volume="1951" Year="1964">
+<Database Name="cv" Series="18066" Issue="110997" />
 </Book>
-<Book Series="X-Men Origins: Beast" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="22875" Issue="137380" />
+<Book Series="Strange Tales" Number="127" Volume="1951" Year="1964">
+<Database Name="cv" Series="18066" Issue="110998" />
 </Book>
-<Book Series="The X-Men" Number="1" Volume="1963" Year="1963">
-<Database Name="cv" Series="2133" Issue="6694" />
-</Book>
-<Book Series="Mythos: X-Men" Number="1" Volume="2005" Year="2005">
-<Database Name="cv" Series="32098" Issue="201469" />
-</Book>
-<Book Series="X-Men Origins: Jean Grey" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="22629" Issue="135782" />
-</Book>
-<Book Series="X-Men Origins: Cyclops" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="31052" Issue="192575" />
-</Book>
-<Book Series="The X-Men" Number="3" Volume="1963" Year="1964">
-<Database Name="cv" Series="2133" Issue="6946" />
-</Book>
-<Book Series="The X-Men" Number="4" Volume="1963" Year="1964">
-<Database Name="cv" Series="2133" Issue="7032" />
-</Book>
-<Book Series="X-Men: Season One" Number="1" Volume="2012" Year="2012">
-<Database Name="cv" Series="46608" Issue="321744" />
+<Book Series="Strange Tales" Number="128" Volume="1951" Year="1965">
+<Database Name="cv" Series="18066" Issue="111040" />
 </Book>
 <Book Series="Fantastic Four" Number="28" Volume="1961" Year="1964">
 <Database Name="cv" Series="2045" Issue="7200" />
@@ -933,6 +933,18 @@
 <Book Series="Journey into Mystery" Number="119" Volume="1952" Year="1965">
 <Database Name="cv" Series="1497" Issue="7962" />
 </Book>
+<Book Series="The X-Men" Number="10" Volume="1963" Year="1965">
+<Database Name="cv" Series="2133" Issue="7674" />
+</Book>
+<Book Series="The X-Men" Number="11" Volume="1963" Year="1965">
+<Database Name="cv" Series="2133" Issue="7782" />
+</Book>
+<Book Series="The X-Men" Number="12" Volume="1963" Year="1965">
+<Database Name="cv" Series="2133" Issue="7900" />
+</Book>
+<Book Series="The X-Men" Number="13" Volume="1963" Year="1965">
+<Database Name="cv" Series="2133" Issue="8037" />
+</Book>
 <Book Series="Avengers: Earth's Mightiest Heroes" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118085" />
 </Book>
@@ -950,6 +962,9 @@
 </Book>
 <Book Series="Avengers: Earth's Mightiest Heroes" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118089" />
+</Book>
+<Book Series="Avengers Origins: Scarlet Witch & Quicksilver" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="44148" Issue="303673" />
 </Book>
 <Book Series="Tales to Astonish" Number="60" Volume="1959" Year="1964">
 <Database Name="cv" Series="2008" Issue="7378" />
@@ -1053,18 +1068,6 @@
 <Book Series="Journey into Mystery" Number="123" Volume="1952" Year="1965">
 <Database Name="cv" Series="1497" Issue="8232" />
 </Book>
-<Book Series="The X-Men" Number="10" Volume="1963" Year="1965">
-<Database Name="cv" Series="2133" Issue="7674" />
-</Book>
-<Book Series="The X-Men" Number="11" Volume="1963" Year="1965">
-<Database Name="cv" Series="2133" Issue="7782" />
-</Book>
-<Book Series="The X-Men" Number="12" Volume="1963" Year="1965">
-<Database Name="cv" Series="2133" Issue="7900" />
-</Book>
-<Book Series="The X-Men" Number="13" Volume="1963" Year="1965">
-<Database Name="cv" Series="2133" Issue="8037" />
-</Book>
 <Book Series="The X-Men" Number="14" Volume="1963" Year="1965">
 <Database Name="cv" Series="2133" Issue="8170" />
 </Book>
@@ -1157,6 +1160,21 @@
 </Book>
 <Book Series="Strange Tales" Number="146" Volume="1951" Year="1966">
 <Database Name="cv" Series="18066" Issue="111106" />
+</Book>
+<Book Series="Daredevil" Number="10" Volume="1964" Year="1965">
+<Database Name="cv" Series="2190" Issue="8102" />
+</Book>
+<Book Series="Daredevil" Number="11" Volume="1964" Year="1965">
+<Database Name="cv" Series="2190" Issue="8230" />
+</Book>
+<Book Series="Daredevil" Number="12" Volume="1964" Year="1966">
+<Database Name="cv" Series="2190" Issue="8307" />
+</Book>
+<Book Series="Daredevil" Number="13" Volume="1964" Year="1966">
+<Database Name="cv" Series="2190" Issue="8366" />
+</Book>
+<Book Series="Daredevil" Number="14" Volume="1964" Year="1966">
+<Database Name="cv" Series="2190" Issue="8427" />
 </Book>
 <Book Series="The Avengers" Number="18" Volume="1963" Year="1965">
 <Database Name="cv" Series="2128" Issue="7892" />
@@ -1884,6 +1902,9 @@
 <Book Series="Avengers: Earth's Mightiest Heroes II" Number="8" Volume="2007" Year="2007">
 <Database Name="cv" Series="18603" Issue="111119" />
 </Book>
+<Book Series="Avengers Origins: Vision" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="43926" Issue="301866" />
+</Book>
 <Book Series="Marvel Super-Heroes" Number="12" Volume="1967" Year="1967">
 <Database Name="cv" Series="2353" Issue="9817" />
 </Book>
@@ -1953,8 +1974,11 @@
 <Book Series="Thor" Number="157" Volume="1966" Year="1968">
 <Database Name="cv" Series="2294" Issue="124585" />
 </Book>
-<Book Series="Avengers Origins: Vision" Number="1" Volume="2012" Year="2012">
-<Database Name="cv" Series="43926" Issue="301866" />
+<Book Series="Tales to Astonish" Number="92" Volume="1959" Year="1967">
+<Database Name="cv" Series="2008" Issue="9432" />
+</Book>
+<Book Series="Tales to Astonish" Number="93" Volume="1959" Year="1967">
+<Database Name="cv" Series="2008" Issue="9491" />
 </Book>
 <Book Series="The Silver Surfer" Number="1" Volume="1968" Year="1968">
 <Database Name="cv" Series="2411" Issue="109883" />
@@ -2030,12 +2054,6 @@
 </Book>
 <Book Series="The X-Men" Number="50" Volume="1963" Year="1968">
 <Database Name="cv" Series="2133" Issue="114340" />
-</Book>
-<Book Series="Tales to Astonish" Number="92" Volume="1959" Year="1967">
-<Database Name="cv" Series="2008" Issue="9432" />
-</Book>
-<Book Series="Tales to Astonish" Number="93" Volume="1959" Year="1967">
-<Database Name="cv" Series="2008" Issue="9491" />
 </Book>
 <Book Series="Tales to Astonish" Number="94" Volume="1959" Year="1967">
 <Database Name="cv" Series="2008" Issue="9563" />
@@ -2319,14 +2337,14 @@
 <Book Series="The Avengers" Number="62" Volume="1963" Year="1969">
 <Database Name="cv" Series="2128" Issue="10092" />
 </Book>
+<Book Series="Captain Marvel" Number="12" Volume="1968" Year="1969">
+<Database Name="cv" Series="2401" Issue="10149" />
+</Book>
 <Book Series="The Avengers" Number="63" Volume="1963" Year="1969">
 <Database Name="cv" Series="2128" Issue="10147" />
 </Book>
 <Book Series="Sub-Mariner" Number="14" Volume="1968" Year="1969">
 <Database Name="cv" Series="2413" Issue="10268" />
-</Book>
-<Book Series="Captain Marvel" Number="12" Volume="1968" Year="1969">
-<Database Name="cv" Series="2401" Issue="10149" />
 </Book>
 <Book Series="Captain Marvel" Number="13" Volume="1968" Year="1969">
 <Database Name="cv" Series="2401" Issue="10201" />
@@ -2427,6 +2445,18 @@
 <Book Series="Thor" Number="174" Volume="1966" Year="1970">
 <Database Name="cv" Series="2294" Issue="10721" />
 </Book>
+<Book Series="The Avengers" Number="73" Volume="1963" Year="1970">
+<Database Name="cv" Series="2128" Issue="10663" />
+</Book>
+<Book Series="The Avengers" Number="74" Volume="1963" Year="1970">
+<Database Name="cv" Series="2128" Issue="10708" />
+</Book>
+<Book Series="The Avengers" Number="75" Volume="1963" Year="1970">
+<Database Name="cv" Series="2128" Issue="10754" />
+</Book>
+<Book Series="The Avengers" Number="76" Volume="1963" Year="1970">
+<Database Name="cv" Series="2128" Issue="10800" />
+</Book>
 <Book Series="The Amazing Spider-Man" Number="78" Volume="1963" Year="1969">
 <Database Name="cv" Series="2127" Issue="10506" />
 </Book>
@@ -2523,18 +2553,6 @@
 <Book Series="Captain Marvel" Number="21" Volume="1968" Year="1970">
 <Database Name="cv" Series="2401" Issue="10951" />
 </Book>
-<Book Series="The Avengers" Number="73" Volume="1963" Year="1970">
-<Database Name="cv" Series="2128" Issue="10663" />
-</Book>
-<Book Series="The Avengers" Number="74" Volume="1963" Year="1970">
-<Database Name="cv" Series="2128" Issue="10708" />
-</Book>
-<Book Series="The Avengers" Number="75" Volume="1963" Year="1970">
-<Database Name="cv" Series="2128" Issue="10754" />
-</Book>
-<Book Series="The Avengers" Number="76" Volume="1963" Year="1970">
-<Database Name="cv" Series="2128" Issue="10800" />
-</Book>
 <Book Series="The Avengers" Number="77" Volume="1963" Year="1970">
 <Database Name="cv" Series="2128" Issue="10853" />
 </Book>
@@ -2549,6 +2567,9 @@
 </Book>
 <Book Series="The Avengers" Number="81" Volume="1963" Year="1970">
 <Database Name="cv" Series="2128" Issue="11049" />
+</Book>
+<Book Series="Daredevil" Number="69" Volume="1964" Year="1970">
+<Database Name="cv" Series="2190" Issue="11053" />
 </Book>
 <Book Series="The Avengers" Number="82" Volume="1963" Year="1970">
 <Database Name="cv" Series="2128" Issue="11096" />
@@ -2570,6 +2591,12 @@
 </Book>
 <Book Series="Savage Tales" Number="1" Volume="1971" Year="1971">
 <Database Name="cv" Series="2519" Issue="11437" />
+</Book>
+<Book Series="Sub-Mariner" Number="34" Volume="1968" Year="1971">
+<Database Name="cv" Series="2413" Issue="11285" />
+</Book>
+<Book Series="Sub-Mariner" Number="35" Volume="1968" Year="1971">
+<Database Name="cv" Series="2413" Issue="11334" />
 </Book>
 <Book Series="Amazing Adventures" Number="1" Volume="1970" Year="1970">
 <Database Name="cv" Series="2469" Issue="10946" />
@@ -2595,21 +2622,6 @@
 <Book Series="Amazing Adventures" Number="8" Volume="1970" Year="1971">
 <Database Name="cv" Series="2469" Issue="11656" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="88" Volume="1963" Year="1970">
-<Database Name="cv" Series="2127" Issue="11001" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="89" Volume="1963" Year="1970">
-<Database Name="cv" Series="2127" Issue="11047" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="90" Volume="1963" Year="1970">
-<Database Name="cv" Series="2127" Issue="11095" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="91" Volume="1963" Year="1970">
-<Database Name="cv" Series="2127" Issue="11150" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="92" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11214" />
-</Book>
 <Book Series="Captain America" Number="137" Volume="1968" Year="1971">
 <Database Name="cv" Series="2400" Issue="11426" />
 </Book>
@@ -2627,36 +2639,6 @@
 </Book>
 <Book Series="Captain America" Number="142" Volume="1968" Year="1971">
 <Database Name="cv" Series="2400" Issue="11719" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="93" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11271" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="94" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11320" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="95" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11374" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="96" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11424" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="97" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11483" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="98" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11538" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="99" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11597" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="100" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11657" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="101" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11717" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="102" Volume="1963" Year="1971">
-<Database Name="cv" Series="2127" Issue="11776" />
 </Book>
 <Book Series="The X-Men" Number="64" Volume="1963" Year="1970">
 <Database Name="cv" Series="2133" Issue="10635" />
@@ -2778,6 +2760,51 @@
 <Book Series="Fantastic Four" Number="116" Volume="1961" Year="1971">
 <Database Name="cv" Series="2045" Issue="11782" />
 </Book>
+<Book Series="The Amazing Spider-Man" Number="88" Volume="1963" Year="1970">
+<Database Name="cv" Series="2127" Issue="11001" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="89" Volume="1963" Year="1970">
+<Database Name="cv" Series="2127" Issue="11047" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="90" Volume="1963" Year="1970">
+<Database Name="cv" Series="2127" Issue="11095" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="91" Volume="1963" Year="1970">
+<Database Name="cv" Series="2127" Issue="11150" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="92" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11214" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="93" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11271" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="94" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11320" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="95" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11374" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="96" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11424" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="97" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11483" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="98" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11538" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="99" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11597" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="100" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11657" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="101" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11717" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="102" Volume="1963" Year="1971">
+<Database Name="cv" Series="2127" Issue="11776" />
+</Book>
 <Book Series="The Avengers" Number="88" Volume="1963" Year="1971">
 <Database Name="cv" Series="2128" Issue="11425" />
 </Book>
@@ -2822,12 +2849,6 @@
 </Book>
 <Book Series="The Avengers" Number="100" Volume="1963" Year="1972">
 <Database Name="cv" Series="2128" Issue="12260" />
-</Book>
-<Book Series="Sub-Mariner" Number="34" Volume="1968" Year="1971">
-<Database Name="cv" Series="2413" Issue="11285" />
-</Book>
-<Book Series="Sub-Mariner" Number="35" Volume="1968" Year="1971">
-<Database Name="cv" Series="2413" Issue="11334" />
 </Book>
 <Book Series="Marvel Feature" Number="1" Volume="1971" Year="1971">
 <Database Name="cv" Series="2515" Issue="11846" />
