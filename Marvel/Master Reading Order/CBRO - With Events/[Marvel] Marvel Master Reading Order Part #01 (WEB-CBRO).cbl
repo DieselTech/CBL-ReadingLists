@@ -462,7 +462,7 @@
 <Book Series="Tales to Astonish" Number="44" Volume="1959" Year="1963">
 <Database Name="cv" Series="2008" Issue="6556" />
 </Book>
-<Book Series="Avengers Origins: Ant-Man & The Wasp" Number="1" Volume="2012" Year="2012">
+<Book Series="Avengers Origins: Ant-Man &#38; The Wasp" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43841" Issue="301210" />
 </Book>
 <Book Series="Fantastic Four" Number="16" Volume="1961" Year="1963">
@@ -963,7 +963,7 @@
 <Book Series="Avengers: Earth's Mightiest Heroes" Number="8" Volume="2005" Year="2005">
 <Database Name="cv" Series="19690" Issue="118089" />
 </Book>
-<Book Series="Avengers Origins: Scarlet Witch & Quicksilver" Number="1" Volume="2012" Year="2012">
+<Book Series="Avengers Origins: Scarlet Witch &#38; Quicksilver" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44148" Issue="303673" />
 </Book>
 <Book Series="Tales to Astonish" Number="60" Volume="1959" Year="1964">
