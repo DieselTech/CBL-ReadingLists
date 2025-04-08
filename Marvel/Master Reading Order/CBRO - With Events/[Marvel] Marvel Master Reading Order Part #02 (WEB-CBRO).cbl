@@ -2127,8 +2127,8 @@
 <Book Series="The X-Men" Number="138" Volume="1963" Year="1980">
 <Database Name="cv" Series="2133" Issue="20751" />
 </Book>
-<Book Series="X-Men Annual" Number="14" Volume="1970" Year="1990">
-<Database Name="cv" Series="22988" Issue="107610" />
+<Book Series="X-Men Annual" Number="4" Volume="1970" Year="1980">
+<Database Name="cv" Series="22988" Issue="136137" />
 </Book>
 <Book Series="Man-Thing" Number="5" Volume="1979" Year="1980">
 <Database Name="cv" Series="3006" Issue="20530" />
