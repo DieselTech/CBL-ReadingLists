@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #03 (WEB-CBRO)</Name>
-<NumIssues>841</NumIssues>
+<NumIssues>846</NumIssues>
 <Books>
 <Book Series="Moon Knight" Number="1" Volume="1980" Year="1980">
 <Database Name="cv" Series="3052" Issue="20803" />
