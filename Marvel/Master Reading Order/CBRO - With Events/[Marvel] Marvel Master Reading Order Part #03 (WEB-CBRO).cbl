@@ -888,6 +888,36 @@
 <Book Series="The Uncanny X-Men" Number="171" Volume="1981" Year="1983">
 <Database Name="cv" Series="3092" Issue="23307" />
 </Book>
+<Book Series="The New Mutants" Number="4" Volume="1983" Year="1983">
+<Database Name="cv" Series="3234" Issue="23212" />
+</Book>
+<Book Series="The New Mutants" Number="5" Volume="1983" Year="1983">
+<Database Name="cv" Series="3234" Issue="23300" />
+</Book>
+<Book Series="The New Mutants" Number="6" Volume="1983" Year="1983">
+<Database Name="cv" Series="3234" Issue="23380" />
+</Book>
+<Book Series="The New Mutants" Number="7" Volume="1983" Year="1983">
+<Database Name="cv" Series="3234" Issue="23461" />
+</Book>
+<Book Series="The New Mutants" Number="8" Volume="1983" Year="1983">
+<Database Name="cv" Series="3234" Issue="23549" />
+</Book>
+<Book Series="The New Mutants" Number="9" Volume="1983" Year="1983">
+<Database Name="cv" Series="3234" Issue="23639" />
+</Book>
+<Book Series="The New Mutants" Number="10" Volume="1983" Year="1983">
+<Database Name="cv" Series="3234" Issue="23735" />
+</Book>
+<Book Series="The New Mutants" Number="11" Volume="1983" Year="1984">
+<Database Name="cv" Series="3234" Issue="23886" />
+</Book>
+<Book Series="The New Mutants" Number="12" Volume="1983" Year="1984">
+<Database Name="cv" Series="3234" Issue="24011" />
+</Book>
+<Book Series="The New Mutants" Number="13" Volume="1983" Year="1984">
+<Database Name="cv" Series="3234" Issue="24127" />
+</Book>
 <Book Series="Wolverine" Number="1" Volume="1982" Year="1982">
 <Database Name="cv" Series="3157" Issue="22463" />
 </Book>
@@ -1197,36 +1227,6 @@
 <Book Series="Power Man and Iron Fist" Number="120" Volume="1978" Year="1985">
 <Database Name="cv" Series="2959" Issue="86079" />
 </Book>
-<Book Series="The New Mutants" Number="4" Volume="1983" Year="1983">
-<Database Name="cv" Series="3234" Issue="23212" />
-</Book>
-<Book Series="The New Mutants" Number="5" Volume="1983" Year="1983">
-<Database Name="cv" Series="3234" Issue="23300" />
-</Book>
-<Book Series="The New Mutants" Number="6" Volume="1983" Year="1983">
-<Database Name="cv" Series="3234" Issue="23380" />
-</Book>
-<Book Series="The New Mutants" Number="7" Volume="1983" Year="1983">
-<Database Name="cv" Series="3234" Issue="23461" />
-</Book>
-<Book Series="The New Mutants" Number="8" Volume="1983" Year="1983">
-<Database Name="cv" Series="3234" Issue="23549" />
-</Book>
-<Book Series="The New Mutants" Number="9" Volume="1983" Year="1983">
-<Database Name="cv" Series="3234" Issue="23639" />
-</Book>
-<Book Series="The New Mutants" Number="10" Volume="1983" Year="1983">
-<Database Name="cv" Series="3234" Issue="23735" />
-</Book>
-<Book Series="The New Mutants" Number="11" Volume="1983" Year="1984">
-<Database Name="cv" Series="3234" Issue="23886" />
-</Book>
-<Book Series="The New Mutants" Number="12" Volume="1983" Year="1984">
-<Database Name="cv" Series="3234" Issue="24011" />
-</Book>
-<Book Series="The New Mutants" Number="13" Volume="1983" Year="1984">
-<Database Name="cv" Series="3234" Issue="24127" />
-</Book>
 <Book Series="Spider-Woman" Number="50" Volume="1978" Year="1983">
 <Database Name="cv" Series="2960" Issue="23216" />
 </Book>
@@ -1497,6 +1497,18 @@
 <Book Series="Rom" Number="66" Volume="1979" Year="1985">
 <Database Name="cv" Series="3010" Issue="25495" />
 </Book>
+<Book Series="Marvel Fanfare" Number="10" Volume="1982" Year="1983">
+<Database Name="cv" Series="3143" Issue="23377" />
+</Book>
+<Book Series="Marvel Fanfare" Number="11" Volume="1982" Year="1983">
+<Database Name="cv" Series="3143" Issue="23634" />
+</Book>
+<Book Series="Marvel Fanfare" Number="12" Volume="1982" Year="1984">
+<Database Name="cv" Series="3143" Issue="23880" />
+</Book>
+<Book Series="Marvel Fanfare" Number="13" Volume="1982" Year="1984">
+<Database Name="cv" Series="3143" Issue="24101" />
+</Book>
 <Book Series="Captain America" Number="293" Volume="1968" Year="1984">
 <Database Name="cv" Series="2400" Issue="24299" />
 </Book>
@@ -1760,6 +1772,12 @@
 </Book>
 <Book Series="The Uncanny X-Men" Number="192" Volume="1981" Year="1985">
 <Database Name="cv" Series="3092" Issue="25406" />
+</Book>
+<Book Series="X-Men/Alpha Flight" Number="1" Volume="1985" Year="1985">
+<Database Name="cv" Series="3522" Issue="57851" />
+</Book>
+<Book Series="X-Men/Alpha Flight" Number="2" Volume="1985" Year="1986">
+<Database Name="cv" Series="3522" Issue="57852" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="193" Volume="1981" Year="1985">
 <Database Name="cv" Series="3092" Issue="25500" />
@@ -2124,14 +2142,11 @@
 <Book Series="The Amazing Spider-Man" Number="276" Volume="1963" Year="1986">
 <Database Name="cv" Series="2127" Issue="26783" />
 </Book>
+<Book Series="The Amazing Spider-Man" Number="277" Volume="1963" Year="1986">
+<Database Name="cv" Series="2127" Issue="26884" />
+</Book>
 <Book Series="The Amazing Spider-Man" Number="278" Volume="1963" Year="1986">
 <Database Name="cv" Series="2127" Issue="26982" />
-</Book>
-<Book Series="X-Men/Alpha Flight" Number="1" Volume="1985" Year="1985">
-<Database Name="cv" Series="3522" Issue="57851" />
-</Book>
-<Book Series="X-Men/Alpha Flight" Number="2" Volume="1985" Year="1986">
-<Database Name="cv" Series="3522" Issue="57852" />
 </Book>
 <Book Series="Iron Man" Number="198" Volume="1968" Year="1985">
 <Database Name="cv" Series="2407" Issue="25881" />
