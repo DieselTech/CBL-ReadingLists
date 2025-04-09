@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #04 (WEB-CBRO)</Name>
-<NumIssues>1127</NumIssues>
+<NumIssues>1125</NumIssues>
 <Books>
 <Book Series="The Avengers" Number="267" Volume="1963" Year="1986">
 <Database Name="cv" Series="2128" Issue="26784" />
@@ -182,9 +182,6 @@
 </Book>
 <Book Series="The Incredible Hulk" Number="339" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="29144" />
-</Book>
-<Book Series="The Incredible Hulk" Number="340" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29262" />
 </Book>
 <Book Series="The Avengers" Number="281" Volume="1963" Year="1987">
 <Database Name="cv" Series="2128" Issue="28333" />
@@ -824,9 +821,6 @@
 </Book>
 <Book Series="Power Pack" Number="44" Volume="1984" Year="1989">
 <Database Name="cv" Series="3358" Issue="30994" />
-</Book>
-<Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31537" />
 </Book>
 <Book Series="Excalibur" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="4052" Issue="66340" />
