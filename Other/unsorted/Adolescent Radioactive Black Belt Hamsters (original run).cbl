@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Adolescent Radioactive Black Belt Hamsters (original run)</Name>
 <NumIssues>20</NumIssues>
@@ -61,7 +61,7 @@
 <Database Name="cv" Series="139824" Issue="928575" />
 </Book>
 <Book Series="Adolescent Radioactive Black Belt Hamsters: Lost and Alone in New York" Number="1" Volume="1993" Year="0">
-<Database Name="cv" Series="83040" Issue="480902" />
+<Database Name="cv" Series="80340" Issue="480902" />
 </Book>
 </Books>
 <Matchers />

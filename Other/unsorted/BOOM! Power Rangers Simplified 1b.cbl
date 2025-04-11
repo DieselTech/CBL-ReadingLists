@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Simplified Power Rangers 1b</Name>
 <NumIssues>164</NumIssues>
@@ -435,7 +435,7 @@
 <Book Series="Power Rangers Unlimited: The Death Ranger" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144890" Issue="945155" />
 </Book>
-<Book Series="Mighty Morphin Power Rangers" Number="100" Volume="2016" Year="2022">
+<Book Series="Mighty Morphin" Number="100" Volume="2016" Year="2022">
 <Database Name="cv" Series="131698" Issue="949165" />
 </Book>
 <Book Series="Mighty Morphin Power Rangers" Number="101" Volume="2016" Year="2022">

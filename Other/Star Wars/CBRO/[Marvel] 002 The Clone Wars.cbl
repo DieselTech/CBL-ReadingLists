@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 002 The Clone Wars</Name>
 <NumIssues>28</NumIssues>
 <Books>
-<Book Series="Star Wars: Age of Republic - Qui-Gon Jin" Number="1" Volume="2018" Year="2019">
+<Book Series="Star Wars: Age of Republic - Qui-Gon Jinn" Number="1" Volume="2018" Year="2019">
 <Database Name="cv" Series="115764" Issue="694146" />
 </Book>
 <Book Series="Star Wars: Darth Maul" Number="1" Volume="2017" Year="2017">
