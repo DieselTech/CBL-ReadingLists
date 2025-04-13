@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #04 (WEB-CBRO)</Name>
-<NumIssues>1129</NumIssues>
+<NumIssues>1125</NumIssues>
 <Books>
 <Book Series="The Avengers" Number="267" Volume="1963" Year="1986">
 <Database Name="cv" Series="2128" Issue="26784" />
@@ -183,9 +183,6 @@
 <Book Series="The Incredible Hulk" Number="339" Volume="1968" Year="1988">
 <Database Name="cv" Series="2406" Issue="29144" />
 </Book>
-<Book Series="The Incredible Hulk" Number="340" Volume="1968" Year="1988">
-<Database Name="cv" Series="2406" Issue="29262" />
-</Book>
 <Book Series="The Avengers" Number="281" Volume="1963" Year="1987">
 <Database Name="cv" Series="2128" Issue="28333" />
 </Book>
@@ -311,6 +308,9 @@
 </Book>
 <Book Series="The Uncanny X-Men" Number="224" Volume="1981" Year="1987">
 <Database Name="cv" Series="3092" Issue="28935" />
+</Book>
+<Book Series="The Incredible Hulk" Number="340" Volume="1968" Year="1988">
+<Database Name="cv" Series="2406" Issue="29262" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="225" Volume="1981" Year="1988">
 <Database Name="cv" Series="3092" Issue="29158" />
@@ -822,9 +822,6 @@
 <Book Series="Power Pack" Number="44" Volume="1984" Year="1989">
 <Database Name="cv" Series="3358" Issue="30994" />
 </Book>
-<Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31537" />
-</Book>
 <Book Series="Excalibur" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="4052" Issue="66340" />
 </Book>
@@ -1065,11 +1062,20 @@
 <Book Series="Fantastic Four Annual" Number="22" Volume="1963" Year="1989">
 <Database Name="cv" Series="2129" Issue="30691" />
 </Book>
+<Book Series="Avengers West Coast" Number="57" Volume="1989" Year="1990">
+<Database Name="cv" Series="18494" Issue="114077" />
+</Book>
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="9" Volume="1988" Year="1989">
 <Database Name="cv" Series="4049" Issue="47899" />
 </Book>
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="10" Volume="1988" Year="1989">
 <Database Name="cv" Series="4049" Issue="47900" />
+</Book>
+<Book Series="Iron Man" Number="249" Volume="1968" Year="1989">
+<Database Name="cv" Series="2407" Issue="31923" />
+</Book>
+<Book Series="Iron Man" Number="250" Volume="1968" Year="1989">
+<Database Name="cv" Series="2407" Issue="32000" />
 </Book>
 <Book Series="Havok &#38; Wolverine: Meltdown" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="4055" Issue="29050" />
@@ -1140,26 +1146,23 @@
 <Book Series="X-Factor" Number="49" Volume="1986" Year="1989">
 <Database Name="cv" Series="3657" Issue="32077" />
 </Book>
+<Book Series="The Mighty Thor" Number="410" Volume="1989" Year="1989">
+<Database Name="cv" Series="61213" Issue="31934" />
+</Book>
+<Book Series="X-Factor" Number="50" Volume="1986" Year="1990">
+<Database Name="cv" Series="3657" Issue="32340" />
+</Book>
 <Book Series="Avengers Spotlight" Number="26" Volume="1989" Year="1989">
 <Database Name="cv" Series="4218" Issue="31992" />
 </Book>
 <Book Series="The New Mutants" Number="86" Volume="1983" Year="1990">
 <Database Name="cv" Series="3234" Issue="32456" />
 </Book>
-<Book Series="X-Factor" Number="50" Volume="1986" Year="1990">
-<Database Name="cv" Series="3657" Issue="32340" />
-</Book>
 <Book Series="Damage Control" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="4350" Issue="32051" />
 </Book>
 <Book Series="The Avengers" Number="311" Volume="1963" Year="1989">
 <Database Name="cv" Series="2128" Issue="31993" />
-</Book>
-<Book Series="The Mighty Thor" Number="410" Volume="1989" Year="1989">
-<Database Name="cv" Series="61213" Issue="31934" />
-</Book>
-<Book Series="Iron Man" Number="250" Volume="1968" Year="1989">
-<Database Name="cv" Series="2407" Issue="32000" />
 </Book>
 <Book Series="Captain America" Number="365" Volume="1968" Year="1989">
 <Database Name="cv" Series="2400" Issue="32056" />
@@ -1290,9 +1293,6 @@
 <Book Series="Captain America" Number="366" Volume="1968" Year="1990">
 <Database Name="cv" Series="2400" Issue="32317" />
 </Book>
-<Book Series="The Mutant Misadventures of Cloak and Dagger" Number="10" Volume="1988" Year="1990">
-<Database Name="cv" Series="4060" Issue="95268" />
-</Book>
 <Book Series="Iron Man" Number="252" Volume="1968" Year="1990">
 <Database Name="cv" Series="2407" Issue="32321" />
 </Book>
@@ -1361,12 +1361,6 @@
 </Book>
 <Book Series="Wolverine" Number="23" Volume="1988" Year="1990">
 <Database Name="cv" Series="4250" Issue="64287" />
-</Book>
-<Book Series="Avengers West Coast" Number="56" Volume="1989" Year="1990">
-<Database Name="cv" Series="18494" Issue="114102" />
-</Book>
-<Book Series="Avengers West Coast" Number="57" Volume="1989" Year="1990">
-<Database Name="cv" Series="18494" Issue="114077" />
 </Book>
 <Book Series="Iron Man: Legacy of Doom" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21248" Issue="127842" />
