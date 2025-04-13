@@ -471,13 +471,13 @@
 <Book Series="Guardians of the Galaxy" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="547277" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="8" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="547289" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="9" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="549522" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="10" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="551314" />
 </Book>
 <Book Series="Venom: Space Knight" Number="11" Volume="2015" Year="2016">
