@@ -663,13 +663,13 @@
 <Book Series="Guardians of the Galaxy" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="547277" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="8" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="547289" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="9" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="549522" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="10" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="551314" />
 </Book>
 <Book Series="Venom: Space Knight" Number="11" Volume="2015" Year="2016">
@@ -799,7 +799,7 @@
 <Database Name="cv" Series="94612" Issue="579308" />
 </Book>
 <Book Series="Monsters Unleashed" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="100829" Issue="592601" />
+<Database Name="cv" Series="98067" Issue="576629" />
 </Book>
 <Book Series="Avengers" Number="1.MU" Volume="2016" Year="2017">
 <Database Name="cv" Series="95402" Issue="578450" />
@@ -808,13 +808,13 @@
 <Database Name="cv" Series="87182" Issue="578473" />
 </Book>
 <Book Series="Monsters Unleashed" Number="2" Volume="2017" Year="2017">
-<Database Name="cv" Series="100829" Issue="595695" />
+<Database Name="cv" Series="98067" Issue="579318" />
 </Book>
 <Book Series="All-New X-Men" Number="1.MU" Volume="2015" Year="2017">
 <Database Name="cv" Series="86334" Issue="579304" />
 </Book>
 <Book Series="Monsters Unleashed" Number="3" Volume="2017" Year="2017">
-<Database Name="cv" Series="100829" Issue="603129" />
+<Database Name="cv" Series="98067" Issue="581562" />
 </Book>
 <Book Series="Doctor Strange" Number="1.MU" Volume="2015" Year="2017">
 <Database Name="cv" Series="85094" Issue="581555" />
@@ -826,7 +826,7 @@
 <Database Name="cv" Series="94612" Issue="582520" />
 </Book>
 <Book Series="Monsters Unleashed" Number="4" Volume="2017" Year="2017">
-<Database Name="cv" Series="100829" Issue="609352" />
+<Database Name="cv" Series="98067" Issue="583724" />
 </Book>
 <Book Series="The Totally Awesome Hulk" Number="1.MU" Volume="2015" Year="2017">
 <Database Name="cv" Series="86408" Issue="583732" />
@@ -835,7 +835,7 @@
 <Database Name="cv" Series="85290" Issue="585079" />
 </Book>
 <Book Series="Monsters Unleashed" Number="5" Volume="2017" Year="2017">
-<Database Name="cv" Series="100829" Issue="615026" />
+<Database Name="cv" Series="98067" Issue="587412" />
 </Book>
 <Book Series="Champions" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="583714" />
