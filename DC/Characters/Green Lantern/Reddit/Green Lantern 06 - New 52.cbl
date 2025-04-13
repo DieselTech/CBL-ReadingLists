@@ -615,6 +615,9 @@
 <Book Series="Sinestro" Number="8" Volume="2014" Year="2015">
 <Database Name="cv" Series="73088" Issue="474572" />
 </Book>
+<Book Series="Green Lantern Annual" Number="3" Volume="2012" Year="2015">
+<Database Name="cv" Series="51615" Issue="474564" />
+</Book>
 <Book Series="Green Lantern" Number="38" Volume="2011" Year="2015">
 <Database Name="cv" Series="42808" Issue="475415" />
 </Book>
@@ -623,9 +626,6 @@
 </Book>
 <Book Series="Green Lantern" Number="40" Volume="2011" Year="2015">
 <Database Name="cv" Series="42808" Issue="481569" />
-</Book>
-<Book Series="Green Lantern Annual" Number="3" Volume="2012" Year="2015">
-<Database Name="cv" Series="51615" Issue="474564" />
 </Book>
 <Book Series="Green Lantern: Futures End" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="76721" Issue="463946" />
