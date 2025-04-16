@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #05 (WEB-CBRO)</Name>
-<NumIssues>1787</NumIssues>
+<NumIssues>1829</NumIssues>
 <Books>
 <Book Series="Doctor Strange, Sorcerer Supreme" Number="48" Volume="1988" Year="1992">
 <Database Name="cv" Series="4049" Issue="139653" />
@@ -2034,9 +2034,6 @@
 <Book Series="Cable" Number="20" Volume="1993" Year="1995">
 <Database Name="cv" Series="4993" Issue="40492" />
 </Book>
-<Book Series="X-Men: Age of Apocalypse" Number="1" Volume="2005" Year="2005">
-<Database Name="cv" Series="11501" Issue="101450" />
-</Book>
 <Book Series="X-Men Chronicles" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18037" Issue="105613" />
 </Book>
@@ -2177,6 +2174,9 @@
 </Book>
 <Book Series="X-Men Omega" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18093" Issue="105975" />
+</Book>
+<Book Series="X-Men: Age of Apocalypse" Number="1" Volume="2005" Year="2005">
+<Database Name="cv" Series="11501" Issue="101450" />
 </Book>
 <Book Series="X-Men: Prime" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="18154" Issue="106333" />
@@ -3066,8 +3066,14 @@
 <Book Series="Excalibur" Number="98" Volume="1988" Year="1996">
 <Database Name="cv" Series="4052" Issue="66381" />
 </Book>
+<Book Series="X-Men" Number="25" Volume="1991" Year="1993">
+<Database Name="cv" Series="4605" Issue="65726" />
+</Book>
 <Book Series="The Uncanny X-Men" Number="322" Volume="1981" Year="1995">
 <Database Name="cv" Series="3092" Issue="41143" />
+</Book>
+<Book Series="X-Force" Number="46" Volume="1991" Year="1995">
+<Database Name="cv" Series="4604" Issue="64520" />
 </Book>
 <Book Series="X-Men" Number="46" Volume="1991" Year="1995">
 <Database Name="cv" Series="4605" Issue="65747" />
@@ -3648,59 +3654,194 @@
 <Book Series="The Incredible Hulk" Number="459" Volume="1968" Year="1997">
 <Database Name="cv" Series="2406" Issue="80802" />
 </Book>
-<Book Series="Heroes Reborn" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="135903" Issue="847511" />
+<Book Series="Captain America" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="5776" Issue="42979" />
 </Book>
-<Book Series="Heroes Reborn: Hyperion &#38; the Imperial Guard" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136023" Issue="848853" />
+<Book Series="Captain America" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="5776" Issue="43072" />
 </Book>
-<Book Series="Heroes Reborn: Peter Parker, The Amazing Shutterbug" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136024" Issue="848854" />
+<Book Series="Captain America" Number="3" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="65827" />
 </Book>
-<Book Series="Heroes Reborn" Number="2" Volume="2021" Year="2021">
-<Database Name="cv" Series="135903" Issue="848852" />
+<Book Series="Captain America" Number="4" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="65828" />
 </Book>
-<Book Series="Heroes Reborn" Number="3" Volume="2021" Year="2021">
-<Database Name="cv" Series="135903" Issue="851308" />
+<Book Series="Captain America" Number="5" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="65829" />
 </Book>
-<Book Series="Heroes Reborn" Number="4" Volume="2021" Year="2021">
-<Database Name="cv" Series="135903" Issue="855615" />
+<Book Series="Fantastic Four" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="9462" Issue="77803" />
 </Book>
-<Book Series="Heroes Reborn: Magneto &#38; the Mutant Force" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136388" Issue="855617" />
+<Book Series="Fantastic Four" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="9462" Issue="77804" />
 </Book>
-<Book Series="Heroes Reborn: Siege Society" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136389" Issue="855618" />
+<Book Series="Avengers" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="6742" Issue="48257" />
 </Book>
-<Book Series="Heroes Reborn: Young Squadron" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136390" Issue="855621" />
+<Book Series="Fantastic Four" Number="3" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77805" />
 </Book>
-<Book Series="Heroes Reborn" Number="5" Volume="2021" Year="2021">
-<Database Name="cv" Series="135903" Issue="857651" />
+<Book Series="Avengers" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="6742" Issue="48258" />
 </Book>
-<Book Series="Heroes Reborn: American Knights" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136618" Issue="857652" />
+<Book Series="Avengers" Number="3" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48259" />
 </Book>
-<Book Series="Heroes Reborn: Marvel Double Action" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136619" Issue="857653" />
+<Book Series="Iron Man" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="18800" Issue="111124" />
 </Book>
-<Book Series="Heroes Reborn" Number="6" Volume="2021" Year="2021">
-<Database Name="cv" Series="135903" Issue="858875" />
+<Book Series="Iron Man" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="18800" Issue="157725" />
 </Book>
-<Book Series="Heroes Reborn: Squadron Savage" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136814" Issue="858877" />
+<Book Series="Iron Man" Number="3" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157726" />
 </Book>
-<Book Series="Heroes Reborn: Night-Gwen" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136813" Issue="858876" />
+<Book Series="Iron Man" Number="4" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157727" />
 </Book>
-<Book Series="Heroes Reborn" Number="7" Volume="2021" Year="2021">
-<Database Name="cv" Series="135903" Issue="861676" />
+<Book Series="Iron Man" Number="5" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157728" />
 </Book>
-<Book Series="Heroes Reborn: Weapon X &#38; Final Flight" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="136946" Issue="861677" />
+<Book Series="Avengers" Number="4" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48260" />
 </Book>
-<Book Series="Heroes Return" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="137049" Issue="863929" />
+<Book Series="Avengers" Number="5" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48261" />
+</Book>
+<Book Series="Fantastic Four" Number="4" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77806" />
+</Book>
+<Book Series="Fantastic Four" Number="5" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77807" />
+</Book>
+<Book Series="Fantastic Four" Number="6" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77808" />
+</Book>
+<Book Series="Avengers" Number="6" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48262" />
+</Book>
+<Book Series="Iron Man" Number="6" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157729" />
+</Book>
+<Book Series="Captain America" Number="6" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="43574" />
+</Book>
+<Book Series="Fantastic Four" Number="7" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77809" />
+</Book>
+<Book Series="Iron Man" Number="7" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157730" />
+</Book>
+<Book Series="Iron Man" Number="8" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157731" />
+</Book>
+<Book Series="Iron Man" Number="9" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157732" />
+</Book>
+<Book Series="Avengers" Number="7" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48263" />
+</Book>
+<Book Series="Avengers" Number="8" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48264" />
+</Book>
+<Book Series="Captain America" Number="7" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="43680" />
+</Book>
+<Book Series="Avengers" Number="9" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48265" />
+</Book>
+<Book Series="Avengers" Number="10" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48266" />
+</Book>
+<Book Series="Avengers" Number="11" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48267" />
+</Book>
+<Book Series="Iron Man" Number="10" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157733" />
+</Book>
+<Book Series="Iron Man" Number="11" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157734" />
+</Book>
+<Book Series="Fantastic Four" Number="8" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77810" />
+</Book>
+<Book Series="Fantastic Four" Number="9" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77811" />
+</Book>
+<Book Series="Fantastic Four" Number="10" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77812" />
+</Book>
+<Book Series="Captain America" Number="8" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="43770" />
+</Book>
+<Book Series="Captain America" Number="9" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="65830" />
+</Book>
+<Book Series="Captain America" Number="10" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="43969" />
+</Book>
+<Book Series="Captain America" Number="11" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="65831" />
+</Book>
+<Book Series="Fantastic Four" Number="11" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77813" />
+</Book>
+<Book Series="Fantastic Four" Number="12" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77814" />
+</Book>
+<Book Series="Avengers" Number="12" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48268" />
+</Book>
+<Book Series="Iron Man" Number="12" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157735" />
+</Book>
+<Book Series="Captain America" Number="12" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="65832" />
+</Book>
+<Book Series="Fantastic Four" Number="13" Volume="1996" Year="1997">
+<Database Name="cv" Series="9462" Issue="77815" />
+</Book>
+<Book Series="Avengers" Number="13" Volume="1996" Year="1997">
+<Database Name="cv" Series="6742" Issue="48269" />
+</Book>
+<Book Series="Iron Man" Number="13" Volume="1996" Year="1997">
+<Database Name="cv" Series="18800" Issue="157736" />
+</Book>
+<Book Series="Captain America" Number="13" Volume="1996" Year="1997">
+<Database Name="cv" Series="5776" Issue="65833" />
+</Book>
+<Book Series="Heroes Reborn: The Return" Number="1" Volume="1997" Year="1997">
+<Database Name="cv" Series="6004" Issue="44392" />
+</Book>
+<Book Series="Heroes Reborn: The Return" Number="2" Volume="1997" Year="1997">
+<Database Name="cv" Series="6004" Issue="44451" />
+</Book>
+<Book Series="Heroes Reborn: The Return" Number="3" Volume="1997" Year="1997">
+<Database Name="cv" Series="6004" Issue="44454" />
+</Book>
+<Book Series="Heroes Reborn: The Return" Number="4" Volume="1997" Year="1997">
+<Database Name="cv" Series="6004" Issue="44455" />
+</Book>
+<Book Series="Heroes Reborn: Doomsday" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="21943" Issue="132413" />
+</Book>
+<Book Series="Heroes Reborn: Rebel" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="21944" Issue="132414" />
+</Book>
+<Book Series="Heroes Reborn: Masters of Evil" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="21945" Issue="132415" />
+</Book>
+<Book Series="Heroes Reborn: Ashema" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="21946" Issue="132416" />
+</Book>
+<Book Series="Heroes Reborn: Remnants" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="21942" Issue="132412" />
+</Book>
+<Book Series="Heroes Reborn: Young Allies" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="21940" Issue="132407" />
+</Book>
+<Book Series="Heroes Reborn: Doom" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="22574" Issue="135453" />
 </Book>
 <Book Series="The Incredible Hulk" Number="460" Volume="1968" Year="1998">
 <Database Name="cv" Series="2406" Issue="80803" />
