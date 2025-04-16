@@ -3066,14 +3066,8 @@
 <Book Series="Excalibur" Number="98" Volume="1988" Year="1996">
 <Database Name="cv" Series="4052" Issue="66381" />
 </Book>
-<Book Series="X-Men" Number="25" Volume="1991" Year="1993">
-<Database Name="cv" Series="4605" Issue="65726" />
-</Book>
 <Book Series="The Uncanny X-Men" Number="322" Volume="1981" Year="1995">
 <Database Name="cv" Series="3092" Issue="41143" />
-</Book>
-<Book Series="X-Force" Number="46" Volume="1991" Year="1995">
-<Database Name="cv" Series="4604" Issue="64520" />
 </Book>
 <Book Series="X-Men" Number="46" Volume="1991" Year="1995">
 <Database Name="cv" Series="4605" Issue="65747" />
