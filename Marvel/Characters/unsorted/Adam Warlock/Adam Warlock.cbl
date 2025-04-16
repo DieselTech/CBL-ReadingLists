@@ -48,6 +48,27 @@
     <Book Series="Warlock" Number="8" Volume="1972" Year="1973">
       <Database Name="cv" Series="2583" Issue="13720" />
     </Book>
+	<Book Series="The Incredible Hulk" Number="176" Volume="1968" Year="1974">
+      <Database Name="cv" Series="2406" Issue="14340" />
+    </Book>
+    <Book Series="The Incredible Hulk" Number="177" Volume="1968" Year="1974">
+      <Database Name="cv" Series="2406" Issue="14423" />
+    </Book>
+    <Book Series="The Incredible Hulk" Number="178" Volume="1968" Year="1974">
+      <Database Name="cv" Series="2406" Issue="14493" />
+    </Book>
+    <Book Series="Strange Tales" Number="178" Volume="1973" Year="1975">
+      <Database Name="cv" Series="2643" Issue="15076" />
+    </Book>
+    <Book Series="Strange Tales" Number="179" Volume="1973" Year="1975">
+      <Database Name="cv" Series="2643" Issue="108987" />
+    </Book>
+    <Book Series="Strange Tales" Number="180" Volume="1973" Year="1975">
+      <Database Name="cv" Series="2643" Issue="15291" />
+    </Book>
+    <Book Series="Strange Tales" Number="181" Volume="1973" Year="1975">
+      <Database Name="cv" Series="2643" Issue="15500" />
+    </Book>	
     <Book Series="Warlock" Number="9" Volume="1972" Year="1975">
       <Database Name="cv" Series="2583" Issue="15708" />
     </Book>
@@ -68,27 +89,6 @@
     </Book>
     <Book Series="Warlock" Number="15" Volume="1972" Year="1976">
       <Database Name="cv" Series="2583" Issue="16893" />
-    </Book>
-    <Book Series="Strange Tales" Number="178" Volume="1973" Year="1975">
-      <Database Name="cv" Series="2643" Issue="15076" />
-    </Book>
-    <Book Series="Strange Tales" Number="179" Volume="1973" Year="1975">
-      <Database Name="cv" Series="2643" Issue="108987" />
-    </Book>
-    <Book Series="Strange Tales" Number="180" Volume="1973" Year="1975">
-      <Database Name="cv" Series="2643" Issue="15291" />
-    </Book>
-    <Book Series="Strange Tales" Number="181" Volume="1973" Year="1975">
-      <Database Name="cv" Series="2643" Issue="15500" />
-    </Book>
-    <Book Series="The Incredible Hulk" Number="176" Volume="1968" Year="1974">
-      <Database Name="cv" Series="2406" Issue="14340" />
-    </Book>
-    <Book Series="The Incredible Hulk" Number="177" Volume="1968" Year="1974">
-      <Database Name="cv" Series="2406" Issue="14423" />
-    </Book>
-    <Book Series="The Incredible Hulk" Number="178" Volume="1968" Year="1974">
-      <Database Name="cv" Series="2406" Issue="14493" />
     </Book>
     <Book Series="Fantastic Four" Number="172" Volume="1961" Year="1976">
       <Database Name="cv" Series="2045" Issue="16506" />
