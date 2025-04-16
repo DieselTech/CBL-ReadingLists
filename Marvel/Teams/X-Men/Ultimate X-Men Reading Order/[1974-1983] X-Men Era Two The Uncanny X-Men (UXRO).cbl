@@ -78,8 +78,8 @@
 <Book Series="Marvel Team-Up" Number="53" Volume="1972" Year="1977">
 <Database Name="cv" Series="2576" Issue="17108" />
 </Book>
-<Book Series="Marvel Tales" Number="262" Volume="1966" Year="1992">
-<Database Name="cv" Series="2293" Issue="65073" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="262" Volume="1990" Year="1992">
+<Database Name="cv" Series="137722" Issue="65073" />
 </Book>
 <Book Series="Iron Fist" Number="15" Volume="1975" Year="1977">
 <Database Name="cv" Series="2766" Issue="17782" />
