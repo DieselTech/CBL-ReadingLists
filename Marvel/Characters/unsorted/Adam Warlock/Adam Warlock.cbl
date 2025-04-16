@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Adam Warlock</Name>
-  <NumIssues>124</NumIssues>
+  <NumIssues>126</NumIssues>
   <Books>
     <Book Series="Fantastic Four" Number="66" Volume="1961" Year="1967">
       <Database Name="cv" Series="2045" Issue="9615" />
@@ -18,6 +18,12 @@
     <Book Series="Thor" Number="166" Volume="1966" Year="1969">
       <Database Name="cv" Series="2294" Issue="10316" />
     </Book>
+    <Book Series="Marvel Premiere" Number="1" Volume="1972" Year="1972">
+      <Database Name="cv" Series="2575" Issue="12124" />
+    </Book>
+    <Book Series="Marvel Premiere" Number="2" Volume="1972" Year="1972">
+      <Database Name="cv" Series="2575" Issue="12193" />	  
+	</Book>
     <Book Series="Warlock" Number="1" Volume="1972" Year="1972">
       <Database Name="cv" Series="2583" Issue="12430" />
     </Book>
