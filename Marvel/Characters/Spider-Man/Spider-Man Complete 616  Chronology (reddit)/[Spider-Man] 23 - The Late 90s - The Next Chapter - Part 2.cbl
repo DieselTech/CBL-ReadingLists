@@ -51,13 +51,13 @@
 <Book Series="The Amazing Spider-Man 2001" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="60442" Issue="143313" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="1" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51614" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="2" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51615" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="3" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51616" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="30" Volume="1999" Year="2001">
@@ -75,13 +75,13 @@
 <Book Series="Peter Parker: Spider-Man" Number="33" Volume="1999" Year="2001">
 <Database Name="cv" Series="9142" Issue="68510" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="4" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51617" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="5" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114254" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="6" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114255" />
 </Book>
 <Book Series="Spider-Man/Black Cat: The Evil that Men Do" Number="1" Volume="2002" Year="2002">
@@ -129,19 +129,19 @@
 <Book Series="The Amazing Spider-Man" Number="38" Volume="1999" Year="2002">
 <Database Name="cv" Series="78701" Issue="113469" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="7" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="7" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114256" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="8" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="8" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114257" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="9" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="9" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114258" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="10" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="10" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114259" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="11" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="11" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114260" />
 </Book>
 <Book Series="Peter Parker: Spider-Man" Number="35" Volume="1999" Year="2001">

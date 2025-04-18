@@ -174,7 +174,7 @@
 <Book Series="The Amazing Spider-Man" Number="19" Volume="1963" Year="1964">
 <Database Name="cv" Series="2127" Issue="7481" />
 </Book>
-<Book Series="Untold Tales of Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Untold Tales of Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="44361" Issue="305566" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="20" Volume="1963" Year="1965">
@@ -186,7 +186,7 @@
 <Book Series="The Amazing Spider-Man" Number="21" Volume="1963" Year="1965">
 <Database Name="cv" Series="2127" Issue="7607" />
 </Book>
-<Book Series="Untold Tales of Spider-Man '96" Number="1" Volume="1996" Year="1996">
+<Book Series="Untold Tales of Spider-Man &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="44353" Issue="305538" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="22" Volume="1963" Year="1965">

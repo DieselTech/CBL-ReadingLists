@@ -24,13 +24,13 @@
 <Book Series="War of the Realms" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118154" Issue="709218" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="War of the Realms" Number="5" Volume="2019" Year="2019">

@@ -174,7 +174,7 @@
 <Book Series="The Amazing Spider-Man" Number="19" Volume="1963" Year="1964">
 <Database Name="cv" Series="2127" Issue="7481" />
 </Book>
-<Book Series="Untold Tales of Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Untold Tales of Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="44361" Issue="305566" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="20" Volume="1963" Year="1965">
@@ -186,7 +186,7 @@
 <Book Series="The Amazing Spider-Man" Number="21" Volume="1963" Year="1965">
 <Database Name="cv" Series="2127" Issue="7607" />
 </Book>
-<Book Series="Untold Tales of Spider-Man '96" Number="1" Volume="1996" Year="1996">
+<Book Series="Untold Tales of Spider-Man &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="44353" Issue="305538" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="22" Volume="1963" Year="1965">
@@ -2517,9 +2517,6 @@
 <Book Series="The Spectacular Spider-Man Annual" Number="9" Volume="1979" Year="1989">
 <Database Name="cv" Series="3012" Issue="30632" />
 </Book>
-<Book Series="Daredevil Annual" Number="5" Volume="1967" Year="1989">
-<Database Name="cv" Series="2351" Issue="30617" />
-</Book>
 <Book Series="Web of Spider-Man Annual" Number="5" Volume="1985" Year="1989">
 <Database Name="cv" Series="3520" Issue="30615" />
 </Book>
@@ -3768,21 +3765,6 @@
 <Book Series="The New Warriors" Number="62" Volume="1990" Year="1995">
 <Database Name="cv" Series="4407" Issue="41293" />
 </Book>
-<Book Series="Amazing Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="18772" Issue="110899" />
-</Book>
-<Book Series="Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="23406" Issue="140411" />
-</Book>
-<Book Series="Venom Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="22554" Issue="135337" />
-</Book>
-<Book Series="Spectacular Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="23407" Issue="140414" />
-</Book>
-<Book Series="Web of Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="23183" Issue="139552" />
-</Book>
 <Book Series="Web of Spider-Man" Number="128" Volume="1985" Year="1995">
 <Database Name="cv" Series="3519" Issue="65553" />
 </Book>
@@ -3818,9 +3800,6 @@
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="229" Volume="1976" Year="1995">
 <Database Name="cv" Series="2870" Issue="65624" />
-</Book>
-<Book Series="Amazing Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="18772" Issue="110899" />
 </Book>
 <Book Series="The New Warriors" Number="65" Volume="1990" Year="1995">
 <Database Name="cv" Series="4407" Issue="105500" />
@@ -4164,7 +4143,7 @@
 <Book Series="The Spectacular Spider-Man" Number="239" Volume="1976" Year="1996">
 <Database Name="cv" Series="2870" Issue="109400" />
 </Book>
-<Book Series="The Amazing Spider-Man '96" Number="1" Volume="1996" Year="1996">
+<Book Series="The Amazing Spider-Man &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="60436" Issue="143308" />
 </Book>
 <Book Series="Spider-Man" Number="73" Volume="1990" Year="1996">
@@ -4200,7 +4179,7 @@
 <Book Series="Osborn Journals" Number="1" Volume="1996" Year="1997">
 <Database Name="cv" Series="27668" Issue="169250" />
 </Book>
-<Book Series="Spider-Man: Dead Man's Hand" Number="1" Volume="1997" Year="1997">
+<Book Series="Spider-Man: Dead Man&apos;s Hand" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="32008" Issue="200815" />
 </Book>
 <Book Series="The Sensational Spider-Man" Number="12" Volume="1996" Year="1997">
@@ -4314,7 +4293,7 @@
 <Book Series="Spider-Man Unlimited" Number="17" Volume="1993" Year="1997">
 <Database Name="cv" Series="5048" Issue="57302" />
 </Book>
-<Book Series="Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="20609" Issue="181104" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="425" Volume="1963" Year="1997">
@@ -4452,7 +4431,7 @@
 <Book Series="Spider-Man Unlimited" Number="20" Volume="1993" Year="1998">
 <Database Name="cv" Series="5048" Issue="57304" />
 </Book>
-<Book Series="The Amazing Spider-Man '97" Number="1" Volume="1997" Year="1997">
+<Book Series="The Amazing Spider-Man &apos;97" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="60438" Issue="143309" />
 </Book>
 <Book Series="The Sensational Spider-Man" Number="29" Volume="1996" Year="1998">
@@ -4821,13 +4800,13 @@
 <Book Series="The Amazing Spider-Man 2001" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="60442" Issue="143313" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="1" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51614" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="2" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="2" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51615" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="3" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="3" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51616" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="30" Volume="1999" Year="2001">
@@ -4845,13 +4824,13 @@
 <Book Series="Peter Parker: Spider-Man" Number="33" Volume="1999" Year="2001">
 <Database Name="cv" Series="9142" Issue="68510" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="4" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="4" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="51617" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="5" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="5" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114254" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="6" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="6" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114255" />
 </Book>
 <Book Series="Spider-Man/Black Cat: The Evil that Men Do" Number="1" Volume="2002" Year="2002">
@@ -4899,19 +4878,19 @@
 <Book Series="The Amazing Spider-Man" Number="38" Volume="1999" Year="2002">
 <Database Name="cv" Series="78701" Issue="113469" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="7" Volume="2001" Year="2001">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="7" Volume="2001" Year="2001">
 <Database Name="cv" Series="7255" Issue="114256" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="8" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="8" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114257" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="9" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="9" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114258" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="10" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="10" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114259" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="11" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="11" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114260" />
 </Book>
 <Book Series="Peter Parker: Spider-Man" Number="35" Volume="1999" Year="2001">
@@ -4947,7 +4926,7 @@
 <Book Series="Peter Parker: Spider-Man" Number="39" Volume="1999" Year="2002">
 <Database Name="cv" Series="9142" Issue="68516" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="12" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="12" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114261" />
 </Book>
 <Book Series="Peter Parker: Spider-Man" Number="40" Volume="1999" Year="2002">
@@ -4995,7 +4974,7 @@
 <Book Series="Venom" Number="18" Volume="2003" Year="2004">
 <Database Name="cv" Series="11068" Issue="101773" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="18" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="18" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114267" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="39" Volume="1999" Year="2002">
@@ -5100,7 +5079,7 @@
 <Book Series="Spectacular Spider-Man" Number="10" Volume="2003" Year="2004">
 <Database Name="cv" Series="11069" Issue="96980" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="21" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="21" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114270" />
 </Book>
 <Book Series="Venom vs. Carnage" Number="1" Volume="2004" Year="2004">
@@ -5375,9 +5354,6 @@
 </Book>
 <Book Series="Spider-Man Unlimited" Number="14" Volume="2004" Year="2006">
 <Database Name="cv" Series="11306" Issue="114317" />
-</Book>
-<Book Series="Spectacular Spider-Man" Number="21" Volume="2003" Year="2005">
-<Database Name="cv" Series="11069" Issue="97339" />
 </Book>
 <Book Series="Spectacular Spider-Man" Number="23" Volume="2003" Year="2005">
 <Database Name="cv" Series="11069" Issue="101139" />
@@ -5841,7 +5817,7 @@
 <Book Series="The Amazing Spider-Man" Number="545" Volume="1963" Year="2008">
 <Database Name="cv" Series="2127" Issue="120557" />
 </Book>
-<Book Series="Spider-Man: Swing Shift Director's Cut" Number="1" Volume="2008" Year="2008">
+<Book Series="Spider-Man: Swing Shift Director&apos;s Cut" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="31249" Issue="194425" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="546" Volume="1963" Year="2008">
@@ -6201,7 +6177,7 @@
 <Book Series="Siege Digital Prologue" Number="0" Volume="2009" Year="2009">
 <Database Name="cv" Series="34519" Issue="225155" />
 </Book>
-<Book Series="Siege Director's Cut" Number="1" Volume="2010" Year="2010">
+<Book Series="Siege Director&apos;s Cut" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32152" Issue="201651" />
 </Book>
 <Book Series="New Avengers" Number="61" Volume="2004" Year="2010">
@@ -6696,7 +6672,7 @@
 <Book Series="Amazing Spider-Man: Infested" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42589" Issue="291101" />
 </Book>
-<Book Series="Spider-Island: Emergence of Evil - Jackal &#38; Hobgoblin" Number="1" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Emergence of Evil - Jackal &amp; Hobgoblin" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42547" Issue="290910" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="666" Volume="1963" Year="2011">
@@ -6708,7 +6684,7 @@
 <Book Series="The Amazing Spider-Man" Number="667" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="285544" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="1" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="285497" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="668" Volume="1963" Year="2011">
@@ -6741,10 +6717,10 @@
 <Book Series="The Amazing Spider-Man" Number="669" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="292609" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="2" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="293399" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="3" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="299872" />
 </Book>
 <Book Series="Spider-Island: Spider-Woman" Number="1" Volume="2011" Year="2011">
@@ -7692,28 +7668,28 @@
 <Book Series="Silk" Number="2" Volume="2015" Year="2016">
 <Database Name="cv" Series="86251" Issue="508436" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="1" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="511725" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="2" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="513809" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="3" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="516296" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="4" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="517961" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="5" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="520426" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="6" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="523513" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="7" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="526461" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="8" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="529004" />
 </Book>
 <Book Series="Silk" Number="3" Volume="2015" Year="2016">
@@ -7757,9 +7733,6 @@
 </Book>
 <Book Series="Spider-Man 2099" Number="8" Volume="2015" Year="2016">
 <Database Name="cv" Series="85312" Issue="518866" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="5" Volume="2015" Year="2016">
-<Database Name="cv" Series="85076" Issue="508883" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="85076" Issue="509696" />
@@ -7917,13 +7890,13 @@
 <Book Series="Spider-Man/Deadpool" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="87182" Issue="585093" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="9" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="9" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="589825" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="87182" Issue="590805" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="10" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="10" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="591753" />
 </Book>
 <Book Series="Deadpool" Number="29" Volume="2015" Year="2017">
@@ -8511,13 +8484,13 @@
 <Book Series="War of the Realms" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118154" Issue="709218" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="War of the Realms" Number="5" Volume="2019" Year="2019">
