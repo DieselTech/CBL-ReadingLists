@@ -18,7 +18,7 @@
 <Book Series="The Spectacular Spider-Man" Number="239" Volume="1976" Year="1996">
 <Database Name="cv" Series="2870" Issue="109400" />
 </Book>
-<Book Series="The Amazing Spider-Man '96" Number="1" Volume="1996" Year="1996">
+<Book Series="The Amazing Spider-Man &apos;96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="60436" Issue="143308" />
 </Book>
 <Book Series="Spider-Man" Number="73" Volume="1990" Year="1996">
@@ -54,7 +54,7 @@
 <Book Series="Osborn Journals" Number="1" Volume="1996" Year="1997">
 <Database Name="cv" Series="27668" Issue="169250" />
 </Book>
-<Book Series="Spider-Man: Dead Man's Hand" Number="1" Volume="1997" Year="1997">
+<Book Series="Spider-Man: Dead Man&apos;s Hand" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="32008" Issue="200815" />
 </Book>
 </Books>

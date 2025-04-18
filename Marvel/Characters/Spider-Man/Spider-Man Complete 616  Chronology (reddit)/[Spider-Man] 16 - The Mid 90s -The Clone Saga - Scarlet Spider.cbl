@@ -201,21 +201,6 @@
 <Book Series="The New Warriors" Number="62" Volume="1990" Year="1995">
 <Database Name="cv" Series="4407" Issue="41293" />
 </Book>
-<Book Series="Amazing Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="18772" Issue="110899" />
-</Book>
-<Book Series="Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="23406" Issue="140411" />
-</Book>
-<Book Series="Venom Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="22554" Issue="135337" />
-</Book>
-<Book Series="Spectacular Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="23407" Issue="140414" />
-</Book>
-<Book Series="Web of Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="23183" Issue="139552" />
-</Book>
 <Book Series="Web of Spider-Man" Number="128" Volume="1985" Year="1995">
 <Database Name="cv" Series="3519" Issue="65553" />
 </Book>
@@ -251,9 +236,6 @@
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="229" Volume="1976" Year="1995">
 <Database Name="cv" Series="2870" Issue="65624" />
-</Book>
-<Book Series="Amazing Spider-Man Super Special" Number="1" Volume="1995" Year="1995">
-<Database Name="cv" Series="18772" Issue="110899" />
 </Book>
 <Book Series="The New Warriors" Number="65" Volume="1990" Year="1995">
 <Database Name="cv" Series="4407" Issue="105500" />
