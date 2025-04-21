@@ -6,7 +6,7 @@
 <Book Series="Siege Digital Prologue" Number="0" Volume="2009" Year="2009">
 <Database Name="cv" Series="34519" Issue="225155" />
 </Book>
-<Book Series="Siege Director's Cut" Number="1" Volume="2010" Year="2010">
+<Book Series="Siege Director&apos;s Cut" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32152" Issue="201651" />
 </Book>
 <Book Series="New Avengers" Number="61" Volume="2004" Year="2010">

@@ -231,9 +231,6 @@
 <Book Series="The Spectacular Spider-Man Annual" Number="9" Volume="1979" Year="1989">
 <Database Name="cv" Series="3012" Issue="30632" />
 </Book>
-<Book Series="Daredevil Annual" Number="5" Volume="1967" Year="1989">
-<Database Name="cv" Series="2351" Issue="30617" />
-</Book>
 <Book Series="Web of Spider-Man Annual" Number="5" Volume="1985" Year="1989">
 <Database Name="cv" Series="3520" Issue="30615" />
 </Book>

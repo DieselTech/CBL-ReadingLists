@@ -57,28 +57,28 @@
 <Book Series="Silk" Number="2" Volume="2015" Year="2016">
 <Database Name="cv" Series="86251" Issue="508436" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="1" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="511725" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="2" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="513809" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="3" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="516296" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="4" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="517961" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="5" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="520426" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="6" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="523513" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="7" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="526461" />
 </Book>
-<Book Series="Amazing Spider-Man &#38; Silk: Spider(Fly) Effect Infinite Comic" Number="8" Volume="2016" Year="2016">
+<Book Series="Amazing Spider-Man &amp; Silk: Spider(Fly) Effect Infinite Comic" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="87477" Issue="529004" />
 </Book>
 <Book Series="Silk" Number="3" Volume="2015" Year="2016">
@@ -122,9 +122,6 @@
 </Book>
 <Book Series="Spider-Man 2099" Number="8" Volume="2015" Year="2016">
 <Database Name="cv" Series="85312" Issue="518866" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="5" Volume="2015" Year="2016">
-<Database Name="cv" Series="85076" Issue="508883" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="85076" Issue="509696" />

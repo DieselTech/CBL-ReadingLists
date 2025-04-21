@@ -9,7 +9,7 @@
 <Book Series="Peter Parker: Spider-Man" Number="39" Volume="1999" Year="2002">
 <Database Name="cv" Series="9142" Issue="68516" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="12" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="12" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114261" />
 </Book>
 <Book Series="Peter Parker: Spider-Man" Number="40" Volume="1999" Year="2002">
@@ -57,7 +57,7 @@
 <Book Series="Venom" Number="18" Volume="2003" Year="2004">
 <Database Name="cv" Series="11068" Issue="101773" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="18" Volume="2001" Year="2002">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="18" Volume="2001" Year="2002">
 <Database Name="cv" Series="7255" Issue="114267" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="39" Volume="1999" Year="2002">
@@ -162,7 +162,7 @@
 <Book Series="Spectacular Spider-Man" Number="10" Volume="2003" Year="2004">
 <Database Name="cv" Series="11069" Issue="96980" />
 </Book>
-<Book Series="Spider-Man's Tangled Web" Number="21" Volume="2001" Year="2003">
+<Book Series="Spider-Man&apos;s Tangled Web" Number="21" Volume="2001" Year="2003">
 <Database Name="cv" Series="7255" Issue="114270" />
 </Book>
 <Book Series="Venom vs. Carnage" Number="1" Volume="2004" Year="2004">

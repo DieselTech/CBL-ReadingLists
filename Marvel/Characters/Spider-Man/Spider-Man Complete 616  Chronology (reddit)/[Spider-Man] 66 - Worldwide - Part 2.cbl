@@ -42,13 +42,13 @@
 <Book Series="Spider-Man/Deadpool" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="87182" Issue="585093" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="9" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="9" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="589825" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="87182" Issue="590805" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="10" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="10" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="591753" />
 </Book>
 <Book Series="Deadpool" Number="29" Volume="2015" Year="2017">

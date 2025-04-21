@@ -3,7 +3,7 @@
 <Name>[Spider-Man] 37 - Brand New Day - Part 1</Name>
 <NumIssues>41</NumIssues>
 <Books>
-<Book Series="Spider-Man: Swing Shift Director's Cut" Number="1" Volume="2008" Year="2008">
+<Book Series="Spider-Man: Swing Shift Director&apos;s Cut" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="31249" Issue="194425" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="546" Volume="1963" Year="2008">
