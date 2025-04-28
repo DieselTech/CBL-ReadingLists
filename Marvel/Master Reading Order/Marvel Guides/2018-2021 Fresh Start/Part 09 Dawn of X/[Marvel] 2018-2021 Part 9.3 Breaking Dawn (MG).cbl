@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 9.3 Breaking Dawn (MG)</Name>
     <NumIssues>47</NumIssues>
     <Books>
@@ -19,7 +18,7 @@
         <Book Series="Wolverine" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="125121" Issue="797248" />
         </Book>
-        <Book Series="New Mutants" Number="12" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="12" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="797246" />
         </Book>
         <Book Series="X-Men" Number="7" Volume="2019" Year="2020">
@@ -34,8 +33,7 @@
         <Book Series="Giant-Size X-Men: Nightcrawler" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="126014" Issue="743439" />
         </Book>
-        <Book Series="Giant-Size X-Men: Jean Grey and Emma Frost" Number="1" Volume="2020"
-            Year="2020">
+        <Book Series="Giant-Size X-Men: Jean Grey and Emma Frost" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="125302" Issue="738612" />
         </Book>
         <Book Series="Giant-Size X-Men: Fantomex" Number="1" Volume="2020" Year="2020">

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2012-2015 Part 17.4 Warzones Part 2 (MG)</Name>
     <NumIssues>51</NumIssues>
     <Books>
@@ -40,13 +39,13 @@
         <Book Series="Spider-Verse" Number="2" Volume="2014" Year="2015">
             <Database Name="cv" Series="78047" Issue="475945" />
         </Book>
-        <Book Series="Spider-Verse" Number="3" Volume="2015" Year="2015">
+        <Book Series="Spider-Verse" Number="3" Volume="2014" Year="2015">
             <Database Name="cv" Series="78047" Issue="494330" />
         </Book>
-        <Book Series="Spider-Verse" Number="4" Volume="2015" Year="2015">
+        <Book Series="Spider-Verse" Number="4" Volume="2014" Year="2015">
             <Database Name="cv" Series="78047" Issue="497959" />
         </Book>
-        <Book Series="Spider-Verse" Number="5" Volume="2015" Year="2015">
+        <Book Series="Spider-Verse" Number="5" Volume="2014" Year="2015">
             <Database Name="cv" Series="78047" Issue="500308" />
         </Book>
         <Book Series="Where Monsters Dwell" Number="1" Volume="2015" Year="2015">

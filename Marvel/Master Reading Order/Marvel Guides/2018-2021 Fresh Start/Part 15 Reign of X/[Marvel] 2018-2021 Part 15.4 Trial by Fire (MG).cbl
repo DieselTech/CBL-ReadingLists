@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 15.4 Trial by Fire (MG)</Name>
     <NumIssues>72</NumIssues>
     <Books>
@@ -52,7 +51,7 @@
         <Book Series="Hellions" Number="18" Volume="2020" Year="2022">
             <Database Name="cv" Series="126015" Issue="897328" />
         </Book>
-        <Book Series="New Mutants" Number="24" Volume="2019" Year="2022">
+        <Book Series="New Mutants" Number="24" Volume="2020" Year="2022">
             <Database Name="cv" Series="122666" Issue="906634" />
         </Book>
         <Book Series="X-Corp" Number="3" Volume="2021" Year="2021">
@@ -214,10 +213,10 @@
         <Book Series="X-Men Legends" Number="10" Volume="2021" Year="2022">
             <Database Name="cv" Series="133887" Issue="902712" />
         </Book>
-        <Book Series="X-Men Legends" Number="11" Volume="2022" Year="2022">
+        <Book Series="X-Men Legends" Number="11" Volume="2021" Year="2022">
             <Database Name="cv" Series="133887" Issue="905752" />
         </Book>
-        <Book Series="X-Men Legends" Number="12" Volume="2022" Year="2022">
+        <Book Series="X-Men Legends" Number="12" Volume="2021" Year="2022">
             <Database Name="cv" Series="133887" Issue="910529" />
         </Book>
     </Books>

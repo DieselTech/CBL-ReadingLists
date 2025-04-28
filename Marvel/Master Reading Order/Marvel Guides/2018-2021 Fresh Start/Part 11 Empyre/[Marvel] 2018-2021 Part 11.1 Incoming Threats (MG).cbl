@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 11.1 Incoming Threats (MG)</Name>
     <NumIssues>111</NumIssues>
     <Books>
@@ -22,19 +21,19 @@
         <Book Series="Avengers" Number="38" Volume="2018" Year="2021">
             <Database Name="cv" Series="110496" Issue="816463" />
         </Book>
-        <Book Series="Meet The Skrulls" Number="1" Volume="2019" Year="2019">
+        <Book Series="Meet the Skrulls" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="117457" Issue="702471" />
         </Book>
-        <Book Series="Meet The Skrulls" Number="2" Volume="2019" Year="2019">
+        <Book Series="Meet the Skrulls" Number="2" Volume="2019" Year="2019">
             <Database Name="cv" Series="117457" Issue="703946" />
         </Book>
-        <Book Series="Meet The Skrulls" Number="3" Volume="2019" Year="2019">
+        <Book Series="Meet the Skrulls" Number="3" Volume="2019" Year="2019">
             <Database Name="cv" Series="117457" Issue="706412" />
         </Book>
-        <Book Series="Meet The Skrulls" Number="4" Volume="2019" Year="2019">
+        <Book Series="Meet the Skrulls" Number="4" Volume="2019" Year="2019">
             <Database Name="cv" Series="117457" Issue="707518" />
         </Book>
-        <Book Series="Meet The Skrulls" Number="5" Volume="2019" Year="2019">
+        <Book Series="Meet the Skrulls" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="117457" Issue="710687" />
         </Book>
         <Book Series="The Magnificent Ms. Marvel" Number="1" Volume="2019" Year="2019">

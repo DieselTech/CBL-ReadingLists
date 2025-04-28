@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 15.1 After the Dawn Comes the Reign (MG)</Name>
     <NumIssues>60</NumIssues>
     <Books>
@@ -40,16 +39,16 @@
         <Book Series="X-Force" Number="16" Volume="2020" Year="2021">
             <Database Name="cv" Series="122668" Issue="825509" />
         </Book>
-        <Book Series="Wolverine: Black, White &#38; Blood" Number="1" Volume="2020" Year="2021">
+        <Book Series="Wolverine: Black, White &amp; Blood" Number="1" Volume="2020" Year="2021">
             <Database Name="cv" Series="131734" Issue="816472" />
         </Book>
-        <Book Series="Wolverine: Black, White &#38; Blood" Number="2" Volume="2020" Year="2021">
+        <Book Series="Wolverine: Black, White &amp; Blood" Number="2" Volume="2020" Year="2021">
             <Database Name="cv" Series="131734" Issue="821503" />
         </Book>
-        <Book Series="Wolverine: Black, White &#38; Blood" Number="3" Volume="2020" Year="2021">
+        <Book Series="Wolverine: Black, White &amp; Blood" Number="3" Volume="2020" Year="2021">
             <Database Name="cv" Series="131734" Issue="828199" />
         </Book>
-        <Book Series="Wolverine: Black, White &#38; Blood" Number="4" Volume="2020" Year="2021">
+        <Book Series="Wolverine: Black, White &amp; Blood" Number="4" Volume="2020" Year="2021">
             <Database Name="cv" Series="131734" Issue="836307" />
         </Book>
         <Book Series="Wolverine" Number="8" Volume="2020" Year="2021">
@@ -103,16 +102,16 @@
         <Book Series="X-Factor" Number="8" Volume="2020" Year="2021">
             <Database Name="cv" Series="129097" Issue="836308" />
         </Book>
-        <Book Series="New Mutants" Number="14" Volume="2019" Year="2021">
+        <Book Series="New Mutants" Number="14" Volume="2020" Year="2021">
             <Database Name="cv" Series="122666" Issue="821499" />
         </Book>
-        <Book Series="New Mutants" Number="15" Volume="2019" Year="2021">
+        <Book Series="New Mutants" Number="15" Volume="2020" Year="2021">
             <Database Name="cv" Series="122666" Issue="826560" />
         </Book>
-        <Book Series="New Mutants" Number="16" Volume="2019" Year="2021">
+        <Book Series="New Mutants" Number="16" Volume="2020" Year="2021">
             <Database Name="cv" Series="122666" Issue="830031" />
         </Book>
-        <Book Series="New Mutants" Number="17" Volume="2019" Year="2021">
+        <Book Series="New Mutants" Number="17" Volume="2020" Year="2021">
             <Database Name="cv" Series="122666" Issue="846089" />
         </Book>
         <Book Series="Cable" Number="9" Volume="2020" Year="2021">
@@ -160,7 +159,7 @@
         <Book Series="X-Men" Number="20" Volume="2019" Year="2021">
             <Database Name="cv" Series="122077" Issue="855634" />
         </Book>
-        <Book Series="New Mutants" Number="18" Volume="2019" Year="2021">
+        <Book Series="New Mutants" Number="18" Volume="2020" Year="2021">
             <Database Name="cv" Series="122666" Issue="855632" />
         </Book>
         <Book Series="Children of the Atom" Number="4" Volume="2021" Year="2021">

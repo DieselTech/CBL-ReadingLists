@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2015-2018 Part 7.4 Monsters Unleashed (MG)</Name>
     <NumIssues>13</NumIssues>
     <Books>
@@ -34,7 +33,7 @@
         <Book Series="Monsters Unleashed!" Number="3" Volume="2017" Year="2017">
             <Database Name="cv" Series="98067" Issue="581562" />
         </Book>
-        <Book Series="Doctor Strange" Number="1.MU" Volume="2018" Year="2017">
+        <Book Series="Doctor Strange" Number="1.MU" Volume="2015" Year="2017">
             <Database Name="cv" Series="85094" Issue="581555" />
         </Book>
         <Book Series="Monsters Unleashed!" Number="4" Volume="2017" Year="2017">
