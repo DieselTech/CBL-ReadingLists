@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[X-Men Krakoa] [2019-Present] The Age of Krakoa</Name>
 <NumIssues>624</NumIssues>
@@ -993,7 +993,7 @@
 <Book Series="X-Men: Hellfire Gala" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144025" Issue="935755" />
 </Book>
-<Book Series="A.X.E.: Eve Of Judgment" Number="1" Volume="2022" Year="2022">
+<Book Series="A.X.E.: Eve of Judgment" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144026" Issue="935759" />
 </Book>
 <Book Series="A.X.E.: Judgment Day" Number="1" Volume="2022" Year="2022">
@@ -1251,7 +1251,7 @@
 <Book Series="Sins of Sinister" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="147646" Issue="966426" />
 </Book>
-<Book Series="Storm &#38; The Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
+<Book Series="Storm &amp; The Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="969390" />
 </Book>
 <Book Series="Nightcrawlers" Number="1" Volume="2023" Year="2023">
@@ -1266,13 +1266,13 @@
 <Book Series="Immoral X-Men" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148475" Issue="976915" />
 </Book>
-<Book Series="Storm &#38; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
+<Book Series="Storm &amp; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="978480" />
 </Book>
 <Book Series="Immoral X-Men" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148475" Issue="981484" />
 </Book>
-<Book Series="Storm &#38; The Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
+<Book Series="Storm &amp; The Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="982353" />
 </Book>
 <Book Series="Nightcrawlers" Number="3" Volume="2023" Year="2023">
@@ -1371,19 +1371,19 @@
 <Book Series="Captain Marvel" Number="49" Volume="2019" Year="2023">
 <Database Name="cv" Series="116365" Issue="987103" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="1" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="974106" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="2" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="981478" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="3" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="988125" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="4" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="994364" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="5" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="1000237" />
 </Book>
 <Book Series="Deadpool" Number="6" Volume="2023" Year="2023">

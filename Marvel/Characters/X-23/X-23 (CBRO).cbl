@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>X-23 (CBRO)</Name>
 <NumIssues>282</NumIssues>
@@ -111,7 +111,7 @@
 <Book Series="New X-Men" Number="43" Volume="2004" Year="2007">
 <Database Name="cv" Series="18078" Issue="116391" />
 </Book>
-<Book Series="X-Men: Messiah CompleX" Number="1" Volume="2007" Year="2007">
+<Book Series="X-Men: Messiah Complex" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19419" Issue="116360" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="492" Volume="1981" Year="2008">
@@ -729,7 +729,7 @@
 <Book Series="All-New Wolverine" Number="24" Volume="2015" Year="2017">
 <Database Name="cv" Series="85930" Issue="621655" />
 </Book>
-<Book Series="Generations: Wolverine &#38; All-New Wolverine" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Wolverine &amp; All-New Wolverine" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="103514" Issue="615019" />
 </Book>
 <Book Series="All-New Wolverine" Number="25" Volume="2015" Year="2017">
