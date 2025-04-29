@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #05 (WEB-CBRO)</Name>
 <NumIssues>684</NumIssues>
@@ -720,40 +720,40 @@
 <Book Series="Birds of Prey" Number="55" Volume="1999" Year="2003">
 <Database Name="cv" Series="6498" Issue="112978" />
 </Book>
-<Book Series="Superman: Metropolis" Number="1" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192931" />
 </Book>
-<Book Series="Superman: Metropolis" Number="2" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192932" />
 </Book>
-<Book Series="Superman: Metropolis" Number="3" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192933" />
 </Book>
-<Book Series="Superman: Metropolis" Number="4" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192934" />
 </Book>
-<Book Series="Superman: Metropolis" Number="5" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="5" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192935" />
 </Book>
-<Book Series="Superman: Metropolis" Number="6" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="6" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192937" />
 </Book>
-<Book Series="Superman: Metropolis" Number="7" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="7" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192936" />
 </Book>
-<Book Series="Superman: Metropolis" Number="8" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="8" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192938" />
 </Book>
-<Book Series="Superman: Metropolis" Number="9" Volume="2004" Year="2003">
+<Book Series="Superman: Metropolis" Number="9" Volume="2003" Year="2003">
 <Database Name="cv" Series="31095" Issue="192939" />
 </Book>
-<Book Series="Superman: Metropolis" Number="10" Volume="2004" Year="2004">
+<Book Series="Superman: Metropolis" Number="10" Volume="2003" Year="2004">
 <Database Name="cv" Series="31095" Issue="192940" />
 </Book>
-<Book Series="Superman: Metropolis" Number="11" Volume="2004" Year="2004">
+<Book Series="Superman: Metropolis" Number="11" Volume="2003" Year="2004">
 <Database Name="cv" Series="31095" Issue="192947" />
 </Book>
-<Book Series="Superman: Metropolis" Number="12" Volume="2004" Year="2004">
+<Book Series="Superman: Metropolis" Number="12" Volume="2003" Year="2004">
 <Database Name="cv" Series="31095" Issue="192948" />
 </Book>
 <Book Series="Batman: The Doom that Came to Gotham" Number="1" Volume="2000" Year="2000">
@@ -765,7 +765,7 @@
 <Book Series="Batman: The Doom that Came to Gotham" Number="3" Volume="2000" Year="2001">
 <Database Name="cv" Series="6738" Issue="48237" />
 </Book>
-<Book Series="JLA/JSA Secret Files &#38; Origins" Number="1" Volume="2003" Year="2003">
+<Book Series="JLA/JSA Secret Files &amp; Origins" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="28479" Issue="175485" />
 </Book>
 <Book Series="JLA/JSA: Virtue and Vice" Number="1" Volume="2002" Year="2003">
@@ -1965,22 +1965,22 @@
 <Book Series="Teen Titans" Number="19" Volume="2003" Year="2005">
 <Database Name="cv" Series="10414" Issue="98242" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="1" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="134518" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="2" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135316" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="3" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135317" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="4" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135318" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="5" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135319" />
 </Book>
-<Book Series="Batman: Jekyll &#38; Hyde" Number="6" Volume="2005" Year="2005">
+<Book Series="Batman: Jekyll &amp; Hyde" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="22375" Issue="135320" />
 </Book>
 <Book Series="Plastic Man" Number="13" Volume="2004" Year="2005">

@@ -399,7 +399,7 @@
 <Book Series="Green Lantern: New Guardians" Number="22" Volume="2011" Year="2013">
 <Database Name="cv" Series="43007" Issue="417794" />
 </Book>
-<Book Series="Stormwatch" Number="0" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="355790" />
 </Book>
 <Book Series="Voodoo" Number="0" Volume="2011" Year="2012">

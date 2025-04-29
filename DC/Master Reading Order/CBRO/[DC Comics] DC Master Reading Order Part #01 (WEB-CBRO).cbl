@@ -435,25 +435,25 @@
 <Book Series="Metal Men" Number="18" Volume="1963" Year="1966">
 <Database Name="cv" Series="2113" Issue="8346" />
 </Book>
-<Book Series="Deadman" Number="1" Volume="1986" Year="1986">
+<Book Series="Deadman" Number="1" Volume="1985" Year="1986">
 <Database Name="cv" Series="3443" Issue="26559" />
 </Book>
-<Book Series="Deadman" Number="2" Volume="1986" Year="1986">
+<Book Series="Deadman" Number="2" Volume="1985" Year="1986">
 <Database Name="cv" Series="3443" Issue="26651" />
 </Book>
-<Book Series="Deadman" Number="3" Volume="1986" Year="1986">
+<Book Series="Deadman" Number="3" Volume="1985" Year="1986">
 <Database Name="cv" Series="3443" Issue="26746" />
 </Book>
-<Book Series="Deadman" Number="4" Volume="1986" Year="1986">
+<Book Series="Deadman" Number="4" Volume="1985" Year="1986">
 <Database Name="cv" Series="3443" Issue="26840" />
 </Book>
-<Book Series="Deadman" Number="5" Volume="1986" Year="1985">
+<Book Series="Deadman" Number="5" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="25836" />
 </Book>
-<Book Series="Deadman" Number="6" Volume="1986" Year="1985">
+<Book Series="Deadman" Number="6" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="25928" />
 </Book>
-<Book Series="Deadman" Number="7" Volume="1986" Year="1985">
+<Book Series="Deadman" Number="7" Volume="1985" Year="1985">
 <Database Name="cv" Series="3443" Issue="26034" />
 </Book>
 <Book Series="Deadman" Number="1" Volume="1986" Year="1986">

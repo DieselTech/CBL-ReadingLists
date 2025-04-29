@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Blue Beetle 002 - Post Crisis</Name>
   <NumIssues>88</NumIssues>
@@ -78,19 +78,19 @@
     <Book Series="Blue Beetle" Number="24" Volume="1986" Year="1988">
       <Database Name="cv" Series="3595" Issue="29531" />
     </Book>
-    <Book Series="Justice League International" Number="2" Volume="1987" Year="1987">
+    <Book Series="Justice League" Number="2" Volume="1987" Year="1987">
       <Database Name="cv" Series="3796" Issue="28244" />
     </Book>
-    <Book Series="Justice League International" Number="3" Volume="1987" Year="1987">
+    <Book Series="Justice League" Number="3" Volume="1987" Year="1987">
       <Database Name="cv" Series="3796" Issue="28362" />
     </Book>
-    <Book Series="Justice League International" Number="4" Volume="1987" Year="1987">
+    <Book Series="Justice League" Number="4" Volume="1987" Year="1987">
       <Database Name="cv" Series="3796" Issue="28476" />
     </Book>
-    <Book Series="Justice League International" Number="5" Volume="1987" Year="1987">
+    <Book Series="Justice League" Number="5" Volume="1987" Year="1987">
       <Database Name="cv" Series="3796" Issue="28587" />
     </Book>
-    <Book Series="Justice League International" Number="6" Volume="1987" Year="1987">
+    <Book Series="Justice League" Number="6" Volume="1987" Year="1987">
       <Database Name="cv" Series="3796" Issue="28709" />
     </Book>
     <Book Series="Formerly Known as the Justice League" Number="1" Volume="2003" Year="2003">
