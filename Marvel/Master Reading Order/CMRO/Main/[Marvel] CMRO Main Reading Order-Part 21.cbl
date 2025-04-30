@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 21</Name>
 <NumIssues>1000</NumIssues>
@@ -642,7 +642,7 @@
 <Book Series="Fear Itself: Uncanny X-Force" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="41143" Issue="293317" />
 </Book>
-<Book Series="Tomb of Dracula Presents Throne of Blood" Number="1" Volume="2011" Year="2011">
+<Book Series="Tomb of Dracula Presents: Throne of Blood" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39883" Issue="269009" />
 </Book>
 <Book Series="Fear Itself: Hulk vs. Dracula" Number="1" Volume="2011" Year="2011">
@@ -1122,7 +1122,7 @@
 <Book Series="The Amazing Spider-Man" Number="667" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="285544" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="1" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="285497" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="668" Volume="1963" Year="2011">
@@ -1146,16 +1146,16 @@
 <Book Series="Spider-Island: I Love New York City" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42657" Issue="291609" />
 </Book>
-<Book Series="Spider-Island: Emergence of Evil - Jackal &#38; Hobgoblin" Number="1" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Emergence of Evil - Jackal &amp; Hobgoblin" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42547" Issue="290910" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="669" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="292609" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="2" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="293399" />
 </Book>
-<Book Series="Spider-Island: Cloak &#38; Dagger" Number="3" Volume="2011" Year="2011">
+<Book Series="Spider-Island: Cloak &amp; Dagger" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="41955" Issue="299872" />
 </Book>
 <Book Series="Spider-Island: The Avengers" Number="1" Volume="2011" Year="2011">
@@ -1521,7 +1521,7 @@
 <Book Series="The Amazing Spider-Man" Number="676" Volume="1963" Year="2012">
 <Database Name="cv" Series="2127" Issue="307527" />
 </Book>
-<Book Series="The Incredible Hulk &#38; The Human Torch: From the Marvel Vault" Number="1" Volume="2011" Year="2011">
+<Book Series="The Incredible Hulk &amp; The Human Torch: From the Marvel Vault" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41057" Issue="276877" />
 </Book>
 <Book Series="Defenders: From the Marvel Vault" Number="1" Volume="2011" Year="2011">
@@ -1545,13 +1545,13 @@
 <Book Series="Red Skull" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="41151" Issue="304480" />
 </Book>
-<Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="1" Volume="2011" Year="2011">
+<Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41136" Issue="277526" />
 </Book>
-<Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="2" Volume="2011" Year="2011">
+<Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="41136" Issue="286960" />
 </Book>
-<Book Series="Wolverine &#38; The Black Cat: Claws 2" Number="3" Volume="2011" Year="2011">
+<Book Series="Wolverine &amp; The Black Cat: Claws 2" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="41136" Issue="294781" />
 </Book>
 <Book Series="Wolverine" Number="10" Volume="2010" Year="2011">
@@ -1632,28 +1632,28 @@
 <Book Series="Wolverine" Number="19" Volume="2010" Year="2012">
 <Database Name="cv" Series="35263" Issue="304470" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="1" Volume="2011" Year="2011">
+<Book Series="Wolverine &amp; the X-Men" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="43539" Issue="299471" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="2" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="2" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="303379" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="3" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="307452" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="1" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="309473" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="2" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="315084" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="3" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="3" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="319369" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="4" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="4" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="326868" />
 </Book>
-<Book Series="Wolverine and the X-Men: Alpha &#38; Omega" Number="5" Volume="2012" Year="2012">
+<Book Series="Wolverine and the X-Men: Alpha &amp; Omega" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="44964" Issue="334165" />
 </Book>
 <Book Series="X-23" Number="17" Volume="2010" Year="2012">
@@ -1947,7 +1947,7 @@
 <Book Series="Avengers 1959" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="43143" Issue="311013" />
 </Book>
-<Book Series="Avengers Origins: Ant-Man &#38; The Wasp" Number="1" Volume="2012" Year="2012">
+<Book Series="Avengers Origins: Ant-Man &amp; The Wasp" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="43841" Issue="301210" />
 </Book>
 <Book Series="Avengers Origins: Vision" Number="1" Volume="2012" Year="2012">
@@ -1956,7 +1956,7 @@
 <Book Series="Avengers Origins: Luke Cage" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44064" Issue="302774" />
 </Book>
-<Book Series="Avengers Origins: Scarlet Witch &#38; Quicksilver" Number="1" Volume="2012" Year="2012">
+<Book Series="Avengers Origins: Scarlet Witch &amp; Quicksilver" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44148" Issue="303673" />
 </Book>
 <Book Series="Avengers Origins: Thor" Number="1" Volume="2012" Year="2012">
@@ -2217,19 +2217,19 @@
 <Book Series="Uncanny X-Force" Number="23" Volume="2010" Year="2012">
 <Database Name="cv" Series="35835" Issue="324701" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="4" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="310892" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="5" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="315083" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="6" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="316711" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="7" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="7" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="321295" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="8" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="326863" />
 </Book>
 <Book Series="Wolverine" Number="304" Volume="2010" Year="2012">
@@ -2508,16 +2508,16 @@
 <Book Series="Ka-Zar" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="40723" Issue="311625" />
 </Book>
-<Book Series="Thor: Heaven &#38; Earth" Number="1" Volume="2011" Year="2011">
+<Book Series="Thor: Heaven &amp; Earth" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="41511" Issue="281357" />
 </Book>
-<Book Series="Thor: Heaven &#38; Earth" Number="2" Volume="2011" Year="2011">
+<Book Series="Thor: Heaven &amp; Earth" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="41511" Issue="283867" />
 </Book>
-<Book Series="Thor: Heaven &#38; Earth" Number="3" Volume="2011" Year="2011">
+<Book Series="Thor: Heaven &amp; Earth" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="41511" Issue="288832" />
 </Book>
-<Book Series="Thor: Heaven &#38; Earth" Number="4" Volume="2011" Year="2011">
+<Book Series="Thor: Heaven &amp; Earth" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="41511" Issue="291624" />
 </Book>
 <Book Series="Thor: The Deviants Saga" Number="1" Volume="2012" Year="2012">
@@ -2991,7 +2991,7 @@
 <Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="326860" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="9" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="332029" />
 </Book>
 <Book Series="New Avengers" Number="24" Volume="2010" Year="2012">

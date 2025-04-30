@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 01</Name>
 <NumIssues>1000</NumIssues>
@@ -1830,7 +1830,7 @@
 <Book Series="Funny Frolics" Number="5" Volume="1945" Year="1946">
 <Database Name="cv" Series="1056" Issue="92189" />
 </Book>
-<Book Series="Jack-In-The-Box Comics" Number="12" Volume="1946" Year="0">
+<Book Series="Jack In The Box Comics" Number="12" Volume="1946" Year="0">
 <Database Name="cv" Series="25767" Issue="243157" />
 </Book>
 <Book Series="Krazy Komics" Number="25" Volume="1942" Year="1946">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] King In Black (WEB-CBRO)</Name>
 <NumIssues>65</NumIssues>
@@ -96,13 +96,13 @@
 <Book Series="King In Black: Thunderbolts" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133197" Issue="832866" />
 </Book>
-<Book Series="King In Black: Gwenom vs. Carnage" Number="1" Volume="2021" Year="2021">
+<Book Series="King in Black: Gwenom vs. Carnage" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133195" Issue="824449" />
 </Book>
-<Book Series="King In Black: Gwenom vs. Carnage" Number="2" Volume="2021" Year="2021">
+<Book Series="King in Black: Gwenom vs. Carnage" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="133195" Issue="827525" />
 </Book>
-<Book Series="King In Black: Gwenom vs. Carnage" Number="3" Volume="2021" Year="2021">
+<Book Series="King in Black: Gwenom vs. Carnage" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133195" Issue="832864" />
 </Book>
 <Book Series="King In Black: Immortal Hulk" Number="1" Volume="2020" Year="2021">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 16</Name>
 <NumIssues>1000</NumIssues>
@@ -168,7 +168,7 @@
 <Book Series="Wonder Man" Number="18" Volume="1991" Year="1993">
 <Database Name="cv" Series="4603" Issue="117652" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="10" Volume="1992" Year="1993">
+<Book Series="Motormouth &amp; Killpower" Number="10" Volume="1992" Year="1993">
 <Database Name="cv" Series="20524" Issue="122913" />
 </Book>
 <Book Series="Nightstalkers" Number="5" Volume="1992" Year="1993">
@@ -561,7 +561,7 @@
 <Book Series="Nomad" Number="10" Volume="1992" Year="1993">
 <Database Name="cv" Series="4803" Issue="47841" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="11" Volume="1992" Year="1993">
+<Book Series="Motormouth &amp; Killpower" Number="11" Volume="1992" Year="1993">
 <Database Name="cv" Series="20524" Issue="122915" />
 </Book>
 <Book Series="Daredevil" Number="314" Volume="1964" Year="1993">
@@ -822,7 +822,7 @@
 <Book Series="What If...?" Number="48" Volume="1989" Year="1993">
 <Database Name="cv" Series="4249" Issue="37104" />
 </Book>
-<Book Series="The Ren &#38; Stimpy Show" Number="6" Volume="1992" Year="1993">
+<Book Series="The Ren &amp; Stimpy Show" Number="6" Volume="1992" Year="1993">
 <Database Name="cv" Series="4808" Issue="95589" />
 </Book>
 <Book Series="The Incredible Hulk" Number="402" Volume="1968" Year="1993">
@@ -1992,7 +1992,7 @@
 <Book Series="Hellstorm: Prince of Lies" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="9100" Issue="110810" />
 </Book>
-<Book Series="Meteor Man: The Movie" Number="1" Volume="1993" Year="1993">
+<Book Series="Meteor Man The Movie" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="35154" Issue="231952" />
 </Book>
 <Book Series="Meteor Man" Number="1" Volume="1993" Year="1993">
@@ -2001,7 +2001,7 @@
 <Book Series="Meteor Man" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="5028" Issue="227080" />
 </Book>
-<Book Series="Motormouth &#38; Killpower" Number="12" Volume="1992" Year="1993">
+<Book Series="Motormouth &amp; Killpower" Number="12" Volume="1992" Year="1993">
 <Database Name="cv" Series="20524" Issue="122917" />
 </Book>
 <Book Series="Meteor Man" Number="3" Volume="1993" Year="1993">
@@ -2097,10 +2097,10 @@
 <Book Series="Guardians of the Galaxy Annual" Number="4" Volume="1991" Year="1994">
 <Database Name="cv" Series="4595" Issue="38400" />
 </Book>
-<Book Series="Death's Head II &#38; The Origin of Die-Cut" Number="1" Volume="1993" Year="1993">
+<Book Series="Death's Head II &amp; The Origin of Die-Cut" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="18466" Issue="108382" />
 </Book>
-<Book Series="Death's Head II &#38; The Origin of Die-Cut" Number="2" Volume="1993" Year="1993">
+<Book Series="Death's Head II &amp; The Origin of Die-Cut" Number="2" Volume="1993" Year="1993">
 <Database Name="cv" Series="18466" Issue="122639" />
 </Book>
 <Book Series="Wonder Man" Number="22" Volume="1991" Year="1993">
@@ -2853,7 +2853,7 @@
 <Book Series="Secret Defenders" Number="10" Volume="1993" Year="1993">
 <Database Name="cv" Series="5044" Issue="38261" />
 </Book>
-<Book Series="Ghost Rider Annual" Number="1" Volume="1990" Year="1993">
+<Book Series="Ghost Rider Annual" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="20061" Issue="119743" />
 </Book>
 <Book Series="Ghost Rider" Number="41" Volume="1990" Year="1993">

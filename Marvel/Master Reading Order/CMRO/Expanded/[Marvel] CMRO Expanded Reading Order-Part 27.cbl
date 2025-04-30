@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 27</Name>
 <NumIssues>991</NumIssues>
@@ -870,10 +870,10 @@
 <Book Series="Captain Marvel" Number="5" Volume="2007" Year="2008">
 <Database Name="cv" Series="19633" Issue="127560" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="49" Volume="2004" Year="2008">
+<Book Series="Cable &amp; Deadpool" Number="49" Volume="2004" Year="2008">
 <Database Name="cv" Series="18070" Issue="121623" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="50" Volume="2004" Year="2008">
+<Book Series="Cable &amp; Deadpool" Number="50" Volume="2004" Year="2008">
 <Database Name="cv" Series="18070" Issue="123541" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="549" Volume="1963" Year="2008">
@@ -1215,7 +1215,7 @@
 <Book Series="Captain America" Number="42" Volume="2004" Year="2008">
 <Database Name="cv" Series="11499" Issue="139326" />
 </Book>
-<Book Series="Wolverine: The Amazing Immortal Man &#38; Other Bloody Tales" Number="1" Volume="2008" Year="2008">
+<Book Series="Wolverine: The Amazing Immortal Man &amp; Other Bloody Tales" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21576" Issue="130339" />
 </Book>
 <Book Series="Silver Surfer: In Thy Name" Number="1" Volume="2008" Year="2008">
@@ -2148,7 +2148,7 @@
 <Book Series="True Believers" Number="5" Volume="2008" Year="2009">
 <Database Name="cv" Series="22406" Issue="143478" />
 </Book>
-<Book Series="Hero Initiative: Mike Wieringo Book:  What if THIS Was the Fantastic Four?" Number="1" Volume="2008" Year="2008">
+<Book Series="Hero Initiative: Mike Wieringo Book" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21889" Issue="131871" />
 </Book>
 <Book Series="Power Pack: Day One" Number="1" Volume="2008" Year="2008">

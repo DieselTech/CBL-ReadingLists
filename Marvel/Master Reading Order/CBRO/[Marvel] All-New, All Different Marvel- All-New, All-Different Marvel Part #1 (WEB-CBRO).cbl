@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] All-New, All Different Marvel- All-New, All-Different Marvel Part #1 (WEB-CBRO)</Name>
 <NumIssues>729</NumIssues>
@@ -843,22 +843,22 @@
 <Book Series="Weirdworld" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86723" Issue="531908" />
 </Book>
-<Book Series="Starbrand &#38; Nightmask" Number="1" Volume="2015" Year="2016">
+<Book Series="Starbrand &amp; Nightmask" Number="1" Volume="2015" Year="2016">
 <Database Name="cv" Series="86717" Issue="508438" />
 </Book>
-<Book Series="Starbrand &#38; Nightmask" Number="2" Volume="2015" Year="2016">
+<Book Series="Starbrand &amp; Nightmask" Number="2" Volume="2015" Year="2016">
 <Database Name="cv" Series="86717" Issue="511523" />
 </Book>
-<Book Series="Starbrand &#38; Nightmask" Number="3" Volume="2015" Year="2016">
+<Book Series="Starbrand &amp; Nightmask" Number="3" Volume="2015" Year="2016">
 <Database Name="cv" Series="86717" Issue="516092" />
 </Book>
-<Book Series="Starbrand &#38; Nightmask" Number="4" Volume="2015" Year="2016">
+<Book Series="Starbrand &amp; Nightmask" Number="4" Volume="2015" Year="2016">
 <Database Name="cv" Series="86717" Issue="520213" />
 </Book>
-<Book Series="Starbrand &#38; Nightmask" Number="5" Volume="2015" Year="2016">
+<Book Series="Starbrand &amp; Nightmask" Number="5" Volume="2015" Year="2016">
 <Database Name="cv" Series="86717" Issue="526069" />
 </Book>
-<Book Series="Starbrand &#38; Nightmask" Number="6" Volume="2015" Year="2016">
+<Book Series="Starbrand &amp; Nightmask" Number="6" Volume="2015" Year="2016">
 <Database Name="cv" Series="86717" Issue="531903" />
 </Book>
 <Book Series="Deadpool: Masacre" Number="1" Volume="2016" Year="2016">
@@ -945,13 +945,13 @@
 <Book Series="A-Force" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="87152" Issue="525014" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="1" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="509708" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="2" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="513654" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="3" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="518864" />
 </Book>
 <Book Series="Spider-Man/Deadpool" Number="1" Volume="2016" Year="2016">
@@ -1149,19 +1149,19 @@
 <Book Series="All-New X-Men" Number="7" Volume="2015" Year="2016">
 <Database Name="cv" Series="86334" Issue="522423" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="1" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="87793" Issue="513645" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="2" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="87793" Issue="520200" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="3" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="87793" Issue="526049" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="4" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="87793" Issue="530727" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="5" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="87793" Issue="534285" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="9" Volume="2015" Year="2016">
@@ -1479,16 +1479,16 @@
 <Book Series="Mockingbird" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="88764" Issue="541212" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="4" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="525035" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="5" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="528517" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="6" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="537245" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="7" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="539250" />
 </Book>
 <Book Series="The Unbelievable Gwenpool" Number="1" Volume="2016" Year="2016">
@@ -1911,22 +1911,22 @@
 <Book Series="Spider-Gwen" Number="12" Volume="2015" Year="2016">
 <Database Name="cv" Series="85311" Issue="551316" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="1" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="92360" Issue="540074" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="2" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="92360" Issue="543751" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="3" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="92360" Issue="548574" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="4" Volume="2016" Year="2016">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="92360" Issue="552156" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="5" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="556470" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="6" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="6" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="569328" />
 </Book>
 <Book Series="Uncanny X-Men" Number="11" Volume="2016" Year="2016">

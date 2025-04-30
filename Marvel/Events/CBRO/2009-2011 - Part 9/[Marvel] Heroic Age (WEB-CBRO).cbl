@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Heroic Age (WEB-CBRO)</Name>
 <NumIssues>109</NumIssues>
@@ -24,19 +24,19 @@
 <Book Series="The Heroic Age: Villains" Number="1" Volume="2010" Year="2011">
 <Database Name="cv" Series="36738" Issue="244977" />
 </Book>
-<Book Series="Heroic Age: One Month To Live" Number="1" Volume="2010" Year="2010">
+<Book Series="Heroic Age: One Month to Live" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35335" Issue="232947" />
 </Book>
-<Book Series="Heroic Age: One Month To Live" Number="2" Volume="2010" Year="2010">
+<Book Series="Heroic Age: One Month to Live" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="35335" Issue="234264" />
 </Book>
-<Book Series="Heroic Age: One Month To Live" Number="3" Volume="2010" Year="2010">
+<Book Series="Heroic Age: One Month to Live" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="35335" Issue="234874" />
 </Book>
-<Book Series="Heroic Age: One Month To Live" Number="4" Volume="2010" Year="2010">
+<Book Series="Heroic Age: One Month to Live" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="35335" Issue="235680" />
 </Book>
-<Book Series="Heroic Age: One Month To Live" Number="5" Volume="2010" Year="2010">
+<Book Series="Heroic Age: One Month to Live" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="35335" Issue="236697" />
 </Book>
 <Book Series="Heroic Age: Prince of Power" Number="1" Volume="2010" Year="2010">
@@ -123,22 +123,22 @@
 <Book Series="Secret Avengers" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="33350" Issue="235393" />
 </Book>
-<Book Series="Hawkeye &#38; Mockingbird" Number="1" Volume="2010" Year="2010">
+<Book Series="Hawkeye &amp; Mockingbird" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33513" Issue="217486" />
 </Book>
-<Book Series="Hawkeye &#38; Mockingbird" Number="2" Volume="2010" Year="2010">
+<Book Series="Hawkeye &amp; Mockingbird" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="33513" Issue="223278" />
 </Book>
-<Book Series="Hawkeye &#38; Mockingbird" Number="3" Volume="2010" Year="2010">
+<Book Series="Hawkeye &amp; Mockingbird" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="33513" Issue="227822" />
 </Book>
-<Book Series="Hawkeye &#38; Mockingbird" Number="4" Volume="2010" Year="2010">
+<Book Series="Hawkeye &amp; Mockingbird" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="33513" Issue="232565" />
 </Book>
-<Book Series="Hawkeye &#38; Mockingbird" Number="5" Volume="2010" Year="2010">
+<Book Series="Hawkeye &amp; Mockingbird" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="33513" Issue="237169" />
 </Book>
-<Book Series="Hawkeye &#38; Mockingbird" Number="6" Volume="2010" Year="2011">
+<Book Series="Hawkeye &amp; Mockingbird" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="33513" Issue="240964" />
 </Book>
 <Book Series="Young Allies" Number="1" Volume="2010" Year="2010">
@@ -159,22 +159,22 @@
 <Book Series="Young Allies" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="33644" Issue="241134" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="1" Volume="2010" Year="2010">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32931" Issue="212014" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="2" Volume="2010" Year="2010">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="32931" Issue="224649" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="3" Volume="2010" Year="2010">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="32931" Issue="234675" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="4" Volume="2010" Year="2011">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="4" Volume="2010" Year="2011">
 <Database Name="cv" Series="32931" Issue="252999" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="5" Volume="2010" Year="2011">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="5" Volume="2010" Year="2011">
 <Database Name="cv" Series="32931" Issue="266503" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="6" Volume="2010" Year="2011">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="32931" Issue="271595" />
 </Book>
 <Book Series="Captain America" Number="606" Volume="2004" Year="2010">

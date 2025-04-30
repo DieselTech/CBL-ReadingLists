@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 02</Name>
 <NumIssues>1000</NumIssues>
@@ -285,7 +285,7 @@
 <Book Series="Miss America Magazine" Number="28" Volume="1944" Year="1947">
 <Database Name="cv" Series="21618" Issue="188803" />
 </Book>
-<Book Series="Oscar Comics" Number="13" Volume="1949" Year="1949">
+<Book Series="Oscar Comics" Number="13" Volume="1947" Year="1949">
 <Database Name="cv" Series="30422" Issue="187353" />
 </Book>
 <Book Series="Patsy Walker" Number="25" Volume="1945" Year="1949">

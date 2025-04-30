@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Jonathan Hickman's Marvel (WEB-CBRO)</Name>
 <NumIssues>588</NumIssues>
@@ -204,10 +204,10 @@
 <Book Series="S.H.I.E.L.D." Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="40434" Issue="306728" />
 </Book>
-<Book Series="S.H.I.E.L.D. by Hickman &#38; Weaver" Number="5" Volume="2018" Year="2018">
+<Book Series="S.H.I.E.L.D. by Hickman &amp; Weaver" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="111071" Issue="670754" />
 </Book>
-<Book Series="S.H.I.E.L.D. by Hickman &#38; Weaver" Number="6" Volume="2018" Year="2018">
+<Book Series="S.H.I.E.L.D. by Hickman &amp; Weaver" Number="6" Volume="2018" Year="2018">
 <Database Name="cv" Series="111071" Issue="673031" />
 </Book>
 <Book Series="FF" Number="1" Volume="2011" Year="2011">
@@ -342,7 +342,7 @@
 <Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="326860" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="9" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="332029" />
 </Book>
 <Book Series="New Avengers" Number="24" Volume="2010" Year="2012">
@@ -372,7 +372,7 @@
 <Book Series="Avengers Academy" Number="31" Volume="2010" Year="2012">
 <Database Name="cv" Series="33633" Issue="338524" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="10" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="10" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="335236" />
 </Book>
 <Book Series="X-Men: Legacy" Number="266" Volume="2008" Year="2012">
@@ -408,7 +408,7 @@
 <Book Series="Uncanny X-Men" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="425944" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="11" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="337499" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="5" Volume="2012" Year="2012">
@@ -456,10 +456,10 @@
 <Book Series="Avengers" Number="29" Volume="2010" Year="2012">
 <Database Name="cv" Series="33227" Issue="351071" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="12" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="342841" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="13" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="345398" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="7" Volume="2012" Year="2012">
@@ -486,28 +486,28 @@
 <Book Series="X-Men: Legacy" Number="270" Volume="2008" Year="2012">
 <Database Name="cv" Series="20691" Issue="347229" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="14" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="14" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="347208" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="9" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="9" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="348054" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="10" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="10" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="351068" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="15" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="15" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="354103" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="16" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="16" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="356779" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="11" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="11" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="356764" />
 </Book>
 <Book Series="Uncanny X-Men" Number="18" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="446998" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="12" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="12" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="359916" />
 </Book>
 <Book Series="Uncanny X-Men" Number="19" Volume="2013" Year="2014">
@@ -522,7 +522,7 @@
 <Book Series="Avengers" Number="30" Volume="2010" Year="2012">
 <Database Name="cv" Series="33227" Issue="357707" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="18" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="18" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="360916" />
 </Book>
 <Book Series="Uncanny X-Men" Number="20" Volume="2013" Year="2014">
@@ -789,7 +789,7 @@
 <Book Series="New Avengers" Number="12" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="435060" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men Annual" Number="1" Volume="2013" Year="2014">
+<Book Series="Wolverine &amp; the X-Men Annual" Number="1" Volume="2013" Year="2014">
 <Database Name="cv" Series="69573" Issue="435070" />
 </Book>
 <Book Series="Avengers" Number="24" Volume="2012" Year="2014">
@@ -1095,7 +1095,7 @@
 <Book Series="Loki: Agent of Asgard" Number="15" Volume="2014" Year="2015">
 <Database Name="cv" Series="71432" Issue="493045" />
 </Book>
-<Book Series="Captain America &#38; the Mighty Avengers" Number="9" Volume="2014" Year="2015">
+<Book Series="Captain America &amp; the Mighty Avengers" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="78045" Issue="491510" />
 </Book>
 <Book Series="Ms. Marvel" Number="16" Volume="2014" Year="2015">
@@ -1443,16 +1443,16 @@
 <Book Series="1602 Witch Hunter Angela" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82472" Issue="502106" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="1" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="491511" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="2" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="495267" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="3" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="498383" />
 </Book>
-<Book Series="Captain Marvel &#38; The Carol Corps" Number="4" Volume="2015" Year="2015">
+<Book Series="Captain Marvel &amp; The Carol Corps" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="82486" Issue="501017" />
 </Book>
 <Book Series="Mrs. Deadpool and the Howling Commandos" Number="1" Volume="2015" Year="2015">
@@ -1545,13 +1545,13 @@
 <Book Series="Secret Wars" Number="4" Volume="2015" Year="2015">
 <Database Name="cv" Series="81833" Issue="493798" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="1" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="495809" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="2" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="2" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="497401" />
 </Book>
-<Book Series="Star-Lord &#38; Kitty Pryde" Number="3" Volume="2015" Year="2015">
+<Book Series="Star-Lord &amp; Kitty Pryde" Number="3" Volume="2015" Year="2015">
 <Database Name="cv" Series="83469" Issue="499047" />
 </Book>
 <Book Series="Inhumans: Attilan Rising" Number="1" Volume="2015" Year="2015">
