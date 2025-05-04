@@ -48,7 +48,7 @@
 <Book Series="Flash: Our Worlds at War" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="30757" Issue="189894" />
 </Book>
-<Book Series="Flash Secret Files" Number="3" Volume="2010" Year="2001">
+<Book Series="Flash Secret Files" Number="3" Volume="1997" Year="2001">
 <Database Name="cv" Series="23376" Issue="140291" />
 </Book>
 <Book Series="The Flash" Number="177" Volume="1987" Year="2001">

@@ -4410,7 +4410,7 @@
 <Book Series="Batman: Gotham Knights" Number="30" Volume="2000" Year="2002">
 <Database Name="cv" Series="7207" Issue="55323" />
 </Book>
-<Book Series="Azrael: Agent of the Bat" Number="91" Volume="1995" Year="2002">
+<Book Series="Azrael: Agent of the Bat" Number="91" Volume="1998" Year="2002">
 <Database Name="cv" Series="19721" Issue="135661" />
 </Book>
 <Book Series="Detective Comics" Number="772" Volume="1937" Year="2002">

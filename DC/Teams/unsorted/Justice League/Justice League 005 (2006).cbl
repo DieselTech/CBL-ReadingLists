@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Justice League 005 (2006)</Name>
   <NumIssues>211</NumIssues>
@@ -81,10 +81,10 @@
     <Book Series="Justice League of America" Number="15" Volume="2006" Year="2008">
       <Database Name="cv" Series="18127" Issue="119223" />
     </Book>
-    <Book Series="The Trials Of Shazam!" Number="11" Volume="2007" Year="2008">
+    <Book Series="Trials of Shazam" Number="11" Volume="2006" Year="2008">
       <Database Name="cv" Series="18200" Issue="122117" />
     </Book>
-    <Book Series="The Trials Of Shazam!" Number="12" Volume="2007" Year="2008">
+    <Book Series="Trials of Shazam" Number="12" Volume="2006" Year="2008">
       <Database Name="cv" Series="18200" Issue="126373" />
     </Book>
     <Book Series="Justice League of America" Number="16" Volume="2006" Year="2008">
@@ -441,7 +441,7 @@
     <Book Series="Justice League: Rise and Fall Special" Number="1" Volume="2010" Year="2010">
       <Database Name="cv" Series="31841" Issue="199683" />
     </Book>
-    <Book Series="Green Arrow" Number="32" Volume="2010" Year="2014">
+    <Book Series="Green Arrow" Number="32" Volume="2011" Year="2014">
       <Database Name="cv" Series="42598" Issue="455435" />
     </Book>
     <Book Series="Justice League: The Rise of Arsenal" Number="1" Volume="2010" Year="2010">

@@ -240,16 +240,16 @@
 <Book Series="Green Arrow Year One" Number="6" Volume="2007" Year="2007">
 <Database Name="cv" Series="18880" Issue="116978" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="65" Volume="1989" Year="1994">
+<Book Series="Batman: Legends of the Dark Knight" Number="65" Volume="1992" Year="1994">
 <Database Name="cv" Series="4720" Issue="39976" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="66" Volume="1989" Year="1994">
+<Book Series="Batman: Legends of the Dark Knight" Number="66" Volume="1992" Year="1994">
 <Database Name="cv" Series="4720" Issue="40117" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="67" Volume="1989" Year="1995">
+<Book Series="Batman: Legends of the Dark Knight" Number="67" Volume="1992" Year="1995">
 <Database Name="cv" Series="4720" Issue="40360" />
 </Book>
-<Book Series="Batman: Legends of the Dark Knight" Number="68" Volume="1989" Year="1995">
+<Book Series="Batman: Legends of the Dark Knight" Number="68" Volume="1992" Year="1995">
 <Database Name="cv" Series="4720" Issue="40489" />
 </Book>
 <Book Series="Batman: The Long Halloween" Number="1" Volume="1996" Year="1996">
@@ -855,16 +855,16 @@
 <Book Series="Batman: The Killing Joke" Number="1" Volume="1988" Year="1988">
 <Database Name="cv" Series="19967" Issue="119383" />
 </Book>
-<Book Series="Batman: The Cult" Number="1" Volume="1989" Year="1991">
+<Book Series="Batman: The Cult" Number="1" Volume="1988" Year="1991">
 <Database Name="cv" Series="3979" Issue="276341" />
 </Book>
-<Book Series="Batman: The Cult" Number="2" Volume="1989" Year="1988">
+<Book Series="Batman: The Cult" Number="2" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="29013" />
 </Book>
-<Book Series="Batman: The Cult" Number="3" Volume="1989" Year="1988">
+<Book Series="Batman: The Cult" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="29023" />
 </Book>
-<Book Series="Batman: The Cult" Number="4" Volume="1989" Year="1988">
+<Book Series="Batman: The Cult" Number="4" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="29028" />
 </Book>
 <Book Series="Legion of Super-Heroes" Number="46" Volume="1984" Year="1988">
@@ -1311,7 +1311,7 @@
 <Book Series="Wonder Woman" Number="24" Volume="1987" Year="1988">
 <Database Name="cv" Series="3824" Issue="30538" />
 </Book>
-<Book Series="Firestorm, the Nuclear Man" Number="82" Volume="1982" Year="1989">
+<Book Series="Firestorm, the Nuclear Man" Number="82" Volume="1987" Year="1989">
 <Database Name="cv" Series="3789" Issue="30854" />
 </Book>
 <Book Series="Swamp Thing" Number="82" Volume="1986" Year="1989">
@@ -2043,13 +2043,13 @@
 <Book Series="The Flash" Number="50" Volume="1987" Year="1991">
 <Database Name="cv" Series="3790" Issue="34163" />
 </Book>
-<Book Series="Firestorm" Number="98" Volume="1982" Year="1990">
+<Book Series="Firestorm" Number="98" Volume="1989" Year="1990">
 <Database Name="cv" Series="149680" Issue="32796" />
 </Book>
-<Book Series="Firestorm" Number="99" Volume="1982" Year="1990">
+<Book Series="Firestorm" Number="99" Volume="1989" Year="1990">
 <Database Name="cv" Series="149680" Issue="32924" />
 </Book>
-<Book Series="Firestorm" Number="100" Volume="1982" Year="1990">
+<Book Series="Firestorm" Number="100" Volume="1989" Year="1990">
 <Database Name="cv" Series="149680" Issue="33039" />
 </Book>
 <Book Series="Wonder Woman" Number="45" Volume="1987" Year="1990">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] 2011-2016 Part 2.3 A Wild Storm Approaches</Name>
 <NumIssues>121</NumIssues>
@@ -117,22 +117,22 @@
 <Book Series="Grifter" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42791" Issue="314979" />
 </Book>
-<Book Series="Stormwatch" Number="1" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="1" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="372804" />
 </Book>
-<Book Series="Stormwatch" Number="2" Volume="2012" Year="2013">
+<Book Series="Stormwatch" Number="2" Volume="2011" Year="2013">
 <Database Name="cv" Series="42596" Issue="410314" />
 </Book>
-<Book Series="Stormwatch" Number="3" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="301015" />
 </Book>
-<Book Series="Stormwatch" Number="4" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="305596" />
 </Book>
-<Book Series="Stormwatch" Number="5" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="309357" />
 </Book>
-<Book Series="Stormwatch" Number="6" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="313620" />
 </Book>
 <Book Series="Suicide Squad" Number="6" Volume="2011" Year="2012">
@@ -150,19 +150,19 @@
 <Book Series="Superman" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="42986" Issue="333362" />
 </Book>
-<Book Series="Stormwatch" Number="7" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="7" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="319316" />
 </Book>
-<Book Series="Stormwatch" Number="8" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="8" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="326847" />
 </Book>
-<Book Series="Stormwatch" Number="9" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="334207" />
 </Book>
-<Book Series="Stormwatch" Number="10" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="10" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="338479" />
 </Book>
-<Book Series="Stormwatch" Number="11" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="344042" />
 </Book>
 <Book Series="Superman" Number="9" Volume="2011" Year="2012">
@@ -225,7 +225,7 @@
 <Book Series="Justice League International" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="42590" Issue="348042" />
 </Book>
-<Book Series="Stormwatch" Number="12" Volume="2012" Year="2012">
+<Book Series="Stormwatch" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="348140" />
 </Book>
 <Book Series="Blue Beetle" Number="10" Volume="2011" Year="2012">
