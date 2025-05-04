@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 25</Name>
 <NumIssues>992</NumIssues>
@@ -42,19 +42,19 @@
 <Book Series="Livewires" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="24034" Issue="143040" />
 </Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="1" Volume="2005" Year="2005">
+<Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="20131" Issue="120170" />
 </Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="2" Volume="2005" Year="2005">
+<Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="20131" Issue="120189" />
 </Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="3" Volume="2005" Year="2005">
+<Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="20131" Issue="120192" />
 </Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="4" Volume="2005" Year="2005">
+<Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="20131" Issue="120190" />
 </Book>
-<Book Series="X-Men: Kitty Pryde - Shadow &#38; Flame" Number="5" Volume="2005" Year="2005">
+<Book Series="X-Men: Kitty Pryde - Shadow &amp; Flame" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="20131" Issue="120193" />
 </Book>
 <Book Series="Fantastic Four: The Movie" Number="1" Volume="2005" Year="2005">
@@ -384,22 +384,22 @@
 <Book Series="District X" Number="14" Volume="2004" Year="2005">
 <Database Name="cv" Series="19327" Issue="126233" />
 </Book>
-<Book Series="X-Men: The End: Book 2: Heroes &#38; Martyrs" Number="1" Volume="2005" Year="2005">
+<Book Series="X-Men: The End: Book 2: Heroes &amp; Martyrs" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="19047" Issue="113732" />
 </Book>
-<Book Series="X-Men: The End: Book 2: Heroes &#38; Martyrs" Number="2" Volume="2005" Year="2005">
+<Book Series="X-Men: The End: Book 2: Heroes &amp; Martyrs" Number="2" Volume="2005" Year="2005">
 <Database Name="cv" Series="19047" Issue="113779" />
 </Book>
-<Book Series="X-Men: The End: Book 2: Heroes &#38; Martyrs" Number="3" Volume="2005" Year="2005">
+<Book Series="X-Men: The End: Book 2: Heroes &amp; Martyrs" Number="3" Volume="2005" Year="2005">
 <Database Name="cv" Series="19047" Issue="113780" />
 </Book>
-<Book Series="X-Men: The End: Book 2: Heroes &#38; Martyrs" Number="4" Volume="2005" Year="2005">
+<Book Series="X-Men: The End: Book 2: Heroes &amp; Martyrs" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="19047" Issue="113781" />
 </Book>
-<Book Series="X-Men: The End: Book 2: Heroes &#38; Martyrs" Number="5" Volume="2005" Year="2005">
+<Book Series="X-Men: The End: Book 2: Heroes &amp; Martyrs" Number="5" Volume="2005" Year="2005">
 <Database Name="cv" Series="19047" Issue="113782" />
 </Book>
-<Book Series="X-Men: The End: Book 2: Heroes &#38; Martyrs" Number="6" Volume="2005" Year="2005">
+<Book Series="X-Men: The End: Book 2: Heroes &amp; Martyrs" Number="6" Volume="2005" Year="2005">
 <Database Name="cv" Series="19047" Issue="113783" />
 </Book>
 <Book Series="Marvel Knights Spider-Man" Number="13" Volume="2004" Year="2005">
@@ -642,19 +642,19 @@
 <Book Series="Wolverine" Number="35" Volume="2003" Year="2005">
 <Database Name="cv" Series="10809" Issue="114518" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="15" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="15" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106392" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="16" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="16" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106393" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="17" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="17" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106394" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="18" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="18" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106395" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="19" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="19" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106396" />
 </Book>
 <Book Series="New X-Men" Number="16" Volume="2004" Year="2005">
@@ -1233,16 +1233,16 @@
 <Book Series="Spectacular Spider-Man Adventures" Number="126" Volume="1995" Year="2005">
 <Database Name="cv" Series="43257" Issue="716039" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="20" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="20" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106407" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="21" Volume="2004" Year="2005">
+<Book Series="Cable &amp; Deadpool" Number="21" Volume="2004" Year="2005">
 <Database Name="cv" Series="18070" Issue="106408" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="22" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="22" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106409" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="23" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="23" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106410" />
 </Book>
 <Book Series="The Ultimates 2" Number="6" Volume="2005" Year="2005">
@@ -1701,10 +1701,10 @@
 <Book Series="Ultimate X4" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18893" Issue="111666" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="24" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="24" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106411" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="25" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="25" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106412" />
 </Book>
 <Book Series="Beyond!" Number="1" Volume="2006" Year="2006">
@@ -2169,16 +2169,16 @@
 <Book Series="The Thing" Number="4" Volume="2005" Year="2006">
 <Database Name="cv" Series="18242" Issue="106888" />
 </Book>
-<Book Series="Sable &#38; Fortune" Number="1" Volume="2006" Year="2006">
+<Book Series="Sable &amp; Fortune" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18449" Issue="108262" />
 </Book>
-<Book Series="Sable &#38; Fortune" Number="2" Volume="2006" Year="2006">
+<Book Series="Sable &amp; Fortune" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18449" Issue="138753" />
 </Book>
-<Book Series="Sable &#38; Fortune" Number="3" Volume="2006" Year="2006">
+<Book Series="Sable &amp; Fortune" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18449" Issue="138754" />
 </Book>
-<Book Series="Sable &#38; Fortune" Number="4" Volume="2006" Year="2006">
+<Book Series="Sable &amp; Fortune" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="18449" Issue="138755" />
 </Book>
 <Book Series="Spider-Man Loves Mary Jane" Number="5" Volume="2005" Year="2006">
@@ -2235,7 +2235,7 @@
 <Book Series="Amazing Fantasy" Number="20" Volume="2004" Year="2006">
 <Database Name="cv" Series="18663" Issue="117225" />
 </Book>
-<Book Series="Spider-Man &#38; Araña Special" Number="1" Volume="2006" Year="2006">
+<Book Series="Spider-Man &amp; Araña Special" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="26671" Issue="159841" />
 </Book>
 <Book Series="The Thing" Number="5" Volume="2005" Year="2006">
@@ -2259,22 +2259,22 @@
 <Book Series="Doc Samson" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="19034" Issue="113612" />
 </Book>
-<Book Series="X-Men: The End: Book 3: Men &#38; X-Men" Number="1" Volume="2006" Year="2006">
+<Book Series="X-Men: The End: Book 3: Men &amp; X-Men" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="19053" Issue="113784" />
 </Book>
-<Book Series="X-Men: The End: Book 3: Men &#38; X-Men" Number="2" Volume="2006" Year="2006">
+<Book Series="X-Men: The End: Book 3: Men &amp; X-Men" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="19053" Issue="113829" />
 </Book>
-<Book Series="X-Men: The End: Book 3: Men &#38; X-Men" Number="3" Volume="2006" Year="2006">
+<Book Series="X-Men: The End: Book 3: Men &amp; X-Men" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="19053" Issue="113830" />
 </Book>
-<Book Series="X-Men: The End: Book 3: Men &#38; X-Men" Number="4" Volume="2006" Year="2006">
+<Book Series="X-Men: The End: Book 3: Men &amp; X-Men" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="19053" Issue="113831" />
 </Book>
-<Book Series="X-Men: The End: Book 3: Men &#38; X-Men" Number="5" Volume="2006" Year="2006">
+<Book Series="X-Men: The End: Book 3: Men &amp; X-Men" Number="5" Volume="2006" Year="2006">
 <Database Name="cv" Series="19053" Issue="113834" />
 </Book>
-<Book Series="X-Men: The End: Book 3: Men &#38; X-Men" Number="6" Volume="2006" Year="2006">
+<Book Series="X-Men: The End: Book 3: Men &amp; X-Men" Number="6" Volume="2006" Year="2006">
 <Database Name="cv" Series="19053" Issue="113835" />
 </Book>
 <Book Series="Daughters of the Dragon" Number="1" Volume="2006" Year="2006">
@@ -2343,10 +2343,10 @@
 <Book Series="X-Men: Apocalypse/Dracula" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="18303" Issue="107125" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="26" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="26" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106413" />
 </Book>
-<Book Series="Cable &#38; Deadpool" Number="27" Volume="2004" Year="2006">
+<Book Series="Cable &amp; Deadpool" Number="27" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106414" />
 </Book>
 <Book Series="X-Men" Number="182" Volume="2004" Year="2006">
@@ -2406,7 +2406,7 @@
 <Book Series="Fantastic Four: First Family" Number="6" Volume="2006" Year="2006">
 <Database Name="cv" Series="28077" Issue="172348" />
 </Book>
-<Book Series="Fantastic Four: A Death In The Family" Number="1" Volume="2006" Year="2006">
+<Book Series="Fantastic Four: A Death in the Family" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="29424" Issue="181650" />
 </Book>
 <Book Series="Marvel Knights: 4" Number="25" Volume="2004" Year="2006">
@@ -2745,7 +2745,7 @@
 <Book Series="Ghost Rider" Number="5" Volume="2006" Year="2007">
 <Database Name="cv" Series="18138" Issue="107147" />
 </Book>
-<Book Series="Spider-Man Black &#38; Blue &#38; Read All Over" Number="1" Volume="2006" Year="2006">
+<Book Series="Spider-Man Black &amp; Blue &amp; Read All Over" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="19880" Issue="119069" />
 </Book>
 <Book Series="Union Jack" Number="1" Volume="2006" Year="2006">

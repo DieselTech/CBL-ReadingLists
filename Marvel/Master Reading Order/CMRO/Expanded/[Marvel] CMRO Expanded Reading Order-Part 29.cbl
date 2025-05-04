@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 29</Name>
 <NumIssues>999</NumIssues>
@@ -24,13 +24,13 @@
 <Book Series="Spectacular Spider-Man Adventures" Number="192" Volume="1995" Year="2009">
 <Database Name="cv" Series="43257" Issue="716071" />
 </Book>
-<Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="1" Volume="2009" Year="2009">
+<Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25714" Issue="151439" />
 </Book>
-<Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="2" Volume="2009" Year="2009">
+<Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="25714" Issue="153992" />
 </Book>
-<Book Series="X-Men: The Times &#38; Life of Lucas Bishop" Number="3" Volume="2009" Year="2009">
+<Book Series="X-Men: The Times &amp; Life of Lucas Bishop" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="25714" Issue="155782" />
 </Book>
 <Book Series="Cable" Number="11" Volume="2008" Year="2009">
@@ -627,7 +627,7 @@
 <Book Series="Nomad: Girl Without a World" Number="4" Volume="2009" Year="2010">
 <Database Name="cv" Series="27856" Issue="187866" />
 </Book>
-<Book Series="Shang-Chi: Master of Kung Fu One-Shot (B&#38;W)" Number="1" Volume="2009" Year="2009">
+<Book Series="Shang-Chi: Master of Kung Fu One-Shot (B&amp;W)" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28376" Issue="174694" />
 </Book>
 <Book Series="Dark Wolverine" Number="78" Volume="2009" Year="2009">
@@ -1191,16 +1191,16 @@
 <Book Series="Deadpool" Number="22" Volume="2008" Year="2010">
 <Database Name="cv" Series="22955" Issue="210225" />
 </Book>
-<Book Series="Spider-Man &#38; The Secret Wars" Number="1" Volume="2010" Year="2010">
+<Book Series="Spider-Man &amp; The Secret Wars" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30318" Issue="186692" />
 </Book>
-<Book Series="Spider-Man &#38; The Secret Wars" Number="2" Volume="2010" Year="2010">
+<Book Series="Spider-Man &amp; The Secret Wars" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="30318" Issue="192763" />
 </Book>
-<Book Series="Spider-Man &#38; The Secret Wars" Number="3" Volume="2010" Year="2010">
+<Book Series="Spider-Man &amp; The Secret Wars" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30318" Issue="196741" />
 </Book>
-<Book Series="Spider-Man &#38; The Secret Wars" Number="4" Volume="2010" Year="2010">
+<Book Series="Spider-Man &amp; The Secret Wars" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="30318" Issue="201338" />
 </Book>
 <Book Series="What If? Secret Invasion" Number="1" Volume="2010" Year="2010">
@@ -1251,16 +1251,16 @@
 <Book Series="Avengers vs. Atlas" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="31128" Issue="208663" />
 </Book>
-<Book Series="Black Widow &#38; The Marvel Girls" Number="1" Volume="2010" Year="2010">
+<Book Series="Black Widow &amp; The Marvel Girls" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="30174" Issue="185926" />
 </Book>
-<Book Series="Black Widow &#38; The Marvel Girls" Number="2" Volume="2010" Year="2010">
+<Book Series="Black Widow &amp; The Marvel Girls" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="30174" Issue="189572" />
 </Book>
-<Book Series="Black Widow &#38; The Marvel Girls" Number="3" Volume="2010" Year="2010">
+<Book Series="Black Widow &amp; The Marvel Girls" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="30174" Issue="193784" />
 </Book>
-<Book Series="Black Widow &#38; The Marvel Girls" Number="4" Volume="2010" Year="2010">
+<Book Series="Black Widow &amp; The Marvel Girls" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="30174" Issue="197541" />
 </Book>
 <Book Series="What If? Daredevil vs. Elektra" Number="1" Volume="2010" Year="2010">
@@ -1497,7 +1497,7 @@
 <Book Series="Avengers: The Initiative" Number="31" Volume="2007" Year="2010">
 <Database Name="cv" Series="18419" Issue="189500" />
 </Book>
-<Book Series="Siege: Storming Asgard –– Heroes &#38; Villains" Number="1" Volume="2010" Year="2010">
+<Book Series="Siege: Storming Asgard –– Heroes &amp; Villains" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="31275" Issue="194624" />
 </Book>
 <Book Series="Siege" Number="1" Volume="2010" Year="2010">
@@ -1689,10 +1689,10 @@
 <Book Series="X-Men Noir: Mark of Cain" Number="2" Volume="2009" Year="2010">
 <Database Name="cv" Series="30332" Issue="191679" />
 </Book>
-<Book Series="X-Men Noir: Mark of Cain" Number="3" Volume="2010" Year="2010">
+<Book Series="X-Men Noir: Mark of Cain" Number="3" Volume="2009" Year="2010">
 <Database Name="cv" Series="30332" Issue="195708" />
 </Book>
-<Book Series="X-Men Noir: Mark of Cain" Number="4" Volume="2010" Year="2010">
+<Book Series="X-Men Noir: Mark of Cain" Number="4" Volume="2009" Year="2010">
 <Database Name="cv" Series="30332" Issue="199158" />
 </Book>
 <Book Series="What If? Spider-Man House of M" Number="1" Volume="2009" Year="2010">
@@ -1995,7 +1995,7 @@
 <Book Series="The Indomitable Iron Man" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="31410" Issue="195707" />
 </Book>
-<Book Series="Astonishing Tales: Boom Boom &#38; Elsa" Number="1" Volume="2009" Year="2009">
+<Book Series="Astonishing Tales: Boom Boom &amp; Elsa" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="34446" Issue="224890" />
 </Book>
 <Book Series="Marvel Heartbreakers" Number="1" Volume="2010" Year="2010">
@@ -2130,22 +2130,22 @@
 <Book Series="Heroic Age: One Month to Live" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="35335" Issue="236697" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="1" Volume="2010" Year="2010">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32931" Issue="212014" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="2" Volume="2010" Year="2010">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="32931" Issue="224649" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="3" Volume="2010" Year="2010">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="32931" Issue="234675" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="4" Volume="2010" Year="2011">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="4" Volume="2010" Year="2011">
 <Database Name="cv" Series="32931" Issue="252999" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="5" Volume="2010" Year="2011">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="5" Volume="2010" Year="2011">
 <Database Name="cv" Series="32931" Issue="266503" />
 </Book>
-<Book Series="Astonishing Spider-Man &#38; Wolverine" Number="6" Volume="2010" Year="2011">
+<Book Series="Astonishing Spider-Man &amp; Wolverine" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="32931" Issue="271595" />
 </Book>
 <Book Series="X-Men Forever" Number="21" Volume="2009" Year="2010">
@@ -2397,7 +2397,7 @@
 <Book Series="Cable" Number="25" Volume="2008" Year="2010">
 <Database Name="cv" Series="20805" Issue="204546" />
 </Book>
-<Book Series="Deadpool &#38; Cable" Number="26" Volume="2011" Year="2011">
+<Book Series="Deadpool &amp; Cable" Number="26" Volume="2011" Year="2011">
 <Database Name="cv" Series="38781" Issue="260057" />
 </Book>
 <Book Series="PunisherMAX" Number="1" Volume="2010" Year="2010">
@@ -2856,10 +2856,10 @@
 <Book Series="Spectacular Spider-Girl" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="33063" Issue="228974" />
 </Book>
-<Book Series="Spider-Man Heroes &#38; Villains Collection" Number="1" Volume="2010" Year="0">
+<Book Series="Spider-Man Heroes &amp; Villains Collection" Number="1" Volume="2010" Year="0">
 <Database Name="cv" Series="56060" Issue="381162" />
 </Book>
-<Book Series="Spider-Man Heroes &#38; Villains Collection" Number="2" Volume="2010" Year="0">
+<Book Series="Spider-Man Heroes &amp; Villains Collection" Number="2" Volume="2010" Year="0">
 <Database Name="cv" Series="56060" Issue="381163" />
 </Book>
 <Book Series="Girl Comics" Number="2" Volume="2010" Year="2010">

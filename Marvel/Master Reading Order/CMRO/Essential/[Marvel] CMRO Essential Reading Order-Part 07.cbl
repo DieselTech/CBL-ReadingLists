@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Essential Reading Order-Part 07</Name>
 <NumIssues>937</NumIssues>
@@ -279,13 +279,13 @@
 <Book Series="Guardians of the Galaxy" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="547277" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="8" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="547289" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="9" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="549522" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="10" Volume="2015" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="551314" />
 </Book>
 <Book Series="Venom: Space Knight" Number="11" Volume="2015" Year="2016">
@@ -621,7 +621,7 @@
 <Book Series="Uncanny Inhumans" Number="18" Volume="2015" Year="2017">
 <Database Name="cv" Series="81092" Issue="576641" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="7" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="7" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="576620" />
 </Book>
 <Book Series="All-New X-Men" Number="17" Volume="2015" Year="2017">
@@ -633,7 +633,7 @@
 <Book Series="Uncanny X-Men" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="87190" Issue="575887" />
 </Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="8" Volume="2016" Year="2017">
+<Book Series="Deadpool &amp; The Mercs For Money" Number="8" Volume="2016" Year="2017">
 <Database Name="cv" Series="92360" Issue="579313" />
 </Book>
 <Book Series="IvX" Number="4" Volume="2016" Year="2017">
@@ -1932,13 +1932,13 @@
 <Book Series="War of the Realms" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118154" Issue="709218" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2019" Year="2019">
@@ -2598,7 +2598,7 @@
 <Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="1" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="960979" />
 </Book>
 <Book Series="Dark Web: Ms. Marvel" Number="1" Volume="2023" Year="2023">

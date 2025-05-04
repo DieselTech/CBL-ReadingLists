@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 08</Name>
 <NumIssues>1000</NumIssues>
@@ -2409,7 +2409,7 @@
 <Book Series="Secret Defenders" Number="10" Volume="1993" Year="1993">
 <Database Name="cv" Series="5044" Issue="38261" />
 </Book>
-<Book Series="Ghost Rider Annual" Number="1" Volume="1990" Year="1993">
+<Book Series="Ghost Rider Annual" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="20061" Issue="119743" />
 </Book>
 <Book Series="Ghost Rider" Number="41" Volume="1990" Year="1993">

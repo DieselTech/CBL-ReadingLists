@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 25</Name>
 <NumIssues>603</NumIssues>
@@ -57,7 +57,7 @@
 <Book Series="Venom: Lethal Protector" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="141992" Issue="941572" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="3" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="941565" />
 </Book>
 <Book Series="Captain Marvel" Number="40" Volume="2019" Year="2022">
@@ -531,7 +531,7 @@
 <Book Series="X-Men Annual" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146988" Issue="960987" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="1" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="960979" />
 </Book>
 <Book Series="Dark Web: Ms. Marvel" Number="1" Volume="2023" Year="2023">
@@ -876,7 +876,7 @@
 <Book Series="Wasp" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="147504" Issue="978484" />
 </Book>
-<Book Series="Storm &#38; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
+<Book Series="Storm &amp; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="978480" />
 </Book>
 <Book Series="Doctor Strange" Number="1" Volume="2023" Year="2023">
@@ -1194,7 +1194,7 @@
 <Book Series="Storm" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="150605" Issue="997384" />
 </Book>
-<Book Series="Captain America" Number="750" Volume="2022" Year="2023">
+<Book Series="Captain America" Number="750" Volume="2023" Year="2023">
 <Database Name="cv" Series="151915" Issue="999008" />
 </Book>
 <Book Series="X-Men" Number="24" Volume="2021" Year="2023">

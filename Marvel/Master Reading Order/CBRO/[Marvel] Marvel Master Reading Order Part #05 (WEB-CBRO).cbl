@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #05 (WEB-CBRO)</Name>
 <NumIssues>794</NumIssues>
@@ -495,7 +495,7 @@
 <Book Series="X-Factor" Number="105" Volume="1986" Year="1994">
 <Database Name="cv" Series="3657" Issue="65686" />
 </Book>
-<Book Series="Ghost Rider Annual" Number="2" Volume="1990" Year="1994">
+<Book Series="Ghost Rider Annual" Number="2" Volume="1993" Year="1994">
 <Database Name="cv" Series="20061" Issue="142725" />
 </Book>
 <Book Series="Archie Meets the Punisher" Number="1" Volume="1994" Year="1994">
@@ -1260,16 +1260,16 @@
 <Book Series="Generation X" Number="26" Volume="1994" Year="1997">
 <Database Name="cv" Series="5300" Issue="43578" />
 </Book>
-<Book Series="Mystique &#38; Sabretooth" Number="1" Volume="1996" Year="1996">
+<Book Series="Mystique &amp; Sabretooth" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="5787" Issue="43117" />
 </Book>
-<Book Series="Mystique &#38; Sabretooth" Number="2" Volume="1996" Year="1997">
+<Book Series="Mystique &amp; Sabretooth" Number="2" Volume="1996" Year="1997">
 <Database Name="cv" Series="5787" Issue="43313" />
 </Book>
-<Book Series="Mystique &#38; Sabretooth" Number="3" Volume="1996" Year="1997">
+<Book Series="Mystique &amp; Sabretooth" Number="3" Volume="1996" Year="1997">
 <Database Name="cv" Series="5787" Issue="43425" />
 </Book>
-<Book Series="Mystique &#38; Sabretooth" Number="4" Volume="1996" Year="1997">
+<Book Series="Mystique &amp; Sabretooth" Number="4" Volume="1996" Year="1997">
 <Database Name="cv" Series="5787" Issue="43519" />
 </Book>
 <Book Series="Domino" Number="1" Volume="1997" Year="1997">
@@ -1467,16 +1467,16 @@
 <Book Series="Cable" Number="50" Volume="1993" Year="1998">
 <Database Name="cv" Series="4993" Issue="44598" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="1" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="123844" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="2" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="2" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135794" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="3" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135795" />
 </Book>
-<Book Series="Psylocke &#38; Archangel: Crimson Dawn" Number="4" Volume="1997" Year="1997">
+<Book Series="Psylocke &amp; Archangel: Crimson Dawn" Number="4" Volume="1997" Year="1997">
 <Database Name="cv" Series="20650" Issue="135796" />
 </Book>
 <Book Series="New Mutants: Truth or Death" Number="1" Volume="1997" Year="1997">

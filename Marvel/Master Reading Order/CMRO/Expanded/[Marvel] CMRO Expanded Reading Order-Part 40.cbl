@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 40</Name>
 <NumIssues>999</NumIssues>
@@ -18,7 +18,7 @@
 <Book Series="Spider-Man 2099: Exodus" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="143301" Issue="930973" />
 </Book>
-<Book Series="Moon Knight: Black, White &#38; Blood" Number="2" Volume="2022" Year="2022">
+<Book Series="Moon Knight: Black, White &amp; Blood" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="142845" Issue="930975" />
 </Book>
 <Book Series="Captain America: Sentinel of Liberty" Number="1" Volume="2022" Year="2022">
@@ -150,7 +150,7 @@
 <Book Series="Avengers Unlimited Infinity Comic" Number="6" Volume="2022" Year="2022">
 <Database Name="cv" Series="147318" Issue="963559" />
 </Book>
-<Book Series="Strange Tales: Thor &#38; Jane Foster Infinity Comic" Number="1" Volume="2022" Year="2022">
+<Book Series="Strange Tales: Thor &amp; Jane Foster Infinity Comic" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="147411" Issue="964095" />
 </Book>
 <Book Series="X-Men Unlimited Infinity Comic" Number="42" Volume="2021" Year="2022">
@@ -195,7 +195,7 @@
 <Book Series="Captain America: Sentinel of Liberty" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="143632" Issue="934988" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="2" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="934982" />
 </Book>
 <Book Series="Fantastic Four" Number="45" Volume="2018" Year="2022">
@@ -279,7 +279,7 @@
 <Book Series="Daredevil" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144027" Issue="935767" />
 </Book>
-<Book Series="A.X.E.: Eve Of Judgment" Number="1" Volume="2022" Year="2022">
+<Book Series="A.X.E.: Eve of Judgment" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144026" Issue="935759" />
 </Book>
 <Book Series="Avengers" Number="58" Volume="2018" Year="2022">
@@ -312,7 +312,7 @@
 <Book Series="Spider-Gwen: Gwenverse" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="141842" Issue="937736" />
 </Book>
-<Book Series="Moon Knight: Black, White &#38; Blood" Number="3" Volume="2022" Year="2022">
+<Book Series="Moon Knight: Black, White &amp; Blood" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="142845" Issue="937730" />
 </Book>
 <Book Series="New Fantastic Four" Number="2" Volume="2022" Year="2022">
@@ -465,16 +465,16 @@
 <Book Series="Captain America: Sentinel of Liberty" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="143632" Issue="941559" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="3" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="941565" />
 </Book>
 <Book Series="Ghost Rider: Vengeance Forever" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144436" Issue="941562" />
 </Book>
-<Book Series="Avengers &#38; Moon Girl" Number="1" Volume="2022" Year="2022">
+<Book Series="Avengers &amp; Moon Girl" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144435" Issue="941555" />
 </Book>
-<Book Series="Ms. Marvel &#38; Wolverine" Number="1" Volume="2022" Year="2022">
+<Book Series="Ms. Marvel &amp; Wolverine" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144438" Issue="941566" />
 </Book>
 <Book Series="X-Men Legends" Number="1" Volume="2022" Year="2022">
@@ -519,7 +519,7 @@
 <Book Series="A.X.E.: Death to the Mutants" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144577" Issue="942722" />
 </Book>
-<Book Series="Ms. Marvel &#38; Moon Knight" Number="1" Volume="2022" Year="2022">
+<Book Series="Ms. Marvel &amp; Moon Knight" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144576" Issue="942714" />
 </Book>
 <Book Series="Genis-Vell: Captain Marvel" Number="2" Volume="2022" Year="2022">
@@ -606,7 +606,7 @@
 <Book Series="Knights of X" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="142576" Issue="944673" />
 </Book>
-<Book Series="Moon Knight: Black, White &#38; Blood" Number="4" Volume="2022" Year="2022">
+<Book Series="Moon Knight: Black, White &amp; Blood" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="142845" Issue="945045" />
 </Book>
 <Book Series="The Variants" Number="3" Volume="2022" Year="2022">
@@ -762,7 +762,7 @@
 <Book Series="Midnight Suns" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="145040" Issue="946707" />
 </Book>
-<Book Series="Ms. Marvel &#38; Venom" Number="1" Volume="2022" Year="2022">
+<Book Series="Ms. Marvel &amp; Venom" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="145039" Issue="946708" />
 </Book>
 <Book Series="Avengers" Number="60" Volume="2018" Year="2022">
@@ -789,7 +789,7 @@
 <Book Series="A.X.E.: Judgment Day" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="144123" Issue="948102" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="4" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="948110" />
 </Book>
 <Book Series="Iron Cat" Number="4" Volume="2022" Year="2022">
@@ -909,7 +909,7 @@
 <Book Series="New Fantastic Four" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="143757" Issue="949641" />
 </Book>
-<Book Series="Jane Foster &#38; The Mighty Thor" Number="5" Volume="2022" Year="2022">
+<Book Series="Jane Foster &amp; The Mighty Thor" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="143439" Issue="949639" />
 </Book>
 <Book Series="Edge of Spider-Verse" Number="5" Volume="2022" Year="2022">
@@ -1530,7 +1530,7 @@
 <Book Series="X-Men Annual" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146988" Issue="960987" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="1" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="960979" />
 </Book>
 <Book Series="Dark Web: Ms. Marvel" Number="1" Volume="2023" Year="2023">
@@ -1758,7 +1758,7 @@
 <Book Series="Monica Rambeau: Photon" Number="2" Volume="2022" Year="2023">
 <Database Name="cv" Series="146874" Issue="963991" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="2" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="963990" />
 </Book>
 <Book Series="Miles Morales: Spider-Man" Number="2" Volume="2022" Year="2023">
@@ -2007,7 +2007,7 @@
 <Book Series="Red Goblin" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148089" Issue="969376" />
 </Book>
-<Book Series="Storm &#38; The Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
+<Book Series="Storm &amp; The Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="969390" />
 </Book>
 <Book Series="Spider-Man: The Lost Hunt" Number="4" Volume="2022" Year="2023">
@@ -2022,7 +2022,7 @@
 <Book Series="Monica Rambeau: Photon" Number="3" Volume="2022" Year="2023">
 <Database Name="cv" Series="146874" Issue="971879" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="3" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="971887" />
 </Book>
 <Book Series="Wasp" Number="2" Volume="2023" Year="2023">
@@ -2190,7 +2190,7 @@
 <Book Series="Cosmic Ghost Rider" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148668" Issue="974113" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="1" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="974106" />
 </Book>
 <Book Series="Murderworld: Game Over" Number="1" Volume="2023" Year="2023">
@@ -2250,7 +2250,7 @@
 <Book Series="Fantastic Four" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145912" Issue="975703" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="4" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="975702" />
 </Book>
 <Book Series="Scarlet Witch" Number="3" Volume="2023" Year="2023">
@@ -2400,7 +2400,7 @@
 <Book Series="Wasp" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="147504" Issue="978484" />
 </Book>
-<Book Series="Storm &#38; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
+<Book Series="Storm &amp; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="978480" />
 </Book>
 <Book Series="Doctor Strange" Number="1" Volume="2023" Year="2023">
@@ -2538,7 +2538,7 @@
 <Book Series="Cosmic Ghost Rider" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148668" Issue="981476" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="2" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="981478" />
 </Book>
 <Book Series="I Am Iron Man" Number="2" Volume="2023" Year="2023">
@@ -2571,7 +2571,7 @@
 <Book Series="Silver Surfer: Ghost Light" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="147908" Issue="982361" />
 </Book>
-<Book Series="Storm &#38; The Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
+<Book Series="Storm &amp; The Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="982353" />
 </Book>
 <Book Series="X-23: Deadly Regenesis" Number="2" Volume="2023" Year="2023">
@@ -2679,7 +2679,7 @@
 <Book Series="Monica Rambeau: Photon" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="146874" Issue="985707" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat" Number="5" Volume="2023" Year="2023">
+<Book Series="Mary Jane &amp; Black Cat" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="985708" />
 </Book>
 <Book Series="Wasp" Number="4" Volume="2023" Year="2023">
@@ -2844,7 +2844,7 @@
 <Book Series="Cosmic Ghost Rider" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148668" Issue="988119" />
 </Book>
-<Book Series="Rogue &#38; Gambit" Number="3" Volume="2023" Year="2023">
+<Book Series="Rogue &amp; Gambit" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148664" Issue="988125" />
 </Book>
 <Book Series="I Am Iron Man" Number="3" Volume="2023" Year="2023">
@@ -2964,7 +2964,7 @@
 <Book Series="Extreme Venomverse" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="150177" Issue="991065" />
 </Book>
-<Book Series="Daredevil &#38; Echo" Number="1" Volume="2023" Year="2023">
+<Book Series="Daredevil &amp; Echo" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150603" Issue="991064" />
 </Book>
 <Book Series="Fury" Number="1" Volume="2023" Year="2023">

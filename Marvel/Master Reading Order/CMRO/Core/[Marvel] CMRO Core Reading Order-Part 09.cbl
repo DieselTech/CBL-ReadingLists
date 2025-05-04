@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 09</Name>
 <NumIssues>1000</NumIssues>
@@ -456,7 +456,7 @@
 <Book Series="The Uncanny X-Men" Number="315" Volume="1981" Year="1994">
 <Database Name="cv" Series="3092" Issue="39547" />
 </Book>
-<Book Series="Ghost Rider Annual" Number="2" Volume="1990" Year="1994">
+<Book Series="Ghost Rider Annual" Number="2" Volume="1993" Year="1994">
 <Database Name="cv" Series="20061" Issue="142725" />
 </Book>
 <Book Series="Fantastic Four Annual" Number="27" Volume="1963" Year="1994">
@@ -1455,7 +1455,7 @@
 <Book Series="X-Calibre" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5566" Issue="40600" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="1" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="1" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40588" />
 </Book>
 <Book Series="Generation Next" Number="1" Volume="1995" Year="1995">
@@ -1482,7 +1482,7 @@
 <Book Series="Weapon X" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5564" Issue="40733" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="2" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40728" />
 </Book>
 <Book Series="Astonishing X-Men" Number="2" Volume="1995" Year="1995">
@@ -1506,7 +1506,7 @@
 <Book Series="Amazing X-Men" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5535" Issue="40844" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="3" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="3" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40852" />
 </Book>
 <Book Series="Weapon X" Number="3" Volume="1995" Year="1995">
@@ -1536,7 +1536,7 @@
 <Book Series="X-Universe" Number="2" Volume="1995" Year="1995">
 <Database Name="cv" Series="5572" Issue="40988" />
 </Book>
-<Book Series="Gambit &#38; The X-Ternals" Number="4" Volume="1995" Year="1995">
+<Book Series="Gambit &amp; The X-Ternals" Number="4" Volume="1995" Year="1995">
 <Database Name="cv" Series="5546" Issue="40976" />
 </Book>
 <Book Series="Amazing X-Men" Number="4" Volume="1995" Year="1995">

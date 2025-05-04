@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Romance-Teen Reading Order-Part 01</Name>
 <NumIssues>1000</NumIssues>
@@ -339,7 +339,7 @@
 <Book Series="Willie Comics" Number="8" Volume="1946" Year="1947">
 <Database Name="cv" Series="1117" Issue="91016" />
 </Book>
-<Book Series="Oscar Comics" Number="1 [24]" Volume="1947" Year="1947">
+<Book Series="Bessatsu Big Comic" Number="1 [24]" Volume="1971" Year="1947">
 <Database Name="cv" Series="1146" Issue="95461" />
 </Book>
 <Book Series="Jeanie Comics" Number="14" Volume="1947" Year="1947">
@@ -354,7 +354,7 @@
 <Book Series="Joker Comics" Number="28" Volume="1942" Year="1947">
 <Database Name="cv" Series="27160" Issue="165132" />
 </Book>
-<Book Series="Oscar Comics" Number="2 [25]" Volume="1947" Year="1947">
+<Book Series="Bessatsu Big Comic" Number="2 [25]" Volume="1971" Year="1947">
 <Database Name="cv" Series="1146" Issue="95462" />
 </Book>
 <Book Series="Teen Comics" Number="22" Volume="1947" Year="1947">
@@ -402,7 +402,7 @@
 <Book Series="Joker Comics" Number="29" Volume="1942" Year="1947">
 <Database Name="cv" Series="27160" Issue="188421" />
 </Book>
-<Book Series="Oscar Comics" Number="3" Volume="1947" Year="1947">
+<Book Series="Bessatsu Big Comic" Number="3" Volume="1971" Year="1947">
 <Database Name="cv" Series="1146" Issue="187356" />
 </Book>
 <Book Series="Teen Comics" Number="23" Volume="1947" Year="1947">
@@ -474,7 +474,7 @@
 <Book Series="Frankie Comics" Number="8" Volume="1946" Year="1947">
 <Database Name="cv" Series="1111" Issue="90356" />
 </Book>
-<Book Series="Oscar Comics" Number="4" Volume="1947" Year="1947">
+<Book Series="Bessatsu Big Comic" Number="4" Volume="1971" Year="1947">
 <Database Name="cv" Series="1146" Issue="187357" />
 </Book>
 <Book Series="Gay Comics" Number="30" Volume="1944" Year="1947">
@@ -618,7 +618,7 @@
 <Book Series="Nellie the Nurse" Number="13" Volume="1945" Year="1948">
 <Database Name="cv" Series="1061" Issue="90556" />
 </Book>
-<Book Series="Oscar Comics" Number="5" Volume="1947" Year="1948">
+<Book Series="Bessatsu Big Comic" Number="5" Volume="1971" Year="1948">
 <Database Name="cv" Series="1146" Issue="187358" />
 </Book>
 <Book Series="Tessie the Typist" Number="16" Volume="1944" Year="1948">
@@ -693,7 +693,7 @@
 <Book Series="Nellie the Nurse" Number="14" Volume="1945" Year="1948">
 <Database Name="cv" Series="1061" Issue="90557" />
 </Book>
-<Book Series="Oscar Comics" Number="6" Volume="1947" Year="1948">
+<Book Series="Bessatsu Big Comic" Number="6" Volume="1971" Year="1948">
 <Database Name="cv" Series="1146" Issue="187359" />
 </Book>
 <Book Series="Rusty Comics" Number="18" Volume="1947" Year="1948">
@@ -759,7 +759,7 @@
 <Book Series="Nellie the Nurse" Number="15" Volume="1945" Year="1948">
 <Database Name="cv" Series="1061" Issue="188598" />
 </Book>
-<Book Series="Oscar Comics" Number="7" Volume="1947" Year="1948">
+<Book Series="Bessatsu Big Comic" Number="7" Volume="1971" Year="1948">
 <Database Name="cv" Series="1146" Issue="187360" />
 </Book>
 <Book Series="Tessie the Typist" Number="18" Volume="1944" Year="1948">
@@ -807,7 +807,7 @@
 <Book Series="Cindy Comics" Number="32" Volume="1947" Year="1948">
 <Database Name="cv" Series="1141" Issue="90608" />
 </Book>
-<Book Series="Frankie And Lana" Number="12" Volume="1948" Year="1948">
+<Book Series="Frankie and Lana Comics" Number="12" Volume="1948" Year="1948">
 <Database Name="cv" Series="1197" Issue="90360" />
 </Book>
 <Book Series="Gay Comics" Number="35" Volume="1944" Year="1948">
@@ -834,7 +834,7 @@
 <Book Series="Nellie the Nurse" Number="16" Volume="1945" Year="1948">
 <Database Name="cv" Series="1061" Issue="90558" />
 </Book>
-<Book Series="Oscar Comics" Number="8" Volume="1947" Year="1948">
+<Book Series="Bessatsu Big Comic" Number="8" Volume="1971" Year="1948">
 <Database Name="cv" Series="1146" Issue="187361" />
 </Book>
 <Book Series="Tessie the Typist" Number="19" Volume="1944" Year="1948">
@@ -846,7 +846,7 @@
 <Book Series="Comedy Comics" Number="5" Volume="1948" Year="1949">
 <Database Name="cv" Series="27168" Issue="188380" />
 </Book>
-<Book Series="Georgie And Judy Comics" Number="20" Volume="1949" Year="1949">
+<Book Series="Georgie and Judy Comics" Number="20" Volume="1949" Year="1949">
 <Database Name="cv" Series="1266" Issue="90785" />
 </Book>
 <Book Series="Jeanie Comics" Number="23" Volume="1947" Year="1949">
@@ -873,10 +873,10 @@
 <Book Series="Cindy Comics" Number="33" Volume="1947" Year="1949">
 <Database Name="cv" Series="1141" Issue="90609" />
 </Book>
-<Book Series="Georgie And Judy Comics" Number="21" Volume="1949" Year="1949">
+<Book Series="Georgie and Judy Comics" Number="21" Volume="1949" Year="1949">
 <Database Name="cv" Series="1266" Issue="90786" />
 </Book>
-<Book Series="Frankie And Lana" Number="13" Volume="1948" Year="1949">
+<Book Series="Frankie and Lana Comics" Number="13" Volume="1948" Year="1949">
 <Database Name="cv" Series="1197" Issue="90361" />
 </Book>
 <Book Series="Gay Comics" Number="36" Volume="1944" Year="1949">
@@ -903,7 +903,7 @@
 <Book Series="Tessie the Typist" Number="20" Volume="1944" Year="1949">
 <Database Name="cv" Series="1012" Issue="91140" />
 </Book>
-<Book Series="Oscar Comics" Number="9" Volume="1947" Year="1949">
+<Book Series="Bessatsu Big Comic" Number="9" Volume="1971" Year="1949">
 <Database Name="cv" Series="1146" Issue="187362" />
 </Book>
 <Book Series="Willie Comics" Number="18" Volume="1946" Year="1949">
@@ -963,7 +963,7 @@
 <Book Series="Comedy Comics" Number="7" Volume="1948" Year="1949">
 <Database Name="cv" Series="27168" Issue="188382" />
 </Book>
-<Book Series="Georgie And Judy Comics" Number="22" Volume="1949" Year="1949">
+<Book Series="Georgie and Judy Comics" Number="22" Volume="1949" Year="1949">
 <Database Name="cv" Series="1266" Issue="188869" />
 </Book>
 <Book Series="Jeanie Comics" Number="25" Volume="1947" Year="1949">
@@ -1188,7 +1188,7 @@
 <Book Series="Cindy Comics" Number="38" Volume="1947" Year="1950">
 <Database Name="cv" Series="1141" Issue="90614" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="36" Volume="1950" Year="1950">
+<Book Series="Hedy of Hollywood Comics" Number="36" Volume="1950" Year="1950">
 <Database Name="cv" Series="1353" Issue="90824" />
 </Book>
 <Book Series="Miss America Magazine" Number="31" Volume="1944" Year="1947">
@@ -1224,7 +1224,7 @@
 <Book Series="Cindy Smith" Number="39" Volume="1950" Year="1950">
 <Database Name="cv" Series="1346" Issue="91672" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="37" Volume="1950" Year="1950">
+<Book Series="Hedy of Hollywood Comics" Number="37" Volume="1950" Year="1950">
 <Database Name="cv" Series="1353" Issue="90825" />
 </Book>
 <Book Series="Joker Comics" Number="41" Volume="1942" Year="1950">
@@ -1257,7 +1257,7 @@
 <Book Series="Cindy Smith" Number="40" Volume="1950" Year="1950">
 <Database Name="cv" Series="1346" Issue="91673" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="38" Volume="1950" Year="1950">
+<Book Series="Hedy of Hollywood Comics" Number="38" Volume="1950" Year="1950">
 <Database Name="cv" Series="1353" Issue="90826" />
 </Book>
 <Book Series="Miss America Magazine" Number="34" Volume="1944" Year="1947">
@@ -1281,7 +1281,7 @@
 <Book Series="Patsy Walker" Number="30" Volume="1945" Year="1950">
 <Database Name="cv" Series="1062" Issue="73638" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="39" Volume="1950" Year="1950">
+<Book Series="Hedy of Hollywood Comics" Number="39" Volume="1950" Year="1950">
 <Database Name="cv" Series="1353" Issue="90827" />
 </Book>
 <Book Series="Georgie Comics" Number="27" Volume="1949" Year="1950">
@@ -1302,7 +1302,7 @@
 <Book Series="Nellie the Nurse" Number="25" Volume="1945" Year="1950">
 <Database Name="cv" Series="1061" Issue="188602" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="40" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="40" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="90828" />
 </Book>
 <Book Series="Millie the Model" Number="26" Volume="1945" Year="1951">
@@ -1314,7 +1314,7 @@
 <Book Series="Patsy Walker" Number="32" Volume="1945" Year="1951">
 <Database Name="cv" Series="1062" Issue="73640" />
 </Book>
-<Book Series="It's A Duck's Life" Number="5" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="5" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151388" />
 </Book>
 <Book Series="My Friend Irma" Number="7" Volume="1950" Year="1951">
@@ -1326,7 +1326,7 @@
 <Book Series="Georgie Comics" Number="29" Volume="1949" Year="1951">
 <Database Name="cv" Series="1267" Issue="90779" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="41" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="41" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="90829" />
 </Book>
 <Book Series="Millie the Model" Number="27" Volume="1945" Year="1951">
@@ -1347,7 +1347,7 @@
 <Book Series="My Friend Irma" Number="8" Volume="1950" Year="1951">
 <Database Name="cv" Series="1357" Issue="188574" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="42" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="42" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="90830" />
 </Book>
 <Book Series="Millie the Model" Number="28" Volume="1945" Year="1951">
@@ -1368,7 +1368,7 @@
 <Book Series="Nellie the Nurse" Number="28" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="188605" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="43" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="43" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="187967" />
 </Book>
 <Book Series="Millie the Model" Number="29" Volume="1945" Year="1951">
@@ -1386,7 +1386,7 @@
 <Book Series="Nellie the Nurse" Number="29" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="90564" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="44" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="44" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="187968" />
 </Book>
 <Book Series="Millie the Model" Number="30" Volume="1945" Year="1951">
@@ -1404,7 +1404,7 @@
 <Book Series="Nellie the Nurse" Number="30" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="90565" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="45" Volume="1950" Year="1951">
+<Book Series="Hedy of Hollywood Comics" Number="45" Volume="1950" Year="1951">
 <Database Name="cv" Series="1353" Issue="187969" />
 </Book>
 <Book Series="Millie the Model" Number="31" Volume="1945" Year="1951">
@@ -1422,7 +1422,7 @@
 <Book Series="Nellie the Nurse" Number="31" Volume="1945" Year="1951">
 <Database Name="cv" Series="1061" Issue="90566" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="46" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="46" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90831" />
 </Book>
 <Book Series="Millie the Model" Number="32" Volume="1945" Year="1952">
@@ -1434,7 +1434,7 @@
 <Book Series="Patsy Walker" Number="38" Volume="1945" Year="1952">
 <Database Name="cv" Series="1062" Issue="73646" />
 </Book>
-<Book Series="It's A Duck's Life" Number="11" Volume="1950" Year="1952">
+<Book Series="It's a Duck's Life" Number="11" Volume="1950" Year="1952">
 <Database Name="cv" Series="25707" Issue="151394" />
 </Book>
 <Book Series="Georgie Comics" Number="35" Volume="1949" Year="1952">
@@ -1446,7 +1446,7 @@
 <Book Series="Patsy and Hedy" Number="1" Volume="1952" Year="1952">
 <Database Name="cv" Series="8517" Issue="185886" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="47" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="47" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90832" />
 </Book>
 <Book Series="Millie the Model" Number="33" Volume="1945" Year="1952">
@@ -1467,7 +1467,7 @@
 <Book Series="Patsy and Hedy" Number="2" Volume="1952" Year="1952">
 <Database Name="cv" Series="8517" Issue="185887" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="48" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="48" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90833" />
 </Book>
 <Book Series="Millie the Model" Number="34" Volume="1945" Year="1952">
@@ -1491,7 +1491,7 @@
 <Book Series="Patsy and Hedy" Number="4" Volume="1952" Year="1952">
 <Database Name="cv" Series="8517" Issue="185889" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="49" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="49" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90834" />
 </Book>
 <Book Series="Millie the Model" Number="35" Volume="1945" Year="1952">
@@ -1515,7 +1515,7 @@
 <Book Series="Patsy and Hedy" Number="6" Volume="1952" Year="1952">
 <Database Name="cv" Series="8517" Issue="185891" />
 </Book>
-<Book Series="Hedy Of Hollywood Comics" Number="50" Volume="1950" Year="1952">
+<Book Series="Hedy of Hollywood Comics" Number="50" Volume="1950" Year="1952">
 <Database Name="cv" Series="1353" Issue="90835" />
 </Book>
 <Book Series="Millie the Model" Number="36" Volume="1945" Year="1952">
@@ -1602,7 +1602,7 @@
 <Book Series="Patsy and Hedy" Number="15" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185900" />
 </Book>
-<Book Series="Patsy and her Pals" Number="1" Volume="1953" Year="1953">
+<Book Series="Patsy and Her Pals" Number="1" Volume="1953" Year="1953">
 <Database Name="cv" Series="30576" Issue="188607" />
 </Book>
 <Book Series="Patsy Walker" Number="46" Volume="1945" Year="1953">
@@ -1626,7 +1626,7 @@
 <Book Series="Patsy and Hedy" Number="17" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185902" />
 </Book>
-<Book Series="Patsy and her Pals" Number="2" Volume="1953" Year="1953">
+<Book Series="Patsy and Her Pals" Number="2" Volume="1953" Year="1953">
 <Database Name="cv" Series="30576" Issue="188608" />
 </Book>
 <Book Series="Patsy Walker" Number="47" Volume="1945" Year="1953">
@@ -1653,13 +1653,13 @@
 <Book Series="Miss America" Number="56" Volume="1953" Year="1953">
 <Database Name="cv" Series="7071" Issue="94350" />
 </Book>
-<Book Series="The Monkey And The Bear" Number="1" Volume="1953" Year="1953">
+<Book Series="The Monkey and the Bear" Number="1" Volume="1953" Year="1953">
 <Database Name="cv" Series="30601" Issue="188889" />
 </Book>
 <Book Series="Patsy and Hedy" Number="19" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185904" />
 </Book>
-<Book Series="Patsy and her Pals" Number="3" Volume="1953" Year="1953">
+<Book Series="Patsy and Her Pals" Number="3" Volume="1953" Year="1953">
 <Database Name="cv" Series="30576" Issue="188609" />
 </Book>
 <Book Series="Patsy Walker" Number="48" Volume="1945" Year="1953">
@@ -1692,7 +1692,7 @@
 <Book Series="Patsy and Hedy" Number="21" Volume="1952" Year="1953">
 <Database Name="cv" Series="8517" Issue="185906" />
 </Book>
-<Book Series="Patsy and her Pals" Number="4" Volume="1953" Year="1953">
+<Book Series="Patsy and Her Pals" Number="4" Volume="1953" Year="1953">
 <Database Name="cv" Series="30576" Issue="188610" />
 </Book>
 <Book Series="Patsy Walker" Number="49" Volume="1945" Year="1953">
@@ -1716,7 +1716,7 @@
 <Book Series="Patsy and Hedy" Number="23" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185908" />
 </Book>
-<Book Series="Patsy and her Pals" Number="5" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="5" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188611" />
 </Book>
 <Book Series="Patsy Walker" Number="50" Volume="1945" Year="1954">
@@ -1746,7 +1746,7 @@
 <Book Series="Patsy and Hedy" Number="25" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185910" />
 </Book>
-<Book Series="Patsy and her Pals" Number="6" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="6" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188612" />
 </Book>
 <Book Series="Patsy Walker" Number="51" Volume="1945" Year="1954">
@@ -1770,7 +1770,7 @@
 <Book Series="Patsy and Hedy" Number="27" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185912" />
 </Book>
-<Book Series="Patsy and her Pals" Number="7" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="7" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188613" />
 </Book>
 <Book Series="Patsy Walker" Number="52" Volume="1945" Year="1954">
@@ -1794,7 +1794,7 @@
 <Book Series="Patsy and Hedy" Number="29" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185914" />
 </Book>
-<Book Series="Patsy and her Pals" Number="8" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="8" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188614" />
 </Book>
 <Book Series="Patsy Walker" Number="53" Volume="1945" Year="1954">
@@ -1815,7 +1815,7 @@
 <Book Series="Girls' Life" Number="5" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188271" />
 </Book>
-<Book Series="Patsy and her Pals" Number="9" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="9" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188615" />
 </Book>
 <Book Series="Patsy Walker" Number="54" Volume="1945" Year="1954">
@@ -1833,7 +1833,7 @@
 <Book Series="Girls' Life" Number="6" Volume="1954" Year="1954">
 <Database Name="cv" Series="30566" Issue="188272" />
 </Book>
-<Book Series="Patsy and her Pals" Number="10" Volume="1953" Year="1954">
+<Book Series="Patsy and Her Pals" Number="10" Volume="1953" Year="1954">
 <Database Name="cv" Series="30576" Issue="188616" />
 </Book>
 <Book Series="Patsy Walker" Number="55" Volume="1945" Year="1954">
@@ -1848,7 +1848,7 @@
 <Book Series="Patsy and Hedy" Number="32" Volume="1952" Year="1954">
 <Database Name="cv" Series="8517" Issue="185917" />
 </Book>
-<Book Series="Patsy and her Pals" Number="11" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="11" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188617" />
 </Book>
 <Book Series="Patsy Walker" Number="56" Volume="1945" Year="1955">
@@ -1863,7 +1863,7 @@
 <Book Series="Patsy and Hedy" Number="33" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185918" />
 </Book>
-<Book Series="Patsy and her Pals" Number="12" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="12" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188618" />
 </Book>
 <Book Series="Patsy Walker" Number="57" Volume="1945" Year="1955">
@@ -1887,7 +1887,7 @@
 <Book Series="Meet Miss Bliss" Number="1" Volume="1955" Year="1955">
 <Database Name="cv" Series="1708" Issue="94320" />
 </Book>
-<Book Series="Patsy and her Pals" Number="13" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="13" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188619" />
 </Book>
 <Book Series="Patsy Walker" Number="58" Volume="1945" Year="1955">
@@ -1911,7 +1911,7 @@
 <Book Series="Meet Miss Bliss" Number="2" Volume="1955" Year="1955">
 <Database Name="cv" Series="1708" Issue="94321" />
 </Book>
-<Book Series="Patsy and her Pals" Number="14" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="14" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188620" />
 </Book>
 <Book Series="Patsy Walker" Number="59" Volume="1945" Year="1955">
@@ -1932,7 +1932,7 @@
 <Book Series="Patsy and Hedy" Number="36" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185921" />
 </Book>
-<Book Series="Patsy and her Pals" Number="15" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="15" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188621" />
 </Book>
 <Book Series="Meet Miss Bliss" Number="3" Volume="1955" Year="1955">
@@ -1947,7 +1947,7 @@
 <Book Series="Patsy and Hedy" Number="37" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185922" />
 </Book>
-<Book Series="Patsy and her Pals" Number="16" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="16" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188622" />
 </Book>
 <Book Series="Patsy Walker" Number="60" Volume="1945" Year="1955">
@@ -1965,7 +1965,7 @@
 <Book Series="Patsy and Hedy" Number="38" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185923" />
 </Book>
-<Book Series="Patsy and her Pals" Number="17" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="17" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188623" />
 </Book>
 <Book Series="Patty Powers" Number="4" Volume="1955" Year="1955">
@@ -1983,7 +1983,7 @@
 <Book Series="Patsy and Hedy" Number="39" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185924" />
 </Book>
-<Book Series="Patsy and her Pals" Number="18" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="18" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188624" />
 </Book>
 <Book Series="Patsy Walker" Number="61" Volume="1945" Year="1955">
@@ -1998,7 +1998,7 @@
 <Book Series="Patsy and Hedy" Number="40" Volume="1952" Year="1955">
 <Database Name="cv" Series="8517" Issue="185925" />
 </Book>
-<Book Series="Patsy and her Pals" Number="19" Volume="1953" Year="1955">
+<Book Series="Patsy and Her Pals" Number="19" Volume="1953" Year="1955">
 <Database Name="cv" Series="30576" Issue="188625" />
 </Book>
 <Book Series="Millie the Model" Number="66" Volume="1945" Year="1956">
@@ -2010,7 +2010,7 @@
 <Book Series="Patsy and Hedy" Number="41" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185927" />
 </Book>
-<Book Series="Patsy and her Pals" Number="20" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="20" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188626" />
 </Book>
 <Book Series="Patsy Walker" Number="62" Volume="1945" Year="1956">
@@ -2025,7 +2025,7 @@
 <Book Series="Patsy and Hedy" Number="42" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185928" />
 </Book>
-<Book Series="Patsy and her Pals" Number="21" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="21" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188627" />
 </Book>
 <Book Series="Patsy Walker" Number="63" Volume="1945" Year="1956">
@@ -2043,7 +2043,7 @@
 <Book Series="Patsy and Hedy" Number="43" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185929" />
 </Book>
-<Book Series="Patsy and her Pals" Number="22" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="22" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188628" />
 </Book>
 <Book Series="Patsy Walker" Number="64" Volume="1945" Year="1956">
@@ -2061,7 +2061,7 @@
 <Book Series="Patsy and Hedy" Number="44" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185930" />
 </Book>
-<Book Series="Patsy and her Pals" Number="23" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="23" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188629" />
 </Book>
 <Book Series="Patsy Walker" Number="65" Volume="1945" Year="1956">
@@ -2079,7 +2079,7 @@
 <Book Series="Patsy and Hedy" Number="45" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185931" />
 </Book>
-<Book Series="Patsy and her Pals" Number="24" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="24" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188630" />
 </Book>
 <Book Series="Patsy Walker" Number="66" Volume="1945" Year="1956">
@@ -2121,7 +2121,7 @@
 <Book Series="Patsy and Hedy" Number="48" Volume="1952" Year="1956">
 <Database Name="cv" Series="8517" Issue="185934" />
 </Book>
-<Book Series="Patsy and her Pals" Number="25" Volume="1953" Year="1956">
+<Book Series="Patsy and Her Pals" Number="25" Volume="1953" Year="1956">
 <Database Name="cv" Series="30576" Issue="188631" />
 </Book>
 <Book Series="Sherry the Showgirl" Number="3" Volume="1956" Year="1956">
@@ -2148,7 +2148,7 @@
 <Book Series="Patsy and Hedy" Number="50" Volume="1952" Year="1957">
 <Database Name="cv" Series="8517" Issue="185936" />
 </Book>
-<Book Series="Patsy and her Pals" Number="26" Volume="1953" Year="1957">
+<Book Series="Patsy and Her Pals" Number="26" Volume="1953" Year="1957">
 <Database Name="cv" Series="30576" Issue="188632" />
 </Book>
 <Book Series="Showgirls" Number="4" Volume="1957" Year="1957">
@@ -2175,7 +2175,7 @@
 <Book Series="Patsy and Hedy" Number="52" Volume="1952" Year="1957">
 <Database Name="cv" Series="8517" Issue="185938" />
 </Book>
-<Book Series="Patsy and her Pals" Number="27" Volume="1953" Year="1957">
+<Book Series="Patsy and Her Pals" Number="27" Volume="1953" Year="1957">
 <Database Name="cv" Series="30576" Issue="188633" />
 </Book>
 <Book Series="Sherry the Showgirl" Number="5" Volume="1957" Year="1957">
@@ -2202,7 +2202,7 @@
 <Book Series="Millie the Model" Number="79" Volume="1945" Year="1957">
 <Database Name="cv" Series="19441" Issue="185810" />
 </Book>
-<Book Series="Patsy and her Pals" Number="28" Volume="1953" Year="1957">
+<Book Series="Patsy and Her Pals" Number="28" Volume="1953" Year="1957">
 <Database Name="cv" Series="30576" Issue="188634" />
 </Book>
 <Book Series="Sherry the Showgirl" Number="6" Volume="1957" Year="1957">
@@ -2223,7 +2223,7 @@
 <Book Series="Patsy Walker" Number="71" Volume="1945" Year="1957">
 <Database Name="cv" Series="1062" Issue="73679" />
 </Book>
-<Book Series="Nellie The Nurse" Number="1" Volume="1957" Year="1957">
+<Book Series="Nellie the Nurse" Number="1" Volume="1957" Year="1957">
 <Database Name="cv" Series="30472" Issue="187579" />
 </Book>
 <Book Series="A Date with Millie" Number="7" Volume="1956" Year="1957">
@@ -2235,7 +2235,7 @@
 <Book Series="Millie the Model" Number="80" Volume="1945" Year="1957">
 <Database Name="cv" Series="19441" Issue="165664" />
 </Book>
-<Book Series="Patsy and her Pals" Number="29" Volume="1953" Year="1957">
+<Book Series="Patsy and Her Pals" Number="29" Volume="1953" Year="1957">
 <Database Name="cv" Series="30576" Issue="188635" />
 </Book>
 <Book Series="Sherry the Showgirl" Number="7" Volume="1957" Year="1957">

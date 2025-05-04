@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order- A Fresh Start (WEB-CBRO)</Name>
 <NumIssues>1133</NumIssues>
@@ -231,10 +231,10 @@
 <Book Series="Marvel Rising: Alpha" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="111583" Issue="673022" />
 </Book>
-<Book Series="Marvel Rising: Squirrel Girl &#38; Ms. Marvel" Number="1" Volume="2018" Year="2018">
+<Book Series="Marvel Rising: Squirrel Girl &amp; Ms. Marvel" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112045" Issue="675983" />
 </Book>
-<Book Series="Marvel Rising: Ms. Marvel &#38; Squirrel Girl" Number="1" Volume="2018" Year="2018">
+<Book Series="Marvel Rising: Ms. Marvel &amp; Squirrel Girl" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112590" Issue="678537" />
 </Book>
 <Book Series="Marvel Rising: Omega" Number="1" Volume="2018" Year="2018">
@@ -522,19 +522,19 @@
 <Book Series="X-Men: Gold" Number="36" Volume="2017" Year="2018">
 <Database Name="cv" Series="100603" Issue="685869" />
 </Book>
-<Book Series="Ant-Man &#38; the Wasp" Number="1" Volume="2018" Year="2018">
+<Book Series="Ant-Man &amp; the Wasp" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="111397" Issue="672271" />
 </Book>
-<Book Series="Ant-Man &#38; the Wasp" Number="2" Volume="2018" Year="2018">
+<Book Series="Ant-Man &amp; the Wasp" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="111397" Issue="674122" />
 </Book>
-<Book Series="Ant-Man &#38; the Wasp" Number="3" Volume="2018" Year="2018">
+<Book Series="Ant-Man &amp; the Wasp" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="111397" Issue="675967" />
 </Book>
-<Book Series="Ant-Man &#38; the Wasp" Number="4" Volume="2018" Year="2018">
+<Book Series="Ant-Man &amp; the Wasp" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="111397" Issue="678523" />
 </Book>
-<Book Series="Ant-Man &#38; the Wasp" Number="5" Volume="2018" Year="2018">
+<Book Series="Ant-Man &amp; the Wasp" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="111397" Issue="683817" />
 </Book>
 <Book Series="Old Man Logan" Number="39" Volume="2016" Year="2018">
@@ -1542,7 +1542,7 @@
 <Book Series="Cosmic Ghost Rider Destroys Marvel History" Number="6" Volume="2019" Year="2019">
 <Database Name="cv" Series="117439" Issue="715302" />
 </Book>
-<Book Series="Captain Marvel: Braver &#38; Mightier" Number="1" Volume="2019" Year="2019">
+<Book Series="Captain Marvel: Braver &amp; Mightier" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="117340" Issue="701932" />
 </Book>
 <Book Series="Wolverine: The Long Night Adaptation" Number="1" Volume="2019" Year="2019">
@@ -1875,19 +1875,19 @@
 <Book Series="Black Panther" Number="12" Volume="2018" Year="2019">
 <Database Name="cv" Series="111034" Issue="710101" />
 </Book>
-<Book Series="Meet The Skrulls" Number="1" Volume="2019" Year="2019">
+<Book Series="Meet the Skrulls" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="117457" Issue="702471" />
 </Book>
-<Book Series="Meet The Skrulls" Number="2" Volume="2019" Year="2019">
+<Book Series="Meet the Skrulls" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="117457" Issue="703946" />
 </Book>
-<Book Series="Meet The Skrulls" Number="3" Volume="2019" Year="2019">
+<Book Series="Meet the Skrulls" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="117457" Issue="706412" />
 </Book>
-<Book Series="Meet The Skrulls" Number="4" Volume="2019" Year="2019">
+<Book Series="Meet the Skrulls" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="117457" Issue="707518" />
 </Book>
-<Book Series="Meet The Skrulls" Number="5" Volume="2019" Year="2019">
+<Book Series="Meet the Skrulls" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="117457" Issue="710687" />
 </Book>
 <Book Series="Friendly Neighborhood Spider-Man" Number="1" Volume="2019" Year="2019">
@@ -2322,7 +2322,7 @@
 <Book Series="Symbiote Spider-Man" Number="5" Volume="2019" Year="2019">
 <Database Name="cv" Series="118275" Issue="716377" />
 </Book>
-<Book Series="Wolverine &#38; Captain America: Weapon Plus" Number="1" Volume="2019" Year="2019">
+<Book Series="Wolverine &amp; Captain America: Weapon Plus" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120143" Issue="713526" />
 </Book>
 <Book Series="Shuri" Number="6" Volume="2018" Year="2019">
@@ -2349,7 +2349,7 @@
 <Book Series="X-Force" Number="6" Volume="2020" Year="2020">
 <Database Name="cv" Series="122668" Issue="735534" />
 </Book>
-<Book Series="Captain America &#38; the Invaders: Bahamas Triangle" Number="1" Volume="2019" Year="2019">
+<Book Series="Captain America &amp; the Invaders: Bahamas Triangle" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119999" Issue="713065" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="16" Volume="2018" Year="2019">
@@ -2691,13 +2691,13 @@
 <Book Series="War of the Realms: New Agents of Atlas" Number="4" Volume="2019" Year="2019">
 <Database Name="cv" Series="118877" Issue="712558" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="1" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="709219" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="2" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="710123" />
 </Book>
-<Book Series="War of the Realms: Spider-Man &#38; the League of Realms" Number="3" Volume="2019" Year="2019">
+<Book Series="War of the Realms: Spider-Man &amp; the League of Realms" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="119169" Issue="711967" />
 </Book>
 <Book Series="Captain Marvel" Number="6" Volume="2019" Year="2019">

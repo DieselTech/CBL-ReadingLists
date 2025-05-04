@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #11 (WEB-CBRO)</Name>
 <NumIssues>820</NumIssues>
@@ -489,16 +489,16 @@
 <Book Series="Spider-Man" Number="5" Volume="2019" Year="2021">
 <Database Name="cv" Series="121420" Issue="820749" />
 </Book>
-<Book Series="Spider-Man &#38; Venom: Double Trouble" Number="1" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="1" Volume="2019" Year="2020">
 <Database Name="cv" Series="122667" Issue="726213" />
 </Book>
-<Book Series="Spider-Man &#38; Venom: Double Trouble" Number="2" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="2" Volume="2019" Year="2020">
 <Database Name="cv" Series="122667" Issue="729685" />
 </Book>
-<Book Series="Spider-Man &#38; Venom: Double Trouble" Number="3" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="3" Volume="2019" Year="2020">
 <Database Name="cv" Series="122667" Issue="731977" />
 </Book>
-<Book Series="Spider-Man &#38; Venom: Double Trouble" Number="4" Volume="2019" Year="2020">
+<Book Series="Spider-Man &amp; Venom: Double Trouble" Number="4" Volume="2019" Year="2020">
 <Database Name="cv" Series="122667" Issue="736496" />
 </Book>
 <Book Series="The Immortal Hulk" Number="24" Volume="2018" Year="2019">
@@ -1329,19 +1329,19 @@
 <Book Series="Deadpool" Number="6" Volume="2019" Year="2020">
 <Database Name="cv" Series="122987" Issue="787346" />
 </Book>
-<Book Series="Falcon &#38; Winter Soldier" Number="1" Volume="2020" Year="2020">
+<Book Series="Falcon &amp; Winter Soldier" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="125300" Issue="738609" />
 </Book>
-<Book Series="Falcon &#38; Winter Soldier" Number="2" Volume="2020" Year="2020">
+<Book Series="Falcon &amp; Winter Soldier" Number="2" Volume="2020" Year="2020">
 <Database Name="cv" Series="125300" Issue="743437" />
 </Book>
-<Book Series="Falcon &#38; Winter Soldier" Number="3" Volume="2020" Year="2020">
+<Book Series="Falcon &amp; Winter Soldier" Number="3" Volume="2020" Year="2020">
 <Database Name="cv" Series="125300" Issue="805090" />
 </Book>
-<Book Series="Falcon &#38; Winter Soldier" Number="4" Volume="2020" Year="2020">
+<Book Series="Falcon &amp; Winter Soldier" Number="4" Volume="2020" Year="2020">
 <Database Name="cv" Series="125300" Issue="813280" />
 </Book>
-<Book Series="Falcon &#38; Winter Soldier" Number="5" Volume="2020" Year="2021">
+<Book Series="Falcon &amp; Winter Soldier" Number="5" Volume="2020" Year="2021">
 <Database Name="cv" Series="125300" Issue="819484" />
 </Book>
 <Book Series="Savage Avengers" Number="7" Volume="2019" Year="2020">
@@ -2358,13 +2358,13 @@
 <Book Series="King In Black: Thunderbolts" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133197" Issue="832866" />
 </Book>
-<Book Series="King In Black: Gwenom vs. Carnage" Number="1" Volume="2021" Year="2021">
+<Book Series="King in Black: Gwenom vs. Carnage" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133195" Issue="824449" />
 </Book>
-<Book Series="King In Black: Gwenom vs. Carnage" Number="2" Volume="2021" Year="2021">
+<Book Series="King in Black: Gwenom vs. Carnage" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="133195" Issue="827525" />
 </Book>
-<Book Series="King In Black: Gwenom vs. Carnage" Number="3" Volume="2021" Year="2021">
+<Book Series="King in Black: Gwenom vs. Carnage" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133195" Issue="832864" />
 </Book>
 <Book Series="King In Black: Immortal Hulk" Number="1" Volume="2020" Year="2021">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Avengers vs. X-Men (WEB-CBRO)</Name>
 <NumIssues>71</NumIssues>
@@ -27,7 +27,7 @@
 <Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="326860" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="9" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="332029" />
 </Book>
 <Book Series="New Avengers" Number="24" Volume="2010" Year="2012">
@@ -57,7 +57,7 @@
 <Book Series="Avengers Academy" Number="31" Volume="2010" Year="2012">
 <Database Name="cv" Series="33633" Issue="338524" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="10" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="10" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="335236" />
 </Book>
 <Book Series="X-Men: Legacy" Number="266" Volume="2008" Year="2012">
@@ -93,7 +93,7 @@
 <Book Series="Uncanny X-Men" Number="12" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="425944" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="11" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="337499" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="5" Volume="2012" Year="2012">
@@ -141,10 +141,10 @@
 <Book Series="Avengers" Number="29" Volume="2010" Year="2012">
 <Database Name="cv" Series="33227" Issue="351071" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="12" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="342841" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="13" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="345398" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="7" Volume="2012" Year="2012">
@@ -171,28 +171,28 @@
 <Book Series="X-Men: Legacy" Number="270" Volume="2008" Year="2012">
 <Database Name="cv" Series="20691" Issue="347229" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="14" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="14" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="347208" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="9" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="9" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="348054" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="10" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="10" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="351068" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="15" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="15" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="354103" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="16" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="16" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="356779" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="11" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="11" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="356764" />
 </Book>
 <Book Series="Uncanny X-Men" Number="18" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="446998" />
 </Book>
-<Book Series="Avengers Vs X-Men" Number="12" Volume="2012" Year="2012">
+<Book Series="Avengers Vs. X-Men" Number="12" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="359916" />
 </Book>
 <Book Series="Uncanny X-Men" Number="19" Volume="2013" Year="2014">
@@ -207,7 +207,7 @@
 <Book Series="Avengers" Number="30" Volume="2010" Year="2012">
 <Database Name="cv" Series="33227" Issue="357707" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="18" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="18" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="360916" />
 </Book>
 <Book Series="Uncanny X-Men" Number="20" Volume="2013" Year="2014">

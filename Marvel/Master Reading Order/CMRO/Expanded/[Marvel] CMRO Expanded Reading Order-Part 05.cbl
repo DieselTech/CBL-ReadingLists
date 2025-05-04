@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 05</Name>
 <NumIssues>902</NumIssues>
@@ -1341,7 +1341,7 @@
 <Book Series="The Amazing Spider-Man" Number="98" Volume="1963" Year="1971">
 <Database Name="cv" Series="2127" Issue="11538" />
 </Book>
-<Book Series="O Judoka" Number="27" Volume="0" Year="0">
+<Book Series="O Judoka" Number="27" Volume="None" Year="0">
 <Database Name="cv" Series="154917" Issue="1032915" />
 </Book>
 <Book Series="The Rawhide Kid" Number="88" Volume="1960" Year="1971">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Funny Animals Reading Order</Name>
 <NumIssues>232</NumIssues>
@@ -303,7 +303,7 @@
 <Book Series="Comic Capers" Number="3" Volume="1944" Year="1945">
 <Database Name="cv" Series="1003" Issue="188263" />
 </Book>
-<Book Series="Comics For Kids" Number="1" Volume="1945" Year="1945">
+<Book Series="Comics for Kids" Number="1" Volume="1945" Year="1945">
 <Database Name="cv" Series="30503" Issue="187671" />
 </Book>
 <Book Series="Krazy Komics" Number="17" Volume="1942" Year="1945">
@@ -330,7 +330,7 @@
 <Book Series="Comic Capers" Number="4" Volume="1944" Year="1945">
 <Database Name="cv" Series="1003" Issue="188264" />
 </Book>
-<Book Series="Comics For Kids" Number="2" Volume="1945" Year="1945">
+<Book Series="Comics for Kids" Number="2" Volume="1945" Year="1945">
 <Database Name="cv" Series="30503" Issue="187672" />
 </Book>
 <Book Series="Funny Frolics" Number="1" Volume="1945" Year="1945">
@@ -684,19 +684,19 @@
 <Book Series="Wonder Duck" Number="3" Volume="1949" Year="1950">
 <Database Name="cv" Series="30599" Issue="188884" />
 </Book>
-<Book Series="It's A Duck's Life" Number="4" Volume="1950" Year="1950">
+<Book Series="It's a Duck's Life" Number="4" Volume="1950" Year="1950">
 <Database Name="cv" Series="25707" Issue="151387" />
 </Book>
-<Book Series="It's A Duck's Life" Number="5" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="5" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151388" />
 </Book>
-<Book Series="It's A Duck's Life" Number="6" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="6" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151389" />
 </Book>
-<Book Series="It's A Duck's Life" Number="9" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="9" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151392" />
 </Book>
-<Book Series="It's A Duck's Life" Number="10" Volume="1950" Year="1951">
+<Book Series="It's a Duck's Life" Number="10" Volume="1950" Year="1951">
 <Database Name="cv" Series="25707" Issue="151393" />
 </Book>
 </Books>

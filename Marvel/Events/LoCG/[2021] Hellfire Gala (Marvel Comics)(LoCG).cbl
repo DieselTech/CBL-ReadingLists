@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2021] Hellfire Gala (Marvel Comics)(LoCG)</Name>
 <NumIssues>12</NumIssues>
@@ -21,7 +21,7 @@
 <Book Series="Planet-Size X-Men" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="136937" Issue="861642" />
 </Book>
-<Book Series="New Mutants" Number="19" Volume="2019" Year="2021">
+<Book Series="New Mutants" Number="19" Volume="2020" Year="2021">
 <Database Name="cv" Series="122666" Issue="861639" />
 </Book>
 <Book Series="X-Corp" Number="2" Volume="2021" Year="2021">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Hellfire Gala (WEB-CBRO)</Name>
 <NumIssues>13</NumIssues>
@@ -6,7 +6,7 @@
 <Book Series="Marauders" Number="21" Volume="2019" Year="2021">
 <Database Name="cv" Series="122218" Issue="857597" />
 </Book>
-<Book Series="X-Force" Number="20" Volume="2019" Year="2021">
+<Book Series="X-Force" Number="20" Volume="2020" Year="2021">
 <Database Name="cv" Series="122668" Issue="857598" />
 </Book>
 <Book Series="Hellions" Number="12" Volume="2020" Year="2021">
@@ -21,7 +21,7 @@
 <Book Series="Planet-Size X-Men" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="136937" Issue="861642" />
 </Book>
-<Book Series="New Mutants" Number="19" Volume="2019" Year="2021">
+<Book Series="New Mutants" Number="19" Volume="2020" Year="2021">
 <Database Name="cv" Series="122666" Issue="861639" />
 </Book>
 <Book Series="Children of the Atom" Number="6" Volume="2021" Year="2021">

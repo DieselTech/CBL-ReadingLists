@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Western Reading Order</Name>
 <NumIssues>820</NumIssues>
@@ -1371,7 +1371,7 @@
 <Book Series="Kid Colt Outlaw" Number="73" Volume="1949" Year="1957">
 <Database Name="cv" Series="1199" Issue="3119" />
 </Book>
-<Book Series="The Kid From Texas" Number="1" Volume="1957" Year="1957">
+<Book Series="The Kid from Texas" Number="1" Volume="1957" Year="1957">
 <Database Name="cv" Series="1847" Issue="46447" />
 </Book>
 <Book Series="Ringo Kid" Number="18" Volume="1954" Year="1957">
@@ -1410,7 +1410,7 @@
 <Book Series="Gunsmoke Western" Number="42" Volume="1955" Year="1957">
 <Database Name="cv" Series="1704" Issue="3229" />
 </Book>
-<Book Series="The Kid From Texas" Number="2" Volume="1957" Year="1957">
+<Book Series="The Kid from Texas" Number="2" Volume="1957" Year="1957">
 <Database Name="cv" Series="1847" Issue="3231" />
 </Book>
 <Book Series="Ringo Kid" Number="20" Volume="1954" Year="1957">

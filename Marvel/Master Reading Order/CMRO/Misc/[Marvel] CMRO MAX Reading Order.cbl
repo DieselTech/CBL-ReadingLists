@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO MAX Reading Order</Name>
 <NumIssues>112</NumIssues>
@@ -252,22 +252,22 @@
 <Book Series="Foolkiller" Number="5" Volume="2007" Year="2008">
 <Database Name="cv" Series="20164" Issue="129836" />
 </Book>
-<Book Series="The Punisher: Force Of Nature" Number="1" Volume="2008" Year="2008">
+<Book Series="The Punisher: Force of Nature" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20535" Issue="123006" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="1" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="127746" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="2" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="127862" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="3" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="130635" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="4" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="4" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="133756" />
 </Book>
-<Book Series="War Is Hell: The First Flight of the Phantom Eagle" Number="5" Volume="2008" Year="2008">
+<Book Series="War is Hell: The First Flight of the Phantom Eagle" Number="5" Volume="2008" Year="2008">
 <Database Name="cv" Series="21244" Issue="133774" />
 </Book>
 <Book Series="The Punisher" Number="55" Volume="2004" Year="2008">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Fear Itself (WEB-CBRO)</Name>
 <NumIssues>125</NumIssues>
@@ -321,7 +321,7 @@
 <Book Series="Herc" Number="6" Volume="2011" Year="2011">
 <Database Name="cv" Series="39639" Issue="283859" />
 </Book>
-<Book Series="Tomb of Dracula Presents Throne of Blood" Number="1" Volume="2011" Year="2011">
+<Book Series="Tomb of Dracula Presents: Throne of Blood" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39883" Issue="269009" />
 </Book>
 <Book Series="Fear Itself: Hulk vs. Dracula" Number="1" Volume="2011" Year="2011">

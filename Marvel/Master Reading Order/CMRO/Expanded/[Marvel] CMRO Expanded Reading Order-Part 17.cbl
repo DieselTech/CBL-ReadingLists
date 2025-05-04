@@ -1791,7 +1791,7 @@
 <Book Series="The Uncanny X-Men" Number="315" Volume="1981" Year="1994">
 <Database Name="cv" Series="3092" Issue="39547" />
 </Book>
-<Book Series="Ghost Rider Annual" Number="2" Volume="1990" Year="1994">
+<Book Series="Ghost Rider Annual" Number="2" Volume="1993" Year="1994">
 <Database Name="cv" Series="20061" Issue="142725" />
 </Book>
 <Book Series="Nightwatch" Number="5" Volume="1994" Year="1994">
