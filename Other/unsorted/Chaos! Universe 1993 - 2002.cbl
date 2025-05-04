@@ -129,10 +129,10 @@
 <Book Series="Vampirella: Death &amp; Destruction" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="19796" Issue="123633" />
 </Book>
-<Book Series="Vampirella: Blood Lust" Number="1" Volume="1998" Year="1997">
+<Book Series="Vampirella: Blood Lust" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="6084" Issue="43924" />
 </Book>
-<Book Series="Vampirella: Blood Lust" Number="2" Volume="1998" Year="1998">
+<Book Series="Vampirella: Blood Lust" Number="2" Volume="1997" Year="1998">
 <Database Name="cv" Series="6084" Issue="44022" />
 </Book>
 <Book Series="Lady Death v. Vampirella II" Number="1" Volume="2000" Year="2000">
@@ -189,13 +189,13 @@
 <Book Series="Evil Ernie: Destroyer" Number="4" Volume="1997" Year="1998">
 <Database Name="cv" Series="20909" Issue="125293" />
 </Book>
-<Book Series="Vampirella" Number="1" Volume="1998" Year="1997">
+<Book Series="Vampirella" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="20415" Issue="122178" />
 </Book>
-<Book Series="Vampirella" Number="2" Volume="1998" Year="1997">
+<Book Series="Vampirella" Number="2" Volume="1997" Year="1997">
 <Database Name="cv" Series="20415" Issue="122171" />
 </Book>
-<Book Series="Vampirella" Number="3" Volume="1998" Year="1998">
+<Book Series="Vampirella" Number="3" Volume="1997" Year="1998">
 <Database Name="cv" Series="20415" Issue="122172" />
 </Book>
 <Book Series="Lady Death" Number="0" Volume="1997" Year="1997">
@@ -246,16 +246,16 @@
 <Book Series="Lady Death" Number="8" Volume="1997" Year="1998">
 <Database Name="cv" Series="20760" Issue="124519" />
 </Book>
-<Book Series="Vampirella" Number="10" Volume="1998" Year="1998">
+<Book Series="Vampirella" Number="10" Volume="1997" Year="1998">
 <Database Name="cv" Series="20415" Issue="122182" />
 </Book>
-<Book Series="Vampirella" Number="11" Volume="1998" Year="1998">
+<Book Series="Vampirella" Number="11" Volume="1997" Year="1998">
 <Database Name="cv" Series="20415" Issue="122181" />
 </Book>
-<Book Series="Vampirella" Number="12" Volume="1998" Year="1998">
+<Book Series="Vampirella" Number="12" Volume="1997" Year="1998">
 <Database Name="cv" Series="20415" Issue="122180" />
 </Book>
-<Book Series="Vampirella" Number="0" Volume="1998" Year="1999">
+<Book Series="Vampirella" Number="0" Volume="1997" Year="1999">
 <Database Name="cv" Series="20415" Issue="123634" />
 </Book>
 <Book Series="Vampirella / Lady Death" Number="1" Volume="1999" Year="1999">
@@ -465,7 +465,7 @@
 <Book Series="Armageddon" Number="4" Volume="1999" Year="2000">
 <Database Name="cv" Series="20574" Issue="123354" />
 </Book>
-<Book Series="Aftermath" Number="1" Volume="1999" Year="2000">
+<Book Series="Aftermath" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="20573" Issue="123318" />
 </Book>
 <Book Series="Vampirella" Number="21" Volume="1997" Year="1999">
