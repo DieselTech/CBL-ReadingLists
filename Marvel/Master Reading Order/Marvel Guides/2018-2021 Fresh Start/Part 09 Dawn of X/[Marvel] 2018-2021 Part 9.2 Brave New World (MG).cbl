@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 9.2 Brave New World (MG)</Name>
     <NumIssues>49</NumIssues>
     <Books>
@@ -28,7 +27,7 @@
         <Book Series="Excalibur" Number="6" Volume="2019" Year="2020">
             <Database Name="cv" Series="122488" Issue="734640" />
         </Book>
-        <Book Series="New Mutants" Number="1" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="1" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="726210" />
         </Book>
         <Book Series="X-Force" Number="1" Volume="2020" Year="2020">
@@ -61,16 +60,16 @@
         <Book Series="X-Force" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="122668" Issue="730351" />
         </Book>
-        <Book Series="New Mutants" Number="2" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="2" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="728977" />
         </Book>
-        <Book Series="New Mutants" Number="3" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="3" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="730341" />
         </Book>
-        <Book Series="New Mutants" Number="4" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="4" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="731522" />
         </Book>
-        <Book Series="New Mutants" Number="6" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="6" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="735526" />
         </Book>
         <Book Series="Fallen Angels" Number="5" Volume="2019" Year="2020">
@@ -106,22 +105,22 @@
         <Book Series="Excalibur" Number="8" Volume="2019" Year="2020">
             <Database Name="cv" Series="122488" Issue="739558" />
         </Book>
-        <Book Series="New Mutants" Number="5" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="732887" />
         </Book>
-        <Book Series="New Mutants" Number="7" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="7" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="737761" />
         </Book>
-        <Book Series="New Mutants" Number="8" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="8" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="738614" />
         </Book>
-        <Book Series="New Mutants" Number="9" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="9" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="740822" />
         </Book>
-        <Book Series="New Mutants" Number="10" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="10" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="767932" />
         </Book>
-        <Book Series="New Mutants" Number="11" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="11" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="781436" />
         </Book>
         <Book Series="X-Force" Number="4" Volume="2020" Year="2020">

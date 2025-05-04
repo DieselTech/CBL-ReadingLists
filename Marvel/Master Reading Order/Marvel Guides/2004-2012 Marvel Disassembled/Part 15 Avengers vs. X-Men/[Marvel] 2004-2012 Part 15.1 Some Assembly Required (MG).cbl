@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 2004-2012 Part 15.1 Some Assembly Required (MG)</Name>
 <NumIssues>103</NumIssues>
@@ -6,34 +6,34 @@
 <Book Series="X-Factor" Number="224.1" Volume="2006" Year="2011">
 <Database Name="cv" Series="18109" Issue="292537" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="1" Volume="2010" Year="2010">
+<Book Series="Avengers: The Children's Crusade" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34241" Issue="223380" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="2" Volume="2010" Year="2010">
+<Book Series="Avengers: The Children's Crusade" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="34241" Issue="232535" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="3" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children's Crusade" Number="3" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="242038" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="4" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children's Crusade" Number="4" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="254667" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
+<Book Series="Avengers: The Children's Crusade - Young Avengers" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39371" Issue="266008" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="5" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children's Crusade" Number="5" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="267533" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="6" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children's Crusade" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="276706" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="7" Volume="2010" Year="2011">
+<Book Series="Avengers: The Children's Crusade" Number="7" Volume="2010" Year="2011">
 <Database Name="cv" Series="34241" Issue="293355" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="8" Volume="2010" Year="2012">
+<Book Series="Avengers: The Children's Crusade" Number="8" Volume="2010" Year="2012">
 <Database Name="cv" Series="34241" Issue="308624" />
 </Book>
-<Book Series="Avengers: The Children&apos;s Crusade" Number="9" Volume="2010" Year="2012">
+<Book Series="Avengers: The Children's Crusade" Number="9" Volume="2010" Year="2012">
 <Database Name="cv" Series="34241" Issue="319366" />
 </Book>
 <Book Series="Invincible Iron Man" Number="514" Volume="2008" Year="2012">
@@ -273,43 +273,43 @@
 <Book Series="Avengers Assemble" Number="8" Volume="2012" Year="2012">
 <Database Name="cv" Series="46569" Issue="362182" />
 </Book>
-<Book Series="Captain America and Bucky" Number="629" Volume="2011" Year="2012">
+<Book Series="Captain America and Hawkeye" Number="629" Volume="2012" Year="2012">
 <Database Name="cv" Series="50803" Issue="347462" />
 </Book>
-<Book Series="Captain America and Bucky" Number="630" Volume="2011" Year="2012">
+<Book Series="Captain America and Hawkeye" Number="630" Volume="2012" Year="2012">
 <Database Name="cv" Series="50803" Issue="347463" />
 </Book>
-<Book Series="Captain America and Bucky" Number="631" Volume="2011" Year="2012">
+<Book Series="Captain America and Hawkeye" Number="631" Volume="2012" Year="2012">
 <Database Name="cv" Series="50803" Issue="347464" />
 </Book>
-<Book Series="Captain America and Bucky" Number="632" Volume="2011" Year="2012">
+<Book Series="Captain America and Hawkeye" Number="632" Volume="2012" Year="2012">
 <Database Name="cv" Series="50803" Issue="347465" />
 </Book>
-<Book Series="Captain America and Bucky" Number="633" Volume="2011" Year="2012">
+<Book Series="Captain America and Iron Man" Number="633" Volume="2012" Year="2012">
 <Database Name="cv" Series="48362" Issue="342872" />
 </Book>
-<Book Series="Captain America and Bucky" Number="634" Volume="2011" Year="2012">
+<Book Series="Captain America and Iron Man" Number="634" Volume="2012" Year="2012">
 <Database Name="cv" Series="48362" Issue="347225" />
 </Book>
-<Book Series="Captain America and Bucky" Number="635" Volume="2011" Year="2012">
+<Book Series="Captain America and Iron Man" Number="635" Volume="2012" Year="2012">
 <Database Name="cv" Series="48362" Issue="349644" />
 </Book>
-<Book Series="Captain America and Bucky" Number="635.1" Volume="2011" Year="2012">
+<Book Series="Captain America and Namor" Number="635.1" Volume="2012" Year="2012">
 <Database Name="cv" Series="51436" Issue="352719" />
 </Book>
-<Book Series="Captain America and Bucky" Number="636" Volume="2011" Year="2012">
+<Book Series="Captain America and Black Widow" Number="636" Volume="2012" Year="2012">
 <Database Name="cv" Series="52058" Issue="356767" />
 </Book>
-<Book Series="Captain America and Bucky" Number="637" Volume="2011" Year="2012">
+<Book Series="Captain America and Black Widow" Number="637" Volume="2012" Year="2012">
 <Database Name="cv" Series="52058" Issue="358976" />
 </Book>
-<Book Series="Captain America and Bucky" Number="638" Volume="2011" Year="2012">
+<Book Series="Captain America and Black Widow" Number="638" Volume="2012" Year="2012">
 <Database Name="cv" Series="52058" Issue="363154" />
 </Book>
-<Book Series="Captain America and Bucky" Number="639" Volume="2011" Year="2013">
+<Book Series="Captain America and Black Widow" Number="639" Volume="2012" Year="2013">
 <Database Name="cv" Series="52058" Issue="370562" />
 </Book>
-<Book Series="Captain America and Bucky" Number="640" Volume="2011" Year="2013">
+<Book Series="Captain America and Black Widow" Number="640" Volume="2012" Year="2013">
 <Database Name="cv" Series="52058" Issue="373298" />
 </Book>
 </Books>

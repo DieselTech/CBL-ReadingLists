@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 14.2 King in Black (MG)</Name>
     <NumIssues>55</NumIssues>
     <Books>
@@ -70,13 +69,13 @@
         <Book Series="King In Black: Immortal Hulk" Number="1" Volume="2020" Year="2021">
             <Database Name="cv" Series="132632" Issue="821497" />
         </Book>
-        <Book Series="King In Black: Gwenom vs. Carnage" Number="1" Volume="2021" Year="2021">
+        <Book Series="King in Black: Gwenom vs. Carnage" Number="1" Volume="2021" Year="2021">
             <Database Name="cv" Series="133195" Issue="824449" />
         </Book>
-        <Book Series="King In Black: Gwenom vs. Carnage" Number="2" Volume="2021" Year="2021">
+        <Book Series="King in Black: Gwenom vs. Carnage" Number="2" Volume="2021" Year="2021">
             <Database Name="cv" Series="133195" Issue="827525" />
         </Book>
-        <Book Series="King In Black: Gwenom vs. Carnage" Number="3" Volume="2021" Year="2021">
+        <Book Series="King in Black: Gwenom vs. Carnage" Number="3" Volume="2021" Year="2021">
             <Database Name="cv" Series="133195" Issue="832864" />
         </Book>
         <Book Series="King In Black: Return of the Valkyries" Number="1" Volume="2021" Year="2021">

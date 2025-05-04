@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 2004-2012 Part 12.6 Spies and Soldiers (MG)</Name>
 <NumIssues>109</NumIssues>
@@ -276,13 +276,13 @@
 <Book Series="Daken: Dark Wolverine" Number="7" Volume="2010" Year="2011">
 <Database Name="cv" Series="35409" Issue="266489" />
 </Book>
-<Book Series="X-23" Number="8" Volume="2005" Year="2011">
+<Book Series="X-23" Number="8" Volume="2010" Year="2011">
 <Database Name="cv" Series="35496" Issue="267088" />
 </Book>
 <Book Series="Daken: Dark Wolverine" Number="8" Volume="2010" Year="2011">
 <Database Name="cv" Series="35409" Issue="268234" />
 </Book>
-<Book Series="X-23" Number="9" Volume="2005" Year="2011">
+<Book Series="X-23" Number="9" Volume="2010" Year="2011">
 <Database Name="cv" Series="35496" Issue="268984" />
 </Book>
 <Book Series="Daken: Dark Wolverine" Number="9" Volume="2010" Year="2011">

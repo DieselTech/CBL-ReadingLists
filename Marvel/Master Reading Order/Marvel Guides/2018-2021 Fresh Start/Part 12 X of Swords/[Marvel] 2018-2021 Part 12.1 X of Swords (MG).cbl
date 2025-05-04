@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 12.1 X of Swords (MG)</Name>
     <NumIssues>32</NumIssues>
     <Books>
@@ -52,7 +51,7 @@
         <Book Series="Hellions" Number="5" Volume="2020" Year="2020">
             <Database Name="cv" Series="126015" Issue="810727" />
         </Book>
-        <Book Series="New Mutants" Number="13" Volume="2019" Year="2020">
+        <Book Series="New Mutants" Number="13" Volume="2020" Year="2020">
             <Database Name="cv" Series="122666" Issue="810730" />
         </Book>
         <Book Series="Cable" Number="5" Volume="2020" Year="2020">

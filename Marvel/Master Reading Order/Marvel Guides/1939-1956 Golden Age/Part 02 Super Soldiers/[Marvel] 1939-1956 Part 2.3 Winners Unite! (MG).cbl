@@ -3,7 +3,7 @@
 <Name>[Marvel] 1939-1956 Part 2.3 Winners Unite! (MG)</Name>
 <NumIssues>90</NumIssues>
 <Books>
-<Book Series="Miss America Comics" Number="1" Volume="1953" Year="1944">
+<Book Series="Miss America Comics" Number="1" Volume="1944" Year="1944">
 <Database Name="cv" Series="50116" Issue="343551" />
 </Book>
 <Book Series="Captain America Comics" Number="40" Volume="1941" Year="1944">
