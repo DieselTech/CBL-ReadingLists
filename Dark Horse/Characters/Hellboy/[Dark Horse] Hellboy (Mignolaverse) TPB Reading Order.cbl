@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Dark Horse] Hellboy (Mignolaverse) TPB Reading Order</Name>
 <NumIssues>101</NumIssues>
@@ -132,7 +132,7 @@
 <Book Series="Hellboy: The Midnight Circus" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="68517" Issue="430741" />
 </Book>
-<Book Series="Hellboy In Mexico" Number="1" Volume="2016" Year="2016">
+<Book Series="Hellboy in Mexico" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="89598" Issue="524985" />
 </Book>
 <Book Series="Frankenstein Underground" Number="1" Volume="2015" Year="2015">
@@ -165,10 +165,10 @@
 <Book Series="B.P.R.D.: Hell On Earth - Russia" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="29625" Issue="350916" />
 </Book>
-<Book Series="B.P.R.D.: Hell on Earth - The Devil's Engine &#38; The Long Death" Number="1" Volume="2012" Year="2012">
+<Book Series="B.P.R.D.: Hell on Earth - The Devil's Engine &amp; The Long Death" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="54459" Issue="371191" />
 </Book>
-<Book Series="B.P.R.D. Hell On Earth: The Pickens County Horror &#38; Others" Number="1" Volume="2013" Year="2013">
+<Book Series="B.P.R.D. Hell On Earth: The Pickens County Horror &amp; Others" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="65370" Issue="417814" />
 </Book>
 <Book Series="B.P.R.D. Hell On Earth: The Return of the Master" Number="1" Volume="2013" Year="2013">
@@ -270,7 +270,7 @@
 <Book Series="Hellboy: The Silver Lantern Club" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144964" Issue="946116" />
 </Book>
-<Book Series="The Visitor: How &#38; Why He Stayed" Number="1" Volume="2017" Year="2017">
+<Book Series="The Visitor: How &amp; Why He Stayed" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104829" Issue="626244" />
 </Book>
 <Book Series="Hellboy and the B.P.R.D.: 1955" Number="1" Volume="2018" Year="2018">
