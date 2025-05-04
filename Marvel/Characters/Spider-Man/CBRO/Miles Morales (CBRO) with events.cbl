@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Miles Morales (CBRO) with events</Name>
 <NumIssues>519</NumIssues>
@@ -663,13 +663,13 @@
 <Book Series="Guardians of the Galaxy" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="547277" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="8" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="547289" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="9" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="549522" />
 </Book>
-<Book Series="Rocket Raccoon &#38; Groot" Number="10" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &amp; Groot" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="551314" />
 </Book>
 <Book Series="Venom: Space Knight" Number="11" Volume="2015" Year="2016">
@@ -798,7 +798,7 @@
 <Book Series="Champions" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="579308" />
 </Book>
-<Book Series="Monsters Unleashed" Number="1" Volume="2017" Year="2017">
+<Book Series="Monsters Unleashed!" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="576629" />
 </Book>
 <Book Series="Avengers" Number="1.MU" Volume="2016" Year="2017">
@@ -807,13 +807,13 @@
 <Book Series="Spider-Man/Deadpool" Number="1.MU" Volume="2016" Year="2017">
 <Database Name="cv" Series="87182" Issue="578473" />
 </Book>
-<Book Series="Monsters Unleashed" Number="2" Volume="2017" Year="2017">
+<Book Series="Monsters Unleashed!" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="579318" />
 </Book>
 <Book Series="All-New X-Men" Number="1.MU" Volume="2015" Year="2017">
 <Database Name="cv" Series="86334" Issue="579304" />
 </Book>
-<Book Series="Monsters Unleashed" Number="3" Volume="2017" Year="2017">
+<Book Series="Monsters Unleashed!" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="581562" />
 </Book>
 <Book Series="Doctor Strange" Number="1.MU" Volume="2015" Year="2017">
@@ -825,7 +825,7 @@
 <Book Series="Champions" Number="1.MU" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="582520" />
 </Book>
-<Book Series="Monsters Unleashed" Number="4" Volume="2017" Year="2017">
+<Book Series="Monsters Unleashed!" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="583724" />
 </Book>
 <Book Series="The Totally Awesome Hulk" Number="1.MU" Volume="2015" Year="2017">
@@ -834,7 +834,7 @@
 <Book Series="Guardians of the Galaxy" Number="1.MU" Volume="2015" Year="2017">
 <Database Name="cv" Series="85290" Issue="585079" />
 </Book>
-<Book Series="Monsters Unleashed" Number="5" Volume="2017" Year="2017">
+<Book Series="Monsters Unleashed!" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="587412" />
 </Book>
 <Book Series="Champions" Number="6" Volume="2016" Year="2017">
@@ -1116,7 +1116,7 @@
 <Book Series="Champions" Number="12" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="619618" />
 </Book>
-<Book Series="Generations: Miles Morales: Spider-Man &#38; Peter Parker: Spider-Man" Number="1" Volume="2017" Year="2017">
+<Book Series="Generations: Miles Morales: Spider-Man &amp; Peter Parker: Spider-Man" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="104612" Issue="625306" />
 </Book>
 <Book Series="Spider-Man" Number="20" Volume="2016" Year="2017">
