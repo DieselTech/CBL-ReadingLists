@@ -3,8 +3,8 @@
 <Name>[2012] Avengers vs. X-Men (Marvel Comics)(LoCG)</Name>
 <NumIssues>74</NumIssues>
 <Books>
-<Book Series="Marvel NOW! Point One" Number="1" Volume="2012" Year="2012">
-<Database Name="cv" Series="53097" Issue="362257" />
+<Book Series="Point One" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="43893" Issue="301659" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="324839" />
@@ -30,13 +30,13 @@
 <Book Series="New Avengers" Number="27" Volume="2010" Year="2012">
 <Database Name="cv" Series="33777" Issue="341733" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="9" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="332029" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="10" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="10" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="335236" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="11" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="11" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="337499" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="2" Volume="2012" Year="2012">
@@ -114,7 +114,7 @@
 <Book Series="Uncanny X-Men" Number="14" Volume="2011" Year="2012">
 <Database Name="cv" Series="43785" Issue="341738" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="12" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="12" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="342841" />
 </Book>
 <Book Series="X-Men: Legacy" Number="269" Volume="2008" Year="2012">
@@ -132,7 +132,7 @@
 <Book Series="New Avengers" Number="28" Volume="2010" Year="2012">
 <Database Name="cv" Series="33777" Issue="345393" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="13" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="13" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="345398" />
 </Book>
 <Book Series="Avengers Academy" Number="33" Volume="2010" Year="2012">
@@ -147,7 +147,7 @@
 <Book Series="Avengers" Number="28" Volume="2010" Year="2012">
 <Database Name="cv" Series="33227" Issue="347231" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="14" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="14" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="347208" />
 </Book>
 <Book Series="X-Men: Legacy" Number="270" Volume="2008" Year="2012">
@@ -174,7 +174,7 @@
 <Book Series="AVX: VS" Number="5" Volume="2012" Year="2012">
 <Database Name="cv" Series="48342" Issue="354184" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="15" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="15" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="354103" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="11" Volume="2012" Year="2012">
@@ -186,7 +186,7 @@
 <Book Series="Uncanny X-Men" Number="18" Volume="2011" Year="2012">
 <Database Name="cv" Series="43785" Issue="356777" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="16" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="16" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="356779" />
 </Book>
 <Book Series="Avengers" Number="30" Volume="2010" Year="2012">
@@ -198,7 +198,7 @@
 <Book Series="Uncanny X-Men" Number="19" Volume="2011" Year="2012">
 <Database Name="cv" Series="43785" Issue="360032" />
 </Book>
-<Book Series="Wolverine &#38; the X-Men" Number="18" Volume="2011" Year="2012">
+<Book Series="Wolverine &amp; the X-Men" Number="18" Volume="2011" Year="2012">
 <Database Name="cv" Series="43539" Issue="360916" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="12" Volume="2012" Year="2012">
