@@ -10,6 +10,7 @@ April 2025:
     Timeless Era
     Marvel Disassembled Era
     Ultimate Marvel
+    Bronze Age
 
 ## Notes:
 Marvel Guide provides a nice concise summary of the various timelines and is quite a bit more manageable to read than some other websites.
