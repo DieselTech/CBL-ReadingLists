@@ -600,8 +600,8 @@
 <Book Series="Captain America Annual" Number="3" Volume="1971" Year="1976">
 <Database Name="cv" Series="2510" Issue="15923" />
 </Book>
-<Book Series="Adrenalynn: Weapon of War" Number="1" Volume="2000" Year="1976">
-<Database Name="cv" Series="25388" Issue="149555" />
+<Book Series="Captain America&apos;s Bicentennial Battles" Number="1" Volume="1976" Year="1976">
+<Database Name="cv" Series="25338" Issue="149555" />
 </Book>
 <Book Series="Master of Kung Fu" Number="38" Volume="1974" Year="1976">
 <Database Name="cv" Series="2697" Issue="16175" />
@@ -2490,7 +2490,7 @@
 <Book Series="Super Spider-Man and Captain Britain" Number="238" Volume="1977" Year="1977">
 <Database Name="cv" Series="37437" Issue="248983" />
 </Book>
-<Book Series="Logan's Run" Number="6" Volume="1977" Year="1977">
+<Book Series="Logan&apos;s Run" Number="6" Volume="1977" Year="1977">
 <Database Name="cv" Series="18344" Issue="107529" />
 </Book>
 <Book Series="Tarzan Annual" Number="1" Volume="1977" Year="1977">
