@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[2005-2007] [Marvel] Civil War (Official)</Name>
+<Name>[Marvel] (2006-02) Civil War (Official)</Name>
 <NumIssues>98</NumIssues>
 <Books>
 <Book Series="The Amazing Spider-Man" Number="529" Volume="1999" Year="2006">
