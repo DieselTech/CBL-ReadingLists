@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] (2006-02) Civil War (Official)</Name>
+<Name>[2005-2007] [Marvel] Civil War (Official)</Name>
 <NumIssues>98</NumIssues>
 <Books>
-<Book Series="The Amazing Spider-Man" Number="529" Volume="1999" Year="2006">
+<Book Series="The Amazing Spider-Man" Number="529" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="106921" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="530" Volume="1999" Year="2006">
+<Book Series="The Amazing Spider-Man" Number="530" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="113517" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="531" Volume="1999" Year="2006">
+<Book Series="The Amazing Spider-Man" Number="531" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="113518" />
 </Book>
 <Book Series="Fantastic Four" Number="536" Volume="1998" Year="2006">
@@ -30,7 +30,7 @@
 <Book Series="Wolverine" Number="42" Volume="2003" Year="2006">
 <Database Name="cv" Series="10809" Issue="106974" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="532" Volume="1999" Year="2006">
+<Book Series="The Amazing Spider-Man" Number="532" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="108482" />
 </Book>
 <Book Series="Civil War: Front Line" Number="1" Volume="2006" Year="2006">
@@ -54,7 +54,7 @@
 <Book Series="Wolverine" Number="43" Volume="2003" Year="2006">
 <Database Name="cv" Series="10809" Issue="108240" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="533" Volume="1999" Year="2006">
+<Book Series="The Amazing Spider-Man" Number="533" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="106137" />
 </Book>
 <Book Series="Fantastic Four" Number="538" Volume="1998" Year="2006">
@@ -66,7 +66,7 @@
 <Book Series="Thunderbolts" Number="104" Volume="2006" Year="2006">
 <Database Name="cv" Series="18128" Issue="106309" />
 </Book>
-<Book Series="Civil War: X-Men" Number="1" Volume="2007" Year="2006">
+<Book Series="Civil War: X-Men" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18528" Issue="108786" />
 </Book>
 <Book Series="Civil War" Number="3" Volume="2006" Year="2006">
@@ -90,7 +90,7 @@
 <Book Series="Wolverine" Number="44" Volume="2003" Year="2006">
 <Database Name="cv" Series="10809" Issue="109260" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="534" Volume="1999" Year="2006">
+<Book Series="The Amazing Spider-Man" Number="534" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="105614" />
 </Book>
 <Book Series="Fantastic Four" Number="539" Volume="1998" Year="2006">
@@ -102,7 +102,7 @@
 <Book Series="Ms. Marvel" Number="6" Volume="2006" Year="2006">
 <Database Name="cv" Series="17990" Issue="108041" />
 </Book>
-<Book Series="Civil War: X-Men" Number="2" Volume="2007" Year="2006">
+<Book Series="Civil War: X-Men" Number="2" Volume="2006" Year="2006">
 <Database Name="cv" Series="18528" Issue="108844" />
 </Book>
 <Book Series="Heroes for Hire" Number="1" Volume="2006" Year="2006">
@@ -123,7 +123,7 @@
 <Book Series="Ms. Marvel" Number="7" Volume="2006" Year="2006">
 <Database Name="cv" Series="17990" Issue="108175" />
 </Book>
-<Book Series="Civil War: X-Men" Number="3" Volume="2007" Year="2006">
+<Book Series="Civil War: X-Men" Number="3" Volume="2006" Year="2006">
 <Database Name="cv" Series="18528" Issue="108845" />
 </Book>
 <Book Series="Civil War" Number="4" Volume="2006" Year="2006">
@@ -147,7 +147,7 @@
 <Book Series="Cable &#38; Deadpool" Number="32" Volume="2004" Year="2006">
 <Database Name="cv" Series="18070" Issue="106446" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="535" Volume="1999" Year="2006">
+<Book Series="The Amazing Spider-Man" Number="535" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="105556" />
 </Book>
 <Book Series="Civil War: Choosing Sides" Number="1" Volume="2006" Year="2006">
@@ -159,7 +159,7 @@
 <Book Series="Civil War: Front Line" Number="7" Volume="2006" Year="2006">
 <Database Name="cv" Series="18245" Issue="108777" />
 </Book>
-<Book Series="Civil War: X-Men" Number="4" Volume="2007" Year="2006">
+<Book Series="Civil War: X-Men" Number="4" Volume="2006" Year="2006">
 <Database Name="cv" Series="18528" Issue="108846" />
 </Book>
 <Book Series="Ms. Marvel" Number="8" Volume="2006" Year="2006">
@@ -195,7 +195,7 @@
 <Book Series="Civil War: Front Line" Number="8" Volume="2006" Year="2006">
 <Database Name="cv" Series="18245" Issue="108900" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="536" Volume="1999" Year="2006">
+<Book Series="The Amazing Spider-Man" Number="536" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="106138" />
 </Book>
 <Book Series="Black Panther" Number="22" Volume="2005" Year="2007">
@@ -231,7 +231,7 @@
 <Book Series="Civil War: Front Line" Number="10" Volume="2006" Year="2007">
 <Database Name="cv" Series="18245" Issue="108967" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="537" Volume="1999" Year="2007">
+<Book Series="The Amazing Spider-Man" Number="537" Volume="1963" Year="2007">
 <Database Name="cv" Series="2127" Issue="106104" />
 </Book>
 <Book Series="Fantastic Four" Number="542" Volume="1998" Year="2007">
@@ -249,7 +249,7 @@
 <Book Series="Civil War" Number="7" Volume="2006" Year="2007">
 <Database Name="cv" Series="18023" Issue="106626" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="538" Volume="1999" Year="2007">
+<Book Series="The Amazing Spider-Man" Number="538" Volume="1963" Year="2007">
 <Database Name="cv" Series="2127" Issue="106627" />
 </Book>
 <Book Series="Civil War: Front Line" Number="11" Volume="2006" Year="2007">
