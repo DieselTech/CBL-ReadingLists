@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] [2015] Secret Wars (Simplified)</Name>
+<Name>[Marvel] [2015-2016] Secret Wars (Simplified) (CBH) </Name>
 <NumIssues>60</NumIssues>
 <Books>
 <Book Series="Avengers" Number="35" Volume="2012" Year="2014">
