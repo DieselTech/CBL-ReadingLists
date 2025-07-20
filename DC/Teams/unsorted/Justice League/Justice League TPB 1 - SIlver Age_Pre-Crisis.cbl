@@ -1,16 +1,17 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Justice League TPB 1 - SIlver Age/Pre-Crisis</Name>
-  <Books>
-    <Book Series="Justice League of America: The Silver Age" Number="1" Volume="2016" Year="2016">
-      <Id>8f113376-c97b-49eb-92f6-c7ab629b8557</Id>
-    </Book>
-    <Book Series="Justice League of America: The Silver Age" Number="2" Volume="2016" Year="2016">
-      <Id>57c8dc58-b7ab-44b6-ba85-8360b026c72b</Id>
-    </Book>
-    <Book Series="Justice League of America: The Silver Age" Number="3" Volume="2016" Year="2017">
-      <Id>47828c7a-61b3-43ee-861f-fc7c2dcdeef5</Id>
-    </Book>
-  </Books>
-  <Matchers />
+<Name>Justice League TPB 1 - Silver Age/Pre-Crisis</Name>
+<NumIssues>3</NumIssues>
+<Books>
+<Book Series="Justice League of America: The Silver Age" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="87953" Issue="514413" />
+</Book>
+<Book Series="Justice League of America: The Silver Age" Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="87953" Issue="566684" />
+</Book>
+<Book Series="Justice League of America: The Silver Age" Number="3" Volume="2016" Year="2017">
+<Database Name="cv" Series="87953" Issue="592574" />
+</Book>
+</Books>
+<Matchers />
 </ReadingList>
