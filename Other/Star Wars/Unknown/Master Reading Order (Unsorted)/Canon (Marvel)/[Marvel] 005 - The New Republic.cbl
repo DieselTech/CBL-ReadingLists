@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>005 - The New Republic</Name>
-    <NumIssues>413</NumIssues>
+    <NumIssues>434</NumIssues>
     <Source>005 - The New Republic.cbl</Source>
     <StartYear>2015</StartYear>
     <Books>
@@ -101,7 +101,21 @@
         <Book Series="Star Wars: Age of Republic - Darth Maul" Number="1" Volume="2018" Year="2019">
             <Database Name="cv" Series="115909" Issue="694926" />
         </Book>
-        <Book Series="Star Wars Film" Number="1" Volume="1" Year="None" />
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="0.5" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="127975" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="1" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125382" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="2" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125411" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="3" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125632" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="4" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125642" />
+        </Book>
         <Book Series="Star Wars: Age of Republic - Obi-Wan Kenobi" Number="1" Volume="2019"
             Year="2019">
             <Database Name="cv" Series="116265" Issue="696367" />
@@ -127,7 +141,18 @@
         <Book Series="Star Wars: Age of Republic - Jango Fett" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="116384" Issue="696955" />
         </Book>
-        <Book Series="Star Wars Film" Number="2" Volume="1" Year="None" />
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="1" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125383" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="2" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125981" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="3" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125960" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="4" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125962" />
+        </Book>
         <Book Series="Star Wars: Mace Windu" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="103834" Issue="617854" />
         </Book>
@@ -160,8 +185,19 @@
         </Book>
         <Book Series="Star Wars: Darth Maul - Son of Dathomir" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="106045" Issue="637523" />
+        </Book>        
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="1" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124934" />
         </Book>
-        <Book Series="Star Wars Film" Number="3" Volume="1" Year="None" />
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="2" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124955" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="3" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124956" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="4" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124957" />
+        </Book>
         <Book Series="Kanan" Number="1" Volume="2015" Year="2015">
             <Database Name="cv" Series="81088" Issue="484899" />
         </Book>
@@ -328,7 +364,6 @@
         <Book Series="Star Wars: Lando: Double Or Nothing" Number="5" Volume="2018" Year="2018">
             <Database Name="cv" Series="111154" Issue="685858" />
         </Book>
-        <Book Series="Star Wars Film" Number="4" Volume="1" Year="None" />
         <Book Series="Solo: A Star Wars Story Adaptation" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="114269" Issue="688326" />
         </Book>
@@ -387,7 +422,6 @@
         <Book Series="Star Wars: Vader: Dark Visions" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="117473" Issue="711331" />
         </Book>
-        <Book Series="Star Wars Film" Number="5" Volume="1" Year="None" />
         <Book Series="Star Wars: Rogue One Adaptation" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="100597" Issue="590808" />
         </Book>
@@ -406,7 +440,18 @@
         <Book Series="Star Wars: Rogue One Adaptation" Number="6" Volume="2017" Year="2017">
             <Database Name="cv" Series="100597" Issue="619641" />
         </Book>
-        <Book Series="Star Wars Film" Number="6" Volume="1" Year="None" />
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="1" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177618" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="2" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177619" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="3" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177622" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="4" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177624" />
+        </Book>
         <Book Series="Star Wars: Age of Rebellion - Grand Moff Tarkin" Number="1" Volume="2019"
             Year="2019">
             <Database Name="cv" Series="118269" Issue="705929" />
@@ -960,7 +1005,24 @@
         <Book Series="Star Wars: Empire Ascendant" Number="1" Volume="2019" Year="2020">
             <Database Name="cv" Series="123713" Issue="731527" />
         </Book>
-        <Book Series="Star Wars Film" Number="7" Volume="1" Year="None" />
+        <Book Series="Star Wars" Number="39" Volume="1977" Year="1980">
+            <Database Name="cv" Series="2914" Issue="20679" />
+        </Book>
+        <Book Series="Star Wars" Number="40" Volume="1977" Year="1980">
+            <Database Name="cv" Series="2914" Issue="20748" />
+        </Book>
+        <Book Series="Star Wars" Number="41" Volume="1977" Year="1980">
+            <Database Name="cv" Series="2914" Issue="20810" />
+        </Book>
+        <Book Series="Star Wars" Number="42" Volume="1977" Year="1980">
+            <Database Name="cv" Series="2914" Issue="20880" />
+        </Book>
+        <Book Series="Star Wars" Number="43" Volume="1977" Year="1981">
+            <Database Name="cv" Series="2914" Issue="20986" />
+        </Book>
+        <Book Series="Star Wars" Number="44" Volume="1977" Year="1981">
+            <Database Name="cv" Series="2914" Issue="21055" />
+        </Book>
         <Book Series="Star Wars: Age of Rebellion Special" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="118395" Issue="706419" />
         </Book>
@@ -1005,7 +1067,18 @@
         <Book Series="Star Wars: Tie Fighter" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="118396" Issue="716973" />
         </Book>
-        <Book Series="Star Wars Film" Number="8" Volume="1" Year="None" />
+        <Book Series="Star Wars: Return of the Jedi" Number="1" Volume="1983" Year="1983">
+            <Database Name="cv" Series="3243" Issue="57171" />
+        </Book>
+        <Book Series="Star Wars: Return of the Jedi" Number="2" Volume="1983" Year="1983">
+            <Database Name="cv" Series="3243" Issue="57172" />
+        </Book>
+        <Book Series="Star Wars: Return of the Jedi" Number="3" Volume="1983" Year="1983">
+            <Database Name="cv" Series="3243" Issue="57173" />
+        </Book>
+        <Book Series="Star Wars: Return of the Jedi" Number="4" Volume="1983" Year="1984">
+            <Database Name="cv" Series="3243" Issue="57174" />
+        </Book>
         <Book Series="Journey to Star Wars: The Force Awakens - Shattered Empire" Number="1"
             Volume="2015" Year="2015">
             <Database Name="cv" Series="84432" Issue="499744" />
@@ -1022,7 +1095,6 @@
             Volume="2015" Year="2015">
             <Database Name="cv" Series="84432" Issue="503560" />
         </Book>
-        <Book Series="Star Wars TVShow" Number="1" Volume="1" Year="None" />
         <Book Series="Star Wars: The Rise of Kylo Ren" Number="1" Volume="2019" Year="2020">
             <Database Name="cv" Series="123714" Issue="731528" />
         </Book>
@@ -1147,7 +1219,6 @@
         <Book Series="Star Wars: Age of Resistance - Finn" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="120029" Issue="713081" />
         </Book>
-        <Book Series="Star Wars Film" Number="9" Volume="1" Year="None" />
         <Book Series="Star Wars: The Force Awakens Adaptation" Number="1" Volume="2016" Year="2016">
             <Database Name="cv" Series="91772" Issue="537247" />
         </Book>
@@ -1189,7 +1260,6 @@
             Year="2018">
             <Database Name="cv" Series="108265" Issue="656717" />
         </Book>
-        <Book Series="Star Wars Film" Number="10" Volume="1" Year="None" />
         <Book Series="Star Wars: The Last Jedi Adaptation" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="110763" Issue="669459" />
         </Book>
@@ -1257,7 +1327,21 @@
             Volume="2019" Year="2019">
             <Database Name="cv" Series="121899" Issue="725251" />
         </Book>
-        <Book Series="Star Wars Film" Number="11" Volume="1" Year="None" />
+        <Book Series="Star Wars: The Rise of Skywalker Adaptation" Number="1" Volume="2025" Year="2025">
+            <Database Name="cv" Series="162535" Issue="1097031" />
+        </Book>
+        <Book Series="Star Wars: The Rise of Skywalker Adaptation" Number="2" Volume="2025" Year="2025">
+            <Database Name="cv" Series="162535" Issue="1100290" />
+        </Book>
+        <Book Series="Star Wars: The Rise of Skywalker Adaptation" Number="3" Volume="2025" Year="2025">
+            <Database Name="cv" Series="162535" Issue="1107191" />
+        </Book>
+        <Book Series="Star Wars: The Rise of Skywalker Adaptation" Number="4" Volume="2025" Year="2025">
+            <Database Name="cv" Series="162535" Issue="1112966" />
+        </Book>
+        <Book Series="Star Wars: The Rise of Skywalker Adaptation" Number="5" Volume="2025" Year="2025">
+            <Database Name="cv" Series="162535" Issue="1115837" />
+        </Book>
     </Books>
     <Matchers />
 </ReadingList>

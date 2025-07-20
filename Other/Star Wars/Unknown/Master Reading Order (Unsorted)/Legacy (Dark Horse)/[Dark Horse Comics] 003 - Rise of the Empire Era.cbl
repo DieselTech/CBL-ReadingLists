@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>003 - Rise of the Empire Era</Name>
-    <NumIssues>212</NumIssues>
+    <NumIssues>222</NumIssues>
     <Source>003 - Rise of the Empire Era.cbl</Source>
     <StartYear>1998</StartYear>
     <Books>
@@ -83,7 +83,21 @@
         <Book Series="Star Wars: Darth Maul" Number="4" Volume="2000" Year="2000">
             <Database Name="cv" Series="20225" Issue="120552" />
         </Book>
-        <Book Series="Star Wars Film" Number="1" Volume="1" Year="None" />
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="0.5" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="127975" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="1" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125382" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="2" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125411" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="3" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125632" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="4" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125642" />
+        </Book>
         <Book Series="Star Wars: Jango Fett: Open Seasons" Number="1" Volume="2002" Year="2002">
             <Database Name="cv" Series="21046" Issue="125991" />
         </Book>
@@ -265,7 +279,18 @@
         <Book Series="Star Wars: Blood Ties" Number="4" Volume="2010" Year="2010">
             <Database Name="cv" Series="35114" Issue="246542" />
         </Book>
-        <Book Series="Star Wars Film" Number="2" Volume="1" Year="None" />
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="1" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125383" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="2" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125981" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="3" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125960" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="4" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125962" />
+        </Book>
         <Book Series="Star Wars: Republic" Number="49" Volume="2002" Year="2003">
             <Database Name="cv" Series="20215" Issue="120585" />
         </Book>
@@ -519,7 +544,18 @@
         <Book Series="Star Wars: Clone Wars Adventures" Number="10" Volume="2004" Year="2008">
             <Database Name="cv" Series="21177" Issue="166008" />
         </Book>
-        <Book Series="Star Wars Film" Number="3" Volume="1" Year="None" />
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="1" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124934" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="2" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124955" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="3" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124956" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="4" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124957" />
+        </Book>
         <Book Series="Star Wars: Republic" Number="78" Volume="2002" Year="2005">
             <Database Name="cv" Series="20215" Issue="120617" />
         </Book>

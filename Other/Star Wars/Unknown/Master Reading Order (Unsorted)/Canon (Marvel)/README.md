@@ -1,0 +1,1 @@
+Note that some Dark Horse film adaptations are included in these "Marvel" lists.  These are still Canon and are republished in TPB form under Marvel.

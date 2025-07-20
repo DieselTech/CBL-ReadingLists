@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>004 - Rebellion Era</Name>
-    <NumIssues>129</NumIssues>
+    <NumIssues>140</NumIssues>
     <Source>004 - Rebellion Era.cbl</Source>
     <StartYear>1995</StartYear>
     <Books>
@@ -12,7 +12,18 @@
         <Book Series="Star Wars: Empire" Number="6" Volume="2002" Year="2003">
             <Database Name="cv" Series="21677" Issue="165526" />
         </Book>
-        <Book Series="Star Wars Film" Number="4" Volume="1" Year="None" />
+       <Book Series="Star Wars: A New Hope - The Special Edition" Number="1" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177618" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="2" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177619" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="3" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177622" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="4" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177624" />
+        </Book>
         <Book Series="The Star Wars" Number="1" Volume="2013" Year="2013">
             <Database Name="cv" Series="67024" Issue="424523" />
         </Book>
@@ -300,7 +311,24 @@
             Year="2010">
             <Database Name="cv" Series="34829" Issue="228658" />
         </Book>
-        <Book Series="Star Wars Film" Number="5" Volume="1" Year="None" />
+        <Book Series="Star Wars" Number="39" Volume="1977" Year="1980">
+            <Database Name="cv" Series="2914" Issue="20679" />
+        </Book>
+        <Book Series="Star Wars" Number="40" Volume="1977" Year="1980">
+            <Database Name="cv" Series="2914" Issue="20748" />
+        </Book>
+        <Book Series="Star Wars" Number="41" Volume="1977" Year="1980">
+            <Database Name="cv" Series="2914" Issue="20810" />
+        </Book>
+        <Book Series="Star Wars" Number="42" Volume="1977" Year="1980">
+            <Database Name="cv" Series="2914" Issue="20880" />
+        </Book>
+        <Book Series="Star Wars" Number="43" Volume="1977" Year="1981">
+            <Database Name="cv" Series="2914" Issue="20986" />
+        </Book>
+        <Book Series="Star Wars" Number="44" Volume="1977" Year="1981">
+            <Database Name="cv" Series="2914" Issue="21055" />
+        </Book>
         <Book Series="Star Wars: Infinities - The Empire Strikes Back" Number="1" Volume="2002"
             Year="2002">
             <Database Name="cv" Series="20069" Issue="119754" />
@@ -349,7 +377,18 @@
         <Book Series="Star Wars: Ewoks - Shadows of Endor" Number="1" Volume="2013" Year="2013">
             <Database Name="cv" Series="68120" Issue="428283" />
         </Book>
-        <Book Series="Star Wars Film" Number="6" Volume="1" Year="None" />
+        <Book Series="Star Wars: Return of the Jedi" Number="1" Volume="1983" Year="1983">
+            <Database Name="cv" Series="3243" Issue="57171" />
+        </Book>
+        <Book Series="Star Wars: Return of the Jedi" Number="2" Volume="1983" Year="1983">
+            <Database Name="cv" Series="3243" Issue="57172" />
+        </Book>
+        <Book Series="Star Wars: Return of the Jedi" Number="3" Volume="1983" Year="1983">
+            <Database Name="cv" Series="3243" Issue="57173" />
+        </Book>
+        <Book Series="Star Wars: Return of the Jedi" Number="4" Volume="1983" Year="1984">
+            <Database Name="cv" Series="3243" Issue="57174" />
+        </Book>
         <Book Series="Star Wars: Infinities - Return of the Jedi" Number="1" Volume="2003"
             Year="2003">
             <Database Name="cv" Series="27302" Issue="166410" />

@@ -172,7 +172,6 @@
         <Book Series="Star Wars: Lando: Double Or Nothing" Number="5" Volume="2018" Year="2018">
             <Database Name="cv" Series="111154" Issue="685858" />
         </Book>
-        <Book Series="Star Wars Film" Number="4" Volume="1" Year="None" />
         <Book Series="Solo: A Star Wars Story Adaptation" Number="1" Volume="2018" Year="2018">
             <Database Name="cv" Series="114269" Issue="688326" />
         </Book>
