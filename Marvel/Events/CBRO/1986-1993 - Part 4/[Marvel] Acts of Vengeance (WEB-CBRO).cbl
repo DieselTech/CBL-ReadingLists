@@ -3,26 +3,23 @@
 <Name>[Marvel] Acts of Vengeance (WEB-CBRO)</Name>
 <NumIssues>70</NumIssues>
 <Books>
+<Book Series="The Mighty Thor" Number="410" Volume="1989" Year="1989">
+<Database Name="cv" Series="61213" Issue="31934" />
+</Book>
+<Book Series="X-Factor" Number="50" Volume="1986" Year="1990">
+<Database Name="cv" Series="3657" Issue="32340" />
+</Book>
 <Book Series="Avengers Spotlight" Number="26" Volume="1989" Year="1989">
 <Database Name="cv" Series="4218" Issue="31992" />
 </Book>
 <Book Series="The New Mutants" Number="86" Volume="1983" Year="1990">
 <Database Name="cv" Series="3234" Issue="32456" />
 </Book>
-<Book Series="X-Factor" Number="50" Volume="1986" Year="1990">
-<Database Name="cv" Series="3657" Issue="32340" />
-</Book>
 <Book Series="Damage Control" Number="1" Volume="1989" Year="1989">
 <Database Name="cv" Series="4349" Issue="31211" />
 </Book>
 <Book Series="The Avengers" Number="311" Volume="1963" Year="1989">
 <Database Name="cv" Series="2128" Issue="31993" />
-</Book>
-<Book Series="The Mighty Thor" Number="410" Volume="1989" Year="1989">
-<Database Name="cv" Series="61213" Issue="31934" />
-</Book>
-<Book Series="Iron Man" Number="250" Volume="1968" Year="1989">
-<Database Name="cv" Series="2407" Issue="32000" />
 </Book>
 <Book Series="Captain America" Number="365" Volume="1968" Year="1989">
 <Database Name="cv" Series="2400" Issue="32056" />
@@ -152,9 +149,6 @@
 </Book>
 <Book Series="Captain America" Number="366" Volume="1968" Year="1990">
 <Database Name="cv" Series="2400" Issue="32317" />
-</Book>
-<Book Series="The Mutant Misadventures of Cloak and Dagger" Number="10" Volume="1988" Year="1990">
-<Database Name="cv" Series="4060" Issue="95268" />
 </Book>
 <Book Series="Iron Man" Number="252" Volume="1968" Year="1990">
 <Database Name="cv" Series="2407" Issue="32321" />

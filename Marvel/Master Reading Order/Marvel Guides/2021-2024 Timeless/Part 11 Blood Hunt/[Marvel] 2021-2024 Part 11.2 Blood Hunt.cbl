@@ -7,161 +7,161 @@
     <StartYear>2024</StartYear>
     <Books>
         <Book Series="Dracula: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158069" Issue="1054377" />
+            <Database Name="cv" Series="158069" Issue="1054377" />
         </Book>
         <Book Series="Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="157939" Issue="1053535" />
+            <Database Name="cv" Series="157939" Issue="1053535" />
         </Book>
         <Book Series="Fantastic Four" Number="21" Volume="2022" Year="2024">
-            <Database Name="comicvine" Series="145912" Issue="1059113" />
+            <Database Name="cv" Series="145912" Issue="1059113" />
         </Book>
         <Book Series="X-Men: Blood Hunt - Psylocke" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158700" Issue="1061882" />
+            <Database Name="cv" Series="158700" Issue="1061882" />
         </Book>
         <Book Series="Blood Hunters" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158058" Issue="1054371" />
+            <Database Name="cv" Series="158058" Issue="1054371" />
         </Book>
         <Book Series="Blood Hunters" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158058" Issue="1058736" />
+            <Database Name="cv" Series="158058" Issue="1058736" />
         </Book>
         <Book Series="Blood Hunters" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158058" Issue="1061869" />
+            <Database Name="cv" Series="158058" Issue="1061869" />
         </Book>
         <Book Series="Blood Hunters" Number="4" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158058" Issue="1063227" />
+            <Database Name="cv" Series="158058" Issue="1063227" />
         </Book>
         <Book Series="Avengers" Number="14" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="150431" Issue="1054370" />
+            <Database Name="cv" Series="150431" Issue="1054370" />
         </Book>
         <Book Series="Avengers" Number="15" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="150431" Issue="1059109" />
+            <Database Name="cv" Series="150431" Issue="1059109" />
         </Book>
         <Book Series="Avengers" Number="16" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="150431" Issue="1062560" />
+            <Database Name="cv" Series="150431" Issue="1062560" />
         </Book>
         <Book Series="Doctor Strange" Number="15" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="148962" Issue="1054376" />
+            <Database Name="cv" Series="148962" Issue="1054376" />
         </Book>
         <Book Series="Strange Academy: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158074" Issue="1054383" />
+            <Database Name="cv" Series="158074" Issue="1054383" />
         </Book>
         <Book Series="Blood Hunt" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="157939" Issue="1056201" />
+            <Database Name="cv" Series="157939" Issue="1056201" />
         </Book>
         <Book Series="Strange Academy: Blood Hunt" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158074" Issue="1059272" />
+            <Database Name="cv" Series="158074" Issue="1059272" />
         </Book>
         <Book Series="X-Men: Blood Hunt - Jubilee" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158460" Issue="1059274" />
+            <Database Name="cv" Series="158460" Issue="1059274" />
         </Book>
         <Book Series="X-Men: Blood Hunt - Laura Kinney the Wolverine" Number="1" Volume="2024"
             Year="2024">
-            <Database Name="comicvine" Series="158869" Issue="1063238" />
+            <Database Name="cv" Series="158869" Issue="1063238" />
         </Book>
         <Book Series="Amazing Spider-Man" Number="49" Volume="2022" Year="2024">
-            <Database Name="comicvine" Series="142577" Issue="1054369" />
+            <Database Name="cv" Series="142577" Issue="1054369" />
         </Book>
         <Book Series="Amazing Spider-Man: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158148" Issue="1055022" />
+            <Database Name="cv" Series="158148" Issue="1055022" />
         </Book>
         <Book Series="Amazing Spider-Man: Blood Hunt" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158148" Issue="1059108" />
+            <Database Name="cv" Series="158148" Issue="1059108" />
         </Book>
         <Book Series="Amazing Spider-Man: Blood Hunt" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158148" Issue="1063225" />
+            <Database Name="cv" Series="158148" Issue="1063225" />
         </Book>
         <Book Series="Union Jack the Ripper: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158230" Issue="1056218" />
+            <Database Name="cv" Series="158230" Issue="1056218" />
         </Book>
         <Book Series="Union Jack the Ripper: Blood Hunt" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158230" Issue="1060864" />
+            <Database Name="cv" Series="158230" Issue="1060864" />
         </Book>
         <Book Series="Union Jack the Ripper: Blood Hunt" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158230" Issue="1062571" />
+            <Database Name="cv" Series="158230" Issue="1062571" />
         </Book>
         <Book Series="Venom" Number="33" Volume="2021" Year="2024">
-            <Database Name="comicvine" Series="140084" Issue="1054384" />
+            <Database Name="cv" Series="140084" Issue="1054384" />
         </Book>
         <Book Series="Venom" Number="34" Volume="2021" Year="2024">
-            <Database Name="comicvine" Series="140084" Issue="1058721" />
+            <Database Name="cv" Series="140084" Issue="1058721" />
         </Book>
         <Book Series="Midnight Sons: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158298" Issue="1057006" />
+            <Database Name="cv" Series="158298" Issue="1057006" />
         </Book>
         <Book Series="Black Panther: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158296" Issue="1057001" />
+            <Database Name="cv" Series="158296" Issue="1057001" />
         </Book>
         <Book Series="Black Panther: Blood Hunt" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158296" Issue="1060162" />
+            <Database Name="cv" Series="158296" Issue="1060162" />
         </Book>
         <Book Series="Black Panther: Blood Hunt" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158296" Issue="1061868" />
+            <Database Name="cv" Series="158296" Issue="1061868" />
         </Book>
         <Book Series="Blood Hunt" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="157939" Issue="1059110" />
+            <Database Name="cv" Series="157939" Issue="1059110" />
         </Book>
         <Book Series="Miles Morales: Spider-Man" Number="21" Volume="2022" Year="2024">
-            <Database Name="comicvine" Series="146734" Issue="1059267" />
+            <Database Name="cv" Series="146734" Issue="1059267" />
         </Book>
         <Book Series="Dracula: Blood Hunt" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158069" Issue="1060168" />
+            <Database Name="cv" Series="158069" Issue="1060168" />
         </Book>
         <Book Series="Dracula: Blood Hunt" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158069" Issue="1063349" />
+            <Database Name="cv" Series="158069" Issue="1063349" />
         </Book>
         <Book Series="Miles Morales: Spider-Man" Number="22" Volume="2022" Year="2024">
-            <Database Name="comicvine" Series="146734" Issue="1061873" />
+            <Database Name="cv" Series="146734" Issue="1061873" />
         </Book>
         <Book Series="Midnight Sons: Blood Hunt" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158298" Issue="1061065" />
+            <Database Name="cv" Series="158298" Issue="1061065" />
         </Book>
         <Book Series="Wolverine: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158413" Issue="1058728" />
+            <Database Name="cv" Series="158413" Issue="1058728" />
         </Book>
         <Book Series="Wolverine: Blood Hunt" Number="2" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158413" Issue="1060181" />
+            <Database Name="cv" Series="158413" Issue="1060181" />
         </Book>
         <Book Series="Wolverine: Blood Hunt" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158413" Issue="1062572" />
+            <Database Name="cv" Series="158413" Issue="1062572" />
         </Book>
         <Book Series="Doctor Strange" Number="16" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="148962" Issue="1060166" />
+            <Database Name="cv" Series="148962" Issue="1060166" />
         </Book>
         <Book Series="Blood Hunt" Number="4" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="157939" Issue="1060853" />
+            <Database Name="cv" Series="157939" Issue="1060853" />
         </Book>
         <Book Series="Vengeance of the Moon Knight" Number="6" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="155872" Issue="1060865" />
+            <Database Name="cv" Series="155872" Issue="1060865" />
         </Book>
         <Book Series="Vengeance of the Moon Knight" Number="7" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="155872" Issue="1064209" />
+            <Database Name="cv" Series="155872" Issue="1064209" />
         </Book>
         <Book Series="Wolverine: Blood Hunt" Number="4" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158413" Issue="1064212" />
+            <Database Name="cv" Series="158413" Issue="1064212" />
         </Book>
         <Book Series="Werewolf By Night: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158698" Issue="1061880" />
+            <Database Name="cv" Series="158698" Issue="1061880" />
         </Book>
         <Book Series="X-Men: Blood Hunt - Magik" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158599" Issue="1060868" />
+            <Database Name="cv" Series="158599" Issue="1060868" />
         </Book>
         <Book Series="Hulk: Blood Hunt" Number="1" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158783" Issue="1062565" />
+            <Database Name="cv" Series="158783" Issue="1062565" />
         </Book>
         <Book Series="Doctor Strange" Number="17" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="148962" Issue="1061871" />
+            <Database Name="cv" Series="148962" Issue="1061871" />
         </Book>
         <Book Series="Blood Hunt" Number="5" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="157939" Issue="1065017" />
+            <Database Name="cv" Series="157939" Issue="1065017" />
         </Book>
         <Book Series="Strange Academy: Blood Hunt" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158074" Issue="1064207" />
+            <Database Name="cv" Series="158074" Issue="1064207" />
         </Book>
         <Book Series="Fantastic Four" Number="22" Volume="2022" Year="2024">
-            <Database Name="comicvine" Series="145912" Issue="1065058" />
+            <Database Name="cv" Series="145912" Issue="1065058" />
         </Book>
         <Book Series="Midnight Sons: Blood Hunt" Number="3" Volume="2024" Year="2024">
-            <Database Name="comicvine" Series="158298" Issue="1065061" />
+            <Database Name="cv" Series="158298" Issue="1065061" />
         </Book>
     </Books>
     <Matchers />
