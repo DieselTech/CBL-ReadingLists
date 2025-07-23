@@ -7,91 +7,91 @@
     <StartYear>2023</StartYear>
     <Books>
         <Book Series="Star Wars: Dark Droids" Number="1" Volume="2023" Year="2023">
-            <Database Name="comicvine" Series="152654" Issue="1004337" />
+            <Database Name="cv" Series="152654" Issue="1004337" />
         </Book>
         <Book Series="Star Wars" Number="37" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="123860" Issue="1006439" />
+            <Database Name="cv" Series="123860" Issue="1006439" />
         </Book>
         <Book Series="Star Wars: Darth Vader" Number="37" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="124821" Issue="1008946" />
+            <Database Name="cv" Series="124821" Issue="1008946" />
         </Book>
         <Book Series="Star Wars: Doctor Aphra" Number="35" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="126644" Issue="1010054" />
+            <Database Name="cv" Series="126644" Issue="1010054" />
         </Book>
         <Book Series="Star Wars: Bounty Hunters" Number="37" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="125679" Issue="1010946" />
+            <Database Name="cv" Series="125679" Issue="1010946" />
         </Book>
         <Book Series="Star Wars: Dark Droids" Number="2" Volume="2023" Year="2023">
-            <Database Name="comicvine" Series="152654" Issue="1012327" />
+            <Database Name="cv" Series="152654" Issue="1012327" />
         </Book>
         <Book Series="Star Wars" Number="38" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="123860" Issue="1011787" />
+            <Database Name="cv" Series="123860" Issue="1011787" />
         </Book>
         <Book Series="Star Wars: Darth Vader" Number="38" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="124821" Issue="1013498" />
+            <Database Name="cv" Series="124821" Issue="1013498" />
         </Book>
         <Book Series="Star Wars: Dark Droids - D-Squad" Number="1" Volume="2023" Year="2023">
-            <Database Name="comicvine" Series="153630" Issue="1015094" />
+            <Database Name="cv" Series="153630" Issue="1015094" />
         </Book>
         <Book Series="Star Wars: Bounty Hunters" Number="38" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="125679" Issue="1014898" />
+            <Database Name="cv" Series="125679" Issue="1014898" />
         </Book>
         <Book Series="Star Wars: Doctor Aphra" Number="36" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="126644" Issue="1018029" />
+            <Database Name="cv" Series="126644" Issue="1018029" />
         </Book>
         <Book Series="Star Wars: Bounty Hunters" Number="39" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="125679" Issue="1020539" />
+            <Database Name="cv" Series="125679" Issue="1020539" />
         </Book>
         <Book Series="Star Wars: Darth Vader" Number="39" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="124821" Issue="1020540" />
+            <Database Name="cv" Series="124821" Issue="1020540" />
         </Book>
         <Book Series="Star Wars: Dark Droids" Number="3" Volume="2023" Year="2023">
-            <Database Name="comicvine" Series="152654" Issue="1024051" />
+            <Database Name="cv" Series="152654" Issue="1024051" />
         </Book>
         <Book Series="Star Wars" Number="39" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="123860" Issue="1025166" />
+            <Database Name="cv" Series="123860" Issue="1025166" />
         </Book>
         <Book Series="Star Wars: Doctor Aphra" Number="37" Volume="2020" Year="2023">
-            <Database Name="comicvine" Series="126644" Issue="1026556" />
+            <Database Name="cv" Series="126644" Issue="1026556" />
         </Book>
         <Book Series="Star Wars: Dark Droids - D-Squad" Number="2" Volume="2023" Year="2023">
-            <Database Name="comicvine" Series="153630" Issue="1026555" />
+            <Database Name="cv" Series="153630" Issue="1026555" />
         </Book>
         <Book Series="Star Wars" Number="40" Volume="2020" Year="2024">
-            <Database Name="comicvine" Series="123860" Issue="1027601" />
+            <Database Name="cv" Series="123860" Issue="1027601" />
         </Book>
         <Book Series="Star Wars: Darth Vader" Number="40" Volume="2020" Year="2024">
-            <Database Name="comicvine" Series="124821" Issue="1028631" />
+            <Database Name="cv" Series="124821" Issue="1028631" />
         </Book>
         <Book Series="Star Wars: Dark Droids" Number="4" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="152654" Issue="1029692" />
+            <Database Name="cv" Series="152654" Issue="1029692" />
         </Book>
         <Book Series="Star Wars: Doctor Aphra" Number="38" Volume="2020" Year="2024">
-            <Database Name="comicvine" Series="126644" Issue="1029693" />
+            <Database Name="cv" Series="126644" Issue="1029693" />
         </Book>
         <Book Series="Star Wars: Dark Droids - D-Squad" Number="3" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="153630" Issue="1030790" />
+            <Database Name="cv" Series="153630" Issue="1030790" />
         </Book>
         <Book Series="Star Wars: Bounty Hunters" Number="40" Volume="2020" Year="2024">
-            <Database Name="comicvine" Series="125679" Issue="1030787" />
+            <Database Name="cv" Series="125679" Issue="1030787" />
         </Book>
         <Book Series="Star Wars" Number="41" Volume="2020" Year="2024">
-            <Database Name="comicvine" Series="123860" Issue="1033210" />
+            <Database Name="cv" Series="123860" Issue="1033210" />
         </Book>
         <Book Series="Star Wars: Dark Droids - D-Squad" Number="4" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="153630" Issue="1033211" />
+            <Database Name="cv" Series="153630" Issue="1033211" />
         </Book>
         <Book Series="Star Wars: Bounty Hunters" Number="41" Volume="2020" Year="2024">
-            <Database Name="comicvine" Series="125679" Issue="1034346" />
+            <Database Name="cv" Series="125679" Issue="1034346" />
         </Book>
         <Book Series="Star Wars: Darth Vader" Number="41" Volume="2020" Year="2024">
-            <Database Name="comicvine" Series="124821" Issue="1035964" />
+            <Database Name="cv" Series="124821" Issue="1035964" />
         </Book>
         <Book Series="Star Wars: Doctor Aphra" Number="39" Volume="2020" Year="2024">
-            <Database Name="comicvine" Series="126644" Issue="1035965" />
+            <Database Name="cv" Series="126644" Issue="1035965" />
         </Book>
         <Book Series="Star Wars: Dark Droids" Number="5" Volume="2023" Year="2024">
-            <Database Name="comicvine" Series="152654" Issue="1038392" />
+            <Database Name="cv" Series="152654" Issue="1038392" />
         </Book>
     </Books>
     <Matchers />

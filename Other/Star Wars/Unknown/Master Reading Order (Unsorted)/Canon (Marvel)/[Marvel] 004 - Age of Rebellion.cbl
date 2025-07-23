@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>004 - Age of Rebellion</Name>
-    <NumIssues>197</NumIssues>
+    <NumIssues>199</NumIssues>
     <Source>004 - Age of Rebellion.cbl</Source>
     <StartYear>2015</StartYear>
     <Books>
@@ -25,7 +25,6 @@
         <Book Series="Star Wars: Vader: Dark Visions" Number="5" Volume="2019" Year="2019">
             <Database Name="cv" Series="117473" Issue="711331" />
         </Book>
-        <Book Series="Star Wars Film" Number="5" Volume="1" Year="None" />
         <Book Series="Star Wars: Rogue One Adaptation" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="100597" Issue="590808" />
         </Book>
@@ -44,7 +43,18 @@
         <Book Series="Star Wars: Rogue One Adaptation" Number="6" Volume="2017" Year="2017">
             <Database Name="cv" Series="100597" Issue="619641" />
         </Book>
-        <Book Series="Star Wars Film" Number="6" Volume="1" Year="None" />
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="1" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177618" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="2" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177619" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="3" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177622" />
+        </Book>
+        <Book Series="Star Wars: A New Hope - The Special Edition" Number="4" Volume="1997" Year="1997">
+            <Database Name="cv" Series="28808" Issue="177624" />
+        </Book>
         <Book Series="Star Wars: Age of Rebellion - Grand Moff Tarkin" Number="1" Volume="2019"
             Year="2019">
             <Database Name="cv" Series="118269" Issue="705929" />

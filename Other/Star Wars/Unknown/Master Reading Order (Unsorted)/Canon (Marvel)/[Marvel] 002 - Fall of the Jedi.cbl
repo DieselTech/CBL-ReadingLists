@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>002 - Fall of the Jedi</Name>
-    <NumIssues>27</NumIssues>
+    <NumIssues>38</NumIssues>
     <Source>002 - Fall of the Jedi.cbl</Source>
     <StartYear>2016</StartYear>
     <Books>
@@ -28,7 +28,21 @@
         <Book Series="Star Wars: Age of Republic - Darth Maul" Number="1" Volume="2018" Year="2019">
             <Database Name="cv" Series="115909" Issue="694926" />
         </Book>
-        <Book Series="Star Wars Film" Number="1" Volume="1" Year="None" />
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="0.5" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="127975" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="1" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125382" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="2" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125411" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="3" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125632" />
+        </Book>
+        <Book Series="Star Wars: Episode I: The Phantom Menace" Number="4" Volume="1999" Year="1999">
+            <Database Name="cv" Series="20929" Issue="125642" />
+        </Book>
         <Book Series="Star Wars: Age of Republic - Obi-Wan Kenobi" Number="1" Volume="2019"
             Year="2019">
             <Database Name="cv" Series="116265" Issue="696367" />
@@ -54,7 +68,18 @@
         <Book Series="Star Wars: Age of Republic - Jango Fett" Number="1" Volume="2019" Year="2019">
             <Database Name="cv" Series="116384" Issue="696955" />
         </Book>
-        <Book Series="Star Wars Film" Number="2" Volume="1" Year="None" />
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="1" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125383" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="2" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125981" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="3" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125960" />
+        </Book>
+        <Book Series="Star Wars: Episode II - Attack of the Clones" Number="4" Volume="2002" Year="2002">
+            <Database Name="cv" Series="20930" Issue="125962" />
+        </Book>
         <Book Series="Star Wars: Mace Windu" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="103834" Issue="617854" />
         </Book>
@@ -87,6 +112,18 @@
         </Book>
         <Book Series="Star Wars: Darth Maul - Son of Dathomir" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="106045" Issue="637523" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="1" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124934" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="2" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124955" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="3" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124956" />
+        </Book>
+        <Book Series="Star Wars: Episode III: Revenge of the Sith" Number="4" Volume="2006" Year="2006">
+            <Database Name="cv" Series="20852" Issue="124957" />
         </Book>
     </Books>
     <Matchers />
