@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Legion 004 - (Post Zero Hour)</Name>
-  <NumIssues>199</NumIssues>
+  <NumIssues>200</NumIssues>
   <Books>
     <Book Series="Legionnaires" Number="0" Volume="1993" Year="1994">
       <Database Name="cv" Series="4971" Issue="104728" />
@@ -83,6 +83,9 @@
     </Book>
     <Book Series="Legionnaires" Number="30" Volume="1993" Year="1995">
       <Database Name="cv" Series="4971" Issue="48448" />
+    </Book>
+    <Book Series="Superboy" Number="21" Volume="1994" Year="1995">
+      <Database Name="cv" Series="5261" Issue="41623" />
     </Book>
     <Book Series="Legion of Super-Heroes" Number="74" Volume="1989" Year="1995">
       <Database Name="cv" Series="4201" Issue="41681" />
