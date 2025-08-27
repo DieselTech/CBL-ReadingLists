@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>Part 1 - Road to Gang War</Name>
-    <NumIssues>51</NumIssues>
+    <NumIssues>53</NumIssues>
     <Source>Part 1 - Road to Gang War.txt</Source>
     <StartYear>2023</StartYear>
     <Books>
@@ -101,8 +101,14 @@
         <Book Series="Sensational She-Hulk" Number="10" Volume="2023" Year="2024">
             <Database Name="cv" Series="154199" Issue="1066701" />
         </Book>
-        <Book Series="Spider-Boy" Number="13" Volume="2024" Year="2025">
-            <Database Name="cv" Series="154415" Issue="1079279" />
+        <Book Series="Spider-Boy" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="154415" Issue="1027600" />
+        </Book>
+        <Book Series="Spider-Boy" Number="2" Volume="2024" Year="2024">
+            <Database Name="cv" Series="154415" Issue="1035962" />
+        </Book>
+        <Book Series="Spider-Boy" Number="3" Volume="2024" Year="2024">
+            <Database Name="cv" Series="154415" Issue="1042834" />
         </Book>
         <Book Series="Miles Morales: Spider-Man" Number="8" Volume="2022" Year="2023">
             <Database Name="cv" Series="146734" Issue="1000233" />
