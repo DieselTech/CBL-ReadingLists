@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2024 Part 9.3 Scattered Mutants (MG)</Name>
-    <NumIssues>100</NumIssues>
+    <NumIssues>126</NumIssues>
     <Books>
         <Book Series="Uncanny Avengers" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="153018" Issue="1008929" />
@@ -29,6 +29,12 @@
         </Book>
         <Book Series="Black Panther" Number="8" Volume="2023" Year="2024">
             <Database Name="cv" Series="151263" Issue="1040935" />
+        </Book>
+        <Book Series="Black Panther" Number="9" Volume="2023" Year="2024">
+            <Database Name="cv" Series="151263" Issue="1044775" />
+        </Book>
+        <Book Series="Black Panther" Number="10" Volume="2023" Year="2024">
+            <Database Name="cv" Series="151263" Issue="1048663" />
         </Book>
         <Book Series="Ghost Rider / Wolverine: Weapons of Vengeance – Alpha" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="152897" Issue="1006447" />
@@ -171,6 +177,21 @@
         <Book Series="Ms. Marvel: The New Mutant" Number="4" Volume="2023" Year="2024">
             <Database Name="cv" Series="153238" Issue="1031695" />
         </Book>
+        <Book Series="Venom" Number="23" Volume="2021" Year="2023">
+            <Database Name="cv" Series="140084" Issue="1003591" />
+        </Book>
+        <Book Series="Thunderbolts" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="155139" Issue="1033212" />
+        </Book>
+        <Book Series="Thunderbolts" Number="2" Volume="2024" Year="2024">
+            <Database Name="cv" Series="155139" Issue="1039588" />
+        </Book>
+        <Book Series="Thunderbolts" Number="3" Volume="2024" Year="2024">
+            <Database Name="cv" Series="155139" Issue="1044785" />
+        </Book>
+        <Book Series="Thunderbolts" Number="4" Volume="2024" Year="2024">
+            <Database Name="cv" Series="155139" Issue="1049283" />
+        </Book>
         <Book Series="Scarlet Witch" Number="6" Volume="2023" Year="2023">
             <Database Name="cv" Series="147226" Issue="1000238" />
         </Book>
@@ -188,6 +209,63 @@
         </Book>
         <Book Series="Avengers" Number="11" Volume="2023" Year="2024">
             <Database Name="cv" Series="150431" Issue="1047080" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="1" Volume="2023" Year="2023">
+            <Database Name="cv" Series="153118" Issue="1010047" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="2" Volume="2023" Year="2023">
+            <Database Name="cv" Series="153118" Issue="1018020" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="3" Volume="2023" Year="2023">
+            <Database Name="cv" Series="153118" Issue="1026548" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="4" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153118" Issue="1029685" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="5" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153118" Issue="1034339" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="6" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153118" Issue="1042221" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="7" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153118" Issue="1046267" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="8" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153118" Issue="1047949" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="9" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153118" Issue="1050572" />
+        </Book>
+        <Book Series="Roxxon Presents Thor" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157693" Issue="1051498" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="10" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153118" Issue="1053539" />
+        </Book>
+        <Book Series="Captain America" Number="7" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153610" Issue="1047081" />
+        </Book>
+        <Book Series="Captain America" Number="8" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153610" Issue="1050566" />
+        </Book>
+        <Book Series="Captain America" Number="9" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153610" Issue="1054372" />
+        </Book>
+        <Book Series="Captain America" Number="10" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153610" Issue="1060164" />
+        </Book>
+        <Book Series="Captain America" Number="11" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153610" Issue="1064203" />
+        </Book>
+        <Book Series="Captain America" Number="12" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153610" Issue="1068011" />
+        </Book>
+        <Book Series="Captain America" Number="13" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153610" Issue="1069414" />
+        </Book>
+        <Book Series="Captain America" Number="14" Volume="2023" Year="2024">
+            <Database Name="cv" Series="153610" Issue="1075678" />
         </Book>
         <Book Series="Thanos" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="154554" Issue="1028636" />
