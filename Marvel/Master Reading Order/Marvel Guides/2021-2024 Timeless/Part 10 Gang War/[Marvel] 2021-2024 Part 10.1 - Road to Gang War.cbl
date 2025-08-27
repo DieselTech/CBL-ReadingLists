@@ -2,27 +2,27 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>Part 1 - Road to Gang War</Name>
-    <NumIssues>51</NumIssues>
+    <NumIssues>53</NumIssues>
     <Source>Part 1 - Road to Gang War.txt</Source>
     <StartYear>2023</StartYear>
     <Books>
-        <Book Series="Amazing Spider-Man" Number="31" Volume="2022" Year="2023">
+        <Book Series="The Amazing Spider-Man" Number="31" Volume="2022" Year="2023">
             <Database Name="cv" Series="142577" Issue="1006196" />
             <Database Name="metron" Series="3249" Issue="72313" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="32" Volume="2022" Year="2023">
+        <Book Series="The Amazing Spider-Man" Number="32" Volume="2022" Year="2023">
             <Database Name="cv" Series="142577" Issue="1010043" />
             <Database Name="metron" Series="3249" Issue="73137" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="33" Volume="2022" Year="2023">
+        <Book Series="The Amazing Spider-Man" Number="33" Volume="2022" Year="2023">
             <Database Name="cv" Series="142577" Issue="1011776" />
             <Database Name="metron" Series="3249" Issue="73836" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="34" Volume="2022" Year="2023">
+        <Book Series="The Amazing Spider-Man" Number="34" Volume="2022" Year="2023">
             <Database Name="cv" Series="142577" Issue="1014905" />
             <Database Name="metron" Series="3249" Issue="74868" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="35" Volume="2022" Year="2023">
+        <Book Series="The Amazing Spider-Man" Number="35" Volume="2022" Year="2023">
             <Database Name="cv" Series="142577" Issue="1024040" />
             <Database Name="metron" Series="3249" Issue="76623" />
         </Book>
@@ -101,8 +101,14 @@
         <Book Series="Sensational She-Hulk" Number="10" Volume="2023" Year="2024">
             <Database Name="cv" Series="154199" Issue="1066701" />
         </Book>
-        <Book Series="Spider-Boy" Number="13" Volume="2024" Year="2025">
-            <Database Name="cv" Series="154415" Issue="1079279" />
+        <Book Series="Spider-Boy" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="154415" Issue="1027600" />
+        </Book>
+        <Book Series="Spider-Boy" Number="2" Volume="2024" Year="2024">
+            <Database Name="cv" Series="154415" Issue="1035962" />
+        </Book>
+        <Book Series="Spider-Boy" Number="3" Volume="2024" Year="2024">
+            <Database Name="cv" Series="154415" Issue="1042834" />
         </Book>
         <Book Series="Miles Morales: Spider-Man" Number="8" Volume="2022" Year="2023">
             <Database Name="cv" Series="146734" Issue="1000233" />
@@ -152,18 +158,18 @@
         <Book Series="Punisher" Number="2" Volume="2024" Year="2024">
             <Database Name="cv" Series="154552" Issue="1034343" />
         </Book>
-        <Book Series="The Sentry" Number="1" Volume="2024" Year="2024">
+        <Book Series="Sentry" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="155137" Issue="1033208" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="36" Volume="2022" Year="2023">
+        <Book Series="The Amazing Spider-Man" Number="36" Volume="2022" Year="2023">
             <Database Name="cv" Series="142577" Issue="1026543" />
             <Database Name="metron" Series="3249" Issue="77308" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="37" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="37" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1028625" />
             <Database Name="metron" Series="3249" Issue="78896" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="38" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="38" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1030890" />
             <Database Name="metron" Series="3249" Issue="86415" />
         </Book>

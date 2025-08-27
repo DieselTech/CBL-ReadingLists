@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>2021-2024 Part 11.2 Blood Hunt</Name>
-    <NumIssues>52</NumIssues>
+    <NumIssues>53</NumIssues>
     <Source>2021-2024 Part 11.2 Blood Hunt.txt</Source>
     <StartYear>2024</StartYear>
     <Books>
@@ -11,6 +11,9 @@
         </Book>
         <Book Series="Blood Hunt" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="157939" Issue="1053535" />
+        </Book>
+        <Book Series="Vengeance of the Moon Knight" Number="5" Volume="2024" Year="2024">
+            <Database Name="cv" Series="155872" Issue="1053545" />
         </Book>
         <Book Series="Fantastic Four" Number="21" Volume="2022" Year="2024">
             <Database Name="cv" Series="145912" Issue="1059113" />
