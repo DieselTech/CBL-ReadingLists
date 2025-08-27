@@ -150,13 +150,13 @@
         <Book Series="Giant-Size Thor" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="159322" Issue="1067242" />
         </Book>
-        <Book Series="Immortal Thor" Number="13" Volume="2023" Year="2024">
+        <Book Series="The Immortal Thor" Number="13" Volume="2023" Year="2024">
             <Database Name="cv" Series="153118" Issue="1065482" />
         </Book>
-        <Book Series="Immortal Thor" Number="14" Volume="2023" Year="2024">
+        <Book Series="The Immortal Thor" Number="14" Volume="2023" Year="2024">
             <Database Name="cv" Series="153118" Issue="1066699" />
         </Book>
-        <Book Series="Immortal Thor" Number="15" Volume="2023" Year="2024">
+        <Book Series="The Immortal Thor" Number="15" Volume="2023" Year="2024">
             <Database Name="cv" Series="153118" Issue="1068651" />
         </Book>
         <Book Series="Doctor Strange" Number="18" Volume="2023" Year="2024">
