@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>2021-2024 Part 11.3 Blood Hunt Aftermath</Name>
-    <NumIssues>34</NumIssues>
+    <NumIssues>52</NumIssues>
     <Source>2021-2024 Part 11.3 Blood Hunt Aftermath.txt</Source>
     <StartYear>2024</StartYear>
     <Books>
@@ -48,6 +48,54 @@
         <Book Series="Blood Hunters" Number="5" Volume="2024" Year="2025">
             <Database Name="cv" Series="159187" Issue="1083721" />
         </Book>
+        <Book Series="Incredible Hulk" Number="14" Volume="2023" Year="2024">
+            <Database Name="cv" Series="151522" Issue="1063230" />
+        </Book>
+        <Book Series="Incredible Hulk" Number="15" Volume="2023" Year="2024">
+            <Database Name="cv" Series="151522" Issue="1066301" />
+        </Book>
+        <Book Series="Incredible Hulk" Number="16" Volume="2023" Year="2024">
+            <Database Name="cv" Series="151522" Issue="1068652" />
+        </Book>
+        <Book Series="Incredible Hulk" Number="17" Volume="2023" Year="2024">
+            <Database Name="cv" Series="151522" Issue="1070132" />
+        </Book>
+        <Book Series="Incredible Hulk" Number="18" Volume="2023" Year="2024">
+            <Database Name="cv" Series="151522" Issue="1074677" />
+        </Book>
+        <Book Series="Incredible Hulk" Number="19" Volume="2023" Year="2025">
+            <Database Name="cv" Series="151522" Issue="1079276" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="159242" Issue="1066710" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="2" Volume="2024" Year="2024">
+            <Database Name="cv" Series="159242" Issue="1071613" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="3" Volume="2024" Year="2024">
+            <Database Name="cv" Series="159242" Issue="1074685" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="4" Volume="2024" Year="2025">
+            <Database Name="cv" Series="159242" Issue="1077653" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="5" Volume="2024" Year="2025">
+            <Database Name="cv" Series="159242" Issue="1080301" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="6" Volume="2024" Year="2025">
+            <Database Name="cv" Series="159242" Issue="1088580" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="7" Volume="2024" Year="2025">
+            <Database Name="cv" Series="159242" Issue="1096445" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="8" Volume="2024" Year="2025">
+            <Database Name="cv" Series="159242" Issue="1099547" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="9" Volume="2024" Year="2025">
+            <Database Name="cv" Series="159242" Issue="1106243" />
+        </Book>
+        <Book Series="Werewolf by Night: Red Band" Number="10" Volume="2024" Year="2025">
+            <Database Name="cv" Series="159242" Issue="1112971" />
+        </Book>
         <Book Series="Miles Morales: Spider-Man" Number="23" Volume="2022" Year="2024">
             <Database Name="cv" Series="146734" Issue="1066700" />
         </Book>
@@ -69,29 +117,35 @@
         <Book Series="Miles Morales: Spider-Man" Number="29" Volume="2022" Year="2025">
             <Database Name="cv" Series="146734" Issue="1090272" />
         </Book>
+        <Book Series="Deadpool" Number="7" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157504" Issue="1072213" />
+        </Book>
+        <Book Series="Deadpool" Number="8" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157504" Issue="1077642" />
+        </Book>
+        <Book Series="Deadpool" Number="9" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157504" Issue="1083726" />
+        </Book>
+        <Book Series="Deadpool" Number="10" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157504" Issue="1092967" />
+        </Book>
+        <Book Series="Deadpool" Number="11" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157504" Issue="1095598" />
+        </Book>
+        <Book Series="Miles Morales: Spider-Man" Number="30" Volume="2022" Year="2025">
+            <Database Name="cv" Series="146734" Issue="1096441" />
+        </Book>
+        <Book Series="Deadpool" Number="12" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157504" Issue="1098340" />
+        </Book>
+        <Book Series="Miles Morales: Spider-Man" Number="31" Volume="2022" Year="2025">
+            <Database Name="cv" Series="146734" Issue="1099502" />
+        </Book>
         <Book Series="Captain America" Number="15" Volume="2023" Year="2025">
             <Database Name="cv" Series="153610" Issue="1077640" />
         </Book>
         <Book Series="Captain America" Number="16" Volume="2023" Year="2025">
             <Database Name="cv" Series="153610" Issue="1083723" />
-        </Book>
-        <Book Series="Incredible Hulk" Number="14" Volume="2023" Year="2024">
-            <Database Name="cv" Series="151522" Issue="1063230" />
-        </Book>
-        <Book Series="Incredible Hulk" Number="15" Volume="2023" Year="2024">
-            <Database Name="cv" Series="151522" Issue="1066301" />
-        </Book>
-        <Book Series="Incredible Hulk" Number="16" Volume="2023" Year="2024">
-            <Database Name="cv" Series="151522" Issue="1068652" />
-        </Book>
-        <Book Series="Incredible Hulk" Number="17" Volume="2023" Year="2024">
-            <Database Name="cv" Series="151522" Issue="1070132" />
-        </Book>
-        <Book Series="Incredible Hulk" Number="18" Volume="2023" Year="2024">
-            <Database Name="cv" Series="151522" Issue="1074677" />
-        </Book>
-        <Book Series="Incredible Hulk" Number="19" Volume="2023" Year="2025">
-            <Database Name="cv" Series="151522" Issue="1079276" />
         </Book>
         <Book Series="Giant-Size Thor" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="159322" Issue="1067242" />
