@@ -6,11 +6,11 @@
     <Source>Part 4 - Gang War Aftermath.txt</Source>
     <StartYear>2023</StartYear>
     <Books>
-        <Book Series="Amazing Spider-Man" Number="45" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="45" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1047934" />
             <Database Name="metron" Series="3249" Issue="113753" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="46" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="46" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1049269" />
             <Database Name="metron" Series="3249" Issue="114795" />
         </Book>
@@ -41,7 +41,7 @@
         <Book Series="Jackpot &amp; Black Cat" Number="4" Volume="2024" Year="2024">
             <Database Name="cv" Series="157398" Issue="1060857" />
         </Book>
-        <Book Series="Hallows&#39; Eve: The Big Night" Number="1" Volume="2023" Year="2023">
+        <Book Series="Hallows' Eve: The Big Night" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="154292" Issue="1026547" />
         </Book>
         <Book Series="Ghost Rider Annual" Number="1" Volume="2023" Year="2023">
@@ -155,12 +155,13 @@
         <Book Series="Miles Morales: Spider-Man" Number="19" Volume="2022" Year="2024">
             <Database Name="cv" Series="146734" Issue="1051497" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="47" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="47" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1051119" />
             <Database Name="metron" Series="3249" Issue="115248" />
         </Book>
-        <Book Series="Amazing Spider-Man" Number="48" Volume="2022" Year="2024">
+        <Book Series="The Amazing Spider-Man" Number="48" Volume="2022" Year="2024">
             <Database Name="metron" Series="3249" Issue="115894" />
+            <Database Name="cv" Series="142577" Issue="1052551" />
         </Book>
     </Books>
     <Matchers />
