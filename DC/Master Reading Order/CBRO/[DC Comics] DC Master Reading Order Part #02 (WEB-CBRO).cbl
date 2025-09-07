@@ -856,7 +856,7 @@
 <Database Name="cv" Series="19967" Issue="119383" />
 </Book>
 <Book Series="Batman: The Cult" Number="1" Volume="1988" Year="1991">
-<Database Name="cv" Series="3979" Issue="276341" />
+<Database Name="cv" Series="3979" Issue="28995" />
 </Book>
 <Book Series="Batman: The Cult" Number="2" Volume="1988" Year="1988">
 <Database Name="cv" Series="3979" Issue="29013" />
