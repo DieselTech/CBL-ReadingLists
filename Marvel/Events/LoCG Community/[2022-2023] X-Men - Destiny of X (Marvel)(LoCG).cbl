@@ -349,7 +349,7 @@
 <Database Name="cv" Series="153608" Issue="1014914" />
 </Book>
 <Book Series="X-Terminators" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="149797" Issue="985810" />
+<Database Name="cv" Series="145163" Issue="948121" />
 </Book>
 <Book Series="X-Terminators" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="145163" Issue="952307" />
