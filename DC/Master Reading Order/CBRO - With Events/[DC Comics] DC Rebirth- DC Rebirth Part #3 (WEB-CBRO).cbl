@@ -723,8 +723,8 @@
 <Book Series="Lois Lane" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120013" Issue="712954" />
 </Book>
-<Book Series="Lois Lane" Number="2" Volume="1986" Year="1986">
-<Database Name="cv" Series="3609" Issue="27202" />
+<Book Series="Lois Lane" Number="2" Volume="2019" Year="2019">
+<Database Name="cv" Series="120013" Issue="715221" />
 </Book>
 <Book Series="Lois Lane" Number="3" Volume="2019" Year="2019">
 <Database Name="cv" Series="120013" Issue="717925" />
