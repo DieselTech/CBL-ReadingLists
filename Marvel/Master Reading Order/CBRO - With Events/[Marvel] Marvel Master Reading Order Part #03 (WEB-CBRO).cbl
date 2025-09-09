@@ -414,39 +414,6 @@
 <Book Series="Silver Surfer" Number="1" Volume="1982" Year="1982">
 <Database Name="cv" Series="22808" Issue="136832" />
 </Book>
-<Book Series="Iron Man" Number="160" Volume="1968" Year="1982">
-<Database Name="cv" Series="2407" Issue="22302" />
-</Book>
-<Book Series="Iron Man" Number="161" Volume="1968" Year="1982">
-<Database Name="cv" Series="2407" Issue="22377" />
-</Book>
-<Book Series="Iron Man" Number="162" Volume="1968" Year="1982">
-<Database Name="cv" Series="2407" Issue="22446" />
-</Book>
-<Book Series="Iron Man" Number="163" Volume="1968" Year="1982">
-<Database Name="cv" Series="2407" Issue="22523" />
-</Book>
-<Book Series="Iron Man" Number="164" Volume="1968" Year="1982">
-<Database Name="cv" Series="2407" Issue="22594" />
-</Book>
-<Book Series="Iron Man" Number="165" Volume="1968" Year="1982">
-<Database Name="cv" Series="2407" Issue="22674" />
-</Book>
-<Book Series="Iron Man" Number="166" Volume="1968" Year="1983">
-<Database Name="cv" Series="2407" Issue="22793" />
-</Book>
-<Book Series="Iron Man" Number="167" Volume="1968" Year="1983">
-<Database Name="cv" Series="2407" Issue="22866" />
-</Book>
-<Book Series="Iron Man" Number="168" Volume="1968" Year="1983">
-<Database Name="cv" Series="2407" Issue="22951" />
-</Book>
-<Book Series="Iron Man" Number="169" Volume="1968" Year="1983">
-<Database Name="cv" Series="2407" Issue="23035" />
-</Book>
-<Book Series="Iron Man" Number="170" Volume="1968" Year="1983">
-<Database Name="cv" Series="2407" Issue="111376" />
-</Book>
 <Book Series="The Avengers" Number="211" Volume="1963" Year="1981">
 <Database Name="cv" Series="2128" Issue="21505" />
 </Book>
@@ -506,6 +473,39 @@
 </Book>
 <Book Series="The Avengers" Number="230" Volume="1963" Year="1983">
 <Database Name="cv" Series="2128" Issue="23022" />
+</Book>
+<Book Series="Iron Man" Number="160" Volume="1968" Year="1982">
+<Database Name="cv" Series="2407" Issue="22302" />
+</Book>
+<Book Series="Iron Man" Number="161" Volume="1968" Year="1982">
+<Database Name="cv" Series="2407" Issue="22377" />
+</Book>
+<Book Series="Iron Man" Number="162" Volume="1968" Year="1982">
+<Database Name="cv" Series="2407" Issue="22446" />
+</Book>
+<Book Series="Iron Man" Number="163" Volume="1968" Year="1982">
+<Database Name="cv" Series="2407" Issue="22523" />
+</Book>
+<Book Series="Iron Man" Number="164" Volume="1968" Year="1982">
+<Database Name="cv" Series="2407" Issue="22594" />
+</Book>
+<Book Series="Iron Man" Number="165" Volume="1968" Year="1982">
+<Database Name="cv" Series="2407" Issue="22674" />
+</Book>
+<Book Series="Iron Man" Number="166" Volume="1968" Year="1983">
+<Database Name="cv" Series="2407" Issue="22793" />
+</Book>
+<Book Series="Iron Man" Number="167" Volume="1968" Year="1983">
+<Database Name="cv" Series="2407" Issue="22866" />
+</Book>
+<Book Series="Iron Man" Number="168" Volume="1968" Year="1983">
+<Database Name="cv" Series="2407" Issue="22951" />
+</Book>
+<Book Series="Iron Man" Number="169" Volume="1968" Year="1983">
+<Database Name="cv" Series="2407" Issue="23035" />
+</Book>
+<Book Series="Iron Man" Number="170" Volume="1968" Year="1983">
+<Database Name="cv" Series="2407" Issue="111376" />
 </Book>
 <Book Series="Rom" Number="34" Volume="1979" Year="1982">
 <Database Name="cv" Series="3010" Issue="22457" />
