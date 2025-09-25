@@ -15,8 +15,8 @@
 <Book Series="Superman/Batman Annual" Number="5" Volume="2006" Year="2011">
 <Database Name="cv" Series="19020" Issue="267552" />
 </Book>
-<Book Series="Superboy" Number="6" Volume="2011" Year="2012">
-<Database Name="cv" Series="42685" Issue="314976" />
+<Book Series="Superboy" Number="6" Volume="2010" Year="2011">
+<Database Name="cv" Series="36387" Issue="268207" />
 </Book>
 <Book Series="Action Comics" Number="900" Volume="1938" Year="2011">
 <Database Name="cv" Series="18005" Issue="268931" />
