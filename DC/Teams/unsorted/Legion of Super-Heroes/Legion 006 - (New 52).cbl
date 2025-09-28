@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Legion 006 - (New 52)</Name>
-  <NumIssues>52</NumIssues>
+  <NumIssues>53</NumIssues>
   <Books>
     <Book Series="Legion of Super-Heroes" Number="1" Volume="2011" Year="2011">
       <Database Name="cv" Series="42952" Issue="293301" />
@@ -122,6 +122,9 @@
     </Book>
     <Book Series="Legion of Super-Heroes" Number="16" Volume="2011" Year="2013">
       <Database Name="cv" Series="42952" Issue="381377" />
+    </Book>
+    <Book Series="Legion of Super-Heroes" Number="17" Volume="2011" Year="2013">
+      <Database Name="cv" Series="42952" Issue="387221" />
     </Book>
     <Book Series="Legion of Super-Heroes" Number="18" Volume="2011" Year="2013">
       <Database Name="cv" Series="42952" Issue="394662" />
