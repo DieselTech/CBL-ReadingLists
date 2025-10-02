@@ -526,7 +526,7 @@
 <Database Name="cv" Series="146986" Issue="960977" />
 </Book>
 <Book Series="Dark Web: Ms. Marvel" Number="2" Volume="2022" Year="2023">
-<Database Name="cv" Series="146986" Issue="146735" />
+<Database Name="cv" Series="146986" Issue="963978" />
 </Book>
 <Book Series="Dark Web: Finale" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="147905" Issue="967787" />
