@@ -492,7 +492,7 @@
 <Book Series="The Transformers: Robots in Disguise" Number="9" Volume="2012" Year="2012">
 <Database Name="cv" Series="45397" Issue="355831" />
 </Book>
-<Book Series="The Transformers: More Than Meets The Eye Annual 2012" Number="2012" Volume="2012" Year="2012">
+<Book Series="The Transformers: More Than Meets The Eye Annual 2012" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="52054" Issue="356754" />
 </Book>
 <Book Series="The Transformers: Robots in Disguise Annual 2012" Number="1" Volume="2012" Year="2012">
