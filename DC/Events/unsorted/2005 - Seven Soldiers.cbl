@@ -6,9 +6,6 @@
 <Book Series="Seven Soldiers" Number="0" Volume="2005" Year="2005">
 <Database Name="cv" Series="18436" Issue="108158" />
 </Book>
-<Book Series="Seven Soldiers" Number="1" Volume="2005" Year="2006">
-<Database Name="cv" Series="18436" Issue="108596" />
-</Book>
 <Book Series="Seven Soldiers: Bulleteer" Number="1" Volume="2005" Year="2006">
 <Database Name="cv" Series="18520" Issue="108707" />
 </Book>
@@ -92,6 +89,9 @@
 </Book>
 <Book Series="Seven Soldiers: Zatanna" Number="4" Volume="2005" Year="2005">
 <Database Name="cv" Series="18517" Issue="108868" />
+</Book>
+<Book Series="Seven Soldiers" Number="1" Volume="2005" Year="2006">
+<Database Name="cv" Series="18436" Issue="108596" />
 </Book>
 </Books>
 <Matchers />
