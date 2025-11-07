@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>2021-2024 Part 11.1 Road to Blood Hunt</Name>
-    <NumIssues>71</NumIssues>
+    <Name>[Marvel] 2021-2024 Part 11.1 Road to Blood Hunt (MG)</Name>
+    <NumIssues>90</NumIssues>
     <Source>2021-2024 Part 11.1 Road to Blood Hunt.txt</Source>
     <StartYear>2023</StartYear>
     <Books>
@@ -94,6 +94,18 @@
         <Book Series="Ghost Rider: Final Vengeance" Number="3" Volume="2024" Year="2024">
             <Database Name="cv" Series="157214" Issue="1056204" />
         </Book>
+        <Book Series="Hellverine" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="158297" Issue="1057003" />
+        </Book>
+        <Book Series="Hellverine" Number="2" Volume="2024" Year="2024">
+            <Database Name="cv" Series="158297" Issue="1060856" />
+        </Book>
+        <Book Series="Hellverine" Number="3" Volume="2024" Year="2024">
+            <Database Name="cv" Series="158297" Issue="1065481" />
+        </Book>
+        <Book Series="Hellverine" Number="4" Volume="2024" Year="2024">
+            <Database Name="cv" Series="158297" Issue="1066698" />
+        </Book>
         <Book Series="Incredible Hulk" Number="6" Volume="2023" Year="2024">
             <Database Name="cv" Series="151522" Issue="1030785" />
         </Book>
@@ -165,10 +177,55 @@
         <Book Series="G.O.D.S." Number="8" Volume="2023" Year="2024">
             <Database Name="cv" Series="153860" Issue="1059114" />
         </Book>
-        <Book Series="Immortal Thor" Number="11" Volume="2023" Year="2024">
+        <Book Series="The Spectacular Spider-Men" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157126" Issue="1047088" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="2" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157126" Issue="1051499" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="3" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157126" Issue="1056209" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="4" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157126" Issue="1060858" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="5" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157126" Issue="1063236" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="6" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157126" Issue="1066302" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="7" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157126" Issue="1068659" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="8" Volume="2024" Year="2024">
+            <Database Name="cv" Series="157126" Issue="1073889" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="9" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157126" Issue="1077645" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="10" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157126" Issue="1083734" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="11" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157126" Issue="1088574" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="12" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157126" Issue="1094614" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="13" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157126" Issue="1097723" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="14" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157126" Issue="1104106" />
+        </Book>
+        <Book Series="The Spectacular Spider-Men" Number="15" Volume="2024" Year="2025">
+            <Database Name="cv" Series="157126" Issue="1109658" />
+        </Book>
+        <Book Series="The Immortal Thor" Number="11" Volume="2023" Year="2024">
             <Database Name="cv" Series="153118" Issue="1056205" />
         </Book>
-        <Book Series="Immortal Thor" Number="12" Volume="2023" Year="2024">
+        <Book Series="The Immortal Thor" Number="12" Volume="2023" Year="2024">
             <Database Name="cv" Series="153118" Issue="1060169" />
         </Book>
         <Book Series="White Widow" Number="1" Volume="2024" Year="2024">
