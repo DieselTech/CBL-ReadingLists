@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Name>2021-2024 Part 12.1 Road to Venom War</Name>
-    <NumIssues>16</NumIssues>
+    <Name>[Marvel] 2021-2024 Part 12.1 Road to Venom War (MG)</Name>
+    <NumIssues>20</NumIssues>
     <Source>2021-2024 Part 12.1 Road to Venom War.txt</Source>
     <StartYear>2024</StartYear>
     <Books>
@@ -42,6 +42,18 @@
         </Book>
         <Book Series="Amazing Spider-Man" Number="60" Volume="2022" Year="2024">
             <Database Name="cv" Series="142577" Issue="1075676" />
+        </Book>
+        <Book Series="Venomverse Reborn" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="158545" Issue="1060180" />
+        </Book>
+        <Book Series="Venomverse Reborn" Number="2" Volume="2024" Year="2024">
+            <Database Name="cv" Series="158545" Issue="1064211" />
+        </Book>
+        <Book Series="Venomverse Reborn" Number="3" Volume="2024" Year="2024">
+            <Database Name="cv" Series="158545" Issue="1067990" />
+        </Book>
+        <Book Series="Venomverse Reborn" Number="4" Volume="2024" Year="2024">
+            <Database Name="cv" Series="158545" Issue="1069427" />
         </Book>
         <Book Series="Carnage" Number="7" Volume="2024" Year="2024">
             <Database Name="cv" Series="154836" Issue="1055023" />
