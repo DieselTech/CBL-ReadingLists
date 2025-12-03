@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Image] [2023-Present] Energon Universe (CBH)</Name>
-<NumIssues>60</NumIssues>
+<NumIssues>80</NumIssues>
 <Books>
 <Book Series="Void Rivals" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="151301" Issue="994693" />
@@ -74,6 +74,9 @@
 </Book>
 <Book Series="Duke" Number="5" Volume="2023" Year="2024">
 <Database Name="cv" Series="155730" Issue="1052962" />
+</Book>
+<Book Series="Energon Universe 2024 Special" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="158087" Issue="1054499" />
 </Book>
 <Book Series="Transformers" Number="8" Volume="2023" Year="2024">
 <Database Name="cv" Series="153968" Issue="1054522" />
@@ -182,6 +185,63 @@
 </Book>
 <Book Series="G.I. Joe" Number="5" Volume="2024" Year="2025">
 <Database Name="cv" Series="161047" Issue="1099491" />
+</Book>
+<Book Series="Void Rivals" Number="18" Volume="2023" Year="2025">
+<Database Name="cv" Series="151301" Issue="1107389" />
+</Book>
+<Book Series="Energon Universe 2025 Special" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="164329" Issue="1109700" />
+</Book>
+<Book Series="Transformers" Number="19" Volume="2023" Year="2025">
+<Database Name="cv" Series="153968" Issue="1102563" />
+</Book>
+<Book Series="G.I. Joe" Number="6" Volume="2024" Year="2025">
+<Database Name="cv" Series="161047" Issue="1106214" />
+</Book>
+<Book Series="Transformers" Number="20" Volume="2023" Year="2025">
+<Database Name="cv" Series="153968" Issue="1109727" />
+</Book>
+<Book Series="Void Rivals" Number="19" Volume="2023" Year="2025">
+<Database Name="cv" Series="151301" Issue="1113030" />
+</Book>
+<Book Series="G.I. Joe" Number="7" Volume="2024" Year="2025">
+<Database Name="cv" Series="161047" Issue="1113001" />
+</Book>
+<Book Series="Transformers" Number="21" Volume="2023" Year="2025">
+<Database Name="cv" Series="153968" Issue="1115842" />
+</Book>
+<Book Series="G.I. Joe" Number="8" Volume="2024" Year="2025">
+<Database Name="cv" Series="161047" Issue="1116402" />
+</Book>
+<Book Series="Void Rivals" Number="20" Volume="2023" Year="2025">
+<Database Name="cv" Series="151301" Issue="1116925" />
+</Book>
+<Book Series="Transformers" Number="22" Volume="2023" Year="2025">
+<Database Name="cv" Series="153968" Issue="1119185" />
+</Book>
+<Book Series="G.I. Joe" Number="9" Volume="2024" Year="2025">
+<Database Name="cv" Series="161047" Issue="1120472" />
+</Book>
+<Book Series="Void Rivals" Number="21" Volume="2023" Year="2025">
+<Database Name="cv" Series="151301" Issue="1121853" />
+</Book>
+<Book Series="Transformers" Number="23" Volume="2023" Year="2025">
+<Database Name="cv" Series="153968" Issue="1125877" />
+</Book>
+<Book Series="G.I. Joe" Number="10" Volume="2024" Year="2025">
+<Database Name="cv" Series="161047" Issue="1127205" />
+</Book>
+<Book Series="Void Rivals" Number="22" Volume="2023" Year="2025">
+<Database Name="cv" Series="151301" Issue="1128972" />
+</Book>
+<Book Series="Transformers" Number="24" Volume="2023" Year="2025">
+<Database Name="cv" Series="153968" Issue="1132021" />
+</Book>
+<Book Series="G.I. Joe" Number="11" Volume="2024" Year="2025">
+<Database Name="cv" Series="161047" Issue="1133812" />
+</Book>
+<Book Series="Void Rivals" Number="23" Volume="2023" Year="2025">
+<Database Name="cv" Series="151301" Issue="1135132" />
 </Book>
 </Books>
 <Matchers />
