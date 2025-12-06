@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] [2008-2016] Jonathan Hickman_ The Marvel Saga</Name>
-<NumIssues>230</NumIssues>
+<Name>[Marvel] [2009-2016] Jonathan Hickman's Marvel no Events (WEB-CBRO)</Name>
+<NumIssues>233</NumIssues>
 <Books>
 <Book Series="Dark Reign: New Nation" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="24870" Issue="146783" />
@@ -23,6 +23,24 @@
 </Book>
 <Book Series="Secret Warriors" Number="6" Volume="2009" Year="2009">
 <Database Name="cv" Series="25640" Issue="165437" />
+</Book>
+<Book Series="Dark Reign: Fantastic Four" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="25905" Issue="153086" />
+</Book>
+<Book Series="Dark Reign: Fantastic Four" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="25905" Issue="154458" />
+</Book>
+<Book Series="Dark Reign: Fantastic Four" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="25905" Issue="157851" />
+</Book>
+<Book Series="Dark Reign: Fantastic Four" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="25905" Issue="160863" />
+</Book>
+<Book Series="Dark Reign: Fantastic Four" Number="5" Volume="2009" Year="2009">
+<Database Name="cv" Series="25905" Issue="164984" />
+</Book>
+<Book Series="Dark Reign: The Cabal" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26305" Issue="156209" />
 </Book>
 <Book Series="Secret Warriors" Number="7" Volume="2009" Year="2009">
 <Database Name="cv" Series="25640" Issue="168311" />
@@ -57,84 +75,6 @@
 <Book Series="Secret Warriors" Number="16" Volume="2009" Year="2010">
 <Database Name="cv" Series="25640" Issue="216235" />
 </Book>
-<Book Series="Siege: Secret Warriors" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="32779" Issue="210241" />
-</Book>
-<Book Series="Secret Warriors" Number="17" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="220790" />
-</Book>
-<Book Series="Secret Warriors" Number="18" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="227807" />
-</Book>
-<Book Series="Secret Warriors" Number="19" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="231670" />
-</Book>
-<Book Series="Secret Warriors" Number="20" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="236356" />
-</Book>
-<Book Series="Secret Warriors" Number="21" Volume="2009" Year="2010">
-<Database Name="cv" Series="25640" Issue="240291" />
-</Book>
-<Book Series="Secret Warriors" Number="22" Volume="2009" Year="2011">
-<Database Name="cv" Series="25640" Issue="246617" />
-</Book>
-<Book Series="Secret Warriors" Number="23" Volume="2009" Year="2011">
-<Database Name="cv" Series="25640" Issue="253002" />
-</Book>
-<Book Series="Secret Warriors" Number="24" Volume="2009" Year="2011">
-<Database Name="cv" Series="25640" Issue="261341" />
-</Book>
-<Book Series="Secret Warriors" Number="25" Volume="2009" Year="2011">
-<Database Name="cv" Series="25640" Issue="264593" />
-</Book>
-<Book Series="Secret Warriors" Number="26" Volume="2009" Year="2011">
-<Database Name="cv" Series="25640" Issue="268371" />
-</Book>
-<Book Series="Secret Warriors" Number="27" Volume="2009" Year="2011">
-<Database Name="cv" Series="25640" Issue="271600" />
-</Book>
-<Book Series="Secret Warriors" Number="28" Volume="2009" Year="2011">
-<Database Name="cv" Series="25640" Issue="281842" />
-</Book>
-<Book Series="S.H.I.E.L.D." Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="32430" Issue="204514" />
-</Book>
-<Book Series="S.H.I.E.L.D." Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="32430" Issue="218552" />
-</Book>
-<Book Series="S.H.I.E.L.D." Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="32430" Issue="227823" />
-</Book>
-<Book Series="S.H.I.E.L.D." Number="4" Volume="2010" Year="2010">
-<Database Name="cv" Series="32430" Issue="237112" />
-</Book>
-<Book Series="S.H.I.E.L.D." Number="5" Volume="2010" Year="2011">
-<Database Name="cv" Series="32430" Issue="253654" />
-</Book>
-<Book Series="S.H.I.E.L.D." Number="6" Volume="2010" Year="2011">
-<Database Name="cv" Series="32430" Issue="262808" />
-</Book>
-<Book Series="S.H.I.E.L.D." Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="40434" Issue="272466" />
-</Book>
-<Book Series="Dark Reign: Fantastic Four" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="25905" Issue="153086" />
-</Book>
-<Book Series="Dark Reign: Fantastic Four" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="25905" Issue="154458" />
-</Book>
-<Book Series="Dark Reign: Fantastic Four" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="25905" Issue="157851" />
-</Book>
-<Book Series="Dark Reign: Fantastic Four" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="25905" Issue="160863" />
-</Book>
-<Book Series="Dark Reign: Fantastic Four" Number="5" Volume="2009" Year="2009">
-<Database Name="cv" Series="25905" Issue="164984" />
-</Book>
-<Book Series="Dark Reign: The Cabal" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="26305" Issue="156209" />
-</Book>
 <Book Series="Fantastic Four" Number="570" Volume="1998" Year="2009">
 <Database Name="cv" Series="6211" Issue="168301" />
 </Book>
@@ -162,6 +102,24 @@
 <Book Series="Fantastic Four" Number="578" Volume="1998" Year="2010">
 <Database Name="cv" Series="6211" Issue="210635" />
 </Book>
+<Book Series="S.H.I.E.L.D." Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="32430" Issue="204514" />
+</Book>
+<Book Series="S.H.I.E.L.D." Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="32430" Issue="218552" />
+</Book>
+<Book Series="S.H.I.E.L.D." Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="32430" Issue="227823" />
+</Book>
+<Book Series="S.H.I.E.L.D." Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="32430" Issue="237112" />
+</Book>
+<Book Series="S.H.I.E.L.D." Number="5" Volume="2010" Year="2011">
+<Database Name="cv" Series="32430" Issue="253654" />
+</Book>
+<Book Series="S.H.I.E.L.D." Number="6" Volume="2010" Year="2011">
+<Database Name="cv" Series="32430" Issue="262808" />
+</Book>
 <Book Series="Fantastic Four" Number="579" Volume="1998" Year="2010">
 <Database Name="cv" Series="6211" Issue="216200" />
 </Book>
@@ -173,6 +131,27 @@
 </Book>
 <Book Series="Fantastic Four" Number="582" Volume="1998" Year="2010">
 <Database Name="cv" Series="6211" Issue="231706" />
+</Book>
+<Book Series="Siege: Secret Warriors" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="32779" Issue="210241" />
+</Book>
+<Book Series="Secret Warriors" Number="17" Volume="2009" Year="2010">
+<Database Name="cv" Series="25640" Issue="220790" />
+</Book>
+<Book Series="Secret Warriors" Number="18" Volume="2009" Year="2010">
+<Database Name="cv" Series="25640" Issue="227807" />
+</Book>
+<Book Series="Secret Warriors" Number="19" Volume="2009" Year="2010">
+<Database Name="cv" Series="25640" Issue="231670" />
+</Book>
+<Book Series="Secret Warriors" Number="20" Volume="2009" Year="2010">
+<Database Name="cv" Series="25640" Issue="236356" />
+</Book>
+<Book Series="Secret Warriors" Number="21" Volume="2009" Year="2010">
+<Database Name="cv" Series="25640" Issue="240291" />
+</Book>
+<Book Series="Secret Warriors" Number="22" Volume="2009" Year="2011">
+<Database Name="cv" Series="25640" Issue="246617" />
 </Book>
 <Book Series="Fantastic Four" Number="583" Volume="1998" Year="2010">
 <Database Name="cv" Series="6211" Issue="235446" />
@@ -192,6 +171,30 @@
 <Book Series="Fantastic Four" Number="588" Volume="1998" Year="2011">
 <Database Name="cv" Series="6211" Issue="263599" />
 </Book>
+<Book Series="Secret Warriors" Number="23" Volume="2009" Year="2011">
+<Database Name="cv" Series="25640" Issue="253002" />
+</Book>
+<Book Series="Secret Warriors" Number="24" Volume="2009" Year="2011">
+<Database Name="cv" Series="25640" Issue="261341" />
+</Book>
+<Book Series="Secret Warriors" Number="25" Volume="2009" Year="2011">
+<Database Name="cv" Series="25640" Issue="264593" />
+</Book>
+<Book Series="Secret Warriors" Number="26" Volume="2009" Year="2011">
+<Database Name="cv" Series="25640" Issue="268371" />
+</Book>
+<Book Series="Secret Warriors" Number="27" Volume="2009" Year="2011">
+<Database Name="cv" Series="25640" Issue="271600" />
+</Book>
+<Book Series="Secret Warriors" Number="28" Volume="2009" Year="2011">
+<Database Name="cv" Series="25640" Issue="281842" />
+</Book>
+<Book Series="S.H.I.E.L.D.: Infinity" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="112433" Issue="268515" />
+</Book>
+<Book Series="S.H.I.E.L.D." Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="40434" Issue="272466" />
+</Book>
 <Book Series="S.H.I.E.L.D." Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="40434" Issue="283866" />
 </Book>
@@ -201,10 +204,10 @@
 <Book Series="S.H.I.E.L.D." Number="4" Volume="2011" Year="2012">
 <Database Name="cv" Series="40434" Issue="306728" />
 </Book>
-<Book Series="S.H.I.E.L.D. by Hickman &#38; Weaver" Number="5" Volume="2018" Year="2018">
+<Book Series="S.H.I.E.L.D. by Hickman &amp; Weaver" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="111071" Issue="670754" />
 </Book>
-<Book Series="S.H.I.E.L.D. by Hickman &#38; Weaver" Number="6" Volume="2018" Year="2018">
+<Book Series="S.H.I.E.L.D. by Hickman &amp; Weaver" Number="6" Volume="2018" Year="2018">
 <Database Name="cv" Series="111071" Issue="673031" />
 </Book>
 <Book Series="FF" Number="1" Volume="2011" Year="2011">
@@ -273,6 +276,9 @@
 <Book Series="Fantastic Four" Number="605" Volume="1998" Year="2012">
 <Database Name="cv" Series="6211" Issue="329210" />
 </Book>
+<Book Series="Fantastic Four" Number="605.1" Volume="1998" Year="2012">
+<Database Name="cv" Series="6211" Issue="335951" />
+</Book>
 <Book Series="Fantastic Four" Number="606" Volume="1998" Year="2012">
 <Database Name="cv" Series="6211" Issue="336592" />
 </Book>
@@ -312,102 +318,6 @@
 <Book Series="FF" Number="23" Volume="2011" Year="2012">
 <Database Name="cv" Series="39453" Issue="363156" />
 </Book>
-<Book Series="Ultimate Thor" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="35919" Issue="237470" />
-</Book>
-<Book Series="Ultimate Thor" Number="2" Volume="2010" Year="2011">
-<Database Name="cv" Series="35919" Issue="242576" />
-</Book>
-<Book Series="Ultimate Thor" Number="3" Volume="2010" Year="2011">
-<Database Name="cv" Series="35919" Issue="253823" />
-</Book>
-<Book Series="Ultimate Thor" Number="4" Volume="2010" Year="2011">
-<Database Name="cv" Series="35919" Issue="259997" />
-</Book>
-<Book Series="Ultimate Fallout" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="41289" Issue="278807" />
-</Book>
-<Book Series="Ultimate Fallout" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="41289" Issue="280828" />
-</Book>
-<Book Series="Ultimate Fallout" Number="3" Volume="2011" Year="2011">
-<Database Name="cv" Series="41289" Issue="281840" />
-</Book>
-<Book Series="Ultimate Fallout" Number="4" Volume="2011" Year="2011">
-<Database Name="cv" Series="41289" Issue="283008" />
-</Book>
-<Book Series="Ultimate Fallout" Number="5" Volume="2011" Year="2011">
-<Database Name="cv" Series="41289" Issue="285563" />
-</Book>
-<Book Series="Ultimate Fallout" Number="6" Volume="2011" Year="2011">
-<Database Name="cv" Series="41289" Issue="286936" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="42322" Issue="288885" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="42322" Issue="293533" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="3" Volume="2011" Year="2011">
-<Database Name="cv" Series="42322" Issue="299760" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="4" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="304546" />
-</Book>
-<Book Series="Ultimate Comics Hawkeye" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="42462" Issue="290126" />
-</Book>
-<Book Series="Ultimate Comics Hawkeye" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="42462" Issue="293390" />
-</Book>
-<Book Series="Ultimate Comics Hawkeye" Number="3" Volume="2011" Year="2011">
-<Database Name="cv" Series="42462" Issue="297459" />
-</Book>
-<Book Series="Ultimate Comics Hawkeye" Number="4" Volume="2011" Year="2012">
-<Database Name="cv" Series="42462" Issue="303731" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="5" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="308919" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="6" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="312895" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="7" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="317967" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="8" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="325099" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="9" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="333428" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="10" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="335268" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="11" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="337516" />
-</Book>
-<Book Series="Ultimate Comics Ultimates" Number="12" Volume="2011" Year="2012">
-<Database Name="cv" Series="42322" Issue="342844" />
-</Book>
-<Book Series="Astonishing Tales: Mojoworld" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="34450" Issue="224900" />
-</Book>
-<Book Series="Astonishing Tales: Mojoworld" Number="2" Volume="2008" Year="2009">
-<Database Name="cv" Series="34450" Issue="224901" />
-</Book>
-<Book Series="Astonishing Tales: Mojoworld" Number="3" Volume="2008" Year="2009">
-<Database Name="cv" Series="34450" Issue="224902" />
-</Book>
-<Book Series="Astonishing Tales: Mojoworld" Number="4" Volume="2008" Year="2009">
-<Database Name="cv" Series="34450" Issue="224903" />
-</Book>
-<Book Series="Astonishing Tales: Mojoworld" Number="5" Volume="2008" Year="2009">
-<Database Name="cv" Series="34450" Issue="224904" />
-</Book>
-<Book Series="Astonishing Tales: Mojoworld" Number="6" Volume="2008" Year="2009">
-<Database Name="cv" Series="34450" Issue="224905" />
-</Book>
 <Book Series="New Avengers" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="376665" />
 </Book>
@@ -429,11 +339,11 @@
 <Book Series="Avengers" Number="4" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="382803" />
 </Book>
-<Book Series="New Avengers" Number="4" Volume="2013" Year="2013">
-<Database Name="cv" Series="55330" Issue="394709" />
-</Book>
 <Book Series="Avengers" Number="5" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="384953" />
+</Book>
+<Book Series="New Avengers" Number="4" Volume="2013" Year="2013">
+<Database Name="cv" Series="55330" Issue="394709" />
 </Book>
 <Book Series="New Avengers" Number="5" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="398990" />
@@ -459,77 +369,56 @@
 <Book Series="Avengers" Number="11" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="401202" />
 </Book>
+<Book Series="Thanos Rising" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="59511" Issue="395705" />
+</Book>
+<Book Series="Thanos Rising" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="59511" Issue="400153" />
+</Book>
+<Book Series="Thanos Rising" Number="3" Volume="2013" Year="2013">
+<Database Name="cv" Series="59511" Issue="409000" />
+</Book>
+<Book Series="Thanos Rising" Number="4" Volume="2013" Year="2013">
+<Database Name="cv" Series="59511" Issue="417844" />
+</Book>
+<Book Series="Thanos Rising" Number="5" Volume="2013" Year="2013">
+<Database Name="cv" Series="59511" Issue="423680" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="0.1" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="388557" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="395250" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="2" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="398986" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="3" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="410320" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="4" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="413659" />
+</Book>
 <Book Series="Avengers" Number="12" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="404693" />
 </Book>
 <Book Series="Avengers" Number="13" Volume="2012" Year="2013">
 <Database Name="cv" Series="54428" Issue="408990" />
 </Book>
+<Book Series="Guardians of the Galaxy" Number="5" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="419969" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="6" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="426876" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="7" Volume="2013" Year="2013">
+<Database Name="cv" Series="57960" Issue="428859" />
+</Book>
 <Book Series="New Avengers" Number="7" Volume="2013" Year="2013">
 <Database Name="cv" Series="55330" Issue="411831" />
 </Book>
-<Book Series="Avengers" Number="14" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="411825" />
-</Book>
-<Book Series="Avengers" Number="15" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="415233" />
-</Book>
-<Book Series="Avengers" Number="16" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="417831" />
-</Book>
-<Book Series="Avengers" Number="17" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="420634" />
-</Book>
-<Book Series="New Avengers" Number="8" Volume="2013" Year="2013">
-<Database Name="cv" Series="55330" Issue="418821" />
-</Book>
-<Book Series="Infinity" Number="1" Volume="2013" Year="2013">
-<Database Name="cv" Series="66319" Issue="421691" />
-</Book>
-<Book Series="Avengers" Number="18" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="422493" />
-</Book>
-<Book Series="New Avengers" Number="9" Volume="2013" Year="2013">
-<Database Name="cv" Series="55330" Issue="423677" />
-</Book>
-<Book Series="Infinity" Number="2" Volume="2013" Year="2013">
-<Database Name="cv" Series="66319" Issue="424535" />
-</Book>
-<Book Series="Avengers" Number="19" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="425022" />
-</Book>
-<Book Series="New Avengers" Number="10" Volume="2013" Year="2013">
-<Database Name="cv" Series="55330" Issue="425935" />
-</Book>
-<Book Series="Infinity" Number="3" Volume="2013" Year="2013">
-<Database Name="cv" Series="66319" Issue="425933" />
-</Book>
-<Book Series="Avengers" Number="20" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="426871" />
-</Book>
-<Book Series="Infinity" Number="4" Volume="2013" Year="2013">
-<Database Name="cv" Series="66319" Issue="428297" />
-</Book>
-<Book Series="Avengers" Number="21" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="428855" />
-</Book>
-<Book Series="New Avengers" Number="11" Volume="2013" Year="2013">
-<Database Name="cv" Series="55330" Issue="428865" />
-</Book>
-<Book Series="Infinity" Number="5" Volume="2013" Year="2013">
-<Database Name="cv" Series="66319" Issue="431441" />
-</Book>
-<Book Series="Avengers" Number="22" Volume="2012" Year="2013">
-<Database Name="cv" Series="54428" Issue="431435" />
-</Book>
-<Book Series="Avengers" Number="23" Volume="2012" Year="2014">
-<Database Name="cv" Series="54428" Issue="433840" />
-</Book>
-<Book Series="Infinity" Number="6" Volume="2013" Year="2014">
-<Database Name="cv" Series="66319" Issue="435055" />
-</Book>
-<Book Series="New Avengers" Number="12" Volume="2013" Year="2014">
-<Database Name="cv" Series="55330" Issue="435060" />
+<Book Series="Avengers" Number="24" Volume="2012" Year="2014">
+<Database Name="cv" Series="54428" Issue="438378" />
 </Book>
 <Book Series="New Avengers" Number="13" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="440250" />
@@ -540,8 +429,17 @@
 <Book Series="New Avengers" Number="15" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="447999" />
 </Book>
-<Book Series="Avengers" Number="24" Volume="2012" Year="2014">
-<Database Name="cv" Series="54428" Issue="438378" />
+<Book Series="Original Sin" Number="3.1" Volume="2014" Year="2014">
+<Database Name="cv" Series="73241" Issue="457647" />
+</Book>
+<Book Series="Original Sin" Number="3.2" Volume="2014" Year="2014">
+<Database Name="cv" Series="73241" Issue="459676" />
+</Book>
+<Book Series="Original Sin" Number="3.3" Volume="2014" Year="2014">
+<Database Name="cv" Series="73241" Issue="460970" />
+</Book>
+<Book Series="Original Sin" Number="3.4" Volume="2014" Year="2014">
+<Database Name="cv" Series="73241" Issue="461733" />
 </Book>
 <Book Series="Avengers" Number="25" Volume="2012" Year="2014">
 <Database Name="cv" Series="54428" Issue="442913" />
@@ -597,6 +495,147 @@
 <Book Series="New Avengers" Number="23" Volume="2013" Year="2014">
 <Database Name="cv" Series="55330" Issue="462896" />
 </Book>
+<Book Series="New Avengers Annual" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="75140" Issue="457645" />
+</Book>
+<Book Series="Ultimate Thor" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35919" Issue="237470" />
+</Book>
+<Book Series="Ultimate Thor" Number="2" Volume="2010" Year="2011">
+<Database Name="cv" Series="35919" Issue="242576" />
+</Book>
+<Book Series="Ultimate Thor" Number="3" Volume="2010" Year="2011">
+<Database Name="cv" Series="35919" Issue="253823" />
+</Book>
+<Book Series="Ultimate Thor" Number="4" Volume="2010" Year="2011">
+<Database Name="cv" Series="35919" Issue="259997" />
+</Book>
+<Book Series="Ultimate Fallout" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="41289" Issue="278807" />
+</Book>
+<Book Series="Ultimate Fallout" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="41289" Issue="280828" />
+</Book>
+<Book Series="Ultimate Fallout" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="41289" Issue="281840" />
+</Book>
+<Book Series="Ultimate Fallout" Number="4" Volume="2011" Year="2011">
+<Database Name="cv" Series="41289" Issue="283008" />
+</Book>
+<Book Series="Ultimate Fallout" Number="5" Volume="2011" Year="2011">
+<Database Name="cv" Series="41289" Issue="285563" />
+</Book>
+<Book Series="Ultimate Fallout" Number="6" Volume="2011" Year="2011">
+<Database Name="cv" Series="41289" Issue="286936" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="42322" Issue="288885" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="42322" Issue="293533" />
+</Book>
+<Book Series="Ultimate Comics Hawkeye" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="42462" Issue="290126" />
+</Book>
+<Book Series="Ultimate Comics Hawkeye" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="42462" Issue="293390" />
+</Book>
+<Book Series="Ultimate Comics Hawkeye" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="42462" Issue="297459" />
+</Book>
+<Book Series="Ultimate Comics Hawkeye" Number="4" Volume="2011" Year="2012">
+<Database Name="cv" Series="42462" Issue="303731" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="42322" Issue="299760" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="4" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="304546" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="5" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="308919" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="6" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="312895" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="7" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="317967" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="8" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="325099" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="9" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="333428" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="10" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="335268" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="11" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="337516" />
+</Book>
+<Book Series="Ultimate Comics Ultimates" Number="12" Volume="2011" Year="2012">
+<Database Name="cv" Series="42322" Issue="342844" />
+</Book>
+<Book Series="Avengers" Number="34.1" Volume="2012" Year="2014">
+<Database Name="cv" Series="54428" Issue="464974" />
+</Book>
+<Book Series="Avengers" Number="34.2" Volume="2012" Year="2015">
+<Database Name="cv" Series="54428" Issue="475931" />
+</Book>
+<Book Series="Captain America" Number="12" Volume="2013" Year="2013">
+<Database Name="cv" Series="54110" Issue="428294" />
+</Book>
+<Book Series="Captain America" Number="13" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="432323" />
+</Book>
+<Book Series="Captain America" Number="14" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="436194" />
+</Book>
+<Book Series="Captain America" Number="15" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="442917" />
+</Book>
+<Book Series="Captain America" Number="16" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="444530" />
+</Book>
+<Book Series="Captain America" Number="17" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="445810" />
+</Book>
+<Book Series="Captain America" Number="18" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="446990" />
+</Book>
+<Book Series="Captain America" Number="19" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="449589" />
+</Book>
+<Book Series="Captain America" Number="20" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="452848" />
+</Book>
+<Book Series="Inhuman" Number="7" Volume="2014" Year="2014">
+<Database Name="cv" Series="72791" Issue="468910" />
+</Book>
+<Book Series="Inhuman" Number="8" Volume="2014" Year="2015">
+<Database Name="cv" Series="72791" Issue="470429" />
+</Book>
+<Book Series="Superior Iron Man" Number="1" Volume="2014" Year="2015">
+<Database Name="cv" Series="78048" Issue="469843" />
+</Book>
+<Book Series="Superior Iron Man" Number="2" Volume="2014" Year="2015">
+<Database Name="cv" Series="78048" Issue="471325" />
+</Book>
+<Book Series="Superior Iron Man" Number="3" Volume="2014" Year="2015">
+<Database Name="cv" Series="78048" Issue="474636" />
+</Book>
+<Book Series="Thor" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="77223" Issue="466966" />
+</Book>
+<Book Series="Thor" Number="2" Volume="2014" Year="2015">
+<Database Name="cv" Series="77223" Issue="469844" />
+</Book>
+<Book Series="Thor" Number="3" Volume="2014" Year="2015">
+<Database Name="cv" Series="77223" Issue="472913" />
+</Book>
+<Book Series="Thor" Number="4" Volume="2014" Year="2015">
+<Database Name="cv" Series="77223" Issue="477856" />
+</Book>
 <Book Series="Avengers" Number="35" Volume="2012" Year="2014">
 <Database Name="cv" Series="54428" Issue="465837" />
 </Book>
@@ -651,41 +690,17 @@
 <Book Series="Avengers" Number="43" Volume="2012" Year="2015">
 <Database Name="cv" Series="54428" Issue="484889" />
 </Book>
+<Book Series="Miles Morales: Ultimate Spider-Man" Number="11" Volume="2014" Year="2015">
+<Database Name="cv" Series="73678" Issue="482158" />
+</Book>
+<Book Series="Miles Morales: Ultimate Spider-Man" Number="12" Volume="2014" Year="2015">
+<Database Name="cv" Series="73678" Issue="485517" />
+</Book>
 <Book Series="New Avengers" Number="33" Volume="2013" Year="2015">
 <Database Name="cv" Series="55330" Issue="487208" />
 </Book>
 <Book Series="Avengers" Number="44" Volume="2012" Year="2015">
 <Database Name="cv" Series="54428" Issue="487201" />
-</Book>
-<Book Series="Free Comic Book Day 2015 (Secret Wars)" Number="0" Volume="2015" Year="2015">
-<Database Name="cv" Series="81729" Issue="487501" />
-</Book>
-<Book Series="Secret Wars" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="81833" Issue="487843" />
-</Book>
-<Book Series="Secret Wars" Number="2" Volume="2015" Year="2015">
-<Database Name="cv" Series="81833" Issue="488656" />
-</Book>
-<Book Series="Secret Wars" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="81833" Issue="490887" />
-</Book>
-<Book Series="Secret Wars" Number="4" Volume="2015" Year="2015">
-<Database Name="cv" Series="81833" Issue="493798" />
-</Book>
-<Book Series="Secret Wars" Number="5" Volume="2015" Year="2015">
-<Database Name="cv" Series="81833" Issue="497397" />
-</Book>
-<Book Series="Secret Wars" Number="6" Volume="2015" Year="2015">
-<Database Name="cv" Series="81833" Issue="502130" />
-</Book>
-<Book Series="Secret Wars" Number="7" Volume="2015" Year="2016">
-<Database Name="cv" Series="81833" Issue="505522" />
-</Book>
-<Book Series="Secret Wars" Number="8" Volume="2015" Year="2016">
-<Database Name="cv" Series="81833" Issue="507780" />
-</Book>
-<Book Series="Secret Wars" Number="9" Volume="2015" Year="2016">
-<Database Name="cv" Series="81833" Issue="510951" />
 </Book>
 </Books>
 <Matchers />
