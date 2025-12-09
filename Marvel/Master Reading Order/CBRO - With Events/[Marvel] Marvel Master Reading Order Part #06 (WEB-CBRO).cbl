@@ -1323,8 +1323,8 @@
 <Book Series="Mutant X" Number="8" Volume="1998" Year="1999">
 <Database Name="cv" Series="6217" Issue="45835" />
 </Book>
-<Book Series="Mutant X 2001" Number="1" Volume="2001" Year="2001">
-<Database Name="cv" Series="39914" Issue="269228" />
+<Book Series="Mutant X 1999" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="20439" Issue="122365" />
 </Book>
 <Book Series="Mutant X" Number="9" Volume="1998" Year="1999">
 <Database Name="cv" Series="6217" Issue="45880" />
@@ -1395,8 +1395,8 @@
 <Book Series="Mutant X" Number="31" Volume="1998" Year="2001">
 <Database Name="cv" Series="6217" Issue="49448" />
 </Book>
-<Book Series="Mutant X 1999" Number="1" Volume="1999" Year="1999">
-<Database Name="cv" Series="20439" Issue="122365" />
+<Book Series="Mutant X 2001" Number="1" Volume="2001" Year="2001">
+<Database Name="cv" Series="39914" Issue="269228" />
 </Book>
 <Book Series="Mutant X" Number="32" Volume="1998" Year="2001">
 <Database Name="cv" Series="6217" Issue="49449" />
