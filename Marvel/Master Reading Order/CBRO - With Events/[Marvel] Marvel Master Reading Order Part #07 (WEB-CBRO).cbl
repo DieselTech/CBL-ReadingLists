@@ -1353,6 +1353,9 @@
 <Book Series="New X-Men" Number="13" Volume="2004" Year="2005">
 <Database Name="cv" Series="18078" Issue="106275" />
 </Book>
+<Book Series="The Uncanny X-Men" Number="460" Volume="1981" Year="2005">
+<Database Name="cv" Series="3092" Issue="106562" />
+</Book>
 <Book Series="The Uncanny X-Men" Number="461" Volume="1981" Year="2005">
 <Database Name="cv" Series="3092" Issue="106563" />
 </Book>
