@@ -1,22 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Heroic Age (WEB-CBRO)</Name>
-<NumIssues>109</NumIssues>
+<NumIssues>116</NumIssues>
 <Books>
+<Book Series="Avengers: Prime" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33495" Issue="217323" />
+</Book>
+<Book Series="Avengers: Prime" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="33495" Issue="227872" />
+</Book>
+<Book Series="Avengers: Prime" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="33495" Issue="236711" />
+</Book>
+<Book Series="Avengers: Prime" Number="4" Volume="2010" Year="2011">
+<Database Name="cv" Series="33495" Issue="242900" />
+</Book>
+<Book Series="Avengers: Prime" Number="5" Volume="2010" Year="2011">
+<Database Name="cv" Series="33495" Issue="254666" />
+</Book>
 <Book Series="Enter The Heroic Age" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33229" Issue="214815" />
-</Book>
-<Book Series="Age of Heroes" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="33241" Issue="214896" />
-</Book>
-<Book Series="Age of Heroes" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="33241" Issue="219600" />
-</Book>
-<Book Series="Age of Heroes" Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="33241" Issue="225780" />
-</Book>
-<Book Series="Age of Heroes" Number="4" Volume="2010" Year="2010">
-<Database Name="cv" Series="33241" Issue="230254" />
 </Book>
 <Book Series="The Heroic Age: Super Heroes" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35497" Issue="234657" />
@@ -50,21 +53,6 @@
 </Book>
 <Book Series="Heroic Age: Prince of Power" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="33092" Issue="231848" />
-</Book>
-<Book Series="Avengers: Prime" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="33495" Issue="217323" />
-</Book>
-<Book Series="Avengers: Prime" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="33495" Issue="227872" />
-</Book>
-<Book Series="Avengers: Prime" Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="33495" Issue="236711" />
-</Book>
-<Book Series="Avengers: Prime" Number="4" Volume="2010" Year="2011">
-<Database Name="cv" Series="33495" Issue="242900" />
-</Book>
-<Book Series="Avengers: Prime" Number="5" Volume="2010" Year="2011">
-<Database Name="cv" Series="33495" Issue="254666" />
 </Book>
 <Book Series="Avengers" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33227" Issue="214810" />
@@ -108,6 +96,12 @@
 <Book Series="New Avengers" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="33777" Issue="242246" />
 </Book>
+<Book Series="Vengeance of the Moon Knight" Number="9" Volume="2009" Year="2010">
+<Database Name="cv" Series="27914" Issue="218554" />
+</Book>
+<Book Series="Vengeance of the Moon Knight" Number="10" Volume="2009" Year="2010">
+<Database Name="cv" Series="27914" Issue="223487" />
+</Book>
 <Book Series="Secret Avengers" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33350" Issue="216182" />
 </Book>
@@ -122,6 +116,18 @@
 </Book>
 <Book Series="Secret Avengers" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="33350" Issue="235393" />
+</Book>
+<Book Series="Age of Heroes" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33241" Issue="214896" />
+</Book>
+<Book Series="Age of Heroes" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="33241" Issue="219600" />
+</Book>
+<Book Series="Age of Heroes" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="33241" Issue="225780" />
+</Book>
+<Book Series="Age of Heroes" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="33241" Issue="230254" />
 </Book>
 <Book Series="Hawkeye &amp; Mockingbird" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33513" Issue="217486" />
@@ -204,8 +210,8 @@
 <Book Series="Steve Rogers: Super Soldier" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="34244" Issue="239042" />
 </Book>
-<Book Series="Death of Dracula" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="40785" Issue="275026" />
+<Book Series="Death of Dracula" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="34003" Issue="221774" />
 </Book>
 <Book Series="Uncanny X-Men: The Heroic Age" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34412" Issue="224585" />
@@ -282,6 +288,15 @@
 <Book Series="Thunderbolts" Number="146" Volume="2006" Year="2010">
 <Database Name="cv" Series="18128" Issue="225962" />
 </Book>
+<Book Series="Thunderbolts" Number="147" Volume="2006" Year="2010">
+<Database Name="cv" Series="18128" Issue="230304" />
+</Book>
+<Book Series="Avengers Academy" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="33633" Issue="230269" />
+</Book>
+<Book Series="Avengers Academy" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="33633" Issue="235395" />
+</Book>
 <Book Series="Invincible Iron Man" Number="25" Volume="2008" Year="2010">
 <Database Name="cv" Series="21487" Issue="210224" />
 </Book>
@@ -309,11 +324,17 @@
 <Book Series="Invincible Iron Man" Number="33" Volume="2008" Year="2011">
 <Database Name="cv" Series="21487" Issue="250667" />
 </Book>
-<Book Series="Vengeance of the Moon Knight" Number="9" Volume="2009" Year="2010">
-<Database Name="cv" Series="27914" Issue="218554" />
+<Book Series="X-Men: Legacy" Number="238" Volume="2008" Year="2010">
+<Database Name="cv" Series="20691" Issue="226787" />
 </Book>
-<Book Series="Vengeance of the Moon Knight" Number="10" Volume="2009" Year="2010">
-<Database Name="cv" Series="27914" Issue="223487" />
+<Book Series="X-Men: Legacy" Number="239" Volume="2008" Year="2010">
+<Database Name="cv" Series="20691" Issue="231571" />
+</Book>
+<Book Series="X-Men: Legacy" Number="240" Volume="2008" Year="2010">
+<Database Name="cv" Series="20691" Issue="236190" />
+</Book>
+<Book Series="X-Men: Legacy" Number="241" Volume="2008" Year="2010">
+<Database Name="cv" Series="20691" Issue="239817" />
 </Book>
 <Book Series="Atlas" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33236" Issue="214832" />
