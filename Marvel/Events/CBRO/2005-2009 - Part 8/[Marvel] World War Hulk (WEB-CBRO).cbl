@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] World War Hulk (WEB-CBRO)</Name>
-<NumIssues>51</NumIssues>
+<NumIssues>52</NumIssues>
 <Books>
 <Book Series="Incredible Hulk" Number="106" Volume="2000" Year="2007">
 <Database Name="cv" Series="6558" Issue="108922" />
@@ -128,6 +128,9 @@
 </Book>
 <Book Series="Incredible Hercules" Number="113" Volume="2008" Year="2008">
 <Database Name="cv" Series="20588" Issue="123380" />
+</Book>
+<Book Series="Incredible Hercules" Number="114" Volume="2008" Year="2008">
+<Database Name="cv" Series="20588" Issue="123397" />
 </Book>
 <Book Series="Incredible Hercules" Number="115" Volume="2008" Year="2008">
 <Database Name="cv" Series="20588" Issue="125757" />
