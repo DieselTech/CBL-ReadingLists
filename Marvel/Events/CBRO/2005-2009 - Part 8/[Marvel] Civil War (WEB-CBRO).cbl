@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Civil War (WEB-CBRO)</Name>
-<NumIssues>130</NumIssues>
+<NumIssues>132</NumIssues>
 <Books>
 <Book Series="The Amazing Spider-Man" Number="529" Volume="1963" Year="2006">
 <Database Name="cv" Series="2127" Issue="106921" />
@@ -296,6 +296,12 @@
 </Book>
 <Book Series="Fantastic Four" Number="542" Volume="1998" Year="2007">
 <Database Name="cv" Series="6211" Issue="158368" />
+</Book>
+<Book Series="Thunderbolts" Number="106" Volume="2006" Year="2006">
+<Database Name="cv" Series="18128" Issue="106311" />
+</Book>
+<Book Series="Thunderbolts" Number="107" Volume="2006" Year="2006">
+<Database Name="cv" Series="18128" Issue="106312" />
 </Book>
 <Book Series="Thunderbolts" Number="108" Volume="2006" Year="2007">
 <Database Name="cv" Series="18128" Issue="106313" />
