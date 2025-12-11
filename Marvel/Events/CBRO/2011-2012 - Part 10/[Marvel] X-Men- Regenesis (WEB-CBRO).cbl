@@ -108,17 +108,17 @@
 <Book Series="X-Club" Number="5" Volume="2011" Year="2012">
 <Database Name="cv" Series="44386" Issue="326873" />
 </Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="386141" />
+<Book Series="Uncanny X-Men" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="43785" Issue="301011" />
 </Book>
-<Book Series="Uncanny X-Men" Number="2" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="388566" />
+<Book Series="Uncanny X-Men" Number="2" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="304473" />
 </Book>
-<Book Series="Uncanny X-Men" Number="3" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="392362" />
+<Book Series="Uncanny X-Men" Number="3" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="308437" />
 </Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="396436" />
+<Book Series="Uncanny X-Men" Number="4" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="309467" />
 </Book>
 <Book Series="X-Men: Legacy" Number="260.1" Volume="2008" Year="2012">
 <Database Name="cv" Series="20691" Issue="310912" />
