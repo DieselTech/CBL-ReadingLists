@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] X-Men- Regenesis (WEB-CBRO)</Name>
-<NumIssues>45</NumIssues>
+<NumIssues>46</NumIssues>
 <Books>
 <Book Series="X-Men: Regenesis" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="43223" Issue="294888" />
@@ -17,6 +17,9 @@
 </Book>
 <Book Series="Wolverine" Number="19" Volume="2010" Year="2012">
 <Database Name="cv" Series="35263" Issue="304470" />
+</Book>
+<Book Series="X-Men: Legacy" Number="259" Volume="2008" Year="2012">
+<Database Name="cv" Series="20691" Issue="304477" />
 </Book>
 <Book Series="X-Men: Legacy" Number="260" Volume="2008" Year="2012">
 <Database Name="cv" Series="20691" Issue="308418" />
