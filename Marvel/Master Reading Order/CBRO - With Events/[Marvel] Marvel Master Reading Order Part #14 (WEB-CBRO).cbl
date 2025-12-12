@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #14 (WEB-CBRO)</Name>
-<NumIssues>718</NumIssues>
+<NumIssues>733</NumIssues>
 <Books>
 <Book Series="Wolverine" Number="26" Volume="2020" Year="2022">
 <Database Name="cv" Series="125121" Issue="952302" />
@@ -1925,6 +1925,51 @@
 </Book>
 <Book Series="X-Men: The Wedding Special" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="158299" Issue="1057019" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1047088" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1051499" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1056209" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1060858" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1063236" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="6" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1066302" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="7" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1068659" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="8" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1073889" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="9" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1077645" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="10" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1083734" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="11" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1088574" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="12" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1094614" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="13" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1097723" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="14" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1104106" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="15" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1109658" />
 </Book>
 <Book Series="Fantastic Four" Number="17" Volume="2022" Year="2024">
 <Database Name="cv" Series="145912" Issue="1043836" />
