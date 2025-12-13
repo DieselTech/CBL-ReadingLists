@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Mirage\Archie] (1984-2004) Teenage Mutant Ninja Turtles (WEB-CBRO)</Name>
+<Name>[Mirage\Archie] (1984-2010) Teenage Mutant Ninja Turtles (WEB-CBRO)</Name>
 <NumIssues>236</NumIssues>
 <Books>
 <Book Series="Teenage Mutant Ninja Turtles" Number="1" Volume="1984" Year="1984">
