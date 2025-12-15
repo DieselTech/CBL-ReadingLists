@@ -27,6 +27,18 @@
 <Book Series="Incredible Hulks" Number="618" Volume="2010" Year="2011">
 <Database Name="cv" Series="35303" Issue="248499" />
 </Book>
+<Book Series="Incredible Hulks" Number="619" Volume="2010" Year="2011">
+<Database Name="cv" Series="35303" Issue="250621" />
+</Book>
+<Book Series="Incredible Hulks" Number="620" Volume="2010" Year="2011">
+<Database Name="cv" Series="35303" Issue="255919" />
+</Book>
+<Book Series="Chaos War: Thor" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="36613" Issue="242917" />
+</Book>
+<Book Series="Chaos War: Thor" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="36613" Issue="249564" />
+</Book>
 <Book Series="Chaos War: Dead Avengers" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36730" Issue="244901" />
 </Book>
@@ -38,18 +50,6 @@
 </Book>
 <Book Series="Chaos War: X-Men" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="37956" Issue="259132" />
-</Book>
-<Book Series="Chaos War: Thor" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="36613" Issue="242917" />
-</Book>
-<Book Series="Chaos War: Thor" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="36613" Issue="249564" />
-</Book>
-<Book Series="Incredible Hulks" Number="619" Volume="2010" Year="2011">
-<Database Name="cv" Series="35303" Issue="250621" />
-</Book>
-<Book Series="Incredible Hulks" Number="620" Volume="2010" Year="2011">
-<Database Name="cv" Series="35303" Issue="255919" />
 </Book>
 <Book Series="Chaos War: Dead Avengers" Number="2" Volume="2011" Year="2011">
 <Database Name="cv" Series="36730" Issue="250619" />
