@@ -666,6 +666,9 @@
 <Book Series="Uncanny X-Men Annual" Number="2" Volume="2006" Year="2009">
 <Database Name="cv" Series="18405" Issue="150498" />
 </Book>
+<Book Series="Dark X-Men: The Confession" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="28085" Issue="172433" />
+</Book>
 <Book Series="Dark Avengers/Uncanny X-Men: Utopia" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26888" Issue="161518" />
 </Book>
@@ -698,9 +701,6 @@
 </Book>
 <Book Series="Dark Avengers/Uncanny X-Men: Exodus" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="27804" Issue="170312" />
-</Book>
-<Book Series="Dark X-Men: The Confession" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="28085" Issue="172433" />
 </Book>
 <Book Series="Dark Reign: The List - X-Men" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28084" Issue="172431" />
