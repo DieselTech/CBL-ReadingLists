@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #08 (WEB-CBRO)</Name>
-<NumIssues>1338</NumIssues>
+<NumIssues>1328</NumIssues>
 <Books>
 <Book Series="Araña: Heart of the Spider" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18110" Issue="106077" />
@@ -768,6 +768,12 @@
 <Book Series="Fantastic Four" Number="542" Volume="1998" Year="2007">
 <Database Name="cv" Series="6211" Issue="158368" />
 </Book>
+<Book Series="Thunderbolts" Number="106" Volume="2006" Year="2006">
+<Database Name="cv" Series="18128" Issue="106311" />
+</Book>
+<Book Series="Thunderbolts" Number="107" Volume="2006" Year="2006">
+<Database Name="cv" Series="18128" Issue="106312" />
+</Book>
 <Book Series="Thunderbolts" Number="108" Volume="2006" Year="2007">
 <Database Name="cv" Series="18128" Issue="106313" />
 </Book>
@@ -1512,17 +1518,20 @@
 <Book Series="Incredible Hercules" Number="113" Volume="2008" Year="2008">
 <Database Name="cv" Series="20588" Issue="123380" />
 </Book>
+<Book Series="Incredible Hercules" Number="114" Volume="2008" Year="2008">
+<Database Name="cv" Series="20588" Issue="123397" />
+</Book>
 <Book Series="Incredible Hercules" Number="115" Volume="2008" Year="2008">
 <Database Name="cv" Series="20588" Issue="125757" />
 </Book>
-<Book Series="Damage Control" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="144734" Issue="943876" />
+<Book Series="World War Hulk Aftersmash: Damage Control" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="20402" Issue="122005" />
 </Book>
-<Book Series="Damage Control" Number="2" Volume="2022" Year="2022">
-<Database Name="cv" Series="144734" Issue="949060" />
+<Book Series="World War Hulk Aftersmash: Damage Control" Number="2" Volume="2008" Year="2008">
+<Database Name="cv" Series="20402" Issue="124233" />
 </Book>
-<Book Series="Damage Control" Number="3" Volume="2022" Year="2023">
-<Database Name="cv" Series="144734" Issue="953020" />
+<Book Series="World War Hulk Aftersmash: Damage Control" Number="3" Volume="2008" Year="2008">
+<Database Name="cv" Series="20402" Issue="126245" />
 </Book>
 <Book Series="World War Hulk Aftersmash: Warbound" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="20153" Issue="120239" />
@@ -2915,6 +2924,24 @@
 </Book>
 <Book Series="X-Men: Legacy" Number="216" Volume="2008" Year="2008">
 <Database Name="cv" Series="20691" Issue="139392" />
+</Book>
+<Book Series="Wolverine: Origins" Number="28" Volume="2006" Year="2008">
+<Database Name="cv" Series="18130" Issue="139330" />
+</Book>
+<Book Series="X-Men: Original Sin" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="23350" Issue="140141" />
+</Book>
+<Book Series="X-Men: Legacy" Number="217" Volume="2008" Year="2008">
+<Database Name="cv" Series="20691" Issue="140847" />
+</Book>
+<Book Series="Wolverine: Origins" Number="29" Volume="2006" Year="2008">
+<Database Name="cv" Series="18130" Issue="141684" />
+</Book>
+<Book Series="X-Men: Legacy" Number="218" Volume="2008" Year="2009">
+<Database Name="cv" Series="20691" Issue="142503" />
+</Book>
+<Book Series="Wolverine: Origins" Number="30" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="143160" />
 </Book>
 <Book Series="X-Men: Manifest Destiny" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="22867" Issue="137352" />
