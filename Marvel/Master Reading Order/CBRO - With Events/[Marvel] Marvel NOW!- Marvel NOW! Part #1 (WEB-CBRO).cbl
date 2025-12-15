@@ -2364,8 +2364,8 @@
 <Book Series="Avengers" Number="24" Volume="2012" Year="2014">
 <Database Name="cv" Series="54428" Issue="438378" />
 </Book>
-<Book Series="Uncanny Avengers Annual" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="73421" Issue="451773" />
+<Book Series="Avengers Annual" Number="1" Volume="2013" Year="2014">
+<Database Name="cv" Series="69686" Issue="435575" />
 </Book>
 <Book Series="Hulk" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="73100" Issue="450551" />
