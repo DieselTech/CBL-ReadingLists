@@ -6,17 +6,17 @@
 <Book Series="Shadowland" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34243" Issue="223400" />
 </Book>
-<Book Series="Shadowland: Bullseye" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="34718" Issue="227713" />
-</Book>
-<Book Series="Shadowland: Elektra" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="35274" Issue="232574" />
-</Book>
 <Book Series="Daredevil" Number="508" Volume="1998" Year="2010">
 <Database Name="cv" Series="6209" Issue="224616" />
 </Book>
 <Book Series="Daredevil" Number="509" Volume="1998" Year="2010">
 <Database Name="cv" Series="6209" Issue="228894" />
+</Book>
+<Book Series="Shadowland: Elektra" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35274" Issue="232574" />
+</Book>
+<Book Series="Shadowland: Bullseye" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="34718" Issue="227713" />
 </Book>
 <Book Series="Shadowland: Moon Knight" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35109" Issue="231674" />
