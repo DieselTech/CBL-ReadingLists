@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel 2099 (WEB-CBRO)</Name>
-<NumIssues>266</NumIssues>
+<NumIssues>271</NumIssues>
 <Books>
 <Book Series="Spider-Man 2099" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="18354" Issue="107620" />
@@ -203,6 +203,9 @@
 </Book>
 <Book Series="2099 Unlimited" Number="4" Volume="1993" Year="1994">
 <Database Name="cv" Series="18463" Issue="123313" />
+</Book>
+<Book Series="Thor Corps" Number="3" Volume="1993" Year="1993">
+<Database Name="cv" Series="5054" Issue="57359" />
 </Book>
 <Book Series="Spider-Man 2099" Number="17" Volume="1992" Year="1994">
 <Database Name="cv" Series="18354" Issue="108722" />
@@ -591,6 +594,12 @@
 <Book Series="X-Men 2099" Number="25" Volume="1993" Year="1995">
 <Database Name="cv" Series="18073" Issue="108380" />
 </Book>
+<Book Series="X-Men 2099 Oasis" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="19683" Issue="118060" />
+</Book>
+<Book Series="X-Men 2099 A.D. Special" Number="1" Volume="1995" Year="1995">
+<Database Name="cv" Series="19684" Issue="118061" />
+</Book>
 <Book Series="Spider-Man 2099" Number="34" Volume="1992" Year="1995">
 <Database Name="cv" Series="18354" Issue="108742" />
 </Book>
@@ -620,6 +629,9 @@
 </Book>
 <Book Series="The Punisher 2099" Number="32" Volume="1993" Year="1995">
 <Database Name="cv" Series="18467" Issue="131226" />
+</Book>
+<Book Series="Ghost Rider 2099" Number="18" Volume="1994" Year="1995">
+<Database Name="cv" Series="18412" Issue="134469" />
 </Book>
 <Book Series="Ghost Rider 2099" Number="19" Volume="1994" Year="1995">
 <Database Name="cv" Series="18412" Issue="134451" />
@@ -737,6 +749,9 @@
 </Book>
 <Book Series="Doom 2099" Number="42" Volume="1993" Year="1996">
 <Database Name="cv" Series="18445" Issue="134491" />
+</Book>
+<Book Series="Fantastic Four" Number="413" Volume="1961" Year="1996">
+<Database Name="cv" Series="2045" Issue="77593" />
 </Book>
 <Book Series="Fantastic Four 2099" Number="5" Volume="1996" Year="1996">
 <Database Name="cv" Series="18413" Issue="123310" />
