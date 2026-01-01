@@ -106,19 +106,19 @@
 <Database Name="cv" Series="1770" Issue="3290" />
 </Book>
 <Book Series="Superboy" Number="64" Volume="1949" Year="0">
-<Database Name="cv" Series="19154" Issue="655694" />
+<Database Name="cv" Series="19154" Issue="123579" />
 </Book>
 <Book Series="Adventure Comics" Number="247" Volume="1938" Year="1958">
 <Database Name="cv" Series="3105" Issue="114594" />
 </Book>
 <Book Series="Superboy" Number="65" Volume="1949" Year="0">
-<Database Name="cv" Series="19154" Issue="655350" />
+<Database Name="cv" Series="19154" Issue="123613" />
 </Book>
 <Book Series="Action Comics" Number="242" Volume="1938" Year="1958">
 <Database Name="cv" Series="18005" Issue="121191" />
 </Book>
 <Book Series="Superboy" Number="68" Volume="1949" Year="0">
-<Database Name="cv" Series="19154" Issue="655935" />
+<Database Name="cv" Series="19154" Issue="123995" />
 </Book>
 <Book Series="Superman's Girl Friend, Lois Lane" Number="5" Volume="1958" Year="1958">
 <Database Name="cv" Series="19245" Issue="115773" />
@@ -160,7 +160,7 @@
 <Database Name="cv" Series="773" Issue="121992" />
 </Book>
 <Book Series="Superboy" Number="85" Volume="1949" Year="0">
-<Database Name="cv" Series="19154" Issue="656073" />
+<Database Name="cv" Series="19154" Issue="125309" />
 </Book>
 <Book Series="World's Finest Comics" Number="113" Volume="1941" Year="1960">
 <Database Name="cv" Series="18006" Issue="122562" />
@@ -178,10 +178,10 @@
 <Database Name="cv" Series="18005" Issue="110538" />
 </Book>
 <Book Series="Superboy" Number="89" Volume="1949" Year="0">
-<Database Name="cv" Series="19154" Issue="656649" />
+<Database Name="cv" Series="19154" Issue="114628" />
 </Book>
 <Book Series="Superboy" Number="90" Volume="1949" Year="1956">
-<Database Name="cv" Series="19154" Issue="427382" />
+<Database Name="cv" Series="19154" Issue="125540" />
 </Book>
 <Book Series="The Flash" Number="123" Volume="1959" Year="1961">
 <Database Name="cv" Series="1995" Issue="5443" />
@@ -442,7 +442,7 @@
 <Database Name="cv" Series="3598" Issue="26840" />
 </Book>
 <Book Series="Superboy" Number="126" Volume="1949" Year="0">
-<Database Name="cv" Series="19154" Issue="658855" />
+<Database Name="cv" Series="19154" Issue="128668" />
 </Book>
 <Book Series="Doom Patrol" Number="101" Volume="1964" Year="1966">
 <Database Name="cv" Series="2177" Issue="8341" />
@@ -511,7 +511,7 @@
 <Database Name="cv" Series="2177" Issue="154678" />
 </Book>
 <Book Series="Superboy" Number="131" Volume="1949" Year="0">
-<Database Name="cv" Series="19154" Issue="658549" />
+<Database Name="cv" Series="19154" Issue="129122" />
 </Book>
 <Book Series="Metal Men" Number="19" Volume="1963" Year="1966">
 <Database Name="cv" Series="2113" Issue="8471" />
