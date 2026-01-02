@@ -105,19 +105,19 @@
 <Book Series="Showcase" Number="10" Volume="1956" Year="1957">
 <Database Name="cv" Series="1770" Issue="3290" />
 </Book>
-<Book Series="Superboy" Number="64" Volume="1949" Year="0">
+<Book Series="Superboy" Number="64" Volume="1949" Year="1958">
 <Database Name="cv" Series="19154" Issue="123579" />
 </Book>
 <Book Series="Adventure Comics" Number="247" Volume="1938" Year="1958">
 <Database Name="cv" Series="3105" Issue="114594" />
 </Book>
-<Book Series="Superboy" Number="65" Volume="1949" Year="0">
+<Book Series="Superboy" Number="65" Volume="1949" Year="1958">
 <Database Name="cv" Series="19154" Issue="123613" />
 </Book>
 <Book Series="Action Comics" Number="242" Volume="1938" Year="1958">
 <Database Name="cv" Series="18005" Issue="121191" />
 </Book>
-<Book Series="Superboy" Number="68" Volume="1949" Year="0">
+<Book Series="Superboy" Number="68" Volume="1949" Year="1958">
 <Database Name="cv" Series="19154" Issue="123995" />
 </Book>
 <Book Series="Superman's Girl Friend, Lois Lane" Number="5" Volume="1958" Year="1958">
@@ -159,7 +159,7 @@
 <Book Series="Superman" Number="141" Volume="1939" Year="1960">
 <Database Name="cv" Series="773" Issue="121992" />
 </Book>
-<Book Series="Superboy" Number="85" Volume="1949" Year="0">
+<Book Series="Superboy" Number="85" Volume="1949" Year="1960">
 <Database Name="cv" Series="19154" Issue="125309" />
 </Book>
 <Book Series="World's Finest Comics" Number="113" Volume="1941" Year="1960">
@@ -222,10 +222,10 @@
 <Book Series="Action Comics" Number="277" Volume="1938" Year="1961">
 <Database Name="cv" Series="18005" Issue="110538" />
 </Book>
-<Book Series="Superboy" Number="89" Volume="1949" Year="0">
+<Book Series="Superboy" Number="89" Volume="1949" Year="1961">
 <Database Name="cv" Series="19154" Issue="114628" />
 </Book>
-<Book Series="Superboy" Number="90" Volume="1949" Year="1956">
+<Book Series="Superboy" Number="90" Volume="1949" Year="1961">
 <Database Name="cv" Series="19154" Issue="125540" />
 </Book>
 <Book Series="The Flash" Number="123" Volume="1959" Year="1961">
@@ -468,7 +468,7 @@
 <Book Series="Deadman" Number="4" Volume="1986" Year="1986">
 <Database Name="cv" Series="3598" Issue="26840" />
 </Book>
-<Book Series="Superboy" Number="126" Volume="1949" Year="0">
+<Book Series="Superboy" Number="126" Volume="1949" Year="1966">
 <Database Name="cv" Series="19154" Issue="128668" />
 </Book>
 <Book Series="Doom Patrol" Number="101" Volume="1964" Year="1966">
@@ -537,7 +537,7 @@
 <Book Series="Doom Patrol" Number="121" Volume="1964" Year="1968">
 <Database Name="cv" Series="2177" Issue="154678" />
 </Book>
-<Book Series="Superboy" Number="131" Volume="1949" Year="0">
+<Book Series="Superboy" Number="131" Volume="1949" Year="1966">
 <Database Name="cv" Series="19154" Issue="129122" />
 </Book>
 <Book Series="Metal Men" Number="19" Volume="1963" Year="1966">
