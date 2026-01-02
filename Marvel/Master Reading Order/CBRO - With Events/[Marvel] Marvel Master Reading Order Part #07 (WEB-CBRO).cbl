@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #07 (WEB-CBRO)</Name>
-<NumIssues>1023</NumIssues>
+<NumIssues>1022</NumIssues>
 <Books>
 <Book Series="Fantastic Four" Number="60" Volume="1998" Year="2002">
 <Database Name="cv" Series="6211" Issue="139074" />
@@ -1352,6 +1352,9 @@
 </Book>
 <Book Series="New X-Men" Number="13" Volume="2004" Year="2005">
 <Database Name="cv" Series="18078" Issue="106275" />
+</Book>
+<Book Series="The Uncanny X-Men" Number="460" Volume="1981" Year="2005">
+<Database Name="cv" Series="3092" Issue="106562" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="461" Volume="1981" Year="2005">
 <Database Name="cv" Series="3092" Issue="106563" />
