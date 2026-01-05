@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] New 52 Reading Order- New Part #2 (WEB-CBRO)</Name>
-<NumIssues>727</NumIssues>
+<NumIssues>728</NumIssues>
 <Books>
 <Book Series="Justice League Dark" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="42996" Issue="336575" />
@@ -1107,6 +1107,9 @@
 <Book Series="Batgirl" Number="14" Volume="2011" Year="2013">
 <Database Name="cv" Series="42604" Issue="367688" />
 </Book>
+<Book Series="Nightwing" Number="13" Volume="2011" Year="2013">
+<Database Name="cv" Series="42720" Issue="362157" />
+</Book>
 <Book Series="Nightwing" Number="14" Volume="2011" Year="2013">
 <Database Name="cv" Series="42720" Issue="369029" />
 </Book>
@@ -1425,8 +1428,8 @@
 <Book Series="Detective Comics" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="42594" Issue="390398" />
 </Book>
-<Book Series="Batman and Robin" Number="0" Volume="2011" Year="2012">
-<Database Name="cv" Series="42692" Issue="356720" />
+<Book Series="Batman and Robin" Number="18" Volume="2011" Year="2013">
+<Database Name="cv" Series="42692" Issue="392309" />
 </Book>
 <Book Series="Batman" Number="18" Volume="2011" Year="2013">
 <Database Name="cv" Series="42721" Issue="392308" />
