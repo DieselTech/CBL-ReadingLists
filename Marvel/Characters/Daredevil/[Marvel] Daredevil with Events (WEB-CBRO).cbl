@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Daredevil with Events (WEB-CBRO)</Name>
-<NumIssues>483</NumIssues>
+<NumIssues>484</NumIssues>
 <Books>
 <Book Series="Daredevil: The Man Without Fear" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="5000" Issue="37946" />
@@ -1452,7 +1452,11 @@
 <Book Series="Daredevil/Punisher: The Devil&apos;s Trigger" Number="3" Volume="2026" Year="2026">
 <Database Name="cv" Series="168720" Issue="1153449" />
 </Book>
+<Book Series="Daredevil/Punisher: The Devil&apos;s Trigger" Number="4" Volume="2026" Year="2026">
+<Database Name="cv" Series="168720" Issue="1156271" />
+</Book>
 </Books>
 <Matchers />
 </ReadingList>
+
 
