@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Echo with events (WEB-CBRO)</Name>
-<NumIssues>101</NumIssues>
+<Name>[Marvel] Echo with events (WEB-CBRO)</Name>
+<NumIssues>102</NumIssues>
 <Books>
 <Book Series="Daredevil" Number="9" Volume="1998" Year="1999">
 <Database Name="cv" Series="6209" Issue="46149" />
@@ -305,6 +305,9 @@
 </Book>
 <Book Series="Daredevil &amp; Echo" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="150603" Issue="1010045" />
+</Book>
+<Book Series="Echo: Seeker of Truth" Number="1" Volume="2026" Year="2026">
+<Database Name="cv" Series="168195" Issue="1141922" />
 </Book>
 </Books>
 <Matchers />
