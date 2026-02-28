@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] [1961-2019] Fantastic Four (CBRO)</Name>
-<NumIssues>390</NumIssues>
+<Name>[Marvel] [1961-2026] Fantastic Four (WEB-CBRO)</Name>
+<NumIssues>521</NumIssues>
 <Books>
 <Book Series="Fantastic Four: Season One" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="45689" Issue="314626" />
@@ -870,6 +870,9 @@
 <Book Series="Fantastic Four" Number="605" Volume="1998" Year="2012">
 <Database Name="cv" Series="6211" Issue="329210" />
 </Book>
+<Book Series="Fantastic Four" Number="605.1" Volume="1998" Year="2012">
+<Database Name="cv" Series="6211" Issue="335951" />
+</Book>
 <Book Series="Fantastic Four" Number="606" Volume="1998" Year="2012">
 <Database Name="cv" Series="6211" Issue="336592" />
 </Book>
@@ -947,6 +950,9 @@
 </Book>
 <Book Series="FF" Number="8" Volume="2013" Year="2013">
 <Database Name="cv" Series="54295" Issue="413657" />
+</Book>
+<Book Series="Fantastic Four" Number="5AU" Volume="2013" Year="2013">
+<Database Name="cv" Series="53921" Issue="395247" />
 </Book>
 <Book Series="Fantastic Four" Number="6" Volume="2013" Year="2013">
 <Database Name="cv" Series="53921" Issue="396426" />
@@ -1172,6 +1178,390 @@
 </Book>
 <Book Series="Fantastic Four" Number="13" Volume="2018" Year="2019">
 <Database Name="cv" Series="112685" Issue="716357" />
+</Book>
+<Book Series="X-Men/Fantastic Four" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="124822" Issue="736501" />
+</Book>
+<Book Series="X-Men/Fantastic Four" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="124822" Issue="738624" />
+</Book>
+<Book Series="X-Men/Fantastic Four" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="124822" Issue="743454" />
+</Book>
+<Book Series="X-Men/Fantastic Four" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="124822" Issue="781439" />
+</Book>
+<Book Series="Contagion" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="121734" Issue="721148" />
+</Book>
+<Book Series="Contagion" Number="2" Volume="2019" Year="2019">
+<Database Name="cv" Series="121734" Issue="721779" />
+</Book>
+<Book Series="Contagion" Number="3" Volume="2019" Year="2019">
+<Database Name="cv" Series="121734" Issue="723111" />
+</Book>
+<Book Series="Contagion" Number="4" Volume="2019" Year="2019">
+<Database Name="cv" Series="121734" Issue="723853" />
+</Book>
+<Book Series="Contagion" Number="5" Volume="2019" Year="2019">
+<Database Name="cv" Series="121734" Issue="725243" />
+</Book>
+<Book Series="Fantastic Four: Negative Zone" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123123" Issue="728973" />
+</Book>
+<Book Series="Fantastic Four" Number="14" Volume="2018" Year="2019">
+<Database Name="cv" Series="112685" Issue="718125" />
+</Book>
+<Book Series="Fantastic Four" Number="15" Volume="2018" Year="2019">
+<Database Name="cv" Series="112685" Issue="721151" />
+</Book>
+<Book Series="Fantastic Four" Number="16" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="726204" />
+</Book>
+<Book Series="Fantastic Four" Number="17" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="730334" />
+</Book>
+<Book Series="Fantastic Four" Number="18" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="734641" />
+</Book>
+<Book Series="Fantastic Four" Number="19" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="737755" />
+</Book>
+<Book Series="Fantastic Four: Grimm Noir" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="125301" Issue="738610" />
+</Book>
+<Book Series="Fantastic Four" Number="20" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="742369" />
+</Book>
+<Book Series="Empyre: Fallout Fantastic Four" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130187" Issue="797981" />
+</Book>
+<Book Series="Empyre" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="779005" />
+</Book>
+<Book Series="Empyre" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="781431" />
+</Book>
+<Book Series="Fantastic Four" Number="21" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="779006" />
+</Book>
+<Book Series="Fantastic Four" Number="22" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="787351" />
+</Book>
+<Book Series="Empyre" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="784408" />
+</Book>
+<Book Series="Empyre" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="787348" />
+</Book>
+<Book Series="Empyre" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="791922" />
+</Book>
+<Book Series="Empyre" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="797241" />
+</Book>
+<Book Series="Fantastic Four" Number="23" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="797242" />
+</Book>
+<Book Series="Fantastic Four: Antithesis" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129887" Issue="796297" />
+</Book>
+<Book Series="Fantastic Four: Antithesis" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="129887" Issue="803643" />
+</Book>
+<Book Series="Fantastic Four: Antithesis" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="129887" Issue="814488" />
+</Book>
+<Book Series="Fantastic Four: Antithesis" Number="4" Volume="2020" Year="2021">
+<Database Name="cv" Series="129887" Issue="819485" />
+</Book>
+<Book Series="Fantastic Four" Number="24" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="805091" />
+</Book>
+<Book Series="Fantastic Four" Number="25" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="813281" />
+</Book>
+<Book Series="Fantastic Four" Number="26" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="819118" />
+</Book>
+<Book Series="Fantastic Four" Number="27" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="821494" />
+</Book>
+<Book Series="Fantastic Four" Number="28" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="826557" />
+</Book>
+<Book Series="Fantastic Four: Road Trip" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132375" Issue="820022" />
+</Book>
+<Book Series="King In Black" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="820024" />
+</Book>
+<Book Series="King In Black" Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="822349" />
+</Book>
+<Book Series="King In Black" Number="3" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="825507" />
+</Book>
+<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="828857" />
+</Book>
+<Book Series="Fantastic Four" Number="29" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="828192" />
+</Book>
+<Book Series="Fantastic Four" Number="30" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="842960" />
+</Book>
+<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="842204" />
+</Book>
+<Book Series="Fantastic Four: Life Story" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="136141" Issue="851307" />
+</Book>
+<Book Series="Fantastic Four: Life Story" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="136141" Issue="863926" />
+</Book>
+<Book Series="Fantastic Four: Life Story" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="136141" Issue="878824" />
+</Book>
+<Book Series="Fantastic Four: Life Story" Number="4" Volume="2021" Year="2021">
+<Database Name="cv" Series="136141" Issue="884872" />
+</Book>
+<Book Series="Fantastic Four: Life Story" Number="5" Volume="2021" Year="2022">
+<Database Name="cv" Series="136141" Issue="897330" />
+</Book>
+<Book Series="Fantastic Four: Life Story" Number="6" Volume="2021" Year="2022">
+<Database Name="cv" Series="136141" Issue="905716" />
+</Book>
+<Book Series="Fantastic Four" Number="31" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="846085" />
+</Book>
+<Book Series="Fantastic Four" Number="32" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="848849" />
+</Book>
+<Book Series="Fantastic Four" Number="33" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="861675" />
+</Book>
+<Book Series="Fantastic Four" Number="34" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="874643" />
+</Book>
+<Book Series="Fantastic Four" Number="35" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="884863" />
+</Book>
+<Book Series="Fantastic Four" Number="36" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="885609" />
+</Book>
+<Book Series="Fantastic Four" Number="37" Volume="2018" Year="2021">
+<Database Name="cv" Series="112685" Issue="890608" />
+</Book>
+<Book Series="Fantastic Four" Number="38" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="896134" />
+</Book>
+<Book Series="The Fantastic Four Anniversary Tribute" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="140141" Issue="894377" />
+</Book>
+<Book Series="Fantastic Four" Number="39" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="902683" />
+</Book>
+<Book Series="Fantastic Four: Reckoning War Alpha" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141525" Issue="905794" />
+</Book>
+<Book Series="Fantastic Four" Number="40" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="907438" />
+</Book>
+<Book Series="Fantastic Four" Number="41" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="909675" />
+</Book>
+<Book Series="Reckoning War: Trial of the Watcher" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141917" Issue="911318" />
+</Book>
+<Book Series="Fantastic Four" Number="42" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="914653" />
+</Book>
+<Book Series="Fantastic Four" Number="43" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="924787" />
+</Book>
+<Book Series="Fantastic Four" Number="44" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="930981" />
+</Book>
+<Book Series="Fantastic Four" Number="45" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="935757" />
+</Book>
+<Book Series="Fantastic Four" Number="46" Volume="2018" Year="2022">
+<Database Name="cv" Series="112685" Issue="943898" />
+</Book>
+<Book Series="Fantastic Four: Full Circle" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144898" Issue="945890" />
+</Book>
+<Book Series="Fantastic Four" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="953984" />
+</Book>
+<Book Series="Fantastic Four" Number="2" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="958982" />
+</Book>
+<Book Series="Fantastic Four" Number="3" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="962840" />
+</Book>
+<Book Series="Fantastic Four" Number="4" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="971886" />
+</Book>
+<Book Series="Fantastic Four" Number="5" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="975703" />
+</Book>
+<Book Series="Fantastic Four" Number="6" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="982352" />
+</Book>
+<Book Series="Fantastic Four" Number="7" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="989658" />
+</Book>
+<Book Series="Fantastic Four" Number="8" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="993230" />
+</Book>
+<Book Series="Fantastic Four" Number="9" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="998586" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="23" Volume="2022" Year="2023">
+<Database Name="cv" Series="142577" Issue="981474" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="24" Volume="2022" Year="2023">
+<Database Name="cv" Series="142577" Issue="983890" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="25" Volume="2022" Year="2023">
+<Database Name="cv" Series="142577" Issue="988118" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="26" Volume="2022" Year="2023">
+<Database Name="cv" Series="142577" Issue="992287" />
+</Book>
+<Book Series="Fantastic Four" Number="10" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="1004328" />
+</Book>
+<Book Series="Fantastic Four" Number="11" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="1011779" />
+</Book>
+<Book Series="Fantastic Four" Number="12" Volume="2022" Year="2023">
+<Database Name="cv" Series="145912" Issue="1020534" />
+</Book>
+<Book Series="Fantastic Four" Number="13" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1029683" />
+</Book>
+<Book Series="Fantastic Four" Number="14" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1033203" />
+</Book>
+<Book Series="Fantastic Four" Number="15" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1038986" />
+</Book>
+<Book Series="Fantastic Four" Number="16" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1040939" />
+</Book>
+<Book Series="Giant-Size Fantastic Four" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="157035" Issue="1046266" />
+</Book>
+<Book Series="Fantastic Four" Number="17" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1043836" />
+</Book>
+<Book Series="Fantastic Four" Number="18" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1048666" />
+</Book>
+<Book Series="Fantastic Four" Number="19" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1051122" />
+</Book>
+<Book Series="Fantastic Four" Number="20" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1054378" />
+</Book>
+<Book Series="Fantastic Four" Number="21" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1059113" />
+</Book>
+<Book Series="Fantastic Four" Number="22" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1065058" />
+</Book>
+<Book Series="Fantastic Four" Number="23" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1066697" />
+</Book>
+<Book Series="Fantastic Four" Number="24" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1067978" />
+</Book>
+<Book Series="Fantastic Four" Number="25" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1069415" />
+</Book>
+<Book Series="Fantastic Four" Number="26" Volume="2022" Year="2024">
+<Database Name="cv" Series="145912" Issue="1073268" />
+</Book>
+<Book Series="Fantastic Four" Number="27" Volume="2022" Year="2025">
+<Database Name="cv" Series="145912" Issue="1083728" />
+</Book>
+<Book Series="Fantastic Four Fanfare" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="164195" Issue="1108820" />
+</Book>
+<Book Series="Fantastic Four Fanfare" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="164195" Issue="1116300" />
+</Book>
+<Book Series="Fantastic Four Fanfare" Number="3" Volume="2025" Year="2025">
+<Database Name="cv" Series="164195" Issue="1121719" />
+</Book>
+<Book Series="Fantastic Four Fanfare" Number="4" Volume="2025" Year="2025">
+<Database Name="cv" Series="164195" Issue="1128906" />
+</Book>
+<Book Series="Fantastic Four" Number="28" Volume="2022" Year="2025">
+<Database Name="cv" Series="145912" Issue="1091207" />
+</Book>
+<Book Series="One World Under Doom" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="162403" Issue="1095605" />
+</Book>
+<Book Series="Fantastic Four" Number="29" Volume="2022" Year="2025">
+<Database Name="cv" Series="145912" Issue="1096997" />
+</Book>
+<Book Series="One World Under Doom" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="162403" Issue="1099509" />
+</Book>
+<Book Series="Fantastic Four" Number="30" Volume="2022" Year="2025">
+<Database Name="cv" Series="145912" Issue="1100283" />
+</Book>
+<Book Series="Fantastic Four" Number="31" Volume="2022" Year="2025">
+<Database Name="cv" Series="145912" Issue="1107184" />
+</Book>
+<Book Series="Fantastic Four" Number="32" Volume="2022" Year="2025">
+<Database Name="cv" Series="145912" Issue="1111718" />
+</Book>
+<Book Series="Fantastic Four" Number="33" Volume="2022" Year="2025">
+<Database Name="cv" Series="145912" Issue="1116810" />
+</Book>
+<Book Series="One World Under Doom" Number="3" Volume="2025" Year="2025">
+<Database Name="cv" Series="162403" Issue="1106062" />
+</Book>
+<Book Series="Fantastic Four" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="165358" Issue="1119095" />
+</Book>
+<Book Series="Fantastic Four" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="165358" Issue="1125788" />
+</Book>
+<Book Series="Fantastic Four" Number="3" Volume="2025" Year="2025">
+<Database Name="cv" Series="165358" Issue="1133809" />
+</Book>
+<Book Series="One World Under Doom" Number="4" Volume="2025" Year="2025">
+<Database Name="cv" Series="162403" Issue="1109655" />
+</Book>
+<Book Series="One World Under Doom" Number="5" Volume="2025" Year="2025">
+<Database Name="cv" Series="162403" Issue="1115825" />
+</Book>
+<Book Series="One World Under Doom" Number="6" Volume="2025" Year="2025">
+<Database Name="cv" Series="162403" Issue="1124660" />
+</Book>
+<Book Series="One World Under Doom" Number="7" Volume="2025" Year="2025">
+<Database Name="cv" Series="162403" Issue="1131767" />
+</Book>
+<Book Series="One World Under Doom" Number="8" Volume="2025" Year="2025">
+<Database Name="cv" Series="162403" Issue="1138113" />
+</Book>
+<Book Series="One World Under Doom" Number="9" Volume="2025" Year="2026">
+<Database Name="cv" Series="162403" Issue="1144095" />
+</Book>
+<Book Series="The Will of Doom" Number="1" Volume="2026" Year="2026">
+<Database Name="cv" Series="169520" Issue="1149819" />
+</Book>
+<Book Series="Free Comic Book Day 2025: Fantastic Four/Giant-Size X-Men" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="164375" Issue="1110584" />
+</Book>
+<Book Series="Fantastic Four: First Steps" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="165357" Issue="1119094" />
 </Book>
 </Books>
 <Matchers />
