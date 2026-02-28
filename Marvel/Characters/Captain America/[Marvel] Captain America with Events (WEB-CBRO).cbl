@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Captain America with Events (WEB-CBRO)</Name>
-<NumIssues>906</NumIssues>
+<Name>[Marvel] Captain America with Events (WEB-CBRO)</Name>
+<NumIssues>1111</NumIssues>
 <Books>
 <Book Series="Captain America" Number="255" Volume="1968" Year="1981">
 <Database Name="cv" Series="2400" Issue="21103" />
@@ -2720,6 +2720,621 @@
 </Book>
 <Book Series="Avengers" Number="21" Volume="2018" Year="2019">
 <Database Name="cv" Series="110496" Issue="713499" />
+</Book>
+<Book Series="Avengers" Number="22" Volume="2018" Year="2019">
+<Database Name="cv" Series="110496" Issue="714654" />
+</Book>
+<Book Series="Avengers" Number="23" Volume="2018" Year="2019">
+<Database Name="cv" Series="110496" Issue="717513" />
+</Book>
+<Book Series="Avengers" Number="24" Volume="2018" Year="2019">
+<Database Name="cv" Series="110496" Issue="720157" />
+</Book>
+<Book Series="Avengers" Number="25" Volume="2018" Year="2019">
+<Database Name="cv" Series="110496" Issue="723852" />
+</Book>
+<Book Series="Avengers" Number="26" Volume="2018" Year="2020">
+<Database Name="cv" Series="110496" Issue="728415" />
+</Book>
+<Book Series="Avengers" Number="27" Volume="2018" Year="2020">
+<Database Name="cv" Series="110496" Issue="728969" />
+</Book>
+<Book Series="Avengers" Number="28" Volume="2018" Year="2020">
+<Database Name="cv" Series="110496" Issue="731505" />
+</Book>
+<Book Series="Avengers" Number="29" Volume="2018" Year="2020">
+<Database Name="cv" Series="110496" Issue="733821" />
+</Book>
+<Book Series="Avengers" Number="30" Volume="2018" Year="2020">
+<Database Name="cv" Series="110496" Issue="735514" />
+</Book>
+<Book Series="Invaders" Number="7" Volume="2019" Year="2019">
+<Database Name="cv" Series="116502" Issue="713858" />
+</Book>
+<Book Series="Invaders" Number="8" Volume="2019" Year="2019">
+<Database Name="cv" Series="116502" Issue="716362" />
+</Book>
+<Book Series="Invaders" Number="9" Volume="2019" Year="2019">
+<Database Name="cv" Series="116502" Issue="718754" />
+</Book>
+<Book Series="Invaders" Number="10" Volume="2019" Year="2019">
+<Database Name="cv" Series="116502" Issue="721784" />
+</Book>
+<Book Series="Invaders" Number="11" Volume="2019" Year="2020">
+<Database Name="cv" Series="116502" Issue="727261" />
+</Book>
+<Book Series="Invaders" Number="12" Volume="2019" Year="2020">
+<Database Name="cv" Series="116502" Issue="731517" />
+</Book>
+<Book Series="Tarot" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="123861" Issue="731980" />
+</Book>
+<Book Series="Tarot" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="123861" Issue="735531" />
+</Book>
+<Book Series="Tarot" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="123861" Issue="738621" />
+</Book>
+<Book Series="Tarot" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="123861" Issue="743451" />
+</Book>
+<Book Series="Captain America" Number="13" Volume="2018" Year="2019">
+<Database Name="cv" Series="112027" Issue="717515" />
+</Book>
+<Book Series="Captain America" Number="14" Volume="2018" Year="2019">
+<Database Name="cv" Series="112027" Issue="720160" />
+</Book>
+<Book Series="Captain America" Number="15" Volume="2018" Year="2019">
+<Database Name="cv" Series="112027" Issue="723109" />
+</Book>
+<Book Series="Captain America" Number="16" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="728416" />
+</Book>
+<Book Series="Captain America" Number="17" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="730330" />
+</Book>
+<Book Series="Captain America" Number="18" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="735516" />
+</Book>
+<Book Series="Captain America" Number="19" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="737750" />
+</Book>
+<Book Series="Captain America: The End" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="124816" Issue="736485" />
+</Book>
+<Book Series="Empyre: Avengers" Number="0" Volume="2020" Year="2020">
+<Database Name="cv" Series="128103" Issue="769751" />
+</Book>
+<Book Series="Empyre: Fantastic Four" Number="0" Volume="2020" Year="2020">
+<Database Name="cv" Series="128447" Issue="775009" />
+</Book>
+<Book Series="Lords of Empyre: Emperor Hulkling" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128881" Issue="781435" />
+</Book>
+<Book Series="Empyre" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="779005" />
+</Book>
+<Book Series="Empyre" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="781431" />
+</Book>
+<Book Series="Fantastic Four" Number="21" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="779006" />
+</Book>
+<Book Series="Fantastic Four" Number="22" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="787351" />
+</Book>
+<Book Series="Lords of Empyre: Swordsman" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129649" Issue="794937" />
+</Book>
+<Book Series="Lords of Empyre: Celestial Messiah" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129246" Issue="787354" />
+</Book>
+<Book Series="Captain Marvel" Number="18" Volume="2019" Year="2020">
+<Database Name="cv" Series="116365" Issue="784407" />
+</Book>
+<Book Series="Captain Marvel" Number="19" Volume="2019" Year="2020">
+<Database Name="cv" Series="116365" Issue="791921" />
+</Book>
+<Book Series="Captain Marvel" Number="20" Volume="2019" Year="2020">
+<Database Name="cv" Series="116365" Issue="794933" />
+</Book>
+<Book Series="Empyre" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="784408" />
+</Book>
+<Book Series="X-Men" Number="10" Volume="2019" Year="2020">
+<Database Name="cv" Series="122077" Issue="784126" />
+</Book>
+<Book Series="Empyre: Savage Avengers" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129095" Issue="784410" />
+</Book>
+<Book Series="Empyre: Avengers" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128103" Issue="781432" />
+</Book>
+<Book Series="Empyre: Captain America" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129094" Issue="784409" />
+</Book>
+<Book Series="Empyre: X-Men" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="781433" />
+</Book>
+<Book Series="Empyre: X-Men" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="787350" />
+</Book>
+<Book Series="Empyre: X-Men" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="791925" />
+</Book>
+<Book Series="Empyre: X-Men" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="794935" />
+</Book>
+<Book Series="Empyre: Captain America" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="129094" Issue="791924" />
+</Book>
+<Book Series="Empyre" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="787348" />
+</Book>
+<Book Series="Empyre" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="791922" />
+</Book>
+<Book Series="Empyre: Captain America" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="129094" Issue="796296" />
+</Book>
+<Book Series="Empyre: Avengers" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128103" Issue="791923" />
+</Book>
+<Book Series="Empyre: Avengers" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="128103" Issue="796295" />
+</Book>
+<Book Series="Empyre" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="128616" Issue="797241" />
+</Book>
+<Book Series="Fantastic Four" Number="23" Volume="2018" Year="2020">
+<Database Name="cv" Series="112685" Issue="797242" />
+</Book>
+<Book Series="X-Men" Number="11" Volume="2019" Year="2020">
+<Database Name="cv" Series="122077" Issue="796303" />
+</Book>
+<Book Series="Captain Marvel" Number="21" Volume="2019" Year="2020">
+<Database Name="cv" Series="116365" Issue="797979" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="797243" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="7" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="813282" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="8" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="816467" />
+</Book>
+<Book Series="Empyre: Aftermath Avengers" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130186" Issue="797980" />
+</Book>
+<Book Series="Empyre: Fallout Fantastic Four" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130187" Issue="797981" />
+</Book>
+<Book Series="Immortal She-Hulk" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="130567" Issue="803644" />
+</Book>
+<Book Series="Web of Venom: Empyre's End" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="131733" Issue="816471" />
+</Book>
+<Book Series="Avengers" Number="38" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="816463" />
+</Book>
+<Book Series="Avengers" Number="39" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="820742" />
+</Book>
+<Book Series="Avengers" Number="40" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="823343" />
+</Book>
+<Book Series="Avengers" Number="41" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="825503" />
+</Book>
+<Book Series="Avengers" Number="42" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="827520" />
+</Book>
+<Book Series="Avengers" Number="43" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="832859" />
+</Book>
+<Book Series="Avengers" Number="44" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="842200" />
+</Book>
+<Book Series="King In Black" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="820024" />
+</Book>
+<Book Series="Black Cat" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="119520" Issue="710672" />
+</Book>
+<Book Series="Venom" Number="31" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="820751" />
+</Book>
+<Book Series="King In Black" Number="2" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="822349" />
+</Book>
+<Book Series="Venom" Number="32" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="824035" />
+</Book>
+<Book Series="King In Black" Number="3" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="825507" />
+</Book>
+<Book Series="Venom" Number="33" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="827531" />
+</Book>
+<Book Series="King In Black" Number="4" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="828857" />
+</Book>
+<Book Series="King In Black: Captain America" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="134221" Issue="832863" />
+</Book>
+<Book Series="Venom" Number="34" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="842208" />
+</Book>
+<Book Series="Avengers" Number="45" Volume="2018" Year="2021">
+<Database Name="cv" Series="110496" Issue="844966" />
+</Book>
+<Book Series="King In Black" Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="132376" Issue="842204" />
+</Book>
+<Book Series="Venom" Number="35" Volume="2018" Year="2021">
+<Database Name="cv" Series="110770" Issue="861680" />
+</Book>
+<Book Series="Captain America" Number="20" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="742364" />
+</Book>
+<Book Series="Captain America" Number="21" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="787345" />
+</Book>
+<Book Series="Captain America" Number="22" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="794932" />
+</Book>
+<Book Series="Captain America" Number="23" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="799945" />
+</Book>
+<Book Series="Captain America" Number="24" Volume="2018" Year="2020">
+<Database Name="cv" Series="112027" Issue="810725" />
+</Book>
+<Book Series="Captain America" Number="25" Volume="2018" Year="2021">
+<Database Name="cv" Series="112027" Issue="819117" />
+</Book>
+<Book Series="Captain America" Number="26" Volume="2018" Year="2021">
+<Database Name="cv" Series="112027" Issue="821492" />
+</Book>
+<Book Series="Captain America" Number="27" Volume="2018" Year="2021">
+<Database Name="cv" Series="112027" Issue="828851" />
+</Book>
+<Book Series="Captain America" Number="28" Volume="2018" Year="2021">
+<Database Name="cv" Series="112027" Issue="840953" />
+</Book>
+<Book Series="Captain America" Number="29" Volume="2018" Year="2021">
+<Database Name="cv" Series="112027" Issue="851304" />
+</Book>
+<Book Series="Captain America" Number="30" Volume="2018" Year="2021">
+<Database Name="cv" Series="112027" Issue="868607" />
+</Book>
+<Book Series="Captain America Anniversary Tribute" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="134614" Issue="838587" />
+</Book>
+<Book Series="The United States of Captain America" Number="1" Volume="2021" Year="2021">
+<Database Name="cv" Series="137256" Issue="866598" />
+</Book>
+<Book Series="The United States of Captain America" Number="2" Volume="2021" Year="2021">
+<Database Name="cv" Series="137256" Issue="874763" />
+</Book>
+<Book Series="The United States of Captain America" Number="3" Volume="2021" Year="2021">
+<Database Name="cv" Series="137256" Issue="882081" />
+</Book>
+<Book Series="The United States of Captain America" Number="4" Volume="2021" Year="2021">
+<Database Name="cv" Series="137256" Issue="885615" />
+</Book>
+<Book Series="The United States of Captain America" Number="5" Volume="2021" Year="2021">
+<Database Name="cv" Series="137256" Issue="890615" />
+</Book>
+<Book Series="Captain America/Iron Man" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="140358" Issue="897362" />
+</Book>
+<Book Series="Captain America/Iron Man" Number="2" Volume="2021" Year="2022">
+<Database Name="cv" Series="140358" Issue="901343" />
+</Book>
+<Book Series="Captain America/Iron Man" Number="3" Volume="2021" Year="2022">
+<Database Name="cv" Series="140358" Issue="904773" />
+</Book>
+<Book Series="Captain America/Iron Man" Number="4" Volume="2021" Year="2022">
+<Database Name="cv" Series="140358" Issue="909680" />
+</Book>
+<Book Series="Captain America/Iron Man" Number="5" Volume="2021" Year="2022">
+<Database Name="cv" Series="140358" Issue="912253" />
+</Book>
+<Book Series="Devil&apos;s Reign" Number="1" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="897325" />
+</Book>
+<Book Series="Devil&apos;s Reign" Number="2" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="900390" />
+</Book>
+<Book Series="Devil&apos;s Reign" Number="3" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="904775" />
+</Book>
+<Book Series="Devil&apos;s Reign" Number="4" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="906630" />
+</Book>
+<Book Series="Devil&apos;s Reign" Number="5" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="910627" />
+</Book>
+<Book Series="Devil&apos;s Reign" Number="6" Volume="2021" Year="2022">
+<Database Name="cv" Series="140354" Issue="914649" />
+</Book>
+<Book Series="All-Out Avengers" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144974" Issue="946192" />
+</Book>
+<Book Series="All-Out Avengers" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="144974" Issue="950788" />
+</Book>
+<Book Series="All-Out Avengers" Number="3" Volume="2022" Year="2023">
+<Database Name="cv" Series="144974" Issue="956852" />
+</Book>
+<Book Series="All-Out Avengers" Number="4" Volume="2022" Year="2023">
+<Database Name="cv" Series="144974" Issue="961935" />
+</Book>
+<Book Series="All-Out Avengers" Number="5" Volume="2022" Year="2023">
+<Database Name="cv" Series="144974" Issue="966420" />
+</Book>
+<Book Series="Avengers Beyond" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="149051" Issue="979428" />
+</Book>
+<Book Series="Avengers Beyond" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="149051" Issue="985723" />
+</Book>
+<Book Series="Avengers Beyond" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="149051" Issue="992316" />
+</Book>
+<Book Series="Avengers Beyond" Number="4" Volume="2023" Year="2023">
+<Database Name="cv" Series="149051" Issue="997392" />
+</Book>
+<Book Series="Avengers Beyond" Number="5" Volume="2023" Year="2023">
+<Database Name="cv" Series="149051" Issue="1003570" />
+</Book>
+<Book Series="Avengers" Number="50" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="896105" />
+</Book>
+<Book Series="Avengers" Number="51" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="899170" />
+</Book>
+<Book Series="Avengers" Number="52" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="903905" />
+</Book>
+<Book Series="Avengers" Number="53" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="906642" />
+</Book>
+<Book Series="Avengers" Number="54" Volume="2018" Year="2022">
+<Database Name="cv" Series="110496" Issue="911244" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="143632" Issue="930977" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="143632" Issue="934988" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="143632" Issue="941559" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="4" Volume="2022" Year="2022">
+<Database Name="cv" Series="143632" Issue="946160" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="5" Volume="2022" Year="2022">
+<Database Name="cv" Series="143632" Issue="949636" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="6" Volume="2022" Year="2023">
+<Database Name="cv" Series="143632" Issue="953982" />
+</Book>
+<Book Series="A.X.E.: Eve of Judgment" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144026" Issue="935759" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="937937" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="941552" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="943804" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="4" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="946709" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="5" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="948102" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="952304" />
+</Book>
+<Book Series="Avengers Assemble Alpha" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146602" Issue="958047" />
+</Book>
+<Book Series="Avengers" Number="63" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="958977" />
+</Book>
+<Book Series="Avengers Forever" Number="12" Volume="2021" Year="2023">
+<Database Name="cv" Series="140532" Issue="960975" />
+</Book>
+<Book Series="Avengers" Number="64" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="962842" />
+</Book>
+<Book Series="Avengers Forever" Number="13" Volume="2021" Year="2023">
+<Database Name="cv" Series="140532" Issue="964955" />
+</Book>
+<Book Series="Avengers" Number="65" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="967796" />
+</Book>
+<Book Series="Avengers Forever" Number="14" Volume="2021" Year="2023">
+<Database Name="cv" Series="140532" Issue="971888" />
+</Book>
+<Book Series="Avengers" Number="66" Volume="2018" Year="2023">
+<Database Name="cv" Series="110496" Issue="975706" />
+</Book>
+<Book Series="Avengers Forever" Number="15" Volume="2021" Year="2023">
+<Database Name="cv" Series="140532" Issue="976902" />
+</Book>
+<Book Series="Avengers Assemble Omega" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="149555" Issue="984065" />
+</Book>
+<Book Series="The Avengers: War Across Time" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="147434" Issue="964214" />
+</Book>
+<Book Series="The Avengers: War Across Time" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="147434" Issue="969378" />
+</Book>
+<Book Series="The Avengers: War Across Time" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="147434" Issue="976903" />
+</Book>
+<Book Series="The Avengers: War Across Time" Number="4" Volume="2023" Year="2023">
+<Database Name="cv" Series="147434" Issue="981483" />
+</Book>
+<Book Series="The Avengers: War Across Time" Number="5" Volume="2023" Year="2023">
+<Database Name="cv" Series="147434" Issue="987228" />
+</Book>
+<Book Series="Black Panther" Number="9" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="946213" />
+</Book>
+<Book Series="Black Panther" Number="10" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="950789" />
+</Book>
+<Book Series="Black Panther" Number="11" Volume="2022" Year="2023">
+<Database Name="cv" Series="140222" Issue="953001" />
+</Book>
+<Book Series="Black Panther" Number="12" Volume="2022" Year="2023">
+<Database Name="cv" Series="140222" Issue="960976" />
+</Book>
+<Book Series="Black Panther" Number="13" Volume="2022" Year="2023">
+<Database Name="cv" Series="140222" Issue="963983" />
+</Book>
+<Book Series="Black Panther" Number="14" Volume="2022" Year="2023">
+<Database Name="cv" Series="140222" Issue="969379" />
+</Book>
+<Book Series="Black Panther" Number="15" Volume="2022" Year="2023">
+<Database Name="cv" Series="140222" Issue="975705" />
+</Book>
+<Book Series="Captain America and the Winter Soldier Special" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146087" Issue="954939" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="7" Volume="2022" Year="2023">
+<Database Name="cv" Series="143632" Issue="958978" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="8" Volume="2022" Year="2023">
+<Database Name="cv" Series="143632" Issue="962848" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="9" Volume="2022" Year="2023">
+<Database Name="cv" Series="143632" Issue="967795" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="10" Volume="2022" Year="2023">
+<Database Name="cv" Series="143632" Issue="973956" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="11" Volume="2022" Year="2023">
+<Database Name="cv" Series="143632" Issue="981471" />
+</Book>
+<Book Series="Captain America: Cold War Alpha" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="149390" Issue="982351" />
+</Book>
+<Book Series="Captain America: Symbol of Truth" Number="12" Volume="2022" Year="2023">
+<Database Name="cv" Series="142840" Issue="985666" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="12" Volume="2022" Year="2023">
+<Database Name="cv" Series="143632" Issue="989656" />
+</Book>
+<Book Series="Captain America: Symbol of Truth" Number="13" Volume="2022" Year="2023">
+<Database Name="cv" Series="142840" Issue="992315" />
+</Book>
+<Book Series="Captain America: Sentinel of Liberty" Number="13" Volume="2022" Year="2023">
+<Database Name="cv" Series="143632" Issue="993227" />
+</Book>
+<Book Series="Captain America: Cold War Omega" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="151262" Issue="994526" />
+</Book>
+<Book Series="Captain America: Symbol of Truth" Number="14" Volume="2022" Year="2023">
+<Database Name="cv" Series="142840" Issue="997391" />
+</Book>
+<Book Series="Captain America: Finale" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="153122" Issue="1010059" />
+</Book>
+<Book Series="Captain America" Number="750" Volume="2023" Year="2023">
+<Database Name="cv" Series="151915" Issue="999008" />
+</Book>
+<Book Series="Captain America" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="153610" Issue="1014922" />
+</Book>
+<Book Series="Captain America" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="153610" Issue="1026544" />
+</Book>
+<Book Series="Captain America" Number="3" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1031690" />
+</Book>
+<Book Series="Captain America" Number="4" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1034335" />
+</Book>
+<Book Series="Captain America" Number="5" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1038984" />
+</Book>
+<Book Series="Captain America" Number="6" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1043833" />
+</Book>
+<Book Series="Uncanny Avengers" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="153018" Issue="1008929" />
+</Book>
+<Book Series="Uncanny Avengers" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="153018" Issue="1014896" />
+</Book>
+<Book Series="Uncanny Avengers" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="153018" Issue="1026557" />
+</Book>
+<Book Series="Uncanny Avengers" Number="4" Volume="2023" Year="2024">
+<Database Name="cv" Series="153018" Issue="1029696" />
+</Book>
+<Book Series="Uncanny Avengers" Number="5" Volume="2023" Year="2024">
+<Database Name="cv" Series="153018" Issue="1035969" />
+</Book>
+<Book Series="Captain America" Number="7" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1047081" />
+</Book>
+<Book Series="Captain America" Number="8" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1050566" />
+</Book>
+<Book Series="Captain America" Number="9" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1054372" />
+</Book>
+<Book Series="Captain America" Number="10" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1060164" />
+</Book>
+<Book Series="Captain America" Number="11" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1064203" />
+</Book>
+<Book Series="Captain America" Number="12" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1068011" />
+</Book>
+<Book Series="Captain America" Number="13" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1069414" />
+</Book>
+<Book Series="Captain America" Number="14" Volume="2023" Year="2024">
+<Database Name="cv" Series="153610" Issue="1075678" />
+</Book>
+<Book Series="Captain America" Number="15" Volume="2023" Year="2025">
+<Database Name="cv" Series="153610" Issue="1077640" />
+</Book>
+<Book Series="Captain America" Number="16" Volume="2023" Year="2025">
+<Database Name="cv" Series="153610" Issue="1083723" />
+</Book>
+<Book Series="Captain America &amp; Volstagg" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="162528" Issue="1096992" />
+</Book>
+<Book Series="Captain America" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="165232" Issue="1117434" />
+</Book>
+<Book Series="Captain America" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="165232" Issue="1124637" />
+</Book>
+<Book Series="Captain America" Number="3" Volume="2025" Year="2025">
+<Database Name="cv" Series="165232" Issue="1131762" />
+</Book>
+<Book Series="Captain America" Number="4" Volume="2025" Year="2025">
+<Database Name="cv" Series="165232" Issue="1138109" />
+</Book>
+<Book Series="Captain America" Number="5" Volume="2025" Year="2026">
+<Database Name="cv" Series="165232" Issue="1144090" />
 </Book>
 </Books>
 <Matchers />
