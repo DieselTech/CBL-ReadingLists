@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>magik</Name>
-<NumIssues>357</NumIssues>
+<Name>[Marvel] Magik no events (WEB-CBRO)</Name>
+<NumIssues>361</NumIssues>
 <Books>
 <Book Series="The Uncanny X-Men" Number="160" Volume="1981" Year="1982">
 <Database Name="cv" Series="3092" Issue="22393" />
@@ -192,123 +192,6 @@
 <Book Series="The New Mutants" Number="70" Volume="1983" Year="1988">
 <Database Name="cv" Series="3234" Issue="30472" />
 </Book>
-<Book Series="The Uncanny X-Men" Number="239" Volume="1981" Year="1988">
-<Database Name="cv" Series="3092" Issue="30448" />
-</Book>
-<Book Series="X-Terminators" Number="1" Volume="1988" Year="1988">
-<Database Name="cv" Series="4082" Issue="30213" />
-</Book>
-<Book Series="X-Terminators" Number="2" Volume="1988" Year="1988">
-<Database Name="cv" Series="4082" Issue="30342" />
-</Book>
-<Book Series="X-Terminators" Number="3" Volume="1988" Year="1988">
-<Database Name="cv" Series="4082" Issue="30460" />
-</Book>
-<Book Series="X-Factor" Number="36" Volume="1986" Year="1989">
-<Database Name="cv" Series="3657" Issue="30800" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="240" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="30797" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="241" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="30905" />
-</Book>
-<Book Series="Fantastic Four" Number="322" Volume="1961" Year="1989">
-<Database Name="cv" Series="2045" Issue="30780" />
-</Book>
-<Book Series="The Avengers" Number="298" Volume="1963" Year="1988">
-<Database Name="cv" Series="2128" Issue="30424" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="311" Volume="1963" Year="1989">
-<Database Name="cv" Series="2127" Issue="30773" />
-</Book>
-<Book Series="The Spectacular Spider-Man" Number="146" Volume="1976" Year="1989">
-<Database Name="cv" Series="2870" Issue="30792" />
-</Book>
-<Book Series="Web of Spider-Man" Number="47" Volume="1985" Year="1989">
-<Database Name="cv" Series="3519" Issue="30906" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="312" Volume="1963" Year="1989">
-<Database Name="cv" Series="2127" Issue="30883" />
-</Book>
-<Book Series="The Spectacular Spider-Man" Number="147" Volume="1976" Year="1989">
-<Database Name="cv" Series="2870" Issue="30901" />
-</Book>
-<Book Series="Web of Spider-Man" Number="48" Volume="1985" Year="1989">
-<Database Name="cv" Series="3519" Issue="31007" />
-</Book>
-<Book Series="Daredevil" Number="262" Volume="1964" Year="1989">
-<Database Name="cv" Series="2190" Issue="30778" />
-</Book>
-<Book Series="Power Pack" Number="42" Volume="1984" Year="1988">
-<Database Name="cv" Series="3358" Issue="30435" />
-</Book>
-<Book Series="Power Pack" Number="43" Volume="1984" Year="1989">
-<Database Name="cv" Series="3358" Issue="30785" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="313" Volume="1963" Year="1989">
-<Database Name="cv" Series="2127" Issue="113269" />
-</Book>
-<Book Series="The Avengers" Number="299" Volume="1963" Year="1989">
-<Database Name="cv" Series="2128" Issue="30774" />
-</Book>
-<Book Series="The Avengers" Number="300" Volume="1963" Year="1989">
-<Database Name="cv" Series="2128" Issue="30884" />
-</Book>
-<Book Series="Daredevil" Number="263" Volume="1964" Year="1989">
-<Database Name="cv" Series="2190" Issue="30887" />
-</Book>
-<Book Series="The New Mutants" Number="71" Volume="1983" Year="1989">
-<Database Name="cv" Series="3234" Issue="30824" />
-</Book>
-<Book Series="X-Terminators" Number="4" Volume="1988" Year="1989">
-<Database Name="cv" Series="4082" Issue="30811" />
-</Book>
-<Book Series="The New Mutants" Number="72" Volume="1983" Year="1989">
-<Database Name="cv" Series="3234" Issue="30929" />
-</Book>
-<Book Series="The New Mutants" Number="73" Volume="1983" Year="1989">
-<Database Name="cv" Series="3234" Issue="31027" />
-</Book>
-<Book Series="Fantastic Four" Number="323" Volume="1961" Year="1989">
-<Database Name="cv" Series="2045" Issue="30889" />
-</Book>
-<Book Series="Daredevil" Number="265" Volume="1964" Year="1989">
-<Database Name="cv" Series="2190" Issue="31098" />
-</Book>
-<Book Series="X-Factor" Number="37" Volume="1986" Year="1989">
-<Database Name="cv" Series="3657" Issue="30908" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="242" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31006" />
-</Book>
-<Book Series="X-Factor" Number="38" Volume="1986" Year="1989">
-<Database Name="cv" Series="3657" Issue="31009" />
-</Book>
-<Book Series="The Uncanny X-Men" Number="243" Volume="1981" Year="1989">
-<Database Name="cv" Series="3092" Issue="31117" />
-</Book>
-<Book Series="X-Factor" Number="39" Volume="1986" Year="1989">
-<Database Name="cv" Series="3657" Issue="31120" />
-</Book>
-<Book Series="Excalibur" Number="6" Volume="1988" Year="1989">
-<Database Name="cv" Series="4052" Issue="30989" />
-</Book>
-<Book Series="Excalibur" Number="7" Volume="1988" Year="1989">
-<Database Name="cv" Series="4052" Issue="31100" />
-</Book>
-<Book Series="The Mutant Misadventures of Cloak and Dagger" Number="4" Volume="1988" Year="1989">
-<Database Name="cv" Series="4060" Issue="95262" />
-</Book>
-<Book Series="The Spectacular Spider-Man" Number="148" Volume="1976" Year="1989">
-<Database Name="cv" Series="2870" Issue="31001" />
-</Book>
-<Book Series="Power Pack" Number="44" Volume="1984" Year="1989">
-<Database Name="cv" Series="3358" Issue="30994" />
-</Book>
-<Book Series="Damage Control" Number="4" Volume="1989" Year="1989">
-<Database Name="cv" Series="4349" Issue="31537" />
-</Book>
 <Book Series="The New Mutants" Number="74" Volume="1983" Year="1989">
 <Database Name="cv" Series="3234" Issue="31143" />
 </Book>
@@ -447,65 +330,65 @@
 <Book Series="New Mutants" Number="25" Volume="2009" Year="2011">
 <Database Name="cv" Series="26327" Issue="269819" />
 </Book>
-<Book Series="Uncanny X-Men" Number="1" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="386141" />
+<Book Series="Uncanny X-Men" Number="1" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="301011" />
 </Book>
-<Book Series="Uncanny X-Men" Number="2" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="388566" />
+<Book Series="Uncanny X-Men" Number="2" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="304473" />
 </Book>
-<Book Series="Uncanny X-Men" Number="3" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="392362" />
+<Book Series="Uncanny X-Men" Number="3" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="308437" />
 </Book>
-<Book Series="Uncanny X-Men" Number="4" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="396436" />
+<Book Series="Uncanny X-Men" Number="4" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="309467" />
 </Book>
-<Book Series="Uncanny X-Men" Number="5" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="398994" />
+<Book Series="Uncanny X-Men" Number="5" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="311756" />
 </Book>
-<Book Series="Uncanny X-Men" Number="6" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="404705" />
+<Book Series="Uncanny X-Men" Number="6" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="313845" />
 </Book>
-<Book Series="Uncanny X-Men" Number="7" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="413669" />
+<Book Series="Uncanny X-Men" Number="7" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="315783" />
 </Book>
-<Book Series="Uncanny X-Men" Number="8" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="416917" />
+<Book Series="Uncanny X-Men" Number="8" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="319363" />
 </Book>
-<Book Series="Uncanny X-Men" Number="9" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="419973" />
+<Book Series="Uncanny X-Men" Number="9" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="322747" />
 </Book>
-<Book Series="Uncanny X-Men" Number="10" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="421699" />
+<Book Series="Uncanny X-Men" Number="10" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="329216" />
 </Book>
-<Book Series="Uncanny X-Men" Number="11" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="423684" />
+<Book Series="Uncanny X-Men" Number="11" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="333449" />
 </Book>
-<Book Series="Uncanny X-Men" Number="12" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="425944" />
+<Book Series="Uncanny X-Men" Number="12" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="336047" />
 </Book>
-<Book Series="Uncanny X-Men" Number="13" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="428867" />
+<Book Series="Uncanny X-Men" Number="13" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="338486" />
 </Book>
-<Book Series="Uncanny X-Men" Number="14" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="433852" />
+<Book Series="Uncanny X-Men" Number="14" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="341738" />
 </Book>
-<Book Series="Uncanny X-Men" Number="15" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="436208" />
+<Book Series="Uncanny X-Men" Number="15" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="344115" />
 </Book>
-<Book Series="Uncanny X-Men" Number="16" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="442179" />
+<Book Series="Uncanny X-Men" Number="16" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="346273" />
 </Book>
-<Book Series="Uncanny X-Men" Number="17" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="445823" />
+<Book Series="Uncanny X-Men" Number="17" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="352641" />
 </Book>
-<Book Series="Uncanny X-Men" Number="18" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="446998" />
+<Book Series="Uncanny X-Men" Number="18" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="356777" />
 </Book>
-<Book Series="Uncanny X-Men" Number="19" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="448006" />
+<Book Series="Uncanny X-Men" Number="19" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="360032" />
 </Book>
-<Book Series="Uncanny X-Men" Number="20" Volume="2013" Year="2014">
-<Database Name="cv" Series="57181" Issue="450557" />
+<Book Series="Uncanny X-Men" Number="20" Volume="2011" Year="2012">
+<Database Name="cv" Series="43785" Issue="362220" />
 </Book>
 <Book Series="All-New X-Men" Number="1" Volume="2012" Year="2013">
 <Database Name="cv" Series="53919" Issue="367691" />
@@ -585,36 +468,6 @@
 <Book Series="Uncanny X-Men" Number="11" Volume="2013" Year="2013">
 <Database Name="cv" Series="57181" Issue="423684" />
 </Book>
-<Book Series="X-Men: Battle of the Atom" Number="1" Volume="2013" Year="2013">
-<Database Name="cv" Series="67028" Issue="424543" />
-</Book>
-<Book Series="All-New X-Men" Number="16" Volume="2012" Year="2013">
-<Database Name="cv" Series="53919" Issue="424528" />
-</Book>
-<Book Series="X-Men" Number="5" Volume="2013" Year="2013">
-<Database Name="cv" Series="62383" Issue="425036" />
-</Book>
-<Book Series="Uncanny X-Men" Number="12" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="425944" />
-</Book>
-<Book Series="Wolverine &#38; the X-Men" Number="36" Volume="2011" Year="2013">
-<Database Name="cv" Series="43539" Issue="426886" />
-</Book>
-<Book Series="All-New X-Men" Number="17" Volume="2012" Year="2013">
-<Database Name="cv" Series="53919" Issue="427682" />
-</Book>
-<Book Series="X-Men" Number="6" Volume="2013" Year="2013">
-<Database Name="cv" Series="62383" Issue="428304" />
-</Book>
-<Book Series="Uncanny X-Men" Number="13" Volume="2013" Year="2013">
-<Database Name="cv" Series="57181" Issue="428867" />
-</Book>
-<Book Series="Wolverine &#38; the X-Men" Number="37" Volume="2011" Year="2013">
-<Database Name="cv" Series="43539" Issue="430768" />
-</Book>
-<Book Series="X-Men: Battle of the Atom" Number="2" Volume="2013" Year="2013">
-<Database Name="cv" Series="67028" Issue="431449" />
-</Book>
 <Book Series="Uncanny X-Men" Number="14" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="433852" />
 </Book>
@@ -638,24 +491,6 @@
 </Book>
 <Book Series="Uncanny X-Men" Number="17" Volume="2013" Year="2014">
 <Database Name="cv" Series="57181" Issue="445823" />
-</Book>
-<Book Series="All-New X-Men" Number="22" Volume="2012" Year="2014">
-<Database Name="cv" Series="53919" Issue="442912" />
-</Book>
-<Book Series="Guardians of the Galaxy" Number="11" Volume="2013" Year="2014">
-<Database Name="cv" Series="57960" Issue="443982" />
-</Book>
-<Book Series="All-New X-Men" Number="23" Volume="2012" Year="2014">
-<Database Name="cv" Series="53919" Issue="445174" />
-</Book>
-<Book Series="Guardians of the Galaxy" Number="12" Volume="2013" Year="2014">
-<Database Name="cv" Series="57960" Issue="446482" />
-</Book>
-<Book Series="All-New X-Men" Number="24" Volume="2012" Year="2014">
-<Database Name="cv" Series="53919" Issue="447504" />
-</Book>
-<Book Series="Guardians of the Galaxy" Number="13" Volume="2013" Year="2014">
-<Database Name="cv" Series="57960" Issue="448967" />
 </Book>
 <Book Series="All-New X-Men" Number="25" Volume="2012" Year="2014">
 <Database Name="cv" Series="53919" Issue="450068" />
@@ -752,45 +587,6 @@
 </Book>
 <Book Series="All-New X-Men" Number="37" Volume="2012" Year="2015">
 <Database Name="cv" Series="53919" Issue="482149" />
-</Book>
-<Book Series="Guardians of the Galaxy &#38; X-Men: The Black Vortex Alpha" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="79860" Issue="478607" />
-</Book>
-<Book Series="Guardians of the Galaxy" Number="24" Volume="2013" Year="2015">
-<Database Name="cv" Series="57960" Issue="479260" />
-</Book>
-<Book Series="Legendary Star-Lord" Number="9" Volume="2014" Year="2015">
-<Database Name="cv" Series="75335" Issue="479972" />
-</Book>
-<Book Series="All-New X-Men" Number="38" Volume="2012" Year="2015">
-<Database Name="cv" Series="53919" Issue="480667" />
-</Book>
-<Book Series="All-New X-Men" Number="39" Volume="2012" Year="2015">
-<Database Name="cv" Series="53919" Issue="482678" />
-</Book>
-<Book Series="Guardians Team-Up" Number="3" Volume="2015" Year="2015">
-<Database Name="cv" Series="80454" Issue="482684" />
-</Book>
-<Book Series="Guardians of the Galaxy" Number="25" Volume="2013" Year="2015">
-<Database Name="cv" Series="57960" Issue="483351" />
-</Book>
-<Book Series="Nova" Number="28" Volume="2013" Year="2015">
-<Database Name="cv" Series="57535" Issue="483357" />
-</Book>
-<Book Series="Legendary Star-Lord" Number="10" Volume="2014" Year="2015">
-<Database Name="cv" Series="75335" Issue="483353" />
-</Book>
-<Book Series="Cyclops" Number="12" Volume="2014" Year="2015">
-<Database Name="cv" Series="73677" Issue="484893" />
-</Book>
-<Book Series="Captain Marvel" Number="14" Volume="2014" Year="2015">
-<Database Name="cv" Series="72272" Issue="485509" />
-</Book>
-<Book Series="Legendary Star-Lord" Number="11" Volume="2014" Year="2015">
-<Database Name="cv" Series="75335" Issue="486148" />
-</Book>
-<Book Series="Guardians of the Galaxy &#38; X-Men: The Black Vortex Omega" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="81482" Issue="486723" />
 </Book>
 <Book Series="All-New X-Men" Number="40" Volume="2012" Year="2015">
 <Database Name="cv" Series="53919" Issue="486715" />
@@ -909,78 +705,6 @@
 <Book Series="Civil War II" Number="8" Volume="2016" Year="2017">
 <Database Name="cv" Series="90521" Issue="571661" />
 </Book>
-<Book Series="Death of X" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="94620" Issue="552158" />
-</Book>
-<Book Series="Death of X" Number="2" Volume="2016" Year="2016">
-<Database Name="cv" Series="94620" Issue="553955" />
-</Book>
-<Book Series="Death of X" Number="3" Volume="2016" Year="2017">
-<Database Name="cv" Series="94620" Issue="556471" />
-</Book>
-<Book Series="Death of X" Number="4" Volume="2016" Year="2017">
-<Database Name="cv" Series="94620" Issue="558962" />
-</Book>
-<Book Series="IvX" Number="0" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="562597" />
-</Book>
-<Book Series="IvX" Number="1" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="566713" />
-</Book>
-<Book Series="Uncanny X-Men" Number="16" Volume="2016" Year="2017">
-<Database Name="cv" Series="87190" Issue="569354" />
-</Book>
-<Book Series="Extraordinary X-Men" Number="17" Volume="2015" Year="2017">
-<Database Name="cv" Series="85756" Issue="571665" />
-</Book>
-<Book Series="IvX" Number="2" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="575870" />
-</Book>
-<Book Series="Uncanny X-Men" Number="17" Volume="2016" Year="2017">
-<Database Name="cv" Series="87190" Issue="575887" />
-</Book>
-<Book Series="Uncanny Inhumans" Number="18" Volume="2015" Year="2017">
-<Database Name="cv" Series="81092" Issue="576641" />
-</Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="7" Volume="2016" Year="2017">
-<Database Name="cv" Series="92360" Issue="576620" />
-</Book>
-<Book Series="All-New X-Men" Number="17" Volume="2015" Year="2017">
-<Database Name="cv" Series="86334" Issue="576612" />
-</Book>
-<Book Series="Extraordinary X-Men" Number="18" Volume="2015" Year="2017">
-<Database Name="cv" Series="85756" Issue="578459" />
-</Book>
-<Book Series="IvX" Number="3" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="578465" />
-</Book>
-<Book Series="Deadpool &#38; The Mercs For Money" Number="8" Volume="2016" Year="2017">
-<Database Name="cv" Series="92360" Issue="579313" />
-</Book>
-<Book Series="All-New X-Men" Number="18" Volume="2015" Year="2017">
-<Database Name="cv" Series="86334" Issue="579303" />
-</Book>
-<Book Series="IvX" Number="4" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="580755" />
-</Book>
-<Book Series="Uncanny Inhumans" Number="19" Volume="2015" Year="2017">
-<Database Name="cv" Series="81092" Issue="581573" />
-</Book>
-<Book Series="Uncanny X-Men" Number="18" Volume="2016" Year="2017">
-<Database Name="cv" Series="87190" Issue="581574" />
-</Book>
-<Book Series="IvX" Number="5" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="582534" />
-</Book>
-<Book Series="Extraordinary X-Men" Number="19" Volume="2015" Year="2017">
-<Database Name="cv" Series="85756" Issue="582529" />
-</Book>
-<Book Series="IvX" Number="6" Volume="2016" Year="2017">
-<Database Name="cv" Series="96144" Issue="585080" />
-</Book>
-<Book Series="Uncanny Inhumans" Number="20" Volume="2015" Year="2017">
-<Database Name="cv" Series="81092" Issue="588578" />
-</Book>
 <Book Series="Extraordinary X-Men" Number="20" Volume="2015" Year="2017">
 <Database Name="cv" Series="85756" Issue="588563" />
 </Book>
@@ -1073,6 +797,294 @@
 </Book>
 <Book Series="Uncanny X-Men" Number="22" Volume="2018" Year="2019">
 <Database Name="cv" Series="115285" Issue="713870" />
+</Book>
+<Book Series="New Mutants" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="122666" Issue="726210" />
+</Book>
+<Book Series="New Mutants" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="122666" Issue="728977" />
+</Book>
+<Book Series="New Mutants" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="122666" Issue="732887" />
+</Book>
+<Book Series="New Mutants" Number="7" Volume="2020" Year="2020">
+<Database Name="cv" Series="122666" Issue="737761" />
+</Book>
+<Book Series="New Mutants" Number="9" Volume="2020" Year="2020">
+<Database Name="cv" Series="122666" Issue="740822" />
+</Book>
+<Book Series="New Mutants" Number="10" Volume="2020" Year="2020">
+<Database Name="cv" Series="122666" Issue="767932" />
+</Book>
+<Book Series="New Mutants" Number="11" Volume="2020" Year="2020">
+<Database Name="cv" Series="122666" Issue="781436" />
+</Book>
+<Book Series="Empyre: X-Men" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="781433" />
+</Book>
+<Book Series="Empyre: X-Men" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="787350" />
+</Book>
+<Book Series="Empyre: X-Men" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="791925" />
+</Book>
+<Book Series="Empyre: X-Men" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="128880" Issue="794935" />
+</Book>
+<Book Series="New Mutants" Number="14" Volume="2020" Year="2021">
+<Database Name="cv" Series="122666" Issue="821499" />
+</Book>
+<Book Series="New Mutants" Number="15" Volume="2020" Year="2021">
+<Database Name="cv" Series="122666" Issue="826560" />
+</Book>
+<Book Series="New Mutants" Number="16" Volume="2020" Year="2021">
+<Database Name="cv" Series="122666" Issue="830031" />
+</Book>
+<Book Series="New Mutants" Number="20" Volume="2020" Year="2021">
+<Database Name="cv" Series="122666" Issue="872877" />
+</Book>
+<Book Series="New Mutants" Number="21" Volume="2020" Year="2021">
+<Database Name="cv" Series="122666" Issue="882897" />
+</Book>
+<Book Series="New Mutants" Number="22" Volume="2020" Year="2021">
+<Database Name="cv" Series="122666" Issue="888638" />
+</Book>
+<Book Series="New Mutants" Number="23" Volume="2020" Year="2022">
+<Database Name="cv" Series="122666" Issue="896124" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="937937" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="941552" />
+</Book>
+<Book Series="A.X.E.: Death to the Mutants" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144577" Issue="942722" />
+</Book>
+<Book Series="X-Men" Number="13" Volume="2021" Year="2022">
+<Database Name="cv" Series="137402" Issue="942704" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="943804" />
+</Book>
+<Book Series="A.X.E.: Death to the Mutants" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="144577" Issue="946198" />
+</Book>
+<Book Series="X-Men" Number="14" Volume="2021" Year="2022">
+<Database Name="cv" Series="137402" Issue="944674" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="4" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="946709" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="5" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="948102" />
+</Book>
+<Book Series="A.X.E.: Death to the Mutants" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="144577" Issue="950484" />
+</Book>
+<Book Series="A.X.E.: Judgment Day" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="144123" Issue="952304" />
+</Book>
+<Book Series="New Mutants" Number="25" Volume="2020" Year="2022">
+<Database Name="cv" Series="122666" Issue="924785" />
+</Book>
+<Book Series="New Mutants" Number="26" Volume="2020" Year="2022">
+<Database Name="cv" Series="122666" Issue="931631" />
+</Book>
+<Book Series="New Mutants" Number="27" Volume="2020" Year="2022">
+<Database Name="cv" Series="122666" Issue="935764" />
+</Book>
+<Book Series="New Mutants" Number="28" Volume="2020" Year="2022">
+<Database Name="cv" Series="122666" Issue="942712" />
+</Book>
+<Book Series="New Mutants" Number="29" Volume="2020" Year="2022">
+<Database Name="cv" Series="122666" Issue="946211" />
+</Book>
+<Book Series="New Mutants" Number="30" Volume="2020" Year="2022">
+<Database Name="cv" Series="122666" Issue="948113" />
+</Book>
+<Book Series="X-Men" Number="15" Volume="2021" Year="2022">
+<Database Name="cv" Series="137402" Issue="949129" />
+</Book>
+<Book Series="X-Men" Number="16" Volume="2021" Year="2022">
+<Database Name="cv" Series="137402" Issue="951447" />
+</Book>
+<Book Series="X-Men" Number="17" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="956846" />
+</Book>
+<Book Series="Midnight Suns" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145040" Issue="946707" />
+</Book>
+<Book Series="Midnight Suns" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="145040" Issue="951651" />
+</Book>
+<Book Series="Midnight Suns" Number="3" Volume="2022" Year="2023">
+<Database Name="cv" Series="145040" Issue="956796" />
+</Book>
+<Book Series="Midnight Suns" Number="4" Volume="2022" Year="2023">
+<Database Name="cv" Series="145040" Issue="961941" />
+</Book>
+<Book Series="Midnight Suns" Number="5" Volume="2022" Year="2023">
+<Database Name="cv" Series="145040" Issue="966423" />
+</Book>
+<Book Series="Dark Web" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146735" Issue="959000" />
+</Book>
+<Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146875" Issue="960026" />
+</Book>
+<Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
+<Database Name="cv" Series="146875" Issue="961948" />
+</Book>
+<Book Series="Dark Web: X-Men" Number="3" Volume="2022" Year="2023">
+<Database Name="cv" Series="146875" Issue="964964" />
+</Book>
+<Book Series="Dark Web: Finale" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="147905" Issue="967787" />
+</Book>
+<Book Series="X-Men" Number="19" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="971885" />
+</Book>
+<Book Series="X-Men" Number="20" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="975695" />
+</Book>
+<Book Series="X-Men" Number="21" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="982356" />
+</Book>
+<Book Series="X-Men" Number="23" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="993241" />
+</Book>
+<Book Series="X-Men" Number="24" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="999414" />
+</Book>
+<Book Series="X-Men: Hellfire Gala" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="152567" Issue="1003871" />
+</Book>
+<Book Series="Realm of X" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="153121" Issue="1010053" />
+</Book>
+<Book Series="Realm of X" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="153121" Issue="1018027" />
+</Book>
+<Book Series="Realm of X" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="153121" Issue="1026554" />
+</Book>
+<Book Series="Realm of X" Number="4" Volume="2023" Year="2024">
+<Database Name="cv" Series="153121" Issue="1031697" />
+</Book>
+<Book Series="X-Men" Number="32" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1047095" />
+</Book>
+<Book Series="Fall of the House of X" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="155874" Issue="1047947" />
+</Book>
+<Book Series="X-Men" Number="33" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1050579" />
+</Book>
+<Book Series="Fall of the House of X" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="155874" Issue="1051494" />
+</Book>
+<Book Series="Fall of the House of X" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="155874" Issue="1056203" />
+</Book>
+<Book Series="Rise of the Powers of X" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="155968" Issue="1057008" />
+</Book>
+<Book Series="X-Men" Number="35" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1058720" />
+</Book>
+<Book Series="X-Men: Blood Hunt - Magik" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="158599" Issue="1060868" />
+</Book>
+<Book Series="X-Men" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="158814" Issue="1062857" />
+</Book>
+<Book Series="X-Men" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="158814" Issue="1066713" />
+</Book>
+<Book Series="X-Men" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="158814" Issue="1067992" />
+</Book>
+<Book Series="X-Men" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="158814" Issue="1070144" />
+</Book>
+<Book Series="X-Men" Number="6" Volume="2024" Year="2024">
+<Database Name="cv" Series="158814" Issue="1074687" />
+</Book>
+<Book Series="X-Men" Number="8" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1080305" />
+</Book>
+<Book Series="Uncanny X-Men" Number="7" Volume="2024" Year="2025">
+<Database Name="cv" Series="159189" Issue="1081560" />
+</Book>
+<Book Series="X-Men" Number="9" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1086231" />
+</Book>
+<Book Series="Uncanny X-Men" Number="8" Volume="2024" Year="2025">
+<Database Name="cv" Series="159189" Issue="1089482" />
+</Book>
+<Book Series="X-Men" Number="10" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1093030" />
+</Book>
+<Book Series="Magik" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1089475" />
+</Book>
+<Book Series="Magik" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1095601" />
+</Book>
+<Book Series="Magik" Number="3" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1099501" />
+</Book>
+<Book Series="Magik" Number="4" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1106060" />
+</Book>
+<Book Series="Magik" Number="5" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1112957" />
+</Book>
+<Book Series="X-Men" Number="11" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1095610" />
+</Book>
+<Book Series="X-Men" Number="12" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1097018" />
+</Book>
+<Book Series="X-Men" Number="14" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1101451" />
+</Book>
+<Book Series="X-Men" Number="15" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1106071" />
+</Book>
+<Book Series="X-Men" Number="16" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1108868" />
+</Book>
+<Book Series="X-Men" Number="17" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1114025" />
+</Book>
+<Book Series="X-Men" Number="18" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1116316" />
+</Book>
+<Book Series="Magik" Number="6" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1115818" />
+</Book>
+<Book Series="Magik" Number="7" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1119098" />
+</Book>
+<Book Series="Magik" Number="8" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1125791" />
+</Book>
+<Book Series="Magik" Number="9" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1130253" />
+</Book>
+<Book Series="Magik" Number="10" Volume="2025" Year="2025">
+<Database Name="cv" Series="161957" Issue="1133824" />
+</Book>
+<Book Series="X-Men" Number="20" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1125801" />
+</Book>
+<Book Series="X-Men" Number="21" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1128976" />
+</Book>
+<Book Series="X-Men" Number="22" Volume="2024" Year="2025">
+<Database Name="cv" Series="158814" Issue="1134954" />
 </Book>
 </Books>
 <Matchers />
