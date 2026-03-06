@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] Moon Knight no events (WEB-CBRO)</Name>
+<Name>[Marvel] Moon Knight with events (WEB-CBRO)</Name>
 <NumIssues>247</NumIssues>
 <Books>
 <Book Series="Werewolf by Night" Number="32" Volume="1972" Year="1975">
@@ -747,3 +747,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+
