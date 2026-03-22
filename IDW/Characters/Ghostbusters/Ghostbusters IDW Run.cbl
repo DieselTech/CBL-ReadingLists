@@ -3,28 +3,28 @@
 <Name>Ghostbusters IDW Run</Name>
 <NumIssues>112</NumIssues>
 <Books>
-<Book Series="Ghostbusters: The Other Side" Number="1" Volume="2009" Year="2008">
+<Book Series="Ghostbusters: The Other Side" Number="1" Volume="2008" Year="2008">
 <Database Name="cv" Series="23419" Issue="140462" />
 </Book>
-<Book Series="Ghostbusters: The Other Side" Number="2" Volume="2009" Year="2008">
+<Book Series="Ghostbusters: The Other Side" Number="2" Volume="2008" Year="2008">
 <Database Name="cv" Series="23419" Issue="142301" />
 </Book>
-<Book Series="Ghostbusters: The Other Side" Number="3" Volume="2009" Year="2008">
+<Book Series="Ghostbusters: The Other Side" Number="3" Volume="2008" Year="2008">
 <Database Name="cv" Series="23419" Issue="146908" />
 </Book>
-<Book Series="Ghostbusters: The Other Side" Number="4" Volume="2009" Year="2009">
+<Book Series="Ghostbusters: The Other Side" Number="4" Volume="2008" Year="2009">
 <Database Name="cv" Series="23419" Issue="150069" />
 </Book>
-<Book Series="Ghostbusters: Displaced Aggression" Number="1" Volume="2010" Year="2009">
+<Book Series="Ghostbusters: Displaced Aggression" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="28566" Issue="176006" />
 </Book>
-<Book Series="Ghostbusters: Displaced Aggression" Number="2" Volume="2010" Year="2009">
+<Book Series="Ghostbusters: Displaced Aggression" Number="2" Volume="2009" Year="2009">
 <Database Name="cv" Series="28566" Issue="176002" />
 </Book>
-<Book Series="Ghostbusters: Displaced Aggression" Number="3" Volume="2010" Year="2009">
+<Book Series="Ghostbusters: Displaced Aggression" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="28566" Issue="186150" />
 </Book>
-<Book Series="Ghostbusters: Displaced Aggression" Number="4" Volume="2010" Year="2009">
+<Book Series="Ghostbusters: Displaced Aggression" Number="4" Volume="2009" Year="2009">
 <Database Name="cv" Series="28566" Issue="188305" />
 </Book>
 <Book Series="Ghostbusters: Past, Present, and Future" Number="1" Volume="2009" Year="2009">
@@ -156,16 +156,16 @@
 <Book Series="Ghostbusters" Number="20" Volume="2013" Year="2014">
 <Database Name="cv" Series="57184" Issue="466348" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters" Number="1" Volume="2015" Year="2014">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="77699" Issue="468489" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters" Number="2" Volume="2015" Year="2014">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters" Number="2" Volume="2014" Year="2014">
 <Database Name="cv" Series="77699" Issue="471347" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters" Number="3" Volume="2015" Year="2014">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters" Number="3" Volume="2014" Year="2014">
 <Database Name="cv" Series="77699" Issue="474650" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters" Number="4" Volume="2015" Year="2015">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters" Number="4" Volume="2014" Year="2015">
 <Database Name="cv" Series="77699" Issue="477886" />
 </Book>
 <Book Series="Ghostbusters: Get Real" Number="1" Volume="2015" Year="2015">
@@ -240,61 +240,61 @@
 <Book Series="Ghostbusters 101" Number="6" Volume="2017" Year="2017">
 <Database Name="cv" Series="100059" Issue="617489" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="1" Volume="2018" Year="2017">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="105719" Issue="634222" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="2" Volume="2018" Year="2017">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="105719" Issue="635899" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="3" Volume="2018" Year="2017">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="105719" Issue="637565" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="4" Volume="2018" Year="2017">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="4" Volume="2017" Year="2017">
 <Database Name="cv" Series="105719" Issue="640428" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="5" Volume="2018" Year="2017">
+<Book Series="Teenage Mutant Ninja Turtles/Ghostbusters 2" Number="5" Volume="2017" Year="2017">
 <Database Name="cv" Series="105719" Issue="643102" />
 </Book>
 <Book Series="Ghostbusters Annual 2018" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="109056" Issue="661798" />
 </Book>
-<Book Series="Ghostbusters: Crossing Over" Number="1" Volume="2019" Year="2018">
+<Book Series="Ghostbusters: Crossing Over" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="109172" Issue="662591" />
 </Book>
-<Book Series="Ghostbusters: Crossing Over" Number="2" Volume="2019" Year="2018">
+<Book Series="Ghostbusters: Crossing Over" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="109172" Issue="666662" />
 </Book>
-<Book Series="Ghostbusters: Crossing Over" Number="3" Volume="2019" Year="2018">
+<Book Series="Ghostbusters: Crossing Over" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="109172" Issue="672189" />
 </Book>
-<Book Series="Ghostbusters: Crossing Over" Number="4" Volume="2019" Year="2018">
+<Book Series="Ghostbusters: Crossing Over" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="109172" Issue="675831" />
 </Book>
-<Book Series="Ghostbusters: Crossing Over" Number="5" Volume="2019" Year="2018">
+<Book Series="Ghostbusters: Crossing Over" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="109172" Issue="678370" />
 </Book>
-<Book Series="Ghostbusters: Crossing Over" Number="6" Volume="2019" Year="2018">
+<Book Series="Ghostbusters: Crossing Over" Number="6" Volume="2018" Year="2018">
 <Database Name="cv" Series="109172" Issue="683665" />
 </Book>
-<Book Series="Ghostbusters: Crossing Over" Number="7" Volume="2019" Year="2018">
+<Book Series="Ghostbusters: Crossing Over" Number="7" Volume="2018" Year="2018">
 <Database Name="cv" Series="109172" Issue="688926" />
 </Book>
-<Book Series="Ghostbusters: Crossing Over" Number="8" Volume="2019" Year="2018">
+<Book Series="Ghostbusters: Crossing Over" Number="8" Volume="2018" Year="2018">
 <Database Name="cv" Series="109172" Issue="691853" />
 </Book>
-<Book Series="Ghostbusters: Answer the Call" Number="1" Volume="2018" Year="2017">
+<Book Series="Ghostbusters: Answer the Call" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="105525" Issue="632536" />
 </Book>
-<Book Series="Ghostbusters: Answer the Call" Number="2" Volume="2018" Year="2017">
+<Book Series="Ghostbusters: Answer the Call" Number="2" Volume="2017" Year="2017">
 <Database Name="cv" Series="105525" Issue="650596" />
 </Book>
-<Book Series="Ghostbusters: Answer the Call" Number="3" Volume="2018" Year="2017">
+<Book Series="Ghostbusters: Answer the Call" Number="3" Volume="2017" Year="2017">
 <Database Name="cv" Series="105525" Issue="658751" />
 </Book>
-<Book Series="Ghostbusters: Answer the Call" Number="4" Volume="2018" Year="2018">
+<Book Series="Ghostbusters: Answer the Call" Number="4" Volume="2017" Year="2018">
 <Database Name="cv" Series="105525" Issue="663441" />
 </Book>
-<Book Series="Ghostbusters: Answer the Call" Number="5" Volume="2018" Year="2018">
+<Book Series="Ghostbusters: Answer the Call" Number="5" Volume="2017" Year="2018">
 <Database Name="cv" Series="105525" Issue="669400" />
 </Book>
 <Book Series="Ghostbusters 20/20" Number="1" Volume="2019" Year="2019">
