@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>X-23 (CBRO)</Name>
-<NumIssues>282</NumIssues>
+<Name>[Marvel] X-23 with events (WEB-CBRO)</Name>
+<NumIssues>302</NumIssues>
 <Books>
 <Book Series="X-23" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18176" Issue="106461" />
@@ -219,23 +219,11 @@
 <Book Series="New Mutants" Number="6" Volume="2009" Year="2009">
 <Database Name="cv" Series="26327" Issue="179208" />
 </Book>
-<Book Series="X-Force" Number="21" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="182545" />
-</Book>
 <Book Series="New Mutants" Number="7" Volume="2009" Year="2010">
 <Database Name="cv" Series="26327" Issue="184805" />
 </Book>
-<Book Series="X-Force Annual" Number="1" Volume="2009" Year="2010">
-<Database Name="cv" Series="30173" Issue="185752" />
-</Book>
-<Book Series="X-Force" Number="22" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="187677" />
-</Book>
 <Book Series="New Mutants" Number="8" Volume="2009" Year="2010">
 <Database Name="cv" Series="26327" Issue="189509" />
-</Book>
-<Book Series="X-Force" Number="23" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="194457" />
 </Book>
 <Book Series="X-Men: Legacy" Number="231" Volume="2008" Year="2010">
 <Database Name="cv" Series="20691" Issue="189520" />
@@ -243,11 +231,20 @@
 <Book Series="X-Men: Legacy" Number="232" Volume="2008" Year="2010">
 <Database Name="cv" Series="20691" Issue="194468" />
 </Book>
-<Book Series="X-Force" Number="24" Volume="2008" Year="2010">
-<Database Name="cv" Series="20511" Issue="198343" />
-</Book>
 <Book Series="X-Men: Legacy" Number="233" Volume="2008" Year="2010">
 <Database Name="cv" Series="20691" Issue="198349" />
+</Book>
+<Book Series="X-Force" Number="21" Volume="2008" Year="2010">
+<Database Name="cv" Series="20511" Issue="182545" />
+</Book>
+<Book Series="X-Force" Number="22" Volume="2008" Year="2010">
+<Database Name="cv" Series="20511" Issue="187677" />
+</Book>
+<Book Series="X-Force" Number="23" Volume="2008" Year="2010">
+<Database Name="cv" Series="20511" Issue="194457" />
+</Book>
+<Book Series="X-Force" Number="24" Volume="2008" Year="2010">
+<Database Name="cv" Series="20511" Issue="198343" />
 </Book>
 <Book Series="X-Force" Number="25" Volume="2008" Year="2010">
 <Database Name="cv" Series="20511" Issue="202489" />
@@ -318,41 +315,38 @@
 <Book Series="X-Men: Second Coming" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="32271" Issue="224511" />
 </Book>
-<Book Series="Wolverine" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="35263" Issue="232524" />
-</Book>
 <Book Series="Daken: Dark Wolverine" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35409" Issue="233620" />
-</Book>
-<Book Series="X-23" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="35496" Issue="234641" />
-</Book>
-<Book Series="Wolverine" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="35263" Issue="237113" />
 </Book>
 <Book Series="Daken: Dark Wolverine" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="35409" Issue="238326" />
 </Book>
-<Book Series="X-23" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="35496" Issue="239137" />
-</Book>
-<Book Series="Wolverine" Number="3" Volume="2010" Year="2011">
-<Database Name="cv" Series="35263" Issue="240986" />
-</Book>
 <Book Series="Daken: Dark Wolverine" Number="3" Volume="2010" Year="2011">
 <Database Name="cv" Series="35409" Issue="244790" />
 </Book>
+<Book Series="Wolverine" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35263" Issue="232524" />
+</Book>
+<Book Series="Wolverine" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="35263" Issue="237113" />
+</Book>
+<Book Series="X-23" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35496" Issue="234641" />
+</Book>
+<Book Series="X-23" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="35496" Issue="239137" />
+</Book>
 <Book Series="X-23" Number="3" Volume="2010" Year="2011">
 <Database Name="cv" Series="35496" Issue="244789" />
+</Book>
+<Book Series="Wolverine" Number="3" Volume="2010" Year="2011">
+<Database Name="cv" Series="35263" Issue="240986" />
 </Book>
 <Book Series="Wolverine" Number="4" Volume="2010" Year="2011">
 <Database Name="cv" Series="35263" Issue="249226" />
 </Book>
 <Book Series="Wolverine" Number="5" Volume="2010" Year="2011">
 <Database Name="cv" Series="35263" Issue="258414" />
-</Book>
-<Book Series="Wolverine" Number="5.1" Volume="2010" Year="2011">
-<Database Name="cv" Series="35263" Issue="261260" />
 </Book>
 <Book Series="Wolverine" Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="35263" Issue="262617" />
@@ -848,6 +842,72 @@
 </Book>
 <Book Series="Age of X-Man Omega" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120236" Issue="713851" />
+</Book>
+<Book Series="Fallen Angels" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="122814" Issue="727257" />
+</Book>
+<Book Series="Fallen Angels" Number="2" Volume="2019" Year="2020">
+<Database Name="cv" Series="122814" Issue="728972" />
+</Book>
+<Book Series="Fallen Angels" Number="3" Volume="2019" Year="2020">
+<Database Name="cv" Series="122814" Issue="730333" />
+</Book>
+<Book Series="Fallen Angels" Number="4" Volume="2019" Year="2020">
+<Database Name="cv" Series="122814" Issue="731511" />
+</Book>
+<Book Series="Fallen Angels" Number="5" Volume="2019" Year="2020">
+<Database Name="cv" Series="122814" Issue="732878" />
+</Book>
+<Book Series="Fallen Angels" Number="6" Volume="2019" Year="2020">
+<Database Name="cv" Series="122814" Issue="735522" />
+</Book>
+<Book Series="X-Men" Number="5" Volume="2019" Year="2020">
+<Database Name="cv" Series="122077" Issue="735535" />
+</Book>
+<Book Series="X-Men" Number="18" Volume="2019" Year="2021">
+<Database Name="cv" Series="122077" Issue="830036" />
+</Book>
+<Book Series="X-Men" Number="19" Volume="2019" Year="2021">
+<Database Name="cv" Series="122077" Issue="840961" />
+</Book>
+<Book Series="X-Men" Number="17" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="956846" />
+</Book>
+<Book Series="X-Men" Number="18" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="963985" />
+</Book>
+<Book Series="X-Men" Number="19" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="971885" />
+</Book>
+<Book Series="X-Men" Number="20" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="975695" />
+</Book>
+<Book Series="X-Men" Number="21" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="982356" />
+</Book>
+<Book Series="X-Men" Number="22" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="989671" />
+</Book>
+<Book Series="X-Men" Number="23" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="993241" />
+</Book>
+<Book Series="X-Men" Number="24" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="999414" />
+</Book>
+<Book Series="X-Men" Number="25" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="1004347" />
+</Book>
+<Book Series="X-Men" Number="27" Volume="2021" Year="2023">
+<Database Name="cv" Series="137402" Issue="1020544" />
+</Book>
+<Book Series="X-Men" Number="28" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1027605" />
+</Book>
+<Book Series="X-Men" Number="30" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1040949" />
+</Book>
+<Book Series="X-Men" Number="31" Volume="2021" Year="2024">
+<Database Name="cv" Series="137402" Issue="1043844" />
 </Book>
 </Books>
 <Matchers />
