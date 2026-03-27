@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Miles Morales with events (WEB-CBRO)</Name>
-<NumIssues>554</NumIssues>
+<NumIssues>578</NumIssues>
 <Books>
 <Book Series="Ultimate Comics Spider-Man" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42821" Issue="292620" />
@@ -1251,6 +1251,33 @@
 <Book Series="Champions" Number="10" Volume="2019" Year="2019">
 <Database Name="cv" Series="116243" Issue="721147" />
 </Book>
+<Book Series="Free Comic Book Day 2019 (Spider-Man/Venom)" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="118758" Issue="707848" />
+</Book>
+<Book Series="Absolute Carnage: Symbiote of Vengeance" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="121221" Issue="718743" />
+</Book>
+<Book Series="Absolute Carnage: Symbiote Spider-Man" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="121056" Issue="718119" />
+</Book>
+<Book Series="Absolute Carnage: Separation Anxiety" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120628" Issue="716348" />
+</Book>
+<Book Series="Absolute Carnage: Weapon Plus" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="122664" Issue="726199" />
+</Book>
+<Book Series="Absolute Carnage" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120532" Issue="715296" />
+</Book>
+<Book Series="Absolute Carnage" Number="2" Volume="2019" Year="2019">
+<Database Name="cv" Series="120532" Issue="717508" />
+</Book>
+<Book Series="Venom" Number="17" Volume="2018" Year="2019">
+<Database Name="cv" Series="110770" Issue="717535" />
+</Book>
+<Book Series="Absolute Carnage: Miles Morales" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120946" Issue="717510" />
+</Book>
 <Book Series="Absolute Carnage: Miles Morales" Number="2" Volume="2019" Year="2019">
 <Database Name="cv" Series="120946" Issue="720155" />
 </Book>
@@ -1556,6 +1583,51 @@
 </Book>
 <Book Series="Miles Morales: Spider-Man" Number="19" Volume="2022" Year="2024">
 <Database Name="cv" Series="146734" Issue="1051497" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1047088" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1051499" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1056209" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1060858" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1063236" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="6" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1066302" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="7" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1068659" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="8" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1073889" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="9" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1077645" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="10" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1083734" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="11" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1088574" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="12" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1094614" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="13" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1097723" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="14" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1104106" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="15" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1109658" />
 </Book>
 <Book Series="Miles Morales: Spider-Man" Number="20" Volume="2022" Year="2024">
 <Database Name="cv" Series="146734" Issue="1055027" />
