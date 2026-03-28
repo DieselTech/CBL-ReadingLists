@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Punisher (CBRO)</Name>
-<NumIssues>471</NumIssues>
+<Name>[Marvel] Punisher with events (WEB-CBRO)</Name>
+<NumIssues>520</NumIssues>
 <Books>
 <Book Series="The Amazing Spider-Man" Number="129" Volume="1963" Year="1974">
 <Database Name="cv" Series="2127" Issue="105443" />
@@ -18,8 +18,8 @@
 <Book Series="The Punisher" Number="49" Volume="1987" Year="1991">
 <Database Name="cv" Series="3855" Issue="34308" />
 </Book>
-<Book Series="The Punisher War Journal" Number="1" Volume="1988" Year="1990">
-<Database Name="cv" Series="4066" Issue="189672" />
+<Book Series="The Punisher War Journal" Number="38" Volume="1988" Year="1992">
+<Database Name="cv" Series="4066" Issue="77415" />
 </Book>
 <Book Series="The Punisher War Journal" Number="39" Volume="1988" Year="1992">
 <Database Name="cv" Series="4066" Issue="77416" />
@@ -1442,6 +1442,126 @@
 </Book>
 <Book Series="The Punisher" Number="16" Volume="2018" Year="2019">
 <Database Name="cv" Series="112965" Issue="721158" />
+</Book>
+<Book Series="Ravencroft" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="124681" Issue="735527" />
+</Book>
+<Book Series="Ravencroft" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="124681" Issue="738616" />
+</Book>
+<Book Series="Ravencroft" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="124681" Issue="743445" />
+</Book>
+<Book Series="Ravencroft" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="124681" Issue="760744" />
+</Book>
+<Book Series="Ravencroft" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="124681" Issue="772338" />
+</Book>
+<Book Series="Punisher: Soviet" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="122818" Issue="727265" />
+</Book>
+<Book Series="Punisher: Soviet" Number="2" Volume="2019" Year="2020">
+<Database Name="cv" Series="122818" Issue="730342" />
+</Book>
+<Book Series="Punisher: Soviet" Number="3" Volume="2019" Year="2020">
+<Database Name="cv" Series="122818" Issue="731976" />
+</Book>
+<Book Series="Punisher: Soviet" Number="4" Volume="2019" Year="2020">
+<Database Name="cv" Series="122818" Issue="738615" />
+</Book>
+<Book Series="Punisher: Soviet" Number="5" Volume="2019" Year="2020">
+<Database Name="cv" Series="122818" Issue="740823" />
+</Book>
+<Book Series="Punisher: Soviet" Number="6" Volume="2019" Year="2020">
+<Database Name="cv" Series="122818" Issue="743444" />
+</Book>
+<Book Series="Punisher" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141843" Issue="910618" />
+</Book>
+<Book Series="Punisher" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="141843" Issue="919307" />
+</Book>
+<Book Series="Punisher" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="141843" Issue="926195" />
+</Book>
+<Book Series="Punisher" Number="4" Volume="2022" Year="2022">
+<Database Name="cv" Series="141843" Issue="935750" />
+</Book>
+<Book Series="Punisher" Number="5" Volume="2022" Year="2022">
+<Database Name="cv" Series="141843" Issue="941568" />
+</Book>
+<Book Series="Punisher" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="141843" Issue="946152" />
+</Book>
+<Book Series="Punisher" Number="7" Volume="2022" Year="2023">
+<Database Name="cv" Series="141843" Issue="953025" />
+</Book>
+<Book Series="Punisher" Number="8" Volume="2022" Year="2023">
+<Database Name="cv" Series="141843" Issue="958987" />
+</Book>
+<Book Series="Punisher" Number="9" Volume="2022" Year="2023">
+<Database Name="cv" Series="141843" Issue="964959" />
+</Book>
+<Book Series="Punisher" Number="10" Volume="2022" Year="2023">
+<Database Name="cv" Series="141843" Issue="978486" />
+</Book>
+<Book Series="Punisher" Number="11" Volume="2022" Year="2023">
+<Database Name="cv" Series="141843" Issue="984179" />
+</Book>
+<Book Series="Punisher" Number="12" Volume="2022" Year="2023">
+<Database Name="cv" Series="141843" Issue="992289" />
+</Book>
+<Book Series="Punisher War Journal: Blitz" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="143765" Issue="931672" />
+</Book>
+<Book Series="Punisher War Journal: Brother" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145514" Issue="950689" />
+</Book>
+<Book Series="Punisher War Journal: Base" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="148480" Issue="973016" />
+</Book>
+<Book Series="Punisher" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="154552" Issue="1028630" />
+</Book>
+<Book Series="Punisher" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="154552" Issue="1034343" />
+</Book>
+<Book Series="Punisher" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="154552" Issue="1042225" />
+</Book>
+<Book Series="Punisher" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="154552" Issue="1046271" />
+</Book>
+<Book Series="Punisher: Red Band" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="166904" Issue="1132008" />
+</Book>
+<Book Series="Punisher: Red Band" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="166904" Issue="1138322" />
+</Book>
+<Book Series="Punisher: Red Band" Number="3" Volume="2025" Year="2026">
+<Database Name="cv" Series="166904" Issue="1144097" />
+</Book>
+<Book Series="Punisher: Red Band" Number="4" Volume="2025" Year="2026">
+<Database Name="cv" Series="166904" Issue="1150655" />
+</Book>
+<Book Series="Punisher: Red Band" Number="5" Volume="2025" Year="2026">
+<Database Name="cv" Series="166904" Issue="1154115" />
+</Book>
+<Book Series="Daredevil/Punisher: The Devil&apos;s Trigger" Number="1" Volume="2026" Year="2026">
+<Database Name="cv" Series="168720" Issue="1145508" />
+</Book>
+<Book Series="Daredevil/Punisher: The Devil&apos;s Trigger" Number="2" Volume="2026" Year="2026">
+<Database Name="cv" Series="168720" Issue="1148716" />
+</Book>
+<Book Series="Daredevil/Punisher: The Devil&apos;s Trigger" Number="3" Volume="2026" Year="2026">
+<Database Name="cv" Series="168720" Issue="1153449" />
+</Book>
+<Book Series="Daredevil/Punisher: The Devil&apos;s Trigger" Number="4" Volume="2026" Year="2026">
+<Database Name="cv" Series="168720" Issue="1156271" />
+</Book>
+<Book Series="Daredevil/Punisher: The Devil&apos;s Trigger" Number="5" Volume="2026" Year="2026">
+<Database Name="cv" Series="168720" Issue="1158151" />
 </Book>
 </Books>
 <Matchers />
