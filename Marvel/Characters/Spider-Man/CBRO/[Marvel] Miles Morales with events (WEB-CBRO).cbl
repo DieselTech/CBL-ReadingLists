@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] Miles Morales (CBRO) with events</Name>
-<NumIssues>519</NumIssues>
+<Name>[Marvel] Miles Morales with events (WEB-CBRO)</Name>
+<NumIssues>578</NumIssues>
 <Books>
 <Book Series="Ultimate Comics Spider-Man" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42821" Issue="292620" />
@@ -147,13 +147,13 @@
 <Book Series="Cataclysm: Ultimate Spider-Man" Number="1" Volume="2013" Year="2014">
 <Database Name="cv" Series="69122" Issue="433170" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="1" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="1" Volume="2013" Year="2014">
 <Database Name="cv" Series="68921" Issue="432326" />
 </Book>
 <Book Series="Cataclysm: The Ultimates" Number="1" Volume="2013" Year="2014">
 <Database Name="cv" Series="69371" Issue="433843" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="2" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="2" Volume="2013" Year="2014">
 <Database Name="cv" Series="68921" Issue="435576" />
 </Book>
 <Book Series="Cataclysm: The Ultimates" Number="2" Volume="2013" Year="2014">
@@ -168,13 +168,13 @@
 <Book Series="Cataclysm: Ultimate Spider-Man" Number="3" Volume="2013" Year="2014">
 <Database Name="cv" Series="69122" Issue="441410" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="3" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="3" Volume="2013" Year="2014">
 <Database Name="cv" Series="68921" Issue="441409" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="4" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="4" Volume="2013" Year="2014">
 <Database Name="cv" Series="68921" Issue="443980" />
 </Book>
-<Book Series="Cataclysm: The Ultimates' Last Stand" Number="5" Volume="2013" Year="2014">
+<Book Series="Cataclysm: The Ultimates&apos; Last Stand" Number="5" Volume="2013" Year="2014">
 <Database Name="cv" Series="68921" Issue="446478" />
 </Book>
 <Book Series="Survive" Number="1" Volume="2014" Year="2014">
@@ -663,13 +663,13 @@
 <Book Series="Guardians of the Galaxy" Number="11" Volume="2015" Year="2016">
 <Database Name="cv" Series="85290" Issue="547277" />
 </Book>
-<Book Series="Rocket Raccoon &amp; Groot" Number="8" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="547289" />
 </Book>
-<Book Series="Rocket Raccoon &amp; Groot" Number="9" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="549522" />
 </Book>
-<Book Series="Rocket Raccoon &amp; Groot" Number="10" Volume="2016" Year="2016">
+<Book Series="Rocket Raccoon &#38; Groot" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86989" Issue="551314" />
 </Book>
 <Book Series="Venom: Space Knight" Number="11" Volume="2015" Year="2016">
@@ -1559,6 +1559,183 @@
 </Book>
 <Book Series="Miles Morales: Spider-Man" Number="11" Volume="2022" Year="2023">
 <Database Name="cv" Series="146734" Issue="1025159" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="12" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1031694" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="13" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1034570" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="14" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1038292" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="15" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1039581" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="16" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1044780" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="17" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1046269" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="18" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1049276" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="19" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1051497" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1047088" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1051499" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1056209" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1060858" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1063236" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="6" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1066302" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="7" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1068659" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="8" Volume="2024" Year="2024">
+<Database Name="cv" Series="157126" Issue="1073889" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="9" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1077645" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="10" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1083734" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="11" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1088574" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="12" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1094614" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="13" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1097723" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="14" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1104106" />
+</Book>
+<Book Series="The Spectacular Spider-Men" Number="15" Volume="2024" Year="2025">
+<Database Name="cv" Series="157126" Issue="1109658" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="20" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1055027" />
+</Book>
+<Book Series="Blood Hunt" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="157939" Issue="1053535" />
+</Book>
+<Book Series="Blood Hunt" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="157939" Issue="1056201" />
+</Book>
+<Book Series="Blood Hunt" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="157939" Issue="1059110" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="21" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1059267" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="22" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1061873" />
+</Book>
+<Book Series="Blood Hunt" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="157939" Issue="1060853" />
+</Book>
+<Book Series="Blood Hunt" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="157939" Issue="1065017" />
+</Book>
+<Book Series="Blood Hunters" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="159187" Issue="1066298" />
+</Book>
+<Book Series="Blood Hunters" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="159187" Issue="1069413" />
+</Book>
+<Book Series="Blood Hunters" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="159187" Issue="1073883" />
+</Book>
+<Book Series="Blood Hunters" Number="4" Volume="2024" Year="2025">
+<Database Name="cv" Series="159187" Issue="1076590" />
+</Book>
+<Book Series="Blood Hunters" Number="5" Volume="2024" Year="2025">
+<Database Name="cv" Series="159187" Issue="1083721" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="23" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1066700" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="24" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1068656" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="25" Volume="2022" Year="2024">
+<Database Name="cv" Series="146734" Issue="1073886" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="26" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1078497" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="27" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1080274" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="28" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1088572" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="29" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1090272" />
+</Book>
+<Book Series="Miles Morales: Spider-Man Annual" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="159323" Issue="1067243" />
+</Book>
+<Book Series="Deadpool" Number="11" Volume="2024" Year="2025">
+<Database Name="cv" Series="157504" Issue="1095598" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="30" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1096441" />
+</Book>
+<Book Series="Deadpool" Number="12" Volume="2024" Year="2025">
+<Database Name="cv" Series="157504" Issue="1098340" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="31" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1099502" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="32" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1101444" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="33" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1109654" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="34" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1116814" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="35" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1119100" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="36" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1125792" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="37" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1128931" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="38" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1133826" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="39" Volume="2022" Year="2025">
+<Database Name="cv" Series="146734" Issue="1139080" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="40" Volume="2022" Year="2026">
+<Database Name="cv" Series="146734" Issue="1141925" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="41" Volume="2022" Year="2026">
+<Database Name="cv" Series="146734" Issue="1146689" />
+</Book>
+<Book Series="Miles Morales: Spider-Man" Number="42" Volume="2022" Year="2026">
+<Database Name="cv" Series="146734" Issue="1154066" />
 </Book>
 </Books>
 <Matchers />
