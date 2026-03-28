@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Chaos Universe</Name>
 <NumIssues>248</NumIssues>
 <Books>
-<Book Series="Evil Ernie" Number="1" Volume="1991" Year="1991">
-<Database Name="cv" Series="18112" Issue="106087" />
+<Book Series="Evil Ernie: Youth Gone Wild, Encore Presentation" Number="1" Volume="1996" Year="1996">
+<Database Name="cv" Series="19393" Issue="116219" />
 </Book>
-<Book Series="Evil Ernie" Number="2" Volume="1991" Year="1992">
-<Database Name="cv" Series="18112" Issue="127273" />
+<Book Series="Evil Ernie: Youth Gone Wild, Encore Presentation" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="19393" Issue="127222" />
 </Book>
-<Book Series="Evil Ernie" Number="3" Volume="1991" Year="1992">
-<Database Name="cv" Series="18112" Issue="127274" />
+<Book Series="Evil Ernie: Youth Gone Wild, Encore Presentation" Number="3" Volume="1996" Year="1997">
+<Database Name="cv" Series="19393" Issue="127223" />
 </Book>
-<Book Series="Evil Ernie" Number="4" Volume="1991" Year="1992">
-<Database Name="cv" Series="18112" Issue="127275" />
+<Book Series="Evil Ernie: Youth Gone Wild, Encore Presentation" Number="4" Volume="1996" Year="1997">
+<Database Name="cv" Series="19393" Issue="127224" />
 </Book>
-<Book Series="Evil Ernie" Number="5" Volume="1991" Year="1992">
-<Database Name="cv" Series="18112" Issue="127276" />
+<Book Series="Evil Ernie: Youth Gone Wild, Encore Presentation" Number="5" Volume="1996" Year="1997">
+<Database Name="cv" Series="19393" Issue="127225" />
 </Book>
 <Book Series="Evil Ernie Ashcan" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="150511" Issue="182179" />
@@ -120,13 +120,13 @@
 <Book Series="Lady Death / Vampirella" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="20723" Issue="124262" />
 </Book>
-<Book Series="Vampirella: Death &amp; Destruction" Number="1" Volume="1996" Year="1996">
+<Book Series="Vampirella: Death &#38; Destruction" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="19796" Issue="123632" />
 </Book>
-<Book Series="Vampirella: Death &amp; Destruction" Number="2" Volume="1996" Year="1996">
+<Book Series="Vampirella: Death &#38; Destruction" Number="2" Volume="1996" Year="1996">
 <Database Name="cv" Series="19796" Issue="118812" />
 </Book>
-<Book Series="Vampirella: Death &amp; Destruction" Number="3" Volume="1996" Year="1996">
+<Book Series="Vampirella: Death &#38; Destruction" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="19796" Issue="123633" />
 </Book>
 <Book Series="Vampirella: Blood Lust" Number="1" Volume="1997" Year="1997">
@@ -159,16 +159,16 @@
 <Book Series="Chastity: Theatre of Pain" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="19427" Issue="116398" />
 </Book>
-<Book Series="Suspira: The Great Working" Number="1" Volume="1997" Year="1997">
+<Book Series="Suspira" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="21202" Issue="127484" />
 </Book>
-<Book Series="Suspira: The Great Working" Number="2" Volume="1997" Year="1997">
+<Book Series="Suspira" Number="2" Volume="1997" Year="1997">
 <Database Name="cv" Series="21202" Issue="127494" />
 </Book>
-<Book Series="Suspira: The Great Working" Number="3" Volume="1997" Year="1997">
+<Book Series="Suspira" Number="3" Volume="1997" Year="1997">
 <Database Name="cv" Series="21202" Issue="127495" />
 </Book>
-<Book Series="Suspira: The Great Working" Number="4" Volume="1997" Year="1997">
+<Book Series="Suspira" Number="4" Volume="1997" Year="1997">
 <Database Name="cv" Series="21202" Issue="127496" />
 </Book>
 <Book Series="Purgatori: The Dracula Gambit" Number="1" Volume="1997" Year="1997">
@@ -318,7 +318,7 @@
 <Book Series="Vampirella" Number="14" Volume="1997" Year="1999">
 <Database Name="cv" Series="20415" Issue="123635" />
 </Book>
-<Book Series="Vampirella" Number="38" Volume="1997" Year="1999">
+<Book Series="Vampirella" Number="15" Volume="1997" Year="1999">
 <Database Name="cv" Series="20415" Issue="123686" />
 </Book>
 <Book Series="Purgatori" Number="4" Volume="1998" Year="1999">
@@ -465,7 +465,7 @@
 <Book Series="Armageddon" Number="4" Volume="1999" Year="2000">
 <Database Name="cv" Series="20574" Issue="123354" />
 </Book>
-<Book Series="Aftermath" Number="1" Volume="2000" Year="2000">
+<Book Series="Aftermath" Number="1" Volume="1999" Year="2000">
 <Database Name="cv" Series="20573" Issue="123318" />
 </Book>
 <Book Series="Vampirella" Number="21" Volume="1997" Year="1999">
@@ -732,7 +732,7 @@
 <Book Series="Lady Death: Re-Imagined" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="20731" Issue="124287" />
 </Book>
-<Book Series="Purgatori: Re-Imagined" Number="1" Volume="2002" Year="2002">
+<Book Series="Purgatori: re-Imagined" Number="1" Volume="2002" Year="2002">
 <Database Name="cv" Series="20695" Issue="124068" />
 </Book>
 <Book Series="Chastity: Re-imagined" Number="1" Volume="2002" Year="2002">
