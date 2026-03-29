@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>VenomWar-CBRO</Name>
+<Name>Venom War - CBRO Reading Order</Name>
 <NumIssues>37</NumIssues>
 <Books>
 <Book Series="Carnage" Number="8" Volume="2024" Year="2016">
