@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Lobo: The Last Czarnian</Name>
+  <NumIssues>76</NumIssues>
+  <Books>
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1991" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1992" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1992" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1993" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1993" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1993" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1993" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="2" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="3" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="4" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="5" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="6" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="7" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="2" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="8" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="9" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="10" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="11" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="12" Year="1994" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="13" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="14" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="15" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="16" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="17" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="18" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="19" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="20" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="21" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="22" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="3" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="23" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="24" Year="1995" />
+    <Book Series="Lobo (1993-1999)" Number="25" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="26" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="27" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="28" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="29" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="30" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="31" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="32" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="33" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="1" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="34" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="35" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="36" Year="1996" />
+    <Book Series="Lobo (1993-1999)" Number="37" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="38" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="39" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="40" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="41" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="42" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="43" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="44" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="45" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="46" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="47" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="48" Year="1997" />
+    <Book Series="Lobo (1993-1999)" Number="49" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="50" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="51" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="52" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="53" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="54" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="55" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="56" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="57" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="58" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="59" Year="1998" />
+    <Book Series="Lobo (1993-1999)" Number="60" Year="1999" />
+    <Book Series="Lobo (1993-1999)" Number="61" Year="1999" />
+    <Book Series="Lobo (1993-1999)" Number="62" Year="1999" />
+    <Book Series="Lobo (1993-1999)" Number="63" Year="1999" />
+    <Book Series="Lobo (1993-1999)" Number="64" Year="1999" />
+  </Books>
+</ReadingList>

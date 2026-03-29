@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Hitman: A Rage in Arkham</Name>
+  <NumIssues>68</NumIssues>
+  <Books>
+    <Book Series="Hitman" Number="1" Year="1996" />
+    <Book Series="Hitman" Number="2" Year="1996" />
+    <Book Series="Hitman" Number="3" Year="1996" />
+    <Book Series="Hitman" Number="4" Year="1996" />
+    <Book Series="Hitman" Number="5" Year="1996" />
+    <Book Series="Hitman" Number="6" Year="1996" />
+    <Book Series="Hitman" Number="7" Year="1996" />
+    <Book Series="Hitman" Number="8" Year="1996" />
+    <Book Series="Hitman" Number="9" Year="1996" />
+    <Book Series="Hitman" Number="10" Year="1996" />
+    <Book Series="Hitman" Number="11" Year="1996" />
+    <Book Series="Hitman" Number="12" Year="1997" />
+    <Book Series="Hitman" Number="13" Year="1997" />
+    <Book Series="Hitman" Number="14" Year="1997" />
+    <Book Series="Hitman" Number="15" Year="1997" />
+    <Book Series="Hitman" Number="16" Year="1997" />
+    <Book Series="Hitman" Number="17" Year="1997" />
+    <Book Series="Hitman" Number="18" Year="1997" />
+    <Book Series="Hitman" Number="19" Year="1997" />
+    <Book Series="Hitman" Number="20" Year="1997" />
+    <Book Series="Hitman" Number="21" Year="1997" />
+    <Book Series="Hitman" Number="22" Year="1997" />
+    <Book Series="Hitman" Number="23" Year="1997" />
+    <Book Series="Hitman" Number="24" Year="1998" />
+    <Book Series="Hitman" Number="25" Year="1998" />
+    <Book Series="Hitman" Number="26" Year="1998" />
+    <Book Series="Hitman" Number="27" Year="1998" />
+    <Book Series="Hitman" Number="28" Year="1998" />
+    <Book Series="Hitman" Number="29" Year="1998" />
+    <Book Series="Hitman" Number="30" Year="1998" />
+    <Book Series="Hitman" Number="31" Year="1998" />
+    <Book Series="Hitman" Number="32" Year="1998" />
+    <Book Series="Hitman" Number="33" Year="1998" />
+    <Book Series="Hitman" Number="34" Year="1998" />
+    <Book Series="Hitman" Number="35" Year="1999" />
+    <Book Series="Hitman" Number="36" Year="1999" />
+    <Book Series="Hitman" Number="37" Year="1999" />
+    <Book Series="Hitman" Number="38" Year="1999" />
+    <Book Series="Hitman" Number="39" Year="1999" />
+    <Book Series="Hitman" Number="40" Year="1999" />
+    <Book Series="Hitman" Number="41" Year="1999" />
+    <Book Series="Hitman" Number="42" Year="1999" />
+    <Book Series="Hitman" Number="43" Year="1999" />
+    <Book Series="Hitman" Number="44" Year="1999" />
+    <Book Series="Hitman" Number="45" Year="1999" />
+    <Book Series="Hitman" Number="46" Year="1999" />
+    <Book Series="Hitman" Number="47" Year="2000" />
+    <Book Series="Hitman" Number="48" Year="2000" />
+    <Book Series="Hitman" Number="49" Year="2000" />
+    <Book Series="Hitman" Number="50" Year="2000" />
+    <Book Series="Hitman" Number="51" Year="2000" />
+    <Book Series="Hitman" Number="52" Year="2000" />
+    <Book Series="Hitman" Number="53" Year="2000" />
+    <Book Series="Hitman" Number="54" Year="2000" />
+    <Book Series="Hitman" Number="55" Year="2000" />
+    <Book Series="Hitman" Number="56" Year="2000" />
+    <Book Series="Hitman" Number="57" Year="2000" />
+    <Book Series="Hitman" Number="58" Year="2000" />
+    <Book Series="Hitman" Number="59" Year="2001" />
+    <Book Series="Hitman" Number="60" Year="2001" />
+    <Book Series="Hitman" Number="2" Year="2014" />
+    <Book Series="Hitman" Number="5" Year="2014" />
+    <Book Series="Hitman" Number="6" Year="2014" />
+    <Book Series="Hitman" Number="7" Year="2014" />
+    <Book Series="Hitman" Number="1" Year="2017" />
+    <Book Series="Hitman" Number="4" Year="2018" />
+    <Book Series="Hitman" Number="1" Year="2019" />
+    <Book Series="Hitman" Number="3" Year="2022" />
+  </Books>
+</ReadingList>
