@@ -15,11 +15,11 @@
 <Book Series="The Amazing Spider-Man" Number="277" Volume="1963" Year="1986">
 <Database Name="cv" Series="2127" Issue="26884" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="113" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="26707" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="113" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="26707" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="114" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="26796" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="114" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="26796" />
 </Book>
 <Book Series="Web of Spider-Man" Number="14" Volume="1985" Year="1986">
 <Database Name="cv" Series="3519" Issue="26806" />
@@ -27,11 +27,11 @@
 <Book Series="Web of Spider-Man" Number="15" Volume="1985" Year="1986">
 <Database Name="cv" Series="3519" Issue="26904" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="115" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="26898" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="115" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="26898" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="116" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="26994" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="116" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="26994" />
 </Book>
 <Book Series="Captain America" Number="316" Volume="1968" Year="1986">
 <Database Name="cv" Series="2400" Issue="26694" />
@@ -75,8 +75,8 @@
 <Book Series="Web of Spider-Man" Number="17" Volume="1985" Year="1986">
 <Database Name="cv" Series="3519" Issue="27095" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="117" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="27090" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="117" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="27090" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="279" Volume="1963" Year="1986">
 <Database Name="cv" Series="2127" Issue="27076" />
@@ -156,8 +156,8 @@
 <Book Series="Daredevil" Number="235" Volume="1964" Year="1986">
 <Database Name="cv" Series="2190" Issue="27273" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="118" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="27187" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="118" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="27187" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="280" Volume="1963" Year="1986">
 <Database Name="cv" Series="2127" Issue="27174" />
@@ -168,17 +168,17 @@
 <Book Series="The Amazing Spider-Man" Number="282" Volume="1963" Year="1986">
 <Database Name="cv" Series="2127" Issue="27375" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="119" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="109297" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="119" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="109297" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="120" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="27392" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="120" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="27392" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="130" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28569" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="130" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28569" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="121" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="27497" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="121" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="27497" />
 </Book>
 <Book Series="Web of Spider-Man" Number="24" Volume="1985" Year="1987">
 <Database Name="cv" Series="3519" Issue="27913" />
@@ -198,3 +198,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

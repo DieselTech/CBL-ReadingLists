@@ -219,11 +219,11 @@
 <Book Series="The Avengers" Number="255" Volume="1963" Year="1985">
 <Database Name="cv" Series="2128" Issue="25480" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="105" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25796" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="105" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25796" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="106" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25890" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="106" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25890" />
 </Book>
 <Book Series="The Thing" Number="25" Volume="1983" Year="1985">
 <Database Name="cv" Series="3245" Issue="25698" />
@@ -300,3 +300,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

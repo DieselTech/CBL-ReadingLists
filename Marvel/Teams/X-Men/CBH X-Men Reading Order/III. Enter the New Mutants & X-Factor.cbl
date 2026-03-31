@@ -507,8 +507,8 @@
     <Book Series="The Amazing Spider-Man" Number="273" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="26495" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="111" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26514" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="111" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26514" />
     </Book>
     <Book Series="Secret Wars II" Number="8" Volume="1985" Year="1986">
       <Database Name="cv" Series="3506" Issue="57522" />
@@ -615,3 +615,4 @@
   </Books>
   <Matchers />
 </ReadingList>
+

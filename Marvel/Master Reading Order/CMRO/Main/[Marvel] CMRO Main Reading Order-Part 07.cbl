@@ -3,8 +3,8 @@
 <Name>[Marvel] CMRO Main Reading Order-Part 07</Name>
 <NumIssues>1000</NumIssues>
 <Books>
-<Book Series="The Spectacular Spider-Man" Number="124" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="27907" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="124" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="27907" />
 </Book>
 <Book Series="Strange Tales" Number="3" Volume="1987" Year="1987">
 <Database Name="cv" Series="3863" Issue="28231" />
@@ -18,11 +18,11 @@
 <Book Series="Alpha Flight" Number="49" Volume="1983" Year="1987">
 <Database Name="cv" Series="3217" Issue="28452" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="125" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28017" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="125" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28017" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="126" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28118" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="126" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28118" />
 </Book>
 <Book Series="Silver Surfer" Number="2" Volume="1987" Year="1987">
 <Database Name="cv" Series="3857" Issue="28466" />
@@ -171,8 +171,8 @@
 <Book Series="Daredevil" Number="246" Volume="1964" Year="1987">
 <Database Name="cv" Series="2190" Issue="28564" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="127" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28228" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="127" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28228" />
 </Book>
 <Book Series="Marvel Tales" Number="205" Volume="1966" Year="1987">
 <Database Name="cv" Series="2293" Issue="64970" />
@@ -207,11 +207,11 @@
 <Book Series="Thor" Number="384" Volume="1966" Year="1987">
 <Database Name="cv" Series="2294" Issue="28699" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="128" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28342" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="128" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28342" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="129" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28462" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="129" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28462" />
 </Book>
 <Book Series="Marvel Graphic Novel" Number="33" Volume="1982" Year="1988">
 <Database Name="cv" Series="3144" Issue="134236" />
@@ -246,8 +246,8 @@
 <Book Series="The Transformers Annual" Number="1987" Volume="1984" Year="1987">
 <Database Name="cv" Series="27889" Issue="170960" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="130" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28569" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="130" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28569" />
 </Book>
 <Book Series="Daredevil" Number="247" Volume="1964" Year="1987">
 <Database Name="cv" Series="2190" Issue="28686" />
@@ -357,8 +357,8 @@
 <Book Series="The Amazing Spider-Man" Number="293" Volume="1963" Year="1987">
 <Database Name="cv" Series="2127" Issue="28682" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="131" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28691" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="131" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28691" />
 </Book>
 <Book Series="Web of Spider-Man" Number="32" Volume="1985" Year="1987">
 <Database Name="cv" Series="3519" Issue="28819" />
@@ -366,8 +366,8 @@
 <Book Series="The Amazing Spider-Man" Number="294" Volume="1963" Year="1987">
 <Database Name="cv" Series="2127" Issue="28795" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="132" Volume="1976" Year="1987">
-<Database Name="cv" Series="2870" Issue="28805" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="132" Volume="1980" Year="1987">
+<Database Name="cv" Series="139754" Issue="28805" />
 </Book>
 <Book Series="Solo Avengers" Number="6" Volume="1987" Year="1988">
 <Database Name="cv" Series="3859" Issue="29597" />
@@ -522,8 +522,8 @@
 <Book Series="The New Mutants" Number="57" Volume="1983" Year="1987">
 <Database Name="cv" Series="3234" Issue="28842" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="134" Volume="1976" Year="1988">
-<Database Name="cv" Series="2870" Issue="29152" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="134" Volume="1980" Year="1988">
+<Database Name="cv" Series="139754" Issue="29152" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="135" Volume="1976" Year="1988">
 <Database Name="cv" Series="2870" Issue="29269" />
@@ -3006,3 +3006,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

@@ -96,14 +96,14 @@
     <Book Series="The Amazing Spider-Man" Number="210" Volume="1963" Year="1980">
       <Database Name="cv" Series="2127" Issue="20787" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="49" Volume="1976" Year="1980">
-      <Database Name="cv" Series="2870" Issue="20877" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="49" Volume="1980" Year="1980">
+      <Database Name="cv" Series="139754" Issue="20877" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="50" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="20983" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="50" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="20983" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="51" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21052" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="51" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21052" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="211" Volume="1963" Year="1980">
       <Database Name="cv" Series="2127" Issue="20851" />
@@ -114,14 +114,14 @@
     <Book Series="The Spectacular Spider-Man Annual" Number="2" Volume="1979" Year="1980">
       <Database Name="cv" Series="3012" Issue="20034" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="52" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21122" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="52" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21122" />
     </Book>
     <Book Series="Marvel Team-Up" Number="102" Volume="1972" Year="1981">
       <Database Name="cv" Series="2576" Issue="21042" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="53" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21192" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="53" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21192" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="213" Volume="1963" Year="1981">
       <Database Name="cv" Series="2127" Issue="21028" />
@@ -141,17 +141,17 @@
     <Book Series="Marvel Team-Up" Number="103" Volume="1972" Year="1981">
       <Database Name="cv" Series="2576" Issue="21115" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="54" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21255" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="54" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21255" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="55" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="109296" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="55" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="109296" />
     </Book>
     <Book Series="Marvel Team-Up" Number="106" Volume="1972" Year="1981">
       <Database Name="cv" Series="2576" Issue="21306" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="56" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21389" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="56" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21389" />
     </Book>
     <Book Series="Marvel Team-Up" Number="107" Volume="1972" Year="1981">
       <Database Name="cv" Series="2576" Issue="21380" />
@@ -159,8 +159,8 @@
     <Book Series="The Amazing Spider-Man" Number="218" Volume="1963" Year="1981">
       <Database Name="cv" Series="2127" Issue="21366" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="57" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21456" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="57" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21456" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="219" Volume="1963" Year="1981">
       <Database Name="cv" Series="2127" Issue="21432" />
@@ -168,11 +168,11 @@
     <Book Series="Marvel Team-Up Annual" Number="4" Volume="1976" Year="1981">
       <Database Name="cv" Series="2863" Issue="20904" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="71" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22533" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="71" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22533" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="58" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21528" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="58" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21528" />
     </Book>
     <Book Series="Marvel Team-Up" Number="108" Volume="1972" Year="1981">
       <Database Name="cv" Series="2576" Issue="21446" />
@@ -189,11 +189,11 @@
     <Book Series="Marvel Team-Up" Number="110" Volume="1972" Year="1981">
       <Database Name="cv" Series="2576" Issue="21600" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="59" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21609" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="59" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21609" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="60" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21676" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="60" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21676" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="222" Volume="1963" Year="1981">
       <Database Name="cv" Series="2127" Issue="21653" />
@@ -216,11 +216,11 @@
     <Book Series="The Spectacular Spider-Man Annual" Number="3" Volume="1979" Year="1981">
       <Database Name="cv" Series="3012" Issue="20901" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="61" Volume="1976" Year="1981">
-      <Database Name="cv" Series="2870" Issue="21747" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="61" Volume="1980" Year="1981">
+      <Database Name="cv" Series="139754" Issue="21747" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="62" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="21872" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="62" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="21872" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="224" Volume="1963" Year="1982">
       <Database Name="cv" Series="2127" Issue="21849" />
@@ -228,14 +228,14 @@
     <Book Series="The Amazing Spider-Man" Number="225" Volume="1963" Year="1982">
       <Database Name="cv" Series="2127" Issue="21919" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="63" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="21945" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="63" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="21945" />
     </Book>
     <Book Series="Marvel Team-Up" Number="114" Volume="1972" Year="1982">
       <Database Name="cv" Series="2576" Issue="21936" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="64" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22024" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="64" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22024" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="226" Volume="1963" Year="1982">
       <Database Name="cv" Series="2127" Issue="22000" />
@@ -249,17 +249,17 @@
     <Book Series="Marvel Team-Up" Number="116" Volume="1972" Year="1982">
       <Database Name="cv" Series="2576" Issue="22088" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="65" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22096" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="65" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22096" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="66" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22176" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="66" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22176" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="228" Volume="1963" Year="1982">
       <Database Name="cv" Series="2127" Issue="22152" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="67" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22244" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="67" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22244" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="229" Volume="1963" Year="1982">
       <Database Name="cv" Series="2127" Issue="22221" />
@@ -267,8 +267,8 @@
     <Book Series="The Amazing Spider-Man" Number="230" Volume="1963" Year="1982">
       <Database Name="cv" Series="2127" Issue="22292" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="68" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22315" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="68" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22315" />
     </Book>
     <Book Series="Marvel Team-Up" Number="117" Volume="1972" Year="1982">
       <Database Name="cv" Series="2576" Issue="22168" />
@@ -279,11 +279,11 @@
     <Book Series="Marvel Team-Up" Number="119" Volume="1972" Year="1982">
       <Database Name="cv" Series="2576" Issue="22307" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="69" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22389" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="69" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22389" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="70" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22459" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="70" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22459" />
     </Book>
     <Book Series="Marvel Team-Up" Number="120" Volume="1972" Year="1982">
       <Database Name="cv" Series="2576" Issue="22381" />
@@ -321,14 +321,14 @@
     <Book Series="Marvel Team-Up" Number="123" Volume="1972" Year="1982">
       <Database Name="cv" Series="2576" Issue="22599" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="72" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22608" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="72" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22608" />
     </Book>
     <Book Series="Marvel Team-Up" Number="124" Volume="1972" Year="1982">
       <Database Name="cv" Series="2576" Issue="22676" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="73" Volume="1976" Year="1982">
-      <Database Name="cv" Series="2870" Issue="22683" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="73" Volume="1980" Year="1982">
+      <Database Name="cv" Series="139754" Issue="22683" />
     </Book>
     <Book Series="Marvel Team-Up" Number="125" Volume="1972" Year="1983">
       <Database Name="cv" Series="2576" Issue="22797" />
@@ -336,17 +336,17 @@
     <Book Series="The Amazing Spider-Man" Number="237" Volume="1963" Year="1983">
       <Database Name="cv" Series="2127" Issue="22852" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="74" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="22805" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="74" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="22805" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="75" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="22878" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="75" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="22878" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="76" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="22966" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="76" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="22966" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="77" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23047" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="77" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23047" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="238" Volume="1963" Year="1983">
       <Database Name="cv" Series="2127" Issue="22939" />
@@ -354,11 +354,11 @@
     <Book Series="The Amazing Spider-Man" Number="239" Volume="1963" Year="1983">
       <Database Name="cv" Series="2127" Issue="23021" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="78" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23135" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="78" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23135" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="79" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23215" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="79" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23215" />
     </Book>
     <Book Series="Marvel Team-Up" Number="127" Volume="1972" Year="1983">
       <Database Name="cv" Series="2576" Issue="22956" />
@@ -378,8 +378,8 @@
     <Book Series="Marvel Team-Up" Number="130" Volume="1972" Year="1983">
       <Database Name="cv" Series="2576" Issue="23209" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="80" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23303" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="80" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23303" />
     </Book>
     <Book Series="Marvel Team-Up" Number="131" Volume="1972" Year="1983">
       <Database Name="cv" Series="2576" Issue="23297" />
@@ -399,11 +399,11 @@
     <Book Series="The Amazing Spider-Man" Number="244" Volume="1963" Year="1983">
       <Database Name="cv" Series="2127" Issue="23441" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="81" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23383" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="81" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23383" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="82" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23465" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="82" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23465" />
     </Book>
     <Book Series="Marvel Team-Up" Number="134" Volume="1972" Year="1983">
       <Database Name="cv" Series="2576" Issue="23548" />
@@ -411,8 +411,8 @@
     <Book Series="The Amazing Spider-Man" Number="245" Volume="1963" Year="1983">
       <Database Name="cv" Series="2127" Issue="23531" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="83" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23552" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="83" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23552" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="246" Volume="1963" Year="1983">
       <Database Name="cv" Series="2127" Issue="23614" />
@@ -426,8 +426,8 @@
     <Book Series="Marvel Team-Up" Number="135" Volume="1972" Year="1983">
       <Database Name="cv" Series="2576" Issue="23635" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="84" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23644" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="84" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23644" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="247" Volume="1963" Year="1983">
       <Database Name="cv" Series="2127" Issue="23715" />
@@ -435,8 +435,8 @@
     <Book Series="The Amazing Spider-Man" Number="248" Volume="1963" Year="1984">
       <Database Name="cv" Series="2127" Issue="23862" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="85" Volume="1976" Year="1983">
-      <Database Name="cv" Series="2870" Issue="23739" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="85" Volume="1980" Year="1983">
+      <Database Name="cv" Series="139754" Issue="23739" />
     </Book>
     <Book Series="The Amazing Spider-Man Annual" Number="17" Volume="1964" Year="1983">
       <Database Name="cv" Series="2189" Issue="22738" />
@@ -447,8 +447,8 @@
     <Book Series="Marvel Team-Up" Number="137" Volume="1972" Year="1984">
       <Database Name="cv" Series="2576" Issue="23882" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="86" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="23890" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="86" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="23890" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="249" Volume="1963" Year="1984">
       <Database Name="cv" Series="2127" Issue="23969" />
@@ -456,8 +456,8 @@
     <Book Series="Marvel Team-Up" Number="138" Volume="1972" Year="1984">
       <Database Name="cv" Series="2576" Issue="23986" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="87" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="23989" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="87" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="23989" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="250" Volume="1963" Year="1984">
       <Database Name="cv" Series="2127" Issue="24086" />
@@ -474,11 +474,11 @@
     <Book Series="Web of Spider-Man" Number="26" Volume="1985" Year="1987">
       <Database Name="cv" Series="3519" Issue="28125" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="88" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24108" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="88" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24108" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="89" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24212" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="89" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24212" />
     </Book>
     <Book Series="Marvel Super Heroes Secret Wars" Number="1" Volume="1984" Year="1984">
       <Database Name="cv" Series="3352" Issue="57504" />
@@ -519,8 +519,8 @@
     <Book Series="The Amazing Spider-Man" Number="252" Volume="1963" Year="1984">
       <Database Name="cv" Series="2127" Issue="24297" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="90" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24318" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="90" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24318" />
     </Book>
     <Book Series="Marvel Team-Up" Number="141" Volume="1972" Year="1984">
       <Database Name="cv" Series="2576" Issue="24313" />
@@ -528,14 +528,14 @@
     <Book Series="The Amazing Spider-Man" Number="253" Volume="1963" Year="1984">
       <Database Name="cv" Series="2127" Issue="24396" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="91" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24415" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="91" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24415" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="254" Volume="1963" Year="1984">
       <Database Name="cv" Series="2127" Issue="24496" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="92" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24513" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="92" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24513" />
     </Book>
     <Book Series="Marvel Team-Up" Number="142" Volume="1972" Year="1984">
       <Database Name="cv" Series="2576" Issue="24412" />
@@ -549,17 +549,17 @@
     <Book Series="Marvel Team-Up Annual" Number="7" Volume="1976" Year="1984">
       <Database Name="cv" Series="2863" Issue="23785" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="93" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24615" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="93" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24615" />
     </Book>
     <Book Series="Marvel Team-Up" Number="144" Volume="1972" Year="1984">
       <Database Name="cv" Series="2576" Issue="24608" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="94" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24704" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="94" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24704" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="95" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24803" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="95" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24803" />
     </Book>
     <Book Series="The Spectacular Spider-Man Annual" Number="4" Volume="1979" Year="1984">
       <Database Name="cv" Series="3012" Issue="24921" />
@@ -582,11 +582,11 @@
     <Book Series="The Amazing Spider-Man" Number="259" Volume="1963" Year="1984">
       <Database Name="cv" Series="2127" Issue="24981" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="96" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="24899" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="96" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="24899" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="97" Volume="1976" Year="1984">
-      <Database Name="cv" Series="2870" Issue="25004" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="97" Volume="1980" Year="1984">
+      <Database Name="cv" Series="139754" Issue="25004" />
     </Book>
     <Book Series="Marvel Team-Up" Number="147" Volume="1972" Year="1984">
       <Database Name="cv" Series="2576" Issue="24897" />
@@ -603,8 +603,8 @@
     <Book Series="The Amazing Spider-Man" Number="261" Volume="1963" Year="1985">
       <Database Name="cv" Series="2127" Issue="25250" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="98" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25171" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="98" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25171" />
     </Book>
     <Book Series="Marvel Team-Up" Number="149" Volume="1972" Year="1985">
       <Database Name="cv" Series="2576" Issue="25170" />
@@ -612,8 +612,8 @@
     <Book Series="The Amazing Spider-Man" Number="262" Volume="1963" Year="1985">
       <Database Name="cv" Series="2127" Issue="112034" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="99" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25269" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="99" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25269" />
     </Book>
     <Book Series="Marvel Team-Up" Number="150" Volume="1972" Year="1985">
       <Database Name="cv" Series="2576" Issue="25268" />
@@ -621,20 +621,20 @@
     <Book Series="The Amazing Spider-Man" Number="263" Volume="1963" Year="1985">
       <Database Name="cv" Series="2127" Issue="25379" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="100" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25294" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="100" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25294" />
     </Book>
     <Book Series="Web of Spider-Man" Number="1" Volume="1985" Year="1985">
       <Database Name="cv" Series="3519" Issue="25407" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="101" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25396" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="101" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25396" />
     </Book>
     <Book Series="Web of Spider-Man" Number="2" Volume="1985" Year="1985">
       <Database Name="cv" Series="3519" Issue="25501" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="102" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25492" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="102" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25492" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="264" Volume="1963" Year="1985">
       <Database Name="cv" Series="2127" Issue="25479" />
@@ -648,8 +648,8 @@
     <Book Series="The Amazing Spider-Man" Number="265" Volume="1963" Year="1985">
       <Database Name="cv" Series="2127" Issue="25574" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="103" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25597" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="103" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25597" />
     </Book>
     <Book Series="Web of Spider-Man" Number="4" Volume="1985" Year="1985">
       <Database Name="cv" Series="3519" Issue="25702" />
@@ -657,8 +657,8 @@
     <Book Series="The Amazing Spider-Man" Number="266" Volume="1963" Year="1985">
       <Database Name="cv" Series="2127" Issue="25673" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="104" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25692" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="104" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25692" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="267" Volume="1963" Year="1985">
       <Database Name="cv" Series="2127" Issue="25775" />
@@ -666,11 +666,11 @@
     <Book Series="Web of Spider-Man" Number="5" Volume="1985" Year="1985">
       <Database Name="cv" Series="3519" Issue="25802" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="105" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25796" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="105" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25796" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="106" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25890" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="106" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25890" />
     </Book>
     <Book Series="Web of Spider-Man" Number="6" Volume="1985" Year="1985">
       <Database Name="cv" Series="3519" Issue="25897" />
@@ -717,17 +717,17 @@
     <Book Series="Web of Spider-Man" Number="12" Volume="1985" Year="1986">
       <Database Name="cv" Series="3519" Issue="26615" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="107" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25993" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="107" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25993" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="108" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="26099" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="108" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="26099" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="109" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="26205" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="109" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="26205" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="110" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26409" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="110" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26409" />
     </Book>
     <Book Series="Web of Spider-Man" Number="13" Volume="1985" Year="1986">
       <Database Name="cv" Series="3519" Issue="26712" />
@@ -735,14 +735,14 @@
     <Book Series="The Amazing Spider-Man" Number="273" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="26495" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="111" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26514" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="111" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26514" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="274" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="26592" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="112" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26608" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="112" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26608" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="275" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="26692" />
@@ -750,8 +750,8 @@
     <Book Series="The Amazing Spider-Man" Number="276" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="26783" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="113" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26707" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="113" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26707" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="277" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="26884" />
@@ -762,17 +762,17 @@
     <Book Series="Web of Spider-Man" Number="15" Volume="1985" Year="1986">
       <Database Name="cv" Series="3519" Issue="26904" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="114" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26796" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="114" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26796" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="278" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="26982" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="115" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26898" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="115" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26898" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="116" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26994" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="116" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26994" />
     </Book>
     <Book Series="Web of Spider-Man" Number="16" Volume="1985" Year="1986">
       <Database Name="cv" Series="3519" Issue="26999" />
@@ -780,8 +780,8 @@
     <Book Series="Web of Spider-Man" Number="17" Volume="1985" Year="1986">
       <Database Name="cv" Series="3519" Issue="27095" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="117" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="27090" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="117" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="27090" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="279" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="27076" />
@@ -795,8 +795,8 @@
     <Book Series="Web of Spider-Man Annual" Number="2" Volume="1985" Year="1986">
       <Database Name="cv" Series="3520" Issue="77993" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="118" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="27187" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="118" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="27187" />
     </Book>
     <Book Series="Web of Spider-Man" Number="20" Volume="1985" Year="1986">
       <Database Name="cv" Series="3519" Issue="27397" />
@@ -816,8 +816,8 @@
     <Book Series="The Amazing Spider-Man" Number="282" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="27375" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="119" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="109297" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="119" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="109297" />
     </Book>
     <Book Series="The Spectacular Spider-Man Annual" Number="6" Volume="1979" Year="1986">
       <Database Name="cv" Series="3012" Issue="26301" />
@@ -825,17 +825,17 @@
     <Book Series="The Amazing Spider-Man Annual" Number="20" Volume="1964" Year="1986">
       <Database Name="cv" Series="2189" Issue="112515" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="120" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="27392" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="120" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="27392" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="283" Volume="1963" Year="1986">
       <Database Name="cv" Series="2127" Issue="27481" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="121" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="27497" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="121" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="27497" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="122" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="27686" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="122" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="27686" />
     </Book>
     <Book Series="Web of Spider-Man" Number="23" Volume="1985" Year="1987">
       <Database Name="cv" Series="3519" Issue="27804" />
@@ -852,8 +852,8 @@
     <Book Series="The Amazing Spider-Man" Number="286" Volume="1963" Year="1987">
       <Database Name="cv" Series="2127" Issue="27893" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="123" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="27800" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="123" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="27800" />
     </Book>
     <Book Series="Web of Spider-Man" Number="25" Volume="1985" Year="1987">
       <Database Name="cv" Series="3519" Issue="28024" />
@@ -867,11 +867,11 @@
     <Book Series="The Amazing Spider-Man" Number="288" Volume="1963" Year="1987">
       <Database Name="cv" Series="2127" Issue="28108" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="125" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="28017" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="125" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="28017" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="126" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="28118" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="126" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="28118" />
     </Book>
     <Book Series="Web of Spider-Man" Number="28" Volume="1985" Year="1987">
       <Database Name="cv" Series="3519" Issue="28352" />
@@ -888,14 +888,14 @@
     <Book Series="Web of Spider-Man" Number="30" Volume="1985" Year="1987">
       <Database Name="cv" Series="3519" Issue="28579" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="127" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="28228" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="127" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="28228" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="128" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="28342" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="128" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="28342" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="129" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="28462" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="129" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="28462" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="290" Volume="1963" Year="1987">
       <Database Name="cv" Series="2127" Issue="28332" />
@@ -918,8 +918,8 @@
     <Book Series="The Amazing Spider-Man" Number="293" Volume="1963" Year="1987">
       <Database Name="cv" Series="2127" Issue="28682" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="131" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="28691" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="131" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="28691" />
     </Book>
     <Book Series="Web of Spider-Man" Number="32" Volume="1985" Year="1987">
       <Database Name="cv" Series="3519" Issue="28819" />
@@ -927,8 +927,8 @@
     <Book Series="The Amazing Spider-Man" Number="294" Volume="1963" Year="1987">
       <Database Name="cv" Series="2127" Issue="28795" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="132" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="28805" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="132" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="28805" />
     </Book>
     <Book Series="Web of Spider-Man" Number="33" Volume="1985" Year="1987">
       <Database Name="cv" Series="3519" Issue="28936" />
@@ -945,3 +945,4 @@
   </Books>
   <Matchers />
 </ReadingList>
+

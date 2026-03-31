@@ -99,8 +99,8 @@
 <Book Series="The Amazing Spider-Man" Number="273" Volume="1963" Year="1986">
 <Database Name="cv" Series="2127" Issue="26495" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="111" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="26514" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="111" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="26514" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="202" Volume="1981" Year="1986">
 <Database Name="cv" Series="3092" Issue="26519" />
@@ -132,3 +132,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

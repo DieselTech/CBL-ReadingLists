@@ -768,18 +768,19 @@
     <Book Series="Daredevil" Number="226" Volume="1964" Year="1986">
       <Database Name="cv" Series="2190" Issue="26394" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="107" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25993" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="107" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25993" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="108" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="26099" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="108" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="26099" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="109" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="26205" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="109" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="26205" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="110" Volume="1976" Year="1986">
-      <Database Name="cv" Series="2870" Issue="26409" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="110" Volume="1980" Year="1986">
+      <Database Name="cv" Series="139754" Issue="26409" />
     </Book>
   </Books>
   <Matchers />
 </ReadingList>
+
