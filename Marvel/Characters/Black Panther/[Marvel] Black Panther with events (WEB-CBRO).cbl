@@ -384,8 +384,8 @@
 <Book Series="Black Panther: The Most Dangerous Man Alive" Number="529" Volume="2011" Year="2012">
 <Database Name="cv" Series="59534" Issue="315289" />
 </Book>
-<Book Series="Marvel Point One" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="41854" Issue="284853" />
+<Book Series="Point One" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="43893" Issue="301659" />
 </Book>
 <Book Series="Avengers: X-Sanction" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44477" Issue="306478" />
