@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] Dick Grayson no events (WEB-CBRO)</Name>
+<Name>[DC] Dick Grayson with events (WEB-CBRO)</Name>
 <NumIssues>308</NumIssues>
 <Books>
 <Book Series="Tales of the Teen Titans" Number="42" Volume="1984" Year="1984">
