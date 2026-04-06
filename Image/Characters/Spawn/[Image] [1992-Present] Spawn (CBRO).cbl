@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Image] [1992-Present] Spawn (CBRO)</Name>
-<NumIssues>685</NumIssues>
+<NumIssues>696</NumIssues>
 <Books>
 <Book Series="Spawn" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="4937" Issue="35666" />
@@ -186,16 +186,16 @@
 <Book Series="Medieval Spawn / Witchblade" Number="3" Volume="1996" Year="1996">
 <Database Name="cv" Series="7310" Issue="52080" />
 </Book>
-<Book Series="Medieval Spawn &#38; Witchblade" Number="1" Volume="2018" Year="2018">
+<Book Series="Medieval Spawn &amp; Witchblade" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="110753" Issue="669484" />
 </Book>
-<Book Series="Medieval Spawn &#38; Witchblade" Number="2" Volume="2018" Year="2018">
+<Book Series="Medieval Spawn &amp; Witchblade" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="110753" Issue="672309" />
 </Book>
-<Book Series="Medieval Spawn &#38; Witchblade" Number="3" Volume="2018" Year="2018">
+<Book Series="Medieval Spawn &amp; Witchblade" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="110753" Issue="675928" />
 </Book>
-<Book Series="Medieval Spawn &#38; Witchblade" Number="4" Volume="2018" Year="2018">
+<Book Series="Medieval Spawn &amp; Witchblade" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="110753" Issue="679272" />
 </Book>
 <Book Series="Spawn/WildC.A.T.S" Number="1" Volume="1996" Year="1996">
@@ -882,79 +882,79 @@
 <Book Series="Spawn" Number="144" Volume="1992" Year="2005">
 <Database Name="cv" Series="4937" Issue="101136" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="1" Volume="2003" Year="2003">
+<Book Series="Case Files: Sam &amp; Twitch" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="11270" Issue="98951" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="2" Volume="2003" Year="2003">
+<Book Series="Case Files: Sam &amp; Twitch" Number="2" Volume="2003" Year="2003">
 <Database Name="cv" Series="11270" Issue="98952" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="3" Volume="2003" Year="2003">
+<Book Series="Case Files: Sam &amp; Twitch" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="11270" Issue="98953" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="4" Volume="2003" Year="2003">
+<Book Series="Case Files: Sam &amp; Twitch" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="11270" Issue="98954" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="5" Volume="2003" Year="2003">
+<Book Series="Case Files: Sam &amp; Twitch" Number="5" Volume="2003" Year="2003">
 <Database Name="cv" Series="11270" Issue="98955" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="6" Volume="2003" Year="2003">
+<Book Series="Case Files: Sam &amp; Twitch" Number="6" Volume="2003" Year="2003">
 <Database Name="cv" Series="11270" Issue="98956" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="7" Volume="2003" Year="2004">
+<Book Series="Case Files: Sam &amp; Twitch" Number="7" Volume="2003" Year="2004">
 <Database Name="cv" Series="11270" Issue="98957" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="8" Volume="2003" Year="2004">
+<Book Series="Case Files: Sam &amp; Twitch" Number="8" Volume="2003" Year="2004">
 <Database Name="cv" Series="11270" Issue="98958" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="9" Volume="2003" Year="2004">
+<Book Series="Case Files: Sam &amp; Twitch" Number="9" Volume="2003" Year="2004">
 <Database Name="cv" Series="11270" Issue="98959" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="10" Volume="2003" Year="2004">
+<Book Series="Case Files: Sam &amp; Twitch" Number="10" Volume="2003" Year="2004">
 <Database Name="cv" Series="11270" Issue="98960" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="11" Volume="2003" Year="2004">
+<Book Series="Case Files: Sam &amp; Twitch" Number="11" Volume="2003" Year="2004">
 <Database Name="cv" Series="11270" Issue="162506" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="12" Volume="2003" Year="2004">
+<Book Series="Case Files: Sam &amp; Twitch" Number="12" Volume="2003" Year="2004">
 <Database Name="cv" Series="11270" Issue="98961" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="13" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="13" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="141446" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="14" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="14" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="213141" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="15" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="15" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="213143" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="16" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="16" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="213145" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="17" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="17" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="213147" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="18" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="18" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="213148" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="19" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="19" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="213150" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="20" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="20" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="165088" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="21" Volume="2003" Year="2005">
+<Book Series="Case Files: Sam &amp; Twitch" Number="21" Volume="2003" Year="2005">
 <Database Name="cv" Series="11270" Issue="165087" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="22" Volume="2003" Year="2006">
+<Book Series="Case Files: Sam &amp; Twitch" Number="22" Volume="2003" Year="2006">
 <Database Name="cv" Series="11270" Issue="165086" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="23" Volume="2003" Year="2006">
+<Book Series="Case Files: Sam &amp; Twitch" Number="23" Volume="2003" Year="2006">
 <Database Name="cv" Series="11270" Issue="165085" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="24" Volume="2003" Year="2006">
+<Book Series="Case Files: Sam &amp; Twitch" Number="24" Volume="2003" Year="2006">
 <Database Name="cv" Series="11270" Issue="165108" />
 </Book>
-<Book Series="Case Files: Sam &#38; Twitch" Number="25" Volume="2003" Year="2006">
+<Book Series="Case Files: Sam &amp; Twitch" Number="25" Volume="2003" Year="2006">
 <Database Name="cv" Series="11270" Issue="165083" />
 </Book>
 <Book Series="Spawn" Number="145" Volume="1992" Year="2005">
@@ -1019,6 +1019,9 @@
 </Book>
 <Book Series="Spawn" Number="165" Volume="1992" Year="2007">
 <Database Name="cv" Series="4937" Issue="131388" />
+</Book>
+<Book Series="Spawn Godslayer" Number="1" Volume="2006" Year="2006">
+<Database Name="cv" Series="19878" Issue="119067" />
 </Book>
 <Book Series="Spawn: Godslayer" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19879" Issue="119068" />
@@ -1396,7 +1399,7 @@
 <Database Name="cv" Series="4937" Issue="478758" />
 </Book>
 <Book Series="Spawn Resurrection" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="86255" Issue="506697" />
+<Database Name="cv" Series="80609" Issue="482196" />
 </Book>
 <Book Series="Spawn" Number="251" Volume="1992" Year="2015">
 <Database Name="cv" Series="4937" Issue="486190" />
@@ -1593,6 +1596,15 @@
 <Book Series="Spawn" Number="310" Volume="1992" Year="2020">
 <Database Name="cv" Series="4937" Issue="805000" />
 </Book>
+<Book Series="Monolith" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="158163" Issue="1055639" />
+</Book>
+<Book Series="Monolith" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="158163" Issue="1059454" />
+</Book>
+<Book Series="Monolith" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="158163" Issue="1062841" />
+</Book>
 <Book Series="Spawn" Number="311" Volume="1992" Year="2020">
 <Database Name="cv" Series="4937" Issue="814454" />
 </Book>
@@ -1617,7 +1629,7 @@
 <Book Series="Spawn" Number="318" Volume="1992" Year="2021">
 <Database Name="cv" Series="4937" Issue="855647" />
 </Book>
-<Book Series="Spawn's Universe" Number="1" Volume="2021" Year="2021">
+<Book Series="Spawn&apos;s Universe" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="137095" Issue="864464" />
 </Book>
 <Book Series="Gunslinger" Number="1" Volume="2021" Year="2021">
@@ -1773,6 +1785,9 @@
 <Book Series="The Scorched" Number="12" Volume="2022" Year="2022">
 <Database Name="cv" Series="141163" Issue="957279" />
 </Book>
+<Book Series="Batman/Spawn" Number="1" Volume="2022" Year="2023">
+<Database Name="cv" Series="146844" Issue="959823" />
+</Book>
 <Book Series="Gunslinger" Number="13" Volume="2021" Year="2022">
 <Database Name="cv" Series="139839" Issue="951505" />
 </Book>
@@ -1791,6 +1806,12 @@
 <Book Series="Gunslinger" Number="18" Volume="2021" Year="2023">
 <Database Name="cv" Series="139839" Issue="977360" />
 </Book>
+<Book Series="Spawn: Unwanted Violence" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="147407" Issue="964190" />
+</Book>
+<Book Series="Spawn: Unwanted Violence" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="147407" Issue="973373" />
+</Book>
 <Book Series="Spawn" Number="334" Volume="1992" Year="2022">
 <Database Name="cv" Series="4937" Issue="950363" />
 </Book>
@@ -1808,6 +1829,18 @@
 </Book>
 <Book Series="Spawn" Number="339" Volume="1992" Year="2023">
 <Database Name="cv" Series="4937" Issue="975985" />
+</Book>
+<Book Series="Spawn" Number="340" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="982549" />
+</Book>
+<Book Series="Spawn" Number="341" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="988636" />
+</Book>
+<Book Series="Spawn" Number="342" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="993555" />
+</Book>
+<Book Series="Spawn" Number="343" Volume="1992" Year="2023">
+<Database Name="cv" Series="4937" Issue="999476" />
 </Book>
 <Book Series="King Spawn" Number="13" Volume="2021" Year="2022">
 <Database Name="cv" Series="138562" Issue="941526" />
