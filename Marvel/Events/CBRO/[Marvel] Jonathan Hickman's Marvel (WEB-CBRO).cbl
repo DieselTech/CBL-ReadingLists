@@ -318,8 +318,8 @@
 <Book Series="FF" Number="23" Volume="2011" Year="2012">
 <Database Name="cv" Series="39453" Issue="363156" />
 </Book>
-<Book Series="Marvel Point One" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="41854" Issue="284853" />
+<Book Series="Point One" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="43893" Issue="301659" />
 </Book>
 <Book Series="Avengers: X-Sanction" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44477" Issue="306478" />
@@ -1764,8 +1764,8 @@
 <Book Series="Silver Surfer" Number="15" Volume="2014" Year="2016">
 <Database Name="cv" Series="72582" Issue="506663" />
 </Book>
-<Book Series="Secret Wars, Too" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="93678" Issue="547290" />
+<Book Series="Secret Wars, Too" Number="1" Volume="2015" Year="2016">
+<Database Name="cv" Series="86122" Issue="506180" />
 </Book>
 </Books>
 <Matchers />
