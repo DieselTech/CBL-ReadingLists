@@ -1716,6 +1716,18 @@
 <Book Series="New Mutants" Number="10" Volume="2009" Year="2010">
 <Database Name="cv" Series="26327" Issue="196078" />
 </Book>
+<Book Series="Black Widow: Deadly Origin" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="29302" Issue="181100" />
+</Book>
+<Book Series="Black Widow: Deadly Origin" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="29302" Issue="186686" />
+</Book>
+<Book Series="Black Widow: Deadly Origin" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="29302" Issue="192623" />
+</Book>
+<Book Series="Black Widow: Deadly Origin" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="29302" Issue="197354" />
+</Book>
 <Book Series="Incredible Hercules" Number="129" Volume="2008" Year="2009">
 <Database Name="cv" Series="20588" Issue="158660" />
 </Book>
@@ -2375,18 +2387,6 @@
 </Book>
 <Book Series="Fantastic Four" Number="578" Volume="1998" Year="2010">
 <Database Name="cv" Series="6211" Issue="210635" />
-</Book>
-<Book Series="Black Widow: Deadly Origin" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="29302" Issue="181100" />
-</Book>
-<Book Series="Black Widow: Deadly Origin" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="29302" Issue="186686" />
-</Book>
-<Book Series="Black Widow: Deadly Origin" Number="3" Volume="2010" Year="2010">
-<Database Name="cv" Series="29302" Issue="192623" />
-</Book>
-<Book Series="Black Widow: Deadly Origin" Number="4" Volume="2010" Year="2010">
-<Database Name="cv" Series="29302" Issue="197354" />
 </Book>
 <Book Series="X-Men: Legacy" Number="234" Volume="2008" Year="2010">
 <Database Name="cv" Series="20691" Issue="200996" />
