@@ -1815,6 +1815,21 @@
 <Book Series="Daredevil" Number="507" Volume="1998" Year="2010">
 <Database Name="cv" Series="6209" Issue="218357" />
 </Book>
+<Book Series="Captain America" Number="601" Volume="2004" Year="2009">
+<Database Name="cv" Series="11499" Issue="164034" />
+</Book>
+<Book Series="Captain America" Number="602" Volume="2004" Year="2010">
+<Database Name="cv" Series="11499" Issue="193414" />
+</Book>
+<Book Series="Captain America" Number="603" Volume="2004" Year="2010">
+<Database Name="cv" Series="11499" Issue="197668" />
+</Book>
+<Book Series="Captain America" Number="604" Volume="2004" Year="2010">
+<Database Name="cv" Series="11499" Issue="201710" />
+</Book>
+<Book Series="Captain America" Number="605" Volume="2004" Year="2010">
+<Database Name="cv" Series="11499" Issue="210223" />
+</Book>
 <Book Series="Secret Warriors" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="25640" Issue="189566" />
 </Book>
@@ -2378,21 +2393,6 @@
 </Book>
 <Book Series="Wolverine: Revolver" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26627" Issue="159326" />
-</Book>
-<Book Series="Captain America" Number="601" Volume="2004" Year="2009">
-<Database Name="cv" Series="11499" Issue="164034" />
-</Book>
-<Book Series="Captain America" Number="602" Volume="2004" Year="2010">
-<Database Name="cv" Series="11499" Issue="193414" />
-</Book>
-<Book Series="Captain America" Number="603" Volume="2004" Year="2010">
-<Database Name="cv" Series="11499" Issue="197668" />
-</Book>
-<Book Series="Captain America" Number="604" Volume="2004" Year="2010">
-<Database Name="cv" Series="11499" Issue="201710" />
-</Book>
-<Book Series="Captain America" Number="605" Volume="2004" Year="2010">
-<Database Name="cv" Series="11499" Issue="210223" />
 </Book>
 <Book Series="Avengers vs. Atlas" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="31128" Issue="193348" />
