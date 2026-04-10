@@ -1572,6 +1572,15 @@
 <Book Series="Wolverine Weapon X" Number="5" Volume="2009" Year="2009">
 <Database Name="cv" Series="26150" Issue="173768" />
 </Book>
+<Book Series="Agents of Atlas" Number="9" Volume="2009" Year="2009">
+<Database Name="cv" Series="25641" Issue="166263" />
+</Book>
+<Book Series="Agents of Atlas" Number="10" Volume="2009" Year="2009">
+<Database Name="cv" Series="25641" Issue="169408" />
+</Book>
+<Book Series="Agents of Atlas" Number="11" Volume="2009" Year="2009">
+<Database Name="cv" Series="25641" Issue="171549" />
+</Book>
 <Book Series="X-Force" Number="17" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="164780" />
 </Book>
@@ -1700,15 +1709,6 @@
 </Book>
 <Book Series="New Mutants" Number="10" Volume="2009" Year="2010">
 <Database Name="cv" Series="26327" Issue="196078" />
-</Book>
-<Book Series="Agents of Atlas" Number="9" Volume="2009" Year="2009">
-<Database Name="cv" Series="25641" Issue="166263" />
-</Book>
-<Book Series="Agents of Atlas" Number="10" Volume="2009" Year="2009">
-<Database Name="cv" Series="25641" Issue="169408" />
-</Book>
-<Book Series="Agents of Atlas" Number="11" Volume="2009" Year="2009">
-<Database Name="cv" Series="25641" Issue="171549" />
 </Book>
 <Book Series="Incredible Hercules" Number="129" Volume="2008" Year="2009">
 <Database Name="cv" Series="20588" Issue="158660" />
