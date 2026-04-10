@@ -1776,6 +1776,24 @@
 <Book Series="Hercules: Fall of an Avenger" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="32050" Issue="208786" />
 </Book>
+<Book Series="Wolverine: Origins" Number="41" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="176850" />
+</Book>
+<Book Series="Wolverine: Origins" Number="42" Volume="2006" Year="2010">
+<Database Name="cv" Series="18130" Issue="183715" />
+</Book>
+<Book Series="Wolverine: Origins" Number="43" Volume="2006" Year="2010">
+<Database Name="cv" Series="18130" Issue="189511" />
+</Book>
+<Book Series="Wolverine: Origins" Number="44" Volume="2006" Year="2010">
+<Database Name="cv" Series="18130" Issue="194449" />
+</Book>
+<Book Series="Wolverine: Origins" Number="45" Volume="2006" Year="2010">
+<Database Name="cv" Series="18130" Issue="201040" />
+</Book>
+<Book Series="Wolverine: Origins" Number="46" Volume="2006" Year="2010">
+<Database Name="cv" Series="18130" Issue="202488" />
+</Book>
 <Book Series="Secret Warriors" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="25640" Issue="189566" />
 </Book>
@@ -2441,24 +2459,6 @@
 </Book>
 <Book Series="Deadpool" Number="22" Volume="2008" Year="2010">
 <Database Name="cv" Series="22955" Issue="210225" />
-</Book>
-<Book Series="Wolverine: Origins" Number="41" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="176850" />
-</Book>
-<Book Series="Wolverine: Origins" Number="42" Volume="2006" Year="2010">
-<Database Name="cv" Series="18130" Issue="183715" />
-</Book>
-<Book Series="Wolverine: Origins" Number="43" Volume="2006" Year="2010">
-<Database Name="cv" Series="18130" Issue="189511" />
-</Book>
-<Book Series="Wolverine: Origins" Number="44" Volume="2006" Year="2010">
-<Database Name="cv" Series="18130" Issue="194449" />
-</Book>
-<Book Series="Wolverine: Origins" Number="45" Volume="2006" Year="2010">
-<Database Name="cv" Series="18130" Issue="201040" />
-</Book>
-<Book Series="Wolverine: Origins" Number="46" Volume="2006" Year="2010">
-<Database Name="cv" Series="18130" Issue="202488" />
 </Book>
 <Book Series="Dark Wolverine" Number="85" Volume="2009" Year="2010">
 <Database Name="cv" Series="26883" Issue="208485" />
