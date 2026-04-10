@@ -3411,6 +3411,15 @@
 <Book Series="Avengers Academy" Number="9" Volume="2010" Year="2011">
 <Database Name="cv" Series="33633" Issue="262472" />
 </Book>
+<Book Series="Black Widow" Number="6" Volume="2010" Year="2010">
+<Database Name="cv" Series="32582" Issue="235445" />
+</Book>
+<Book Series="Black Widow" Number="7" Volume="2010" Year="2010">
+<Database Name="cv" Series="32582" Issue="240069" />
+</Book>
+<Book Series="Black Widow" Number="8" Volume="2010" Year="2011">
+<Database Name="cv" Series="32582" Issue="246606" />
+</Book>
 <Book Series="Widowmaker" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="37346" Issue="248497" />
 </Book>
@@ -3521,15 +3530,6 @@
 </Book>
 <Book Series="Deadpool Max" Number="12" Volume="2010" Year="2011">
 <Database Name="cv" Series="35847" Issue="293636" />
-</Book>
-<Book Series="Black Widow" Number="6" Volume="2010" Year="2010">
-<Database Name="cv" Series="32582" Issue="235445" />
-</Book>
-<Book Series="Black Widow" Number="7" Volume="2010" Year="2010">
-<Database Name="cv" Series="32582" Issue="240069" />
-</Book>
-<Book Series="Black Widow" Number="8" Volume="2010" Year="2011">
-<Database Name="cv" Series="32582" Issue="246606" />
 </Book>
 <Book Series="Thor" Number="615" Volume="2007" Year="2010">
 <Database Name="cv" Series="18831" Issue="235678" />
