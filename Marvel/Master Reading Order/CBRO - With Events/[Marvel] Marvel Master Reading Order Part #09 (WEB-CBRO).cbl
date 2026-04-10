@@ -3849,6 +3849,21 @@
 <Book Series="S.H.I.E.L.D." Number="6" Volume="2010" Year="2011">
 <Database Name="cv" Series="32430" Issue="262808" />
 </Book>
+<Book Series="Osborn" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="36725" Issue="244837" />
+</Book>
+<Book Series="Osborn" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="36725" Issue="253748" />
+</Book>
+<Book Series="Osborn" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="36725" Issue="261242" />
+</Book>
+<Book Series="Osborn" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="36725" Issue="266506" />
+</Book>
+<Book Series="Osborn" Number="5" Volume="2010" Year="2010">
+<Database Name="cv" Series="36725" Issue="269125" />
+</Book>
 <Book Series="The Amazing Spider-Man" Number="648" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="242262" />
 </Book>
