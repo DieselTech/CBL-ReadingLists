@@ -3744,9 +3744,6 @@
 <Book Series="X-Factor" Number="214" Volume="2006" Year="2011">
 <Database Name="cv" Series="18109" Issue="258472" />
 </Book>
-<Book Series="X-Factor" Number="215" Volume="2006" Year="2011">
-<Database Name="cv" Series="18109" Issue="261245" />
-</Book>
 <Book Series="Carnage" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="36240" Issue="239071" />
 </Book>
@@ -3830,6 +3827,9 @@
 </Book>
 <Book Series="Wolverine and Jubilee" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="38504" Issue="268751" />
+</Book>
+<Book Series="X-Factor" Number="215" Volume="2006" Year="2011">
+<Database Name="cv" Series="18109" Issue="261245" />
 </Book>
 <Book Series="S.H.I.E.L.D." Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32430" Issue="204514" />
