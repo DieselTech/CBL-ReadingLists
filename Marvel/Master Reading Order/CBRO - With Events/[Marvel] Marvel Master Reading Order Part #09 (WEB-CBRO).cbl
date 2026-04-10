@@ -3411,6 +3411,30 @@
 <Book Series="Avengers Academy" Number="9" Volume="2010" Year="2011">
 <Database Name="cv" Series="33633" Issue="262472" />
 </Book>
+<Book Series="Widowmaker" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="37346" Issue="248497" />
+</Book>
+<Book Series="Widowmaker" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="37346" Issue="252995" />
+</Book>
+<Book Series="Widowmaker" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="37346" Issue="255991" />
+</Book>
+<Book Series="Widowmaker" Number="4" Volume="2011" Year="2011">
+<Database Name="cv" Series="37346" Issue="261340" />
+</Book>
+<Book Series="Hawkeye: Blind Spot" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="39055" Issue="262821" />
+</Book>
+<Book Series="Hawkeye: Blind Spot" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="39055" Issue="265543" />
+</Book>
+<Book Series="Hawkeye: Blind Spot" Number="3" Volume="2011" Year="2011">
+<Database Name="cv" Series="39055" Issue="268368" />
+</Book>
+<Book Series="Hawkeye: Blind Spot" Number="4" Volume="2011" Year="2011">
+<Database Name="cv" Series="39055" Issue="270522" />
+</Book>
 <Book Series="Hulk" Number="30" Volume="2008" Year="2011">
 <Database Name="cv" Series="20291" Issue="262614" />
 </Book>
@@ -3530,30 +3554,6 @@
 </Book>
 <Book Series="Thor" Number="621" Volume="2007" Year="2011">
 <Database Name="cv" Series="18831" Issue="267220" />
-</Book>
-<Book Series="Widowmaker" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="37346" Issue="248497" />
-</Book>
-<Book Series="Widowmaker" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="37346" Issue="252995" />
-</Book>
-<Book Series="Widowmaker" Number="3" Volume="2011" Year="2011">
-<Database Name="cv" Series="37346" Issue="255991" />
-</Book>
-<Book Series="Widowmaker" Number="4" Volume="2011" Year="2011">
-<Database Name="cv" Series="37346" Issue="261340" />
-</Book>
-<Book Series="Hawkeye: Blind Spot" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="39055" Issue="262821" />
-</Book>
-<Book Series="Hawkeye: Blind Spot" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="39055" Issue="265543" />
-</Book>
-<Book Series="Hawkeye: Blind Spot" Number="3" Volume="2011" Year="2011">
-<Database Name="cv" Series="39055" Issue="268368" />
-</Book>
-<Book Series="Hawkeye: Blind Spot" Number="4" Volume="2011" Year="2011">
-<Database Name="cv" Series="39055" Issue="270522" />
 </Book>
 <Book Series="Generation Hope" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="36469" Issue="240744" />
