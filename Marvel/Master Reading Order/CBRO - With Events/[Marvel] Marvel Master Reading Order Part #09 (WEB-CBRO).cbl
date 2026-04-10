@@ -3411,6 +3411,21 @@
 <Book Series="Avengers Academy" Number="9" Volume="2010" Year="2011">
 <Database Name="cv" Series="33633" Issue="262472" />
 </Book>
+<Book Series="Hulk" Number="30" Volume="2008" Year="2011">
+<Database Name="cv" Series="20291" Issue="262614" />
+</Book>
+<Book Series="Hulk" Number="30.1" Volume="2008" Year="2011">
+<Database Name="cv" Series="20291" Issue="266043" />
+</Book>
+<Book Series="Hulk" Number="31" Volume="2008" Year="2011">
+<Database Name="cv" Series="20291" Issue="266523" />
+</Book>
+<Book Series="Hulk" Number="32" Volume="2008" Year="2011">
+<Database Name="cv" Series="20291" Issue="268764" />
+</Book>
+<Book Series="Hulk" Number="33" Volume="2008" Year="2011">
+<Database Name="cv" Series="20291" Issue="270463" />
+</Book>
 <Book Series="Avengers" Number="7" Volume="2010" Year="2011">
 <Database Name="cv" Series="33227" Issue="244839" />
 </Book>
@@ -3428,21 +3443,6 @@
 </Book>
 <Book Series="Avengers" Number="12" Volume="2010" Year="2011">
 <Database Name="cv" Series="33227" Issue="268708" />
-</Book>
-<Book Series="Hulk" Number="30" Volume="2008" Year="2011">
-<Database Name="cv" Series="20291" Issue="262614" />
-</Book>
-<Book Series="Hulk" Number="30.1" Volume="2008" Year="2011">
-<Database Name="cv" Series="20291" Issue="266043" />
-</Book>
-<Book Series="Hulk" Number="31" Volume="2008" Year="2011">
-<Database Name="cv" Series="20291" Issue="266523" />
-</Book>
-<Book Series="Hulk" Number="32" Volume="2008" Year="2011">
-<Database Name="cv" Series="20291" Issue="268764" />
-</Book>
-<Book Series="Hulk" Number="33" Volume="2008" Year="2011">
-<Database Name="cv" Series="20291" Issue="270463" />
 </Book>
 <Book Series="New Avengers" Number="8" Volume="2010" Year="2011">
 <Database Name="cv" Series="33777" Issue="259139" />
