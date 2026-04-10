@@ -4278,6 +4278,21 @@
 <Book Series="Thunderbolts" Number="153" Volume="2006" Year="2011">
 <Database Name="cv" Series="18128" Issue="262616" />
 </Book>
+<Book Series="Generation Hope" Number="5" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="266004" />
+</Book>
+<Book Series="Generation Hope" Number="6" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="268663" />
+</Book>
+<Book Series="Generation Hope" Number="7" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="270427" />
+</Book>
+<Book Series="Generation Hope" Number="8" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="274229" />
+</Book>
+<Book Series="Generation Hope" Number="9" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="279973" />
+</Book>
 <Book Series="Uncanny X-Force" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35835" Issue="237053" />
 </Book>
@@ -4376,21 +4391,6 @@
 </Book>
 <Book Series="X-Men: Legacy" Number="258" Volume="2008" Year="2012">
 <Database Name="cv" Series="20691" Issue="301660" />
-</Book>
-<Book Series="Generation Hope" Number="5" Volume="2011" Year="2011">
-<Database Name="cv" Series="36469" Issue="266004" />
-</Book>
-<Book Series="Generation Hope" Number="6" Volume="2011" Year="2011">
-<Database Name="cv" Series="36469" Issue="268663" />
-</Book>
-<Book Series="Generation Hope" Number="7" Volume="2011" Year="2011">
-<Database Name="cv" Series="36469" Issue="270427" />
-</Book>
-<Book Series="Generation Hope" Number="8" Volume="2011" Year="2011">
-<Database Name="cv" Series="36469" Issue="274229" />
-</Book>
-<Book Series="Generation Hope" Number="9" Volume="2011" Year="2011">
-<Database Name="cv" Series="36469" Issue="279973" />
 </Book>
 </Books>
 <Matchers />
