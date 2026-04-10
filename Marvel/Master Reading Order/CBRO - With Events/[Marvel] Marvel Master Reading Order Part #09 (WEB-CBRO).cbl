@@ -444,6 +444,18 @@
 <Book Series="Astonishing X-Men" Number="35" Volume="2004" Year="2010">
 <Database Name="cv" Series="10746" Issue="231666" />
 </Book>
+<Book Series="X-Infernus" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="24079" Issue="143199" />
+</Book>
+<Book Series="X-Infernus" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="24079" Issue="149201" />
+</Book>
+<Book Series="X-Infernus" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="24079" Issue="151701" />
+</Book>
+<Book Series="X-Infernus" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="24079" Issue="153913" />
+</Book>
 <Book Series="New Mutants" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26327" Issue="156650" />
 </Book>
@@ -2285,18 +2297,6 @@
 </Book>
 <Book Series="Cable" Number="20" Volume="2008" Year="2010">
 <Database Name="cv" Series="20805" Issue="182540" />
-</Book>
-<Book Series="X-Infernus" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="24079" Issue="143199" />
-</Book>
-<Book Series="X-Infernus" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="24079" Issue="149201" />
-</Book>
-<Book Series="X-Infernus" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="24079" Issue="151701" />
-</Book>
-<Book Series="X-Infernus" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="24079" Issue="153913" />
 </Book>
 <Book Series="PunisherMAX" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="29687" Issue="182786" />
