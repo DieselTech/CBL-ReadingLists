@@ -1581,6 +1581,12 @@
 <Book Series="Agents of Atlas" Number="11" Volume="2009" Year="2009">
 <Database Name="cv" Series="25641" Issue="171549" />
 </Book>
+<Book Series="X-Men vs. Agents of Atlas" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="28414" Issue="174975" />
+</Book>
+<Book Series="X-Men vs. Agents of Atlas" Number="2" Volume="2009" Year="2010">
+<Database Name="cv" Series="28414" Issue="181296" />
+</Book>
 <Book Series="X-Force" Number="17" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="164780" />
 </Book>
@@ -1736,12 +1742,6 @@
 </Book>
 <Book Series="Incredible Hercules" Number="137" Volume="2008" Year="2009">
 <Database Name="cv" Series="20588" Issue="179104" />
-</Book>
-<Book Series="X-Men vs. Agents of Atlas" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="28414" Issue="174975" />
-</Book>
-<Book Series="X-Men vs. Agents of Atlas" Number="2" Volume="2009" Year="2010">
-<Database Name="cv" Series="28414" Issue="181296" />
 </Book>
 <Book Series="Assault on New Olympus Prologue" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="29297" Issue="181089" />
