@@ -3285,21 +3285,6 @@
 <Book Series="The Uncanny X-Men" Number="534" Volume="1981" Year="2011">
 <Database Name="cv" Series="3092" Issue="266488" />
 </Book>
-<Book Series="Silver Surfer" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="39031" Issue="262495" />
-</Book>
-<Book Series="Silver Surfer" Number="2" Volume="2011" Year="2011">
-<Database Name="cv" Series="39031" Issue="266600" />
-</Book>
-<Book Series="Silver Surfer" Number="3" Volume="2011" Year="2011">
-<Database Name="cv" Series="39031" Issue="268666" />
-</Book>
-<Book Series="Silver Surfer" Number="4" Volume="2011" Year="2011">
-<Database Name="cv" Series="39031" Issue="270410" />
-</Book>
-<Book Series="Silver Surfer" Number="5" Volume="2011" Year="2011">
-<Database Name="cv" Series="39031" Issue="275661" />
-</Book>
 <Book Series="Franken-Castle" Number="17" Volume="2010" Year="2010">
 <Database Name="cv" Series="33560" Issue="217770" />
 </Book>
