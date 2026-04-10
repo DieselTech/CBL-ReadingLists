@@ -1515,6 +1515,24 @@
 <Book Series="Nomad: Girl Without a World" Number="4" Volume="2009" Year="2010">
 <Database Name="cv" Series="27856" Issue="187866" />
 </Book>
+<Book Series="The Amazing Spider-Man" Number="600" Volume="1963" Year="2009">
+<Database Name="cv" Series="2127" Issue="164777" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="601" Volume="1963" Year="2009">
+<Database Name="cv" Series="2127" Issue="166136" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="602" Volume="1963" Year="2009">
+<Database Name="cv" Series="2127" Issue="166792" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="603" Volume="1963" Year="2009">
+<Database Name="cv" Series="2127" Issue="167368" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="604" Volume="1963" Year="2009">
+<Database Name="cv" Series="2127" Issue="170719" />
+</Book>
+<Book Series="The Amazing Spider-Man" Number="605" Volume="1963" Year="2009">
+<Database Name="cv" Series="2127" Issue="171645" />
+</Book>
 <Book Series="Deadpool" Number="13" Volume="2008" Year="2009">
 <Database Name="cv" Series="22955" Issue="166793" />
 </Book>
@@ -1997,24 +2015,6 @@
 </Book>
 <Book Series="The Thanos Imperative: Devastation" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="38068" Issue="254490" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="600" Volume="1963" Year="2009">
-<Database Name="cv" Series="2127" Issue="164777" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="601" Volume="1963" Year="2009">
-<Database Name="cv" Series="2127" Issue="166136" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="602" Volume="1963" Year="2009">
-<Database Name="cv" Series="2127" Issue="166792" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="603" Volume="1963" Year="2009">
-<Database Name="cv" Series="2127" Issue="167368" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="604" Volume="1963" Year="2009">
-<Database Name="cv" Series="2127" Issue="170719" />
-</Book>
-<Book Series="The Amazing Spider-Man" Number="605" Volume="1963" Year="2009">
-<Database Name="cv" Series="2127" Issue="171645" />
 </Book>
 <Book Series="Hulk" Number="14" Volume="2008" Year="2009">
 <Database Name="cv" Series="20291" Issue="168325" />
