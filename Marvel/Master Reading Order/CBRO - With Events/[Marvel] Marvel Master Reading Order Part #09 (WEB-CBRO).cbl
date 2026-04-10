@@ -1770,6 +1770,12 @@
 <Book Series="Incredible Hercules" Number="141" Volume="2008" Year="2010">
 <Database Name="cv" Series="20588" Issue="197797" />
 </Book>
+<Book Series="Hercules: Fall of an Avenger" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="32050" Issue="201041" />
+</Book>
+<Book Series="Hercules: Fall of an Avenger" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="32050" Issue="208786" />
+</Book>
 <Book Series="Secret Warriors" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="25640" Issue="189566" />
 </Book>
