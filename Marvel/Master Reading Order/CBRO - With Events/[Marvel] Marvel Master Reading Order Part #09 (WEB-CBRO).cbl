@@ -1728,6 +1728,18 @@
 <Book Series="New Mutants" Number="10" Volume="2009" Year="2010">
 <Database Name="cv" Series="26327" Issue="196078" />
 </Book>
+<Book Series="X-Factor" Number="200" Volume="2006" Year="2010">
+<Database Name="cv" Series="18109" Issue="187690" />
+</Book>
+<Book Series="X-Factor" Number="201" Volume="2006" Year="2010">
+<Database Name="cv" Series="18109" Issue="194454" />
+</Book>
+<Book Series="X-Factor" Number="202" Volume="2006" Year="2010">
+<Database Name="cv" Series="18109" Issue="198346" />
+</Book>
+<Book Series="X-Factor" Number="203" Volume="2006" Year="2010">
+<Database Name="cv" Series="18109" Issue="201932" />
+</Book>
 <Book Series="Black Widow: Deadly Origin" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="29302" Issue="181100" />
 </Book>
@@ -2537,18 +2549,6 @@
 </Book>
 <Book Series="X-Force: Sex &amp; Violence" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="34411" Issue="233757" />
-</Book>
-<Book Series="X-Factor" Number="200" Volume="2006" Year="2010">
-<Database Name="cv" Series="18109" Issue="187690" />
-</Book>
-<Book Series="X-Factor" Number="201" Volume="2006" Year="2010">
-<Database Name="cv" Series="18109" Issue="194454" />
-</Book>
-<Book Series="X-Factor" Number="202" Volume="2006" Year="2010">
-<Database Name="cv" Series="18109" Issue="198346" />
-</Book>
-<Book Series="X-Factor" Number="203" Volume="2006" Year="2010">
-<Database Name="cv" Series="18109" Issue="201932" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="612" Volume="1963" Year="2010">
 <Database Name="cv" Series="2127" Issue="183671" />
