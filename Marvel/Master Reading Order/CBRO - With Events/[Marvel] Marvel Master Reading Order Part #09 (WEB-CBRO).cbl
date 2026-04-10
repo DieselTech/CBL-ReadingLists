@@ -1794,6 +1794,27 @@
 <Book Series="Wolverine: Origins" Number="46" Volume="2006" Year="2010">
 <Database Name="cv" Series="18130" Issue="202488" />
 </Book>
+<Book Series="Daredevil" Number="501" Volume="1998" Year="2009">
+<Database Name="cv" Series="6209" Issue="175563" />
+</Book>
+<Book Series="Daredevil" Number="502" Volume="1998" Year="2010">
+<Database Name="cv" Series="6209" Issue="182581" />
+</Book>
+<Book Series="Daredevil" Number="503" Volume="1998" Year="2010">
+<Database Name="cv" Series="6209" Issue="187670" />
+</Book>
+<Book Series="Daredevil" Number="504" Volume="1998" Year="2010">
+<Database Name="cv" Series="6209" Issue="194806" />
+</Book>
+<Book Series="Daredevil" Number="505" Volume="1998" Year="2010">
+<Database Name="cv" Series="6209" Issue="197598" />
+</Book>
+<Book Series="Daredevil" Number="506" Volume="1998" Year="2010">
+<Database Name="cv" Series="6209" Issue="206679" />
+</Book>
+<Book Series="Daredevil" Number="507" Volume="1998" Year="2010">
+<Database Name="cv" Series="6209" Issue="218357" />
+</Book>
 <Book Series="Secret Warriors" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="25640" Issue="189566" />
 </Book>
@@ -3494,27 +3515,6 @@
 </Book>
 <Book Series="The Amazing Spider-Man" Number="641" Volume="1963" Year="2010">
 <Database Name="cv" Series="2127" Issue="233834" />
-</Book>
-<Book Series="Daredevil" Number="501" Volume="1998" Year="2009">
-<Database Name="cv" Series="6209" Issue="175563" />
-</Book>
-<Book Series="Daredevil" Number="502" Volume="1998" Year="2010">
-<Database Name="cv" Series="6209" Issue="182581" />
-</Book>
-<Book Series="Daredevil" Number="503" Volume="1998" Year="2010">
-<Database Name="cv" Series="6209" Issue="187670" />
-</Book>
-<Book Series="Daredevil" Number="504" Volume="1998" Year="2010">
-<Database Name="cv" Series="6209" Issue="194806" />
-</Book>
-<Book Series="Daredevil" Number="505" Volume="1998" Year="2010">
-<Database Name="cv" Series="6209" Issue="197598" />
-</Book>
-<Book Series="Daredevil" Number="506" Volume="1998" Year="2010">
-<Database Name="cv" Series="6209" Issue="206679" />
-</Book>
-<Book Series="Daredevil" Number="507" Volume="1998" Year="2010">
-<Database Name="cv" Series="6209" Issue="218357" />
 </Book>
 <Book Series="Shadowland" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34243" Issue="223400" />
