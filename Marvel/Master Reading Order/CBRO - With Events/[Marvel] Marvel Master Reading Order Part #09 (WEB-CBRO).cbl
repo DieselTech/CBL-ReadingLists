@@ -1539,6 +1539,15 @@
 <Book Series="Deadpool" Number="14" Volume="2008" Year="2009">
 <Database Name="cv" Series="22955" Issue="168300" />
 </Book>
+<Book Series="Ms. Marvel" Number="48" Volume="2006" Year="2010">
+<Database Name="cv" Series="17990" Issue="187630" />
+</Book>
+<Book Series="Ms. Marvel" Number="49" Volume="2006" Year="2010">
+<Database Name="cv" Series="17990" Issue="194553" />
+</Book>
+<Book Series="Ms. Marvel" Number="50" Volume="2006" Year="2010">
+<Database Name="cv" Series="17990" Issue="198263" />
+</Book>
 <Book Series="Beta Ray Bill: Godhunter" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26662" Issue="159769" />
 </Book>
@@ -1904,15 +1913,6 @@
 </Book>
 <Book Series="Venom/Deadpool: What If?" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39133" Issue="263855" />
-</Book>
-<Book Series="Ms. Marvel" Number="48" Volume="2006" Year="2010">
-<Database Name="cv" Series="17990" Issue="187630" />
-</Book>
-<Book Series="Ms. Marvel" Number="49" Volume="2006" Year="2010">
-<Database Name="cv" Series="17990" Issue="194553" />
-</Book>
-<Book Series="Ms. Marvel" Number="50" Volume="2006" Year="2010">
-<Database Name="cv" Series="17990" Issue="198263" />
 </Book>
 <Book Series="Realm of Kings" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="29846" Issue="183724" />
