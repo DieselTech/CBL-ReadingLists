@@ -3966,6 +3966,30 @@
 <Book Series="X-Factor" Number="224" Volume="2006" Year="2011">
 <Database Name="cv" Series="18109" Issue="286685" />
 </Book>
+<Book Series="Daken: Dark Wolverine" Number="4" Volume="2010" Year="2011">
+<Database Name="cv" Series="35409" Issue="252740" />
+</Book>
+<Book Series="Daken: Dark Wolverine" Number="5" Volume="2010" Year="2011">
+<Database Name="cv" Series="35409" Issue="259996" />
+</Book>
+<Book Series="Daken: Dark Wolverine" Number="6" Volume="2010" Year="2011">
+<Database Name="cv" Series="35409" Issue="264588" />
+</Book>
+<Book Series="Daken: Dark Wolverine" Number="7" Volume="2010" Year="2011">
+<Database Name="cv" Series="35409" Issue="266489" />
+</Book>
+<Book Series="X-23" Number="8" Volume="2010" Year="2011">
+<Database Name="cv" Series="35496" Issue="267088" />
+</Book>
+<Book Series="Daken: Dark Wolverine" Number="8" Volume="2010" Year="2011">
+<Database Name="cv" Series="35409" Issue="268234" />
+</Book>
+<Book Series="X-23" Number="9" Volume="2010" Year="2011">
+<Database Name="cv" Series="35496" Issue="268984" />
+</Book>
+<Book Series="Daken: Dark Wolverine" Number="9" Volume="2010" Year="2011">
+<Database Name="cv" Series="35409" Issue="269962" />
+</Book>
 <Book Series="The Amazing Spider-Man" Number="652" Volume="1963" Year="2011">
 <Database Name="cv" Series="2127" Issue="258417" />
 </Book>
@@ -4082,30 +4106,6 @@
 </Book>
 <Book Series="Avengers: The Children's Crusade" Number="9" Volume="2010" Year="2012">
 <Database Name="cv" Series="34241" Issue="319366" />
-</Book>
-<Book Series="Daken: Dark Wolverine" Number="4" Volume="2010" Year="2011">
-<Database Name="cv" Series="35409" Issue="252740" />
-</Book>
-<Book Series="Daken: Dark Wolverine" Number="5" Volume="2010" Year="2011">
-<Database Name="cv" Series="35409" Issue="259996" />
-</Book>
-<Book Series="Daken: Dark Wolverine" Number="6" Volume="2010" Year="2011">
-<Database Name="cv" Series="35409" Issue="264588" />
-</Book>
-<Book Series="Daken: Dark Wolverine" Number="7" Volume="2010" Year="2011">
-<Database Name="cv" Series="35409" Issue="266489" />
-</Book>
-<Book Series="X-23" Number="8" Volume="2010" Year="2011">
-<Database Name="cv" Series="35496" Issue="267088" />
-</Book>
-<Book Series="Daken: Dark Wolverine" Number="8" Volume="2010" Year="2011">
-<Database Name="cv" Series="35409" Issue="268234" />
-</Book>
-<Book Series="X-23" Number="9" Volume="2010" Year="2011">
-<Database Name="cv" Series="35496" Issue="268984" />
-</Book>
-<Book Series="Daken: Dark Wolverine" Number="9" Volume="2010" Year="2011">
-<Database Name="cv" Series="35409" Issue="269962" />
 </Book>
 <Book Series="X-Men" Number="7" Volume="2010" Year="2011">
 <Database Name="cv" Series="34221" Issue="259141" />
