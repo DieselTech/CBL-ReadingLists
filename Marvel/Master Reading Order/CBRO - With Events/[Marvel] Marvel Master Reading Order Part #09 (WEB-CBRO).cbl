@@ -2745,6 +2745,9 @@
 <Book Series="Deadpool &amp; Cable" Number="26" Volume="2011" Year="2011">
 <Database Name="cv" Series="38781" Issue="260057" />
 </Book>
+<Book Series="Wolverine Weapon X" Number="16" Volume="2009" Year="2010">
+<Database Name="cv" Series="26150" Issue="230328" />
+</Book>
 <Book Series="Enter The Heroic Age" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="33229" Issue="214815" />
 </Book>
