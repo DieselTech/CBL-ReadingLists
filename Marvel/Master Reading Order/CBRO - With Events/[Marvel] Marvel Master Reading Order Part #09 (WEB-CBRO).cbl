@@ -3033,6 +3033,9 @@
 <Book Series="Thunderbolts" Number="146" Volume="2006" Year="2010">
 <Database Name="cv" Series="18128" Issue="225962" />
 </Book>
+<Book Series="Thunderbolts" Number="147" Volume="2006" Year="2010">
+<Database Name="cv" Series="18128" Issue="230304" />
+</Book>
 <Book Series="Avengers Academy" Number="3" Volume="2010" Year="2010">
 <Database Name="cv" Series="33633" Issue="230269" />
 </Book>
@@ -3383,9 +3386,6 @@
 </Book>
 <Book Series="PunisherMAX" Number="22" Volume="2010" Year="2012">
 <Database Name="cv" Series="29687" Issue="314971" />
-</Book>
-<Book Series="Thunderbolts" Number="147" Volume="2006" Year="2010">
-<Database Name="cv" Series="18128" Issue="230304" />
 </Book>
 <Book Series="Avengers Academy" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="33633" Issue="237210" />
