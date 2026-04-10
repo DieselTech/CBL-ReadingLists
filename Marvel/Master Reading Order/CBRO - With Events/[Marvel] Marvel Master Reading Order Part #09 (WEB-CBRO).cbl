@@ -3285,24 +3285,6 @@
 <Book Series="The Uncanny X-Men" Number="534" Volume="1981" Year="2011">
 <Database Name="cv" Series="3092" Issue="266488" />
 </Book>
-<Book Series="Fantastic Four" Number="583" Volume="1998" Year="2010">
-<Database Name="cv" Series="6211" Issue="235446" />
-</Book>
-<Book Series="Fantastic Four" Number="584" Volume="1998" Year="2010">
-<Database Name="cv" Series="6211" Issue="239851" />
-</Book>
-<Book Series="Fantastic Four" Number="585" Volume="1998" Year="2011">
-<Database Name="cv" Series="6211" Issue="246472" />
-</Book>
-<Book Series="Fantastic Four" Number="586" Volume="1998" Year="2011">
-<Database Name="cv" Series="6211" Issue="250665" />
-</Book>
-<Book Series="Fantastic Four" Number="587" Volume="1998" Year="2011">
-<Database Name="cv" Series="6211" Issue="259027" />
-</Book>
-<Book Series="Fantastic Four" Number="588" Volume="1998" Year="2011">
-<Database Name="cv" Series="6211" Issue="263599" />
-</Book>
 <Book Series="Silver Surfer" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="39031" Issue="262495" />
 </Book>
@@ -4019,6 +4001,24 @@
 </Book>
 <Book Series="Namor: The First Mutant" Number="11" Volume="2010" Year="2011">
 <Database Name="cv" Series="34839" Issue="275808" />
+</Book>
+<Book Series="Fantastic Four" Number="583" Volume="1998" Year="2010">
+<Database Name="cv" Series="6211" Issue="235446" />
+</Book>
+<Book Series="Fantastic Four" Number="584" Volume="1998" Year="2010">
+<Database Name="cv" Series="6211" Issue="239851" />
+</Book>
+<Book Series="Fantastic Four" Number="585" Volume="1998" Year="2011">
+<Database Name="cv" Series="6211" Issue="246472" />
+</Book>
+<Book Series="Fantastic Four" Number="586" Volume="1998" Year="2011">
+<Database Name="cv" Series="6211" Issue="250665" />
+</Book>
+<Book Series="Fantastic Four" Number="587" Volume="1998" Year="2011">
+<Database Name="cv" Series="6211" Issue="259027" />
+</Book>
+<Book Series="Fantastic Four" Number="588" Volume="1998" Year="2011">
+<Database Name="cv" Series="6211" Issue="263599" />
 </Book>
 <Book Series="Wolverine" Number="9" Volume="2010" Year="2011">
 <Database Name="cv" Series="35263" Issue="271597" />
