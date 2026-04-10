@@ -4179,6 +4179,21 @@
 <Book Series="Astonishing X-Men" Number="37" Volume="2004" Year="2011">
 <Database Name="cv" Series="10746" Issue="269779" />
 </Book>
+<Book Series="Astonishing X-Men" Number="38" Volume="2004" Year="2011">
+<Database Name="cv" Series="10746" Issue="270426" />
+</Book>
+<Book Series="Astonishing X-Men" Number="39" Volume="2004" Year="2011">
+<Database Name="cv" Series="10746" Issue="272293" />
+</Book>
+<Book Series="Astonishing X-Men" Number="40" Volume="2004" Year="2011">
+<Database Name="cv" Series="10746" Issue="281718" />
+</Book>
+<Book Series="Astonishing X-Men" Number="41" Volume="2004" Year="2011">
+<Database Name="cv" Series="10746" Issue="288516" />
+</Book>
+<Book Series="Astonishing X-Men" Number="42" Volume="2004" Year="2011">
+<Database Name="cv" Series="10746" Issue="293595" />
+</Book>
 <Book Series="Incredible Hulks" Number="612" Volume="2010" Year="2010">
 <Database Name="cv" Series="35303" Issue="232749" />
 </Book>
@@ -4319,21 +4334,6 @@
 </Book>
 <Book Series="New Mutants" Number="28" Volume="2009" Year="2011">
 <Database Name="cv" Series="26327" Issue="281714" />
-</Book>
-<Book Series="Astonishing X-Men" Number="38" Volume="2004" Year="2011">
-<Database Name="cv" Series="10746" Issue="270426" />
-</Book>
-<Book Series="Astonishing X-Men" Number="39" Volume="2004" Year="2011">
-<Database Name="cv" Series="10746" Issue="272293" />
-</Book>
-<Book Series="Astonishing X-Men" Number="40" Volume="2004" Year="2011">
-<Database Name="cv" Series="10746" Issue="281718" />
-</Book>
-<Book Series="Astonishing X-Men" Number="41" Volume="2004" Year="2011">
-<Database Name="cv" Series="10746" Issue="288516" />
-</Book>
-<Book Series="Astonishing X-Men" Number="42" Volume="2004" Year="2011">
-<Database Name="cv" Series="10746" Issue="293595" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="534.1" Volume="1981" Year="2011">
 <Database Name="cv" Series="3092" Issue="267573" />
