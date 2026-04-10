@@ -3093,6 +3093,9 @@
 <Book Series="Atlas" Number="5" Volume="2010" Year="2010">
 <Database Name="cv" Series="33236" Issue="236703" />
 </Book>
+<Book Series="New Avengers" Number="7" Volume="2010" Year="2011">
+<Database Name="cv" Series="33777" Issue="248493" />
+</Book>
 <Book Series="Black Widow" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32582" Issue="206748" />
 </Book>
@@ -3380,9 +3383,6 @@
 </Book>
 <Book Series="Hulk" Number="33" Volume="2008" Year="2011">
 <Database Name="cv" Series="20291" Issue="270463" />
-</Book>
-<Book Series="New Avengers" Number="7" Volume="2010" Year="2011">
-<Database Name="cv" Series="33777" Issue="248493" />
 </Book>
 <Book Series="New Avengers" Number="8" Volume="2010" Year="2011">
 <Database Name="cv" Series="33777" Issue="259139" />
