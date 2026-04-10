@@ -3762,6 +3762,9 @@
 <Book Series="Carnage" Number="5" Volume="2010" Year="2011">
 <Database Name="cv" Series="36240" Issue="275725" />
 </Book>
+<Book Series="Death of Dracula" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="34003" Issue="221774" />
+</Book>
 <Book Series="X-Men: Curse Of The Mutants Saga" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="34032" Issue="221891" />
 </Book>
