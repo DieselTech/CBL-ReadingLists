@@ -3531,6 +3531,9 @@
 <Book Series="Deadpool Max" Number="12" Volume="2010" Year="2011">
 <Database Name="cv" Series="35847" Issue="293636" />
 </Book>
+<Book Series="Thor" Number="620.1" Volume="2007" Year="2011">
+<Database Name="cv" Series="18831" Issue="266640" />
+</Book>
 <Book Series="Thor" Number="615" Volume="2007" Year="2010">
 <Database Name="cv" Series="18831" Issue="235678" />
 </Book>
@@ -3548,9 +3551,6 @@
 </Book>
 <Book Series="Thor" Number="620" Volume="2007" Year="2011">
 <Database Name="cv" Series="18831" Issue="263742" />
-</Book>
-<Book Series="Thor" Number="620.1" Volume="2007" Year="2011">
-<Database Name="cv" Series="18831" Issue="266640" />
 </Book>
 <Book Series="Thor" Number="621" Volume="2007" Year="2011">
 <Database Name="cv" Series="18831" Issue="267220" />
