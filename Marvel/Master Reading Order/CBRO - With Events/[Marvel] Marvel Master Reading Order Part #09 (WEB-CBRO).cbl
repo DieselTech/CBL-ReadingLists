@@ -1485,6 +1485,24 @@
 <Book Series="Son of Hulk" Number="17" Volume="2009" Year="2010">
 <Database Name="cv" Series="50762" Issue="347258" />
 </Book>
+<Book Series="Captain Britain and MI:13" Number="10" Volume="2008" Year="2009">
+<Database Name="cv" Series="21551" Issue="151830" />
+</Book>
+<Book Series="Captain Britain and MI:13" Number="11" Volume="2008" Year="2009">
+<Database Name="cv" Series="21551" Issue="153460" />
+</Book>
+<Book Series="Captain Britain and MI:13" Number="12" Volume="2008" Year="2009">
+<Database Name="cv" Series="21551" Issue="155336" />
+</Book>
+<Book Series="Captain Britain and MI:13" Number="13" Volume="2008" Year="2009">
+<Database Name="cv" Series="21551" Issue="157306" />
+</Book>
+<Book Series="Captain Britain and MI:13" Number="14" Volume="2008" Year="2009">
+<Database Name="cv" Series="21551" Issue="160449" />
+</Book>
+<Book Series="Captain Britain and MI:13" Number="15" Volume="2008" Year="2009">
+<Database Name="cv" Series="21551" Issue="164827" />
+</Book>
 <Book Series="Nomad: Girl Without a World" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="27856" Issue="170779" />
 </Book>
@@ -2129,24 +2147,6 @@
 </Book>
 <Book Series="She-Hulks" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="36561" Issue="260032" />
-</Book>
-<Book Series="Captain Britain and MI:13" Number="10" Volume="2008" Year="2009">
-<Database Name="cv" Series="21551" Issue="151830" />
-</Book>
-<Book Series="Captain Britain and MI:13" Number="11" Volume="2008" Year="2009">
-<Database Name="cv" Series="21551" Issue="153460" />
-</Book>
-<Book Series="Captain Britain and MI:13" Number="12" Volume="2008" Year="2009">
-<Database Name="cv" Series="21551" Issue="155336" />
-</Book>
-<Book Series="Captain Britain and MI:13" Number="13" Volume="2008" Year="2009">
-<Database Name="cv" Series="21551" Issue="157306" />
-</Book>
-<Book Series="Captain Britain and MI:13" Number="14" Volume="2008" Year="2009">
-<Database Name="cv" Series="21551" Issue="160449" />
-</Book>
-<Book Series="Captain Britain and MI:13" Number="15" Volume="2008" Year="2009">
-<Database Name="cv" Series="21551" Issue="164827" />
 </Book>
 <Book Series="Punisher" Number="11" Volume="2009" Year="2010">
 <Database Name="cv" Series="25370" Issue="183749" />
