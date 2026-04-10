@@ -1557,6 +1557,21 @@
 <Book Series="Beta Ray Bill: Godhunter" Number="3" Volume="2009" Year="2009">
 <Database Name="cv" Series="26662" Issue="168295" />
 </Book>
+<Book Series="Wolverine Weapon X" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="26150" Issue="155144" />
+</Book>
+<Book Series="Wolverine Weapon X" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="26150" Issue="157717" />
+</Book>
+<Book Series="Wolverine Weapon X" Number="3" Volume="2009" Year="2009">
+<Database Name="cv" Series="26150" Issue="161500" />
+</Book>
+<Book Series="Wolverine Weapon X" Number="4" Volume="2009" Year="2009">
+<Database Name="cv" Series="26150" Issue="167372" />
+</Book>
+<Book Series="Wolverine Weapon X" Number="5" Volume="2009" Year="2009">
+<Database Name="cv" Series="26150" Issue="173768" />
+</Book>
 <Book Series="X-Force" Number="17" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="164780" />
 </Book>
@@ -2252,21 +2267,6 @@
 </Book>
 <Book Series="The Amazing Spider-Man" Number="611" Volume="1963" Year="2010">
 <Database Name="cv" Series="2127" Issue="182579" />
-</Book>
-<Book Series="Wolverine Weapon X" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="26150" Issue="155144" />
-</Book>
-<Book Series="Wolverine Weapon X" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="26150" Issue="157717" />
-</Book>
-<Book Series="Wolverine Weapon X" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="26150" Issue="161500" />
-</Book>
-<Book Series="Wolverine Weapon X" Number="4" Volume="2009" Year="2009">
-<Database Name="cv" Series="26150" Issue="167372" />
-</Book>
-<Book Series="Wolverine Weapon X" Number="5" Volume="2009" Year="2009">
-<Database Name="cv" Series="26150" Issue="173768" />
 </Book>
 <Book Series="Wolverine Weapon X" Number="6" Volume="2009" Year="2009">
 <Database Name="cv" Series="26150" Issue="179195" />
