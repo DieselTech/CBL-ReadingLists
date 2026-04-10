@@ -1458,6 +1458,18 @@
 <Book Series="Ms. Marvel" Number="47" Volume="2006" Year="2010">
 <Database Name="cv" Series="17990" Issue="184820" />
 </Book>
+<Book Series="Wolverine: Origins" Number="37" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="160514" />
+</Book>
+<Book Series="Wolverine: Origins" Number="38" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="164799" />
+</Book>
+<Book Series="Wolverine: Origins" Number="39" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="168415" />
+</Book>
+<Book Series="Wolverine: Origins" Number="40" Volume="2006" Year="2009">
+<Database Name="cv" Series="18130" Issue="172376" />
+</Book>
 <Book Series="Son of Hulk" Number="13" Volume="2009" Year="2009">
 <Database Name="cv" Series="50762" Issue="347248" />
 </Book>
@@ -2309,18 +2321,6 @@
 </Book>
 <Book Series="Wolverine: Revolver" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26627" Issue="159326" />
-</Book>
-<Book Series="Wolverine: Origins" Number="37" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="160514" />
-</Book>
-<Book Series="Wolverine: Origins" Number="38" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="164799" />
-</Book>
-<Book Series="Wolverine: Origins" Number="39" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="168415" />
-</Book>
-<Book Series="Wolverine: Origins" Number="40" Volume="2006" Year="2009">
-<Database Name="cv" Series="18130" Issue="172376" />
 </Book>
 <Book Series="Captain America" Number="601" Volume="2004" Year="2009">
 <Database Name="cv" Series="11499" Issue="164034" />
