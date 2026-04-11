@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Harley Quinn (New52_Rebirth)</Name>
-  <NumIssues>108</NumIssues>
+  <NumIssues>116</NumIssues>
   <Books>
-    <Book Series="Harley Quinn: Hot In the City" Number="1" Volume="2014" Year="2014">
-      <Database Name="cv" Series="77688" Issue="468444" />
+    <Book Series="Harley Quinn" Number="0" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="433771" />
+    </Book>
+    <Book Series="Harley Quinn" Number="1" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="437416" />
+    </Book>
+    <Book Series="Harley Quinn" Number="2" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="442872" />
+    </Book>
+    <Book Series="Harley Quinn" Number="3" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="445765" />
+    </Book>
+    <Book Series="Harley Quinn" Number="4" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="447952" />
+    </Book>
+    <Book Series="Harley Quinn" Number="5" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="450513" />
+    </Book>
+    <Book Series="Harley Quinn" Number="6" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="453362" />
+    </Book>
+    <Book Series="Harley Quinn" Number="7" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="456501" />
+    </Book>
+    <Book Series="Harley Quinn" Number="8" Volume="2013" Year="2014">
+      <Database Name="cv" Series="69322" Issue="461064" />
     </Book>
     <Book Series="Harley Quinn" Number="9" Volume="2013" Year="2014">
       <Database Name="cv" Series="69322" Issue="462206" />
