@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] Guardians of the Galaxy 2008 no events (WEB-CBRO)</Name>
-<NumIssues>198</NumIssues>
+<Name>[Marvel] Guardians of the Galaxy (2008) no events (WEB-CBRO)</Name>
+<NumIssues>231</NumIssues>
 <Books>
 <Book Series="Guardians of the Galaxy" Number="4" Volume="2008" Year="2008">
 <Database Name="cv" Series="21550" Issue="136047" />
@@ -593,6 +593,105 @@
 </Book>
 <Book Series="Guardians of the Galaxy" Number="12" Volume="2019" Year="2020">
 <Database Name="cv" Series="116702" Issue="731514" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="734642" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="737757" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="742371" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="779008" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="787353" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="797243" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="7" Volume="2020" Year="2020">
+<Database Name="cv" Series="124447" Issue="813282" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="8" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="816467" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="9" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="820744" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="10" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="824025" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="11" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="828853" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="12" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="839794" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="13" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="842961" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="14" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="848851" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="15" Volume="2020" Year="2021">
+<Database Name="cv" Series="124447" Issue="863928" />
+</Book>
+<Book Series="Guardians of the Galaxy: Cosmic Rewind" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="145767" Issue="953022" />
+</Book>
+<Book Series="Guardians of the Galaxy: Bane of Blastaar" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="149777" Issue="985703" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="149391" Issue="982354" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="149391" Issue="989660" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="149391" Issue="996018" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="4" Volume="2023" Year="2023">
+<Database Name="cv" Series="149391" Issue="1002002" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="5" Volume="2023" Year="2023">
+<Database Name="cv" Series="149391" Issue="1006436" />
+</Book>
+<Book Series="Groot" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="150030" Issue="987129" />
+</Book>
+<Book Series="Groot" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="150030" Issue="993231" />
+</Book>
+<Book Series="Groot" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="150030" Issue="1000230" />
+</Book>
+<Book Series="Groot" Number="4" Volume="2023" Year="2023">
+<Database Name="cv" Series="150030" Issue="1008948" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="6" Volume="2023" Year="2023">
+<Database Name="cv" Series="149391" Issue="1014910" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="7" Volume="2023" Year="2023">
+<Database Name="cv" Series="149391" Issue="1024046" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="8" Volume="2023" Year="2024">
+<Database Name="cv" Series="149391" Issue="1028628" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="9" Volume="2023" Year="2024">
+<Database Name="cv" Series="149391" Issue="1034338" />
+</Book>
+<Book Series="Guardians of the Galaxy" Number="10" Volume="2023" Year="2024">
+<Database Name="cv" Series="149391" Issue="1040940" />
+</Book>
+<Book Series="Guardians of the Galaxy Annual" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="156964" Issue="1045771" />
+</Book>
+<Book Series="Doctor Doom &amp; Rocket Raccoon" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="162062" Issue="1091206" />
 </Book>
 </Books>
 <Matchers />
