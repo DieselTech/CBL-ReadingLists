@@ -3,20 +3,20 @@
 <Name>[Marvel] Cloak and Dagger no events (WEB-CBRO)</Name>
 <NumIssues>62</NumIssues>
 <Books>
-<Book Series="The Spectacular Spider-Man" Number="64" Volume="1976" Year="1982">
-<Database Name="cv" Series="2870" Issue="22024" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="64" Volume="1980" Year="1982">
+<Database Name="cv" Series="139754" Issue="22024" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="69" Volume="1976" Year="1982">
-<Database Name="cv" Series="2870" Issue="22389" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="69" Volume="1980" Year="1982">
+<Database Name="cv" Series="139754" Issue="22389" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="70" Volume="1976" Year="1982">
-<Database Name="cv" Series="2870" Issue="22459" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="70" Volume="1980" Year="1982">
+<Database Name="cv" Series="139754" Issue="22459" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="81" Volume="1976" Year="1983">
-<Database Name="cv" Series="2870" Issue="23383" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="81" Volume="1980" Year="1983">
+<Database Name="cv" Series="139754" Issue="23383" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="82" Volume="1976" Year="1983">
-<Database Name="cv" Series="2870" Issue="23465" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="82" Volume="1980" Year="1983">
+<Database Name="cv" Series="139754" Issue="23465" />
 </Book>
 <Book Series="Cloak and Dagger" Number="1" Volume="1983" Year="1983">
 <Database Name="cv" Series="3219" Issue="23534" />
@@ -30,14 +30,14 @@
 <Book Series="Cloak and Dagger" Number="4" Volume="1983" Year="1984">
 <Database Name="cv" Series="3219" Issue="23865" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="94" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24704" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="94" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24704" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="95" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24803" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="95" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24803" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="96" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24899" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="96" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24899" />
 </Book>
 <Book Series="Cloak and Dagger" Number="1" Volume="1985" Year="1985">
 <Database Name="cv" Series="3475" Issue="25678" />
@@ -192,3 +192,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

@@ -6,14 +6,14 @@
 <Book Series="The Amazing Spider-Man" Number="253" Volume="1963" Year="1984">
 <Database Name="cv" Series="2127" Issue="24396" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="91" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24415" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="91" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24415" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="254" Volume="1963" Year="1984">
 <Database Name="cv" Series="2127" Issue="24496" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="92" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24513" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="92" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24513" />
 </Book>
 <Book Series="Daredevil" Number="207" Volume="1964" Year="1984">
 <Database Name="cv" Series="2190" Issue="24400" />
@@ -99,14 +99,14 @@
 <Book Series="Marvel Team-Up" Number="145" Volume="1972" Year="1984">
 <Database Name="cv" Series="2576" Issue="24698" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="93" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24615" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="93" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24615" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="94" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24704" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="94" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24704" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="95" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24803" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="95" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24803" />
 </Book>
 <Book Series="Marvel Team-Up Annual" Number="7" Volume="1976" Year="1984">
 <Database Name="cv" Series="2863" Issue="23785" />
@@ -135,3 +135,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

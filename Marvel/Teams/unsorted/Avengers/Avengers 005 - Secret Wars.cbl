@@ -267,11 +267,11 @@
     <Book Series="Iron Man" Number="201" Volume="1968" Year="1985">
       <Database Name="cv" Series="2407" Issue="26198" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="105" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25796" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="105" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25796" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="106" Volume="1976" Year="1985">
-      <Database Name="cv" Series="2870" Issue="25890" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="106" Volume="1980" Year="1985">
+      <Database Name="cv" Series="139754" Issue="25890" />
     </Book>
     <Book Series="The Avengers" Number="256" Volume="1963" Year="1985">
       <Database Name="cv" Series="2128" Issue="25575" />
@@ -891,3 +891,4 @@
   </Books>
   <Matchers />
 </ReadingList>
+
