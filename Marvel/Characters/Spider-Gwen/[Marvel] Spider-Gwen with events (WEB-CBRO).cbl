@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Spider-Gwen with events (WEB-CBRO)</Name>
-<NumIssues>229</NumIssues>
+<NumIssues>230</NumIssues>
 <Books>
 <Book Series="Superior Spider-Man" Number="32" Volume="2013" Year="2014">
 <Database Name="cv" Series="55552" Issue="461740" />
@@ -689,6 +689,9 @@
 </Book>
 <Book Series="All-New Spider-Gwen: The Ghost-Spider" Number="8" Volume="2025" Year="2026">
 <Database Name="cv" Series="166312" Issue="1158148" />
+</Book>
+<Book Series="All-New Spider-Gwen: The Ghost-Spider" Number="9" Volume="2025" Year="2026">
+<Database Name="cv" Series="166312" Issue="1161330" />
 </Book>
 </Books>
 <Matchers />
