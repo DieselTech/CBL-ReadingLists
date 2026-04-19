@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] Spider-Man without events (WEB-CBRO)</Name>
+<Name>[Marvel] Spider-Man no events (WEB-CBRO)</Name>
 <NumIssues>1240</NumIssues>
 <Books>
 <Book Series="Amazing Fantasy" Number="15" Volume="1962" Year="1962">
