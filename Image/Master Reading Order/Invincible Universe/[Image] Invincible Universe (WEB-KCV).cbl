@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Invincible</Name>
-<NumIssues>248</NumIssues>
+<Name>[Image] Invincible Universe (WEB-KCV)</Name>
+<NumIssues>269</NumIssues>
 <Books>
+<Book Series="Tech Jacket" Number="1" Volume="2002" Year="2002">
+<Database Name="cv" Series="22158" Issue="133284" />
+</Book>
+<Book Series="Tech Jacket" Number="2" Volume="2002" Year="2002">
+<Database Name="cv" Series="22158" Issue="174452" />
+</Book>
+<Book Series="Tech Jacket" Number="3" Volume="2002" Year="2003">
+<Database Name="cv" Series="22158" Issue="174453" />
+</Book>
 <Book Series="Invincible" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="17993" Issue="105347" />
 </Book>
@@ -15,26 +24,26 @@
 <Book Series="Invincible" Number="4" Volume="2003" Year="2003">
 <Database Name="cv" Series="17993" Issue="105534" />
 </Book>
+<Book Series="Tech Jacket" Number="4" Volume="2002" Year="2003">
+<Database Name="cv" Series="22158" Issue="174454" />
+</Book>
+<Book Series="Tech Jacket" Number="5" Volume="2002" Year="2003">
+<Database Name="cv" Series="22158" Issue="174455" />
+</Book>
+<Book Series="Tech Jacket" Number="6" Volume="2002" Year="2003">
+<Database Name="cv" Series="22158" Issue="174456" />
+</Book>
+<Book Series="Tech Jacket" Number="7" Volume="2002" Year="2014">
+<Database Name="cv" Series="22158" Issue="456310" />
+</Book>
+<Book Series="Tech Jacket" Number="8" Volume="2002" Year="2014">
+<Database Name="cv" Series="22158" Issue="456311" />
+</Book>
 <Book Series="Invincible" Number="5" Volume="2003" Year="2003">
 <Database Name="cv" Series="17993" Issue="105535" />
 </Book>
 <Book Series="Invincible" Number="6" Volume="2003" Year="2003">
 <Database Name="cv" Series="17993" Issue="105536" />
-</Book>
-<Book Series="Capes" Number="1" Volume="2003" Year="2003">
-<Database Name="cv" Series="11328" Issue="99412" />
-</Book>
-<Book Series="Capes" Number="2" Volume="2003" Year="2003">
-<Database Name="cv" Series="11328" Issue="99413" />
-</Book>
-<Book Series="Capes" Number="3" Volume="2003" Year="2003">
-<Database Name="cv" Series="11328" Issue="99414" />
-</Book>
-<Book Series="Brit" Number="1" Volume="2003" Year="2003">
-<Database Name="cv" Series="28331" Issue="174461" />
-</Book>
-<Book Series="Brit: Cold Death" Number="1" Volume="2003" Year="2003">
-<Database Name="cv" Series="28332" Issue="174462" />
 </Book>
 <Book Series="Invincible" Number="7" Volume="2003" Year="2003">
 <Database Name="cv" Series="17993" Issue="105537" />
@@ -63,47 +72,32 @@
 <Book Series="Invincible" Number="15" Volume="2003" Year="2004">
 <Database Name="cv" Series="17993" Issue="125187" />
 </Book>
-<Book Series="SuperPatriot: War on Terror" Number="1" Volume="2004" Year="2004">
-<Database Name="cv" Series="23580" Issue="164263" />
+<Book Series="Brit" Number="1" Volume="2003" Year="2003">
+<Database Name="cv" Series="28331" Issue="174461" />
 </Book>
-<Book Series="SuperPatriot: War on Terror" Number="2" Volume="2004" Year="2005">
-<Database Name="cv" Series="23580" Issue="164523" />
+<Book Series="Brit: Cold Death" Number="1" Volume="2003" Year="2003">
+<Database Name="cv" Series="28332" Issue="174462" />
 </Book>
-<Book Series="SuperPatriot: War on Terror" Number="3" Volume="2004" Year="2006">
-<Database Name="cv" Series="23580" Issue="164524" />
-</Book>
-<Book Series="SuperPatriot: War on Terror" Number="4" Volume="2004" Year="2007">
-<Database Name="cv" Series="23580" Issue="141450" />
-</Book>
-<Book Series="Image Comics Summer Special" Number="1" Volume="2004" Year="2004">
-<Database Name="cv" Series="21364" Issue="129084" />
-</Book>
-<Book Series="Tech Jacket" Number="1" Volume="2002" Year="2002">
-<Database Name="cv" Series="22158" Issue="133284" />
-</Book>
-<Book Series="Tech Jacket" Number="2" Volume="2002" Year="2002">
-<Database Name="cv" Series="22158" Issue="174452" />
-</Book>
-<Book Series="Tech Jacket" Number="3" Volume="2002" Year="2003">
-<Database Name="cv" Series="22158" Issue="174453" />
-</Book>
-<Book Series="Tech Jacket" Number="4" Volume="2002" Year="2003">
-<Database Name="cv" Series="22158" Issue="174454" />
-</Book>
-<Book Series="Tech Jacket" Number="5" Volume="2002" Year="2003">
-<Database Name="cv" Series="22158" Issue="174455" />
-</Book>
-<Book Series="Tech Jacket" Number="6" Volume="2002" Year="2003">
-<Database Name="cv" Series="22158" Issue="174456" />
-</Book>
-<Book Series="Tech Jacket" Number="7" Volume="2002" Year="2014">
-<Database Name="cv" Series="22158" Issue="456310" />
-</Book>
-<Book Series="Tech Jacket" Number="8" Volume="2002" Year="2014">
-<Database Name="cv" Series="22158" Issue="456311" />
-</Book>
-<Book Series="Brit: Red White Black &#38; Blue" Number="1" Volume="2004" Year="2004">
+<Book Series="Brit: Red White Black &amp; Blue" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="28333" Issue="174465" />
+</Book>
+<Book Series="Capes" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="168595" Issue="1144240" />
+</Book>
+<Book Series="Capes" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="168595" Issue="1149849" />
+</Book>
+<Book Series="Capes" Number="3" Volume="2025" Year="2026">
+<Database Name="cv" Series="168595" Issue="1154101" />
+</Book>
+<Book Series="Savage Dragon" Number="107" Volume="1993" Year="2003">
+<Database Name="cv" Series="5170" Issue="111840" />
+</Book>
+<Book Series="Noble Causes" Number="5" Volume="2004" Year="2004">
+<Database Name="cv" Series="11274" Issue="98974" />
+</Book>
+<Book Series="Dynamo 5 Annual" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="21812" Issue="131456" />
 </Book>
 <Book Series="Invincible" Number="16" Volume="2003" Year="2004">
 <Database Name="cv" Series="17993" Issue="125240" />
@@ -135,6 +129,24 @@
 <Book Series="Invincible" Number="24" Volume="2003" Year="2005">
 <Database Name="cv" Series="17993" Issue="129014" />
 </Book>
+<Book Series="Dynamo 5: Sins of the Father" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33945" Issue="221142" />
+</Book>
+<Book Series="Dynamo 5: Sins of the Father" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="33945" Issue="225689" />
+</Book>
+<Book Series="Dynamo 5: Sins of the Father" Number="3" Volume="2010" Year="2010">
+<Database Name="cv" Series="33945" Issue="232768" />
+</Book>
+<Book Series="Dynamo 5: Sins of the Father" Number="4" Volume="2010" Year="2010">
+<Database Name="cv" Series="33945" Issue="235657" />
+</Book>
+<Book Series="Dynamo 5: Sins of the Father" Number="5" Volume="2010" Year="2010">
+<Database Name="cv" Series="33945" Issue="240111" />
+</Book>
+<Book Series="Noble Causes" Number="19" Volume="2004" Year="2006">
+<Database Name="cv" Series="11274" Issue="131730" />
+</Book>
 <Book Series="Invincible" Number="25" Volume="2003" Year="2005">
 <Database Name="cv" Series="17993" Issue="129080" />
 </Book>
@@ -152,6 +164,39 @@
 </Book>
 <Book Series="Invincible" Number="30" Volume="2003" Year="2006">
 <Database Name="cv" Series="17993" Issue="130602" />
+</Book>
+<Book Series="Capes" Number="4" Volume="2025" Year="2026">
+<Database Name="cv" Series="168595" Issue="1156944" />
+</Book>
+<Book Series="Capes" Number="5" Volume="2025" Year="2026">
+<Database Name="cv" Series="168595" Issue="1160294" />
+</Book>
+<Book Series="Capes" Number="6" Volume="2025" Year="2026">
+<Database Name="cv" Series="168595" Issue="1163628" />
+</Book>
+<Book Series="Science Dog Special" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35134" Issue="231843" />
+</Book>
+<Book Series="Science Dog Special" Number="2" Volume="2010" Year="2011">
+<Database Name="cv" Series="35134" Issue="270622" />
+</Book>
+<Book Series="Invincible Universe: Battle Beast" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="164334" Issue="1109713" />
+</Book>
+<Book Series="Invincible Universe: Battle Beast" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="164334" Issue="1116408" />
+</Book>
+<Book Series="Invincible Universe: Battle Beast" Number="3" Volume="2025" Year="2025">
+<Database Name="cv" Series="164334" Issue="1120478" />
+</Book>
+<Book Series="Invincible Universe: Battle Beast" Number="4" Volume="2025" Year="2025">
+<Database Name="cv" Series="164334" Issue="1127211" />
+</Book>
+<Book Series="Invincible Universe: Battle Beast" Number="5" Volume="2025" Year="2025">
+<Database Name="cv" Series="164334" Issue="1133819" />
+</Book>
+<Book Series="Invincible Universe: Battle Beast" Number="6" Volume="2025" Year="2025">
+<Database Name="cv" Series="164334" Issue="1138315" />
 </Book>
 <Book Series="Pact" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="21745" Issue="131168" />
@@ -173,9 +218,6 @@
 </Book>
 <Book Series="Invincible" Number="33" Volume="2003" Year="2006">
 <Database Name="cv" Series="17993" Issue="130607" />
-</Book>
-<Book Series="Marvel Team-Up" Number="14" Volume="2004" Year="2006">
-<Database Name="cv" Series="18024" Issue="120889" />
 </Book>
 <Book Series="Invincible" Number="34" Volume="2003" Year="2006">
 <Database Name="cv" Series="17993" Issue="130609" />
@@ -201,9 +243,6 @@
 <Book Series="Invincible" Number="41" Volume="2003" Year="2007">
 <Database Name="cv" Series="17993" Issue="109271" />
 </Book>
-<Book Series="Invincible" Number="42" Volume="2003" Year="2007">
-<Database Name="cv" Series="17993" Issue="126823" />
-</Book>
 <Book Series="The Astounding Wolf-Man" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="18834" Issue="111335" />
 </Book>
@@ -216,6 +255,15 @@
 <Book Series="The Astounding Wolf-Man" Number="4" Volume="2007" Year="2007">
 <Database Name="cv" Series="18834" Issue="119861" />
 </Book>
+<Book Series="Invincible Universe: Battle Beast" Number="7" Volume="2025" Year="2026">
+<Database Name="cv" Series="164334" Issue="1159664" />
+</Book>
+<Book Series="Invincible Universe: Battle Beast" Number="8" Volume="2025" Year="2026">
+<Database Name="cv" Series="164334" Issue="1163032" />
+</Book>
+<Book Series="Invincible" Number="42" Volume="2003" Year="2007">
+<Database Name="cv" Series="17993" Issue="126823" />
+</Book>
 <Book Series="Invincible" Number="43" Volume="2003" Year="2007">
 <Database Name="cv" Series="17993" Issue="130610" />
 </Book>
@@ -224,6 +272,12 @@
 </Book>
 <Book Series="Invincible" Number="45" Volume="2003" Year="2007">
 <Database Name="cv" Series="17993" Issue="126819" />
+</Book>
+<Book Series="Invincible" Number="46" Volume="2003" Year="2007">
+<Database Name="cv" Series="17993" Issue="118125" />
+</Book>
+<Book Series="Invincible" Number="47" Volume="2003" Year="2007">
+<Database Name="cv" Series="17993" Issue="120920" />
 </Book>
 <Book Series="Brit" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="19151" Issue="114566" />
@@ -261,11 +315,11 @@
 <Book Series="Brit" Number="12" Volume="2007" Year="2009">
 <Database Name="cv" Series="19151" Issue="152749" />
 </Book>
-<Book Series="Invincible" Number="46" Volume="2003" Year="2007">
-<Database Name="cv" Series="17993" Issue="118125" />
+<Book Series="Invincible Presents Atom Eve" Number="1" Volume="2007" Year="2007">
+<Database Name="cv" Series="20351" Issue="121639" />
 </Book>
-<Book Series="Invincible" Number="47" Volume="2003" Year="2007">
-<Database Name="cv" Series="17993" Issue="120920" />
+<Book Series="Invincible Presents Atom Eve" Number="2" Volume="2007" Year="2008">
+<Database Name="cv" Series="20351" Issue="124693" />
 </Book>
 <Book Series="Invincible" Number="48" Volume="2003" Year="2008">
 <Database Name="cv" Series="17993" Issue="125073" />
@@ -275,12 +329,6 @@
 </Book>
 <Book Series="Invincible" Number="50" Volume="2003" Year="2008">
 <Database Name="cv" Series="17993" Issue="131455" />
-</Book>
-<Book Series="Invincible Presents Atom Eve" Number="1" Volume="2007" Year="2007">
-<Database Name="cv" Series="20351" Issue="121639" />
-</Book>
-<Book Series="Invincible Presents Atom Eve" Number="2" Volume="2007" Year="2008">
-<Database Name="cv" Series="20351" Issue="124693" />
 </Book>
 <Book Series="Invincible" Number="51" Volume="2003" Year="2008">
 <Database Name="cv" Series="17993" Issue="134119" />
@@ -339,9 +387,6 @@
 <Book Series="The Astounding Wolf-Man" Number="14" Volume="2007" Year="2009">
 <Database Name="cv" Series="18834" Issue="155885" />
 </Book>
-<Book Series="Invincible" Number="60" Volume="2003" Year="2009">
-<Database Name="cv" Series="17993" Issue="153703" />
-</Book>
 <Book Series="The Astounding Wolf-Man" Number="15" Volume="2007" Year="2009">
 <Database Name="cv" Series="18834" Issue="156905" />
 </Book>
@@ -353,6 +398,12 @@
 </Book>
 <Book Series="The Astounding Wolf-Man" Number="18" Volume="2007" Year="2009">
 <Database Name="cv" Series="18834" Issue="167413" />
+</Book>
+<Book Series="Noble Causes" Number="37" Volume="2004" Year="2008">
+<Database Name="cv" Series="11274" Issue="140813" />
+</Book>
+<Book Series="Invincible" Number="60" Volume="2003" Year="2009">
+<Database Name="cv" Series="17993" Issue="153703" />
 </Book>
 <Book Series="Invincible" Number="61" Volume="2003" Year="2009">
 <Database Name="cv" Series="17993" Issue="155799" />
@@ -369,20 +420,29 @@
 <Book Series="Invincible" Number="65" Volume="2003" Year="2009">
 <Database Name="cv" Series="17993" Issue="167415" />
 </Book>
+<Book Series="Tech Jacket Digital" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="70805" Issue="441698" />
+</Book>
+<Book Series="Tech Jacket Digital" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="70805" Issue="441699" />
+</Book>
+<Book Series="Tech Jacket Digital" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="70805" Issue="441700" />
+</Book>
+<Book Series="Invincible Presents: Atom Eve &amp; Rex Splode" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="29119" Issue="179134" />
+</Book>
+<Book Series="Invincible Presents: Atom Eve &amp; Rex Splode" Number="2" Volume="2009" Year="2009">
+<Database Name="cv" Series="29119" Issue="183371" />
+</Book>
+<Book Series="Invincible Presents: Atom Eve &amp; Rex Splode" Number="3" Volume="2009" Year="2010">
+<Database Name="cv" Series="29119" Issue="196591" />
+</Book>
 <Book Series="Invincible" Number="66" Volume="2003" Year="2009">
 <Database Name="cv" Series="17993" Issue="172353" />
 </Book>
 <Book Series="Invincible" Number="67" Volume="2003" Year="2009">
 <Database Name="cv" Series="17993" Issue="177659" />
-</Book>
-<Book Series="Invincible Presents: Atom Eve &#38; Rex Splode" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="29119" Issue="179134" />
-</Book>
-<Book Series="Invincible Presents: Atom Eve &#38; Rex Splode" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="29119" Issue="183371" />
-</Book>
-<Book Series="Invincible Presents: Atom Eve &#38; Rex Splode" Number="3" Volume="2009" Year="2010">
-<Database Name="cv" Series="29119" Issue="196591" />
 </Book>
 <Book Series="Invincible" Number="68" Volume="2003" Year="2009">
 <Database Name="cv" Series="17993" Issue="183787" />
@@ -458,6 +518,9 @@
 </Book>
 <Book Series="Invincible" Number="78" Volume="2003" Year="2011">
 <Database Name="cv" Series="17993" Issue="266629" />
+</Book>
+<Book Series="The Tick #100: The Tick Meets Invincible" Number="100" Volume="2012" Year="2012">
+<Database Name="cv" Series="48903" Issue="335650" />
 </Book>
 <Book Series="Invincible" Number="79" Volume="2003" Year="2011">
 <Database Name="cv" Series="17993" Issue="268788" />
@@ -600,42 +663,6 @@
 <Book Series="Invincible" Number="107" Volume="2003" Year="2013">
 <Database Name="cv" Series="17993" Issue="436166" />
 </Book>
-<Book Series="Tech Jacket" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="75342" Issue="458660" />
-</Book>
-<Book Series="Tech Jacket" Number="2" Volume="2014" Year="2014">
-<Database Name="cv" Series="75342" Issue="461779" />
-</Book>
-<Book Series="Tech Jacket" Number="3" Volume="2014" Year="2014">
-<Database Name="cv" Series="75342" Issue="464034" />
-</Book>
-<Book Series="Tech Jacket" Number="4" Volume="2014" Year="2014">
-<Database Name="cv" Series="75342" Issue="467086" />
-</Book>
-<Book Series="Tech Jacket" Number="5" Volume="2014" Year="2014">
-<Database Name="cv" Series="75342" Issue="469526" />
-</Book>
-<Book Series="Tech Jacket" Number="6" Volume="2014" Year="2014">
-<Database Name="cv" Series="75342" Issue="471994" />
-</Book>
-<Book Series="Tech Jacket" Number="7" Volume="2014" Year="2015">
-<Database Name="cv" Series="75342" Issue="475497" />
-</Book>
-<Book Series="Tech Jacket" Number="8" Volume="2014" Year="2015">
-<Database Name="cv" Series="75342" Issue="479294" />
-</Book>
-<Book Series="Tech Jacket" Number="9" Volume="2014" Year="2015">
-<Database Name="cv" Series="75342" Issue="484946" />
-</Book>
-<Book Series="Tech Jacket" Number="10" Volume="2014" Year="2015">
-<Database Name="cv" Series="75342" Issue="492262" />
-</Book>
-<Book Series="Tech Jacket" Number="11" Volume="2014" Year="2015">
-<Database Name="cv" Series="75342" Issue="501056" />
-</Book>
-<Book Series="Tech Jacket" Number="12" Volume="2014" Year="2015">
-<Database Name="cv" Series="75342" Issue="508480" />
-</Book>
 <Book Series="Invincible" Number="108" Volume="2003" Year="2014">
 <Database Name="cv" Series="17993" Issue="443962" />
 </Book>
@@ -674,6 +701,42 @@
 </Book>
 <Book Series="Invincible" Number="120" Volume="2003" Year="2015">
 <Database Name="cv" Series="17993" Issue="489869" />
+</Book>
+<Book Series="Tech Jacket" Number="1" Volume="2014" Year="2014">
+<Database Name="cv" Series="75342" Issue="458660" />
+</Book>
+<Book Series="Tech Jacket" Number="2" Volume="2014" Year="2014">
+<Database Name="cv" Series="75342" Issue="461779" />
+</Book>
+<Book Series="Tech Jacket" Number="3" Volume="2014" Year="2014">
+<Database Name="cv" Series="75342" Issue="464034" />
+</Book>
+<Book Series="Tech Jacket" Number="4" Volume="2014" Year="2014">
+<Database Name="cv" Series="75342" Issue="467086" />
+</Book>
+<Book Series="Tech Jacket" Number="5" Volume="2014" Year="2014">
+<Database Name="cv" Series="75342" Issue="469526" />
+</Book>
+<Book Series="Tech Jacket" Number="6" Volume="2014" Year="2014">
+<Database Name="cv" Series="75342" Issue="471994" />
+</Book>
+<Book Series="Tech Jacket" Number="7" Volume="2014" Year="2015">
+<Database Name="cv" Series="75342" Issue="475497" />
+</Book>
+<Book Series="Tech Jacket" Number="8" Volume="2014" Year="2015">
+<Database Name="cv" Series="75342" Issue="479294" />
+</Book>
+<Book Series="Tech Jacket" Number="9" Volume="2014" Year="2015">
+<Database Name="cv" Series="75342" Issue="484946" />
+</Book>
+<Book Series="Tech Jacket" Number="10" Volume="2014" Year="2015">
+<Database Name="cv" Series="75342" Issue="492262" />
+</Book>
+<Book Series="Tech Jacket" Number="11" Volume="2014" Year="2015">
+<Database Name="cv" Series="75342" Issue="501056" />
+</Book>
+<Book Series="Tech Jacket" Number="12" Volume="2014" Year="2015">
+<Database Name="cv" Series="75342" Issue="508480" />
 </Book>
 <Book Series="Invincible" Number="121" Volume="2003" Year="2015">
 <Database Name="cv" Series="17993" Issue="495303" />
