@@ -174,7 +174,7 @@
 <Book Series="The Amazing Spider-Man" Number="65" Volume="2018" Year="2021">
 <Database Name="cv" Series="112161" Issue="847507" />
 </Book>
-<Book Series="Giant-Size Amazing Spider-Man: King's Ransom" Number="1" Volume="2021" Year="2021">
+<Book Series="Giant-Size Amazing Spider-Man: King&apos;s Ransom" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="136022" Issue="848850" />
 </Book>
 <Book Series="Iron Fist: Heart of the Dragon" Number="1" Volume="2021" Year="2021">
@@ -231,16 +231,16 @@
 <Book Series="Chris Claremont Anniversary Special" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133194" Issue="824447" />
 </Book>
-<Book Series="Thor &#38; Loki: Double Trouble" Number="1" Volume="2021" Year="2021">
+<Book Series="Thor &amp; Loki: Double Trouble" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="134391" Issue="836306" />
 </Book>
-<Book Series="Thor &#38; Loki: Double Trouble" Number="2" Volume="2021" Year="2021">
+<Book Series="Thor &amp; Loki: Double Trouble" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="134391" Issue="842970" />
 </Book>
-<Book Series="Thor &#38; Loki: Double Trouble" Number="3" Volume="2021" Year="2021">
+<Book Series="Thor &amp; Loki: Double Trouble" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="134391" Issue="847516" />
 </Book>
-<Book Series="Thor &#38; Loki: Double Trouble" Number="4" Volume="2021" Year="2021">
+<Book Series="Thor &amp; Loki: Double Trouble" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="134391" Issue="868612" />
 </Book>
 <Book Series="Runaways" Number="32" Volume="2017" Year="2020">
@@ -264,16 +264,16 @@
 <Book Series="Runaways" Number="38" Volume="2017" Year="2021">
 <Database Name="cv" Series="104320" Issue="878826" />
 </Book>
-<Book Series="Wolverine: Black, White &#38; Blood" Number="1" Volume="2020" Year="2021">
+<Book Series="Wolverine: Black, White &amp; Blood" Number="1" Volume="2020" Year="2021">
 <Database Name="cv" Series="131734" Issue="816472" />
 </Book>
-<Book Series="Wolverine: Black, White &#38; Blood" Number="2" Volume="2020" Year="2021">
+<Book Series="Wolverine: Black, White &amp; Blood" Number="2" Volume="2020" Year="2021">
 <Database Name="cv" Series="131734" Issue="821503" />
 </Book>
-<Book Series="Wolverine: Black, White &#38; Blood" Number="3" Volume="2020" Year="2021">
+<Book Series="Wolverine: Black, White &amp; Blood" Number="3" Volume="2020" Year="2021">
 <Database Name="cv" Series="131734" Issue="828199" />
 </Book>
-<Book Series="Wolverine: Black, White &#38; Blood" Number="4" Volume="2020" Year="2021">
+<Book Series="Wolverine: Black, White &amp; Blood" Number="4" Volume="2020" Year="2021">
 <Database Name="cv" Series="131734" Issue="836307" />
 </Book>
 <Book Series="Captain America Anniversary Tribute" Number="1" Volume="2021" Year="2021">
@@ -432,19 +432,19 @@
 <Book Series="Deadpool Nerdy 30" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="134389" Issue="836300" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="1" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="825508" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="2" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="830028" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="3" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="839796" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="4" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="842965" />
 </Book>
-<Book Series="Maestro: War &#38; Pax" Number="5" Volume="2021" Year="2021">
+<Book Series="Maestro: War &amp; Pax" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="133356" Issue="855624" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="66" Volume="2018" Year="2021">
@@ -597,8 +597,8 @@
 <Book Series="Cable" Number="12" Volume="2020" Year="2021">
 <Database Name="cv" Series="125678" Issue="874521" />
 </Book>
-<Book Series="S.W.O.R.D." Number="5" Volume="2010" Year="2010">
-<Database Name="cv" Series="29619" Issue="200190" />
+<Book Series="S.W.O.R.D." Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="132511" Issue="844973" />
 </Book>
 <Book Series="X-Factor" Number="7" Volume="2020" Year="2021">
 <Database Name="cv" Series="129097" Issue="827532" />
@@ -795,16 +795,16 @@
 <Book Series="Immortal Hulk: Time of Monsters" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="136142" Issue="851309" />
 </Book>
-<Book Series="Carnage: Black, White &#38; Blood" Number="1" Volume="2021" Year="2021">
+<Book Series="Carnage: Black, White &amp; Blood" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="134780" Issue="839791" />
 </Book>
-<Book Series="Carnage: Black, White &#38; Blood" Number="2" Volume="2021" Year="2021">
+<Book Series="Carnage: Black, White &amp; Blood" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="134780" Issue="844969" />
 </Book>
-<Book Series="Carnage: Black, White &#38; Blood" Number="3" Volume="2021" Year="2021">
+<Book Series="Carnage: Black, White &amp; Blood" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="134780" Issue="847509" />
 </Book>
-<Book Series="Carnage: Black, White &#38; Blood" Number="4" Volume="2021" Year="2021">
+<Book Series="Carnage: Black, White &amp; Blood" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="134780" Issue="871603" />
 </Book>
 <Book Series="Iron Man Annual" Number="1" Volume="2021" Year="2021">
@@ -918,7 +918,7 @@
 <Book Series="Spider-Woman" Number="16" Volume="2020" Year="2021">
 <Database Name="cv" Series="125812" Issue="891573" />
 </Book>
-<Book Series="Marvel's Voices: Pride" Number="1" Volume="2021" Year="2021">
+<Book Series="Marvel&apos;s Voices: Pride" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="137050" Issue="863930" />
 </Book>
 <Book Series="Daredevil" Number="28" Volume="2019" Year="2021">
@@ -1191,7 +1191,7 @@
 <Book Series="Spider-Man: Life Story Annual" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138532" Issue="882077" />
 </Book>
-<Book Series="Marvel's Voices: Identity" Number="1" Volume="2021" Year="2021">
+<Book Series="Marvel&apos;s Voices: Identity" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138531" Issue="882075" />
 </Book>
 <Book Series="Savage Avengers" Number="20" Volume="2019" Year="2021">
@@ -1296,19 +1296,19 @@
 <Book Series="Winter Guard" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="138533" Issue="896096" />
 </Book>
-<Book Series="Spider-Man: The Spider's Shadow" Number="1" Volume="2021" Year="2021">
+<Book Series="Spider-Man: The Spider&apos;s Shadow" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="135391" Issue="842968" />
 </Book>
-<Book Series="Spider-Man: The Spider's Shadow" Number="2" Volume="2021" Year="2021">
+<Book Series="Spider-Man: The Spider&apos;s Shadow" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="135391" Issue="848856" />
 </Book>
-<Book Series="Spider-Man: The Spider's Shadow" Number="3" Volume="2021" Year="2021">
+<Book Series="Spider-Man: The Spider&apos;s Shadow" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="135391" Issue="858879" />
 </Book>
-<Book Series="Spider-Man: The Spider's Shadow" Number="4" Volume="2021" Year="2021">
+<Book Series="Spider-Man: The Spider&apos;s Shadow" Number="4" Volume="2021" Year="2021">
 <Database Name="cv" Series="135391" Issue="871608" />
 </Book>
-<Book Series="Spider-Man: The Spider's Shadow" Number="5" Volume="2021" Year="2021">
+<Book Series="Spider-Man: The Spider&apos;s Shadow" Number="5" Volume="2021" Year="2021">
 <Database Name="cv" Series="135391" Issue="878827" />
 </Book>
 <Book Series="Darkhold Alpha" Number="1" Volume="2021" Year="2021">
@@ -1413,16 +1413,16 @@
 <Book Series="Avengers: Tech-On" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="138206" Issue="905705" />
 </Book>
-<Book Series="Deadpool: Black, White &#38; Blood" Number="1" Volume="2021" Year="2021">
+<Book Series="Deadpool: Black, White &amp; Blood" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="138049" Issue="877062" />
 </Book>
-<Book Series="Deadpool: Black, White &#38; Blood" Number="2" Volume="2021" Year="2021">
+<Book Series="Deadpool: Black, White &amp; Blood" Number="2" Volume="2021" Year="2021">
 <Database Name="cv" Series="138049" Issue="884086" />
 </Book>
-<Book Series="Deadpool: Black, White &#38; Blood" Number="3" Volume="2021" Year="2021">
+<Book Series="Deadpool: Black, White &amp; Blood" Number="3" Volume="2021" Year="2021">
 <Database Name="cv" Series="138049" Issue="888635" />
 </Book>
-<Book Series="Deadpool: Black, White &#38; Blood" Number="4" Volume="2021" Year="2022">
+<Book Series="Deadpool: Black, White &amp; Blood" Number="4" Volume="2021" Year="2022">
 <Database Name="cv" Series="138049" Issue="894105" />
 </Book>
 <Book Series="Eternals: Thanos Rises" Number="1" Volume="2021" Year="2021">
@@ -1692,7 +1692,7 @@
 <Book Series="The Amazing Spider-Man" Number="87" Volume="2018" Year="2022">
 <Database Name="cv" Series="112161" Issue="904770" />
 </Book>
-<Book Series="Mary Jane &#38; Black Cat: Beyond" Number="1" Volume="2022" Year="2022">
+<Book Series="Mary Jane &amp; Black Cat: Beyond" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141457" Issue="904764" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="88" Volume="2018" Year="2022">
@@ -1833,7 +1833,7 @@
 <Book Series="Strange Academy" Number="18" Volume="2020" Year="2022">
 <Database Name="cv" Series="125477" Issue="934991" />
 </Book>
-<Book Series="Marvel's Voices: Comunidades" Number="1" Volume="2021" Year="2022">
+<Book Series="Marvel&apos;s Voices: Comunidades" Number="1" Volume="2021" Year="2022">
 <Database Name="cv" Series="140356" Issue="897358" />
 </Book>
 <Book Series="Captain Marvel" Number="32" Volume="2019" Year="2021">
@@ -1917,16 +1917,16 @@
 <Book Series="Thor" Number="23" Volume="2020" Year="2022">
 <Database Name="cv" Series="123862" Issue="910495" />
 </Book>
-<Book Series="Elektra: Black, White &#38; Blood" Number="1" Volume="2022" Year="2022">
+<Book Series="Elektra: Black, White &amp; Blood" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="140787" Issue="901415" />
 </Book>
-<Book Series="Elektra: Black, White &#38; Blood" Number="2" Volume="2022" Year="2022">
+<Book Series="Elektra: Black, White &amp; Blood" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="140787" Issue="908703" />
 </Book>
-<Book Series="Elektra: Black, White &#38; Blood" Number="3" Volume="2022" Year="2022">
+<Book Series="Elektra: Black, White &amp; Blood" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="140787" Issue="912250" />
 </Book>
-<Book Series="Elektra: Black, White &#38; Blood" Number="4" Volume="2022" Year="2022">
+<Book Series="Elektra: Black, White &amp; Blood" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="140787" Issue="924795" />
 </Book>
 <Book Series="Wastelanders: Wolverine" Number="1" Volume="2021" Year="2022">
