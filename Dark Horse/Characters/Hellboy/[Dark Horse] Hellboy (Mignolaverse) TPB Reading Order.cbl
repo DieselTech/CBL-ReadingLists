@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Dark Horse] Hellboy (Mignolaverse) TPB Reading Order</Name>
-<NumIssues>101</NumIssues>
+<NumIssues>106</NumIssues>
 <Books>
 <Book Series="Hellboy: Seed of Destruction" Number="1" Volume="1994" Year="1994">
 <Database Name="cv" Series="33634" Issue="218367" />
@@ -24,11 +24,11 @@
 <Book Series="Hellboy: Into the Silent Sea" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="100821" Issue="592557" />
 </Book>
-<Book Series="Hellboy: The Crooked Man and Others" Number="1" Volume="2010" Year="2010">
-<Database Name="cv" Series="33642" Issue="218378" />
-</Book>
 <Book Series="Hellboy: The Troll Witch and Others" Number="1" Volume="2007" Year="2007">
 <Database Name="cv" Series="33639" Issue="218375" />
+</Book>
+<Book Series="Hellboy: The Crooked Man and Others" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33642" Issue="218378" />
 </Book>
 <Book Series="B.P.R.D.: Hollow Earth and Other Stories" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="32946" Issue="243627" />
@@ -81,14 +81,14 @@
 <Book Series="Hellboy: Weird Tales" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="78341" Issue="471280" />
 </Book>
-<Book Series="Witchfinder: In the Service of Angels" Number="1" Volume="2010" Year="2010">
+<Book Series="Sir Edward Grey, Witchfinder: In the Service of Angels" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32436" Issue="204529" />
 </Book>
-<Book Series="Witchfinder: Lost And Gone Forever" Number="1" Volume="2012" Year="2012">
+<Book Series="Sir Edward Grey, Witchfinder" Number="2" Volume="2012" Year="2012">
 <Database Name="cv" Series="45124" Issue="310999" />
 </Book>
-<Book Series="Sir Edward Grey, Witchfinder: The Mysteries of Unland" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="81476" Issue="486698" />
+<Book Series="Sir Edward Grey, Witchfinder" Number="3" Volume="2012" Year="2015">
+<Database Name="cv" Series="45124" Issue="486698" />
 </Book>
 <Book Series="Lobster Johnson: The Burning Hand" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="53925" Issue="367714" />
@@ -102,7 +102,7 @@
 <Book Series="Lobster Johnson: A Chain Forged In Life" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="109108" Issue="662047" />
 </Book>
-<Book Series="Lobster Johnson: The Pirate's Ghost and Metal Monsters of Midtown" Number="1" Volume="2017" Year="2017">
+<Book Series="Lobster Johnson: The Pirate&apos;s Ghost and Metal Monsters of Midtown" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="106888" Issue="646147" />
 </Book>
 <Book Series="Lobster Johnson: The Iron Prometheus" Number="1" Volume="2008" Year="2008">
@@ -120,8 +120,8 @@
 <Book Series="B.P.R.D.: 1948" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="67218" Issue="425008" />
 </Book>
-<Book Series="B.P.R.D.: Vampire" Number="1" Volume="2019" Year="2019">
-<Database Name="cv" Series="117329" Issue="701878" />
+<Book Series="B.P.R.D.: Vampire" Number="1" Volume="2013" Year="2013">
+<Database Name="cv" Series="69555" Issue="435017" />
 </Book>
 <Book Series="Young Hellboy: The Hidden Land" Number="1" Volume="2021" Year="2021">
 <Database Name="cv" Series="139491" Issue="888887" />
@@ -153,8 +153,8 @@
 <Book Series="Hellboy: The Bones of Giants" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144965" Issue="946115" />
 </Book>
-<Book Series="The Amazing Screw-On Head and Other Curious Objects (Anniversary Edition)" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="144429" Issue="941529" />
+<Book Series="Amazing Screw-On Head and Other Curious Objects" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="35270" Issue="232564" />
 </Book>
 <Book Series="B.P.R.D.: Hell on Earth - New World" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="64095" Issue="413118" />
@@ -165,7 +165,7 @@
 <Book Series="B.P.R.D.: Hell On Earth - Russia" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="29625" Issue="350916" />
 </Book>
-<Book Series="B.P.R.D.: Hell on Earth - The Devil's Engine &amp; The Long Death" Number="1" Volume="2012" Year="2012">
+<Book Series="B.P.R.D.: Hell on Earth - The Devil&apos;s Engine &amp; The Long Death" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="54459" Issue="371191" />
 </Book>
 <Book Series="B.P.R.D. Hell On Earth: The Pickens County Horror &amp; Others" Number="1" Volume="2013" Year="2013">
@@ -198,10 +198,10 @@
 <Book Series="Abe Sapien: Sacred Places" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="79551" Issue="476755" />
 </Book>
-<Book Series="B.P.R.D. Hell On Earth - The Devil's Wings" Number="1" Volume="2015" Year="2015">
+<Book Series="B.P.R.D. Hell On Earth - The Devil&apos;s Wings" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="80729" Issue="482650" />
 </Book>
-<Book Series="B.P.R.D. Hell On Earth: Flesh and Stone" Number="11" Volume="2015" Year="2015">
+<Book Series="B.P.R.D. Hell On Earth: Flesh and Stone" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="84749" Issue="500985" />
 </Book>
 <Book Series="B.P.R.D. Hell on Earth: The Exorcist" Number="1" Volume="2016" Year="2016">
@@ -237,23 +237,23 @@
 <Book Series="B.P.R.D.: The Devil You Know: Ragna Rok" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120221" Issue="713805" />
 </Book>
-<Book Series="Witchfinder: City of the Dead" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="100849" Issue="592561" />
+<Book Series="Sir Edward Grey, Witchfinder" Number="4" Volume="2012" Year="2017">
+<Database Name="cv" Series="45124" Issue="592561" />
 </Book>
-<Book Series="Witchfinder: The Gates of Heaven" Number="1" Volume="2019" Year="2019">
-<Database Name="cv" Series="116268" Issue="696275" />
+<Book Series="Sir Edward Grey, Witchfinder" Number="5" Volume="2012" Year="2019">
+<Database Name="cv" Series="45124" Issue="696275" />
 </Book>
-<Book Series="Sir Edward Grey, Witchfinder: The Reign of Darkness" Number="1" Volume="2020" Year="2020">
-<Database Name="cv" Series="130556" Issue="803140" />
+<Book Series="Sir Edward Grey, Witchfinder" Number="6" Volume="2012" Year="2020">
+<Database Name="cv" Series="45124" Issue="803140" />
 </Book>
 <Book Series="Rise of the Black Flame" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="101212" Issue="594075" />
 </Book>
-<Book Series="Crimson Lotus" Number="1" Volume="2019" Year="2019">
-<Database Name="cv" Series="120003" Issue="712973" />
-</Book>
 <Book Series="The House of Lost Horizons: A Sarah Jewell Mystery" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141703" Issue="908433" />
+</Book>
+<Book Series="Crimson Lotus" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120003" Issue="712973" />
 </Book>
 <Book Series="Rasputin: The Voice of the Dragon" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112462" Issue="677846" />
@@ -282,6 +282,9 @@
 <Book Series="Hellboy and the B.P.R.D.: 1957" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="157026" Issue="1046213" />
 </Book>
+<Book Series="Shadow of the Golden Crane" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="171502" Issue="1163086" />
+</Book>
 <Book Series="Hellboy and the B.P.R.D.: The Beast of Vargu and Others" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="128316" Issue="772641" />
 </Book>
@@ -294,10 +297,13 @@
 <Book Series="Castle Full of Blackbirds" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152598" Issue="1004017" />
 </Book>
+<Book Series="Koshchei in Hell" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="154393" Issue="1027461" />
+</Book>
 <Book Series="Hellboy in Love" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="156316" Issue="1041941" />
 </Book>
-<Book Series="Panya: The Mummy's Curse" Number="1" Volume="2024" Year="2024">
+<Book Series="Panya: The Mummy&apos;s Curse" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="157531" Issue="1050660" />
 </Book>
 <Book Series="Miss Truesdale and the Fall of Hyperborea" Number="1" Volume="2024" Year="2024">
@@ -306,14 +312,14 @@
 <Book Series="The British Paranormal Society: Time Out of Mind" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148130" Issue="969813" />
 </Book>
-<Book Series="Koshchei in Hell" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="154393" Issue="1027461" />
-</Book>
 <Book Series="The Sword of Hyperborea" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="145074" Issue="946853" />
 </Book>
 <Book Series="Frankenstein: New World" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152133" Issue="1000270" />
+</Book>
+<Book Series="Frankenstein: New World—The Sea of Forever" Number="1" Volume="2025" Year="0">
+<Database Name="cv" Series="171505" Issue="1163008" />
 </Book>
 </Books>
 <Matchers />
