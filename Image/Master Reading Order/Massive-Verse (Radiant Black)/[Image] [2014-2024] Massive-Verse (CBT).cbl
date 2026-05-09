@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Image] [2014-2024] Massive-Verse (CBT)</Name>
-<NumIssues>92</NumIssues>
+<NumIssues>112</NumIssues>
 <Books>
 <Book Series="C.O.W.L." Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="74313" Issue="454055" />
@@ -81,11 +81,11 @@
 <Book Series="Inferno Girl Red" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146215" Issue="978741" />
 </Book>
-<Book Series="Shift" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="155553" Issue="1036520" />
-</Book>
 <Book Series="Supermassive" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141710" Issue="908724" />
+</Book>
+<Book Series="Shift" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="155553" Issue="1036520" />
 </Book>
 <Book Series="Radiant Black" Number="13" Volume="2021" Year="2022">
 <Database Name="cv" Series="133722" Issue="913693" />
@@ -210,21 +210,6 @@
 <Book Series="Supermassive" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150651" Issue="991516" />
 </Book>
-<Book Series="Radiant Black" Number="25" Volume="2021" Year="2023">
-<Database Name="cv" Series="133722" Issue="1002181" />
-</Book>
-<Book Series="Radiant Black" Number="26" Volume="2021" Year="2023">
-<Database Name="cv" Series="133722" Issue="1027415" />
-</Book>
-<Book Series="Radiant Black" Number="26.5" Volume="2021" Year="2023">
-<Database Name="cv" Series="133722" Issue="1027416" />
-</Book>
-<Book Series="Radiant Black" Number="27" Volume="2021" Year="2023">
-<Database Name="cv" Series="133722" Issue="1034892" />
-</Book>
-<Book Series="Radiant Black" Number="27.5" Volume="2021" Year="2023">
-<Database Name="cv" Series="133722" Issue="1034893" />
-</Book>
 <Book Series="Rogue Sun" Number="13" Volume="2022" Year="2023">
 <Database Name="cv" Series="141789" Issue="996460" />
 </Book>
@@ -258,6 +243,9 @@
 <Book Series="The Dead Lucky" Number="11" Volume="2022" Year="2024">
 <Database Name="cv" Series="144302" Issue="1043356" />
 </Book>
+<Book Series="The Dead Lucky" Number="12" Volume="2022" Year="2024">
+<Database Name="cv" Series="144302" Issue="1049477" />
+</Book>
 <Book Series="No/One" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148891" Issue="977502" />
 </Book>
@@ -278,6 +266,78 @@
 </Book>
 <Book Series="No/One" Number="7" Volume="2023" Year="2023">
 <Database Name="cv" Series="148891" Issue="1038460" />
+</Book>
+<Book Series="No/One" Number="8" Volume="2023" Year="2024">
+<Database Name="cv" Series="148891" Issue="1048200" />
+</Book>
+<Book Series="No/One" Number="9" Volume="2023" Year="2024">
+<Database Name="cv" Series="148891" Issue="1061037" />
+</Book>
+<Book Series="No/One" Number="10" Volume="2023" Year="2024">
+<Database Name="cv" Series="148891" Issue="1064358" />
+</Book>
+<Book Series="Radiant Black" Number="25" Volume="2021" Year="2023">
+<Database Name="cv" Series="133722" Issue="1002181" />
+</Book>
+<Book Series="Radiant Black" Number="26" Volume="2021" Year="2023">
+<Database Name="cv" Series="133722" Issue="1027415" />
+</Book>
+<Book Series="Radiant Black" Number="26.5" Volume="2021" Year="2023">
+<Database Name="cv" Series="133722" Issue="1027416" />
+</Book>
+<Book Series="Radiant Black" Number="27" Volume="2021" Year="2023">
+<Database Name="cv" Series="133722" Issue="1034892" />
+</Book>
+<Book Series="Radiant Black" Number="27.5" Volume="2021" Year="2023">
+<Database Name="cv" Series="133722" Issue="1034893" />
+</Book>
+<Book Series="Radiant Black" Number="28" Volume="2021" Year="2024">
+<Database Name="cv" Series="133722" Issue="1046559" />
+</Book>
+<Book Series="Radiant Black" Number="28.5" Volume="2021" Year="2024">
+<Database Name="cv" Series="133722" Issue="1046560" />
+</Book>
+<Book Series="Radiant Black" Number="29" Volume="2021" Year="2024">
+<Database Name="cv" Series="133722" Issue="1061945" />
+</Book>
+<Book Series="Radiant Black" Number="29.5" Volume="2021" Year="2024">
+<Database Name="cv" Series="133722" Issue="1061946" />
+</Book>
+<Book Series="Radiant Black" Number="30" Volume="2021" Year="2024">
+<Database Name="cv" Series="133722" Issue="1074040" />
+</Book>
+<Book Series="Radiant Black" Number="30.5" Volume="2021" Year="2024">
+<Database Name="cv" Series="133722" Issue="1074041" />
+</Book>
+<Book Series="Supermassive" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="159032" Issue="1064344" />
+</Book>
+<Book Series="Rogue Sun" Number="19" Volume="2022" Year="2024">
+<Database Name="cv" Series="141789" Issue="1056403" />
+</Book>
+<Book Series="Rogue Sun" Number="20" Volume="2022" Year="2024">
+<Database Name="cv" Series="141789" Issue="1061949" />
+</Book>
+<Book Series="Rogue Sun" Number="21" Volume="2022" Year="2024">
+<Database Name="cv" Series="141789" Issue="1068037" />
+</Book>
+<Book Series="Rogue Sun" Number="22" Volume="2022" Year="2024">
+<Database Name="cv" Series="141789" Issue="1071784" />
+</Book>
+<Book Series="Rogue Sun" Number="23" Volume="2022" Year="2024">
+<Database Name="cv" Series="141789" Issue="1079393" />
+</Book>
+<Book Series="Rogue Sun" Number="24" Volume="2022" Year="2024">
+<Database Name="cv" Series="141789" Issue="1086217" />
+</Book>
+<Book Series="C.O.W.L. 1964" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="159205" Issue="1066413" />
+</Book>
+<Book Series="C.O.W.L. 1964" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="159205" Issue="1070310" />
+</Book>
+<Book Series="C.O.W.L. 1964" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="159205" Issue="1079379" />
 </Book>
 </Books>
 <Matchers />

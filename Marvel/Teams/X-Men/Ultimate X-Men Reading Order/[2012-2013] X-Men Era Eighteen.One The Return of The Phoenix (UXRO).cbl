@@ -24,8 +24,8 @@
 <Book Series="Avengers Vs. X-Men" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="324839" />
 </Book>
-<Book Series="Marvel Point One" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="41854" Issue="284853" />
+<Book Series="Point One" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="43893" Issue="301659" />
 </Book>
 <Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="326860" />

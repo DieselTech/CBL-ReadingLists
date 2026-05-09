@@ -744,6 +744,12 @@
 <Book Series="Moon Knight: Fist of Khonshu" Number="12" Volume="2024" Year="2025">
 <Database Name="cv" Series="158721" Issue="1130255" />
 </Book>
+<Book Series="Moon Knight: Fist of Khonshu" Number="13" Volume="2024" Year="2025">
+<Database Name="cv" Series="158721" Issue="1139081" />
+</Book>
+<Book Series="Moon Knight: Fist of Khonshu" Number="14" Volume="2024" Year="2026">
+<Database Name="cv" Series="158721" Issue="1141926" />
+</Book>
 </Books>
 <Matchers />
 </ReadingList>

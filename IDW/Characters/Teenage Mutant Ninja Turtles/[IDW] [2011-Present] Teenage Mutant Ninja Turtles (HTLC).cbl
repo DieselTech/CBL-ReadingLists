@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[IDW] [2011-Present] Teenage Mutant Ninja Turtles (HTLC)</Name>
-<NumIssues>270</NumIssues>
+<Name>[IDW] Teenage Mutant Ninja Turtles with events (HTLC)</Name>
+<NumIssues>347</NumIssues>
 <Books>
 <Book Series="Teenage Mutant Ninja Turtles" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42285" Issue="288545" />
@@ -14,9 +14,6 @@
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="4" Volume="2011" Year="2011">
 <Database Name="cv" Series="42285" Issue="304467" />
-</Book>
-<Book Series="Teenage Mutant Ninja Turtles 30th Anniversary Special" Number="1" Volume="2014" Year="2014">
-<Database Name="cv" Series="74119" Issue="453444" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="5" Volume="2011" Year="2011">
 <Database Name="cv" Series="42285" Issue="307710" />
@@ -330,19 +327,19 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="64" Volume="2011" Year="2016">
 <Database Name="cv" Series="42285" Issue="558617" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles Bebop &#38; Rocksteady Destroy Everything" Number="1" Volume="2016" Year="2016">
+<Book Series="Teenage Mutant Ninja Turtles Bebop &amp; Rocksteady Destroy Everything" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="90857" Issue="532991" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles Bebop &#38; Rocksteady Destroy Everything" Number="2" Volume="2016" Year="2016">
+<Book Series="Teenage Mutant Ninja Turtles Bebop &amp; Rocksteady Destroy Everything" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="90857" Issue="534083" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles Bebop &#38; Rocksteady Destroy Everything" Number="3" Volume="2016" Year="2016">
+<Book Series="Teenage Mutant Ninja Turtles Bebop &amp; Rocksteady Destroy Everything" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="90857" Issue="535269" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles Bebop &#38; Rocksteady Destroy Everything" Number="4" Volume="2016" Year="2016">
+<Book Series="Teenage Mutant Ninja Turtles Bebop &amp; Rocksteady Destroy Everything" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="90857" Issue="537161" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles Bebop &#38; Rocksteady Destroy Everything" Number="5" Volume="2016" Year="2016">
+<Book Series="Teenage Mutant Ninja Turtles Bebop &amp; Rocksteady Destroy Everything" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="90857" Issue="537866" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles Universe" Number="1" Volume="2016" Year="2016">
@@ -477,6 +474,9 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="76" Volume="2011" Year="2017">
 <Database Name="cv" Series="42285" Issue="637564" />
 </Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="77" Volume="2011" Year="2017">
+<Database Name="cv" Series="42285" Issue="643967" />
+</Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="78" Volume="2011" Year="2018">
 <Database Name="cv" Series="42285" Issue="652358" />
 </Book>
@@ -516,19 +516,19 @@
 <Book Series="Teenage Mutant Ninja Turtles Universe" Number="25" Volume="2016" Year="2018">
 <Database Name="cv" Series="93638" Issue="678378" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles: Bebop &#38; Rocksteady Hit the Road" Number="1" Volume="2018" Year="2018">
+<Book Series="Teenage Mutant Ninja Turtles: Bebop &amp; Rocksteady Hit the Road" Number="1" Volume="2018" Year="2018">
 <Database Name="cv" Series="112560" Issue="678377" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles: Bebop &#38; Rocksteady Hit the Road" Number="2" Volume="2018" Year="2018">
+<Book Series="Teenage Mutant Ninja Turtles: Bebop &amp; Rocksteady Hit the Road" Number="2" Volume="2018" Year="2018">
 <Database Name="cv" Series="112560" Issue="679164" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles: Bebop &#38; Rocksteady Hit the Road" Number="3" Volume="2018" Year="2018">
+<Book Series="Teenage Mutant Ninja Turtles: Bebop &amp; Rocksteady Hit the Road" Number="3" Volume="2018" Year="2018">
 <Database Name="cv" Series="112560" Issue="679791" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles: Bebop &#38; Rocksteady Hit the Road" Number="4" Volume="2018" Year="2018">
+<Book Series="Teenage Mutant Ninja Turtles: Bebop &amp; Rocksteady Hit the Road" Number="4" Volume="2018" Year="2018">
 <Database Name="cv" Series="112560" Issue="680343" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles: Bebop &#38; Rocksteady Hit the Road" Number="5" Volume="2018" Year="2018">
+<Book Series="Teenage Mutant Ninja Turtles: Bebop &amp; Rocksteady Hit the Road" Number="5" Volume="2018" Year="2018">
 <Database Name="cv" Series="112560" Issue="682447" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="85" Volume="2011" Year="2018">
@@ -654,6 +654,12 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="110" Volume="2011" Year="2020">
 <Database Name="cv" Series="42285" Issue="812549" />
 </Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="111" Volume="2011" Year="2020">
+<Database Name="cv" Series="42285" Issue="817516" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="112" Volume="2011" Year="2020">
+<Database Name="cv" Series="42285" Issue="820724" />
+</Book>
 <Book Series="TMNT: Jennika II" Number="1" Volume="2020" Year="2020">
 <Database Name="cv" Series="131723" Issue="816304" />
 </Book>
@@ -662,21 +668,6 @@
 </Book>
 <Book Series="TMNT: Jennika II" Number="3" Volume="2020" Year="2021">
 <Database Name="cv" Series="131723" Issue="825578" />
-</Book>
-<Book Series="TMNT: Jennika II" Number="4" Volume="2020" Year="2021">
-<Database Name="cv" Series="131723" Issue="827598" />
-</Book>
-<Book Series="TMNT: Jennika II" Number="5" Volume="2020" Year="2021">
-<Database Name="cv" Series="131723" Issue="835994" />
-</Book>
-<Book Series="TMNT: Jennika II" Number="6" Volume="2020" Year="2021">
-<Database Name="cv" Series="131723" Issue="843369" />
-</Book>
-<Book Series="Teenage Mutant Ninja Turtles" Number="111" Volume="2011" Year="2020">
-<Database Name="cv" Series="42285" Issue="817516" />
-</Book>
-<Book Series="Teenage Mutant Ninja Turtles" Number="112" Volume="2011" Year="2020">
-<Database Name="cv" Series="42285" Issue="820724" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="113" Volume="2011" Year="2021">
 <Database Name="cv" Series="42285" Issue="825577" />
@@ -692,6 +683,15 @@
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="117" Volume="2011" Year="2021">
 <Database Name="cv" Series="42285" Issue="858854" />
+</Book>
+<Book Series="TMNT: Jennika II" Number="4" Volume="2020" Year="2021">
+<Database Name="cv" Series="131723" Issue="827598" />
+</Book>
+<Book Series="TMNT: Jennika II" Number="5" Volume="2020" Year="2021">
+<Database Name="cv" Series="131723" Issue="835994" />
+</Book>
+<Book Series="TMNT: Jennika II" Number="6" Volume="2020" Year="2021">
+<Database Name="cv" Series="131723" Issue="843369" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="118" Volume="2011" Year="2021">
 <Database Name="cv" Series="42285" Issue="864440" />
@@ -738,8 +738,14 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="130" Volume="2011" Year="2022">
 <Database Name="cv" Series="42285" Issue="933158" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="145297" Issue="949143" />
+<Book Series="Teenage Mutant Ninja Turtles FCBD 2022" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="142976" Issue="924220" />
+</Book>
+<Book Series="TMNT: The Armageddon Game – Opening Moves" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="144049" Issue="936754" />
+</Book>
+<Book Series="TMNT: The Armageddon Game – Opening Moves" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="144049" Issue="943919" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="131" Volume="2011" Year="2022">
 <Database Name="cv" Series="42285" Issue="939224" />
@@ -747,26 +753,68 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="132" Volume="2011" Year="2022">
 <Database Name="cv" Series="42285" Issue="946218" />
 </Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145297" Issue="949143" />
+</Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="133" Volume="2011" Year="2022">
 <Database Name="cv" Series="42285" Issue="950618" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="145297" Issue="952547" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game - Alliance" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="146234" Issue="956483" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="134" Volume="2011" Year="2022">
 <Database Name="cv" Series="42285" Issue="953971" />
 </Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="145297" Issue="959535" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game - Alliance" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="146234" Issue="960294" />
+</Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="135" Volume="2011" Year="2022">
 <Database Name="cv" Series="42285" Issue="959115" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="4" Volume="2022" Year="2023">
+<Database Name="cv" Series="145297" Issue="964834" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game - Alliance" Number="3" Volume="2022" Year="2023">
+<Database Name="cv" Series="146234" Issue="963000" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="136" Volume="2011" Year="2023">
 <Database Name="cv" Series="42285" Issue="964833" />
 </Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="5" Volume="2022" Year="2023">
+<Database Name="cv" Series="145297" Issue="972537" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game - Alliance" Number="4" Volume="2022" Year="2023">
+<Database Name="cv" Series="146234" Issue="969676" />
+</Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="137" Volume="2011" Year="2023">
 <Database Name="cv" Series="42285" Issue="972538" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="6" Volume="2022" Year="2023">
+<Database Name="cv" Series="145297" Issue="977357" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game - Alliance" Number="5" Volume="2022" Year="2023">
+<Database Name="cv" Series="146234" Issue="975986" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="138" Volume="2011" Year="2023">
 <Database Name="cv" Series="42285" Issue="978748" />
 </Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game - Alliance" Number="6" Volume="2022" Year="2023">
+<Database Name="cv" Series="146234" Issue="984321" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="7" Volume="2022" Year="2023">
+<Database Name="cv" Series="145297" Issue="985747" />
+</Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="139" Volume="2011" Year="2023">
 <Database Name="cv" Series="42285" Issue="985748" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Armageddon Game" Number="8" Volume="2022" Year="2023">
+<Database Name="cv" Series="145297" Issue="999466" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles Annual 2023" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="152292" Issue="1001915" />
@@ -804,14 +852,197 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="145" Volume="2011" Year="2023">
 <Database Name="cv" Series="42285" Issue="1028934" />
 </Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="157346" Issue="1048899" />
+</Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="146" Volume="2011" Year="2023">
 <Database Name="cv" Series="42285" Issue="1036504" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="157346" Issue="1051808" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="147" Volume="2011" Year="2024">
 <Database Name="cv" Series="42285" Issue="1042325" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="148" Volume="2011" Year="2024">
 <Database Name="cv" Series="42285" Issue="1044949" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="149" Volume="2011" Year="2024">
+<Database Name="cv" Series="42285" Issue="1048205" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="157346" Issue="1055647" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="157346" Issue="1060338" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="157346" Issue="1063377" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="150" Volume="2011" Year="2024">
+<Database Name="cv" Series="42285" Issue="1052995" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Free Comic Book Day 2024" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="158053" Issue="1054298" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: 40th Anniversary Comics Celebration" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="158812" Issue="1062852" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="159849" Issue="1070337" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="159849" Issue="1077795" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="3" Volume="2024" Year="2025">
+<Database Name="cv" Series="159849" Issue="1089550" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="4" Volume="2024" Year="2025">
+<Database Name="cv" Series="159849" Issue="1095725" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="5" Volume="2024" Year="2025">
+<Database Name="cv" Series="159849" Issue="1099537" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="6" Volume="2024" Year="2025">
+<Database Name="cv" Series="159849" Issue="1109725" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="7" Volume="2024" Year="2025">
+<Database Name="cv" Series="159849" Issue="1115840" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="8" Volume="2024" Year="2025">
+<Database Name="cv" Series="159849" Issue="1119183" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Mutant Nation" Number="9" Volume="2024" Year="2025">
+<Database Name="cv" Series="159849" Issue="1127228" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Alpha" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="158410" Issue="1058712" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="159035" Issue="1064347" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="159035" Issue="1069488" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Nightwatcher" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="159263" Issue="1066801" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="159035" Issue="1074773" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Nightwatcher" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="159263" Issue="1072392" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="159035" Issue="1079404" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Nightwatcher" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="159263" Issue="1076637" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Nightwatcher" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="159263" Issue="1080294" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="159035" Issue="1083811" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Nightwatcher" Number="5" Volume="2024" Year="2025">
+<Database Name="cv" Series="159263" Issue="1091279" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="6" Volume="2024" Year="2025">
+<Database Name="cv" Series="159035" Issue="1093018" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Nightwatcher" Number="6" Volume="2024" Year="2025">
+<Database Name="cv" Series="159263" Issue="1097801" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="7" Volume="2024" Year="2025">
+<Database Name="cv" Series="159035" Issue="1097032" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Nightwatcher" Number="7" Volume="2024" Year="2025">
+<Database Name="cv" Series="159263" Issue="1102560" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="8" Volume="2024" Year="2025">
+<Database Name="cv" Series="159035" Issue="1104277" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="9" Volume="2024" Year="2025">
+<Database Name="cv" Series="159035" Issue="1115838" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="10" Volume="2024" Year="2025">
+<Database Name="cv" Series="159035" Issue="1120496" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="11" Volume="2024" Year="2025">
+<Database Name="cv" Series="159035" Issue="1130271" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="12" Volume="2024" Year="2025">
+<Database Name="cv" Series="159035" Issue="1139175" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles Annual 2025" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="168053" Issue="1140811" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="166458" Issue="1128963" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="166458" Issue="1138332" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="3" Volume="2025" Year="2025">
+<Database Name="cv" Series="166458" Issue="1145550" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Casey Jones" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="167098" Issue="1133846" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Casey Jones" Number="2" Volume="2025" Year="2025">
+<Database Name="cv" Series="167098" Issue="1144268" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Casey Jones" Number="3" Volume="2025" Year="2025">
+<Database Name="cv" Series="167098" Issue="1148764" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Battle Nexus" Number="1" Volume="2025" Year="2025">
+<Database Name="cv" Series="169529" Issue="1149871" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Battle Nexus" Number="2" Volume="2025" Year="2026">
+<Database Name="cv" Series="169529" Issue="1151995" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Battle Nexus" Number="3" Volume="2025" Year="2026">
+<Database Name="cv" Series="169529" Issue="1153498" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Battle Nexus" Number="4" Volume="2025" Year="2026">
+<Database Name="cv" Series="169529" Issue="1155399" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Battle Nexus" Number="5" Volume="2025" Year="2026">
+<Database Name="cv" Series="169529" Issue="1156315" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="13" Volume="2024" Year="2025">
+<Database Name="cv" Series="159035" Issue="1147721" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="4" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1151996" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="14" Volume="2024" Year="2026">
+<Database Name="cv" Series="159035" Issue="1152802" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="5" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1156316" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Casey Jones" Number="5" Volume="2025" Year="2026">
+<Database Name="cv" Series="167098" Issue="1158326" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="15" Volume="2024" Year="2026">
+<Database Name="cv" Series="159035" Issue="1155892" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Casey Jones" Number="6" Volume="2025" Year="2026">
+<Database Name="cv" Series="167098" Issue="1161368" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="6" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1160328" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="16" Volume="2024" Year="2026">
+<Database Name="cv" Series="159035" Issue="1159220" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="7" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1163063" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="17" Volume="2024" Year="2026">
+<Database Name="cv" Series="159035" Issue="1162506" />
 </Book>
 </Books>
 <Matchers />

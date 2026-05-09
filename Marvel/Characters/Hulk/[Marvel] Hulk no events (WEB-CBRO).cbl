@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Hulk no events (WEB-CBRO)</Name>
-<NumIssues>494</NumIssues>
+<NumIssues>496</NumIssues>
 <Books>
 <Book Series="The Incredible Hulk" Number="1" Volume="1962" Year="1962">
 <Database Name="cv" Series="2077" Issue="5883" />
@@ -1484,6 +1484,12 @@
 </Book>
 <Book Series="Infernal Hulk" Number="4" Volume="2026" Year="2026">
 <Database Name="cv" Series="168725" Issue="1156942" />
+</Book>
+<Book Series="Infernal Hulk" Number="5" Volume="2026" Year="2026">
+<Database Name="cv" Series="168725" Issue="1159663" />
+</Book>
+<Book Series="Infernal Hulk" Number="6" Volume="2026" Year="2026">
+<Database Name="cv" Series="168725" Issue="1163627" />
 </Book>
 </Books>
 <Matchers />

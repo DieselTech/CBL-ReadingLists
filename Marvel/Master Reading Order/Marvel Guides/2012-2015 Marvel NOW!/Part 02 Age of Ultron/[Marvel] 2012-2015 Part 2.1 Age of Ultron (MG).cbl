@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2012-2015 Part 2.1 Age of Ultron (MG)</Name>
-    <NumIssues>17</NumIssues>
+    <NumIssues>16</NumIssues>
     <Books>
         <Book Series="Fantastic Four" Number="5" Volume="2014" Year="2014">
             <Database Name="cv" Series="71949" Issue="454098" />
@@ -48,9 +48,6 @@
         </Book>
         <Book Series="Age of Ultron" Number="9" Volume="2013" Year="2013">
             <Database Name="cv" Series="58436" Issue="408988" />
-        </Book>
-        <Book Series="Age of Ultron" Number="10" Volume="2013" Year="2013">
-            <Database Name="cv" Series="58436" Issue="411824" />
         </Book>
         <Book Series="Age of Ultron" Number="10" Volume="2013" Year="2013">
             <Database Name="cv" Series="58436" Issue="411824" />

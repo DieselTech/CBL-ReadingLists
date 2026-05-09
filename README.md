@@ -33,7 +33,8 @@ There are only a handful of software packages out there that can consume `.CBL` 
 - [Kavita](https://github.com/Kareadita/Kavita)
 - [Komga](https://github.com/gotson/komga)
 - [ComicRack CE](https://github.com/maforget/ComicRackCE)
-- [Mylar](https://github.com/mylar3/mylar3)
+- [Mylar](https://github.com/MylarComics/mylar3)
+- [CLU-Comics](https://github.com/allaboutduncan/clu-comics)
 
 # Contributing
 We are looking for people who want to assist in the efforts to make the best reading lists possible.

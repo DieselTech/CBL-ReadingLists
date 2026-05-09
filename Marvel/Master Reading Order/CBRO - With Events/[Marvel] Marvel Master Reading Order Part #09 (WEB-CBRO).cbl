@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #09 (WEB-CBRO)</Name>
-<NumIssues>1452</NumIssues>
+<NumIssues>1459</NumIssues>
 <Books>
 <Book Series="Ghost Rider" Number="33" Volume="2006" Year="2009">
 <Database Name="cv" Series="18138" Issue="153442" />
@@ -1592,6 +1592,12 @@
 </Book>
 <Book Series="Agents of Atlas" Number="11" Volume="2009" Year="2009">
 <Database Name="cv" Series="25641" Issue="171549" />
+</Book>
+<Book Series="X-Men vs. Agents of Atlas" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="28414" Issue="174975" />
+</Book>
+<Book Series="X-Men vs. Agents of Atlas" Number="2" Volume="2009" Year="2010">
+<Database Name="cv" Series="28414" Issue="181296" />
 </Book>
 <Book Series="X-Force" Number="17" Volume="2008" Year="2009">
 <Database Name="cv" Series="20511" Issue="164780" />
@@ -4259,6 +4265,21 @@
 </Book>
 <Book Series="Thunderbolts" Number="153" Volume="2006" Year="2011">
 <Database Name="cv" Series="18128" Issue="262616" />
+</Book>
+<Book Series="Generation Hope" Number="5" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="266004" />
+</Book>
+<Book Series="Generation Hope" Number="6" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="268663" />
+</Book>
+<Book Series="Generation Hope" Number="7" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="270427" />
+</Book>
+<Book Series="Generation Hope" Number="8" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="274229" />
+</Book>
+<Book Series="Generation Hope" Number="9" Volume="2011" Year="2011">
+<Database Name="cv" Series="36469" Issue="279973" />
 </Book>
 <Book Series="Uncanny X-Force" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="35835" Issue="237053" />

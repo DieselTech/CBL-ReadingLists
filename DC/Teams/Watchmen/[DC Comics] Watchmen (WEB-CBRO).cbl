@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>Watchmen</Name>
-<NumIssues>53</NumIssues>
+<Name>[DC Comics] Watchmen (WEB-CBRO)</Name>
+<NumIssues>49</NumIssues>
 <Books>
 <Book Series="Before Watchmen: Minutemen" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="49454" Issue="338471" />
@@ -149,18 +149,6 @@
 </Book>
 <Book Series="Watchmen" Number="12" Volume="1986" Year="1987">
 <Database Name="cv" Series="3622" Issue="28655" />
-</Book>
-<Book Series="Watchmen: The Deluxe Edition" Number="1" Volume="2013" Year="2013">
-<Database Name="cv" Series="62382" Issue="406970" />
-</Book>
-<Book Series="Watchmen Annotated" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="106703" Issue="644493" />
-</Book>
-<Book Series="Watchmen Noir" Number="1" Volume="2016" Year="2016">
-<Database Name="cv" Series="95846" Issue="558947" />
-</Book>
-<Book Series="DC Comics Essentials: Watchmen" Number="1" Volume="2013" Year="2014">
-<Database Name="cv" Series="69956" Issue="436493" />
 </Book>
 </Books>
 <Matchers />

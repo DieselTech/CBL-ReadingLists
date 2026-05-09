@@ -318,8 +318,8 @@
 <Book Series="FF" Number="23" Volume="2011" Year="2012">
 <Database Name="cv" Series="39453" Issue="363156" />
 </Book>
-<Book Series="Marvel Point One" Number="1" Volume="2011" Year="2011">
-<Database Name="cv" Series="41854" Issue="284853" />
+<Book Series="Point One" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="43893" Issue="301659" />
 </Book>
 <Book Series="Avengers: X-Sanction" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="44477" Issue="306478" />
@@ -969,9 +969,6 @@
 <Book Series="Captain America" Number="15" Volume="2013" Year="2014">
 <Database Name="cv" Series="54110" Issue="442917" />
 </Book>
-<Book Series="Captain America" Number="16" Volume="2013" Year="2014">
-<Database Name="cv" Series="54110" Issue="444530" />
-</Book>
 <Book Series="Captain America" Number="17" Volume="2013" Year="2014">
 <Database Name="cv" Series="54110" Issue="445810" />
 </Book>
@@ -983,6 +980,9 @@
 </Book>
 <Book Series="Captain America" Number="20" Volume="2013" Year="2014">
 <Database Name="cv" Series="54110" Issue="452848" />
+</Book>
+<Book Series="Captain America" Number="21" Volume="2013" Year="2014">
+<Database Name="cv" Series="54110" Issue="455485" />
 </Book>
 <Book Series="Inhuman" Number="7" Volume="2014" Year="2014">
 <Database Name="cv" Series="72791" Issue="468910" />

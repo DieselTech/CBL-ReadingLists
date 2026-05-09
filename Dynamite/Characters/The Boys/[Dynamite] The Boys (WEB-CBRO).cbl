@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>The Boys</Name>
-<NumIssues>90</NumIssues>
+<Name>[Dynamite] The Boys (WEB-CBRO)</Name>
+<NumIssues>98</NumIssues>
 <Books>
 <Book Series="The Boys" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18033" Issue="105593" />
@@ -272,6 +272,30 @@
 </Book>
 <Book Series="The Boys" Number="72" Volume="2006" Year="2012">
 <Database Name="cv" Series="18033" Issue="367723" />
+</Book>
+<Book Series="The Boys: Dear Becky" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="127647" Issue="766280" />
+</Book>
+<Book Series="The Boys: Dear Becky" Number="2" Volume="2020" Year="2020">
+<Database Name="cv" Series="127647" Issue="772465" />
+</Book>
+<Book Series="The Boys: Dear Becky" Number="3" Volume="2020" Year="2020">
+<Database Name="cv" Series="127647" Issue="784806" />
+</Book>
+<Book Series="The Boys: Dear Becky" Number="4" Volume="2020" Year="2020">
+<Database Name="cv" Series="127647" Issue="796264" />
+</Book>
+<Book Series="The Boys: Dear Becky" Number="5" Volume="2020" Year="2020">
+<Database Name="cv" Series="127647" Issue="804827" />
+</Book>
+<Book Series="The Boys: Dear Becky" Number="6" Volume="2020" Year="2020">
+<Database Name="cv" Series="127647" Issue="816093" />
+</Book>
+<Book Series="The Boys: Dear Becky" Number="7" Volume="2020" Year="2020">
+<Database Name="cv" Series="127647" Issue="820126" />
+</Book>
+<Book Series="The Boys: Dear Becky" Number="8" Volume="2020" Year="2020">
+<Database Name="cv" Series="127647" Issue="823293" />
 </Book>
 </Books>
 <Matchers />
