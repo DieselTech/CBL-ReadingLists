@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #13 (WEB-CBRO)</Name>
-<NumIssues>866</NumIssues>
+<NumIssues>886</NumIssues>
 <Books>
-<Book Series="Marvel's Voices: Legacy" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="134052" Issue="830030" />
+<Book Series="Marvel&apos;s Voices: Legacy" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="141633" Issue="907458" />
 </Book>
 <Book Series="Captain Carter" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141845" Issue="910620" />
@@ -51,7 +51,7 @@
 <Book Series="Moon Knight: Black, White &amp; Blood" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="142845" Issue="945045" />
 </Book>
-<Book Series="Marvel's Voices: Identity" Number="1" Volume="2022" Year="2022">
+<Book Series="Marvel&apos;s Voices: Identity" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143029" Issue="925019" />
 </Book>
 <Book Series="The Thing" Number="1" Volume="2021" Year="2022">
@@ -72,29 +72,29 @@
 <Book Series="The Thing" Number="6" Volume="2021" Year="2022">
 <Database Name="cv" Series="140088" Issue="914654" />
 </Book>
-<Book Series="Black Panther" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="151263" Issue="994537" />
+<Book Series="Black Panther" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="895386" />
 </Book>
-<Book Series="Black Panther" Number="2" Volume="2023" Year="2023">
-<Database Name="cv" Series="151263" Issue="1002004" />
+<Book Series="Black Panther" Number="2" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="899164" />
 </Book>
-<Book Series="Black Panther" Number="3" Volume="2023" Year="2023">
-<Database Name="cv" Series="151263" Issue="1010044" />
+<Book Series="Black Panther" Number="3" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="904772" />
 </Book>
-<Book Series="Black Panther" Number="4" Volume="2023" Year="2023">
-<Database Name="cv" Series="151263" Issue="1011777" />
+<Book Series="Black Panther" Number="4" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="909678" />
 </Book>
-<Book Series="Black Panther" Number="5" Volume="2023" Year="2023">
-<Database Name="cv" Series="151263" Issue="1020531" />
+<Book Series="Black Panther" Number="5" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="916298" />
 </Book>
-<Book Series="Black Panther" Number="6" Volume="2023" Year="2024">
-<Database Name="cv" Series="151263" Issue="1029676" />
+<Book Series="Black Panther" Number="6" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="928655" />
 </Book>
-<Book Series="Black Panther" Number="7" Volume="2023" Year="2024">
-<Database Name="cv" Series="151263" Issue="1038384" />
+<Book Series="Black Panther" Number="7" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="934989" />
 </Book>
-<Book Series="Black Panther" Number="8" Volume="2023" Year="2024">
-<Database Name="cv" Series="151263" Issue="1040935" />
+<Book Series="Black Panther" Number="8" Volume="2022" Year="2022">
+<Database Name="cv" Series="140222" Issue="941558" />
 </Book>
 <Book Series="Maestro: World War M" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141589" Issue="906625" />
@@ -303,19 +303,19 @@
 <Book Series="Doctor Strange: Nexus of Nightmares" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="142454" Issue="918638" />
 </Book>
-<Book Series="X-Men '92: House of XCII" Number="1" Volume="2022" Year="2022">
+<Book Series="X-Men &apos;92: House of XCII" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="142304" Issue="916681" />
 </Book>
-<Book Series="X-Men '92: House of XCII" Number="2" Volume="2022" Year="2022">
+<Book Series="X-Men &apos;92: House of XCII" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="142304" Issue="928433" />
 </Book>
-<Book Series="X-Men '92: House of XCII" Number="3" Volume="2022" Year="2022">
+<Book Series="X-Men &apos;92: House of XCII" Number="3" Volume="2022" Year="2022">
 <Database Name="cv" Series="142304" Issue="940231" />
 </Book>
-<Book Series="X-Men '92: House of XCII" Number="4" Volume="2022" Year="2022">
+<Book Series="X-Men &apos;92: House of XCII" Number="4" Volume="2022" Year="2022">
 <Database Name="cv" Series="142304" Issue="942705" />
 </Book>
-<Book Series="X-Men '92: House of XCII" Number="5" Volume="2022" Year="2022">
+<Book Series="X-Men &apos;92: House of XCII" Number="5" Volume="2022" Year="2022">
 <Database Name="cv" Series="142304" Issue="946724" />
 </Book>
 <Book Series="Ghost Rider" Number="1" Volume="2022" Year="2022">
@@ -783,7 +783,7 @@
 <Book Series="Genis-Vell: Captain Marvel" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="144206" Issue="956850" />
 </Book>
-<Book Series="Marvel's Voices: Pride" Number="1" Volume="2022" Year="2022">
+<Book Series="Marvel&apos;s Voices: Pride" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="143815" Issue="932238" />
 </Book>
 <Book Series="X-Men: Red" Number="4" Volume="2022" Year="2022">
@@ -1215,8 +1215,8 @@
 <Book Series="Moon Knight" Number="18" Volume="2021" Year="2023">
 <Database Name="cv" Series="137698" Issue="961942" />
 </Book>
-<Book Series="Marvel's Voices: Community" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="150002" Issue="986651" />
+<Book Series="Marvel Voices: Comunidades" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145341" Issue="949542" />
 </Book>
 <Book Series="Damage Control" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144734" Issue="943876" />
@@ -1377,8 +1377,8 @@
 <Book Series="X-Terminators" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="145163" Issue="966432" />
 </Book>
-<Book Series="Crypt of Shadows" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="154196" Issue="1025152" />
+<Book Series="Crypt of Shadows" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145615" Issue="951629" />
 </Book>
 <Book Series="Namor: Conquered Shores" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="145513" Issue="950688" />
@@ -1827,7 +1827,7 @@
 <Book Series="Miles Morales: Spider-Man" Number="5" Volume="2022" Year="2023">
 <Database Name="cv" Series="146734" Issue="982359" />
 </Book>
-<Book Series="Marvel's Voices: Wakanda Forever" Number="1" Volume="2023" Year="2023">
+<Book Series="Marvel&apos;s Voices: Wakanda Forever" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148266" Issue="971733" />
 </Book>
 <Book Series="Monica Rambeau: Photon" Number="1" Volume="2022" Year="2023">
@@ -1929,8 +1929,8 @@
 <Book Series="Venom" Number="13" Volume="2021" Year="2023">
 <Database Name="cv" Series="140084" Issue="953979" />
 </Book>
-<Book Series="Dark Web" Number="1" Volume="2022" Year="2022">
-<Database Name="cv" Series="146735" Issue="959000" />
+<Book Series="Dark Web" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="150051" Issue="987300" />
 </Book>
 <Book Series="Dark Web: X-Men" Number="1" Volume="2022" Year="2023">
 <Database Name="cv" Series="146875" Issue="960026" />
@@ -1938,7 +1938,7 @@
 <Book Series="The Amazing Spider-Man" Number="15" Volume="2022" Year="2023">
 <Database Name="cv" Series="142577" Issue="960003" />
 </Book>
-<Book Series="Mary Jane &amp; Black Cat" Number="1" Volume="2023" Year="2023">
+<Book Series="Mary Jane &#38; Black Cat" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="960979" />
 </Book>
 <Book Series="Dark Web: Ms. Marvel" Number="1" Volume="2023" Year="2023">
@@ -1962,13 +1962,13 @@
 <Book Series="Dark Web: X-Men" Number="2" Volume="2022" Year="2023">
 <Database Name="cv" Series="146875" Issue="961948" />
 </Book>
-<Book Series="Mary Jane &amp; Black Cat" Number="2" Volume="2023" Year="2023">
+<Book Series="Mary Jane &#38; Black Cat" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="963990" />
 </Book>
-<Book Series="Mary Jane &amp; Black Cat" Number="3" Volume="2023" Year="2023">
+<Book Series="Mary Jane &#38; Black Cat" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="971887" />
 </Book>
-<Book Series="Mary Jane &amp; Black Cat" Number="4" Volume="2023" Year="2023">
+<Book Series="Mary Jane &#38; Black Cat" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="975702" />
 </Book>
 <Book Series="Gold Goblin" Number="3" Volume="2022" Year="2023">
@@ -1989,7 +1989,7 @@
 <Book Series="Dark Web: Finale" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="147905" Issue="967787" />
 </Book>
-<Book Series="Mary Jane &amp; Black Cat" Number="5" Volume="2023" Year="2023">
+<Book Series="Mary Jane &#38; Black Cat" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="146987" Issue="985708" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="19" Volume="2022" Year="2023">
@@ -2019,7 +2019,7 @@
 <Book Series="Daredevil" Number="10" Volume="2022" Year="2023">
 <Database Name="cv" Series="144027" Issue="985648" />
 </Book>
-<Book Series="Marvel’s Voices: Spider-Verse" Number="1" Volume="2023" Year="2023">
+<Book Series="Marvel Voices: Spider-Verse" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="149392" Issue="982362" />
 </Book>
 <Book Series="Thor" Number="31" Volume="2020" Year="2023">
@@ -2173,9 +2173,9 @@
 <Database Name="cv" Series="142053" Issue="964967" />
 </Book>
 <Book Series="Sins of Sinister" Number="1" Volume="2023" Year="2023">
-<Database Name="cv" Series="147646" Issue="966426" />
+<Database Name="cv" Series="153615" Issue="1014917" />
 </Book>
-<Book Series="Storm &amp; The Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
+<Book Series="Storm &#38; The Brotherhood of Mutants" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="969390" />
 </Book>
 <Book Series="Nightcrawlers" Number="1" Volume="2023" Year="2023">
@@ -2190,13 +2190,13 @@
 <Book Series="Immoral X-Men" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148475" Issue="976915" />
 </Book>
-<Book Series="Storm &amp; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
+<Book Series="Storm &#38; The Brotherhood of Mutants" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="978480" />
 </Book>
 <Book Series="Immoral X-Men" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148475" Issue="981484" />
 </Book>
-<Book Series="Storm &amp; The Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
+<Book Series="Storm &#38; The Brotherhood of Mutants" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148090" Issue="982353" />
 </Book>
 <Book Series="Nightcrawlers" Number="3" Volume="2023" Year="2023">
@@ -2439,7 +2439,7 @@
 <Book Series="Free Comic Book Day 2023: Spider-Man/Venom" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150032" Issue="987194" />
 </Book>
-<Book Series="Free Comic Book Day 2023: Marvel's Voices" Number="1" Volume="2023" Year="2023">
+<Book Series="Free Comic Book Day 2023: Marvel&apos;s Voices" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150033" Issue="987196" />
 </Book>
 <Book Series="Spider-Man 2099: Dark Genesis" Number="1" Volume="2023" Year="2023">
@@ -2499,19 +2499,19 @@
 <Book Series="Hulk Annual" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="150434" Issue="989661" />
 </Book>
-<Book Series="Hallows' Eve" Number="1" Volume="2023" Year="2023">
+<Book Series="Hallows&apos; Eve" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="148667" Issue="974111" />
 </Book>
-<Book Series="Hallows' Eve" Number="2" Volume="2023" Year="2023">
+<Book Series="Hallows&apos; Eve" Number="2" Volume="2023" Year="2023">
 <Database Name="cv" Series="148667" Issue="984200" />
 </Book>
-<Book Series="Hallows' Eve" Number="3" Volume="2023" Year="2023">
+<Book Series="Hallows&apos; Eve" Number="3" Volume="2023" Year="2023">
 <Database Name="cv" Series="148667" Issue="991067" />
 </Book>
-<Book Series="Hallows' Eve" Number="4" Volume="2023" Year="2023">
+<Book Series="Hallows&apos; Eve" Number="4" Volume="2023" Year="2023">
 <Database Name="cv" Series="148667" Issue="996060" />
 </Book>
-<Book Series="Hallows' Eve" Number="5" Volume="2023" Year="2023">
+<Book Series="Hallows&apos; Eve" Number="5" Volume="2023" Year="2023">
 <Database Name="cv" Series="148667" Issue="1003578" />
 </Book>
 <Book Series="What If...? Dark: Loki" Number="1" Volume="2023" Year="2023">
