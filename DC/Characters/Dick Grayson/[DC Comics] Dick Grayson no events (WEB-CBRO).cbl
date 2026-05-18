@@ -657,8 +657,8 @@
 <Book Series="Nightwing" Number="29" Volume="2016" Year="2017">
 <Database Name="cv" Series="92569" Issue="622889" />
 </Book>
-<Book Series="Suicide Squad" Number="26" Volume="2011" Year="2014">
-<Database Name="cv" Series="42803" Issue="436152" />
+<Book Series="Suicide Squad" Number="26" Volume="2016" Year="2017">
+<Database Name="cv" Series="93205" Issue="625292" />
 </Book>
 <Book Series="Green Arrow" Number="32" Volume="2016" Year="2017">
 <Database Name="cv" Series="91284" Issue="626255" />
