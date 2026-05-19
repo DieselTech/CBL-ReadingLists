@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Doom Patrol (WEB-CBRO)</Name>
-<NumIssues>161</NumIssues>
+<NumIssues>180</NumIssues>
 <Books>
 <Book Series="My Greatest Adventure" Number="80" Volume="1955" Year="1963">
 <Database Name="cv" Series="1687" Issue="6533" />
@@ -485,6 +485,63 @@
 </Book>
 <Book Series="Justice League" Number="33" Volume="2011" Year="2014">
 <Database Name="cv" Series="42488" Issue="463947" />
+</Book>
+<Book Series="Doom Patrol" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="94114" Issue="549487" />
+</Book>
+<Book Series="Doom Patrol" Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="94114" Issue="552974" />
+</Book>
+<Book Series="Doom Patrol" Number="3" Volume="2016" Year="2017">
+<Database Name="cv" Series="94114" Issue="557336" />
+</Book>
+<Book Series="Doom Patrol" Number="4" Volume="2016" Year="2017">
+<Database Name="cv" Series="94114" Issue="578426" />
+</Book>
+<Book Series="Doom Patrol" Number="5" Volume="2016" Year="2017">
+<Database Name="cv" Series="94114" Issue="588537" />
+</Book>
+<Book Series="Doom Patrol" Number="6" Volume="2016" Year="2017">
+<Database Name="cv" Series="94114" Issue="593227" />
+</Book>
+<Book Series="Doom Patrol" Number="7" Volume="2016" Year="2017">
+<Database Name="cv" Series="94114" Issue="610461" />
+</Book>
+<Book Series="Doom Patrol" Number="8" Volume="2016" Year="2017">
+<Database Name="cv" Series="94114" Issue="619570" />
+</Book>
+<Book Series="Doom Patrol" Number="9" Volume="2016" Year="2018">
+<Database Name="cv" Series="94114" Issue="641376" />
+</Book>
+<Book Series="Doom Patrol" Number="10" Volume="2016" Year="2018">
+<Database Name="cv" Series="94114" Issue="655472" />
+</Book>
+<Book Series="Doom Patrol" Number="11" Volume="2016" Year="2018">
+<Database Name="cv" Series="94114" Issue="667603" />
+</Book>
+<Book Series="Doom Patrol" Number="12" Volume="2016" Year="2018">
+<Database Name="cv" Series="94114" Issue="690791" />
+</Book>
+<Book Series="JLA/Doom Patrol Special" Number="1" Volume="2018" Year="2018">
+<Database Name="cv" Series="108254" Issue="656684" />
+</Book>
+<Book Series="Doom Patrol/JLA Special" Number="1" Volume="2018" Year="2018">
+<Database Name="cv" Series="108941" Issue="661113" />
+</Book>
+<Book Series="Doom Patrol: Weight of the Worlds" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="120004" Issue="712947" />
+</Book>
+<Book Series="Doom Patrol: Weight of the Worlds" Number="2" Volume="2019" Year="2019">
+<Database Name="cv" Series="120004" Issue="715215" />
+</Book>
+<Book Series="Doom Patrol: Weight of the Worlds" Number="3" Volume="2019" Year="2019">
+<Database Name="cv" Series="120004" Issue="717916" />
+</Book>
+<Book Series="Doom Patrol: Weight of the Worlds" Number="4" Volume="2019" Year="2019">
+<Database Name="cv" Series="120004" Issue="721041" />
+</Book>
+<Book Series="Doom Patrol: Weight of the Worlds" Number="5" Volume="2019" Year="2020">
+<Database Name="cv" Series="120004" Issue="726001" />
 </Book>
 </Books>
 <Matchers />
