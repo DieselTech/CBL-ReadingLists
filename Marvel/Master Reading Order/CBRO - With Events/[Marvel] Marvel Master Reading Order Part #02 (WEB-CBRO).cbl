@@ -2274,11 +2274,11 @@
 <Book Series="Power Man and Iron Fist" Number="66" Volume="1978" Year="1980">
 <Database Name="cv" Series="2959" Issue="20872" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="50" Volume="1976" Year="1981">
-<Database Name="cv" Series="2870" Issue="20983" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="50" Volume="1980" Year="1981">
+<Database Name="cv" Series="139754" Issue="20983" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="51" Volume="1976" Year="1981">
-<Database Name="cv" Series="2870" Issue="21052" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="51" Volume="1980" Year="1981">
+<Database Name="cv" Series="139754" Issue="21052" />
 </Book>
 <Book Series="The Avengers Annual" Number="10" Volume="1967" Year="1981">
 <Database Name="cv" Series="2350" Issue="20918" />
@@ -2406,3 +2406,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

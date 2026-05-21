@@ -42,8 +42,8 @@
 <Book Series="The Amazing Spider-Man" Number="252" Volume="1963" Year="1984">
 <Database Name="cv" Series="2127" Issue="24297" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="90" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24318" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="90" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24318" />
 </Book>
 <Book Series="Marvel Team-Up" Number="141" Volume="1972" Year="1984">
 <Database Name="cv" Series="2576" Issue="24313" />
@@ -231,3 +231,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

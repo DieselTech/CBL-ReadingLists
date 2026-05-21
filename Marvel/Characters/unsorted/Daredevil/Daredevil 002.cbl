@@ -60,8 +60,8 @@
     <Book Series="The Amazing Spider-Man" Number="288" Volume="1963" Year="1987">
       <Database Name="cv" Series="2127" Issue="28108" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="128" Volume="1976" Year="1987">
-      <Database Name="cv" Series="2870" Issue="28342" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="128" Volume="1980" Year="1987">
+      <Database Name="cv" Series="139754" Issue="28342" />
     </Book>
     <Book Series="Daredevil" Number="242" Volume="1964" Year="1987">
       <Database Name="cv" Series="2190" Issue="28112" />
@@ -558,3 +558,4 @@
   </Books>
   <Matchers />
 </ReadingList>
+

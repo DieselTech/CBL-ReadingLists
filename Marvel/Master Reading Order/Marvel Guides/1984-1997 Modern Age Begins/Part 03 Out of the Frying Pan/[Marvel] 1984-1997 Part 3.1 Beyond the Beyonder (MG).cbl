@@ -30,8 +30,8 @@
 <Book Series="The Uncanny X-Men" Number="205" Volume="1981" Year="1986">
 <Database Name="cv" Series="3092" Issue="26804" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="112" Volume="1976" Year="1986">
-<Database Name="cv" Series="2870" Issue="26608" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="112" Volume="1980" Year="1986">
+<Database Name="cv" Series="139754" Issue="26608" />
 </Book>
 <Book Series="Daredevil" Number="227" Volume="1964" Year="1986">
 <Database Name="cv" Series="2190" Issue="26500" />
@@ -138,3 +138,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

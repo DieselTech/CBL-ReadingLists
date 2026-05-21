@@ -3,8 +3,8 @@
 <Name>[Marvel] 1984-1997 Part 1.4 Separation Anxiety (MG)</Name>
 <NumIssues>41</NumIssues>
 <Books>
-<Book Series="The Spectacular Spider-Man" Number="97" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="25004" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="97" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="25004" />
 </Book>
 <Book Series="Marvel Team-Up" Number="147" Volume="1972" Year="1984">
 <Database Name="cv" Series="2576" Issue="24897" />
@@ -51,11 +51,11 @@
 <Book Series="Power Pack" Number="10" Volume="1984" Year="1985">
 <Database Name="cv" Series="3358" Issue="25493" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="98" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25171" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="98" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25171" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="99" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25269" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="99" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25269" />
 </Book>
 <Book Series="The Amazing Spider-Man" Number="263" Volume="1963" Year="1985">
 <Database Name="cv" Series="2127" Issue="25379" />
@@ -66,8 +66,8 @@
 <Book Series="Marvel Team-Up" Number="150" Volume="1972" Year="1985">
 <Database Name="cv" Series="2576" Issue="25268" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="100" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25294" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="100" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25294" />
 </Book>
 <Book Series="Web of Spider-Man" Number="1" Volume="1985" Year="1985">
 <Database Name="cv" Series="3519" Issue="25407" />
@@ -90,17 +90,17 @@
 <Book Series="The Amazing Spider-Man" Number="266" Volume="1963" Year="1985">
 <Database Name="cv" Series="2127" Issue="25673" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="101" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25396" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="101" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25396" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="102" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25492" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="102" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25492" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="103" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25597" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="103" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25597" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="104" Volume="1976" Year="1985">
-<Database Name="cv" Series="2870" Issue="25692" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="104" Volume="1980" Year="1985">
+<Database Name="cv" Series="139754" Issue="25692" />
 </Book>
 <Book Series="Web of Spider-Man" Number="5" Volume="1985" Year="1985">
 <Database Name="cv" Series="3519" Issue="25802" />
@@ -129,3 +129,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

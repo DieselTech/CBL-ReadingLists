@@ -120,8 +120,8 @@
 <Book Series="Thor" Number="348" Volume="1966" Year="1984">
 <Database Name="cv" Series="2294" Issue="24806" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="96" Volume="1976" Year="1984">
-<Database Name="cv" Series="2870" Issue="24899" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="96" Volume="1980" Year="1984">
+<Database Name="cv" Series="139754" Issue="24899" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="185" Volume="1981" Year="1984">
 <Database Name="cv" Series="3092" Issue="24708" />
@@ -210,3 +210,4 @@
 </Books>
 <Matchers />
 </ReadingList>
+

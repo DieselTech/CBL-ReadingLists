@@ -15,8 +15,8 @@
     <Book Series="Web of Spider-Man" Number="36" Volume="1985" Year="1988">
       <Database Name="cv" Series="3519" Issue="29385" />
     </Book>
-    <Book Series="The Spectacular Spider-Man" Number="134" Volume="1976" Year="1988">
-      <Database Name="cv" Series="2870" Issue="29152" />
+    <Book Series="Peter Parker, the Spectacular Spider-Man" Number="134" Volume="1980" Year="1988">
+      <Database Name="cv" Series="139754" Issue="29152" />
     </Book>
     <Book Series="The Spectacular Spider-Man" Number="135" Volume="1976" Year="1988">
       <Database Name="cv" Series="2870" Issue="29269" />
@@ -942,3 +942,4 @@
   </Books>
   <Matchers />
 </ReadingList>
+

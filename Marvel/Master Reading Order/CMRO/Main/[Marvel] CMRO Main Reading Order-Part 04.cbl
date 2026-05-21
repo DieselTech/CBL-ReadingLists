@@ -2553,17 +2553,17 @@
 <Book Series="The Amazing Spider-Man" Number="212" Volume="1963" Year="1981">
 <Database Name="cv" Series="2127" Issue="20961" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="49" Volume="1976" Year="1980">
-<Database Name="cv" Series="2870" Issue="20877" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="49" Volume="1980" Year="1980">
+<Database Name="cv" Series="139754" Issue="20877" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="50" Volume="1976" Year="1981">
-<Database Name="cv" Series="2870" Issue="20983" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="50" Volume="1980" Year="1981">
+<Database Name="cv" Series="139754" Issue="20983" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="51" Volume="1976" Year="1981">
-<Database Name="cv" Series="2870" Issue="21052" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="51" Volume="1980" Year="1981">
+<Database Name="cv" Series="139754" Issue="21052" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="52" Volume="1976" Year="1981">
-<Database Name="cv" Series="2870" Issue="21122" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="52" Volume="1980" Year="1981">
+<Database Name="cv" Series="139754" Issue="21122" />
 </Book>
 <Book Series="Marvel Spotlight" Number="8" Volume="1979" Year="1980">
 <Database Name="cv" Series="3007" Issue="20668" />
@@ -2988,12 +2988,13 @@
 <Book Series="Micronauts" Number="29" Volume="1979" Year="1981">
 <Database Name="cv" Series="3008" Issue="21249" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="53" Volume="1976" Year="1981">
-<Database Name="cv" Series="2870" Issue="21192" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="53" Volume="1980" Year="1981">
+<Database Name="cv" Series="139754" Issue="21192" />
 </Book>
-<Book Series="The Spectacular Spider-Man" Number="54" Volume="1976" Year="1981">
-<Database Name="cv" Series="2870" Issue="21255" />
+<Book Series="Peter Parker, the Spectacular Spider-Man" Number="54" Volume="1980" Year="1981">
+<Database Name="cv" Series="139754" Issue="21255" />
 </Book>
 </Books>
 <Matchers />
 </ReadingList>
+
