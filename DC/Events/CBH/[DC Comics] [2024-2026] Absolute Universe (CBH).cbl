@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] [2024-2026] Absolute Universe (CBH)</Name>
-<NumIssues>98</NumIssues>
+<NumIssues>100</NumIssues>
 <Books>
 <Book Series="DC All In Special" Number="1" Volume="2024" Year="2024">
 <Database Name="cv" Series="160186" Issue="1072173" />
@@ -174,9 +174,6 @@
 <Book Series="Absolute Wonder Woman" Number="12" Volume="2024" Year="2025">
 <Database Name="cv" Series="160511" Issue="1134428" />
 </Book>
-<Book Series="Absolute Superman" Number="12" Volume="2025" Year="2025">
-<Database Name="cv" Series="160860" Issue="1136072" />
-</Book>
 <Book Series="Absolute Green Lantern" Number="7" Volume="2025" Year="2025">
 <Database Name="cv" Series="163145" Issue="1136071" />
 </Book>
@@ -188,6 +185,9 @@
 </Book>
 <Book Series="Absolute Wonder Woman" Number="13" Volume="2024" Year="2025">
 <Database Name="cv" Series="160511" Issue="1139062" />
+</Book>
+<Book Series="Absolute Green Lantern" Number="8" Volume="2025" Year="2026">
+<Database Name="cv" Series="163145" Issue="1141894" />
 </Book>
 <Book Series="Absolute Batman 2025 Annual" Number="1" Volume="2025" Year="2025">
 <Database Name="cv" Series="168013" Issue="1140600" />
@@ -209,6 +209,12 @@
 </Book>
 <Book Series="Absolute Flash" Number="10" Volume="2025" Year="2026">
 <Database Name="cv" Series="162847" Issue="1148693" />
+</Book>
+<Book Series="Absolute Superman" Number="12" Volume="2025" Year="2025">
+<Database Name="cv" Series="160860" Issue="1136072" />
+</Book>
+<Book Series="Absolute Superman" Number="13" Volume="2025" Year="2026">
+<Database Name="cv" Series="160860" Issue="1141895" />
 </Book>
 <Book Series="Absolute Superman" Number="14" Volume="2025" Year="2026">
 <Database Name="cv" Series="160860" Issue="1149794" />
