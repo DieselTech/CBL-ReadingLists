@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Image] [2023-Present] Energon Universe (CBH)</Name>
-<NumIssues>99</NumIssues>
+<NumIssues>107</NumIssues>
 <Books>
 <Book Series="Void Rivals" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="151301" Issue="994693" />
@@ -299,6 +299,30 @@
 </Book>
 <Book Series="G.I. Joe" Number="19" Volume="2024" Year="2026">
 <Database Name="cv" Series="161047" Issue="1156288" />
+</Book>
+<Book Series="Void Rivals" Number="29" Volume="2023" Year="2026">
+<Database Name="cv" Series="151301" Issue="1163659" />
+</Book>
+<Book Series="G.I. Joe" Number="20" Volume="2024" Year="2026">
+<Database Name="cv" Series="161047" Issue="1159659" />
+</Book>
+<Book Series="Void Rivals" Number="30" Volume="2023" Year="2026">
+<Database Name="cv" Series="151301" Issue="1168291" />
+</Book>
+<Book Series="Transformers" Number="31" Volume="2023" Year="2026">
+<Database Name="cv" Series="153968" Issue="1162511" />
+</Book>
+<Book Series="G.I. Joe" Number="21" Volume="2024" Year="2026">
+<Database Name="cv" Series="161047" Issue="1163025" />
+</Book>
+<Book Series="Transformers" Number="32" Volume="2023" Year="2026">
+<Database Name="cv" Series="153968" Issue="1166461" />
+</Book>
+<Book Series="G.I. Joe" Number="22" Volume="2024" Year="2026">
+<Database Name="cv" Series="161047" Issue="1167155" />
+</Book>
+<Book Series="Energon Universe 2026 Special" Number="1" Volume="2026" Year="2026">
+<Database Name="cv" Series="171773" Issue="1165126" />
 </Book>
 </Books>
 <Matchers />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [2024-2026] The New Marvel Ultimate Universe 2.0 (CBH)</Name>
-<NumIssues>127</NumIssues>
+<NumIssues>130</NumIssues>
 <Books>
 <Book Series="Ultimate Invasion" Number="1" Volume="2023" Year="2023">
 <Database Name="cv" Series="151520" Issue="996035" />
@@ -381,8 +381,17 @@
 <Book Series="Ultimate Endgame" Number="3" Volume="2026" Year="2026">
 <Database Name="cv" Series="169661" Issue="1160332" />
 </Book>
+<Book Series="Ultimates" Number="23" Volume="2024" Year="2026">
+<Database Name="cv" Series="158414" Issue="1164383" />
+</Book>
+<Book Series="Ultimate Endgame" Number="4" Volume="2026" Year="2026">
+<Database Name="cv" Series="169661" Issue="1166463" />
+</Book>
 <Book Series="Ultimate Wolverine" Number="16" Volume="2025" Year="2026">
 <Database Name="cv" Series="162012" Issue="1163069" />
+</Book>
+<Book Series="Ultimates" Number="24" Volume="2024" Year="2026">
+<Database Name="cv" Series="158414" Issue="1168286" />
 </Book>
 </Books>
 <Matchers />
