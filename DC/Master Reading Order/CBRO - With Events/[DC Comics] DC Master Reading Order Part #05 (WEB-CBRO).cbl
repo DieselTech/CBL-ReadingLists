@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #05 (WEB-CBRO)</Name>
-<NumIssues>769</NumIssues>
+<NumIssues>768</NumIssues>
 <Books>
 <Book Series="JSA: The Liberty File" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="6660" Issue="47571" />
@@ -2039,9 +2039,6 @@
 </Book>
 <Book Series="Batman: Gotham Knights" Number="59" Volume="2000" Year="2005">
 <Database Name="cv" Series="7207" Issue="100901" />
-</Book>
-<Book Series="Detective Comics" Number="800" Volume="1937" Year="2005">
-<Database Name="cv" Series="18058" Issue="112049" />
 </Book>
 <Book Series="Catwoman" Number="37" Volume="2002" Year="2005">
 <Database Name="cv" Series="7328" Issue="98301" />
