@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC You (WEB-CBRO)</Name>
-<NumIssues>620</NumIssues>
+<NumIssues>619</NumIssues>
 <Books>
 <Book Series="Gotham Academy" Number="7" Volume="2014" Year="2015">
 <Database Name="cv" Series="77219" Issue="491474" />
@@ -1778,9 +1778,6 @@
 </Book>
 <Book Series="Green Lantern Corps: Edge of Oblivion" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="87315" Issue="534264" />
-</Book>
-<Book Series="Divergence FCBD Special Edition" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="81653" Issue="487464" />
 </Book>
 <Book Series="Justice League" Number="40" Volume="2011" Year="2015">
 <Database Name="cv" Series="42488" Issue="487174" />
