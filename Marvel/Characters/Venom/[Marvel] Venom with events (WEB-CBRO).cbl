@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Venom with events (WEB-CBRO)</Name>
-<NumIssues>599</NumIssues>
+<NumIssues>600</NumIssues>
 <Books>
 <Book Series="The Amazing Spider-Man" Number="252" Volume="1963" Year="1984">
 <Database Name="cv" Series="2127" Issue="24297" />
@@ -1799,6 +1799,9 @@
 </Book>
 <Book Series="Venom" Number="257" Volume="2025" Year="2026">
 <Database Name="cv" Series="167333" Issue="1163072" />
+</Book>
+<Book Series="Venom" Number="258" Volume="2025" Year="2026">
+<Database Name="cv" Series="167333" Issue="1167203" />
 </Book>
 </Books>
 <Matchers />
