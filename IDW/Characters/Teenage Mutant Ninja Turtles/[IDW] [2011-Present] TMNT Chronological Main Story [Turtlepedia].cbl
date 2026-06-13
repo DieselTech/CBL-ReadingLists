@@ -732,10 +732,10 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="130" Volume="2011" Year="2022">
 <Database Name="cv" Series="42285" Issue="933158" />
 </Book>
-<Book Series="TMNT: The Armageddon Game – Opening Moves" Number="1" Volume="2023" Year="2022">
+<Book Series="TMNT: The Armageddon Game – Opening Moves" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144049" Issue="936754" />
 </Book>
-<Book Series="TMNT: The Armageddon Game – Opening Moves" Number="2" Volume="2023" Year="2022">
+<Book Series="TMNT: The Armageddon Game – Opening Moves" Number="2" Volume="2022" Year="2022">
 <Database Name="cv" Series="144049" Issue="943919" />
 </Book>
 <Book Series="TMNT Annual 2022" Number="1" Volume="2022" Year="2022">
