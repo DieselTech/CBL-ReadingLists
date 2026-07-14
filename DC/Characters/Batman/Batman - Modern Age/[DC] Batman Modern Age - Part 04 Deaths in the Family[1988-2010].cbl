@@ -82,7 +82,7 @@
 <Database Name="cv" Series="25378" Issue="149829" />
 </Book>
 <Book Series="Batman: Hong Kong" Number="1" Volume="2003" Year="2003">
-<Database Name="cv" Series="19124" Issue="19124" />
+<Database Name="cv" Series="19124" Issue="114319" />
 </Book>
 <Book Series="Batman Confidential" Number="13" Volume="2007" Year="2008">
 <Database Name="cv" Series="18231" Issue="127421" />
