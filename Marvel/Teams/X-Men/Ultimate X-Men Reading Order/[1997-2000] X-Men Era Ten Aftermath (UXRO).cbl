@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1997-2000] X-Men Era Ten Aftermath (UXRO)</Name>
-<NumIssues>212</NumIssues>
+<NumIssues>210</NumIssues>
 <Books>
 <Book Series="Marvel Team-Up" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="6011" Issue="44085" />

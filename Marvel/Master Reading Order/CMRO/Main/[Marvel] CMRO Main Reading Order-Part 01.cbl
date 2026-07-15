@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 01</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>994</NumIssues>
 <Books>
 <Book Series="Fantastic Four" Number="1" Volume="1961" Year="1961">
 <Database Name="cv" Series="2045" Issue="5558" />

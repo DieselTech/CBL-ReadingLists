@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 05</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>997</NumIssues>
 <Books>
 <Book Series="Peter Parker, the Spectacular Spider-Man" Number="55" Volume="1980" Year="1981">
 <Database Name="cv" Series="139754" Issue="109296" />

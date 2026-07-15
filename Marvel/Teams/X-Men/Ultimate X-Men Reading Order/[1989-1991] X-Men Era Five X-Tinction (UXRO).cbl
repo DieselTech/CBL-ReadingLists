@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1989-1991] X-Men Era Five X-Tinction (UXRO)</Name>
-<NumIssues>137</NumIssues>
+<NumIssues>125</NumIssues>
 <Books>
 <Book Series="Wolverine" Number="10" Volume="1988" Year="1989">
 <Database Name="cv" Series="4250" Issue="64275" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2006-2008] X-Men Era Fourteen Decimation (UXRO)</Name>
-<NumIssues>220</NumIssues>
+<NumIssues>216</NumIssues>
 <Books>
 <Book Series="New Excalibur" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18019" Issue="106157" />

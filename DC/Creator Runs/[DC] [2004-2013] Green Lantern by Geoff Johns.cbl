@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] [2004-2013] Green Lantern by Geoff Johns</Name>
-<NumIssues>237</NumIssues>
+<NumIssues>234</NumIssues>
 <Books>
 <Book Series="Green Lantern Secret Files and Origins 2005" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="30005" Issue="184615" />

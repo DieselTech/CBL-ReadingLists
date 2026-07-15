@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Image] Skullkickers (2010-2015)</Name>
-<NumIssues>35</NumIssues>
+<NumIssues>34</NumIssues>
 <Books>
 <Book Series="Skullkickers" Number="0" Volume="2010" Year="2012">
 <Database Name="cv" Series="35602" Issue="335754" />

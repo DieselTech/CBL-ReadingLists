@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [2012-2015] Uncanny Avengers by Rick Remender</Name>
-<NumIssues>41</NumIssues>
+<NumIssues>40</NumIssues>
 <Books>
 <Book Series="Uncanny Avengers" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="52880" Issue="360884" />

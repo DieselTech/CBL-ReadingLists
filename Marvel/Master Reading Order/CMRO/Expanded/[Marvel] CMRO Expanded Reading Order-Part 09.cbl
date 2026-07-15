@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 09</Name>
-<NumIssues>903</NumIssues>
+<NumIssues>900</NumIssues>
 <Books>
 <Book Series="Marvel Team-Up" Number="91" Volume="1972" Year="1980">
 <Database Name="cv" Series="2576" Issue="20247" />

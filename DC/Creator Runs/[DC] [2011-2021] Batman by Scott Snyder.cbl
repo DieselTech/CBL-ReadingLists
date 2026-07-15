@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] [2011-2021] Batman by Scott Snyder</Name>
-<NumIssues>179</NumIssues>
+<NumIssues>178</NumIssues>
 <Books>
 <Book Series="Detective Comics" Number="871" Volume="1937" Year="2011">
 <Database Name="cv" Series="18058" Issue="246411" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2008-2009] X-Men Era Fifteen Manifest Destiny (UXRO)</Name>
-<NumIssues>240</NumIssues>
+<NumIssues>236</NumIssues>
 <Books>
 <Book Series="Marvel Comics Presents" Number="8" Volume="2007" Year="2008">
 <Database Name="cv" Series="19164" Issue="129067" />

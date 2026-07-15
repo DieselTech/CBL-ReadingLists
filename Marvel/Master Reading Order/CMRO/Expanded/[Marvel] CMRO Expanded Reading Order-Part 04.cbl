@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 04</Name>
-<NumIssues>992</NumIssues>
+<NumIssues>981</NumIssues>
 <Books>
 <Book Series="Millie the Model Annual" Number="2" Volume="1962" Year="1963">
 <Database Name="cv" Series="8510" Issue="157595" />

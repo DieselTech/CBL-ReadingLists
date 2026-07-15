@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1996-1997] X-Men Era Nine Outlaw Mutants (UXRO)</Name>
-<NumIssues>102</NumIssues>
+<NumIssues>101</NumIssues>
 <Books>
 <Book Series="X-Men '96" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="20710" Issue="178122" />

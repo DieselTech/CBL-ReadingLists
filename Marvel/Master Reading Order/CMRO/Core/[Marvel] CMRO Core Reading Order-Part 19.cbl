@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Core Reading Order-Part 19</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>998</NumIssues>
 <Books>
 <Book Series="Deadpool: The Gauntlet" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="70756" Issue="441551" />

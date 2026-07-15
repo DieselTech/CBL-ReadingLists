@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [2001-2006] Howard the Duck by Zdarsky and Quinones</Name>
-<NumIssues>24</NumIssues>
+<NumIssues>14</NumIssues>
 <Books>
 <Book Series="Howard the Duck" Number="1" Volume="2015" Year="2016">
 <Database Name="cv" Series="85762" Issue="504942" />

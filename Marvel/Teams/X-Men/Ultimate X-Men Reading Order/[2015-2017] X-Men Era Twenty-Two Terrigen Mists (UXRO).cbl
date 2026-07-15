@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2015-2017] X-Men Era Twenty-Two Terrigen Mists (UXRO)</Name>
-<NumIssues>144</NumIssues>
+<NumIssues>135</NumIssues>
 <Books>
 <Book Series="Wolverine" Number="66" Volume="2003" Year="2008">
 <Database Name="cv" Series="10809" Issue="131540" />

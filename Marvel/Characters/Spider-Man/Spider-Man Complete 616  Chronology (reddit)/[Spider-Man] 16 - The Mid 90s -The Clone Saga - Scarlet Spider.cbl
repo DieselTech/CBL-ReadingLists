@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Spider-Man] 16 - The Mid 90s -The Clone Saga - Scarlet Spider</Name>
-<NumIssues>97</NumIssues>
+<NumIssues>91</NumIssues>
 <Books>
 <Book Series="Spider-Man: The Lost Years" Number="0" Volume="1995" Year="1996">
 <Database Name="cv" Series="20732" Issue="124299" />

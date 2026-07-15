@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [2015-2018] Iron Man by Brian Michael Bendis</Name>
-<NumIssues>63</NumIssues>
+<NumIssues>56</NumIssues>
 <Books>
 <Book Series="Invincible Iron Man" Number="1" Volume="2016" Year="2017">
 <Database Name="cv" Series="95596" Issue="557367" />

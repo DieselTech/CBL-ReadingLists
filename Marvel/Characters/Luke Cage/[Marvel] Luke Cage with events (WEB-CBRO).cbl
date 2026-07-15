@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Luke Cage with events (WEB-CBRO)</Name>
-<NumIssues>923</NumIssues>
+<NumIssues>924</NumIssues>
 <Books>
 <Book Series="Hero for Hire" Number="1" Volume="1972" Year="1972">
 <Database Name="cv" Series="2572" Issue="12266" />

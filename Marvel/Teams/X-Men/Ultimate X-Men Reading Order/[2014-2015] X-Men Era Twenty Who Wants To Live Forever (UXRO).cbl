@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2014-2015] X-Men Era Twenty Who Wants To Live Forever (UXRO)</Name>
-<NumIssues>188</NumIssues>
+<NumIssues>184</NumIssues>
 <Books>
 <Book Series="Origin II" Number="1" Volume="2013" Year="2014">
 <Database Name="cv" Series="70218" Issue="438379" />

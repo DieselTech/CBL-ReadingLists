@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] All-New, All Different Marvel- All-New, All-Different Marvel Part #1 (WEB-CBRO)</Name>
-<NumIssues>945</NumIssues>
+<NumIssues>944</NumIssues>
 <Books>
 <Book Series="Avengers: Rage of Ultron" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="81063" Issue="484802" />

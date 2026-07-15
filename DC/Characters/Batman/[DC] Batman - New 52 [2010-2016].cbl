@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman - New 52 [2010-2016]</Name>
-<NumIssues>217</NumIssues>
+<NumIssues>216</NumIssues>
 <Books>
 <Book Series="Batman" Number="0" Volume="2011" Year="2012">
 <Database Name="cv" Series="42721" Issue="356718" />

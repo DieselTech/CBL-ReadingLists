@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 1970-1984 Part 3.3 Villains and Champions (MG)</Name>
-<NumIssues>289</NumIssues>
+<NumIssues>288</NumIssues>
 <Books>
 <Book Series="Marvel Premiere" Number="23" Volume="1972" Year="1975">
 <Database Name="cv" Series="2575" Issue="15489" />

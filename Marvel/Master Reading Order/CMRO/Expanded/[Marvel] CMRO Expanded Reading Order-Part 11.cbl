@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 11</Name>
-<NumIssues>998</NumIssues>
+<NumIssues>997</NumIssues>
 <Books>
 <Book Series="The Transformers" Number="19" Volume="1984" Year="1985">
 <Database Name="cv" Series="20559" Issue="171926" />

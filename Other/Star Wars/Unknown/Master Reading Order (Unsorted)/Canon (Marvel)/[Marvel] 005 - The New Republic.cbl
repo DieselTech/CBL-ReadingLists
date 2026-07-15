@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>005 - The New Republic</Name>
-    <NumIssues>434</NumIssues>
+    <NumIssues>433</NumIssues>
     <Source>005 - The New Republic.cbl</Source>
     <StartYear>2015</StartYear>
     <Books>

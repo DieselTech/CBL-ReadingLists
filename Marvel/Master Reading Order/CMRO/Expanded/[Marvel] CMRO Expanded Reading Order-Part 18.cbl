@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 18</Name>
-<NumIssues>998</NumIssues>
+<NumIssues>996</NumIssues>
 <Books>
 <Book Series="The Avengers" Number="381" Volume="1963" Year="1994">
 <Database Name="cv" Series="2128" Issue="40072" />

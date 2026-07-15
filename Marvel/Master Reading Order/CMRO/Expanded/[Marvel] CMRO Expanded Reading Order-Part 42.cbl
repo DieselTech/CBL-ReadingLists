@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 42</Name>
-<NumIssues>893</NumIssues>
+<NumIssues>892</NumIssues>
 <Books>
 <Book Series="Moon Knight" Number="30" Volume="2021" Year="2024">
 <Database Name="cv" Series="137698" Issue="1034342" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Iron Fist with events (WEB-CBRO)</Name>
-<NumIssues>414</NumIssues>
+<NumIssues>415</NumIssues>
 <Books>
 <Book Series="Marvel Premiere" Number="15" Volume="1972" Year="1974">
 <Database Name="cv" Series="2575" Issue="47481" />

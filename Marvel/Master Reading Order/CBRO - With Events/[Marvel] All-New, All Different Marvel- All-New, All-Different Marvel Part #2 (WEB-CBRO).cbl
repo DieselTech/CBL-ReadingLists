@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] All-New, All Different Marvel- All-New, All-Different Marvel Part #2 (WEB-CBRO)</Name>
-<NumIssues>822</NumIssues>
+<NumIssues>821</NumIssues>
 <Books>
 <Book Series="Scarlet Witch" Number="10" Volume="2015" Year="2016">
 <Database Name="cv" Series="86552" Issue="549523" />

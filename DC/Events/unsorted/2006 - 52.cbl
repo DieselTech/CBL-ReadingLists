@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>2006 - 52</Name>
-<NumIssues>62</NumIssues>
+<NumIssues>61</NumIssues>
 <Books>
 <Book Series="52" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18053" Issue="105733" />

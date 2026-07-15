@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1986-1989] X-Men Era Four X-Factory (UXRO)</Name>
-<NumIssues>196</NumIssues>
+<NumIssues>195</NumIssues>
 <Books>
 <Book Series="The Avengers" Number="263" Volume="1963" Year="1986">
 <Database Name="cv" Series="2128" Issue="26388" />

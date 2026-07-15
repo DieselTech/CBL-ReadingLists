@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Red Daughter of Krypton (WEB-CBRO)</Name>
-<NumIssues>11</NumIssues>
+<NumIssues>17</NumIssues>
 <Books>
 <Book Series="Supergirl" Number="26" Volume="2011" Year="2014">
 <Database Name="cv" Series="42949" Issue="437425" />

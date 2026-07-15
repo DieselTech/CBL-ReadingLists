@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2000-2001] X-Men Era Eleven Revolution (UXRO)</Name>
-<NumIssues>137</NumIssues>
+<NumIssues>136</NumIssues>
 <Books>
 <Book Series="X-Men: Declassified" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="28124" Issue="172778" />

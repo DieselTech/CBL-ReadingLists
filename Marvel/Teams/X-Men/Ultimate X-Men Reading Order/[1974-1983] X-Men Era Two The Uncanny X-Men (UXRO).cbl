@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1974-1983] X-Men Era Two The Uncanny X-Men (UXRO)</Name>
-<NumIssues>119</NumIssues>
+<NumIssues>118</NumIssues>
 <Books>
 <Book Series="The Incredible Hulk" Number="180" Volume="1968" Year="1974">
 <Database Name="cv" Series="2406" Issue="14667" />

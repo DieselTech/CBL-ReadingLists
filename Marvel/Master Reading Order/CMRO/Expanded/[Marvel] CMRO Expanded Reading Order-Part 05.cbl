@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 05</Name>
-<NumIssues>902</NumIssues>
+<NumIssues>897</NumIssues>
 <Books>
 <Book Series="The Amazing Spider-Man" Number="71" Volume="1963" Year="1969">
 <Database Name="cv" Series="2127" Issue="10146" />

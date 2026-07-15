@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2013-2014] X-Men Era Nineteen The Broken Universe (UXRO)</Name>
-<NumIssues>208</NumIssues>
+<NumIssues>200</NumIssues>
 <Books>
 <Book Series="Age of Ultron" Number="1" Volume="2013" Year="2013">
 <Database Name="cv" Series="58436" Issue="390442" />

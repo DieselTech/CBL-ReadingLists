@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Dark Horse] Usagi Yojimbo (Issues)</Name>
-<NumIssues>294</NumIssues>
+<NumIssues>295</NumIssues>
 <Books>
 <Book Series="Classic Usagi Yojimbo" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="60527" Issue="400227" />

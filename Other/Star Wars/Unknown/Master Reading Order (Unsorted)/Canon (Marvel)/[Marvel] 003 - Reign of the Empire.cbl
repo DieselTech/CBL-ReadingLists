@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>003 - Reign of the Empire</Name>
-    <NumIssues>69</NumIssues>
+    <NumIssues>68</NumIssues>
     <Source>003 - Reign of the Empire.cbl</Source>
     <StartYear>2015</StartYear>
     <Books>

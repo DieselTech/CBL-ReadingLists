@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Acts of Vengeance (WEB-CBRO)</Name>
-<NumIssues>70</NumIssues>
+<NumIssues>68</NumIssues>
 <Books>
 <Book Series="The Mighty Thor" Number="410" Volume="1989" Year="1989">
 <Database Name="cv" Series="61213" Issue="31934" />

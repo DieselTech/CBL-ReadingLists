@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2003-2006] X-Men Era Thirteen House of X, House of M (UXRO)</Name>
-<NumIssues>229</NumIssues>
+<NumIssues>227</NumIssues>
 <Books>
 <Book Series="NYX" Number="1" Volume="2003" Year="2003">
 <Database Name="cv" Series="17987" Issue="105318" />

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman Modern Age - Part 05 Knightfall [1991-2019]</Name>
-<NumIssues>149</NumIssues>
+<NumIssues>150</NumIssues>
 <Books>
 <Book Series="Batman: Sword of Azrael" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="9223" Issue="107898" />
