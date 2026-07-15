@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[IDW] TMNT Chronological Main Story [Turtlepedia]</Name>
-<NumIssues>343</NumIssues>
+<NumIssues>347</NumIssues>
 <Books>
 <Book Series="Teenage Mutant Ninja Turtles" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42285" Issue="288545" />
@@ -613,7 +613,7 @@
 <Database Name="cv" Series="42285" Issue="732569" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles Annual" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="137921" Issue="784879" />
+<Database Name="cv" Series="137921" Issue="875459" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="102" Volume="2011" Year="2020">
 <Database Name="cv" Series="42285" Issue="735236" />
@@ -1026,11 +1026,23 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="17" Volume="2024" Year="2026">
 <Database Name="cv" Series="159035" Issue="1162506" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles" Number="" Volume="2024" Year="0">
+<Book Series="Teenage Mutant Ninja Turtles" Number="18" Volume="2024" Year="2026">
 <Database Name="cv" Series="159035" Issue="1166449" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles" Number="" Volume="2024" Year="0">
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="7" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1163063" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="8" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1167196" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="19" Volume="2024" Year="2026">
 <Database Name="cv" Series="159035" Issue="1170914" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="9" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1173380" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="10" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1180019" />
 </Book>
 </Books>
 <Matchers />
