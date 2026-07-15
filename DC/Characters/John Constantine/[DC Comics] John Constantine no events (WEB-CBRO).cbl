@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[DC] John Constantine no events (WEB-CBRO)</Name>
-<NumIssues>174</NumIssues>
+<Name>[DC Comics] John Constantine no events (WEB-CBRO)</Name>
+<NumIssues>295</NumIssues>
 <Books>
 <Book Series="The Saga of Swamp Thing" Number="37" Volume="1982" Year="1985">
 <Database Name="cv" Series="38005" Issue="261296" />
@@ -524,6 +524,369 @@
 </Book>
 <Book Series="Constantine: The Hellblazer" Number="13" Volume="2015" Year="2016">
 <Database Name="cv" Series="82532" Issue="534258" />
+</Book>
+<Book Series="The Hellblazer: Rebirth" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="92368" Issue="540052" />
+</Book>
+<Book Series="The Hellblazer" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="93381" Issue="546035" />
+</Book>
+<Book Series="The Hellblazer" Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="93381" Issue="551278" />
+</Book>
+<Book Series="The Hellblazer" Number="3" Volume="2016" Year="2016">
+<Database Name="cv" Series="93381" Issue="555494" />
+</Book>
+<Book Series="The Hellblazer" Number="4" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="558940" />
+</Book>
+<Book Series="The Hellblazer" Number="5" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="571639" />
+</Book>
+<Book Series="The Hellblazer" Number="6" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="578432" />
+</Book>
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="1" Volume="2016" Year="2016">
+<Database Name="cv" Series="93393" Issue="546041" />
+</Book>
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="2" Volume="2016" Year="2016">
+<Database Name="cv" Series="93393" Issue="551281" />
+</Book>
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="3" Volume="2016" Year="2016">
+<Database Name="cv" Series="93393" Issue="555498" />
+</Book>
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="4" Volume="2016" Year="2017">
+<Database Name="cv" Series="93393" Issue="558941" />
+</Book>
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="5" Volume="2016" Year="2017">
+<Database Name="cv" Series="93393" Issue="571646" />
+</Book>
+<Book Series="Sixpack and Dogwelder: Hard-Travelin&apos; Heroz" Number="6" Volume="2016" Year="2017">
+<Database Name="cv" Series="93393" Issue="578440" />
+</Book>
+<Book Series="The Hellblazer" Number="7" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="582501" />
+</Book>
+<Book Series="The Hellblazer" Number="8" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="588542" />
+</Book>
+<Book Series="The Hellblazer" Number="9" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="593232" />
+</Book>
+<Book Series="The Hellblazer" Number="10" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="597167" />
+</Book>
+<Book Series="The Hellblazer" Number="11" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="605061" />
+</Book>
+<Book Series="The Hellblazer" Number="12" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="610467" />
+</Book>
+<Book Series="The Hellblazer" Number="13" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="616145" />
+</Book>
+<Book Series="The Hellblazer" Number="14" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="625283" />
+</Book>
+<Book Series="The Hellblazer" Number="15" Volume="2016" Year="2017">
+<Database Name="cv" Series="93381" Issue="632465" />
+</Book>
+<Book Series="Trinity" Number="12" Volume="2016" Year="2017">
+<Database Name="cv" Series="94296" Issue="614987" />
+</Book>
+<Book Series="Trinity" Number="13" Volume="2016" Year="2017">
+<Database Name="cv" Series="94296" Issue="622894" />
+</Book>
+<Book Series="Trinity" Number="14" Volume="2016" Year="2017">
+<Database Name="cv" Series="94296" Issue="630507" />
+</Book>
+<Book Series="Trinity" Number="15" Volume="2016" Year="2018">
+<Database Name="cv" Series="94296" Issue="638581" />
+</Book>
+<Book Series="The Hellblazer" Number="16" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="641383" />
+</Book>
+<Book Series="The Hellblazer" Number="17" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="649707" />
+</Book>
+<Book Series="The Hellblazer" Number="18" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="655478" />
+</Book>
+<Book Series="Green Lanterns" Number="44" Volume="2016" Year="2018">
+<Database Name="cv" Series="91285" Issue="664892" />
+</Book>
+<Book Series="Green Lanterns" Number="45" Volume="2016" Year="2018">
+<Database Name="cv" Series="91285" Issue="666781" />
+</Book>
+<Book Series="Green Lanterns" Number="46" Volume="2016" Year="2018">
+<Database Name="cv" Series="91285" Issue="668758" />
+</Book>
+<Book Series="Green Lanterns" Number="47" Volume="2016" Year="2018">
+<Database Name="cv" Series="91285" Issue="670091" />
+</Book>
+<Book Series="The Hellblazer" Number="19" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="661117" />
+</Book>
+<Book Series="The Hellblazer" Number="20" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="664269" />
+</Book>
+<Book Series="The Hellblazer" Number="21" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="667607" />
+</Book>
+<Book Series="The Hellblazer" Number="22" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="670719" />
+</Book>
+<Book Series="The Hellblazer" Number="23" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="675120" />
+</Book>
+<Book Series="The Hellblazer" Number="24" Volume="2016" Year="2018">
+<Database Name="cv" Series="93381" Issue="677949" />
+</Book>
+<Book Series="Justice League Dark" Number="1" Volume="2018" Year="2018">
+<Database Name="cv" Series="112455" Issue="677950" />
+</Book>
+<Book Series="Justice League Dark" Number="2" Volume="2018" Year="2018">
+<Database Name="cv" Series="112455" Issue="680706" />
+</Book>
+<Book Series="Justice League Dark" Number="3" Volume="2018" Year="2018">
+<Database Name="cv" Series="112455" Issue="686356" />
+</Book>
+<Book Series="Wonder Woman and Justice League Dark: The Witching Hour" Number="1" Volume="2018" Year="2018">
+<Database Name="cv" Series="114102" Issue="686999" />
+</Book>
+<Book Series="Wonder Woman" Number="56" Volume="2016" Year="2018">
+<Database Name="cv" Series="91774" Issue="688308" />
+</Book>
+<Book Series="Justice League Dark" Number="4" Volume="2018" Year="2018">
+<Database Name="cv" Series="112455" Issue="689023" />
+</Book>
+<Book Series="Wonder Woman" Number="57" Volume="2016" Year="2018">
+<Database Name="cv" Series="91774" Issue="689857" />
+</Book>
+<Book Series="Justice League Dark and Wonder Woman: The Witching Hour" Number="1" Volume="2018" Year="2018">
+<Database Name="cv" Series="114893" Issue="690797" />
+</Book>
+<Book Series="Justice League Dark" Number="5" Volume="2018" Year="2019">
+<Database Name="cv" Series="112455" Issue="692529" />
+</Book>
+<Book Series="Justice League Dark" Number="6" Volume="2018" Year="2019">
+<Database Name="cv" Series="112455" Issue="694888" />
+</Book>
+<Book Series="Justice League Dark" Number="14" Volume="2018" Year="2019">
+<Database Name="cv" Series="112455" Issue="717400" />
+</Book>
+<Book Series="Justice League Dark" Number="15" Volume="2018" Year="2019">
+<Database Name="cv" Series="112455" Issue="720050" />
+</Book>
+<Book Series="Justice League Dark" Number="16" Volume="2018" Year="2019">
+<Database Name="cv" Series="112455" Issue="723834" />
+</Book>
+<Book Series="Justice League Dark" Number="17" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="728900" />
+</Book>
+<Book Series="Justice League Dark" Number="18" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="731933" />
+</Book>
+<Book Series="Justice League Dark" Number="19" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="735366" />
+</Book>
+<Book Series="Justice League Dark" Number="20" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="738544" />
+</Book>
+<Book Series="Justice League Dark" Number="21" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="743316" />
+</Book>
+<Book Series="Justice League Dark" Number="22" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="766099" />
+</Book>
+<Book Series="Justice League Dark" Number="23" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="769605" />
+</Book>
+<Book Series="Justice League Dark" Number="24" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="781019" />
+</Book>
+<Book Series="Justice League Dark" Number="25" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="795924" />
+</Book>
+<Book Series="Justice League Dark" Number="26" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="802696" />
+</Book>
+<Book Series="Justice League Dark" Number="27" Volume="2018" Year="2020">
+<Database Name="cv" Series="112455" Issue="814048" />
+</Book>
+<Book Series="Justice League Dark" Number="28" Volume="2018" Year="2021">
+<Database Name="cv" Series="112455" Issue="819313" />
+</Book>
+<Book Series="The Sandman Universe Presents Hellblazer" Number="1" Volume="2019" Year="2019">
+<Database Name="cv" Series="122483" Issue="725231" />
+</Book>
+<Book Series="Books of Magic" Number="14" Volume="2018" Year="2020">
+<Database Name="cv" Series="114703" Issue="728895" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="1" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="728899" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="2" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="731310" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="3" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="734537" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="4" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="738543" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="5" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="743315" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="6" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="766098" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="7" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="769603" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="8" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="783117" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="9" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="795908" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="10" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="804742" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="11" Volume="2019" Year="2020">
+<Database Name="cv" Series="123099" Issue="814042" />
+</Book>
+<Book Series="John Constantine: Hellblazer" Number="12" Volume="2019" Year="2021">
+<Database Name="cv" Series="123099" Issue="819292" />
+</Book>
+<Book Series="Dark Nights: Death Metal The Last 52: War of the Multiverses" Number="1" Volume="2020" Year="2021">
+<Database Name="cv" Series="132850" Issue="823034" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="1" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1040766" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="2" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1045410" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="3" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1048686" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="4" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1051484" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="5" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1056126" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="6" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1060075" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="7" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1063186" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="8" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1067964" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="9" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1070229" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="10" Volume="2024" Year="2024">
+<Database Name="cv" Series="156111" Issue="1074596" />
+</Book>
+<Book Series="John Constantine, Hellblazer: Dead in America" Number="11" Volume="2024" Year="2025">
+<Database Name="cv" Series="156111" Issue="1083612" />
+</Book>
+<Book Series="Justice League" Number="59" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="837681" />
+</Book>
+<Book Series="Justice League" Number="60" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="844019" />
+</Book>
+<Book Series="Justice League" Number="61" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="850416" />
+</Book>
+<Book Series="Justice League" Number="62" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="856441" />
+</Book>
+<Book Series="Justice League" Number="63" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="862623" />
+</Book>
+<Book Series="Justice League" Number="64" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="867835" />
+</Book>
+<Book Series="Justice League" Number="65" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="872349" />
+</Book>
+<Book Series="Justice League" Number="66" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="876283" />
+</Book>
+<Book Series="Justice League" Number="67" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="884641" />
+</Book>
+<Book Series="Justice League" Number="68" Volume="2018" Year="2021">
+<Database Name="cv" Series="111428" Issue="886388" />
+</Book>
+<Book Series="Justice League" Number="69" Volume="2018" Year="2022">
+<Database Name="cv" Series="111428" Issue="894110" />
+</Book>
+<Book Series="Justice League" Number="70" Volume="2018" Year="2022">
+<Database Name="cv" Series="111428" Issue="900159" />
+</Book>
+<Book Series="Justice League" Number="71" Volume="2018" Year="2022">
+<Database Name="cv" Series="111428" Issue="904497" />
+</Book>
+<Book Series="Justice League" Number="72" Volume="2018" Year="2022">
+<Database Name="cv" Series="111428" Issue="907425" />
+</Book>
+<Book Series="Justice League" Number="73" Volume="2018" Year="2022">
+<Database Name="cv" Series="111428" Issue="909492" />
+</Book>
+<Book Series="Justice League" Number="74" Volume="2018" Year="2022">
+<Database Name="cv" Series="111428" Issue="911137" />
+</Book>
+<Book Series="Dark Crisis: The Deadly Green" Number="1" Volume="2022" Year="2022">
+<Database Name="cv" Series="145347" Issue="949574" />
+</Book>
+<Book Series="Lazarus Planet: Alpha" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="147332" Issue="963633" />
+</Book>
+<Book Series="Lazarus Planet: Dark Fate" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="148275" Issue="971689" />
+</Book>
+<Book Series="Lazarus Planet: Omega" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="148477" Issue="973003" />
+</Book>
+<Book Series="Spirit World" Number="1" Volume="2023" Year="2023">
+<Database Name="cv" Series="150173" Issue="988094" />
+</Book>
+<Book Series="Spirit World" Number="2" Volume="2023" Year="2023">
+<Database Name="cv" Series="150173" Issue="994242" />
+</Book>
+<Book Series="Spirit World" Number="3" Volume="2023" Year="2023">
+<Database Name="cv" Series="150173" Issue="1000075" />
+</Book>
+<Book Series="Spirit World" Number="4" Volume="2023" Year="2023">
+<Database Name="cv" Series="150173" Issue="1006532" />
+</Book>
+<Book Series="Spirit World" Number="5" Volume="2023" Year="2023">
+<Database Name="cv" Series="150173" Issue="1018011" />
+</Book>
+<Book Series="Spirit World" Number="6" Volume="2023" Year="2023">
+<Database Name="cv" Series="150173" Issue="1027363" />
+</Book>
+<Book Series="Birds of Prey" Number="11" Volume="2023" Year="2024">
+<Database Name="cv" Series="153328" Issue="1061835" />
+</Book>
+<Book Series="Birds of Prey" Number="12" Volume="2023" Year="2024">
+<Database Name="cv" Series="153328" Issue="1066102" />
+</Book>
+<Book Series="Birds of Prey" Number="13" Volume="2023" Year="2024">
+<Database Name="cv" Series="153328" Issue="1068553" />
+</Book>
+<Book Series="Birds of Prey" Number="18" Volume="2023" Year="2025">
+<Database Name="cv" Series="153328" Issue="1094351" />
+</Book>
+<Book Series="Birds of Prey" Number="19" Volume="2023" Year="2025">
+<Database Name="cv" Series="153328" Issue="1097703" />
 </Book>
 </Books>
 <Matchers />
