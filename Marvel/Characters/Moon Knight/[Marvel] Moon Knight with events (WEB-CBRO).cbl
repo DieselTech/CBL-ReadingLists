@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Moon Knight with events (WEB-CBRO)</Name>
-<NumIssues>247</NumIssues>
+<NumIssues>250</NumIssues>
 <Books>
 <Book Series="Werewolf by Night" Number="32" Volume="1972" Year="1975">
 <Database Name="cv" Series="2584" Issue="15507" />
@@ -750,7 +750,9 @@
 <Book Series="Moon Knight: Fist of Khonshu" Number="14" Volume="2024" Year="2026">
 <Database Name="cv" Series="158721" Issue="1141926" />
 </Book>
+<Book Series="Moon Knight: Fist of Khonshu" Number="15" Volume="2024" Year="2026">
+<Database Name="cv" Series="158721" Issue="1148739" />
+</Book>
 </Books>
 <Matchers />
 </ReadingList>
-

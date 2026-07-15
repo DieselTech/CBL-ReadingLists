@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Thor no events (WEB-CBRO)</Name>
-<NumIssues>490</NumIssues>
+<NumIssues>491</NumIssues>
 <Books>
 <Book Series="Thor: Son of Asgard" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="21670" Issue="130751" />
@@ -1469,6 +1469,9 @@
 </Book>
 <Book Series="Thor" Number="9" Volume="2025" Year="2026">
 <Database Name="cv" Series="166460" Issue="1162509" />
+</Book>
+<Book Series="Thor" Number="10" Volume="2025" Year="2026">
+<Database Name="cv" Series="166460" Issue="1166455" />
 </Book>
 </Books>
 <Matchers />

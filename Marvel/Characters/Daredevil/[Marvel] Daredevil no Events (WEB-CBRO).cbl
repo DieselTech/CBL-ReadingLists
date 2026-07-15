@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Name>[Marvel] Daredevil no Events (WEB-CBRO)</Name>
+<Name>[Marvel] Daredevil no events (WEB-CBRO)</Name>
 <NumIssues>444</NumIssues>
 <Books>
 <Book Series="Daredevil: The Man Without Fear" Number="1" Volume="1993" Year="1993">
@@ -141,17 +141,17 @@
 <Book Series="Daredevil" Number="219" Volume="1964" Year="1985">
 <Database Name="cv" Series="2190" Issue="25580" />
 </Book>
-<Book Series="Peter Parker, the Spectacular Spider-Man" Number="107" Volume="1980" Year="1985">
-<Database Name="cv" Series="139754" Issue="25993" />
+<Book Series="The Spectacular Spider-Man" Number="107" Volume="1976" Year="1985">
+<Database Name="cv" Series="2870" Issue="25993" />
 </Book>
-<Book Series="Peter Parker, the Spectacular Spider-Man" Number="108" Volume="1980" Year="1985">
-<Database Name="cv" Series="139754" Issue="26099" />
+<Book Series="The Spectacular Spider-Man" Number="108" Volume="1976" Year="1985">
+<Database Name="cv" Series="2870" Issue="26099" />
 </Book>
-<Book Series="Peter Parker, the Spectacular Spider-Man" Number="109" Volume="1980" Year="1985">
-<Database Name="cv" Series="139754" Issue="26205" />
+<Book Series="The Spectacular Spider-Man" Number="109" Volume="1976" Year="1985">
+<Database Name="cv" Series="2870" Issue="26205" />
 </Book>
-<Book Series="Peter Parker, the Spectacular Spider-Man" Number="110" Volume="1980" Year="1986">
-<Database Name="cv" Series="139754" Issue="26409" />
+<Book Series="The Spectacular Spider-Man" Number="110" Volume="1976" Year="1986">
+<Database Name="cv" Series="2870" Issue="26409" />
 </Book>
 <Book Series="Marvel Graphic Novel" Number="24" Volume="1982" Year="1986">
 <Database Name="cv" Series="3144" Issue="134231" />
@@ -822,7 +822,7 @@
 <Book Series="Daredevil" Number="1" Volume="2014" Year="2014">
 <Database Name="cv" Series="72417" Issue="447992" />
 </Book>
-<Book Series="Daredevil" Number="1.50" Volume="2014" Year="2014">
+<Book Series="Daredevil" Number="1.5" Volume="2014" Year="2014">
 <Database Name="cv" Series="72417" Issue="450072" />
 </Book>
 <Book Series="Daredevil" Number="2" Volume="2014" Year="2014">
@@ -1293,4 +1293,3 @@
 </Books>
 <Matchers />
 </ReadingList>
-
