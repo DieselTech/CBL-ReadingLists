@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Guardians of the Galaxy (2008) no events (WEB-CBRO)</Name>
-<NumIssues>231</NumIssues>
+<NumIssues>230</NumIssues>
 <Books>
 <Book Series="Guardians of the Galaxy" Number="4" Volume="2008" Year="2008">
 <Database Name="cv" Series="21550" Issue="136047" />

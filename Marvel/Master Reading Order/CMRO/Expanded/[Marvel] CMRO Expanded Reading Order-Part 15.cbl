@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 15</Name>
-<NumIssues>999</NumIssues>
+<NumIssues>998</NumIssues>
 <Books>
 <Book Series="NFL Superpro" Number="2" Volume="1991" Year="1991">
 <Database Name="cv" Series="20476" Issue="122640" />

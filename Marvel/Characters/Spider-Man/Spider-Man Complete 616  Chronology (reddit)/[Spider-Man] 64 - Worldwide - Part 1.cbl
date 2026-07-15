@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Spider-Man] 64 - Worldwide - Part 1</Name>
-<NumIssues>63</NumIssues>
+<NumIssues>62</NumIssues>
 <Books>
 <Book Series="The Amazing Spider-Man" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="85076" Issue="502108" />

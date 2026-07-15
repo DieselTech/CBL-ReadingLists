@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #03 (WEB-CBRO)</Name>
-<NumIssues>1072</NumIssues>
+<NumIssues>1069</NumIssues>
 <Books>
 <Book Series="Robin" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4563" Issue="33743" />

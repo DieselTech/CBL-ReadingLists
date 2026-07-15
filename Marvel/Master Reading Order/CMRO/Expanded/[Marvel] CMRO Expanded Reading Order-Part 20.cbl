@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 20</Name>
-<NumIssues>991</NumIssues>
+<NumIssues>988</NumIssues>
 <Books>
 <Book Series="Conan the Barbarian: The Usurper" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="22914" Issue="137576" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [2005-2011] DnA's Marvel Cosmic Saga</Name>
-<NumIssues>177</NumIssues>
+<NumIssues>174</NumIssues>
 <Books>
 <Book Series="Drax the Destroyer" Number="1" Volume="2005" Year="2005">
 <Database Name="cv" Series="18291" Issue="107044" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2019-2021] X-Men Era Twenty-Five Dawn of X (UXRO)</Name>
-<NumIssues>141</NumIssues>
+<NumIssues>139</NumIssues>
 <Books>
 <Book Series="House of X" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120309" Issue="714236" />

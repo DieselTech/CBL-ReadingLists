@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Wolverine no Events (WEB-CBRO)</Name>
-<NumIssues>600</NumIssues>
+<NumIssues>599</NumIssues>
 <Books>
 <Book Series="Wolverine: The Origin" Number="1" Volume="2001" Year="2001">
 <Database Name="cv" Series="18649" Issue="110022" />

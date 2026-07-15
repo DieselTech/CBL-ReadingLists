@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [2004-2013] Avengers by Brian Michael Bendis</Name>
-<NumIssues>434</NumIssues>
+<NumIssues>433</NumIssues>
 <Books>
 <Book Series="Avengers" Number="500" Volume="1998" Year="2004">
 <Database Name="cv" Series="7084" Issue="90338" />

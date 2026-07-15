@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 21</Name>
-<NumIssues>995</NumIssues>
+<NumIssues>990</NumIssues>
 <Books>
 <Book Series="Slingers" Number="4" Volume="1998" Year="1999">
 <Database Name="cv" Series="11305" Issue="99242" />

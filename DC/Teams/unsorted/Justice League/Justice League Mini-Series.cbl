@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Justice League Mini-Series</Name>
-  <NumIssues>133</NumIssues>
+  <NumIssues>132</NumIssues>
   <Books>
     <Book Series="Amazing Adventures of the JLA" Number="1" Volume="2006" Year="2006">
       <Database Name="cv" Series="28069" Issue="172319" />

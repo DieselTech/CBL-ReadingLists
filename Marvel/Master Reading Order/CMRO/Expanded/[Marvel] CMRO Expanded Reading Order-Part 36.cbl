@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 36</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>999</NumIssues>
 <Books>
 <Book Series="Silver Surfer" Number="13" Volume="2016" Year="2017">
 <Database Name="cv" Series="87449" Issue="615030" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 12</Name>
-<NumIssues>999</NumIssues>
+<NumIssues>995</NumIssues>
 <Books>
 <Book Series="Cloak and Dagger" Number="5" Volume="1985" Year="1986">
 <Database Name="cv" Series="3475" Issue="26596" />

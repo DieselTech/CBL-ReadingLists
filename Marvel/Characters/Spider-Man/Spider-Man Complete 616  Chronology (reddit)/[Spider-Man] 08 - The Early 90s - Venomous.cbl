@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Spider-Man] 08 - The Early 90s - Venomous</Name>
-<NumIssues>194</NumIssues>
+<NumIssues>193</NumIssues>
 <Books>
 <Book Series="The Amazing Spider-Man" Number="296" Volume="1963" Year="1988">
 <Database Name="cv" Series="2127" Issue="29137" />

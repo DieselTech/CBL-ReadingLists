@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [1961-2026] Fantastic Four (WEB-CBRO)</Name>
-<NumIssues>521</NumIssues>
+<NumIssues>520</NumIssues>
 <Books>
 <Book Series="Fantastic Four: Season One" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="45689" Issue="314626" />

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Essential Reading Order-Part 07</Name>
-<NumIssues>937</NumIssues>
+<NumIssues>936</NumIssues>
 <Books>
 <Book Series="Deadpool" Number="15" Volume="2015" Year="2016">
 <Database Name="cv" Series="85750" Issue="539241" />

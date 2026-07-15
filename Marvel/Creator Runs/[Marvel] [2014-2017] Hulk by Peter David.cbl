@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [2014-2017] Hulk by Peter David</Name>
-<NumIssues>208</NumIssues>
+<NumIssues>202</NumIssues>
 <Books>
 <Book Series="The Incredible Hulk" Number="328" Volume="1968" Year="1987">
 <Database Name="cv" Series="2406" Issue="27793" />

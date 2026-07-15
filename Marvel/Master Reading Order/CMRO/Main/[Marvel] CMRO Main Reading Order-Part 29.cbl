@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 29</Name>
-<NumIssues>999</NumIssues>
+<NumIssues>998</NumIssues>
 <Books>
 <Book Series="New Mutants" Number="17" Volume="2020" Year="2021">
 <Database Name="cv" Series="122666" Issue="846089" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1993-1995] X-Men Era Seven The Age of Apocalypse (UXRO)</Name>
-<NumIssues>150</NumIssues>
+<NumIssues>148</NumIssues>
 <Books>
 <Book Series="X-Force" Number="29" Volume="1991" Year="1993">
 <Database Name="cv" Series="4604" Issue="64506" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Batman no events (WEB-CBRO)</Name>
-<NumIssues>1158</NumIssues>
+<NumIssues>1156</NumIssues>
 <Books>
 <Book Series="Detective Comics" Number="27" Volume="1937" Year="1939">
 <Database Name="cv" Series="18058" Issue="105764" />

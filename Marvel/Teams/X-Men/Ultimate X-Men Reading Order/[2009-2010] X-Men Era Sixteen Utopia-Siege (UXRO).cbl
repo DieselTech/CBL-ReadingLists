@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2009-2010] X-Men Era Sixteen Utopia-Siege (UXRO)</Name>
-<NumIssues>187</NumIssues>
+<NumIssues>161</NumIssues>
 <Books>
 <Book Series="Black Panther" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25638" Issue="151135" />

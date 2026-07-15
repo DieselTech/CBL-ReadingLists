@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] [1975-1991] Complete X-Titles by Chris Claremont</Name>
-<NumIssues>545</NumIssues>
+<NumIssues>544</NumIssues>
 <Books>
 <Book Series="Giant-Size X-Men" Number="1" Volume="1975" Year="1975">
 <Database Name="cv" Series="2763" Issue="14890" />

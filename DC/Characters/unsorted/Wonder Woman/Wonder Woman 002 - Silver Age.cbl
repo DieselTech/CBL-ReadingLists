@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Wonder Woman 002 - Silver Age</Name>
-  <NumIssues>279</NumIssues>
+  <NumIssues>280</NumIssues>
   <Books>
     <Book Series="Wonder Woman" Number="87" Volume="1942" Year="1957">
       <Database Name="cv" Series="18525" Issue="109086" />

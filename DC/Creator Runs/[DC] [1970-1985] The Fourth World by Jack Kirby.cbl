@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] [1970-1985] The Fourth World by Jack Kirby</Name>
-<NumIssues>57</NumIssues>
+<NumIssues>56</NumIssues>
 <Books>
 <Book Series="Superman's Pal, Jimmy Olsen" Number="133" Volume="1954" Year="1970">
 <Database Name="cv" Series="19172" Issue="131243" />

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 24</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>999</NumIssues>
 <Books>
 <Book Series="Cyclops" Number="9" Volume="2014" Year="2015">
 <Database Name="cv" Series="73677" Issue="475934" />

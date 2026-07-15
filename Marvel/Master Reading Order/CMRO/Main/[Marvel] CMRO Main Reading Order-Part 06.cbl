@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Main Reading Order-Part 06</Name>
-<NumIssues>1000</NumIssues>
+<NumIssues>998</NumIssues>
 <Books>
 <Book Series="Daredevil" Number="208" Volume="1964" Year="1984">
 <Database Name="cv" Series="2190" Issue="24500" />

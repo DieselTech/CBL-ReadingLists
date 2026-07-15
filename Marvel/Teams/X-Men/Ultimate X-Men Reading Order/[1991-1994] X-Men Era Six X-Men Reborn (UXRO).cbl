@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[1991-1994] X-Men Era Six X-Men Reborn (UXRO)</Name>
-<NumIssues>236</NumIssues>
+<NumIssues>234</NumIssues>
 <Books>
 <Book Series="Wolverine" Number="38" Volume="1988" Year="1991">
 <Database Name="cv" Series="4250" Issue="64301" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2012-2013] X-Men Era Eighteen.One The Return of The Phoenix (UXRO)</Name>
-<NumIssues>123</NumIssues>
+<NumIssues>85</NumIssues>
 <Books>
 <Book Series="Uncanny X-Men" Number="9" Volume="2011" Year="2012">
 <Database Name="cv" Series="43785" Issue="322747" />

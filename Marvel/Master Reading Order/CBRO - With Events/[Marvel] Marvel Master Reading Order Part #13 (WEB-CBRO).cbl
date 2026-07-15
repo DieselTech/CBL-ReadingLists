@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Marvel Master Reading Order Part #13 (WEB-CBRO)</Name>
-<NumIssues>886</NumIssues>
+<NumIssues>866</NumIssues>
 <Books>
 <Book Series="Marvel&apos;s Voices: Legacy" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141633" Issue="907458" />

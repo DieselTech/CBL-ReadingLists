@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 17</Name>
-<NumIssues>989</NumIssues>
+<NumIssues>988</NumIssues>
 <Books>
 <Book Series="Midnight Sons Unlimited" Number="4" Volume="1993" Year="1994">
 <Database Name="cv" Series="9097" Issue="66512" />

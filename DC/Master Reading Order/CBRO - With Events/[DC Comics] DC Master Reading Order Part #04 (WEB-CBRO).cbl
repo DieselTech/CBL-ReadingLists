@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] DC Master Reading Order Part #04 (WEB-CBRO)</Name>
-<NumIssues>1066</NumIssues>
+<NumIssues>1063</NumIssues>
 <Books>
 <Book Series="JLA Secret Files" Number="1" Volume="1997" Year="1997">
 <Database Name="cv" Series="6166" Issue="78349" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] Daredevil no Events (WEB-CBRO)</Name>
-<NumIssues>444</NumIssues>
+<NumIssues>429</NumIssues>
 <Books>
 <Book Series="Daredevil: The Man Without Fear" Number="1" Volume="1993" Year="1993">
 <Database Name="cv" Series="5000" Issue="37946" />

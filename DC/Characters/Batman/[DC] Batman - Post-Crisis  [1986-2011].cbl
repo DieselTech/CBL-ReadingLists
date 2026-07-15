@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] Batman - Post-Crisis  [1986-2011]</Name>
-<NumIssues>2883</NumIssues>
+<NumIssues>2866</NumIssues>
 <Books>
 <Book Series="Batman" Number="401" Volume="1940" Year="1986">
 <Database Name="cv" Series="796" Issue="27328" />

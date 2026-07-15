@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2022-2023] X-Men - Destiny of X (Marvel)(LoCG)</Name>
-<NumIssues>231</NumIssues>
+<NumIssues>240</NumIssues>
 <Books>
 <Book Series="X Lives of Wolverine" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="141332" Issue="903920" />

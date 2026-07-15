@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Essential Superman 001 (Post-Crisis 1)</Name>
-  <NumIssues>227</NumIssues>
+  <NumIssues>232</NumIssues>
   <Books>
     <Book Series="Superman: The Man of Steel" Number="1" Volume="2003" Year="2003">
       <Database Name="cv" Series="56984" Issue="385574" />

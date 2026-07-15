@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] CMRO Expanded Reading Order-Part 32</Name>
-<NumIssues>998</NumIssues>
+<NumIssues>997</NumIssues>
 <Books>
 <Book Series="Dark Avengers" Number="176" Volume="2012" Year="2012">
 <Database Name="cv" Series="50701" Issue="346978" />
