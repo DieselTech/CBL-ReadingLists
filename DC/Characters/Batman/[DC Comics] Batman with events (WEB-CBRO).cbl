@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Batman with events (WEB-CBRO)</Name>
-<NumIssues>2122</NumIssues>
+<NumIssues>2118</NumIssues>
 <Books>
 <Book Series="Detective Comics" Number="27" Volume="1937" Year="1939">
 <Database Name="cv" Series="18058" Issue="105764" />
@@ -2310,15 +2310,6 @@
 <Book Series="JSA: Classified" Number="9" Volume="2005" Year="2006">
 <Database Name="cv" Series="18120" Issue="126505" />
 </Book>
-<Book Series="Batman" Number="648" Volume="1940" Year="2006">
-<Database Name="cv" Series="796" Issue="122357" />
-</Book>
-<Book Series="Batman" Number="649" Volume="1940" Year="2006">
-<Database Name="cv" Series="796" Issue="121731" />
-</Book>
-<Book Series="Batman" Number="650" Volume="1940" Year="2006">
-<Database Name="cv" Series="796" Issue="122055" />
-</Book>
 <Book Series="Infinite Crisis" Number="4" Volume="2005" Year="2006">
 <Database Name="cv" Series="17983" Issue="105306" />
 </Book>
@@ -2393,9 +2384,6 @@
 </Book>
 <Book Series="Infinite Crisis Secret Files 2006" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="21773" Issue="131296" />
-</Book>
-<Book Series="Batman Annual" Number="25" Volume="1961" Year="2006">
-<Database Name="cv" Series="3109" Issue="117977" />
 </Book>
 <Book Series="Infinite Crisis" Number="6" Volume="2005" Year="2006">
 <Database Name="cv" Series="17983" Issue="122054" />
