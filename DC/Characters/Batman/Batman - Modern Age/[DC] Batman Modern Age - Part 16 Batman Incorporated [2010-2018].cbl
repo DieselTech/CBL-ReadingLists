@@ -190,7 +190,7 @@
 <Database Name="cv" Series="27457" Issue="269823" />
 </Book>
 <Book Series="Batgirl" Number="22" Volume="2009" Year="2011">
-<Database Name="cv" Series="27457" Issue="247395" />
+<Database Name="cv" Series="27457" Issue="274395" />
 </Book>
 <Book Series="Batgirl" Number="23" Volume="2009" Year="2011">
 <Database Name="cv" Series="27457" Issue="278609" />
