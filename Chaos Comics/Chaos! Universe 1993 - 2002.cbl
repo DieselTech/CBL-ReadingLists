@@ -232,7 +232,7 @@
 <Database Name="cv" Series="20415" Issue="122184" />
 </Book>
 <Book Series="Vampirella" Number="9" Volume="1997" Year="1998">
-<Database Name="cv" Series="20415" Issue="676962" />
+<Database Name="cv" Series="20415" Issue="122183" />
 </Book>
 <Book Series="Lady Death" Number="5" Volume="1997" Year="1998">
 <Database Name="cv" Series="20760" Issue="124514" />
@@ -262,7 +262,7 @@
 <Database Name="cv" Series="20740" Issue="124419" />
 </Book>
 <Book Series="Evil Ernie" Number="3" Volume="1998" Year="1998">
-<Database Name="cv" Series="52543" Issue="116199" />
+<Database Name="cv" Series="19385" Issue="116199" />
 </Book>
 <Book Series="Lady Death: Retribution" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="20794" Issue="124655" />
@@ -292,13 +292,13 @@
 <Database Name="cv" Series="20760" Issue="124518" />
 </Book>
 <Book Series="Evil Ernie" Number="4" Volume="1998" Year="1998">
-<Database Name="cv" Series="52543" Issue="116200" />
+<Database Name="cv" Series="19385" Issue="116200" />
 </Book>
 <Book Series="Evil Ernie" Number="5" Volume="1998" Year="1998">
-<Database Name="cv" Series="52543" Issue="116201" />
+<Database Name="cv" Series="19385" Issue="116201" />
 </Book>
 <Book Series="Evil Ernie" Number="6" Volume="1998" Year="1998">
-<Database Name="cv" Series="52543" Issue="116202" />
+<Database Name="cv" Series="19385" Issue="116202" />
 </Book>
 <Book Series="Chastity: Rocked" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="20907" Issue="125265" />
@@ -310,7 +310,7 @@
 <Database Name="cv" Series="20808" Issue="124739" />
 </Book>
 <Book Series="Evil Ernie" Number="7" Volume="1998" Year="1999">
-<Database Name="cv" Series="52543" Issue="116203" />
+<Database Name="cv" Series="19385" Issue="116203" />
 </Book>
 <Book Series="Vampirella" Number="13" Volume="1997" Year="1999">
 <Database Name="cv" Series="20415" Issue="122120" />
@@ -319,7 +319,7 @@
 <Database Name="cv" Series="20415" Issue="123635" />
 </Book>
 <Book Series="Vampirella" Number="15" Volume="1997" Year="1999">
-<Database Name="cv" Series="20415" Issue="123686" />
+<Database Name="cv" Series="20415" Issue="123636" />
 </Book>
 <Book Series="Purgatori" Number="4" Volume="1998" Year="1999">
 <Database Name="cv" Series="19829" Issue="118973" />
@@ -346,13 +346,13 @@
 <Database Name="cv" Series="20760" Issue="124525" />
 </Book>
 <Book Series="Evil Ernie" Number="8" Volume="1998" Year="1999">
-<Database Name="cv" Series="52543" Issue="116204" />
+<Database Name="cv" Series="19385" Issue="116204" />
 </Book>
 <Book Series="Evil Ernie" Number="9" Volume="1998" Year="1999">
-<Database Name="cv" Series="52543" Issue="116205" />
+<Database Name="cv" Series="19385" Issue="116205" />
 </Book>
 <Book Series="Evil Ernie" Number="10" Volume="1998" Year="1999">
-<Database Name="cv" Series="52543" Issue="116206" />
+<Database Name="cv" Series="19385" Issue="116206" />
 </Book>
 <Book Series="Chastity: Rocked" Number="3" Volume="1998" Year="1999">
 <Database Name="cv" Series="20907" Issue="125286" />
