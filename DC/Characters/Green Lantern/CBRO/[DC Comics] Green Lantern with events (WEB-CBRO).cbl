@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Green Lantern with events (WEB-CBRO)</Name>
-<NumIssues>1064</NumIssues>
+<NumIssues>1063</NumIssues>
 <Books>
 <Book Series="DC: The New Frontier" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="10939" Issue="93962" />
@@ -1448,9 +1448,6 @@
 </Book>
 <Book Series="Brightest Day Aftermath: The Search for Swamp Thing" Number="3" Volume="2011" Year="2011">
 <Database Name="cv" Series="40863" Issue="288687" />
-</Book>
-<Book Series="Green Lantern: Emerald Warriors" Number="7" Volume="2010" Year="2011">
-<Database Name="cv" Series="34838" Issue="261123" />
 </Book>
 <Book Series="Green Lantern" Number="63" Volume="2005" Year="2011">
 <Database Name="cv" Series="18216" Issue="264584" />
