@@ -435,8 +435,8 @@
 <Book Series="Power Rangers Unlimited: The Death Ranger" Number="1" Volume="2022" Year="2022">
 <Database Name="cv" Series="144890" Issue="945155" />
 </Book>
-<Book Series="Mighty Morphin" Number="100" Volume="2020" Year="2022">
-<Database Name="cv" Series="131698" Issue="949165" />
+<Book Series="Mighty Morphin Power Rangers" Number="100" Volume="2016" Year="2022">
+<Database Name="cv" Series="87332" Issue="949165" />
 </Book>
 <Book Series="Mighty Morphin Power Rangers" Number="101" Volume="2016" Year="2022">
 <Database Name="cv" Series="87332" Issue="952566" />
