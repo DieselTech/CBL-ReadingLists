@@ -2024,6 +2024,7 @@
 </Book>
 <Book Series="Batman" Number="633" Volume="1940" Year="2004">
 <Database Name="cv" Series="796" Issue="100888" />
+</Book>
 <Book Series="Batman" Number="634" Volume="1940" Year="2005">
 <Database Name="cv" Series="796" Issue="100889" />
 </Book>
