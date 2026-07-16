@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Batman with events (WEB-CBRO)</Name>
-<NumIssues>2123</NumIssues>
+<NumIssues>2122</NumIssues>
 <Books>
 <Book Series="Detective Comics" Number="27" Volume="1937" Year="1939">
 <Database Name="cv" Series="18058" Issue="105764" />
@@ -2024,10 +2024,6 @@
 </Book>
 <Book Series="Batman" Number="633" Volume="1940" Year="2004">
 <Database Name="cv" Series="796" Issue="100888" />
-</Book>
-<Book Series="Detective Comics" Number="800" Volume="1937" Year="2005">
-<Database Name="cv" Series="18058" Issue="112049" />
-</Book>
 <Book Series="Batman" Number="634" Volume="1940" Year="2005">
 <Database Name="cv" Series="796" Issue="100889" />
 </Book>
