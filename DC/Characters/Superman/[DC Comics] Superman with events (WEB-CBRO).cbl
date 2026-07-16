@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC Comics] Superman with events (WEB-CBRO)</Name>
-<NumIssues>888</NumIssues>
+<NumIssues>887</NumIssues>
 <Books>
 <Book Series="Action Comics" Number="1" Volume="1938" Year="1938">
 <Database Name="cv" Series="18005" Issue="105403" />
