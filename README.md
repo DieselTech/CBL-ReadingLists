@@ -35,6 +35,7 @@ There are only a handful of software packages out there that can consume `.CBL` 
 - [ComicRack CE](https://github.com/maforget/ComicRackCE)
 - [Mylar](https://github.com/MylarComics/mylar3)
 - [CLU-Comics](https://github.com/allaboutduncan/clu-comics)
+- [ComicHero](https://github.com/Lofter1/ComicHero)
 
 # Contributing
 We are looking for people who want to assist in the efforts to make the best reading lists possible.
