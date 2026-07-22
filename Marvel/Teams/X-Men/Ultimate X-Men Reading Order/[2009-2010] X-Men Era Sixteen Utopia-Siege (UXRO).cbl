@@ -96,6 +96,9 @@
 <Book Series="Nation X" Number="2" Volume="2010" Year="2010">
 <Database Name="cv" Series="30313" Issue="192469" />
 </Book>
+<Book Series="Fall of the Hulks: Alpha" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="30188" Issue="186112" />
+</Book>
 <Book Series="Hulk" Number="14" Volume="2008" Year="2009">
 <Database Name="cv" Series="20291" Issue="168325" />
 </Book>
@@ -119,6 +122,9 @@
 </Book>
 <Book Series="Hulk" Number="18" Volume="2008" Year="2010">
 <Database Name="cv" Series="20291" Issue="187739" />
+</Book>
+<Book Series="Fall of the Hulks: Gamma" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="30681" Issue="189503" />
 </Book>
 <Book Series="Hulk" Number="19" Volume="2008" Year="2010">
 <Database Name="cv" Series="20291" Issue="193347" />
@@ -222,8 +228,8 @@
 <Book Series="X-Force" Number="25" Volume="2008" Year="2010">
 <Database Name="cv" Series="20511" Issue="202489" />
 </Book>
-<Book Series="X-Force" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="20511" Issue="122783" />
+<Book Series="X-Force Annual" Number="1" Volume="2009" Year="2010">
+<Database Name="cv" Series="30173" Issue="185752" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="518" Volume="1981" Year="2010">
 <Database Name="cv" Series="3092" Issue="185623" />
@@ -329,6 +335,9 @@
 </Book>
 <Book Series="Siege" Number="4" Volume="2010" Year="2010">
 <Database Name="cv" Series="30904" Issue="213449" />
+</Book>
+<Book Series="New Avengers Finale" Number="1" Volume="2010" Year="2010">
+<Database Name="cv" Series="33091" Issue="213493" />
 </Book>
 <Book Series="Dark Avengers" Number="16" Volume="2009" Year="2010">
 <Database Name="cv" Series="25512" Issue="213510" />
