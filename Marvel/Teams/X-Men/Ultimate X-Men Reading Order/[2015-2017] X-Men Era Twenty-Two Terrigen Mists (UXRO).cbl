@@ -84,13 +84,13 @@
 <Book Series="Uncanny X-Men" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="87190" Issue="521347" />
 </Book>
-<Book Series="All-New X-Men" Number="1" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="507175" />
 </Book>
-<Book Series="All-New X-Men" Number="2" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="2" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="508422" />
 </Book>
-<Book Series="All-New X-Men" Number="3" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="3" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="510935" />
 </Book>
 <Book Series="Extraordinary X-Men" Number="6" Volume="2015" Year="2016">
@@ -171,19 +171,19 @@
 <Book Series="Civil War II" Number="8" Volume="2016" Year="2017">
 <Database Name="cv" Series="90521" Issue="571661" />
 </Book>
-<Book Series="All-New X-Men" Number="4" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="4" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="514431" />
 </Book>
-<Book Series="All-New X-Men" Number="5" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="5" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="516946" />
 </Book>
-<Book Series="All-New X-Men" Number="6" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="6" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="520195" />
 </Book>
-<Book Series="All-New X-Men" Number="7" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="7" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="522423" />
 </Book>
-<Book Series="All-New X-Men" Number="8" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="8" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="525018" />
 </Book>
 <Book Series="Uncanny X-Men" Number="6" Volume="2016" Year="2016">
@@ -201,13 +201,13 @@
 <Book Series="Uncanny X-Men" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="87190" Issue="540092" />
 </Book>
-<Book Series="All-New X-Men" Number="9" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="9" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="529649" />
 </Book>
-<Book Series="All-New X-Men" Number="10" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="10" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="534277" />
 </Book>
-<Book Series="All-New X-Men" Number="11" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="11" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="539233" />
 </Book>
 <Book Series="Extraordinary X-Men" Number="8" Volume="2015" Year="2016">
@@ -237,19 +237,19 @@
 <Book Series="Extraordinary X-Men" Number="16" Volume="2015" Year="2017">
 <Database Name="cv" Series="85756" Issue="562593" />
 </Book>
-<Book Series="All-New X-Men" Number="12" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="12" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="543744" />
 </Book>
-<Book Series="All-New X-Men" Number="13" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="13" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="549510" />
 </Book>
-<Book Series="All-New X-Men" Number="14" Volume="2015" Year="2016">
+<Book Series="All-New X-Men" Number="14" Volume="2016" Year="2016">
 <Database Name="cv" Series="86334" Issue="553944" />
 </Book>
-<Book Series="All-New X-Men" Number="15" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="15" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="557353" />
 </Book>
-<Book Series="All-New X-Men" Number="16" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="16" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="566702" />
 </Book>
 <Book Series="Uncanny X-Men" Number="11" Volume="2016" Year="2016">
@@ -309,8 +309,8 @@
 <Book Series="Champions" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="579308" />
 </Book>
-<Book Series="Monsters Unleashed!" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="102607" Issue="606633" />
+<Book Series="All-New X-Men" Number="1.MU" Volume="2016" Year="2017">
+<Database Name="cv" Series="86334" Issue="579304" />
 </Book>
 <Book Series="Monsters Unleashed!" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="576629" />
@@ -369,13 +369,13 @@
 <Book Series="Extraordinary X-Men" Number="18" Volume="2015" Year="2017">
 <Database Name="cv" Series="85756" Issue="578459" />
 </Book>
-<Book Series="All-New X-Men" Number="17" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="17" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="576612" />
 </Book>
 <Book Series="IvX" Number="2" Volume="2016" Year="2017">
 <Database Name="cv" Series="96144" Issue="575870" />
 </Book>
-<Book Series="All-New X-Men" Number="18" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="18" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="579303" />
 </Book>
 <Book Series="IvX" Number="3" Volume="2016" Year="2017">
@@ -405,7 +405,7 @@
 <Book Series="Uncanny X-Men" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="87190" Issue="587422" />
 </Book>
-<Book Series="All-New X-Men" Number="19" Volume="2015" Year="2017">
+<Book Series="All-New X-Men" Number="19" Volume="2016" Year="2017">
 <Database Name="cv" Series="86334" Issue="589821" />
 </Book>
 </Books>
