@@ -309,8 +309,8 @@
 <Book Series="Champions" Number="5" Volume="2016" Year="2017">
 <Database Name="cv" Series="94612" Issue="579308" />
 </Book>
-<Book Series="Monsters Unleashed!" Number="1" Volume="2017" Year="2017">
-<Database Name="cv" Series="102607" Issue="606633" />
+<Book Series="All-New X-Men" Number="1.MU" Volume="2015" Year="2017">
+<Database Name="cv" Series="86334" Issue="579304" />
 </Book>
 <Book Series="Monsters Unleashed!" Number="1" Volume="2017" Year="2017">
 <Database Name="cv" Series="98067" Issue="576629" />
