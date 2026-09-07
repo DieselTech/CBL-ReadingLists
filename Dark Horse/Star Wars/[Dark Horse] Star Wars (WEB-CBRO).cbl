@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Dark Horse] Star Wars (WEB-CBRO)</Name>
-<NumIssues>756</NumIssues>
+<NumIssues>755</NumIssues>
 <Books>
 <Book Series="Star Wars: Dawn of the Jedi - Force Storm" Number="1" Volume="2012" Year="2012">
 <Database Name="cv" Series="45577" Issue="315870" />
@@ -154,7 +154,7 @@
 <Database Name="cv" Series="28242" Issue="173740" />
 </Book>
 <Book Series="Star Wars: Knights of the Old Republic" Number="0" Volume="2006" Year="2006">
-<Database Name="cv" Series="18937" Issue="123551" />
+<Database Name="cv" Series="175889" Issue="174148" />
 </Book>
 <Book Series="Star Wars: Knights of the Old Republic" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18937" Issue="120447" />
@@ -1445,9 +1445,6 @@
 </Book>
 <Book Series="Star Wars: Empire" Number="40" Volume="2002" Year="2006">
 <Database Name="cv" Series="21677" Issue="165541" />
-</Book>
-<Book Series="Star Wars: Rebellion" Number="0" Volume="2006" Year="2006">
-<Database Name="cv" Series="18864" Issue="174148" />
 </Book>
 <Book Series="Star Wars: Rebellion" Number="1" Volume="2006" Year="2006">
 <Database Name="cv" Series="18864" Issue="120509" />
