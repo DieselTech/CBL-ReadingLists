@@ -612,8 +612,8 @@
 <Book Series="Teenage Mutant Ninja Turtles" Number="101" Volume="2011" Year="2019">
 <Database Name="cv" Series="42285" Issue="732569" />
 </Book>
-<Book Series="Teenage Mutant Ninja Turtles Annual" Number="1" Volume="2021" Year="2021">
-<Database Name="cv" Series="137921" Issue="875459" />
+<Book Series="Teenage Mutant Ninja Turtles Annual" Number="1" Volume="2020" Year="2020">
+<Database Name="cv" Series="129139" Issue="784879" />
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles" Number="102" Volume="2011" Year="2020">
 <Database Name="cv" Series="42285" Issue="735236" />
@@ -1043,6 +1043,15 @@
 </Book>
 <Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="10" Volume="2025" Year="2026">
 <Database Name="cv" Series="166458" Issue="1180019" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="20" Volume="2024" Year="2026">
+<Database Name="cv" Series="159035" Issue="1181817" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles" Number="21" Volume="2024" Year="2026">
+<Database Name="cv" Series="159035" Issue="1188291" />
+</Book>
+<Book Series="Teenage Mutant Ninja Turtles: Shredder" Number="11" Volume="2025" Year="2026">
+<Database Name="cv" Series="166458" Issue="1188292" />
 </Book>
 </Books>
 <Matchers />
