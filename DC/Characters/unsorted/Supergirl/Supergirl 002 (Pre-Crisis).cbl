@@ -319,7 +319,7 @@
       <Database Name="cv" Series="2668" Issue="21909" />
     </Book>
     <Book Series="The Superman Family" Number="216" Volume="1974" Year="1982">
-      <Database Name="cv" Series="2668" Issue="21991" />
+      <Database Name="cv" Series="2668" Issue="553827" />
     </Book>
     <Book Series="The Phantom Zone" Number="2" Volume="1982" Year="1982">
       <Database Name="cv" Series="3120" Issue="21905" />
