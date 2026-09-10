@@ -252,7 +252,7 @@
     <Book Series="Outsiders" Number="1a" Volume="1993" Year="1993">
       <Database Name="cv" Series="22453" Issue="134784" />
     </Book>
-    <Book Series="Outsiders" Number="1" Volume="1993" Year="1993">
+    <Book Series="Outsiders" Number="1o" Volume="1993" Year="1993">
       <Database Name="cv" Series="22453" Issue="134785" />
     </Book>
     <Book Series="Outsiders" Number="2" Volume="1993" Year="1993">
