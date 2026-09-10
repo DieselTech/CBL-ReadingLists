@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[2015-2016] Secret Wars (Marvel Comics)(LoCG)</Name>
-<NumIssues>230</NumIssues>
+<NumIssues>229</NumIssues>
 <Books>
 <Book Series="Black Widow" Number="19" Volume="2014" Year="2015">
 <Database Name="cv" Series="70705" Issue="493038" />
@@ -314,9 +314,6 @@
 </Book>
 <Book Series="Amazing Spider-Man: Renew Your Vows" Number="5" Volume="2015" Year="2015">
 <Database Name="cv" Series="82337" Issue="499739" />
-</Book>
-<Book Series="Armor Wars" Number="1" Volume="2015" Year="2015">
-<Database Name="cv" Series="82340" Issue="490877" />
 </Book>
 <Book Series="Armor Wars" Number="1" Volume="2015" Year="2015">
 <Database Name="cv" Series="82340" Issue="490877" />
