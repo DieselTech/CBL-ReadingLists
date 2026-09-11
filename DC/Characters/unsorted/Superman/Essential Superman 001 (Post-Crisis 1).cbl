@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Essential Superman 001 (Post-Crisis 1)</Name>
-  <NumIssues>232</NumIssues>
+  <NumIssues>265</NumIssues>
   <Books>
     <Book Series="Superman: The Man of Steel" Number="1" Volume="2003" Year="2003">
       <Database Name="cv" Series="56984" Issue="385574" />
@@ -30,11 +30,120 @@
     <Book Series="Superman: The Man of Steel" Number="9" Volume="2003" Year="2016">
       <Database Name="cv" Series="56984" Issue="556461" />
     </Book>
-    <Book Series="The Superman Post-Crisis Chronology" Number="25" Volume="2015" Year="2015" />
-    <Book Series="The Superman Post-Crisis Chronology" Number="26" Volume="2015" Year="2015" />
-    <Book Series="The Superman Post-Crisis Chronology" Number="27" Volume="2015" Year="2015" />
-    <Book Series="The Superman Post-Crisis Chronology" Number="28" Volume="2015" Year="2015" />
-    <Book Series="The Superman Post-Crisis Chronology" Number="29" Volume="2015" Year="2015" />
+    <Book Series="Adventures of Superman" Number="445" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3778" Issue="30121" />
+    </Book>
+    <Book Series="Superman" Number="23" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3816" Issue="30278" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="446" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3778" Issue="30248" />
+    </Book>
+    <Book Series="Superman" Number="24" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3816" Issue="30405" />
+    </Book>
+    <Book Series="Swamp Thing" Number="79" Volume="1986" Year="1988">
+      <Database Name="cv" Series="3465" Issue="30406" />
+    </Book>
+    <Book Series="Superman Annual" Number="2" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3817" Issue="71042" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="447" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3778" Issue="30375" />
+    </Book>
+    <Book Series="Superman" Number="25" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3816" Issue="30500" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="448" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3778" Issue="30549" />
+    </Book>
+    <Book Series="Batman" Number="428" Volume="1940" Year="1988">
+      <Database Name="cv" Series="796" Issue="30541" />
+    </Book>
+    <Book Series="Batman" Number="429" Volume="1940" Year="1989">
+      <Database Name="cv" Series="796" Issue="30725" />
+    </Book>
+    <Book Series="Lex Luthor: The Unauthorized Biography" Number="1" Volume="1989" Year="1989">
+      <Database Name="cv" Series="31763" Issue="199205" />
+    </Book>
+    <Book Series="Action Comics Weekly" Number="642" Volume="1988" Year="1989">
+      <Database Name="cv" Series="3973" Issue="31033" />
+    </Book>
+    <Book Series="Invasion" Number="1" Volume="1989" Year="1988">
+      <Database Name="cv" Series="4197" Issue="30739" />
+    </Book>
+    <Book Series="Invasion! Special: Daily Planet" Number="1" Volume="1988" Year="1988">
+      <Database Name="cv" Series="31758" Issue="199178" />
+    </Book>
+    <Book Series="Superman" Number="26" Volume="1987" Year="1988">
+      <Database Name="cv" Series="3816" Issue="30527" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="449" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="30567" />
+    </Book>
+    <Book Series="Invasion" Number="2" Volume="1989" Year="1988">
+      <Database Name="cv" Series="4197" Issue="30858" />
+    </Book>
+    <Book Series="Superman" Number="27" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3816" Issue="30750" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="450" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="30723" />
+    </Book>
+    <Book Series="Invasion" Number="3" Volume="1989" Year="1989">
+      <Database Name="cv" Series="4197" Issue="30968" />
+    </Book>
+    <Book Series="Superman" Number="28" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3816" Issue="30868" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="451" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="30843" />
+    </Book>
+    <Book Series="Superman" Number="29" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3816" Issue="30978" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="452" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="30954" />
+    </Book>
+    <Book Series="Superman" Number="30" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3816" Issue="31076" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="453" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="31048" />
+    </Book>
+    <Book Series="Superman" Number="31" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3816" Issue="31191" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="454" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="31163" />
+    </Book>
+    <Book Series="Superman" Number="32" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3816" Issue="31303" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="455" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="31271" />
+    </Book>
+    <Book Series="Superman" Number="33" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3816" Issue="31411" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="456" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="31382" />
+    </Book>
+    <Book Series="Action Comics" Number="643" Volume="1938" Year="1989">
+      <Database Name="cv" Series="18005" Issue="112042" />
+    </Book>
+    <Book Series="Superman" Number="34" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3816" Issue="31519" />
+    </Book>
+    <Book Series="Batman and Superman: World's Finest" Number="7" Volume="1999" Year="1999">
+      <Database Name="cv" Series="27795" Issue="170215" />
+    </Book>
+    <Book Series="Adventures of Superman" Number="457" Volume="1987" Year="1989">
+      <Database Name="cv" Series="3778" Issue="31488" />
+    </Book>
+    <Book Series="Action Comics" Number="644" Volume="1938" Year="1989">
+      <Database Name="cv" Series="18005" Issue="118736" />
+    </Book>
     <Book Series="Adventures of Superman" Number="460" Volume="1987" Year="1989">
       <Database Name="cv" Series="3778" Issue="31819" />
     </Book>
