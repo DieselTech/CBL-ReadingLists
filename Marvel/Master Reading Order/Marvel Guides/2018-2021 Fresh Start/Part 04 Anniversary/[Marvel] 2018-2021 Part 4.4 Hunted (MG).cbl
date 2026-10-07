@@ -46,26 +46,14 @@
         <Book Series="The Amazing Spider-Man" Number="16" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="701927" />
         </Book>
-        <Book Series="The Amazing Spider-Man" Number="16" Volume="2018" Year="2019">
-            <Database Name="cv" Series="112161" Issue="701927" />
-        </Book>
         <Book Series="The Amazing Spider-Man" Number="17" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="703044" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="18" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="704802" />
         </Book>
-        <Book Series="The Amazing Spider-Man" Number="18" Volume="2018" Year="2019">
-            <Database Name="cv" Series="112161" Issue="704802" />
-        </Book>
         <Book Series="The Amazing Spider-Man" Number="19" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="705911" />
-        </Book>
-        <Book Series="The Amazing Spider-Man" Number="19" Volume="2018" Year="2019">
-            <Database Name="cv" Series="112161" Issue="705911" />
-        </Book>
-        <Book Series="The Amazing Spider-Man" Number="20" Volume="2018" Year="2019">
-            <Database Name="cv" Series="112161" Issue="706940" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="20" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="706940" />
