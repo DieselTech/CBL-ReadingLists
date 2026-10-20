@@ -6,8 +6,8 @@
 <Book Series="Grimm Fairy Tales April Fools'" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="26240" Issue="155632" />
 </Book>
-<Book Series="Grimm Fairy Tales April Fools'" Number="2" Volume="2009" Year="2010">
-<Database Name="cv" Series="26240" Issue="205175" />
+<Book Series="Grimm Fairy Tales: April Fools' Edition" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="165945" Issue="205175" />
 </Book>
 <Book Series="Salem's Daughter" Number="0" Volume="2009" Year="2009">
 <Database Name="cv" Series="7451" Issue="155174" />

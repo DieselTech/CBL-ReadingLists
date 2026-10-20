@@ -1926,8 +1926,8 @@
 <Book Series="Death Metal Vs. Genetix" Number="2" Volume="1993" Year="1994">
 <Database Name="cv" Series="5005" Issue="94514" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="8" Volume="1989" Year="1993">
-<Database Name="cv" Series="4219" Issue="36650" />
+<Book Series="Avengers West Coast Annual" Number="8" Volume="1993" Year="1993">
+<Database Name="cv" Series="176631" Issue="36650" />
 </Book>
 <Book Series="Marvel Comics Presents" Number="137" Volume="1988" Year="1993">
 <Database Name="cv" Series="4058" Issue="37847" />

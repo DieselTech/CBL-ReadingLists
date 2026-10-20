@@ -342,11 +342,11 @@
 <Book Series="Marvel Age" Number="90" Volume="1983" Year="1990">
 <Database Name="cv" Series="19176" Issue="169016" />
 </Book>
-<Book Series="Marvel Tales" Number="239" Volume="1966" Year="1990">
-<Database Name="cv" Series="2293" Issue="65038" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="239" Volume="1990" Year="1990">
+<Database Name="cv" Series="137722" Issue="65038" />
 </Book>
-<Book Series="Marvel Tales" Number="240" Volume="1966" Year="1990">
-<Database Name="cv" Series="2293" Issue="65040" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="240" Volume="1990" Year="1990">
+<Database Name="cv" Series="137722" Issue="65040" />
 </Book>
 <Book Series="What The--?!" Number="8" Volume="1988" Year="1990">
 <Database Name="cv" Series="4079" Issue="48872" />
@@ -1029,8 +1029,8 @@
 <Book Series="The Savage Sword of Conan" Number="179" Volume="1974" Year="1990">
 <Database Name="cv" Series="2701" Issue="122379" />
 </Book>
-<Book Series="Marvel Tales" Number="242" Volume="1966" Year="1990">
-<Database Name="cv" Series="2293" Issue="65045" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="242" Volume="1990" Year="1990">
+<Database Name="cv" Series="137722" Issue="65045" />
 </Book>
 <Book Series="The Thanos Quest" Number="1" Volume="1990" Year="1990">
 <Database Name="cv" Series="4425" Issue="32212" />
@@ -1899,8 +1899,8 @@
 <Book Series="Destroyer" Number="1" Volume="1992" Year="1991">
 <Database Name="cv" Series="4591" Issue="94536" />
 </Book>
-<Book Series="Marvel Tales" Number="247" Volume="1966" Year="1991">
-<Database Name="cv" Series="2293" Issue="65054" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="247" Volume="1990" Year="1991">
+<Database Name="cv" Series="137722" Issue="65054" />
 </Book>
 <Book Series="What If...?" Number="25" Volume="1989" Year="1991">
 <Database Name="cv" Series="4249" Issue="34216" />
@@ -2136,8 +2136,8 @@
 <Book Series="Wolverine" Number="46" Volume="1988" Year="1991">
 <Database Name="cv" Series="4250" Issue="64309" />
 </Book>
-<Book Series="Marvel Tales" Number="248" Volume="1966" Year="1991">
-<Database Name="cv" Series="2293" Issue="65056" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="248" Volume="1990" Year="1991">
+<Database Name="cv" Series="137722" Issue="65056" />
 </Book>
 <Book Series="Alpha Flight" Number="97" Volume="1983" Year="1991">
 <Database Name="cv" Series="3217" Issue="34289" />
@@ -2181,8 +2181,8 @@
 <Book Series="Ghost Rider" Number="17" Volume="1990" Year="1991">
 <Database Name="cv" Series="4397" Issue="66432" />
 </Book>
-<Book Series="Marvel Tales" Number="250" Volume="1966" Year="1991">
-<Database Name="cv" Series="2293" Issue="65060" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="250" Volume="1990" Year="1991">
+<Database Name="cv" Series="137722" Issue="65060" />
 </Book>
 <Book Series="Damage Control" Number="1" Volume="1991" Year="1991">
 <Database Name="cv" Series="4586" Issue="34293" />
@@ -2811,8 +2811,8 @@
 <Book Series="Daredevil" Number="296" Volume="1964" Year="1991">
 <Database Name="cv" Series="2190" Issue="34642" />
 </Book>
-<Book Series="Marvel Tales" Number="251" Volume="1966" Year="1991">
-<Database Name="cv" Series="2293" Issue="65062" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="251" Volume="1990" Year="1991">
+<Database Name="cv" Series="137722" Issue="65062" />
 </Book>
 <Book Series="Fantastic Four" Number="356" Volume="1961" Year="1991">
 <Database Name="cv" Series="2045" Issue="77534" />
@@ -2871,8 +2871,8 @@
 <Book Series="Marvel Age" Number="104" Volume="1983" Year="1991">
 <Database Name="cv" Series="19176" Issue="157248" />
 </Book>
-<Book Series="Marvel Tales" Number="252" Volume="1966" Year="1991">
-<Database Name="cv" Series="2293" Issue="65063" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="252" Volume="1990" Year="1991">
+<Database Name="cv" Series="137722" Issue="65063" />
 </Book>
 <Book Series="What The--?!" Number="14" Volume="1988" Year="1991">
 <Database Name="cv" Series="4079" Issue="138250" />
