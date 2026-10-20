@@ -74,52 +74,52 @@
             <Database Name="cv" Series="95572" Issue="685834" />
         </Book>
         <Book Series="Spider-Gwen" Number="19" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="594122" />
+            <Database Name="cv" Series="85311" Issue="594122" />
         </Book>
         <Book Series="Spider-Gwen" Number="20" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="598386" />
+            <Database Name="cv" Series="85311" Issue="598386" />
         </Book>
         <Book Series="Spider-Gwen" Number="21" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="605128" />
+            <Database Name="cv" Series="85311" Issue="605128" />
         </Book>
         <Book Series="Spider-Gwen" Number="22" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="610536" />
+            <Database Name="cv" Series="85311" Issue="610536" />
         </Book>
         <Book Series="Spider-Gwen" Number="23" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="617850" />
+            <Database Name="cv" Series="85311" Issue="617850" />
         </Book>
         <Book Series="Spider-Gwen" Number="24" Volume="2015" Year="2017">
             <Database Name="cv" Series="80298" Issue="625323" />
         </Book>
         <Book Series="Spider-Gwen" Number="25" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="630533" />
+            <Database Name="cv" Series="85311" Issue="630533" />
         </Book>
         <Book Series="Spider-Gwen" Number="26" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="643042" />
+            <Database Name="cv" Series="85311" Issue="643042" />
         </Book>
         <Book Series="Spider-Gwen" Number="27" Volume="2015" Year="2018">
             <Database Name="cv" Series="80298" Issue="647953" />
         </Book>
         <Book Series="Spider-Gwen" Number="28" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="656715" />
+            <Database Name="cv" Series="85311" Issue="656715" />
         </Book>
         <Book Series="Spider-Gwen" Number="29" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="661159" />
+            <Database Name="cv" Series="85311" Issue="661159" />
         </Book>
         <Book Series="Spider-Gwen" Number="30" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="663583" />
+            <Database Name="cv" Series="85311" Issue="663583" />
         </Book>
         <Book Series="Spider-Gwen" Number="31" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="667654" />
+            <Database Name="cv" Series="85311" Issue="667654" />
         </Book>
         <Book Series="Spider-Gwen" Number="32" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="671339" />
+            <Database Name="cv" Series="85311" Issue="671339" />
         </Book>
         <Book Series="Spider-Gwen" Number="33" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="674137" />
+            <Database Name="cv" Series="85311" Issue="674137" />
         </Book>
         <Book Series="Spider-Gwen" Number="34" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="677293" />
+            <Database Name="cv" Series="85311" Issue="677293" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="25" Volume="2015" Year="2017">
             <Database Name="cv" Series="85076" Issue="587400" />

@@ -1768,7 +1768,7 @@
 <Database Name="cv" Series="2133" Issue="17209" />
 </Book>
 <Book Series="Marvel Comics Super Special" Number="1" Volume="1977" Year="1977">
-<Database Name="cv" Series="2909" Issue="17010" />
+<Database Name="cv" Series="140012" Issue="17010" />
 </Book>
 <Book Series="Captain Marvel" Number="47" Volume="1968" Year="1976">
 <Database Name="cv" Series="2401" Issue="16865" />

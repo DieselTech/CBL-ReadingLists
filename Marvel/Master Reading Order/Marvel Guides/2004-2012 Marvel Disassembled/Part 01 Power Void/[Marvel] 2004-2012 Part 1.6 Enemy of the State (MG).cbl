@@ -51,7 +51,7 @@
             <Database Name="cv" Series="11298" Issue="99213" />
         </Book>
         <Book Series="The New Invaders" Number="1" Volume="2004" Year="2004">
-            <Database Name="cv" Series="11309" Issue="99285" />
+            <Database Name="cv" Series="176634" Issue="99285" />
         </Book>
         <Book Series="The New Invaders" Number="2" Volume="2004" Year="2004">
             <Database Name="cv" Series="11309" Issue="99286" />

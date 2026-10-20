@@ -20,7 +20,7 @@
             <Database Name="cv" Series="80298" Issue="491529" />
         </Book>
         <Book Series="Spider-Gwen" Number="6" Volume="2015" Year="2016">
-            <Database Name="cv" Series="80298" Issue="518865" />
+            <Database Name="cv" Series="85311" Issue="518865" />
         </Book>
         <Book Series="Spider-Woman" Number="1" Volume="2015" Year="2016">
             <Database Name="cv" Series="86127" Issue="506182" />
@@ -71,7 +71,7 @@
             <Database Name="cv" Series="89385" Issue="523267" />
         </Book>
         <Book Series="Spider-Gwen" Number="7" Volume="2015" Year="2016">
-            <Database Name="cv" Series="80298" Issue="525037" />
+            <Database Name="cv" Series="85311" Issue="525037" />
         </Book>
         <Book Series="Silk" Number="7" Volume="2015" Year="2016">
             <Database Name="cv" Series="86251" Issue="526066" />
@@ -80,7 +80,7 @@
             <Database Name="cv" Series="86127" Issue="527153" />
         </Book>
         <Book Series="Spider-Gwen" Number="8" Volume="2015" Year="2016">
-            <Database Name="cv" Series="80298" Issue="528520" />
+            <Database Name="cv" Series="85311" Issue="528520" />
         </Book>
         <Book Series="Silk" Number="8" Volume="2015" Year="2016">
             <Database Name="cv" Series="86251" Issue="529661" />
@@ -98,25 +98,25 @@
             <Database Name="cv" Series="91903" Issue="537944" />
         </Book>
         <Book Series="Spider-Gwen" Number="9" Volume="2015" Year="2016">
-            <Database Name="cv" Series="80298" Issue="535362" />
+            <Database Name="cv" Series="85311" Issue="535362" />
         </Book>
         <Book Series="Spider-Gwen" Number="10" Volume="2015" Year="2016">
-            <Database Name="cv" Series="80298" Issue="541217" />
+            <Database Name="cv" Series="85311" Issue="541217" />
         </Book>
         <Book Series="Spider-Gwen" Number="11" Volume="2015" Year="2016">
-            <Database Name="cv" Series="80298" Issue="547292" />
+            <Database Name="cv" Series="85311" Issue="547292" />
         </Book>
         <Book Series="Spider-Gwen" Number="12" Volume="2015" Year="2016">
-            <Database Name="cv" Series="80298" Issue="551316" />
+            <Database Name="cv" Series="85311" Issue="551316" />
         </Book>
         <Book Series="Spider-Gwen" Number="13" Volume="2015" Year="2016">
             <Database Name="cv" Series="80298" Issue="553969" />
         </Book>
         <Book Series="Spider-Gwen" Number="14" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="558974" />
+            <Database Name="cv" Series="85311" Issue="558974" />
         </Book>
         <Book Series="Spider-Gwen" Number="15" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="569346" />
+            <Database Name="cv" Series="85311" Issue="569346" />
         </Book>
         <Book Series="Silk" Number="9" Volume="2015" Year="2016">
             <Database Name="cv" Series="86251" Issue="537943" />

@@ -6,40 +6,40 @@
       <Database Name="cv" Series="2127" Issue="14827" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="140" Volume="1963" Year="1975">
-      <Id>e4f2a199-52c8-488c-886d-6a1170827bab</Id>
+      <Database Name="cv" Series="2127" Issue="14952" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="141" Volume="1963" Year="1975">
-      <Id>2e31ed47-25f0-46dd-8609-3efc2f38366d</Id>
+      <Database Name="cv" Series="2127" Issue="15046" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="142" Volume="1963" Year="1975">
-      <Id>464ad810-aa2a-4bad-9c85-ffc03207e090</Id>
+      <Database Name="cv" Series="2127" Issue="15137" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="143" Volume="1963" Year="1975">
-      <Id>174eaf3c-188c-46e6-a42d-092868fbe22f</Id>
+      <Database Name="cv" Series="2127" Issue="111360" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="144" Volume="1963" Year="1975">
-      <Id>c5e538ff-101e-4fc0-873a-55e95899673e</Id>
+      <Database Name="cv" Series="2127" Issue="15170" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="145" Volume="1963" Year="1975">
-      <Id>581648f4-5a19-48e3-99fb-e1d269ca3851</Id>
+      <Database Name="cv" Series="2127" Issue="15259" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="146" Volume="1963" Year="1975">
-      <Id>feec758c-8b35-4109-9da8-e2dbaa0d06ed</Id>
+      <Database Name="cv" Series="2127" Issue="15364" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="147" Volume="1963" Year="1975">
-      <Id>9455f6df-1391-42f3-a070-be30121c770d</Id>
+      <Database Name="cv" Series="2127" Issue="15469" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="148" Volume="1963" Year="1975">
-      <Id>9f12e21a-279c-4046-9d72-5b31fdd9aaf1</Id>
+      <Database Name="cv" Series="2127" Issue="15572" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="149" Volume="1963" Year="1975">
-      <Id>41ddbaea-df8c-4533-a3c5-b08559f8d7b6</Id>
+      <Database Name="cv" Series="2127" Issue="15668" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="150" Volume="1963" Year="1975">
-      <Id>a1f59dab-e982-4996-a7c1-98390255354b</Id>
+      <Database Name="cv" Series="2127" Issue="15772" />
     </Book>
     <Book Series="The Amazing Spider-Man" Number="151" Volume="1963" Year="1975">
-      <Id>79dacbf4-5528-4274-bf4b-b9cc677d6688</Id>
+      <Database Name="cv" Series="2127" Issue="15855" />
     </Book>
   </Books>
   <Matchers />

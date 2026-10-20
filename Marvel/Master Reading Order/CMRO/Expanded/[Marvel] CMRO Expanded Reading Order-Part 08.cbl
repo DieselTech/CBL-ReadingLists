@@ -463,7 +463,7 @@
 <Database Name="cv" Series="2702" Issue="67515" />
 </Book>
 <Book Series="Bugs Bunny" Number="194" Volume="1962" Year="1978">
-<Database Name="cv" Series="11508" Issue="170578" />
+<Database Name="cv" Series="31736" Issue="170578" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="26" Volume="1974" Year="1978">
 <Database Name="cv" Series="2701" Issue="18179" />

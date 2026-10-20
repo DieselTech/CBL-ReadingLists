@@ -3,8 +3,8 @@
 <Name>Venom War - CBRO Reading Order</Name>
 <NumIssues>37</NumIssues>
 <Books>
-<Book Series="Carnage" Number="8" Volume="2024" Year="2016">
-<Database Name="cv" Series="85938" Issue="1058723" />
+<Book Series="Carnage" Number="8" Volume="2024" Year="2024">
+<Database Name="cv" Series="154836" Issue="1058723" />
 </Book>
 <Book Series="Venom" Number="35" Volume="2024" Year="2013">
 <Database Name="cv" Series="140084" Issue="1061879" />

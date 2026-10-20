@@ -2971,7 +2971,7 @@
 <Database Name="cv" Series="22955" Issue="312793" />
 </Book>
 <Book Series="AAFES 11th Edition" Number="11" Volume="2011" Year="2011">
-<Database Name="cv" Series="75290" Issue="458415" />
+<Database Name="cv" Series="75290" Issue="355558" />
 </Book>
 <Book Series="Marvel Adventures Spider-Man" Number="13" Volume="2010" Year="2011">
 <Database Name="cv" Series="32888" Issue="271871" />

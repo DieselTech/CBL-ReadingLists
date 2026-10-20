@@ -967,7 +967,7 @@
 <Database Name="cv" Series="29687" Issue="314971" />
 </Book>
 <Book Series="AAFES 12th Edition" Number="12" Volume="2011" Year="2011">
-<Database Name="cv" Series="75295" Issue="458420" />
+<Database Name="cv" Series="75295" Issue="355560" />
 </Book>
 <Book Series="Marvel Adventures Spider-Man" Number="19" Volume="2010" Year="2011">
 <Database Name="cv" Series="32888" Issue="299921" />
@@ -2017,7 +2017,7 @@
 <Database Name="cv" Series="43818" Issue="319380" />
 </Book>
 <Book Series="AAFES 13th Edition" Number="13" Volume="2012" Year="2012">
-<Database Name="cv" Series="75293" Issue="458418" />
+<Database Name="cv" Series="51842" Issue="355774" />
 </Book>
 <Book Series="Marvel Adventures Spider-Man" Number="24" Volume="2010" Year="2012">
 <Database Name="cv" Series="32888" Issue="325030" />

@@ -781,7 +781,7 @@
 <Database Name="cv" Series="7084" Issue="114547" />
 </Book>
 <Book Series="The New Invaders" Number="0" Volume="2004" Year="2004">
-<Database Name="cv" Series="11309" Issue="99284" />
+<Database Name="cv" Series="176634" Issue="99284" />
 </Book>
 <Book Series="Marvel Knights: 4" Number="1" Volume="2004" Year="2004">
 <Database Name="cv" Series="21736" Issue="131121" />
@@ -2491,7 +2491,7 @@
 <Database Name="cv" Series="10809" Issue="97343" />
 </Book>
 <Book Series="The New Invaders" Number="1" Volume="2004" Year="2004">
-<Database Name="cv" Series="11309" Issue="99285" />
+<Database Name="cv" Series="176634" Issue="99285" />
 </Book>
 <Book Series="The New Invaders" Number="2" Volume="2004" Year="2004">
 <Database Name="cv" Series="11309" Issue="99286" />
