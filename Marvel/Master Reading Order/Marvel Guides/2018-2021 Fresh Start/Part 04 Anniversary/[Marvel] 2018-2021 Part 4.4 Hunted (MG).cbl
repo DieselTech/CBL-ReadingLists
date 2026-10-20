@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 4.4 Hunted (MG)</Name>
-    <NumIssues>27</NumIssues>
+    <NumIssues>23</NumIssues>
     <Books>
         <Book Series="The Amazing Spider-Man" Number="8" Volume="2018" Year="2018">
             <Database Name="cv" Series="112161" Issue="689858" />
