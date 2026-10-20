@@ -588,8 +588,8 @@
 <Book Series="Nightwing" Number="106" Volume="1996" Year="2005">
 <Database Name="cv" Series="5755" Issue="96778" />
 </Book>
-<Book Series="Tales of the Legion of Super-Heroes Annual" Number="4" Volume="1986" Year="1986">
-<Database Name="cv" Series="44355" Issue="305542" />
+<Book Series="Legion of Super-Heroes Annual" Number="2" Volume="1985" Year="1986">
+<Database Name="cv" Series="3451" Issue="26268" />
 </Book>
 <Book Series="Booster Gold" Number="8" Volume="1986" Year="1986">
 <Database Name="cv" Series="3596" Issue="27134" />

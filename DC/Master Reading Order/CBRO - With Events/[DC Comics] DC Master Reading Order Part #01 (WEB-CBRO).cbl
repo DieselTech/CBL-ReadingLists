@@ -297,8 +297,8 @@
 <Book Series="The Flash" Number="148" Volume="1959" Year="1964">
 <Database Name="cv" Series="1995" Issue="7397" />
 </Book>
-<Book Series="Hawkman" Number="4" Volume="1993" Year="1993">
-<Database Name="cv" Series="4962" Issue="38198" />
+<Book Series="Hawkman" Number="4" Volume="1964" Year="1964">
+<Database Name="cv" Series="2178" Issue="7339" />
 </Book>
 <Book Series="Detective Comics" Number="336" Volume="1937" Year="1965">
 <Database Name="cv" Series="18058" Issue="112545" />
@@ -1158,8 +1158,8 @@
 <Book Series="Detective Comics" Number="450" Volume="1937" Year="1975">
 <Database Name="cv" Series="18058" Issue="112752" />
 </Book>
-<Book Series="Joker" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="23571" Issue="141427" />
+<Book Series="The Joker" Number="3" Volume="1975" Year="1975">
+<Database Name="cv" Series="2733" Issue="15545" />
 </Book>
 <Book Series="1st Issue Special" Number="7" Volume="1975" Year="1975">
 <Database Name="cv" Series="2726" Issue="15630" />
@@ -1398,8 +1398,8 @@
 <Book Series="The Flash" Number="284" Volume="1959" Year="1980">
 <Database Name="cv" Series="1995" Issue="20280" />
 </Book>
-<Book Series="Superboy" Number="5" Volume="1994" Year="1994">
-<Database Name="cv" Series="5261" Issue="39188" />
+<Book Series="Superboy" Number="5" Volume="1990" Year="1990">
+<Database Name="cv" Series="4378" Issue="32812" />
 </Book>
 <Book Series="Action Comics" Number="507" Volume="1938" Year="1980">
 <Database Name="cv" Series="18005" Issue="121036" />

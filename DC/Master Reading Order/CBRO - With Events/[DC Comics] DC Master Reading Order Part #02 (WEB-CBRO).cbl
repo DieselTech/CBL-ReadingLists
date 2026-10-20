@@ -588,8 +588,8 @@
 <Book Series="Nightwing" Number="106" Volume="1996" Year="2005">
 <Database Name="cv" Series="5755" Issue="96778" />
 </Book>
-<Book Series="Tales of the Legion of Super-Heroes Annual" Number="4" Volume="1986" Year="1986">
-<Database Name="cv" Series="44355" Issue="305542" />
+<Book Series="Legion of Super-Heroes Annual" Number="2" Volume="1985" Year="1986">
+<Database Name="cv" Series="3451" Issue="26268" />
 </Book>
 <Book Series="Booster Gold" Number="8" Volume="1986" Year="1986">
 <Database Name="cv" Series="3596" Issue="27134" />
@@ -993,8 +993,8 @@
 <Book Series="Justice League International" Number="10" Volume="1987" Year="1988">
 <Database Name="cv" Series="3798" Issue="29283" />
 </Book>
-<Book Series="Outsiders" Number="28" Volume="2003" Year="2005">
-<Database Name="cv" Series="10415" Issue="113886" />
+<Book Series="The Outsiders" Number="28" Volume="1985" Year="1988">
+<Database Name="cv" Series="3455" Issue="29214" />
 </Book>
 <Book Series="Millennium" Number="6" Volume="1988" Year="1988">
 <Database Name="cv" Series="4011" Issue="29299" />
