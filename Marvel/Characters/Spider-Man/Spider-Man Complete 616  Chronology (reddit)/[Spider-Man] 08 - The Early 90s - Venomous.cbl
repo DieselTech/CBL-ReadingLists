@@ -222,8 +222,8 @@
 <Book Series="Web of Spider-Man" Number="54" Volume="1985" Year="1989">
 <Database Name="cv" Series="3519" Issue="31672" />
 </Book>
-<Book Series="Daredevil" Number="5" Volume="1964" Year="1989">
-<Database Name="cv" Series="2190" Issue="30617" />
+<Book Series="Daredevil Annual" Number="5" Volume="1967" Year="1989">
+<Database Name="cv" Series="2351" Issue="30617" />
 </Book>
 <Book Series="The Amazing Spider-Man Annual" Number="23" Volume="1964" Year="1989">
 <Database Name="cv" Series="2189" Issue="30692" />

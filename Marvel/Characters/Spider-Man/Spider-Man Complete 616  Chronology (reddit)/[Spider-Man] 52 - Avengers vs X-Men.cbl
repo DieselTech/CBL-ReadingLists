@@ -18,8 +18,8 @@
 <Book Series="Avengers Vs. X-Men" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="324839" />
 </Book>
-<Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2013">
-<Database Name="cv" Series="47331" Issue="395413" />
+<Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="47331" Issue="326860" />
 </Book>
 <Book Series="New Avengers" Number="24" Volume="2010" Year="2012">
 <Database Name="cv" Series="33777" Issue="329220" />

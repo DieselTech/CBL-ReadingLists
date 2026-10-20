@@ -110,7 +110,7 @@
             <Database Name="cv" Series="80298" Issue="551316" />
         </Book>
         <Book Series="Spider-Gwen" Number="13" Volume="2015" Year="2016">
-            <Database Name="cv" Series="80298" Issue="553969" />
+            <Database Name="cv" Series="85311" Issue="553969" />
         </Book>
         <Book Series="Spider-Gwen" Number="14" Volume="2015" Year="2017">
             <Database Name="cv" Series="80298" Issue="558974" />

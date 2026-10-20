@@ -2508,8 +2508,8 @@
 <Book Series="Web of Spider-Man" Number="54" Volume="1985" Year="1989">
 <Database Name="cv" Series="3519" Issue="31672" />
 </Book>
-<Book Series="Daredevil" Number="5" Volume="1964" Year="1989">
-<Database Name="cv" Series="2190" Issue="30617" />
+<Book Series="Daredevil Annual" Number="5" Volume="1967" Year="1989">
+<Database Name="cv" Series="2351" Issue="30617" />
 </Book>
 <Book Series="The Amazing Spider-Man Annual" Number="23" Volume="1964" Year="1989">
 <Database Name="cv" Series="2189" Issue="30692" />
@@ -6876,8 +6876,8 @@
 <Book Series="Avengers Vs. X-Men" Number="0" Volume="2012" Year="2012">
 <Database Name="cv" Series="47331" Issue="324839" />
 </Book>
-<Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2013">
-<Database Name="cv" Series="47331" Issue="395413" />
+<Book Series="Avengers Vs. X-Men" Number="1" Volume="2012" Year="2012">
+<Database Name="cv" Series="47331" Issue="326860" />
 </Book>
 <Book Series="New Avengers" Number="24" Volume="2010" Year="2012">
 <Database Name="cv" Series="33777" Issue="329220" />

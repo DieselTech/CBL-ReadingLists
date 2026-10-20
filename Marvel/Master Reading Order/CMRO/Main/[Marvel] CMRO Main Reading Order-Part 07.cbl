@@ -63,17 +63,17 @@
 <Book Series="Fallen Angels" Number="8" Volume="1987" Year="1987">
 <Database Name="cv" Series="3842" Issue="94594" />
 </Book>
-<Book Series="Marvel Tales" Number="201" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64966" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="201" Volume="1981" Year="1987">
+<Database Name="cv" Series="138122" Issue="64966" />
 </Book>
-<Book Series="Marvel Tales" Number="202" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64967" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="202" Volume="1981" Year="1987">
+<Database Name="cv" Series="138122" Issue="64967" />
 </Book>
-<Book Series="Marvel Tales" Number="203" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64968" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="203" Volume="1981" Year="1987">
+<Database Name="cv" Series="138122" Issue="64968" />
 </Book>
-<Book Series="Marvel Tales" Number="204" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64969" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="204" Volume="1981" Year="1987">
+<Database Name="cv" Series="138122" Issue="64969" />
 </Book>
 <Book Series="Iron Man" Number="217" Volume="1968" Year="1987">
 <Database Name="cv" Series="2407" Issue="28015" />
@@ -174,11 +174,11 @@
 <Book Series="Peter Parker, the Spectacular Spider-Man" Number="127" Volume="1980" Year="1987">
 <Database Name="cv" Series="139754" Issue="28228" />
 </Book>
-<Book Series="Marvel Tales" Number="205" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64970" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="205" Volume="1981" Year="1987">
+<Database Name="cv" Series="138122" Issue="64970" />
 </Book>
-<Book Series="Marvel Tales" Number="206" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64971" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="206" Volume="1981" Year="1987">
+<Database Name="cv" Series="138122" Issue="64971" />
 </Book>
 <Book Series="Iron Man" Number="218" Volume="1968" Year="1987">
 <Database Name="cv" Series="2407" Issue="28115" />
@@ -489,11 +489,11 @@
 <Book Series="Thor" Number="389" Volume="1966" Year="1988">
 <Database Name="cv" Series="2294" Issue="29382" />
 </Book>
-<Book Series="Marvel Tales" Number="207" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64973" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="207" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64973" />
 </Book>
-<Book Series="Marvel Tales" Number="208" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64976" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="208" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64976" />
 </Book>
 <Book Series="The Uncanny X-Men" Number="223" Volume="1981" Year="1987">
 <Database Name="cv" Series="3092" Issue="28817" />
@@ -534,11 +534,11 @@
 <Book Series="West Coast Avengers" Number="30" Volume="1985" Year="1988">
 <Database Name="cv" Series="3521" Issue="29386" />
 </Book>
-<Book Series="Marvel Tales" Number="209" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64979" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="209" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64979" />
 </Book>
-<Book Series="Marvel Tales" Number="210" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64982" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="210" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64982" />
 </Book>
 <Book Series="Power Pack" Number="33" Volume="1984" Year="1987">
 <Database Name="cv" Series="3358" Issue="28806" />
@@ -699,8 +699,8 @@
 <Book Series="X-Factor" Number="28" Volume="1986" Year="1988">
 <Database Name="cv" Series="3657" Issue="29607" />
 </Book>
-<Book Series="Marvel Tales" Number="211" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64984" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="211" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64984" />
 </Book>
 <Book Series="Excalibur Special Edition" Number="1" Volume="1987" Year="1987">
 <Database Name="cv" Series="20173" Issue="120344" />
@@ -717,14 +717,14 @@
 <Book Series="Captain America" Number="340" Volume="1968" Year="1988">
 <Database Name="cv" Series="2400" Issue="29478" />
 </Book>
-<Book Series="Marvel Tales" Number="212" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64987" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="212" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64987" />
 </Book>
-<Book Series="Marvel Tales" Number="214" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64990" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="214" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64990" />
 </Book>
-<Book Series="Marvel Tales" Number="215" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64992" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="215" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64992" />
 </Book>
 <Book Series="Alpha Flight" Number="55" Volume="1983" Year="1988">
 <Database Name="cv" Series="3217" Issue="29255" />
@@ -891,11 +891,11 @@
 <Book Series="Doctor Zero" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="4050" Issue="29941" />
 </Book>
-<Book Series="Marvel Tales" Number="216" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64994" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="216" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64994" />
 </Book>
-<Book Series="Marvel Tales" Number="217" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64997" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="217" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64997" />
 </Book>
 <Book Series="Wolfpack" Number="2" Volume="1988" Year="1988">
 <Database Name="cv" Series="4081" Issue="57796" />
@@ -1116,8 +1116,8 @@
 <Book Series="Dragon's Claws" Number="10" Volume="1988" Year="1989">
 <Database Name="cv" Series="39798" Issue="268524" />
 </Book>
-<Book Series="Marvel Tales" Number="218" Volume="1966" Year="1988">
-<Database Name="cv" Series="2293" Issue="64999" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="218" Volume="1981" Year="1988">
+<Database Name="cv" Series="138122" Issue="64999" />
 </Book>
 <Book Series="Strange Tales" Number="12" Volume="1987" Year="1988">
 <Database Name="cv" Series="3863" Issue="29380" />
@@ -1338,11 +1338,11 @@
 <Book Series="St. George" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="4075" Issue="57165" />
 </Book>
-<Book Series="Marvel Tales" Number="219" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65001" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="219" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65001" />
 </Book>
-<Book Series="Marvel Tales" Number="223" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65008" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="223" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65008" />
 </Book>
 <Book Series="Speedball" Number="3" Volume="1988" Year="1988">
 <Database Name="cv" Series="4073" Issue="30322" />
@@ -2253,14 +2253,14 @@
 <Book Series="Powerline" Number="8" Volume="1988" Year="1989">
 <Database Name="cv" Series="4063" Issue="95564" />
 </Book>
-<Book Series="Marvel Tales" Number="224" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65010" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="224" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65010" />
 </Book>
-<Book Series="Marvel Tales" Number="225" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65012" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="225" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65012" />
 </Book>
-<Book Series="Marvel Tales" Number="226" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65014" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="226" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65014" />
 </Book>
 <Book Series="The Mutant Misadventures of Cloak and Dagger" Number="5" Volume="1988" Year="1989">
 <Database Name="cv" Series="4060" Issue="95263" />
@@ -2517,14 +2517,14 @@
 <Book Series="The Incredible Hulk" Number="360" Volume="1968" Year="1989">
 <Database Name="cv" Series="2406" Issue="31763" />
 </Book>
-<Book Series="Marvel Tales" Number="227" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65016" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="227" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65016" />
 </Book>
-<Book Series="Marvel Tales" Number="228" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65018" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="228" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65018" />
 </Book>
-<Book Series="Marvel Tales" Number="229" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65019" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="229" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65019" />
 </Book>
 <Book Series="Avengers West Coast" Number="47" Volume="1989" Year="1989">
 <Database Name="cv" Series="18494" Issue="108597" />
@@ -2736,11 +2736,11 @@
 <Book Series="The Uncanny X-Men" Number="247" Volume="1981" Year="1989">
 <Database Name="cv" Series="3092" Issue="31554" />
 </Book>
-<Book Series="Marvel Tales" Number="230" Volume="1966" Year="1989">
-<Database Name="cv" Series="2293" Issue="65021" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="230" Volume="1981" Year="1989">
+<Database Name="cv" Series="138122" Issue="65021" />
 </Book>
-<Book Series="Marvel Tales" Number="233" Volume="1966" Year="1990">
-<Database Name="cv" Series="2293" Issue="65026" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="233" Volume="1981" Year="1990">
+<Database Name="cv" Series="138122" Issue="65026" />
 </Book>
 <Book Series="The Spectacular Spider-Man" Number="156" Volume="1976" Year="1989">
 <Database Name="cv" Series="2870" Issue="31883" />
@@ -2838,8 +2838,8 @@
 <Book Series="The Sensational She-Hulk" Number="9" Volume="1989" Year="1989">
 <Database Name="cv" Series="4243" Issue="32011" />
 </Book>
-<Book Series="Marvel Graphic Novel" Number="1" Volume="1982" Year="1989">
-<Database Name="cv" Series="3144" Issue="150231" />
+<Book Series="The Punisher: Intruder" Number="1" Volume="1989" Year="1989">
+<Database Name="cv" Series="25459" Issue="150231" />
 </Book>
 <Book Series="Silver Surfer" Number="32" Volume="1987" Year="1989">
 <Database Name="cv" Series="3857" Issue="32070" />

@@ -69,8 +69,8 @@
 <Book Series="Spider-Island: The Avengers" Number="1" Volume="2011" Year="2011">
 <Database Name="cv" Series="42663" Issue="292003" />
 </Book>
-<Book Series="The Amazing Spider-Man" Number="669" Volume="0" Year="2011">
-<Database Name="cv" Series="78701" Issue="292609" />
+<Book Series="The Amazing Spider-Man" Number="669" Volume="1963" Year="2011">
+<Database Name="cv" Series="2127" Issue="292609" />
 </Book>
 <Book Series="Venom" Number="6" Volume="2011" Year="2011">
 <Database Name="cv" Series="39301" Issue="286935" />

@@ -76,8 +76,8 @@
         <Book Series="Squadron Supreme" Number="5" Volume="2015" Year="2016">
             <Database Name="cv" Series="86716" Issue="520212" />
         </Book>
-        <Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2015">
-            <Database Name="cv" Series="85318" Issue="493053" />
+        <Book Series="Uncanny Avengers" Number="5" Volume="2015" Year="2016">
+            <Database Name="cv" Series="85318" Issue="513659" />
         </Book>
         <Book Series="Uncanny Avengers" Number="6" Volume="2015" Year="2016">
             <Database Name="cv" Series="85318" Issue="517836" />

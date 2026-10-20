@@ -2991,8 +2991,8 @@
 <Book Series="Peter Porker, The Spectacular Spider-Ham" Number="14" Volume="1985" Year="1987">
 <Database Name="cv" Series="3499" Issue="93534" />
 </Book>
-<Book Series="Marvel Tales" Number="197" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64962" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="197" Volume="1981" Year="1987">
+<Database Name="cv" Series="138122" Issue="64962" />
 </Book>
 </Books>
 <Matchers />

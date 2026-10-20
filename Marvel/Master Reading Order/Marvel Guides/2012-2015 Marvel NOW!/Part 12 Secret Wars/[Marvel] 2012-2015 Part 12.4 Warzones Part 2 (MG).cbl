@@ -39,14 +39,14 @@
         <Book Series="Spider-Verse" Number="2" Volume="2014" Year="2015">
             <Database Name="cv" Series="78047" Issue="475945" />
         </Book>
-        <Book Series="Spider-Verse" Number="3" Volume="2014" Year="2015">
-            <Database Name="cv" Series="78047" Issue="494330" />
+        <Book Series="Spider-Verse" Number="3" Volume="2015" Year="2015">
+            <Database Name="cv" Series="82108" Issue="494330" />
         </Book>
-        <Book Series="Spider-Verse" Number="4" Volume="2014" Year="2015">
-            <Database Name="cv" Series="78047" Issue="497959" />
+        <Book Series="Spider-Verse" Number="4" Volume="2015" Year="2015">
+            <Database Name="cv" Series="82108" Issue="497959" />
         </Book>
-        <Book Series="Spider-Verse" Number="5" Volume="2014" Year="2015">
-            <Database Name="cv" Series="78047" Issue="500308" />
+        <Book Series="Spider-Verse" Number="5" Volume="2015" Year="2015">
+            <Database Name="cv" Series="82108" Issue="500308" />
         </Book>
         <Book Series="Where Monsters Dwell" Number="1" Volume="2015" Year="2015">
             <Database Name="cv" Series="82217" Issue="489916" />

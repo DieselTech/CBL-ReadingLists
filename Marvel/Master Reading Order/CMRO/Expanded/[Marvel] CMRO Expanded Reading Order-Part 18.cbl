@@ -2754,11 +2754,11 @@
 <Book Series="DC Versus Marvel/Marvel Versus DC" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18011" Issue="105431" />
 </Book>
-<Book Series="DC Versus Marvel/Marvel Versus DC" Number="2" Volume="1996" Year="1996">
-<Database Name="cv" Series="18011" Issue="105511" />
+<Book Series="Marvel Versus DC/DC Versus Marvel" Number="2" Volume="1996" Year="1996">
+<Database Name="cv" Series="26081" Issue="105511" />
 </Book>
-<Book Series="DC Versus Marvel/Marvel Versus DC" Number="3" Volume="1996" Year="1996">
-<Database Name="cv" Series="18011" Issue="105526" />
+<Book Series="Marvel Versus DC/DC Versus Marvel" Number="3" Volume="1996" Year="1996">
+<Database Name="cv" Series="26081" Issue="105526" />
 </Book>
 <Book Series="Bullets and Bracelets" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="18808" Issue="111139" />
