@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[Marvel] 2018-2021 Part 16.4 Devil's Reign (MG)</Name>
-<NumIssues>58</NumIssues>
+<NumIssues>57</NumIssues>
 <Books>
 <Book Series="Daredevil" Number="36" Volume="2019" Year="2022">
 <Database Name="cv" Series="116964" Issue="896126" />
@@ -173,9 +173,6 @@
 </Book>
 <Book Series="Moon Knight" Number="18" Volume="2021" Year="2023">
 <Database Name="cv" Series="137698" Issue="961942" />
-</Book>
-<Book Series="Moon Knight" Number="19" Volume="2021" Year="2023">
-<Database Name="cv" Series="137698" Issue="963977" />
 </Book>
 </Books>
 <Matchers />

@@ -127,23 +127,23 @@
         <Book Series="Invincible Iron Man" Number="11" Volume="2015" Year="2016">
             <Database Name="cv" Series="85110" Issue="538510" />
         </Book>
-        <Book Series="Nova" Number="1" Volume="2016" Year="2017">
-            <Database Name="cv" Series="96300" Issue="563723" />
+        <Book Series="Nova" Number="1" Volume="2016" Year="2016">
+            <Database Name="cv" Series="85778" Issue="504947" />
         </Book>
-        <Book Series="Nova" Number="2" Volume="2016" Year="2017">
-            <Database Name="cv" Series="96300" Issue="574872" />
+        <Book Series="Nova" Number="2" Volume="2016" Year="2016">
+            <Database Name="cv" Series="85778" Issue="507184" />
         </Book>
-        <Book Series="Nova" Number="3" Volume="2016" Year="2017">
-            <Database Name="cv" Series="96300" Issue="579320" />
+        <Book Series="Nova" Number="3" Volume="2016" Year="2016">
+            <Database Name="cv" Series="85778" Issue="510103" />
         </Book>
-        <Book Series="Nova" Number="4" Volume="2016" Year="2017">
-            <Database Name="cv" Series="96300" Issue="585088" />
+        <Book Series="Nova" Number="4" Volume="2016" Year="2016">
+            <Database Name="cv" Series="85778" Issue="513652" />
         </Book>
-        <Book Series="Nova" Number="5" Volume="2016" Year="2017">
-            <Database Name="cv" Series="96300" Issue="590801" />
+        <Book Series="Nova" Number="5" Volume="2016" Year="2016">
+            <Database Name="cv" Series="85778" Issue="517833" />
         </Book>
-        <Book Series="Nova" Number="6" Volume="2016" Year="2017">
-            <Database Name="cv" Series="96300" Issue="594119" />
+        <Book Series="Nova" Number="6" Volume="2016" Year="2016">
+            <Database Name="cv" Series="85778" Issue="526063" />
         </Book>
     </Books>
     <Matchers />

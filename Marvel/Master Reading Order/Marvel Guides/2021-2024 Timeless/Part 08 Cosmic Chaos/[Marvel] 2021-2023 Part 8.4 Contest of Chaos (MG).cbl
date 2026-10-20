@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2024 Part 8.4 Contest of Chaos (MG)</Name>
-    <NumIssues>19</NumIssues>
+    <NumIssues>18</NumIssues>
     <Books>
         <Book Series="Scarlet Witch Annual" Number="1" Volume="2023" Year="2023">
             <Database Name="cv" Series="151519" Issue="996041" />
@@ -44,9 +44,6 @@
         </Book>
         <Book Series="Captain Marvel" Number="5" Volume="2023" Year="2024">
             <Database Name="cv" Series="154291" Issue="1045759" />
-        </Book>
-        <Book Series="Captain Marvel" Number="6" Volume="2023" Year="2024">
-            <Database Name="cv" Series="154291" Issue="1048665" />
         </Book>
         <Book Series="Avengers" Number="7" Volume="2023" Year="2024">
             <Database Name="cv" Series="150431" Issue="1027595" />

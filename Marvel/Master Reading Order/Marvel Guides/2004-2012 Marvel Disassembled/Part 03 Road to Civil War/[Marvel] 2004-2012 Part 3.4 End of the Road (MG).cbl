@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2004-2012 Part 3.4 End of the Road (MG)</Name>
-    <NumIssues>126</NumIssues>
+    <NumIssues>125</NumIssues>
     <Books>
         <Book Series="New Avengers" Number="11" Volume="2004" Year="2005">
             <Database Name="cv" Series="11497" Issue="108314" />
@@ -243,9 +243,6 @@
         </Book>
         <Book Series="The Sensational Spider-Man" Number="27" Volume="2006" Year="2006">
             <Database Name="cv" Series="18177" Issue="109582" />
-        </Book>
-        <Book Series="Friendly Neighborhood Spider-Man" Number="6" Volume="2005" Year="2006">
-            <Database Name="cv" Series="17998" Issue="105388" />
         </Book>
         <Book Series="Friendly Neighborhood Spider-Man" Number="7" Volume="2005" Year="2006">
             <Database Name="cv" Series="17998" Issue="105389" />
