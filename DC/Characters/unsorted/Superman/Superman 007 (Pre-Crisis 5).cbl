@@ -88,7 +88,7 @@
       <Database Name="cv" Series="773" Issue="21839" />
     </Book>
     <Book Series="The Superman Family" Number="214" Volume="1974" Year="1982">
-      <Database Name="cv" Series="2668" Issue="21840" />
+      <Database Name="cv" Series="2668" Issue="554747" />
     </Book>
     <Book Series="The Phantom Zone" Number="4" Volume="1982" Year="1982">
       <Database Name="cv" Series="3120" Issue="22060" />
@@ -118,7 +118,7 @@
       <Database Name="cv" Series="773" Issue="21990" />
     </Book>
     <Book Series="The Superman Family" Number="216" Volume="1974" Year="1982">
-      <Database Name="cv" Series="2668" Issue="21991" />
+      <Database Name="cv" Series="2668" Issue="553827" />
     </Book>
     <Book Series="Action Comics" Number="529" Volume="1938" Year="1982">
       <Database Name="cv" Series="18005" Issue="120770" />
