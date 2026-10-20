@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>[DC] [1999-2009] JSA by Geoff Johns</Name>
-<NumIssues>148</NumIssues>
+<NumIssues>149</NumIssues>
 <Books>
 <Book Series="All Star Comics" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="6596" Issue="47206" />
@@ -30,8 +30,8 @@
 <Book Series="All Star Comics" Number="2" Volume="1999" Year="1999">
 <Database Name="cv" Series="6596" Issue="47207" />
 </Book>
-<Book Series="JLA Secret Files" Number="1" Volume="1997" Year="1997">
-<Database Name="cv" Series="6166" Issue="78349" />
+<Book Series="JSA Secret Files" Number="1" Volume="1999" Year="1999">
+<Database Name="cv" Series="7222" Issue="51448" />
 </Book>
 <Book Series="JSA" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="6331" Issue="45955" />
@@ -81,8 +81,8 @@
 <Book Series="JSA" Number="15" Volume="1999" Year="2000">
 <Database Name="cv" Series="6331" Issue="46431" />
 </Book>
-<Book Series="JSA Annual" Number="1" Volume="2008" Year="2008">
-<Database Name="cv" Series="22398" Issue="134567" />
+<Book Series="JSA Annual" Number="1" Volume="2000" Year="2000">
+<Database Name="cv" Series="25479" Issue="150321" />
 </Book>
 <Book Series="JSA" Number="16" Volume="1999" Year="2000">
 <Database Name="cv" Series="6331" Issue="46435" />
@@ -123,8 +123,8 @@
 <Book Series="JSA" Number="27" Volume="1999" Year="2001">
 <Database Name="cv" Series="6331" Issue="51044" />
 </Book>
-<Book Series="JLA Secret Files" Number="2" Volume="1997" Year="1998">
-<Database Name="cv" Series="6166" Issue="29901" />
+<Book Series="JSA Secret Files" Number="2" Volume="1999" Year="2001">
+<Database Name="cv" Series="7222" Issue="51449" />
 </Book>
 <Book Series="JSA" Number="28" Volume="1999" Year="2001">
 <Database Name="cv" Series="6331" Issue="51045" />
@@ -404,6 +404,9 @@
 </Book>
 <Book Series="Justice Society of America" Number="17" Volume="2007" Year="2008">
 <Database Name="cv" Series="18052" Issue="132962" />
+</Book>
+<Book Series="JSA Annual" Number="1" Volume="2008" Year="2008">
+<Database Name="cv" Series="22398" Issue="134567" />
 </Book>
 <Book Series="Justice Society of America" Number="18" Volume="2007" Year="2008">
 <Database Name="cv" Series="18052" Issue="136524" />

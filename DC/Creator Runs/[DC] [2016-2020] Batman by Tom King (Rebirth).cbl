@@ -138,8 +138,8 @@
 <Book Series="Batman" Number="37" Volume="2016" Year="2018">
 <Database Name="cv" Series="91273" Issue="647904" />
 </Book>
-<Book Series="Batman Annual" Number="2" Volume="2012" Year="2013">
-<Database Name="cv" Series="49197" Issue="419953" />
+<Book Series="Batman Annual" Number="2" Volume="2016" Year="2018">
+<Database Name="cv" Series="96128" Issue="643007" />
 </Book>
 <Book Series="Batman" Number="38" Volume="2016" Year="2018">
 <Database Name="cv" Series="91273" Issue="650886" />

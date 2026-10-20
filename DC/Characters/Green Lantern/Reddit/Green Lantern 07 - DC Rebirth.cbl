@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Name>Green Lantern 07 - DC Rebirth</Name>
-<NumIssues>153</NumIssues>
+<NumIssues>152</NumIssues>
 <Books>
 <Book Series="Hal Jordan &#38; The Green Lantern Corps: Rebirth" Number="1" Volume="2016" Year="2016">
 <Database Name="cv" Series="92182" Issue="539217" />
@@ -335,9 +335,6 @@
 </Book>
 <Book Series="Green Lanterns" Number="57" Volume="2016" Year="2018">
 <Database Name="cv" Series="91285" Issue="689019" />
-</Book>
-<Book Series="Green Arrow" Number="30" Volume="2011" Year="2014">
-<Database Name="cv" Series="42598" Issue="449542" />
 </Book>
 <Book Series="Sinestro: Year of the Villain" Number="1" Volume="2019" Year="2019">
 <Database Name="cv" Series="120574" Issue="715223" />

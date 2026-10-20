@@ -33,8 +33,8 @@
 <Book Series="Doom Patrol" Number="72" Volume="1987" Year="1993">
 <Database Name="cv" Series="3786" Issue="38036" />
 </Book>
-<Book Series="Doom Patrol" Number="2" Volume="1987" Year="1987">
-<Database Name="cv" Series="3786" Issue="28746" />
+<Book Series="Doom Patrol Annual" Number="2" Volume="1988" Year="1994">
+<Database Name="cv" Series="3997" Issue="38360" />
 </Book>
 <Book Series="Doom Patrol" Number="73" Volume="1987" Year="1993">
 <Database Name="cv" Series="3786" Issue="38195" />
