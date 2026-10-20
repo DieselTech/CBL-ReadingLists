@@ -2,7 +2,7 @@
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2018-2021 Part 4.4 Hunted (MG)</Name>
-    <NumIssues>27</NumIssues>
+    <NumIssues>23</NumIssues>
     <Books>
         <Book Series="The Amazing Spider-Man" Number="8" Volume="2018" Year="2018">
             <Database Name="cv" Series="112161" Issue="689858" />
@@ -46,26 +46,14 @@
         <Book Series="The Amazing Spider-Man" Number="16" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="701927" />
         </Book>
-        <Book Series="The Amazing Spider-Man" Number="16" Volume="2018" Year="2019">
-            <Database Name="cv" Series="112161" Issue="701927" />
-        </Book>
         <Book Series="The Amazing Spider-Man" Number="17" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="703044" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="18" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="704802" />
         </Book>
-        <Book Series="The Amazing Spider-Man" Number="18" Volume="2018" Year="2019">
-            <Database Name="cv" Series="112161" Issue="704802" />
-        </Book>
         <Book Series="The Amazing Spider-Man" Number="19" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="705911" />
-        </Book>
-        <Book Series="The Amazing Spider-Man" Number="19" Volume="2018" Year="2019">
-            <Database Name="cv" Series="112161" Issue="705911" />
-        </Book>
-        <Book Series="The Amazing Spider-Man" Number="20" Volume="2018" Year="2019">
-            <Database Name="cv" Series="112161" Issue="706940" />
         </Book>
         <Book Series="The Amazing Spider-Man" Number="20" Volume="2018" Year="2019">
             <Database Name="cv" Series="112161" Issue="706940" />
