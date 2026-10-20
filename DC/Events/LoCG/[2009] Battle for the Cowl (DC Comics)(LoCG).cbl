@@ -3,8 +3,8 @@
 <Name>[2009] Battle for the Cowl (DC Comics)(LoCG)</Name>
 <NumIssues>18</NumIssues>
 <Books>
-<Book Series="Gotham Gazette: Batman Alive?" Number="1" Volume="2009" Year="2009">
-<Database Name="cv" Series="26539" Issue="158686" />
+<Book Series="Gotham Gazette" Number="1" Volume="2009" Year="2009">
+<Database Name="cv" Series="25903" Issue="153071" />
 </Book>
 <Book Series="Batman: Battle for the Cowl" Number="1" Volume="2009" Year="2009">
 <Database Name="cv" Series="25959" Issue="153443" />
