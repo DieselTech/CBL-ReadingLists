@@ -2920,10 +2920,10 @@
 <Database Name="cv" Series="26966" Issue="162615" />
 </Book>
 <Book Series="Captain America: Reborn" Number="2" Volume="2009" Year="2009">
-<Database Name="cv" Series="26966" Issue="166223" />
+<Database Name="cv" Series="171879" Issue="166223" />
 </Book>
 <Book Series="Captain America: Reborn" Number="3" Volume="2009" Year="2009">
-<Database Name="cv" Series="26966" Issue="171208" />
+<Database Name="cv" Series="171879" Issue="171208" />
 </Book>
 <Book Series="Captain America: Reborn" Number="4" Volume="2009" Year="2010">
 <Database Name="cv" Series="26966" Issue="181437" />

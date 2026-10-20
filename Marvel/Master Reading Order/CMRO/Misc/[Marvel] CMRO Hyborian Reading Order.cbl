@@ -439,7 +439,7 @@
 <Database Name="cv" Series="2701" Issue="17699" />
 </Book>
 <Book Series="Marvel Comics Super Special" Number="2" Volume="1977" Year="1978">
-<Database Name="cv" Series="2909" Issue="17014" />
+<Database Name="cv" Series="140012" Issue="17014" />
 </Book>
 <Book Series="The Savage Sword of Conan" Number="22" Volume="1974" Year="1977">
 <Database Name="cv" Series="2701" Issue="17793" />

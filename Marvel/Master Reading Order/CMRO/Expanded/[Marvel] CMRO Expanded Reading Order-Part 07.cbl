@@ -1897,7 +1897,7 @@
 <Database Name="cv" Series="2702" Issue="67506" />
 </Book>
 <Book Series="Marvel Comics Super Special" Number="1" Volume="1977" Year="1977">
-<Database Name="cv" Series="2909" Issue="17010" />
+<Database Name="cv" Series="140012" Issue="17010" />
 </Book>
 <Book Series="Captain Marvel" Number="47" Volume="1968" Year="1976">
 <Database Name="cv" Series="2401" Issue="16865" />
@@ -2521,7 +2521,7 @@
 <Database Name="cv" Series="2406" Issue="18329" />
 </Book>
 <Book Series="Marvel Comics Super Special" Number="2" Volume="1977" Year="1978">
-<Database Name="cv" Series="2909" Issue="17014" />
+<Database Name="cv" Series="140012" Issue="17014" />
 </Book>
 <Book Series="Iron Fist" Number="15" Volume="1975" Year="1977">
 <Database Name="cv" Series="2766" Issue="17782" />
@@ -2563,7 +2563,7 @@
 <Database Name="cv" Series="2701" Issue="17888" />
 </Book>
 <Book Series="Marvel Comics Super Special" Number="4" Volume="1977" Year="1978">
-<Database Name="cv" Series="2909" Issue="18090" />
+<Database Name="cv" Series="140012" Issue="18090" />
 </Book>
 <Book Series="Tarzan" Number="1" Volume="1977" Year="1977">
 <Database Name="cv" Series="2916" Issue="17522" />

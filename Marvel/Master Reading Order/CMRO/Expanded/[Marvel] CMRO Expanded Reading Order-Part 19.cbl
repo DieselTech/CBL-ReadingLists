@@ -1573,7 +1573,7 @@
 <Database Name="cv" Series="4604" Issue="64530" />
 </Book>
 <Book Series="Youngblood" Number="10" Volume="1995" Year="1996">
-<Database Name="cv" Series="134477" Issue="131225" />
+<Database Name="cv" Series="21764" Issue="131225" />
 </Book>
 <Book Series="Youngblood/X-Force" Number="1" Volume="1996" Year="1996">
 <Database Name="cv" Series="19421" Issue="116378" />

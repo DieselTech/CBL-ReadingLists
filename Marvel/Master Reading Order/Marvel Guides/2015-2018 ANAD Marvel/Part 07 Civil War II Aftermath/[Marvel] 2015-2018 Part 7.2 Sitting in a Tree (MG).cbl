@@ -11,19 +11,19 @@
             <Database Name="cv" Series="87820" Issue="575882" />
         </Book>
         <Book Series="Spider-Gwen" Number="16" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="576633" />
+            <Database Name="cv" Series="85311" Issue="576633" />
         </Book>
         <Book Series="Spider-Man" Number="13" Volume="2016" Year="2017">
             <Database Name="cv" Series="87820" Issue="581568" />
         </Book>
         <Book Series="Spider-Gwen" Number="17" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="582544" />
+            <Database Name="cv" Series="85311" Issue="582544" />
         </Book>
         <Book Series="Spider-Man" Number="14" Volume="2016" Year="2017">
             <Database Name="cv" Series="87820" Issue="587417" />
         </Book>
         <Book Series="Spider-Gwen" Number="18" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="588574" />
+            <Database Name="cv" Series="85311" Issue="588574" />
         </Book>
         <Book Series="Spider-Man" Number="15" Volume="2016" Year="2017">
             <Database Name="cv" Series="87820" Issue="590804" />
