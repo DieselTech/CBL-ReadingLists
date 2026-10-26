@@ -117,11 +117,11 @@
 <Book Series="Grifter" Number="6" Volume="2011" Year="2012">
 <Database Name="cv" Series="42791" Issue="314979" />
 </Book>
-<Book Series="Stormwatch" Number="1" Volume="2011" Year="2012">
-<Database Name="cv" Series="42596" Issue="372804" />
+<Book Series="Stormwatch" Number="1" Volume="2011" Year="2011">
+<Database Name="cv" Series="42596" Issue="291159" />
 </Book>
-<Book Series="Stormwatch" Number="2" Volume="2011" Year="2013">
-<Database Name="cv" Series="42596" Issue="410314" />
+<Book Series="Stormwatch" Number="2" Volume="2011" Year="2011">
+<Database Name="cv" Series="42596" Issue="294118" />
 </Book>
 <Book Series="Stormwatch" Number="3" Volume="2011" Year="2012">
 <Database Name="cv" Series="42596" Issue="301015" />
