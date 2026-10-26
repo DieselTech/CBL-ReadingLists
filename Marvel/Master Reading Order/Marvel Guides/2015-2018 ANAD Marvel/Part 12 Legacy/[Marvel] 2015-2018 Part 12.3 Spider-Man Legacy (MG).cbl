@@ -105,8 +105,8 @@
         <Book Series="Venom" Number="161" Volume="2016" Year="2018">
             <Database Name="cv" Series="95845" Issue="658736" />
         </Book>
-        <Book Series="Amazing Spider-Man Annual" Number="1" Volume="2018" Year="2018">
-            <Database Name="cv" Series="113685" Issue="685832" />
+        <Book Series="Amazing Spider-Man Annual" Number="42" Volume="2017" Year="2018">
+            <Database Name="cv" Series="95808" Issue="660005" />
         </Book>
         <Book Series="Doctor Strange" Number="381" Volume="2015" Year="2018">
             <Database Name="cv" Series="85094" Issue="638595" />

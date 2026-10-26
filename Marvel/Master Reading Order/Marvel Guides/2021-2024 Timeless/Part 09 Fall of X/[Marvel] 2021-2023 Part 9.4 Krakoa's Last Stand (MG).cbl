@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Name>[Marvel] 2021-2024 Part 9.4 Krakoa's Last Stand (MG)</Name>
-    <NumIssues>51</NumIssues>
+    <NumIssues>55</NumIssues>
     <Books>
         <Book Series="Resurrection of Magneto" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="156369" Issue="1042231" />
@@ -11,6 +11,18 @@
         </Book>
         <Book Series="Resurrection of Magneto" Number="3" Volume="2024" Year="2024">
             <Database Name="cv" Series="156369" Issue="1048669" />
+        </Book>
+        <Book Series="Scarlet Witch &amp; Quicksilver" Number="1" Volume="2024" Year="2024">
+            <Database Name="cv" Series="156874" Issue="1044948" />
+        </Book>
+        <Book Series="Scarlet Witch &amp; Quicksilver" Number="2" Volume="2024" Year="2024">
+            <Database Name="cv" Series="156874" Issue="1048670" />
+        </Book>
+        <Book Series="Scarlet Witch &amp; Quicksilver" Number="3" Volume="2024" Year="2024">
+            <Database Name="cv" Series="156874" Issue="1052939" />
+        </Book>
+        <Book Series="Scarlet Witch &amp; Quicksilver" Number="4" Volume="2024" Year="2024">
+            <Database Name="cv" Series="156874" Issue="1057009" />
         </Book>
         <Book Series="Ms. Marvel: Mutant Menace" Number="1" Volume="2024" Year="2024">
             <Database Name="cv" Series="157125" Issue="1047085" />

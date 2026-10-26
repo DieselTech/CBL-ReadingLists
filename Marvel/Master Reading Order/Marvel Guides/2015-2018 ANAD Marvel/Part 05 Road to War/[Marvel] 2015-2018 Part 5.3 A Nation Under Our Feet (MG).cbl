@@ -22,41 +22,41 @@
         <Book Series="Rise of the Black Panther" Number="6" Volume="2018" Year="2018">
             <Database Name="cv" Series="107512" Issue="672290" />
         </Book>
-        <Book Series="Black Panther" Number="1" Volume="2018" Year="2018">
-            <Database Name="cv" Series="111034" Issue="670739" />
+        <Book Series="Black Panther" Number="1" Volume="2016" Year="2016">
+            <Database Name="cv" Series="89350" Issue="523248" />
         </Book>
-        <Book Series="Black Panther" Number="2" Volume="2018" Year="2018">
-            <Database Name="cv" Series="111034" Issue="675136" />
+        <Book Series="Black Panther" Number="2" Volume="2016" Year="2016">
+            <Database Name="cv" Series="89350" Issue="529651" />
         </Book>
-        <Book Series="Black Panther" Number="3" Volume="2018" Year="2018">
-            <Database Name="cv" Series="111034" Issue="680721" />
+        <Book Series="Black Panther" Number="3" Volume="2016" Year="2016">
+            <Database Name="cv" Series="89350" Issue="537932" />
         </Book>
-        <Book Series="Black Panther" Number="4" Volume="2018" Year="2018">
-            <Database Name="cv" Series="111034" Issue="686374" />
+        <Book Series="Black Panther" Number="4" Volume="2016" Year="2016">
+            <Database Name="cv" Series="89350" Issue="541195" />
         </Book>
-        <Book Series="Black Panther" Number="5" Volume="2018" Year="2018">
-            <Database Name="cv" Series="111034" Issue="690807" />
+        <Book Series="Black Panther" Number="5" Volume="2016" Year="2016">
+            <Database Name="cv" Series="89350" Issue="543747" />
         </Book>
-        <Book Series="Black Panther" Number="6" Volume="2018" Year="2019">
-            <Database Name="cv" Series="111034" Issue="693456" />
+        <Book Series="Black Panther" Number="6" Volume="2016" Year="2016">
+            <Database Name="cv" Series="89350" Issue="549511" />
         </Book>
-        <Book Series="Black Panther" Number="7" Volume="2018" Year="2019">
-            <Database Name="cv" Series="111034" Issue="694906" />
+        <Book Series="Black Panther" Number="7" Volume="2016" Year="2016">
+            <Database Name="cv" Series="89350" Issue="553947" />
         </Book>
-        <Book Series="Black Panther" Number="8" Volume="2018" Year="2019">
-            <Database Name="cv" Series="111034" Issue="697626" />
+        <Book Series="Black Panther" Number="8" Volume="2016" Year="2017">
+            <Database Name="cv" Series="89350" Issue="558409" />
         </Book>
-        <Book Series="Black Panther" Number="9" Volume="2018" Year="2019">
-            <Database Name="cv" Series="111034" Issue="701929" />
+        <Book Series="Black Panther" Number="9" Volume="2016" Year="2017">
+            <Database Name="cv" Series="89350" Issue="571657" />
         </Book>
-        <Book Series="Black Panther" Number="10" Volume="2018" Year="2019">
-            <Database Name="cv" Series="111034" Issue="704806" />
+        <Book Series="Black Panther" Number="10" Volume="2016" Year="2017">
+            <Database Name="cv" Series="89350" Issue="578451" />
         </Book>
-        <Book Series="Black Panther" Number="11" Volume="2018" Year="2019">
-            <Database Name="cv" Series="111034" Issue="706944" />
+        <Book Series="Black Panther" Number="11" Volume="2016" Year="2017">
+            <Database Name="cv" Series="89350" Issue="582518" />
         </Book>
-        <Book Series="Black Panther" Number="12" Volume="2018" Year="2019">
-            <Database Name="cv" Series="111034" Issue="710101" />
+        <Book Series="Black Panther" Number="12" Volume="2016" Year="2017">
+            <Database Name="cv" Series="89350" Issue="588556" />
         </Book>
         <Book Series="Black Panther and the Crew" Number="1" Volume="2017" Year="2017">
             <Database Name="cv" Series="100687" Issue="591749" />
