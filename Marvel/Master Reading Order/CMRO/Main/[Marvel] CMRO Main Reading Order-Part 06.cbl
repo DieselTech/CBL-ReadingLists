@@ -2563,7 +2563,7 @@
 <Database Name="cv" Series="3630" Issue="27899" />
 </Book>
 <Book Series="Peter Porker, The Spectacular Spider-Ham" Number="13" Volume="1985" Year="1987">
-<Database Name="cv" Series="3499" Issue="93533" />
+<Database Name="cv" Series="3499" Issue="554749" />
 </Book>
 <Book Series="Thor" Number="375" Volume="1966" Year="1987">
 <Database Name="cv" Series="2294" Issue="27690" />

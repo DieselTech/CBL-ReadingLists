@@ -2857,7 +2857,7 @@
 <Database Name="cv" Series="20559" Issue="172026" />
 </Book>
 <Book Series="Peter Porker, The Spectacular Spider-Ham" Number="13" Volume="1985" Year="1987">
-<Database Name="cv" Series="3499" Issue="93533" />
+<Database Name="cv" Series="3499" Issue="554749" />
 </Book>
 <Book Series="Secret Wars" Number="79" Volume="1985" Year="1987">
 <Database Name="cv" Series="51453" Issue="408214" />

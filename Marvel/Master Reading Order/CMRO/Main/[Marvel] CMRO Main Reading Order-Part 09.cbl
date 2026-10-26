@@ -724,19 +724,19 @@
 <Database Name="cv" Series="4587" Issue="34910" />
 </Book>
 <Book Series="Knights of Pendragon" Number="1" Volume="1992" Year="1992">
-<Database Name="cv" Series="21071" Issue="126261" />
+<Database Name="cv" Series="139553" Issue="126261" />
 </Book>
 <Book Series="Knights of Pendragon" Number="2" Volume="1992" Year="1992">
-<Database Name="cv" Series="21071" Issue="126358" />
+<Database Name="cv" Series="139553" Issue="126358" />
 </Book>
 <Book Series="Overkill" Number="5" Volume="1992" Year="1992">
 <Database Name="cv" Series="23464" Issue="157566" />
 </Book>
 <Book Series="Knights of Pendragon" Number="3" Volume="1992" Year="1992">
-<Database Name="cv" Series="21071" Issue="126359" />
+<Database Name="cv" Series="139553" Issue="126359" />
 </Book>
 <Book Series="Knights of Pendragon" Number="4" Volume="1992" Year="1992">
-<Database Name="cv" Series="21071" Issue="126364" />
+<Database Name="cv" Series="139553" Issue="126364" />
 </Book>
 <Book Series="Knights of Pendragon" Number="5" Volume="1992" Year="1992">
 <Database Name="cv" Series="21071" Issue="126365" />
