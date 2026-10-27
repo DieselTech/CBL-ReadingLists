@@ -1602,8 +1602,8 @@
 <Book Series="War Adventures" Number="13" Volume="1952" Year="1953">
 <Database Name="cv" Series="30549" Issue="187935" />
 </Book>
-<Book Series="Young Men" Number="19" Volume="1950" Year="1953">
-<Database Name="cv" Series="1368" Issue="188759" />
+<Book Series="Young Men on the Battlefield" Number="19" Volume="1952" Year="1953">
+<Database Name="cv" Series="75286" Issue="188759" />
 </Book>
 <Book Series="War Comics" Number="16" Volume="1950" Year="1953">
 <Database Name="cv" Series="1366" Issue="280" />
@@ -1722,8 +1722,8 @@
 <Book Series="Wild Western" Number="27" Volume="1948" Year="1953">
 <Database Name="cv" Series="1213" Issue="188749" />
 </Book>
-<Book Series="Young Men" Number="20" Volume="1950" Year="1953">
-<Database Name="cv" Series="1368" Issue="188760" />
+<Book Series="Young Men on the Battlefield" Number="20" Volume="1952" Year="1953">
+<Database Name="cv" Series="75286" Issue="188760" />
 </Book>
 <Book Series="Millie the Model" Number="41" Volume="1945" Year="1953">
 <Database Name="cv" Series="19441" Issue="185773" />

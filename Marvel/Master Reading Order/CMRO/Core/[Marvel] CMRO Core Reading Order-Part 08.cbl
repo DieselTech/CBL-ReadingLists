@@ -1932,8 +1932,8 @@
 <Book Series="The New Warriors" Number="39" Volume="1990" Year="1993">
 <Database Name="cv" Series="4407" Issue="70235" />
 </Book>
-<Book Series="Avengers West Coast Annual" Number="8" Volume="1989" Year="1993">
-<Database Name="cv" Series="4219" Issue="36650" />
+<Book Series="Avengers West Coast Annual" Number="8" Volume="1993" Year="1993">
+<Database Name="cv" Series="176631" Issue="36650" />
 </Book>
 <Book Series="The Punisher" Number="81" Volume="1987" Year="1993">
 <Database Name="cv" Series="3855" Issue="107423" />

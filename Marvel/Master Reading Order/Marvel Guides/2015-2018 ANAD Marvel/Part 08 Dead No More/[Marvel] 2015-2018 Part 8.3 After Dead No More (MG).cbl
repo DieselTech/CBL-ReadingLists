@@ -89,7 +89,7 @@
             <Database Name="cv" Series="80298" Issue="617850" />
         </Book>
         <Book Series="Spider-Gwen" Number="24" Volume="2015" Year="2017">
-            <Database Name="cv" Series="80298" Issue="625323" />
+            <Database Name="cv" Series="85311" Issue="625323" />
         </Book>
         <Book Series="Spider-Gwen" Number="25" Volume="2015" Year="2017">
             <Database Name="cv" Series="80298" Issue="630533" />
@@ -98,7 +98,7 @@
             <Database Name="cv" Series="80298" Issue="643042" />
         </Book>
         <Book Series="Spider-Gwen" Number="27" Volume="2015" Year="2018">
-            <Database Name="cv" Series="80298" Issue="647953" />
+            <Database Name="cv" Series="85311" Issue="647953" />
         </Book>
         <Book Series="Spider-Gwen" Number="28" Volume="2015" Year="2018">
             <Database Name="cv" Series="80298" Issue="656715" />

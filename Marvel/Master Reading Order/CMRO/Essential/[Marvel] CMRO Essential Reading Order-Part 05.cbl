@@ -336,8 +336,8 @@
 <Book Series="Hulked-Out Heroes" Number="1" Volume="2010" Year="2010">
 <Database Name="cv" Series="32593" Issue="206853" />
 </Book>
-<Book Series="Hulked-Out Heroes" Number="2" Volume="2010" Year="2010">
-<Database Name="cv" Series="32593" Issue="210889" />
+<Book Series="World War Hulks: Hulked-Out Heroes" Number="2" Volume="2010" Year="2010">
+<Database Name="cv" Series="176614" Issue="210889" />
 </Book>
 <Book Series="Hulk" Number="22" Volume="2008" Year="2010">
 <Database Name="cv" Series="20291" Issue="213441" />

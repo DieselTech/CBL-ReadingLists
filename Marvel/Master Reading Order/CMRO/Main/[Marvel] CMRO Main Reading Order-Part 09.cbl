@@ -117,8 +117,8 @@
 <Book Series="Namor, the Sub-Mariner" Number="20" Volume="1990" Year="1991">
 <Database Name="cv" Series="4406" Issue="34884" />
 </Book>
-<Book Series="Marvel Tales" Number="255" Volume="1966" Year="1991">
-<Database Name="cv" Series="2293" Issue="65066" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="255" Volume="1990" Year="1991">
+<Database Name="cv" Series="137722" Issue="65066" />
 </Book>
 <Book Series="Wonder Man" Number="2" Volume="1991" Year="1991">
 <Database Name="cv" Series="4603" Issue="34781" />
@@ -426,8 +426,8 @@
 <Book Series="Fantastic Four" Number="360" Volume="1961" Year="1992">
 <Database Name="cv" Series="2045" Issue="77538" />
 </Book>
-<Book Series="Marvel Tales" Number="256" Volume="1966" Year="1991">
-<Database Name="cv" Series="2293" Issue="65067" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="256" Volume="1990" Year="1991">
+<Database Name="cv" Series="137722" Issue="65067" />
 </Book>
 <Book Series="The Mighty Thor" Number="438" Volume="1989" Year="1991">
 <Database Name="cv" Series="61213" Issue="34894" />
@@ -624,8 +624,8 @@
 <Book Series="Alpha Flight" Number="106" Volume="1983" Year="1992">
 <Database Name="cv" Series="3217" Issue="35464" />
 </Book>
-<Book Series="Marvel Tales" Number="262" Volume="1966" Year="1992">
-<Database Name="cv" Series="2293" Issue="65073" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="262" Volume="1990" Year="1992">
+<Database Name="cv" Series="137722" Issue="65073" />
 </Book>
 <Book Series="The Punisher" Number="63" Volume="1987" Year="1992">
 <Database Name="cv" Series="3855" Issue="104717" />
@@ -1203,8 +1203,8 @@
 <Book Series="Ghost Rider" Number="25" Volume="1990" Year="1992">
 <Database Name="cv" Series="4397" Issue="66440" />
 </Book>
-<Book Series="Marvel Tales" Number="263" Volume="1966" Year="1992">
-<Database Name="cv" Series="2293" Issue="65076" />
+<Book Series="Marvel Tales Featuring Spider-Man" Number="263" Volume="1990" Year="1992">
+<Database Name="cv" Series="137722" Issue="65076" />
 </Book>
 <Book Series="Excalibur: XX Crossing" Number="1" Volume="1992" Year="1992">
 <Database Name="cv" Series="22615" Issue="135750" />

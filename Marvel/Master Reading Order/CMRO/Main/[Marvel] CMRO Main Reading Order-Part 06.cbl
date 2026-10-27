@@ -2706,8 +2706,8 @@
 <Book Series="Peter Porker, The Spectacular Spider-Ham" Number="15" Volume="1985" Year="1987">
 <Database Name="cv" Series="3499" Issue="93535" />
 </Book>
-<Book Series="Marvel Tales" Number="198" Volume="1966" Year="1987">
-<Database Name="cv" Series="2293" Issue="64963" />
+<Book Series="Marvel Tales Starring Spider-Man" Number="198" Volume="1981" Year="1987">
+<Database Name="cv" Series="138122" Issue="64963" />
 </Book>
 <Book Series="Alpha Flight" Number="41" Volume="1983" Year="1986">
 <Database Name="cv" Series="3217" Issue="27480" />

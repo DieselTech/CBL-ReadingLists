@@ -5,16 +5,16 @@
     <NumIssues>28</NumIssues>
     <Books>
         <Book Series="Uncanny Avengers" Number="1" Volume="2015" Year="2015">
-            <Database Name="cv" Series="85318" Issue="477857" />
+            <Database Name="cv" Series="85318" Issue="502874" />
         </Book>
-        <Book Series="Uncanny Avengers" Number="2" Volume="2015" Year="2015">
-            <Database Name="cv" Series="85318" Issue="480685" />
+        <Book Series="Uncanny Avengers" Number="2" Volume="2015" Year="2016">
+            <Database Name="cv" Series="85318" Issue="505530" />
         </Book>
-        <Book Series="Uncanny Avengers" Number="3" Volume="2015" Year="2015">
-            <Database Name="cv" Series="85318" Issue="484908" />
+        <Book Series="Uncanny Avengers" Number="3" Volume="2015" Year="2016">
+            <Database Name="cv" Series="85318" Issue="507786" />
         </Book>
-        <Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2015">
-            <Database Name="cv" Series="85318" Issue="488663" />
+        <Book Series="Uncanny Avengers" Number="4" Volume="2015" Year="2016">
+            <Database Name="cv" Series="85318" Issue="510957" />
         </Book>
         <Book Series="Uncanny Avengers Annual" Number="1" Volume="2015" Year="2016">
             <Database Name="cv" Series="86135" Issue="506186" />
